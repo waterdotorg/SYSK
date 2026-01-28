@@ -1,0 +1,632 @@
+Episode: Atomic Clocks, Ahoy!
+Date: 2024-05-02
+Duration: 52 minutes
+Episode URL: https://omny.fm/shows/stuff-you-should-know-1/atomic-clocks-ahoy
+Audio URL: https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b9dbfc5d-ec0c-4627-88c4-b164001d7780/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e
+Transcript URL: https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b9dbfc5d-ec0c-4627-88c4-b164001d7780/transcript?format=TextWithTimestamps&t=1714641035
+
+================================================================================
+
+00:00:00
+Josh: Hey, everybody, we are coming to a town ostensibly near you, so putatively see us.
+
+00:00:06
+Chuck: That's right, May twenty ninth will be in Boston, really Medford, Massachusetts. The next night we're gonna go down to Washington, DC, and then scooch back up to New York City at Town Hall on May thirty first.
+
+00:00:18
+Josh: Yeah, and if you're one of those people who likes to plan way far in advance, then you can go ahead and get tickets for our shows in August. We're gonna start out where Chuck.
+
+00:00:25
+Chuck: We're gonna be in Chicago August seventh, Minneapolis August eighth, then Indianapolis for the very first time on August ninth, and then we're gonna wrap it up in Durham, North Carolina, and right here in Atlanta.
+
+00:00:35
+Speaker 3: On September fifth and September seventh.
+
+00:00:38
+Josh: Yep. So you can get all the info you need and all the ticket links you need by going to stuff youshould know dot com and hitting that tour button, or you can also go to linktree slash SYSK Live. We'll see you guys this year. Welcome to Stuff you Should Know, a production of iHeartRadio. Hey, and welcome to the podcast I'm Josh, there's Chuck, and Jerry's back. You don't know if you guys do or not, but Jerry's back because yeah, guest producer Ben was sitting in for a while and now Jerry's back, So everybody, Jerry's back in case you hadn't heard him.
+
+00:01:19
+Chuck: Yeah, and we're back from a break. I had the spring break and they're by. You had spring break. You're welcome.
+
+00:01:26
+Josh: Yeah, thanks a lot, Thanks a lot. Where'd you go?
+
+00:01:28
+Speaker 3: One of us gets a kid? We all get a kid.
+
+00:01:31
+Josh: Yep.
+
+00:01:32
+Chuck: I went to Islo Palms again for the first time in like four years.
+
+00:01:36
+Josh: Very nice and it was great.
+
+00:01:37
+Speaker 3: It's good to be back. I love that place.
+
+00:01:39
+Josh: Did you get arrested again?
+
+00:01:41
+Speaker 3: Never got arrested there? Yeah, so I've never been arrested anywhere I know.
+
+00:01:47
+Josh: I just wanted to throw everybody off.
+
+00:01:48
+Speaker 3: Okay.
+
+00:01:49
+Josh: The casual listeners are like, oh, Chuck got arrested before.
+
+00:01:52
+Speaker 3: Okay, Yeah, to get up people, it doesn't exist.
+
+00:01:57
+Josh: So I am really excited about this one, Chuck. It'd been on my list for a while. I think I came across a top ten list about like ten weird things about atomic clocks that house stuff works, right, named Patrick Kiger wrote, Yeah, and I just had it on the list, but I hadn't really read it enough to know what was going on. And it wasn't until I started digging into the research that I was like, these things are really interesting and the idea of our modern world. You know, I soundly frozen caveman lawyer, but it's true. Like everything from air traffic control to the Internet to basically everything except talking to one another on cans connected by string, you can thank atomic clocks for it just simply wouldn't be possible without the atomic clock.
+
+00:02:50
+Chuck: Yeah, And by saying that, you're what you're saying is, and we'll dig into this more later, is that the world for everything to operate correctly tech forward world, it has to be synchronized, right, and you can't synchronize something unless everybody agrees on what time it is. And that's all an atomic clock is. It is very simply, and we'll get into the how these things work, which sounds difficult, but it's actually pretty simple.
+
+00:03:16
+Speaker 3: Still.
+
+00:03:17
+Chuck: It is the most accurate timepiece on planet Earth, and it is a self correcting clock that uses old tech in a way in the form of quartz crystals.
+
+00:03:29
+Josh: Oh you gave it away.
+
+00:03:31
+Speaker 3: Well, I mean the first thing we're going to talk about probably.
+
+00:03:37
+Chuck: Quartz crystals, which is old tech, and that it is constantly being checked and corrected using new tech in the form of the element cum one three.
+
+00:03:49
+Josh: Yeah, very well.
+
+00:03:50
+Chuck: Put just a clock that sets itself, Yeah, very often and accurately.
+
+00:03:56
+Josh: Yeah, because everybody who's ever had any experience with the clock or a watch or something like that knows that it can gain or lose time, it can drift essentially.
+
+00:04:06
+Chuck: You know what they say, though, what do they say even the worst clock is correct twice a day.
+
+00:04:12
+Josh: Yeah, they do say that. Yeah. So you mentioned quartz, right, I did. That's a big deal. And what quartz is if you've ever I had no idea what quartz was in a watch or a clock. I just had seen quartz, and you know, courts, it was like decades before I realized that wasn't a brand. That they were saying, hey, there's quarts inside, and what they're doing is boasting about how reliable their clock is. Because when we used to we used to use things like mechanical stuff like springs that you would whine, that would power a bunch of gears, and that would kind of gears. Yeah, the movement of the gears would tick off seconds.
+
+00:04:52
+Speaker 3: Right, how to gears work though.
+
+00:04:54
+Josh: Oh, we'll get into that in different episode. Right, Or you had a pendulum tickt off time something like that. And then when we move to Quurtz, what quartz does is it takes off time as well, because we figured out at some I don't know who tried this first, but if you apply an electrical current to courts, you mechanically like disfigure it. It called the Piezzo electric effect. And after you I guess as a result of that that contortion, it emits energy. It's like it's like it's a way of saying uncle. And when it emits energy, it emits it at a really reliable frequency. And we figured out how to use that reliable frequency to tell time. And it's pretty pretty nuts how complicated clocks are, and just how it kind of to me falls in line with that Arthurs cy Clark quote that any sufficiently advanced technology will be indistinguishable from magic. I think applying electricity to quartz to keep time is right up there with that kind the thing.
+
+00:06:00
+Chuck: Yeah, you mentioned it's a Pizzo electric material, and you know, we apply electricity to it just to affect it like you could. You could bend chords or smack it or flick it with your finger or something, any kind of mechanical stress on it, and it would do the same thing, and it would produce an electrical charge that's going to come out in pulses. And what those pulses do is they, in the terms of a clock or a watch, is they mimic the swinging of that pendulum. But in this case, like a pendulum ideally swings it once per second, in this case it's thirty two thousand, seven hundred and sixty eight pulses per second that that quartz crystal is emitting. And you talked about whacking it or something. It looks like if you look at like the quartz they use, it looks like a little tiny tuning fork.
+
+00:06:48
+Josh: Oh Nito, I hadn't seen that.
+
+00:06:49
+Chuck: Yeah, it's just a little itty bitty tiny tuning fork. And just like you would whack a tuning fork, and it would, you know, whatever a tuning fork does, because that's not what this is about. But that quurch does the same thing. And we'll come back to that. Thirty two thousand and seven hundred and sixty eight pulses per second a few times, because the whole idea with the development and as we get into history here of the atomic clock is the more little pulses or ticks that you have, the more accurate within a second of time, the more accurate a clock is going to be. And the development of the atomic clock has always been about just making that number as large as possible. And I guess we shouldn't reveal where we're at now, but it's in the matter of billions.
+
+00:07:40
+Josh: Well, so if you start from the say like an old grandfather clock, as a pendulum swings from one side to the other, that's a second, right, and we'll call that a tick. Ticks off a second by swinging from one side to the other. And if that pendulum is off just a little bit, say by a tenth of a second, right every ten seconds, it's going to lose a second, right because it has far fewer things to tick off. It has one tick per second, and like you were kind of hinting at, with crystals, you have thirty two thousand plus ticks per second. So if it misses one tick out of like, what if it misses a tenth of the ticks, that's far far fewer in total than it is to that one tick or that tenth of a tick that the pendulum is missing. And so the more accurate the clock is, the more it's what's called stable. And that's the goal of super precise clocks. Stability, which is it's going to measure a second exactly the same now as it will ten thousand years from now. That's stability, and that's the goal, and that's why we've started to turn to things like the atom, which if we can figure out how to measure the atom accurately, it's it's going to release x number of ticks every time anywhere in the universe if we can measure it when it's excited. And that's kind of where we're at with atomic clocks.
+
+00:09:06
+Chuck: Yeah, And if you're wondering, you know, in the terms of analog technology, with watches and clocks, they fall out of whack for a number of reasons because mainly because it's analog technology. Like a spring gets weaker over time, gears can come out of balance. Even when it comes to crystals, like when they got the quartz crystal involved, that was pretty good, like thirty two thousand and seven sixty eight pulses per second, Like that's not too bad at all, but they can. Quarts can gunkump a little bit because it's a naturally occurring thing, and we'll talk about where you find that in a minute. And temperature, atmospheric pressure, all of these things can throw even quarts out of whack because it operates really well, you know, basically at room temperature. But once you start applying you know, really cold like a watch in the really really cold weather, an analog watch are really really hot weather, is it going to be as accurate? So all of these things again, for many many, many hundreds of years, like all this stuff was fine because they just needed to tell time and get it pretty darn close, and that was good enough. But when we started going into space, when we started launching satellites, certainly when the Internet came online, we started using GPS to do things like oh a get you places, b bomb unfortunately bomb hopefully the right place from a satellite communication in a war being off a little bit can cost human lives and lose a lot of money in other cases. So accuracy and that stability was a really really important goal to reach.
+
+00:10:50
+Josh: Yeah, I found a really good kind of comparison of you know why, that's so important that accuracy. So like with quartz clock or a watch, it might lose fifteen seconds over thirty days, which is not bad if you're running a train schedule, a court swatch will do just fine, right, But if you're trying to like say, land a lunar lander on the moon, if you're off by something like a millisecond, you might overshoot the moon by like one hundred and two hundred miles three hundred or so kilometers just by a millisecond. And a lander needs to be accurate within like one hundred meters, so a millisecond off in your calculations can make you miss your your spot by like three thousand times. That's not good at all. So that's why we need this kind of accurate stuff. And there's all tons of applications, like we'll talk about it later, but it just kind of goes to show like just how vital time is when you start using it as a factor in really heavy formulas, which are the kind of formulas they used to land landers on the moon. The heaviest.
+
+00:12:01
+Chuck: Yeah, I got one more for you. A microsecond, even just a microsecond. An error in the order of a microsecond can be a three hundred meter or about three hundred and twenty something yards difference, so that's still a lot.
+
+00:12:15
+Josh: Yeah. Sure, So again you need precision, and people have been working for quite a while now to make clocks as precise as possible. Do you want to like take a break and then start talking about the history of the atomic clock?
+
+00:12:28
+Speaker 3: I think so.
+
+00:12:29
+Chuck: I think that was I mean, maybe one of our best setups ever between you and me. I don't want to get this out on the air, but okay, all right, this is just us talking.
+
+00:12:37
+Josh: We'll edit that out.
+
+00:12:39
+Speaker 3: All right, we'll edit that out. But I think we're on the right track.
+
+00:12:41
+Josh: Okay, well, we'll be right back everybody. So we have a physics, very famous physics professor named Isidor Rabbi who turned down the job of being Oppenheimer's like right hand man at Los Alamos for the Manhattan Project and instead of one often to his own thing. And one of the things he developed is he discovered nuclear magnetic resonance, and he figured out that's used in like the Wonder machine, the MRI, that's how it does its thing. He figured out how to train that into or how to use it to great effect in what's called an atomic beam magnetic resonance, which essentially is a way to trap and push around and excite atoms that you want to specifically mess with. That's that's maybe the ten thousand feet version of what atomic beam magnetic resonance is.
+
+00:13:55
+Chuck: Yeah, and when we say we're going to say things like exciting atoms, that just means they're moving around.
+
+00:14:00
+Josh: Yeah. So just I guess we could toss it out real quick now. And Adam has a ground state which is its resting state and an excited state, and it can have multiple excited states, but it's either resting or in some sort of excited state or other. Right, So Rabbi was like, hey, this nuclear beam, I have a feeling you guys could could make an atomic clock out of it. And everybody said, you guys, why don't you make it? And he said, you go make it. I he can, dare you was his famous quote.
+
+00:14:29
+Speaker 3: You do it, No, you do it.
+
+00:14:31
+Josh: So somebody went off and did it. Yeah. I think within four years the National Bureau of Standards which is now the National Institute of Standards and Technology, they said we've got this. We did it. Rabbi and He's like, what are you talking about? He had terrible forgetfulness.
+
+00:14:47
+Speaker 4: Yeah.
+
+00:14:48
+Chuck: Yeah, they said, we built the first atomic clock, and this is the earliest version. Used ammonia as the molecule and the source of the vibrations, so there were reason like copper piping to heat it up and shoot it out. It was compared to what we have today, very rudimentary. But it worked pretty well as approofed of concept, as in, hey, we can do this.
+
+00:15:13
+Speaker 3: But it was a little bit off.
+
+00:15:15
+Chuck: I think it was about a second every four months, better than quartz, but still not as good as we needed to get to. But again, it proved conceptually that an atomic clock was a thing that works better.
+
+00:15:30
+Josh: Yes, for sure. But what's strange about ammonia is it has a lower frequency, so there's less ticks per second than the quartz crystal. Does it as like twenty three thousand ticks per second or twenty and seventy hertz, right, But like you said, they figured out that, yes, you can use an atom to keep track of time. But they're like, we got to find something better than that. Let's try seasium. And in nineteen one, yeah exactly, I could not find anywhere why they decided on seasium. I know it's like neutral and maybe it's like it only maybe because it only does have two states, either ground or excited. I'm not exactly sure why, but it's a really weird element, and it's difficult to work with, especially at like room temperature, because it can just suddenly catch fire if it wants to.
+
+00:16:18
+Speaker 3: Well, I saw why they used it.
+
+00:16:20
+Chuck: You want to know, Well, all of this stuff has to deal with oscillation, which is basically, whether it's a pendulum swinging or that spring moving the gears, oscillation just means something that's moving back and forth at a regular rate. And it turns out that ccium one thirty three and when something is oscillating, and when you're speaking of like a clock or a timepiece, that's called a frequency reference, like you're literally referencing a frequency that needs to be steady. And ccium one thirty three, they found, just was the most consistent frequency reference that they could find in nature. And that was important because using something natural meant that humans all of a sudden were taken out of the equation for the first time, which was a breakthrough because it's like, this stuff is consistent till the cows come home and human hands aren't making it.
+
+00:17:14
+Josh: So no, the only thing that humans have to do is to figure out how to excite it, and once you get it excited, it's going to do the same thing every time, like I said, anywhere in the universe. Yeah, and then how to measure it. And those are like the advances in atomic clocks. Figuring out how to more accurately measure caesium atoms once you get them excited. That's kind of like the advance once they figured out how to excite seaesium and then how to measure it. They had the first atomic clock all the way back in nineteen fifty two. The thing is is they started kind of advancing by leaps and bounds because with caesium, I think, do you want to go ahead and reveal like how many ticks caesium gives off every second?
+
+00:17:54
+Speaker 3: I guess we should, huh, I think you should take it man, all.
+
+00:17:57
+Chuck: Right, So it was thirty two thousand and chain for quartz, or that pulse caesium one thirty three oscillates at nine billion, one hundred and ninety two million, six hundred and thirty one thousand and seven hundred and seventy right, that's I think we would all agree that's quite a jump from thirty two thousand and change.
+
+00:18:19
+Josh: It is. And like you said, oscillate is something that is just moving back and forth. It can also oscillate up and down. And if something oscillates up and down, what you're talking about is a wave. And if you put a bunch of waves together, you have a frequency, right if you if you have if you have a point in space that you are detecting a wave passing, and you count how many pass in one second, you're tracking the frequency of that wavelength, right, which I think in that sense as a hurts. Whatever happens in a second is a hurtz. That's the that's the old slogan.
+
+00:18:49
+Speaker 3: Yeah.
+
+00:18:50
+Josh: And so if you were if you could see the waves coming off of a caesium atom as it returns back to its ground state, it got really excited and it shoots off a photon, and the photon itself has waves where if you could, if you could just stand still and watch it pass and count the waves, you would count nine billion, one hundred and ninety two million, six hundred and thirty one, seven hundred and seventy waves passed by you in exactly one second, and it became so clear that you could literally set your watch to this kind of thing if you could figure out how to measure it. That back in nineteen sixty seven, the international community said, let's just attach the second to the caesium atom. Yeah, and the caesium Adam said, I better get some money for this.
+
+00:19:38
+Chuck: Yeah, Like, let's literally redefine what a second means based on this caesium one thirty three. Prior to that, it was based on like, you know, the sun coming up and going down. It was a solar day, so it was one eighty six thousand and four hundred thousandth man, really hard to keep my head around. One over eighty six four hundred is the average length of a solar day, just that little fraction. So they said, let's just redefine it, and I think we should go through a little bit sort of the jumps that they made. Yeah, I agree, because this is all just kind of like, I mean, who cares about this? What people really want to know is how much more accurate was this stuff in nineteen fifty nine. I believe the nineteen fifty five was the first season base clock and then in nineteen fifty nine they had an error rate of one second per two thousand years. Five years later it was second every six thousand years.
+
+00:20:38
+Speaker 3: It could lose or.
+
+00:20:39
+Chuck: Gain a second. Let me say, what's the next one nineteen ninety nine. Well, let's go to the mid seventies. First, Yeah, it was one second every three hundred thousand years, and then finally in nineteen ninety nine when they debuted the caesium fountain, which that's still what they're using today, right.
+
+00:20:58
+Josh: Yeah, that's kind of the general state of the art, although they're just still looking into new stuff too.
+
+00:21:03
+Speaker 3: How much better do you need to get it? Though?
+
+00:21:05
+Josh: They're getting it pretty good.
+
+00:21:07
+Chuck: So nineteen ninety nine it became you could lose a second every twenty million years, and then by twenty thirteen they said we can actually go back in time and say that using this method, we have not lost a second since the Big Bang.
+
+00:21:22
+Josh: Right. So that last one you mentioned is a strontium lattice clock, which is again we just talked about. Once we figure out how to measure the vibration of an atom once it's excited and returns to its ground state, it's just a question of becoming better and better at measuring it. And so they figured out that if you hold strontium atoms in laser beams form a lattice, you can basically hold them in place and measure them much more accurately. And so that's what represented that crazy amazing leap. And I was trying to figure out, like, how can they say, like, this thing would not have lost a second since the beginning of the universe. How can you possibly do that? It really is, But they know how to back it up. So what they do is they'll compare the output of one stronium clock to another stronium clock, and the difference, the biggest difference between the two. They'll take that and say that that's the discrepancy, right, And because these things vibrate at such crazy huge numbers per second, that the like the loss of like one or two waves over a second, it just adds up to these crazy huge numbers. So it lost one wave essentially for every ten to the tenth power waves, which is like I think ten billion waves, right. So when you start adding that up to the number of seconds in a day, in a year, in a century, you suddenly realize like, Okay, this thing is not going to lose a second for you know, fifteen billion years. That's how they do that.
+
+00:22:57
+Speaker 3: Amazing math is how they do it.
+
+00:23:00
+Josh: I should say, let's give matho its due for once.
+
+00:23:02
+Chuck: Yeah, all the maths as they say in England for sure. So we're going to explain how this works now. Kind of the remarkable surprise of it all is that these things and I guess it's not much of a surprise because I mentioned it at the very beginning, it could have been, but they still use quartz as part of this system. It's just it's a feedback loop that starts with a quartz crystal and ends up with the quartz crystal, and in between this science voodoo happens. That just is all about self correcting as it feeds back into that quartz crystal to be you know, shot back out again in the form of microwaves.
+
+00:23:46
+Josh: Yes, And I'm glad that you really kind of stepped up and took charge here, because when we're researching, we'll send like you know, especially day of stuff. We'll send just like little last minute details or maybe better explanations of something that we have when we're researching, and Chuck stepped up and was like, okay, let's not over explain this. This is actually kind of a simple thing in concept, and you rescue me from sheer madness.
+
+00:24:14
+Speaker 3: It is our thing though.
+
+00:24:16
+Josh: I had looked into the abyss and found atomic clocks just staring back at me, and it was something that really you really rescued me from it, and I appreciate it. I want to say hats off to you.
+
+00:24:26
+Chuck: Well, thanks, but we're not done. Oh God, like, there's still a chance to over explain this into confusion.
+
+00:24:32
+Josh: Well, then allow me to try that, all.
+
+00:24:34
+Chuck: Right, take it away, because it's all about this outermost electron, right.
+
+00:24:39
+Josh: Yeah, yeah, so with caesium, I guess then the reason they selected caesium is because it has fifty five electrons. Fifty four of them are so tightly locked in orbit around the nucleus that they basically don't get excited. Yeah, that fifty fifth outer most electron, though, it gets excited pretty easy, right, But it only gets excited when it's exposed to frequent sea of electromagnetic radiations at specifically nine billion, one hundred ninety two million, six hundred and thirty one and seven hundred and seventy cycles or hurtz.
+
+00:25:09
+Speaker 3: If you offered ice cream.
+
+00:25:12
+Josh: It gets kind of excited. Sure, yeah, but it may not fall out of its ground state. It depends. Is it Jenny's ice cream? Is it that like butter cake? Gooey butter cake? It's gonna get excited from that one. Is it just you know some dippy old you know Briars that's been in for several months. Yeah, there's no shade on briars. But if it sits there for a few months, it's kind of form ice crystals. Nobody, even the caesium Adam's not going to get excited by this.
+
+00:25:37
+Speaker 3: Yeah, what was it in?
+
+00:25:38
+Speaker 4: Uh?
+
+00:25:39
+Speaker 3: Did you see the Alfred Brooks movie Mother.
+
+00:25:43
+Josh: Albert Brooks?
+
+00:25:43
+Speaker 3: And yes, what I say?
+
+00:25:45
+Josh: I think you said Alfred Brooks and I think that's his butler.
+
+00:25:49
+Chuck: Well no, but well now that we're off on this track, you know their original name was Einstein. Albert Einstein was his name? No, Albert Brooks's name, yes, because his brother was super Dave Osborne Bob Einstein.
+
+00:26:02
+Josh: Oh my goodness, yes, I forgot about it.
+
+00:26:04
+Chuck: Obviously changed his name, but yeah, his his movie Mother with a great Debbie Reynolds.
+
+00:26:12
+Josh: Kerrie Fisher's mom.
+
+00:26:13
+Speaker 3: That's right, boy, we're just all over the place.
+
+00:26:16
+Chuck: Yep, there was a very funny joke about the ice crystals on the ice.
+
+00:26:19
+Speaker 3: Cream, and I can't remember what she called it, but something like.
+
+00:26:22
+Chuck: A protective barrier or something that it forms like to really preserve the ice cream underneath that is.
+
+00:26:27
+Josh: So that's a good one. I feel bad for Fleischmann from Northern Exposure because he has to play such a jerk and he does it so well.
+
+00:26:34
+Speaker 3: Yeah.
+
+00:26:36
+Chuck: I saw an episode of that, a couple of episodes on our last tour.
+
+00:26:39
+Josh: Actually, you know, Chuck, I think have you seen the whole series?
+
+00:26:43
+Chuck: I mean I saw it back when I was a huge Northern fan, but then watched a couple I watched the first two EPs when we were I was in the hotel in one of our towns.
+
+00:26:52
+Josh: And how did it hold up?
+
+00:26:54
+Speaker 3: You know, it held up pretty good for a show of that era.
+
+00:26:58
+Josh: Okay, great, fantastic. Did you look glad to hear that? Yeah? I loved it. I was gonna say I think that the last episode was one of the best last episodes of any show ever. I don't remember it or no, okay, sorry, not last episode. Fleischman's last episode, oh oh, when.
+
+00:27:12
+Chuck: He goes back to New York Okay, I don't remember. Did he leave in the show continued, Yeah, very little, while I don't remember this guy. When Steve Carell left the office, I was done.
+
+00:27:23
+Josh: Yeah, his last Uh. There was some moments of brilliance in there in the office after Corell left, but it wasn't Yeah, it wasn't reliably great every single episode. Yeah, and they got whackier and whackier as time went on. But that happens, especially when a showrunner leaves too.
+
+00:27:38
+Speaker 3: How do we get sidetracked? I'm talking about the ice talking.
+
+00:27:40
+Josh: About yeah, mother. And by the way, I just wanted to give a shout out to the Alfred Brooks a movie Defending Your Life so great, far and away his best movie, if you ask me.
+
+00:27:52
+Chuck: There's a really good documentary on him that's out now that Rob Reiner did in case you're interested.
+
+00:27:56
+Josh: Okay, cool, all right, So we're back to seesium and I was saying that it gets excited at that same frequency that it emits a photon at, right, That's what it takes. And so what they figured out is that you can figure you can find out if your quartz, crystal oscillat or the thing that you're using to keep time with it's super reliable. But again it gets subject to frequency drift here or there. But if you can find out how far off or whether it's keeping reliable time by comparing it to the excitement of a caesium atom. If the quartz crystal is putting out the right frequency, the caesium atom will become excited and it will shoot off a photon. And if enough of them do that in this atomic clock, this gas chamber essentially that they have, then you know that your quartz crystal is keeping the right time because it's emitting the right number of pulses itself. The thing is chuck And this is where the madness lies. For me. I don't understand how they take thirty two thousand and change hurts coming from the Qurtz crystal and translate that into nine billion and change hurts that excites the caesium atam. That's what I don't get. Do you get that?
+
+00:29:16
+Speaker 3: Well?
+
+00:29:17
+Chuck: The way I understood it is that those two things are working independently, Like the caesium is doing its thing at nine billion plus hurts, okay, just to get a more accurate measurement, and then it's sending that correction via another electronic signal. I think it goes into what's called the detector. That's to me where the magic is, because I watch a bunch of videos, even kids science videos, and it just says it goes into the detector, yeah, and then back out feeding into the courts.
+
+00:29:49
+Speaker 3: Again.
+
+00:29:50
+Chuck: I don't know what happens in that detector. I mean it's detecting.
+
+00:29:54
+Josh: Yeah. I think they're actually tracking the photons. It's one of the beauties of it. And I think that's why they kept courts crystal technology run is because it releases radio waves and we can read those really easily, so that has that's one reason they kept quts around. It keeps good time and we understand it really well. But so this is but this is where I'm thrown off, Like, are they comparing the number of ticks that the courtz is giving off to the number of ticks that the caesium atom is given off and that's the same time span and the If the two match, then you know the Courts is still keeping good time. If it's off a little bit, then you know how much to adjust it, because that caesium atom is not going to release any more waves than that number. It's just not there's never going to be seven hundred and seventy one. There's never going to be seven hundred and sixty nine. It's always going to be that nine billion number. So I guess if you compare how many of the crystal, which can have more or less over time depending on how well it's functioning, If you compare those two, then you know that your courtz clock is keeping fully act. You're at time? Is that what it is?
+
+00:31:01
+Chuck: I think that's the deal and all that it does once it reads once those atoms are like, no, you're actually off a little bit. I think it just tweaks that original electric current in the feedback loop feeding back into the courts.
+
+00:31:17
+Josh: Right, it punishes right chords crystal in the form of bank.
+
+00:31:21
+Speaker 4: No.
+
+00:31:22
+Josh: No, it's like that that one guy who's being tested for ESP at the beginning of Ghostbut no, not again.
+
+00:31:30
+Speaker 3: I mean, I think I think that's I think that's it. Great, good night.
+
+00:31:35
+Josh: So let's talk about the second a little more because I think we kind of jump past and I think it's worth including the actual definition because it's so great.
+
+00:31:44
+Chuck: Yeah, what is it now? Since the official change?
+
+00:31:48
+Josh: Yeah, so this is what they changed to in nineteen sixty seven the second. They're talking about the second. Every everybody who walks around is like, yeah, there's sixty seconds in a minute. This is the international definition of what a second is. It's the duration of nine billion, one hundred and ninety two million, six hundred and thirty one thousand, seven hundred and seventy periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium one thirty three atom. By the way, everybody, this definition refers to a caesium atom at rest at a temperature of zero calvin.
+
+00:32:24
+Speaker 3: Yeah.
+
+00:32:25
+Josh: Wow, so yeah, but you're like, okay, that that doesn't really make any sense. But now that you understand how atomic clocks are work, it does make sense. They're saying, if you have something that is timed to this, you have a second. That's a second, right there. Everybody's going to be on the same measure. That's why it's the international standard. Everyone is on the same measure, and the caesium atom is never going to give out more or less of those waves when it's excited.
+
+00:32:56
+Chuck: Yeah, and like you said, you know the reason. One of the reasons that quarts was used is because we had worked with it up until that point. We understood it. A lot of the tech was built around it. We've known how to work with it and repair things using it.
+
+00:33:14
+Speaker 3: So like, they.
+
+00:33:14
+Chuck: Didn't want to reinvent the wheel here, they just wanted to make that quartz run more perfectly. And it turned out it was, you know, sitting around in ore deposits and where what Maine and South Dakota.
+
+00:33:27
+Speaker 3: Yeah, and polar stasium comes from. It's pretty rare.
+
+00:33:30
+Josh: Yeah. And the other thing that strikes me about this Chuck too, was when we adopted that second in nineteen sixty seven and removed our seconds from the solar day because it's so inaccurate.
+
+00:33:42
+Speaker 3: Cluegi.
+
+00:33:43
+Josh: Really, we actually became better at tracking the solar day when we turned our attention to tracking the atom for use as a benchmark for time rather than the solar day. I think that's pretty neat and ironic.
+
+00:33:57
+Chuck: Yeah, I mean they've calculated that too, right, Like, because now we have what's called International Atomic Time t AI.
+
+00:34:05
+Speaker 3: It's one of those backwards French things, Yeah.
+
+00:34:08
+Chuck: Backwards French things, but now we can actually track using universal time and against the Earth's rotation, and you know, the fact that we're off because you know, things can slow the Earth down, space, dust, scan, solar winds, atmospheric resistance, the moon, you know, and gravity tugging on the Earth. So they can say now that UTC coordinated Universal Time is thirty seconds behind the TAI.
+
+00:34:40
+Speaker 3: Right, which is pretty pretty cool to be able to know that.
+
+00:34:43
+Josh: Yeah, they're like they're keeping better track of the spin of the Earth than the spin of the Earth is. Yeah, it's like it's crazy, Like they figured out that the Earth is slowing down by about two milliseconds each day. Could not have done that when you're pinning the second to one eighty six four hundredth of a solar day. You need atomic clocks to measure stuff like that. So I just think that's just fantastically neat. And they've done so many other stuff. There's so many other things with us already too. I say we take a break and we come back and talk about some of the applications for timekeeping in an ultra precise way.
+
+00:35:20
+Speaker 4: Let's do it. So.
+
+00:35:45
+Chuck: Atomic clocks were a huge leap forward, but they were very big at first. Obviously, with all kinds of tech like this, it just gets smaller and smaller. I think about twenty years ago they built an atomic clock that could be put upon a microprocessor. It's crazy, totally crazy, And it's important to point out here that there are a little more than four hundred atomic clocks all over the world and more than seventy labs operating these clocks. But you still need, like you know, one ring to rule them all. You need one clock to tell all the clocks what.
+
+00:36:20
+Speaker 3: Time it is.
+
+00:36:21
+Chuck: So the International Bureau waits and Measures averages all these atomic clocks that are operating in the world. It gives better weight to the ones that are really accurate. So if you've got a gold star because your atomic clock in your lab is super accurate, you're going to be more heavily weighted.
+
+00:36:37
+Josh: If there's a lot of known pot users in your lab, they're not going to wait it as heavily.
+
+00:36:42
+Chuck: So well, ironically we'll see here in a minute. It comes from Colorado, but it is. Then they're like, all right, this is the real time for the entire world, and then they message that out as what I mentioned earlier, International atomic time and here in the United States, or I guess in all of North America that is broadcast out from a radio station in Fort Collins, Colorado, WWVB that all American clocks sink to.
+
+00:37:12
+Josh: Yeah, there all control clocks exactly. Yeah. So if you have an atomic watch or an atomic alarm clock or something at your house, it's actually passively picking up those radio waves from WWVB, and those radio waves are telling the clock what time it is. So it's keeping accurate time because it's getting the information from from radio WWVB, Radio Free Europe.
+
+00:37:37
+Chuck: Yeah, but that's the time that they're like, all right, this is what time it is on the internet, and that's what time all your trains are gonna run and your planes are gonna take off in land. Yeah, although those are always gonna be late. But you know, if we're operating in space, if we're using GPS, and you can explain the thing you found on GPS because that was pretty cool, But all of it is set to that that agreed upon average of all those atomic clocks.
+
+00:38:03
+Josh: Yeah. And some people have their own like timekeeping stuff like if you if you have an iPhone or Android or something like that, whoever is serving that that phone has their own time servers, but their time servers are still if you trace it back far enough. Some they're getting their information from the atomic clocks that are being maintained at least in the US by the National Institutes of Standard and Technology. And then we also have to give a shout out to the US Naval Observatory. They started at first, and they still maintain their own set of atomic clocks, and they are the official timekeeper for the Department of Defense. But they're also the ones that you can call to get the accurate time. And in the United States you can call two two seven six two one four oh one, and you will hear the voice of a man from the seventies who died in the nineties who's still telling you what time it is. He apparently spent several days. Fred Goldsmith, I think.
+
+00:38:58
+Speaker 3: What's that number again?
+
+00:39:00
+Josh: Two oh two seven six two fourteen oh one.
+
+00:39:04
+Chuck: All right, I'm typing that into my phone because I had a weird urge about two months ago to call time like we did when we were kids. You could call and get time and weather. You're still chances yep, all right, I'm glad to know that's the thing, because I'm gonna I'm gonna do it from the phone that I know has all that information on it so so.
+
+00:39:23
+Josh: Yeah, I was reading like an AARP article on appropriately enough, and I think they already get the name is Fred Fred Goldsmith, right, Uh yeah, that's where I get a lot of this information.
+
+00:39:33
+Speaker 3: No, no, no, but are you getting mailers yet?
+
+00:39:35
+Josh: Uh? No, I found it on the internet.
+
+00:39:37
+Speaker 3: Okay, just way that you get your first mailer.
+
+00:39:39
+Josh: He apparently recorded every possible time it could be, including seconds, over the course of several days, and they still use these recordings to tell you what time it is.
+
+00:39:52
+Speaker 3: Amazing.
+
+00:39:52
+Josh: One of the other amazing things I saw was like they just expected this to kind of go away once smartphones became so quit, people just didn't need it anymore. Your phone is automatically communicating with your server, the time server for your phone company. Nope. In two thousand and nine, they actually started to see an increase in calls. So now people called more than they did in the early two thousands.
+
+00:40:17
+Chuck: Today, you tell me movie phone is still around, I'm gonna just quit my job and do nothing but call those numbers all day.
+
+00:40:24
+Josh: You remember when Kramer figured out that yeah or no, did did people think he had the movie phone numbers? So he started thinking being the movie phone.
+
+00:40:32
+Speaker 3: Yeah, yeah, And I think that's what happened.
+
+00:40:35
+Chuck: And when he didn't know the answers like they would be punching in the numbers, he would say, why don't you just tell me the movie?
+
+00:40:41
+Josh: That's right?
+
+00:40:43
+Speaker 3: Oh godness good classic rate A r oh Man.
+
+00:40:49
+Josh: I watched the Puffy Pirates shirt episode the other day and it was and it still holds up. Yeah.
+
+00:40:55
+Chuck: All right, so we promised talk of GPS. I didn't have time to dig into what you sent. So you've got it together enough. Can you explain how GPS works?
+
+00:41:05
+Josh: Yeah? So you mentioned that some atomic clocks can be fit under microchips. Now and you can find those microchips and board satellites that orbit space, and we have satellites that are dedicated to GPS Global Positioning System. Right, I actually found this. I got to give a shout out to Rpeds r car, who is just some random person on.
+
+00:41:27
+Speaker 3: Cora who we hope got it right.
+
+00:41:29
+Josh: Yeah, as long as they are not so masterful at mashing facts up and into you know, into lies essentially, but just covering it up perfectly, I'm pretty sure this guy got it right. But essentially what they do is you're if you're like, say you're using ways or something which I do use shout out to ways to love it. It has an on board GPS receiver somewhere. I don't know if it's in the waste server or something like that. Maybe it's using your phones. It's probably using your phone. And what it's doing is it's receiving a signal from the GPS satellite saying here's a signal of some GPS info, but also here's a timestamp that came from my own atomic clocks that I have on board this satellite. Right, And so your GPS receiver gets it, calculates how using the speed of light as part of the formula, how long it took for you to get that, and then it does it again with another satellite and another satellite, usually two or three, and based on all of the differences between how long it took for those satellites to send you that information, it can tell you within I think one hundred ten feet or ten meters I think, exactly where you are on planet Earth because it triangulates your location. And that's all thanks to atomic clocks. It wouldn't be possible to do that without atomic clocks.
+
+00:42:52
+Chuck: Yeah, So I mean, if you're geocaching, next time you get that Santana record out of the GOK. Thank an atomic clock. Thanks caesium one thirty three.
+
+00:43:04
+Josh: Yep.
+
+00:43:05
+Speaker 3: Thank the good people of Maine.
+
+00:43:08
+Josh: And uh north through South Dakota one of them.
+
+00:43:10
+Speaker 3: I think it's South Dakota.
+
+00:43:12
+Speaker 4: Uh.
+
+00:43:13
+Josh: Was that a callback to like a two thousand and nine episode? Is that what we said you could find in the geo cash things? Man?
+
+00:43:22
+Speaker 3: For a little while.
+
+00:43:23
+Chuck: I think apparently for a little while, some people were stuff you should know. Listeners were putting Santana tapes and CDs. It's awesome in geocacius. But I'm sure that's run its course.
+
+00:43:33
+Josh: Yeah, maybe not, who knows. I'll bet there's some retro geocashers that are like, I got the Santana thing going on.
+
+00:43:40
+Speaker 3: Yeah, I think I was saying, geocacias, that's not work.
+
+00:43:43
+Josh: I've heard people say that before, although maybe it was you from the episode people. Yeah, what else can you do with the stuff, chuck?
+
+00:43:52
+Speaker 4: Uh?
+
+00:43:53
+Speaker 3: I mean I think that's a pretty good summation.
+
+00:43:56
+Josh: Well, let me add let me add one more thing. You it's been used in physics experiments to its vital and physics experience because you're tracking, like say, the decay of particles and atom smashers, and that happened so fast that you couldn't do it without atomic clocks because they're tracking things in the billions of a second. Right, pretty good stuff. It's also been used more than once to prove Einstein's theory of relativity that there's gravitational time dilation depending on the effects of gravity on you and how fast you're traveling, as in relation to the speed of light, time's either going to move faster or slower for you, And so people have taken atomic clocks and put them at different elevations. There was a very famous by much no I think thirty centimeters for one experiment, and it produced differences in time time dilation. But there was a really famous experiment called the half lee Keating experiment in nineteen seventy one where they put some atomic clocks on airliners and just flew around the world and then compared them when they got back to the clocks back on Earth, and there was a clear distinction between time. It's very very slight, but it's enough to prove that, yes, Einstein's theory of gravitational time dilation is correct.
+
+00:45:10
+Chuck: Yeah, like that old thing that you will age faster living in the mountains than at sea level.
+
+00:45:15
+Josh: Yeah, it is true.
+
+00:45:18
+Chuck: But I think what they found out was if you'd live in the mountains, it'd be about ninety billions of a second. Yeah, less life over a seventy nine year lifetime.
+
+00:45:30
+Josh: So it's like, why bother even telling us that?
+
+00:45:34
+Speaker 3: Exactly?
+
+00:45:36
+Josh: There's one other thing too, so we mentioned, oh we didn't mention. I'm sorry I left this out. Those GPS atomic clocks that they have on board, very very precise. They still get updates twice a day from back here on Earth from those international timekeepers. Yeah, just to make sure that the frequency drift hasn't taken over too much. It just updates them. Right, You can't do that the further you get out from space. I mean, these satellites are only tens or dozens of miles above us. Right. As we get further and further out into space, it becomes harder and harder to communicate with Earth and to get like updates about what time it is. So they're looking to build ultra precise atomic clocks that can go out in space on board spacecrafts that can keep their own time. They don't need any updating from back here on Earth. They're going to lose so little time over such a long period of time that they will essentially stay calibrated to the time back on Earth for incredibly long periods of time through incredibly long distances out into space.
+
+00:46:42
+Chuck: Why haven't they done that yet, that was my sort of question.
+
+00:46:46
+Speaker 3: Well, they have harder they have.
+
+00:46:48
+Josh: NASA launched the Deep Space Atomic Clock in twenty nineteen, which is like a test I apparently is going very well.
+
+00:46:55
+Chuck: Yeah, okay, I was about to say, why don't they just throw one of those puppies aboard the spacecraft?
+
+00:47:01
+Josh: But they but they did, and they they're using mercury ions instead of caesium atoms or astronium. It is because so one of the things these atoms, when you have them in like a cloud chamber or whatever, they can rub up basically against the sides of the chamber and it's gonna mess with them a little bit, it's gonna mess with your measurements. Some With an ieon, you can keep it trapped in an electromagnetic field. It's not gonna mess with anything. It's not gonna rub up against anything. And so that's how it's it stays so reliable. How it's your Your measurements are going to stay reliable for a very long time because they're not interacting with you know, they're not bumping up against anything.
+
+00:47:40
+Speaker 3: Yeah, they're not slam dancing.
+
+00:47:42
+Chuck: They're doing the billy idol. They're dancing with theirselves.
+
+00:47:46
+Josh: Speaking of slam dancing, And I went to Circle Jerks and Descendants last week and it was amazing. And there are people, there's a there's a pit for sure in a long time.
+
+00:47:57
+Speaker 3: Did you look down and you me was body serving across the crowd.
+
+00:48:00
+Josh: No, but she was into it. She was there for the Descendants. I was there for the Circle Jerks. But both shows were very good. And a fan came up and said, hi, at.
+
+00:48:09
+Speaker 3: The show, I think I saw an email or something.
+
+00:48:12
+Josh: Yeah, yes, she emailed was like, I'm sorry if it was like awkward or weird, And it wasn't awkward or weird at all.
+
+00:48:19
+Speaker 3: Yeah, I'm sure it was wonderful.
+
+00:48:20
+Josh: But it was a very good show. And if you have a chance to see Descendants in Circle Jerks and you like punk, go see it because it's awesome. It's very good.
+
+00:48:29
+Speaker 3: Still at it. I love it.
+
+00:48:30
+Josh: Yeah. If you want to know anything more about atomic clocks, you can find a whole rabbit hole to go down. See if you can escape madness yourself. In the meantime, it's time for listener mail.
+
+00:48:45
+Chuck: This is one that we've tried to get on recently. It's another Peanuts one, but this is a standout. Hey, guys, Charles Schultz was a huge part of my childhood, though I never never met the man. He spent a short amount of time living in Colorado Springs early in his career. While living there, painted a mural on the nursery room in the house that had many early depictions of the Peanuts characters. Years later, long after he moved out, my grandparents, Stan and Polly Trabnachek bought the house. Over the years, they heard rumors from neighbors that Al Schultz had lived there and painted a wall. At this point, the wall had been painted over several times, but my grandma is an amateur painter, you know a thing or two about paint. So after lots of deliberating and researching, she decided to try and remove the layers of paint over the mural bit by bit using cotton swabs. Wait to go, man, I love Polly Trabnachek for doing this, because it would have been lost the time the wall and all the characters were revealed. Many of my childhood memories involved that wall. My parents, my grandparents sorry, would even give free tours of the wall to anyone interested. And this gets so great. When mister Schultz passed away, my grandparents reached out to the family offered to donate the wall to be a part of the Schultz Museum. So the estate core NATed to have that wall literally cut from the house, loaded onto a truck and shipped to California. I will never forget that cold, rainy fall day in Colorado was around nine or ten years old. The Schultz family treated my grandparents like cherished friends for years after that, and even flew them out first class to be there for the opening of the museum. Mister Schultz was a wonderful man, had an amazing family and made the world a better place. And that is for Mike de Youong and I saw pictures and it was really pretty unbelievable. You can google this wall and look it up, and I can't imagine the effort that his Granny Travnacheck, Nana Travna Check Nana Travnacheck put forth to tediously, meticulously expose that great work of art.
+
+00:50:48
+Josh: Also, Chuck, She was researching this at a time where you had to like go to the library to find stuff this out and they ruined it. Yeah, oh easily it could have been like that monkey g this art restoration thing, you remember that, uh huh okay. And I also want to point out that the Schultz Museum flew them out first class, back when first class actually meant something too oh burn. So yeah, there it is the most triumphant, greatest Peanuts email we received from that episode. We got a lot of good ones, but Mike Dion took the cake. So thanks for telling us all that, Mike, and hats off to Granny Nana travna Check and the whole family and the Schultz Museum. That was pretty cool stuff. If you want to get in touch with us like Mike did, we'd love to hear from you via email at stuff podcast at iHeartRadio dot com. Stuff you Should Know is a production of iHeartRadio.
+
+00:51:45
+Chuck: For more podcasts my Heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows.

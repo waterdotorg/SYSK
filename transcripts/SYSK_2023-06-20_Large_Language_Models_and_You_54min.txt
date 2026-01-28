@@ -1,0 +1,371 @@
+Episode: Large Language Models and You
+Date: 2023-06-20
+Duration: 54 minutes
+Episode URL: https://omny.fm/shows/stuff-you-should-know-1/large-language-models-and-you
+Audio URL: https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1f82800b-4be5-4da8-b156-b02700ba6163/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e
+Transcript URL: https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1f82800b-4be5-4da8-b156-b02700ba6163/transcript?format=TextWithTimestamps&t=1714002316
+
+================================================================================
+
+00:00:01
+iHeart Intro: Welcome to Stuff You Should Know, a production of iHeartRadio.
+
+00:00:11
+Josh: Hey, and welcome to the podcast. I'm Josh, and there's Chuck and Jerry's here too, And that makes this a timely topical Not timely is in fork times. I meant to say timely topical episode of Stuff you should Know. That's a great forecast of.
+
+00:00:29
+iHeart Intro: How it's going to go to I think fork cast. Oh God, is this really us or is it AI generated Josh and Chuck.
+
+00:00:42
+Josh: Until this year I would have been like, don't be preposterous. Now I'm like, just give it some time.
+
+00:00:51
+iHeart Intro: You know how we would know as if it said if one of us said, of course it's the real Us. We met in the office and bonded over our Van Halen denim vests.
+
+00:01:01
+Josh: Yeah, we'd be like, sucker, you just fell for the oldest trap in the book, the Sicilian switcher.
+
+00:01:08
+iHeart Intro: Yeah, aka fake Wikipedia entry stuff?
+
+00:01:12
+Josh: Is that still up?
+
+00:01:13
+iHeart Intro: I haven't been to our Wikipedia page in years, so I don't know.
+
+00:01:17
+Josh: Well, regardless, we're not talking about Wikipedia, although it does kind of fall into the sure it figures in the rubric of this. Not sure if I use that word correctly, but it felt right. We're talking today about what are in the biz known as large language models, but more colloquially known by basically their their public facing names, things like chat, GPT or barred or being AI. But essentially what they all are are algorithms, artificially intelligent algorithms that are trained on text, tons and tons and tons of text written English language stuff, that are so good at recognizing patterns in those things that they can actually simulate a conversation with you, the person on the other side of the computer, asking them questions.
+
+00:02:10
+iHeart Intro: Yeah, this is it's gonna be fun doing this episode over every six months, right until we're replaced totally.
+
+00:02:19
+Josh: So I think we should say, though, like this is we're going to like this is such a huge wide topic that is just we're in the ignition phase, like the fuse just caught, right, Yeah, that we're going to really try to keep it narrow just strictly to large language models and the immediate effect they're planning on having or they're going to have, hopefully not planning on anything yet, but I really would like to do one on how to keep AI friendly and keeping it from running away. Yeah, I say, we just kind of avoid that whole kind of stuff. And really I'm talking to myself right now at least for this episode.
+
+00:02:56
+iHeart Intro: Okay, Yeah, you know, we're going to kind of explain how these things were and what the initial applications look like and kind of where we are right now, and then what it could mean for like jobs and the economy and stuff like that. But you're right, it is as a whole ball of wax, as you well know. And this is a great time to plug the End of the World with Josh Clark, which is still out there. You can still listen to it.
+
+00:03:20
+Josh: The truth is out there in the form of the End of the World with Josh Clark.
+
+00:03:24
+iHeart Intro: Yeah, it's a great ten part series that you did, and AI is among those existential risks existential that you covered.
+
+00:03:34
+Josh: Yeah, it's episode four, I believe. And Chuck like just from having done that research in forming my own opinions over the years about this. Yeah, Like I'm it's staggering to me that we're like we've just entered like what's going to be the most revolutionary transitional phase in the entire history of humanity. You can argue everything else took place over very long periods of time. We started playing with stone tools and then we started building cities. All this stuff took place over thousands and thousands, hundreds of thousands, millions of years. We just entered a period where stuff's going to start happening within weeks pretty soon. As of twenty twenty three, the whole thing just started.
+
+00:04:19
+iHeart Intro: Yeah, and none of this was around like this when you did The End of the World and that was what like five years ago.
+
+00:04:26
+Josh: Is Yeah, it was twenty eighteen. All this was being worked on, but we hadn't hit that point. Like all this was pretty much predicted and projected, and it was clear that this was the direction people were going.
+
+00:04:36
+iHeart Intro: And it's here, baby, it is.
+
+00:04:37
+Josh: It's nuts, but it's actually here. So we're talking about our large language models, which is a type of neural network that are easiest to think of in terms of like a human brain, where you have neurons that are connected to other neurons, but they're not connected to some other neurons, and all of those neural connections kind of are activated by input. It's that put out something like your conscious experience or you say a sentence or something like that. It's it's very similar in its most basic nature.
+
+00:05:10
+iHeart Intro: I guess, yeah, I mean Olivia helped us out with this, and che did a great job. I think and Google themselves basically say, you know what it's really it's sort of like how when you go to search for something on our search engine tool here a weird way I could have said that, I don't think so are handy search for Then you know, basically what we're doing is auto completing, like an analysis of like probability, like like what you're typing. If you type in you know, John Coltrane, or start to chop type in John Cole, that might finish it out as John Coltrane a Love Supreme or John Coltrane jazz and they're saying, you know what, what is happening now with these lms is it's the same thing. It's just it's got way more data, way more calculations in the algorithm. So it's not just completing like a word or two. It's potentially you know, hey, rewrite the Bible or whatever you tell it to do.
+
+00:06:13
+Josh: Yeah, And the big difference is in the amount of info the neural network is capable of taking into consideration. Yeah, so may I for a minute, oh please, So imagine with one of those autocomplete suggestion tools like they have on Google Search. If there's five hundred thousand words in the English language, that means that you have five hundred thousand words that a person could possibly put in. That's the input into the neural network, and then there's five hundred thousand possible words that that network could put out. So you have five hundred thousand connections to five hundred thousand other connections. So it's like, I think two hundred and fifty billion connections you're starting with right there. That's just the autocomplete suggestion because it based on those connections. In studying words in the English language and phrases in the English language, it places emphasis more on some connections than others. So John Coltrane is what's what's his album I Can't Remember is a Love Supreme classic album. So John Coltrane is much more closely related to a Love Supreme in the mind of a neural network than John Coltrane. Charlie Brown disco is right, just to take something off the top of my head. And so based on that analysis and that weight that it gives to some things other than others, it suggests those words what the large language models that like chat GPT, that we're seeing today. They do the same thing. They have all those same connections, but the analysis they do, the weight that they put on the connections is so much more advanced, yes, and exponential that it's it's actually not just capable of suggesting the next word, it's capable of holding a conversation with you. That's how much it understands how the English language works.
+
+00:08:04
+iHeart Intro: Yeah, Like if you said, you know, write a story about wintertime, and you know, it got to the word snowy, it would it would go through you know, I mean, and this is like instantaneously it's doing these calculations. It might say like you know, oh, hillside or winter or snowy day, like these are all things that make sense because I've learned that that makes sense I being you know, the chatbot or whatever. But it probably won't be snowy chicken wing because that doesn't seem to fit the algorithm. And it learns all this stuff by reading the internet. And you know, put a pin in that, because that's pretty thorny for a whole lot of reasons, but not the least of which is the fact that some companies, and again we'll get to it, are starting to say like wait a minute, Like, we created this content and now you're just scrubbing it and then using it and charging people to use it, and we're not getting a piece of it. So that's just one tiny little thorn. But in order to do this, like you said, it's like it needs to know more, and you came up with a great example, like the word lemon. In a very basic way, it might understand that a lemon is roundish and sour and yellow. But if it needs to get smart enough to really write as if it were a human, it needs to know that it can make lemonade, and that it grows on a tree in these agricultural zones, and that it's a citrus fruit, because it has to be able to group lemon together with like things. And those groups are either like, you know, hey, it's super similar to this, like maybe other citrus fruits, or it's you know, sort of similar to this but not as similar as citrus fruits, like desserts. And then you get to chicken wings, although actually that's not true because lemon chicken wings.
+
+00:10:00
+Josh: You could have lemon pepper chicken wings.
+
+00:10:01
+iHeart Intro: Right, Yeah, that's what I'm saying, So yeah, Kau, But the instance you use is like greenland, which I guess doesn't grow lemons.
+
+00:10:08
+Josh: No, but I mean, I'm sure they import lemons, so there's some connection there. But based on how connected, how often these words show up together, and the billions and billions of lines of texts that these language large language models are trained on, it starts to get more and more dimensions and making more and more connections. Right. So as that happens, words start to cluster together, like lemon and pie and ice box all kind of cluster together. And by taking words and understanding how they connect to other words, you can take the English language, just the words of the English language, and make meaning out of it. That's what that's all we do. And large language models are capable of doing the same thing. But it's really really important for you to understand that the large language model doesn't understand what it's doing. It doesn't have any meaning to the word lemon whatsoever. All of these dimensions that it waits to decide whether what word it should use next, they're called embeddings. They're just numerical representations. Yeah, So the higher the number, the likelier it is it goes with the word that the user just put in or that the large language model. Just use the lower the number, the further away it is in the cluster, right, it doesn't understand what it's saying to you. And as we'll see later, that accounts for a phenomenon that we're going to have to overcome for them to get smarter, which is called hallucinations. But that's a really critically important thing to remember.
+
+00:11:43
+iHeart Intro: Yeah, Another critically important thing to remember is and you probably get this from what we said so far if you already know about a little bit about it, But there's no programmer that's teaching these things and typing in inputs and then saying here's how you learn things. Like it's doing this on its own, and it's learning things on its own, and what we're talking about eventually like that. You know, where it could get super scary is when it gets to what's called emergent abilities, where it's so powerful and there's so much data that the nuance that's missing now will be there right exactly.
+
+00:12:21
+Josh: So, yeah, that's when things are going to get even harder to understand, you know, to remind yourself that you're talking to a machine, you know.
+
+00:12:31
+iHeart Intro: Yeah, And the other thing too, though, even though I said humans aren't in putting this data. One of the big things that is allowing this stuff to get smarter is human feedback. It's called r l HF, which is reinforcement learning on human feedback. So at the end of your whatever you've told it to create, you can go back in and say, well, you got this wrong and this wrong, this is what that really is, and it says, thank you, I have now just gotten smart.
+
+00:13:01
+Josh: Exactly. So one of the reasons why these things are suddenly just so smart and can say thank you, I've just gotten so much smarter is because of a paper that Google engineers published openly in twenty seventeen describing what's now like the essential ingredient for a large language model or probably any neural network from now on. It's called a transformer. And rather than analyzing each bit of text, let's say you say one of the very famous things. Marvin Minsky was one of the founders of the field of AI, and his son Henry prompted chet Gpt to describe what losing a sock in the dryer is like in the style of the Declaration of Independence. Right, So depending on how Henry Minsky type that in before transformers the neural network would analyze each word and do it one increment and a time, maybe not even words, sometimes strings of just letters together, phone names even if you can believe it, phone names even And what the transformer does is it changes that. It allows it to analyze everything all at once. So it's so much faster, not just in putting out a coherent answer to your question or request, but in also training itself on that text. So you just feed it the internet and it starts analyzing it and self correcting. It trains itself, It learns on its own, and that unfortunately also makes AI, including large language models what are known as black boxes. Yeah, we don't know how they're doing what they're doing. We have a good idea how to make them do the things we want, but the in between stuff, we cannot one hundred percent say what they're doing. How they come up with these conclusions, which also explains hallucinations in them not really making sense to us.
+
+00:14:53
+iHeart Intro: Yeah, and you know, the T in GPT stands for transformer. It's generative pre trained transformer. And the reason they call it GPT for short is because if they call it generative pre trained transformer, everybody would be scared out of their minds.
+
+00:15:10
+Josh: We just start running around to nowhere in particular.
+
+00:15:14
+iHeart Intro: Yeah, should we take a break, I say, we do.
+
+00:15:17
+Josh: I think that we kind of explained that fairly well.
+
+00:15:20
+iHeart Intro: Yeah, fairly robust beginning, my friend. All right, So open Ai launched their chat GPT and very recently in November of twenty twenty two, and just in that brief window was like six or eight months ago. Things are kind of flying high, and all kinds of companies are launching their own stuff. Some of it is well. First of all, open ai is now at chat GPT four, yes, and I'm sure you know more will be coming in quick succession. But companies are launching, and we're going to talk about all of them kind of like broad stuff like chat, BT GPT and really specific stuff like well, hey, I'm in the banking business. Can we just design something for banking or just something for real estate? So they're also getting specific on a smaller level in addition to these large like Google and Microsoft and Being and all that stuff.
+
+00:16:41
+Josh: Yeah, And to get specific, all you have to do is take an existing GPT, a large language model, and add some software that helps guide it a little more. Yeah, and there you go or just train it on specific stuff like medical notes. That's another one one of the other things that's that's changed very quickly between November of twenty twenty two in March of twenty twenty three, when I think GPT four became available. Just think about that. That's that's such a short amount of time. Yeah, all of a sudden. Now you can take a picture and feed it into a large language model and it will describe the picture. It will look at the picture essentially and describe what's going on. There's a there's a demonstration from one of the guys from open Ai who doodles like on a little like scrapbook piece of paper some ideas for a website. He takes a picture of that paper that he's written on, feeds it into chat GPT four, and it builds a website for him in a couple of minutes. That functions the way he was thinking of the on the doodle scratch pad.
+
+00:17:54
+iHeart Intro: I wonder if the only way to slow this stuff down is to literally slow down the Internet again. Go back to like the old days when a picture would load like three lines at a time, right, and they describe a picture will be like someone's hair, someone's nose, someone's gin. Don't forget between Yeah, an hour later you have a complete picture.
+
+00:18:15
+Josh: Right. I don't think there's any way to slow this down because we're in not to be alarmist, but we're in a second worst case scenario for introducing AI to the world, which is, rather than state actors doing this, which would be really bad, we have private companies doing it, which is just slightly less bad. But they're competing in an arms race to get the best, brightest, smartest AI out there as fast as they can, and they're not taking into account like all of the downsides to it. They're just throwing it out there as much as they can. Because one of the ways that these things get smarter is by interacting with the public. They get better and better at what they do from getting feedback from people using them.
+
+00:19:02
+iHeart Intro: Yeah, even if it's for just some goofy fun thing you're doing, it's learning from that. And you talked about the advancements made between the launch of three point five and GPT four, and three point five scored in the tenth percentile when it took the uniform bar exam, and four has already scored in the ninetieth percentile, and they found that chet GPT four is really it's great at taking tests, and it's scoring really well on tests, particularly you know, standardized tests. All. I think it basically aced all of the AP tests that you would take to get into AP classes except well, it took a couple of AP class but the max score is five, and I think it got five's kind of on everything except for math. It got a four and math it's kind of it's we it's kind of weirdly counterintuitive because it's a number space thing, but it has more trouble with math, like rudimentary math, than it does with like constructing a paragraph on you know, Shakespeare or something, or as Shakespeare does better with like math word problems and more advanced math than it does just at basic math apparently, or.
+
+00:20:20
+Josh: Like describing how a formula functions using you know, writing. The thing is though, and this is another great example of how fast this is moving. They've already figured out that all you have to do is do what's called prompting where you where you basically take the answer that the the incorrect answer that the large language model gives you, and then basically re explain it by breaking it down into different parts, and it learns as you're doing that, and then all of a sudden it comes up with it gets better at math. So they've figured out tools, extra software you can lay over a GPT that basically teach it to do math or prompt it in the correct way so that you get the answer you're looking for that's based on math.
+
+00:21:05
+iHeart Intro: Yeah. I mean, every time I read something that said, well, right now, it's not so great at this, I just assume that meant and we'll have that worked out in the next few weeks.
+
+00:21:15
+Josh: Yeah, pretty much. I mean, because as these things get like bigger and smarter, in the data sets that they're trained on get wider, they're just going to get better and better at this because they again they learned from their mistakes.
+
+00:21:29
+iHeart Intro: Yeah, just like humans, right, exactly like humans. So you mentioned these hallucinations kind of briefly, and this this is one of the big problems with them so far that again I'm sure they will figure this out in due time. But one example that Livia found was to prompt it with what mammal lays the largest eggs. And one of the problems is when it gives hallucinations or wrong answers it. You know, it's not saying like, well, I'm not so sure about this. It's saying this is true, just like anything else. I'm spitting out right with a lot of confidence. So the answer there was the mammal that lays the largest eggs is the elephant, and elephant's eggs are so small that they are often visible to the naked eye, so they're not commonly known to lay eggs at all. However, in terms of sheer size, and elephant's eggs are the largest of any mammal.
+
+00:22:18
+Josh: Which makes sense in a really weird way if you think about it.
+
+00:22:21
+iHeart Intro: Sure, those little invisible eggs.
+
+00:22:23
+Josh: Yeah, because mammals don't lay eggs obviously, But the way that it put it was if you didn't know that mammals don't lay eggs, or you didn't know anything about elephants, you'd be like, oh, that's interesting, and take that as a fact, because it's saying this confidently. And I saw written somewhere that one GPT actually argued with the user and told them they were wrong when they told the GPRIT that it was wrong, Yeah, which is not a behavior you want at all. But that's what's termed as a hallucination, and a hallucination is a good way to understand it. That I saw is that again, this GPT, this large language model, doesn't have any idea what it's saying means. It's just picked up it's noticed patterns that we've not noticed before, and it's putting them together in nonsensical ways. But they're still sensible if you read them. It's just factually they're not sensible because it doesn't have any fact checking necessarily, it just knows what it's finding kind of correlates with other things. So there's some sensible stuff in there, like the phrase invisible to the naked eye, or laying eggs or elephants in mammals. Like this stuff all makes sense. It's not like these are just strings of letters. Yeah, it's just putting them together in ways that are not true. They're factually incorrect, and that's a hallucination. It's not like the computer is thinking that this is true. It doesn't understand things like truth in falsehood. It just creates, and some of the time it gets it really wrong.
+
+00:24:00
+iHeart Intro: Yeah, I didn't know what an elephant is.
+
+00:24:03
+Josh: No, it just knows that it correlates to in some really small way. That we've never noticed before the word eggs.
+
+00:24:11
+iHeart Intro: Yeah, and this is uh that that's a problem if if it's just like, oh, well, this thing isn't quite where it needs to be at because it thinks elephants lay eggs. But there have already been plenty of real world examples where people are using this and it's screwing things up for their business or for commerce or something where the yeah, or their client, well, that's that's one. There was an attorney who was representing a passenger who was suing an airline and used chat bt to do research, and it came up with a bunch of fake cases that this attorney didn't bother to fact check, I guess. And there were like a dozen fake cases that this attorney submitted in his brief.
+
+00:24:52
+Josh: And it wasn't like so like from what I understand, like the the brief was largely compiled from what the GPT spit out. The It wasn't like the GPT just made up the names of cases. It made up the names of cases and then described the background of the case and how they related to the case at hand, right, So it just completely made these up out of out of the blue. And yeah, that lawyer had no idea. He said in a brief later that he had no idea that this thing was capable of being incorrect. So it was like one of the first times he used it, and he threw himself on the mercy of the court. And I'm not quite sure exactly what happened. I think they're still figuring out what to do about it.
+
+00:25:29
+iHeart Intro: Maybe just go spend some quality time with your little chat butt exactly.
+
+00:25:34
+Josh: Similarly, Meta had a large language model that basically got laughed off of the Internet because it was very science focused and it would make up things that just didn't exist, like mathematical formula, like there was one that called the yoko or no, the lenin Ono correlation or something like that completely made up this thing that I read, and I was like, oh, that's interesting. I had no idea. I have never heard this stuff before, and I would have just thought that it was real had I not realized and known ahead of time that it was a hallucination that this math thing does not exist anywhere. And it even attributed it to a live mathematician said that this was the guy who discovered it. So like, it really can get hard to discern what's true and what's not, which again is a really big problem if we haven't gotten that cross yet.
+
+00:26:26
+iHeart Intro: Did they say that mathematician's name was math be calculus. Yeah. Another example, and this is, you know, we're going to talk a little bit about you know, replacing jobs in the various ways that can and already is happening. But seeing that, for instance, said oh, you know what, let me try this thing out and see if we can get it to write an actual story. And so they got an AI tool to write one on what is compound interest, and it was just there was a lot of stuff wrong in it. There was some plagiarism, you know, directly lifted. So there's you know, these things aren't fool proof yet, and it's definitely not something that should be utilized for like a public facing website that's supposed to have like really solid vetted articles about uh well, especially seen it about a tech right of all things.
+
+00:27:21
+Josh: That's something that the National Eating Disorder Association found out the hard way. They apparently replaced entirely it's human staffed hotline with the chatbot, and supposedly they were accused of doing this to bust the union that had formed there and so when they released the chatpot into the world and it started offering advice to people suffering from eating disorders. It gave standard, you know, weight loss advice, which you probably get from your doctor who didn't realize you had an eating disorder, but in the context of an eating disorder, it was all like trigger, trigger, trigger, one right after the other. Right, Like, it was telling these people with eating disorders to like, weigh yourself every week and try to cut out five hundred to one thousand calories a day and you'll lose some weight, and just stuff that that would set everybody off. And very quickly they took it offline and I guess brought their humans back, hopefully at double the pay.
+
+00:28:16
+iHeart Intro: Yeah. But I mean this stuff is that's already being solved as well, because they point out that GPT four has already scored forty percent higher than three point five, again just a handful of months ago on these accuracy tests, so that that is even getting better. And you know, where where I guess people want it to get to is to the point where it doesn't need human supervision to spit out really really accurate stuff exactly.
+
+00:28:45
+Josh: That's pretty much where they're hoping to get it. And I mean it's just they have the model, they have everything they need. They just it just has to be tinkered with.
+
+00:28:54
+iHeart Intro: Now, should we take another break? I think so, all right, we'll take another break and then get into sort of the the economics of it and whether or not your job may be at risk right after this.
+
+00:29:29
+Josh: So one of the astounding things about this that it really caught everybody off guard is that these large language models, the jobs they're coming after are white collar knowledge jobs. They're so good at things like writing, they're good at researching, they're good at analyzing photos. Now and that's a huge sea change from what it's been like traditionally. Right wherever whenever we've automated things, it's usually replaced manual labor. Now it's the manual labor that's safe in this Yeah, this generation of automation, it's the white collar knowledge shops that are at risk. And not just white collar job but artists in yeah, like just who have nothing to do with white collar or jobs, they're at risk as well.
+
+00:30:17
+iHeart Intro: Yeah, I'm sure the farmers are all sitting around going, how's that going for you?
+
+00:30:22
+Josh: Yeah, how's that taste? Uh?
+
+00:30:24
+iHeart Intro: So? Yeah, art art is when when d A L L. E. Doll E came out, that was an art tool where a lot of people, a lot of people I know, would input. I guess I never did it. I never do anything like that, not because I'm afraid or anything, but I just just not interested basically. But I guess you would submit, like a photograph of yourself and then it would say, well, here's you as a superhero or here's you as a Renaissance painting or whatever. And you know, it's sourcing images from real artists throughout history, from Getty Images and places like that, and there are are ready artists that are suing for infringement. Getty Images is suing for infringement and saying you can't even if you're mixing up things and it's not like a Rembrandt. Let's say you're using all of the artists from that era and mashing it up together in a way that, like we think basically is illegal.
+
+00:31:21
+Josh: Yeah, they say this doesn't count as transformative use, which is typically protected under the law. Right, this is instead just some sort of mash up that that a machine is doing. It's to me, it's almost splitting hairs. But I also very much get where they're coming from not just a place of panic, but like they're a real like they have a basis in fact that these things are not transforming because they don't understand what they're doing.
+
+00:31:52
+iHeart Intro: Yeah, and companies are taking notice very quickly. There are some companies I'm sure everyone's going to kind of fall in line, that are already saying, well, no, you got to start paying us for access to this stuff. We paid human beings to create this content for lack of a better word, and put it online for people to access. But you can't come in here now and access it with a bot and use it and charge for it without giving us a little juice. And there are a lot of companies that are already saying like, you can't use this. If you're an employee of our company, you can't use chatbots at all because some of our company's secrets might end up being spilled somehow, or you know, our databases are all of a sudden exposed. So companies are really moving fast to trying to protect their ip I guess.
+
+00:32:44
+Josh: Well, yeah, and one of the I mean some of the companies that are behind the GPTs that are out right now, the large language models that are out right now are well known for not only not protecting their users information, but for rating it for its own use. Like, for example, Meta is one of the ones with They have their large language models called Lama, and there's a chatbot called Alpaca. And it makes total sense that you are probably signing away your right to protect your information when you use those things on whatever computer you're using it on or whatever network you're using it on. I don't understand exactly. I haven't seen anything that says this is how they're doing it, or even that they are definitely doing this. I think it's just that the powers that be no, like they would totally do this if they can, and they probably are, so we should just stay keep our employees away from it, you know, as much as we can.
+
+00:33:42
+iHeart Intro: Yeah, it's like we said, it's being used on smaller levels by One of the uses that Livia dug up was like, let's say a real estate agent, instead of taking time to write up listings, has a chatbot to it, and then they can go through afterward and make adjustments to it as needed.
+
+00:34:01
+Josh: Well, in exchange, that database now knows exactly what you think of that one ugly bathroom.
+
+00:34:07
+iHeart Intro: That's right, or doctors may be using it to compile lists of possible diseases or conditions that someone might have based on symptoms. These all sound like uses that are like, hey, this sounds like it could be a good thing in some ways, and it can be in some ways. But it's the wild West right now, so it's not like there's any there's anyone saying, well, you can't use it for that, you can only use it for this, you know what I'm saying.
+
+00:34:37
+Josh: Plus, also, everything that we've come up with as just Internet users in the general public has been what we could come up with in given three months, with no warning that we should start thinking about this. It's just like, hey, this is here, what are you going to do with it? And people are just finding new things to do with it every day, And yeah, some of them are benign, like having a draft a blog post for your business. I thought they were already doing that based on some of the emails that I get from like businesses, right, Yeah, but they definitely are now if they weren't before. And that's totally cool because there's there's a it's just taking some of the weight off of the humans that are already doing this. Work. Right, what's going to be problematic is when it comes for the full job, or enough of the job that the company can transfer whatever's left of that person's job to other people and make them just work a little harder while they're supported by the AI.
+
+00:35:39
+iHeart Intro: Yeah, here's some stats that they were pretty shocking to me. I didn't know it was moving this fast. But there's a networking app called Fishbowl and in twenty twenty three, just earlier this year, they found that forty percent of what they call working professionals are already using some kind of either chat, GPT or some kind of AI tool while they work, whether it's generating idealists or brainstorming lists, or actually writing stuff or maybe looking at code. And this is the troubling part. Forty of those forty percent, almost seventy percent are doing that in secret and hadn't told their bosses that they were doing that.
+
+00:36:21
+Josh: Right, those are just working professionals. We haven't even started talking about students yet.
+
+00:36:25
+iHeart Intro: Yeah. I mean you combine that with work from home, you got a real racket going on.
+
+00:36:29
+Josh: For sure, you know. Yeah, no, totally again though, I mean, like if you can use it to do good work, and you can now do more work. I think you should be paid for more work. Like if your productivity's gone through the roof, great, you figured it out. I've got no problem with that. It's the opposite that I have the problem with.
+
+00:36:48
+iHeart Intro: Well, let's skip students for a second and then and talk about that since you brought it up, Because here's the thing this is the United States doesn't have a G eight track record of ignoring the bottom line in favor of just keeping hardworking humans at their jobs. So I think it was a Goldman. Sachs said that they found that there could actually be an increase in the annual GDP by about seven percent over ten years because productivity increases. And I guess the idea is that productivity is increasing because let's say you've got twenty to thirty percent of stuff being done by AI. That opens up twenty to thirty percent of your time for your employees to maybe innovate or you know, get do other capitalistic things. But what it to me, and this is just my opinion, and again we're really early in all this, but it's a bottom line world, and especially a bottom line country that we live in, and I imagine what it would likely mean is by by jobs more than it means, well, hey, you've got more time, and why don't you innovate it your job, because for most jobs, it'll probably be like, oh, wait a minute, if we can teach it to do forty center your job, I bet we could train it to do a one hundred percent.
+
+00:38:12
+Josh: Yeah, or we can get rid of, you know, a bunch of you and just keep some of you to do the other sixty percent.
+
+00:38:19
+iHeart Intro: You know. But now see these people are out of jobs that it's going to bite them in the rear though, because it's not ultimately going to be well, who knows. It doesn't seem like it could be good for the overall economy if all of a sudden, all these people are out of jobs. Because people being out of jobs mean they're not that means the economy is going to tank. They're not spending. And it's not like a situation where you know, the tractor replaced the plow and then the robot tractor replaced the tractor. But hey, now we've got these better jobs where you're designing and building these robot tractors and they're higher paying and they're great. It's not like that because you know, the farmer was replaced who drove that tractor and isn't skilled in the practice of designing robot tractors. And in this case, in most cases, they're not being there's not some other job waiting for someone who got fired in the world of designing AI. Does that make sense?
+
+00:39:17
+Josh: No, it makes total sense. But yeah, and in this case, one of the big differences is instead of the farmer having to go figure out how to work a computer, that people working computers now have to go figure out how to be farmers in order to sustain themselves. Right, But you're right, we don't have a track record of taking care of people very well, at least who are out of a job. And I mean, without getting on a soapbox here, what's either going to come out of this, because there's going to be one or the other. The status quo as it is now or as it wasn't as of up to twenty twenty two. We don't know that that's going to be around anymore. Instead, we'll either do something like create universal basic income for people to be like, hey, your industry literally does not exist anymore and it just happened overnight. Basically, we're just gonna make sure that everybody's at least minimally taken care of while we're figuring out what comes next, or it's gonna be like good luck, chump, you're fired, You're out on your own. Instead, we're gonna take all this extra wealth, this extra two trillion dollars that's gonna be generated, and push it upward toward the wealthy instead and everybody else. Is just the divide between wealthy and not wealthy is just going to exponentially grow. One of those two things is gonna happen, because I don't see how there's just gonna be a regular middle ground like there is now where it's kind of shaky, and how we're taking care of people, because there's just gonna be so many layoffs and fairly skilled workers being laid off too. We've just never encountered that before.
+
+00:40:52
+iHeart Intro: Yeah. I mean, that's the thing that these the largest corporations might want to think about. Is all that's gonna take is one CEO of a huge corporation to say, wait a minute, it I think I can get rid of seventy five percent of the vps in my in my company, right, and like who unless who accept the person at the very very top of that food chain is protected. And the answer is nobody.
+
+00:41:24
+Josh: No, No, the offense essentially.
+
+00:41:26
+iHeart Intro: At the end of the day, because they make a lot of money. If you it's one thing to lay off a bunch of you know, technical writers that are all sitting in their cubicles, But if you start laying off those those vps who get those big bonuses, that's more bonus money. And you know, are we looking at a situation where a corporation is run by one human?
+
+00:41:44
+Josh: I mean, it's entirely possible, Like you can make a really good case that what it is going to wipe out is the middle management, right, vps, This is exactly like you said, and that we still will need some humans to do some stuff.
+
+00:41:57
+iHeart Intro: Like the board take care of the board, right, sure.
+
+00:41:59
+Josh: Of course, yeah, but yes, I mean who knows, we have no idea at this point. Ultimately, it could very easily provide for a much better healthier society, at least financially speaking, it could do that, especially given a long enough period of time.
+
+00:42:19
+iHeart Intro: I'm a cynic when it comes to that kind of trust though.
+
+00:42:21
+Josh: I am as well for sure. But if you look back in history at the history of technology overall, especially if you just turn a blind eye to human suffering for a second and you just look at the progress of society. Right in a lot of ways it has has gotten better and better things to technology. There's also a lot of downsides to it. Nothing's black and white, it's just not that's just not how things are. So there's of course going to be problems. There's going to be suffering, there's going to be people left behind, there's going to be people that fall through the cracks. It's just inevitable. We just don't know how many people for how long and what will happen to those people on the other of this transition.
+
+00:43:02
+iHeart Intro: Yeah, I was talking with somebody the other day about the writer's strike in Hollywood. The WGA is striking right now. For those of you who don't know, it's kind of all over the place. But one of the things that they have argued for in this round of negotiations is, hey, you can't replace us with AI, and the studios all came back and said, well, how about this, We'll assess that on a year to year basis. And that's frightening if you're if you're either a writer in Hollywood or you're somebody who loves TV and films and quality TV in films, because I don't know if I think ideation and initial scripts maybe even right now, could I could see that happening where they said they're like, all right now, we'll bring in a human to refine this thing at a much lower wage. That it's probably what they're most afraid of, rather than being wholesale replaced, because like you said, these programs are they're all about just data and numbers. They're not They don't have human feelings, and that's what art is. And so I think I would be more concerned if I was writing pamphlets for Verizon or something, or if I was.
+
+00:44:22
+Josh: Some pamphlet writer for Verizon.
+
+00:44:23
+iHeart Intro: Just went in gulp, No, I'm so sorry. But like BuzzFeed back in the day, instead of having a dozen writers writing clickbait articles, why not have just one human that is a prompt engineer that's managing a virtual AI clickbait room that's just pumping out these articles that you know they were paying someone down to forty grand a year to write previously.
+
+00:44:47
+Josh: Yeah, I mean it's a great question, like that was a horrific, horrible job to have. Not too many years ago. So it's great to have a computer do it, but that means that we need these other people to go on to be to have writing jobs that are more satisfying to them than that. But that's not necessarily the case, because as these things get smarter and better, they're just going to be relied upon more. We're not going to go back. There's no going back now. It just happened like it just happened basically as of March twenty twenty three. And one of the big problems that people have already projected running into is if computers replace humans, say writers, basically entirely. Eventually all the stuff that humans have written on the Internet is going to become dated. It's going to stop, yeah, and it will have been replaced and picked up on by generative, pre trained transformers. Right, And eventually all the writing on the Internet after a certain date will have been written by computers, but will be being scraped by computers. When humans go ask the computer a question, the computer then goes in reference is something written by a computer, So humans will be completely taken out of the equation in that in that respect, we'll be getting all of our information, at least non historical information from non humans, and that could be a really big problem, not just in the fact that we're losing jobs or in the fact that computers are now telling us all of our information, but also that there's some there's some part of what humans put into things that will be lost that I think we're going to demand. I saw somebody put it like, I think, I can't remember who it was, but they said, we're going like people will go seek out human written stuff. There will always be audiences for human written stuff. Yeah. Maybe, like you said, will rely on computers to write the Verizon pamphlets, but we're not going to rely on computers to write great works of literature or to create great works of art, Like we're just not going to They'll still do that. They're going to be writing books and movies and all that, but there will always be a taste in a market for human created stuff. This guy said, I think he's right.
+
+00:47:04
+iHeart Intro: Yeah. And Justine Bateman, I don't know if you saw that. I don't know if it was a blog poster.
+
+00:47:11
+Josh: Are you having a hallucination right now? Did you mean Justine Bateman?
+
+00:47:15
+iHeart Intro: Yeah, yeah, Justin Bateman, the Jason Bateman's sister the actor, and she's done all kinds of things since then. I know she has a computer science degree, so she's very smart and knows a lot about this stuff. But she basically said, and this is beyond just the chatbot stuff. But she was like, right now, there are major Hollywood stars being scanned, and there may be a brand new Tom Cruise movie in sixty years. Yeah, long after he's dead starring Tom Cruise. He may be making movies for the next two hundred years. And like, is this what you want? Actors? Do you want to be scanned and have them use your image like this in perpetuity for you know, there will be money involved. It's not like they can just say, Okay, we can just do whatever we want. But what if they're like, here's a billion dollars, Tom Cruise, just for the use of your image in perpetuity, because we will be able to duplicate that so realistically that people won't know human voices, same thing that's already happening. What yeah, it is. So that stuff is kind of scary. And you know when you read I didn't really know this was kind of already happening in companies. But Olivia found this stuff IBM CEO Arvin Krishna said just last month in May that he believed thirty percent of back office jobs could be replaced over five years, and it was pausing hiring for close to eight thousand positions because they might be able to use AI instead. And then Dropbox talked about the AI era when they announced a round of layoffs. So it is happening right now in real time.
+
+00:49:00
+Josh: Pretty amazing. Yeah, that's I mean, there's proof positive right there, Like that guy couldn't even wait a couple months a year, Like this really started up in March, and he's saying this in May. Already in May, they're like, wait, wait, stop hiring. We're gonna eventually replace these guys with AI so soon that we're going to stop hiring those positions for now until the AI is competent enough to take over.
+
+00:49:24
+iHeart Intro: I mean, how many people does ib employ? What, what's thirty percent of that?
+
+00:49:28
+Josh: I don't know. I would say at least at least one hundred people, right, So, yeah, like you said, it's happening already. And then one other thing to look out for too, that's I believe is already at least theoretically possible since AI can write code. Now they'll be able to create new large language models themselves, So the computers will be able to create new AI.
+
+00:49:54
+iHeart Intro: Well, that's the singularity, right.
+
+00:49:56
+Josh: No, the singularity is when one of them a understands what it is and become Yes, that's the singularity.
+
+00:50:05
+iHeart Intro: But this leads to that though, doesn't it It does.
+
+00:50:07
+Josh: It's hypothetically yes, but we just understand what's going on so little that you just can't say either way. Really, you definitely can't say that it no, it won't happen. It's just fantasy. And you also can't say yes, it's definitely gonna happen.
+
+00:50:19
+iHeart Intro: Yeah. And here's the thing, man, I'm not a paranoid technophobe.
+
+00:50:26
+Josh: You don't any measure foiled cap on.
+
+00:50:28
+iHeart Intro: No, by any measure. I'm a pretty positive thinker, and this this is pretty scary to me.
+
+00:50:37
+Josh: I'm just gonna leave that there, agreed, Chuck. Okay, if you want to know more about large language models, everybody just to start looking around Earth and when you see people running from explosions, go toward it and ask what's going on?
+
+00:50:55
+iHeart Intro: You almost said, type it into a search engine.
+
+00:50:57
+Josh: Yeah, steer clear of those. Yeah, there's so much more, we could have talked about. But this is if you ask me, this is round one. I think we definitely need to do at least one or so.
+
+00:51:06
+iHeart Intro: More on this, Okay, Yeah, and then one day, like I said, Ai, Josh and Chuckle, just wrap it all up and spank it on the bottom and say no problems here.
+
+00:51:14
+Josh: Hopefully they'll give us a billion dollars rather than like a month free of blue Apron instead.
+
+00:51:20
+iHeart Intro: Yeah, I mean we could talk here.
+
+00:51:23
+Josh: Well, since Chuck said we can talk real confidential like that means it's time for listener.
+
+00:51:28
+iHeart Intro: May I'm gonna call this conception, not inception, but conception.
+
+00:51:35
+Josh: Oh I saw this one. I don't know how I feel about this.
+
+00:51:39
+iHeart Intro: Hey, guys. Last year, my wife and I were attempting to get pregnant. A couple of months in we made plans to stay with some friends in another town for a weekend, and when we can arrive, it happened to coincide with my wife's ovulation cycle. As shy people, we both felt a little bit awkward about, you know, hugging and kissing in a friend's guest room, but we really didn't want to miss that chance and that time of the month, so we went about getting in the mood as quietly as possible, and my wife suggested we play a podcast from my phone so that, you know, if any noise is made outside the room, it would sound like we were just doing a little pre bedtime listening. I knew I needed something with nice, simple production values, so we wouldn't get distracted, of course, by the whiz bang sounds and whatnot. And since you were my intro to the world of podcast, I've always had a steady supply of yours downloaded. I picked the least interesting sounding one in the feed at the time, How Coal Works.
+
+00:52:33
+Josh: Okay, I thought that one turned out to be surprisingly interesting. Yeah, I could see how we would have thought that though.
+
+00:52:40
+iHeart Intro: Yeah, for sure. We put that on and we did our business. Six weeks later we got a positive pregnancy test, and now over a year later, we've welcomed our son into the world. Name is Cole, and of course we named him Cole. That is what this person said.
+
+00:52:57
+Josh: Wait a minute, Wait a minute, they really did name them Cole.
+
+00:53:00
+iHeart Intro: No, he said it as a joke. Oh but great minds right, good joke for both of them. It's almost like you're both chatbox. And this person said You're fine to read this, but give me a fake name. And so I just want to say thanks to Gene for writing in about this.
+
+00:53:20
+Josh: Gene is in Gene Transfer.
+
+00:53:23
+iHeart Intro: Sure, thanks a lot, Gene.
+
+00:53:25
+Josh: We appreciate that. I think again, I'm still figuring that one out. And if you want to be like Gene, I'm making air quotes here, you can send us an email to wrap it up. Spank it on the bottom. Only humans can do that.
+
+00:53:41
+iHeart Intro: I wonder if when you said spanking on the bottom, if that created any issues.
+
+00:53:45
+Josh: Yeah, I hadn't thought about that. Maybe playfully how about that? Sure, and send it off to stuff podcast at iHeartRadio dot com.
+
+00:53:58
+iHeart Intro: Stuff you Should Know is a production of iHeartRadio. For more podcasts my heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows.

@@ -1,0 +1,488 @@
+Episode: Data Centers: Can't Live With Em, Can't Live Without Em
+Date: 2026-01-15
+Duration: 48 minutes
+Episode URL: https://omny.fm/shows/stuff-you-should-know-1/data-centers-cant-live-with-em-cant-live-without-em
+Audio URL: https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e
+Transcript URL: https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/79c80b54-cafd-4a23-ae5b-b3d001629ac4/transcript?format=TextWithTimestamps&t=1768445219
+
+================================================================================
+
+00:00:01
+iHeart Intro: Welcome to Stuff you should know, a production of iHeartRadio.
+
+00:00:11
+Josh: Hey, and welcome to the podcast. I'm Josh, and there's Chuck and Jerry's here too, and we've got our pocket protectors and tape on the bridge of our glasses day and this is stuff you should know.
+
+00:00:23
+iHeart Intro: Nice work. Did you just hear something?
+
+00:00:27
+Josh: No, not weird. I heard you say nice work. Yeah, but then stop abruptly.
+
+00:00:31
+iHeart Intro: Well I stopped abruptly because I thought I heard a little digital glitch.
+
+00:00:36
+Josh: Oh no, I didn't hear anything.
+
+00:00:39
+iHeart Intro: I might be losing my mind, then, I you know, I'm.
+
+00:00:42
+Josh: Curious whether we end up editing this out or not. Any other podcast on the planet would edit that out without even thinking about it. But there's like a fifty percent chance that'll stay in with us.
+
+00:00:52
+iHeart Intro: I mean, this is why we didn't get that Golden Globe nomination. That's right, it's kind of classic stuff you should know. On professionality.
+
+00:00:58
+Josh: It's exactly right in the Italian accent, mispronunciations, there's a whole laundry list. Yeah, that's okay, Chuck, I think we're golden regardless.
+
+00:01:09
+iHeart Intro: Agreed.
+
+00:01:11
+Josh: So we're talking about data centers, which I had a very very rough idea about But actually no, I knew that they existed essentially and that they were becoming a problem with the rise of AI. Yes, that was about it. How about you are you are you d data center Feliac?
+
+00:01:32
+iHeart Intro: No? You know me, I'm not super technology minded, so I don't know a lot about this stuff. I remember walking by our server room back in the day when we were at Pont City Market and seeing our colleague Izzy in there hard at word yeah. And when that door was unlocked and open, hearing the were of the of the servers and the cooling machines, and you know, that's on a smaller scale, that's a data center.
+
+00:01:57
+Josh: Absolutely, one hundred percent, that's a data center. It was also so a great place to curl up and take a nap in.
+
+00:02:02
+iHeart Intro: The middle of the day, like the warmth of the server.
+
+00:02:05
+Josh: Yeah, and the word put right the word yeah, So uh yeah, that definitely counts as a data server. If you have like one of those little home networking setups in like a closet in your house, data center. Sure, technically the PC is a data center. Anywhere you can store and access data, that's technically a data center. And you're like, well, that's stupid. Why did you even say that Josh's quibbling, that's quotitian. Shut up and get on with data centers. Whoa, whoa, whoa. First of all, don't use the S word and then secondly word yes, Wait, what did I say? That's the keyword Quoteitian?
+
+00:02:43
+iHeart Intro: Oh no, that's kW right.
+
+00:02:49
+Josh: So the reason that I bring that up, though, Chuck, is because that technically is part of the progression of data centers. Yeah, it probably goes without saying, but it's evolved along with computing, and his computer's kind of gotten bigger and bigger. The need to store and access more data has gotten bigger so much so, Chuck that just wrap your head around this one. In twenty twenty four, just over a year ago. Yeah, we used one hundred and fifty zetabytes of data. That's what we consumed. And consuming is anything from making a video and uploading it to TikTok or putting a post up on Instagram. It's browsing a website, it's buying a song from iTunes, it's doing web analytics, it's buying something with your American Express card. All of that is data consumption. And we consumed one hundred and fifty zetabytes of data in twenty twenty four.
+
+00:03:44
+iHeart Intro: Yeah, I don't even know how many big Max that is. I know you name dropped a lot of brands. It should be like the movies where every time you even just say, like buy something on your amex, the bank account grows by like ten dollars.
+
+00:03:57
+Josh: I agree wholeheartedly. I agree that amex should do that. Amex, there's twenty bucks. I'll split it with you.
+
+00:04:05
+iHeart Intro: Wow, you just bought lunch in nineteen ninety seven.
+
+00:04:08
+Josh: That's right. So just real quick, as zeta byte, chuck is a trillion gigabytes, So we consumed one hundred and fifty trillion gigabytes. That was twenty twenty four.
+
+00:04:19
+iHeart Intro: That's worldwide, right, yes, yeah.
+
+00:04:21
+Josh: That's worldwide. In twenty ten, we consumed two zeta bytes. Jeez. Yeah. So it's growing exponentially, which means that data centers are growing exponentially. And now they're about to just blow up, like truffle up essentially from you know, this kind of calm like plateau that they'd reached. It's about to just go in hyper drive.
+
+00:04:44
+iHeart Intro: Yeah, and actively is, and we're going we're gonna get to some startling statistics later on in the episode. But Kyle helped us out with this our writer over in the UK.
+
+00:04:54
+Josh: He did a fantastic job.
+
+00:04:56
+iHeart Intro: He did a really good job. And there's going to be some UK specific things in here because Kyle's always keen, as they say, to throw that stuff in there.
+
+00:05:02
+Josh: Yeah, for sure, Kyle likes to pepper those in Yeah, of.
+
+00:05:05
+iHeart Intro: Course, and he's not barred from doing so we allow it. So since Kyle, you know, is frequenter of the Wayback Machine, as are all the wonderful writers that we use, they all had the keys to the car. Essentially, he jumped in the Wayback Machine to sort of give us a little bit of a timeline on data centers and a bit on you know, mainframes and PCs.
+
+00:05:30
+Josh: He also left all of his used tea bags in there too. I don't know if you noticed that.
+
+00:05:33
+iHeart Intro: Oh it's fine, you know, you can throw those back in some hot water and they do just a little bit weaker tea.
+
+00:05:38
+Josh: Well, if you put like five of them together, it's like one.
+
+00:05:41
+iHeart Intro: Yeah, and Kyle, I mean that thing was full.
+
+00:05:43
+Josh: Maybe really what he drinks a lot of tea, he really does.
+
+00:05:47
+iHeart Intro: So if you want to talk about the earliest data centers that you could kind of call maybe a data center. They were you know, computers, they were electronic computers. Most of this stuff that we're going to talk about early on was military and and as you'll see, even the first when we talk about the UK one that was supposedly in that military, they even loaned it to the military, which was kind of interesting. But these things were built with you know, state of the art technology at the time, which meant vacuum tubes and you know, manual switches and plugs and things like that. And the first thing that we can really talk about as the first programmable electric digital computer was the Colossus. And as we'll see, Elon Musk has now stolen that for his own purposes that name probably because of this, I would imagine, but it was at Bletchley Park, of course, during World War Two, and they were trying to you know, crack into Hitler's messages at the time, and these things were huge and kind of to me. The thing that stood out about Colossus, which is a neat little factoid, is that where Colossus was at Bletchley Park at Block H, it is now the National Museum of Computing.
+
+00:06:56
+Josh: I want to go to that so bad when we do that UK up tour next year. Oh, we got to go to that together.
+
+00:07:04
+iHeart Intro: Okay, okay, are we doing that next year?
+
+00:07:06
+Josh: That's what we were talking about. All right, we kind of already have promised it. We have to. Now we're locked in the punch.
+
+00:07:12
+iHeart Intro: Why's my voice O high?
+
+00:07:13
+Josh: Then? I don't know. You're practicing for the alph Yeah, that's right now.
+
+00:07:18
+iHeart Intro: No, that that'd be a lot of fun. I'd love to go to that.
+
+00:07:21
+Josh: So that was Colossus. Another one about the same time was the Aniac Electrical Numerical Integrator and Computer. So that's a quality acronym. Yeah, and it was the first general purpose electronic computer. And here's the thing. This is technically not data storage yet, it's data processing, right, But these things Colossus Aniac, you walked up to them and you said, what's the trajectory of this missile if I fire it from here? And Aniac would go peep pop, poop, poop, and then say, like, uh, whatever a trajectory is described in Sure or Colossus. You'd be like, what is Hilter saying here to Goebbels And the Colossus would say, Hilter is saying that he's a big fan of goebels work, but he's suspicious that the rest of the world doesn't like either of them. And that was it. After that, you'd be like, hey, what was the last answer, and they'd be like, what's an answer?
+
+00:08:18
+iHeart Intro: Yeah, you gotta just tell me what's going on with this Hilter business.
+
+00:08:21
+Josh: You don't remember from our art Mysteries of the Art World, how stuff works are to go? Oh, the title of that section was did Hilter do these pain? Oh?
+
+00:08:32
+iHeart Intro: My god, that's a deep cut. I did not remember that.
+
+00:08:35
+Josh: Yes, and I think it still says that on that oh babilistical Yeah, yeah, I can only hope it's got to be Hilter forever. All right.
+
+00:08:44
+iHeart Intro: So we go into mainframes at this point, and this is like the nineteen fifties basically when companies could actually have their own computer. It wasn't just the military. These were the old punch card computers, and they were called mainframes. It wasn't made up for this. Mainframes were originally described We're describing like what you would house telecommunication equipment and maybe some other sciencey stuff, but it was referencing literally the cabinets that held this technology. And it became known as just you know, it kind of took over when the computer's world started using it as computer only.
+
+00:09:18
+Josh: Yeah, but again, this is like you're a company and this is where you store and process all of your data, and it's in this one room, but it's not going anywhere else. It's not for anybody else, and you have to physically be in the room to get your answer, process whatever data you're looking for. When the PC came along, and then the Mac and Tosh came along, they took that thing and just made it very small so you could put it on all of your employee's desks. And now they had, like I was saying, before, their own little data center right there. So if you said, like, hey, what's the I need to know the Q four reports, they'd say, go to Debbie's desk. Debbie's is the one who's got that on her computer. And you would go over there and say, WI, what's the Q four report? And w would give it to you. Right, there was no connectivity, but you could still like do a lot more stuff than you could when you had a mainframe. Yeah, for sure, which makes mainframes feel like really outdated, but it turns out they're like totally still in use. Today.
+
+00:10:20
+iHeart Intro: Oh yeah, absolutely, I do want to jump back in time a little bit, because I did. I promised talk of lending the military, oh basically your equipment, and that's what happened. In nineteen fifty one, there was a T shop chain in the UK. I don't know if it's still around, Lions Lyns, and they were the very first company in the world that used a mainframe. It was called the LEO, the l EO, and it was you know, like what you would think they've handled, like payroll and stock management and stuff like that, but there wasn't a lot for it to do at a T shop chain except for those couple of things. And so they calculated missile trajectories like you were talking about for the Ministry of Defense.
+
+00:11:00
+Josh: And that actually kind of helped establish like a I guess a pay schedule. How people charged for data centers to come. Yeah, it was they like you would charge them for the time that they used it, or you could lease it for a month. And that really started to come around when IBM got in the game. They became like the main frame leader in the fifties, the early fifties, I think they had a unit that you could lease for sixteen thousand dollars per month. That's in nineteen fifty two money. And then as the things as like the processors got better and smaller and faster, that price came down dramatically. And then finally in the sixties they released the IBM six System three sixty, which not only got Apollo eleven to the moon and back, it is a It appears in an episode of mad Men apparently.
+
+00:11:55
+iHeart Intro: Oh really, yeah, you usould have though, right.
+
+00:11:58
+Josh: No, I never did. I just saw reference to it on the government and you knew it was the show. Yeah, but they like you should look up pictures of it. It's like those giant burnt orange cabinets with the real magnetic tape. It's just beautiful. They're cool to look at.
+
+00:12:13
+iHeart Intro: Yeah, yeah, I remember. We've referenced the movie War Games from our childhood in the eighties a lot, and that the whopper for War Games was that was you know, at that age, to see the whopper and action and to see Matthew almost aid, Matthew Modine, Matthew Broderick hanging up his handheld telephone receiver onto a modem to talk to the school computer.
+
+00:12:35
+Josh: It was mind blowing that, Yeah, that phone in the modem made just a really big impression on me.
+
+00:12:41
+iHeart Intro: Yeah, and a cool sound.
+
+00:12:44
+Josh: Peepoop boop.
+
+00:12:46
+iHeart Intro: Should we take a break?
+
+00:12:48
+Josh: Wait, let me talk about mainframes today though, because I just want to give a little I don't know if a shout out's the right term, but they are still around because they're so reliable, Because they're so secure. You can make it so that there's information on those things that you again have to be physically present in the room to access. Sure, you can put all sorts of different layers of security. So if you're like Visa, or you're a healthcare company, or you're the Census Bureau, you're probably still using a main frame because you're protecting information as tightly as you can. But those things are also super fast and can hold huge volumes of computation at once.
+
+00:13:27
+iHeart Intro: Yeah, or a non Golden Globe nominated podcast.
+
+00:13:31
+Josh: Yeah, we've got our own main frame. Yeah, we've got our IBM three sixty that's right.
+
+00:13:37
+iHeart Intro: What year was that from again, the three.
+
+00:13:39
+Josh: Sixty sixty four.
+
+00:13:40
+iHeart Intro: Yeah, yeah, that's the one. I'll just making sure we didn't have the sixty five because that no, no, no, the sixty buggy. Yeah, yeah, all right, we can take that break now and we're gonna jump out of the wayback machine and venture into the modern world.
+
+00:13:53
+Josh: Right after this.
+
+00:14:24
+iHeart Intro: All right, so we are out of the way back machine. We're making that uh we're combining all those old tea bags and making some still somewhat weaker tea. Yeah, it's not too bad. It's a combination of Earl Gray and Camma meal, all kinds of fun stuff, but not too bad. And now we're going to talk a little bit about when things started to ramp up, because it kind of happened in fits and starts. And one of the biggest, uh, I guess would it be a fitter a start was the Internet. Because once the Internet came along, every business in the world started using it, and so all of a sudden you had to have a lot more data storage and bigger data centers and bigger server rooms in your companies, which was, you know, a pretty good thing at the time. After the dot com bus. There were a lot of casualties of that growth, but then things kind of you know, the ship kind of righted itself.
+
+00:15:15
+Josh: Yeah, and because it was like accessible to basically every business now, like you didn't have to buy a mainframe you could lease space on someone else's main frame, like you're the Ministry of Defense or something, all of a sudden. So that led to this huge proliferation that gave the foundation for web commerce. E commerce, that's what they used to call it. That's an old timey term now, but it created the ability for e commerce to start and flourish. So this data center's scaling up to meet the needs of the Internet and then to kind of give people all sorts of new space and room to come up with new stuff. That's where the digital economy came from, right there.
+
+00:15:58
+iHeart Intro: Yeah, all of a sudden, you could hop on webvan for an order a SACA groceries.
+
+00:16:04
+Josh: I have a friend who was all in about that.
+
+00:16:08
+iHeart Intro: Well man, yeah, yeah, I think I had a friend who was pretty heavily invested.
+
+00:16:15
+Josh: It's but clearly it was ahead of its time. I mean, sure, let's see, it's a post Mates and.
+
+00:16:22
+iHeart Intro: Well there's a lot of several of them now that have succeeded.
+
+00:16:25
+Josh: Well name them, will get ten bucks each?
+
+00:16:27
+iHeart Intro: Well, well you just got ten for post Mates, and you got to split that with me.
+
+00:16:31
+Josh: You know, I will, all right.
+
+00:16:34
+iHeart Intro: Cloud computing was the next big jump. When cloud computing came around the early two thousands, or do they call that the early oughts? I do, okay, I thought i'd heard that come from your mouth. But that is when you know, that was the real game changer because things were still I mean, when cloud computing came along, people thought of it if they didn't look too hard into it. They thought it was just you know, floating up in the ether somewhere. Yeah, it's it's still being stored on stuff, it's just not being stored locally. So all of a sudden, things were just going somewhere else for someone else to worry about all that storage. And more importantly, they could they could link everything together and store a lot of stuff from a bunch of different people.
+
+00:17:17
+Josh: Right, So now you have data centers not just available to somebody like a huge bank or something like that, or the government in a shop then a bank, yeah, or a t shop, and then to e commerce businesses. Now it's available to you and me. So it's really hard to remember back because the world has changed so much. But Chuck, like two thousand and eight, two thousand and nine, they were given us like VPN, little things that like you could go home and work and like you would it would never work. I'd never understood how to make it work. Yeah, but that was like the very beginning of how you could take your work home with you and work from home and do things remotely like we can now. Like it's nothing, but this led to the rise of businesses like Dropbox. Right. So Dropbox goes to Amazon Web Services and say, hey, we want to buy a bunch of your cloud, right, which means that they're going to use a bunch of like different servers and different data centers all over the place. And then Dropbox turns around to you and says, hey, if you give me nineteen ninety five a month, you can have one terabyte of data. Right. You can consume one terabyte of data, right, and then hopefully you don't use all of that, so they don't have to pay Amazon Web Services for stuff they didn't use. But you're paying that nineteen ninety five a month rather whether you use that whole terabyte or not. It's a pretty smart business model. Would not exist at all if the cloud didn't exist.
+
+00:18:47
+iHeart Intro: Yeah, as funny as you were talking about two thousand and eight and how quaint that is, now, that's what the year we started the show I know, I know, it's crazy to think about it really.
+
+00:18:56
+Josh: Is, but imagine like working from home at that time, it was just didn't you could know.
+
+00:19:02
+iHeart Intro: It was kind of great you went home and you homed.
+
+00:19:04
+Josh: That's exactly right. That was a big difference I remember.
+
+00:19:08
+iHeart Intro: But these data centers have now come together in such a big way now that they the largest ones are called hyper scale and they host more than five thousand servers, like servers, not individual persons. Data. It's like, it's incredible, how big is how big they've gotten Googles. And we'll go over some of the kind of square footage and then later talk about the elephant in the room, which is energy and water usage. But Google's first data center was built in two thousand and six, just but two years before stuff you should have launched. And this is an Oregon and they are still expanding that thing beyond one point three million square feet. Meanwhile, in China they're like, hold my tea, I guess, because China Telecom has a ten point seven million square foot data center in Inner Mongolia.
+
+00:19:58
+Josh: It's two hundred and fifty acres.
+
+00:20:01
+iHeart Intro: That is a warehouse full of worrying servers heating up and being cool.
+
+00:20:07
+Josh: Yeah, which is a big problem for any data center, it turns out. But the whole expansion this jump starting in twenty seventeen thanks to cloud computing, because again, cloud computing just means all your stuff isn't on one server and one data center, it's broken up into pieces and spread all over the place. That's the cloud. That's basically it. Even though it's way more advanced and intricate than that. That's like all you really need to know for the purposes of this episode, right. It led to a huge jump, a huge need in data centers, and it also expanded all the stuff we can do now, and COVID actually gave it another bump, made building a data center very economically attractive thing to do if you had the money. Because remote working finally finally established itself as like, no, we're doing this, stop calling us back to the office, ye, which is what they're doing now. I know, I hope it doesn't work because I remember when all of that started and everybody was so nervous, like management was all so nervous that people were just going to totally like mess around and everything. It just it didn't happen. I don't know anybody who's even been like gotten a talking to, let alone, been fired for just messing around at home. As a matter of fact, like you were saying, it just makes you work more.
+
+00:21:27
+iHeart Intro: Yeah, I mean, do you know how many times in our old offices I would see Jonathan Strickland just wandering aimlessly through the office chatting with people.
+
+00:21:34
+Josh: Yes, I do, because he would chat with me a lot. He did.
+
+00:21:38
+iHeart Intro: He did that in front of God and everybody, as they say, right there in the office. So I can't imagine what happened with him at home.
+
+00:21:44
+Josh: Yeah, like it was a sorority mixer or something.
+
+00:21:49
+iHeart Intro: We love Strickland. He's still around everyone. By the way, he retired from tech stuff, but he's still with a company.
+
+00:21:54
+Josh: Which is great. We love Strickland all right.
+
+00:21:57
+iHeart Intro: So now we're onto AI data centers and that was the I mean to call it a game changer. Seems quaint compared to the rise of cloud computing and everything, because it is off to the races in a way that seemingly cannot be stopped. The genie has left the bottle, as they say. Starting in twenty twenty two, when chat GPT was released by open Ai, all of a sudden, the need for these data centers became exponentially greater in size in the speed at which they need these things built because AI requires a ton of computing power to operate.
+
+00:22:36
+Josh: So much so that they don't even use the standard what's called the compute machine. So compute is like all of the processing power, the networking, all of that stuff, and traditionally with a computer that's done on a CPU. Right, that's how all of this gets done, right, everything else is infrastructure. The CPU is doing all of the work. Those are so like they still work like. Most data centers are running on CPUs for AI, just not fast enough. They use GPUs graphic processing units, which are associated with video games for most people, right, you need a good graphics card to run your video game, I guess, but they the reason that for AI data centers that they use GPUs is because they're really good at parallel processing. They can run a bunch of different operations at once. So you're like, cool, you just throw a GPU in a data center and you can run an AI. No, you need hundreds of thousands of these things strung together, and instead of like a CPU running like a couple of servers or something like that. At data center. All of them are strung together to form one giant supercomputer that the AI operates on.
+
+00:23:52
+iHeart Intro: Yeah, like chat GPT itself was trained on twenty thousand of these GPUs a GPU, you know, the sort of the biggest name in the game. There's a couple, but the biggest one obviously is the Navidia. But the Navidia H one hundred that is the standard right now. If you look this thing up, it it fits in your hand. It's not like some gigantic thing. H twenty thousand of them linked together or one hundred thousand of them linked together. Who knows how many, you know, hundreds of thousands are eventually going to be linked together to end the world. That's where all the power comes from, like you were saying, But it's you know, it's just a little rectangular handheld thing that's like, oh, that looks like something that maybe came out of a computer. And Navidia is what are their stock jumped over a couple of years, like nine hundred percent over twenty twenty three and twenty twenty four something like.
+
+00:24:47
+Josh: That, Yeah, nine hundred percent increase.
+
+00:24:51
+iHeart Intro: Yeah, and we'll talk about why all of this is super like scary and dangerous because it really is.
+
+00:24:57
+Josh: Well, yeah, if you want a really good explanation of this about and like you said, how many GPUs you string together before we end the world? Nate Sores and Eliezer Yukowski In that book, I keep referencing that I think everybody should read. If anyone builds it, everyone dies. About the current state of AI. They talk about this in depth, but in a really understandable way. It's really fascinating. But that's essentially one of the things they say is like we keep stringing together tens and tens of thousands more GPUs, that just makes the supercomputer smarter and smarter and more capable. And eventually, what's going to happen. We're going to reach some point potentially where we just put that extra last GPU in there and all of a sudden, the balance is tipped and the thing becomes super intelligent.
+
+00:25:44
+iHeart Intro: That's right. Also a time for me because you're always too shy to to plug the end of the world with Josh Clark, your fantastic limited series, of which AI is one of the central focuses or one of was it eight things?
+
+00:25:57
+Josh: Ten? Well, there was ten episodes.
+
+00:26:00
+iHeart Intro: Ten episodes, right, thanks baby? Well but one of the episodes was just like you talking about Jimmy Buffett Records.
+
+00:26:06
+Josh: And that's right.
+
+00:26:07
+iHeart Intro: You had to lighten the mood yep Should we take a break or should we keep going for a minute. Let's keep going for a minute, okay, because you talked about investment, and you know, if you have the money to open one of these things, and that's what these tech companies are doing, like to perhaps they're great peril. At some point we'll see. Microsoft has invested eighty eight billion dollars in data centers just in twenty twenty five. Amazon is pledged over the next fifteen years one hundred and fifty billion dollars. And Google and Meta together about you know, not working together, but they are expected to spend about seven hundred and fifty billion dollars just on equipment over the next two years. And Stanley Morgan says to Morgan, Stanley, what I say, Stanley Morgan, Yeah, I think we should leave that in there.
+
+00:26:54
+Josh: Okay.
+
+00:26:55
+iHeart Intro: Stanley says, Hey, you know, guys.
+
+00:26:58
+Josh: Maybe you might like Stanley Kamma boar.
+
+00:27:00
+iHeart Intro: Yeah, Stanley Kumo Morgan. Over five years between twenty five and twenty thirty, Morgan, Stanley says about three trillion dollars is going to be spent just on the data centers about I mean, half of which is the hardware and half of which is just building these things.
+
+00:27:17
+Josh: Yeah, just in what the next four years. Yeah, So think about it. If you're in Nvidia and you're the industry leader for GPUs and everybody's like, we're gonna spend one point five trillion dollars on this on the infrastructure in the GPUs, you're looking pretty good down the.
+
+00:27:35
+iHeart Intro: Road, Yeah, for sure. And you know they're doing this because there's a demand right now for use at least because things like OpenAI and other AI creators are using them like crazy. But these companies are also using them for their own AI research, right.
+
+00:27:51
+Josh: Yeah. So like Xai has that Colossus machine that you were talking about earlier, which is two high hundred thousand GPUs strung together. I'm not sure if it's fully online yet, Tennessee. Yeah, And it's just for that. It's they're not doing any they're not calculating missile trajectories for the Ministry of Defense or anything like that. Like, it's just for that AI. And yeah, I think Meta is doing the same thing. Open ai I don't think is building their own because they're so in cahoots with Microsoft. I think they run their stuff on Microsoft's data centers. But yeah, yeah, if you have an AI essentially right now, which means like God and everybody, you probably have your own data center dedicated to it.
+
+00:28:36
+iHeart Intro: Yeah. I And this isn't some some moral stand I'm taking by saying that I have never used AI. And trust me, I know that every part of my life is now touched by AI, so I am inadvertently using.
+
+00:28:49
+Josh: It touched by an AI, that's right.
+
+00:28:53
+iHeart Intro: But I've never I've never used like you know, chatbots or or large language models or inning like that, just mainly because I'm just I'm fine doing things like they are for now, and not in a luddite sort of way. I just everything's going along great for me in my job and how I live my life, so I just I don't have a need for it.
+
+00:29:13
+Josh: I do the same thing. And I think also both of us are like if somebody else wants to do it the other way, that's fine. Like we're certainly not gonna criticize them or be crimudgeony about it or say that you know that's stupid.
+
+00:29:27
+iHeart Intro: Right, But as you'll see. You know, and again this isn't yucking someone's yum, but everyone should know what they're a part of, and that's part of what the episode is about.
+
+00:29:37
+Josh: That's right. Yeah, no, I totally do. Before we take a break. I think it's a small kind of side issue, but it's worth pointing out that it sucks because these Nvidia chips are so in demand from these massive companies. It has driven the price for just the average Nvidia graphics card sky high. So if you're a gamer and you're like trying to improve your system, like you pay way more than you used to for the same graphics card that you could have bought for like a quarter of the price, you know, a couple of years ago.
+
+00:30:14
+iHeart Intro: Yeah, and I wasn't even looking like I didn't even know that you could just buy This is how little I know about all this before. This was like, could you just buy a Navidia Gpu? But I was just researching the size and like what do these things look like? And it, you know, it's one was on eBay for twenty thousand dollars and I was like, oh my god, I didn't Oh I didn't know that was the deal?
+
+00:30:33
+Josh: Is that right?
+
+00:30:35
+iHeart Intro: Yeah, and I don't know if that's accurate. I don't know anything about it, so I could easily be corrected on all this, but that's what the Internet told me.
+
+00:30:43
+Josh: Okay, well the Internet never lies.
+
+00:30:46
+iHeart Intro: Oh one thing before we break real quick, because we did promise a little UK specific stuff and I didn't want to short shrift our brit listeners or Kyle. The UK is right now like the third largest nation for data centers. The US is first, I think Germany a second, and they signed what was called the Tech Prosperity Deal with the giants, the tech giants of the United States, And right now Microsoft has announced a thirty billion dollar investment in UK data centers, and I think like one hundred new AI data centers are planned in the UK at this point moving forward.
+
+00:31:19
+Josh: Yeah, and I saw there's at least one in Wales that's being smartly done. They took an old radiator factory plant campus and they're revitalizing that as AI data center. So it does sound like I get why the UK is doing it, but there's a lot of people in the UK and elsewhere who are like, these are not this is not a good investment for local governments or even national governments. There's a big problem with all this, Like there is a AI boom going on. Data centers are just one part of it. Like people are throwing money at AI like it's nineteen ninety nine, and a lot of people are like, there's another it's not a bubble this time, but it's a AI bubble. Yeah. One of the reasons why some people are pointing to it as an AI bubble is that it's just not clear how much money is going to be made from AI and when that's going to start. Yeah. I think the Financial Times called Open AI a money pit with a website on top. Yeah, not great, no, because people are just pumping money into this stuff, but they're not getting they're not seeing results from it, not yet. It's not necessarily a bad bet that AI is going to completely revolutionize the world and like revolutionize economies and going to make some people a lot of money, but there's just no clear path to it right now, which makes some people nervous.
+
+00:32:46
+iHeart Intro: Yeah, there's about five percent, just five percent of pilot AI programs right now in business secure returns on their investments, you know, like they make the money.
+
+00:32:58
+Josh: But Stanley Morgan is predicting revenues of a trillion dollars by twenty twenty eight, that's.
+
+00:33:05
+iHeart Intro: What they're saying. I mean, we'll see Navidia. I mean, Kyle's also keen to point out that there's sort of a circular economy within all this going on. That's a little bit like troubling maybe because Navidia is investing in open AAI, but that depends on their purchase of those Navidia chips. So, you know, everyone from you know, just people who are smarter than us as far as the stuff goes, are warning people right down to the IMF, the International Monetary Fund are flashing the warning signs saying like this could be you know, it could make a trillion dollars by twenty twenty eight, or it could like wreck the global economy.
+
+00:33:43
+Josh: Yeah for sure. Yeah, we have no idea, although I have seen people argue against it, that say like this is nothing like Yeah, a lot of these AI companies are probably overinflated, but it's nothing like it was with like the two thousand and eight meltdown or the dot com bubble, Like this is we're a lot we're a lot more seasoned, or investors are a lot more seasoned. Than they were before. The problem is one of the problems is that the financing is expected to come in large part from private credit, which is essentially an investment vehicle for investors to go lend money to say like companies that want to build data centers. Right, and this is largely unregulated. It's very shadowy. We don't know how many how much debt exists in the world on private credit because they don't have to report this stuff. And you know, as we learn from the two thousand and eight meltdown, when there's like a massive speculation among finances that involves debt's that can go really bad.
+
+00:34:53
+iHeart Intro: Yeah for sure. And speaking of going bad, I guess we're at the sort of environmental piece of this whole thing. And this is what I was talking about when I said that, you know, people should just be aware of what they're taking part in. And again this is not to shame anybody who uses AI for their job or just to make funny fake videos, but but you know, everyone is sort of tied together to make this what it is. Who's using that stuff, And I get if someone says, like, hey, if I quit this thing, it's not going to make any difference. But that's sort of the the age old. Like, you know, if I don't recycle my ten can, my aluminum can, ten cans, my aluminum cans, then it's not gonna make that big of a difference. But the idea of everyone getting together to do something for the common good, that's where change happens, or where negative change happens. So as far as AI data centers go, the main you know, aside from just you know, the land use and everything else in the hardship on the local economies and towns in certain ways that we're going to get to, it's really just a sucubus of electricity and water usage. Yeah, psychobus is not the right word.
+
+00:36:06
+Josh: No, but it makes sense. It's like a bunker down.
+
+00:36:10
+iHeart Intro: Yeah, But I say psychibis to mean just like a bottomless pit. But I know that's not what it means, by the way.
+
+00:36:15
+Josh: A giant sucking thing, right right, And it is. It's sucking tons of electricity and water up. Like some of these AI data plants use the same amount of electricity as a town of fifty thousand yeah, and about the same amount of water is a town of fifty thousand people. This is a data center we're talking about, and it's not even necessarily an AI data center. Just any hyper scale data center uses a ton of electricity and water. The reason it uses water is because all of these processors, the CPUs that are doing all this work, and just all of the networking that's going on with it, it's generating heat, and computing happens faster when it's cooler. So to keep the place cool they use evaporative cooling, where they funnel waste heat air through wet pads essentially, like they just buy old mattresses and doze them with water and then they run the heat through there and through evaporative cooling, it cools it off. It uses a little electricity than air cooling, but it uses water a lot of water.
+
+00:37:23
+iHeart Intro: Yeah, I mean, I assume most people know this. But like your laptop has a tiny fan in it, Like every computer in the world has a little fan in it that cools it down. So when you've got all this stuff together, you know it's going to generate tons and tons of heat. That was the whirrying of the server room that you used to sleep in. Those were all fans, you know, And you know there's some other sounds coming but mostly those fans trying to cool everything down. We've got a lot of stats here that are pretty eye popping. But there are eleven roughly eleven thousand data centers around the world. Most of these are not AI obviously, but they're the most you know, robust sort of u users of the energy. But they use between one and one point five percent, which it doesn't sound like a lot, but of the entire world's electricity usage. I know on planet Earth goes to data centers right now, and in certain places like Ireland, data centers use about twenty percent of the country's electricity.
+
+00:38:19
+Josh: Yeah, and if you dive into different places around like the world where data centers are like that's collectively, right, all of them in Iran and all of them in the world. If you kind of zoom into the towns where these things are located, there's well, there's something called Data Center Alley in northern Virginia outside of DC, where there's this huge concentration of large data centers, probably the biggest concentration in the world. Those data centers use about the same amount of electricity as sixty percent of all the households in the state of Virginia.
+
+00:38:55
+iHeart Intro: Yeah, here's another one. By twenty thirty, they're predicting. This is Barclay's Bank is predicting that data center energy use in the United States would make up about thirteen percent of the entire electricity demand of the United States. And Meta has there. They all have silly names, but they're data centers called Hyperion. They're all you know, one was where are the where's that list? They're all these kind of sci fi sounding names.
+
+00:39:23
+Josh: Yes, Stargate, Yeah, Jupiter, Prometheus. God, I'm sure all of those nerds are like, what do you mean silly?
+
+00:39:31
+iHeart Intro: If I opened up a data center, I'd call it Old Bessie.
+
+00:39:34
+Josh: Bessie's I hope so bad that somebody's listening to this and they open a massive hyper scale data center named Old Bessie.
+
+00:39:43
+iHeart Intro: That would be great. But Meta's Hyperion data center will consume by the time it's finished, about five gigawatts. And if you're like, what's five gigawatts? That is about half of the peak load.
+
+00:39:55
+Josh: Of all of New York City, the most that it can possibly it can possibly be demanded.
+
+00:40:00
+iHeart Intro: Right, Yeah, the very toplope probably, I guess in New York City on the hottest day of the year, with all the lights on at night or something. Yeah, and that Rocketfeller tree just they just there's a summer version.
+
+00:40:13
+Josh: That puts it over the edge that's right blackout. So you can imagine that when you're using all this electricity and using all this water, if you're starting to build these massive data centers, you're looking for places that have like cheap land, cheap electricity, and because electricity is often more expensive than water, they'll go to places. They'll build them in places that are like water scarce, that have cheap electricity. I'm the premise that, like, we're a massive multinational corporation, we can push around this little county and use up all of their water and what are they gonna do? Nothing?
+
+00:40:52
+iHeart Intro: Yeah, And I mean that's literally happening. There's one right here in Georgia, in Newton County. It's a metadata center that's using tenth of the local water use. And like you said, water is a is a resource that isn't infinite. We've talked about the dangers in the future of like you know, perhaps the wars of the future will be fought over water, and this could get us there. I think in Phoenix, Arizona, you know, known for their abundant water. Meta and Microsoft use seven million gallons of water every single day for their data centers.
+
+00:41:25
+Josh: Yeah, every day, you said.
+
+00:41:28
+iHeart Intro: Every day, seven million gallons of water.
+
+00:41:30
+Josh: That's insane. Yeah. And when I saw this, I was like, oh, here we go. In the UK, data centers used ten billion leaders of drinking water every year. L I. T R. E. S. Yeah, that's right. Uh.
+
+00:41:46
+iHeart Intro: But you know you mentioned some of these towns. Not only are some there like using let's say ten percent of the local water here in Newton County in Virginia where data center Alley is, some of these places are like some of these towns are running out of water, Like they go to turn on their water and water doesn't come out because of this.
+
+00:42:04
+Josh: Well. Plus also, like we talked about how gamers are getting the short end of the stick when it comes to buying graphic cards because they are in such high demand, same thing happens with electricity. So in addition to this data center coming to town and using up all your water, they're also jacking up your electricity prices because there's only so much that your local electrical company can produce, So because of supply and demand, your price is going to rise, and I guess around Data center Alley in Northern Virginia, electricity prices have increased two hundred and sixty seven percent since twenty twenty. And that also is affecting Maryland, which is getting little to no benefit from Data center Alley and is just helping pay the price for it. This is subsidization of these data centers, like they are subsidized in just about every single way you can imagine.
+
+00:42:59
+iHeart Intro: Yeah, for sure. And if you say like, oh, well sure, but they create jobs, right, so that's great for the local economy. Kyle gives an example here of Northumberland, England. There's a ten billion pound data center there or I guess it's coming and you'd think, oh, great, that's that's going to employ probably like five thousand people, right, it's going to employ four hundred people with full time jobs.
+
+00:43:22
+Josh: Yeah, a ten billion dollar or ten billion pound data center four hundred jobs. Because these things are so efficient and everything is just so advanced, they don't really need that many people to keep an eye on it. Right. Plus, Also, the money from that data center, if they're not going to spread it around the UK, it's going to flow right back to the US, to the parent company.
+
+00:43:46
+iHeart Intro: Oh yeah, for sure. And you know, we also didn't point out that a lot of these these energy grids like are literally going to buckle under pressure at some point, like they're not built for this.
+
+00:43:57
+Josh: Yes, and we're not so we're I know, it sounds like we're just like and this and that. How terrible are data centers like There's they're they're incredibly important and they support an amazing array of really great stuff, right and they they are the foundation that the next expansion of the digital economy and the world culture are going to grow on. Like, they're incredibly important, but they have a lot of problems with them that need to be addressed. They're not being addressed because every government from like the local city council up to the leaders of the free world, like are just giving these people whatever they want. That's what's going on now. There's no checks going on at all, right now, that's the problem.
+
+00:44:47
+iHeart Intro: Yeah, And that's that's because the flow of money is so great at this point to a certain segment of the population. Only they're protecting their their own investment, you know, they're watching their own backsides.
+
+00:45:01
+Josh: That's definitely I would say ninety nine percent of it. But I think there's also chuck, a little factor of like g whiz, Like these these titans of the AI industry are good at like razzle, dazzling elected officials into doing whatever they want by I think making them feel included in this new frontier. Essentially, I think there's a certain element of that.
+
+00:45:26
+iHeart Intro: I think you're probably right. It's hey, maybe it'll all work out great.
+
+00:45:30
+Josh: Sure, it probably will. It usually does astoundingly, it usually does work out well.
+
+00:45:37
+iHeart Intro: True as far as the world hasn't ended.
+
+00:45:39
+Josh: That's exactly what I mean. Yeah, yeah, yeah, So I think that's it. We said yeah like four or five times in secession. I think we accidentally triggered listener, ma'am.
+
+00:45:51
+iHeart Intro: That's right. This relates to our history of the BBC episode, and this is from Erica, and Erica says, hey, guys, I really love the episode and left me reflecting on how I've come to understand the country through both the content the BBC produces and the people's reactions to the BBC. But more recently, my work as an academic has enabled me to be involved in creating programs for the BBC across TV, radio and online. Because there's one awesome fact about the BBC that wasn't included. For over fifty years, the BBC has partnered with the Open University OU, which specializes in accessible and distance education. The partnership started in the nineteen seventies to provide learning at scale, including facilitating university level lectures at night on public television. Today, the partnership facilitates access to academic consultants to co produce high quality and form content across platforms, including some of the David Attenborough.
+
+00:46:44
+Josh: Nature stuff nice.
+
+00:46:46
+iHeart Intro: Additionally, the Open University creates supplementary materials to enable people to continue their learning journey and explore topics in more detail. So, whether viewers or listeners realize it or not, this partnership enables the public to benefit from special US knowledge and accessible ways. And that is from Erica from the Open University, who is a professor of medical anthropology.
+
+00:47:08
+Josh: Oh wow, that's an awesome Erica. You got to send us some topic ideas too, totally right up your alley and congratulations. That's pretty neat making stuff in conjunction with the BBC. That's gotta be a neat high water mark, you know, agreed, And I think, Chuck, I'm curious to see if we go look at our account, we'll see a little line item from open University and one from BBC.
+
+00:47:33
+iHeart Intro: Well, it would be like seven pounds or something. I don't know the exchange rate, right.
+
+00:47:36
+Josh: That sounds about right? All right, great, well, thanks again, Erica, and please do send us some medical anthropology ideas because that just sounds like it'll knock our socks off. And if you want to be like Erica and try to knock our socks off, good luck, you can send it off to us at stuff podcast at iHeartRadio dot com. Stuff you Should Know is a production of iHeartRadio. For more podcasts my heart Radio, visit the iHeartRadio app, Apple Podcasts, or wherever you listen to your favorite shows.

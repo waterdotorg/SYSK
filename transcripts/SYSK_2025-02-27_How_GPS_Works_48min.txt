@@ -1,0 +1,794 @@
+Episode: How GPS Works
+Date: 2025-02-27
+Duration: 48 minutes
+Episode URL: https://omny.fm/shows/stuff-you-should-know-1/how-gps-works
+Audio URL: https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62cc6275-1c4a-4f91-9cd1-b290013ff807/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e
+Transcript URL: https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/62cc6275-1c4a-4f91-9cd1-b290013ff807/transcript?format=TextWithTimestamps&t=1740598430
+
+================================================================================
+
+00:00:01
+Josh: Welcome to Stuff you Should Know, a production of iHeartRadio.
+
+00:00:11
+Chuck: Hey, and welcome to the podcast. I'm Josh, and there's Chuck and Jerry's here too. Jerry's at Cabin in the woods even and this is Stuff you Should Know podcasting from the future.
+
+00:00:24
+Josh: That's right, And we are going to take a couple of minutes here at the head of the show to pay tribute to HowStuffWorks dot com founder Marshall Brain, who passed away last November at the age of sixty three.
+
+00:00:42
+Chuck: Yeah, he is the guy who started at all and it's really hard to understate the impact that that guy had on our lives.
+
+00:00:52
+Josh: Yeah, just about Marshall. He was an electrical engineer, had a Bachelor of Science. He was a longtime professor he State, and in nineteen ninety eight he founded as a hobby HowStuffWorks dot Com because he wanted to. He had a very pure goal, which was to make complex things understandable and relatable to everyday people. And that is you know, that's what we still do. We were hired as writers there. I never met Marshall personally. I think I saw him come through the office a couple of times early on, but I never had the pleasure of actually sitting down with the guy.
+
+00:01:29
+Chuck: I met him a couple of times. He was a good guy. He I think some of his first articles. I think the first one might have.
+
+00:01:37
+Speaker 3: Been like how air conditioning works?
+
+00:01:39
+Chuck: Yeah, remember Scooby Doo. We did an episode on Scooby Doo based on one of his articles.
+
+00:01:44
+Josh: Was that Marshall?
+
+00:01:45
+Speaker 3: Yeah totally Oh interesting, But yeah, he was a very good guy.
+
+00:01:48
+Chuck: And without him, I can tell you I would not be podcasting, And if I were, it probably wouldn't be a very good podcast because you and I would have never met, and I would have never met. Like the fact that Marshall came along and founded How Stuff Works set my destiny in a lot of ways. So I'm really grateful to him for that.
+
+00:02:09
+Josh: Yeah, for both of us. He was also an author. One of his books is called The Doomsday Book, colon the science behind Humanity's Greatest Threats, something that Josh has particular interest in.
+
+00:02:23
+Speaker 3: Yeah for sure.
+
+00:02:24
+Chuck: Yeah, he's a transhumanist, down with Nick Bostrom and all those guys.
+
+00:02:29
+Josh: Yeah. So Marshall was also a TV host. He eventually was the director of NC State's Engineering Opportunities Program, which helped mentor aspiring inventors, and Marshall was survived by his wife, Leanne, his four kids, David, Arena, Johnny, and Ian, and their dog Summer. And it was just really sad to hear the news because, like you said, Marshall wouldn't for him, we wouldn't be here now. And we'd like to think we're still carrying on his tradition of making complex things accessible.
+
+00:03:03
+Chuck: I like to think that too. Yeah, So here's to you, Marshall, rest in peace. And as tribute, we chose an article, one of the few ones that we hadn't recorded, that that Marshall wrote originally on GPS. And this is like bread and butter Marshal brain stuff. There's engineering, there's science. There's some more engineering, uh huh, there's figuring things out with circles and diameters and stuff like that, like straight up Marshal stuff.
+
+00:03:31
+Josh: Yeah, classic Marshal, classic house stuff works. And even though our show is kind of grown and more, if it's fun to go back and do these every now and then.
+
+00:03:40
+Speaker 3: Yeah, for sure. So let's get started, shall we.
+
+00:03:43
+Josh: All Right, GPS tells you where you are the end, There you go.
+
+00:03:46
+Speaker 3: That's that's word for word Marshall's article.
+
+00:03:50
+Josh: Yeah, it's actually sounds intimidating, but it's really not at all. It's a pretty simple process, believe it or not.
+
+00:03:59
+Speaker 3: Yeah, surprisingly, But what it is.
+
+00:04:01
+Josh: Overall, GPS is a as Marshall wrote, a space based radio navigation system that technically GPS is the one that the US government owns. If you had lived in another country, it's not called GPS, it's called a GNSS.
+
+00:04:18
+Chuck: Yeah, Global Navigation Satellite system is the generic term. And GPS has become like the Kleenex of global navigation satellite systems, like it's the proprietary eponym.
+
+00:04:32
+Josh: Yeah, exactly. But you know, that's what the system is that tells you where you are when you take out your little smartphone and say where in the world am I or how in the world do I get somewhere? If you want to get somewhere, they got to know where you are at that moment, and that's why you can do that twenty four seven.
+
+00:04:49
+Chuck: Yeah, And GPS is owned and operated by the American government, and it's paid for by the American taxpayers. But it's used worldwide. I think out of eight points something billion people on the planet today, six billion of them use GPS every day. So it's America's gift, I think, is what I'm trying to say, because if anything, that's what America is known for. It's like creating things and giving it away to the rest of the.
+
+00:05:14
+Speaker 3: World for free.
+
+00:05:16
+Josh: Yeah, well, we'll see what happens with that. You never know, but right now, that's the current situation. They do this with satellites at least twenty four. Usually there's more than thirty. And if wherever you are on Earth, if you had you know, super super long vision, you could look up and see four of these bad boys with your eyeballs because you got to have those four to tell you where you are for sure.
+
+00:05:50
+Chuck: Technically you just need three, but let's not get into that right now. Okay, So those satellites are up a medium Earth orbit about eleven thousand miles above Earth. They circle it constantly. They're not geostationary, so they circle the Earth and they rise and set I guess every twelve hours, so twice a day. They're like the tides basically, and the GPS satellites are just one component. There's three components. There's a satellite component, there's the control component, which is on the ground, the Space Force runs GPS, so they're constantly tracking, monitoring, telling satellites what to do, like really bossing them around. And then the third component is you, the person using GPS, or more technically your receiver that is telling you where you are in the world.
+
+00:06:37
+Josh: Yeah, that's the important part, because I've tried. I've gone out there without a phone and just shouted up where am I nothing?
+
+00:06:43
+Speaker 3: They're like, get a phone.
+
+00:06:47
+Josh: One of the cool things about GPS is this was kind of roughly figured out a long time before we even had satellites. There was a doctor, doctor Ivan Getting, who is a physicist and American, who basically said, hey, you know what, you could find out someone's three D coordinates if you use radio signals and just calculated the time it takes for those signals from different sources to reach a single point on Earth and that's GPS basically.
+
+00:07:15
+Speaker 3: Yeah.
+
+00:07:16
+Chuck: And the people around Getting, especially his greatest critics, were like, oh, yeah, yeah, how are you going to do that? There's nothing up in space, you jerk, How are you going.
+
+00:07:23
+Speaker 3: To do it?
+
+00:07:24
+Josh: Exactly?
+
+00:07:25
+Chuck: And he said, just wait, And they sat around and they waited, I don't know how long. They waited for a while, and they finally went home, and then a couple of years after that, the Soviets came to the rescue in a certain weird way. They launched Sputnik, and in America, in the United States, it was not a happy time. They called it the Sputnik crisis because basically at the time, we thought the Soviets were just like some backwater backwards country, and all of a sudden they were the first ones to launch a satellite into space, and it took us by surprise. But doctor Getting's theory was able to be put into use because American scientists figured out that you could track Sputnik because it's radio signals. I don't know quite how to put it. Let's say they engaged in the Doppler effect. They dabbled in Doppler so that when the satellite was moving away from you, the frequency that reached you here on Earth was different than the frequency when the satellite was moving towards you, or when the satellite was just stationed above you. So they figured out that you can track satellites based on these radio signals, and that gave the initial rise to GPS, which is you need to track the satellites to know where they are because that is an essential piece of information for GPS, and that kind of led to people saying, like, okay, let's get getting's idea off the ground.
+
+00:08:51
+Josh: Literally, yeah, literally, off the ground and into space. Sputnik was October fifty seven, and a couple of years later we said, oh, yeah, we'll see your Sputnik and we'll raise it five satellites or I guess raise it four for a total of five satellites.
+
+00:09:07
+Speaker 3: Sure, all aces, that's right.
+
+00:09:09
+Josh: And this was nineteen sixty I'm sorry. In nineteen sixty seven they had really precise clocks on board these satellites. And then just five years, six years after that, in seventy three, Navstar was formed and that is the system, the program that is GPS basically. And then we said, all right, now, it's just gonna take this about twenty years to figure all this out.
+
+00:09:31
+Chuck: Yeah, nineteen ninety five, the whole thing was finally operational. They just kept shooting up satellites and tinkering with it and get it going. And I wish we would have kept the name Navstar. I think it's a little cooler than GPS, but I don't know, maybe it sounds a little more hostile or assertive. So GPS is probably okay.
+
+00:09:49
+Josh: You want to talk about assertive. What about space.
+
+00:09:51
+Speaker 3: Force Space forces? I don't know, it's space Forces. That's the name.
+
+00:09:56
+Josh: Sounds like a movie. It does, like a mel Brooks movie.
+
+00:09:59
+Speaker 3: It us.
+
+00:10:02
+Chuck: But so we called the GPS and there were two versions that they released at the same time. One was L one. That bandwidth was used for civilian purposes, everything from well, if you weren't in the military, let's say you used L one, If you were in the military used L two.
+
+00:10:21
+Speaker 3: It's much more.
+
+00:10:22
+Chuck: Precise out of the gate. But the entire reason that this went from what I think was originally a military project intended just for use by the military, to one where everybody who had a GPS receiver could use it for free, was actually based on a tragedy that occurred in nineteen I think eighty three with Korean Airlines Flight zero zero seven.
+
+00:10:47
+Josh: Yeah, that was a flight intended to go from New York to Seoul. To get there, they were flying over Alaska and still today we don't really know why, but it veered off course about two hundred miles into Soviet airspace. This was not a great area of Soviet airspace to be near because it was near some secret military installations, and so they scrambled a couple of fighter jets, Soviets did miggs I reckon, and they tried to contact the plane, could not get in touch, and then down the plane with a missile and killed everybody, two hundred and sixty nine people. I remember this. I was twelve. Oh yeah, yeah, I mean, you know, of course I didn't understand something like that fully at twelve, but I remember it being, you know, all across the news.
+
+00:11:34
+Chuck: Well, having been raised in the United States and being twelve.
+
+00:11:38
+Speaker 3: In nineteen eighty three during the Cold War.
+
+00:11:40
+Chuck: I bet you were so mad at the Rusky Comis for doing that.
+
+00:11:43
+Josh: Oh man, oh man. There was probably a song on FM radio that you know, encapsulated this. Oh I'm sure like that a DJ made, you know, not a real song, right right, There were so many It used to be such a thing.
+
+00:11:57
+Chuck: Yeah, it was. Weirdly, it was a thing. But I'll bet it was the survivor that sang the song.
+
+00:12:02
+Josh: Yeah. Probably. What I don't fully get now. What I do get is that, you know, airplanes and air airlines have GPS on their airplanes, so they don't do this now. But why did that like broaden it to the public at large, Like, couldn't they have just said, all right, it's for the military and for the FAA.
+
+00:12:23
+Speaker 3: I don't know.
+
+00:12:23
+Chuck: Maybe they just thought that there were other potential tragedies that they couldn't foresee that could be gotcha.
+
+00:12:30
+Speaker 3: I don't know. I don't know.
+
+00:12:32
+Chuck: If there's one thing that I'm not it's in Ronald Reagan's head, right, I just don't know.
+
+00:12:41
+Josh: Uh. So, we have one GPS system, which is kind of a problem. We don't have a backup yet, which you know, we'll talk a little bit about that more later. But there is more than one GPS because it's not like China and Russia are like, hey, we'll just you know, use your GPS when we want to bomb something.
+
+00:13:00
+Speaker 3: We want to shoot a missile at you.
+
+00:13:01
+Josh: Yeah, exactly. So China and Russia and the EU all have their own GPS, and I think they all have backups even and we don't.
+
+00:13:08
+Chuck: Right, it just takes too many floppies to back up our GPS.
+
+00:13:11
+Speaker 3: So we're just.
+
+00:13:12
+Chuck: Going without right now. Yeah, you want to take a break.
+
+00:13:16
+Josh: Yeah, let's take a break. I think it's a fantastic setup.
+
+00:13:19
+Chuck: Okay, and when we come back, we're gonna really wing it by trying to explain how GPS works.
+
+00:13:51
+Josh: All right, So if you want to geo locate something or somebody you're gonna need and you're on Earth, you know, you can just use longitude and latitude and that'll do a pretty good job.
+
+00:14:03
+Speaker 3: Sure.
+
+00:14:04
+Josh: GPS is like, hey, what if you want to find out where you are relative to C level, we can do that and you can't longitude and latitude. Yeah, and GPS does that with microwaves. They decided not to use radio waves for reasons we'll talk about, but they use microwaves sent down to Earth.
+
+00:14:22
+Speaker 3: They do.
+
+00:14:23
+Chuck: And so these microwaves I've seen both, Chuck, I've seen that they're constantly beaming transmissions like basically uninterrupted from the satellites, or that they do it like on a repeating pattern. Regardless however this information arrives, it contains a few really important pieces of information. And one thing we should point out apparently there's a misunderstanding that a lot of people think when you open up like your location services or whatever on your phone, your GPS antenna ping satellites, that's not the case. It passively listens for GPS, the four GPS satellites broadcasting constantly or intermittently, and it picks them up right, and so the information it gets is the time. And this is a really important component. And we've talked before about atomic clocks and just how ridiculously precise they are, and on a GPS satellite there's multiple atomic clocks that are keeping time together and to make sure that they stay synchronized. And then the satellite sends its own location. Apparently they figure out their location using celestial landmarks like quasars, so the satellite knows where it is at all times, so it can tell you or your GPS receiver. And then there's a satellite ID that says I'm me and that is good.
+
+00:15:43
+Josh: Enough, that's right, And that is in the form of a pseudorandom code. And one of the cool parts about that is it it's going to tell you like, yeah, it's coming from this satellite. Here's my pseudorandom code. But it also uses us a slightly differently all frequency, so the frequencies don't jam one another. So all these satellites, because the frequencies are just slightly varied, can all talk to each other because you don't want satellites up there jamming each other.
+
+00:16:12
+Chuck: No, but they can also talk to you too, virtually at the same time, if not at the same time, because don't forget, you're getting information from four different satellites to figure out where you are. So you don't want to get one from one wait a couple of minutes, get one from the other. You want them all to be coming in basically at the same time, and by slightly altering their frequencies, they can all arrive.
+
+00:16:35
+Josh: Right. And this is one final bit of key key information here. All these satellites, great, they're beaming microwaves down. Fine, If we didn't know how fast those microwaves traveled, then none of that would do us any good. We have to know exactly how fast that stuff travels in order to measure a distance, and in this case, we know that electromatic wave microwaves travel at speed of light one hundred and eighty six two hundred and eighty two miles per second.
+
+00:17:06
+Chuck: Right, So now they have all the basic information. I think this is why you were saying at the outset. This is actually kind of a simple.
+
+00:17:14
+Speaker 3: Setup. GPS is if you take it.
+
+00:17:19
+Chuck: So if that satellite sends you an information piece of like a signal, and it says I sent this exactly at one forty five pm and it arrives at one forty five pm and one second. And you know that microwaves travel at the speed of light, you can use that information to calculate the distance between you and the satellite. Okay, when you know that the satellite is located here in space, and then you figure out your distance from the satellite, you start to have your first piece of information about where you are. Because now you know where you are relative to one satellite. That's not enough information to tell you where you are on Earth, but it's a real good start.
+
+00:18:01
+Josh: That's right. And you might be thinking like, yeah, but what about stuff getting in the way, Like if this stuff is supposed to be exact, then you know, what about a tall building or what about you know, weather in space like that can throw all this off, right, guys, And that's true. But they have a very pretty brilliant workaround for that. One method is called differential GPS, And they have these antenna on Earth that are that are locked in. They're stationary, They're not going anywhere. We know exactly where they are. They're called known points for that reason, and since we know exactly where those are, they're receiving these transmissions from GPS, and so they can calculate whether or not the location is off and that you know, if this thing is locked in place, but the calculation coming from the GPS is off by a little bit, Hey, it must have gone through some thick shrubbery or bounced off a building or something. But either way, we're locked in place. So we know exactly what that should be, and thus we'll know what that discrepancy is and we can account for that.
+
+00:19:07
+Speaker 3: Right.
+
+00:19:07
+Chuck: So, once that that nome point has that discrepancy, it sends that out, that information out to all the GPS receivers in the area, so they can use it to adjust their own GPS readings that they're getting from those satellites that were slightly off. But they didn't have any way to remedy it. Now they do because the nome point is like, hey, so like be as off? I like, right, nano seconds, don't tell it, but yeah, I just wanted to let you know.
+
+00:19:35
+Josh: Yeah, and hey, listen, I won't tell everybody. I'll just adjust it on my end and they'll never know that.
+
+00:19:40
+Chuck: You screwed up, right, And also there's something in your teeth, right, Oh it's cool.
+
+00:19:48
+Speaker 3: Gross cale is so gross.
+
+00:19:51
+Josh: You don't like gail.
+
+00:19:52
+Speaker 3: I can't. I have to choke it down. And gross is the wrong word. It's just too harsh.
+
+00:19:58
+Josh: Yeah, yeah, too much kale, like a salad with only kale, or like God forbid you eat a bag of kale chips like this, you would die.
+
+00:20:07
+Speaker 3: You wouldn't be able to breathe any longer.
+
+00:20:09
+Josh: It's too much at once. Yes, oh boy, all right, so now we get to try lateration. Take it away, friend.
+
+00:20:18
+Chuck: Oh no, you're the trilateration expert between us. Let's tell everybody what happened.
+
+00:20:23
+Josh: Well, first of all, let me explain that try lateration is not the same as triangulation, because we're not talking about ankles. We're talking about distance. And somewhere in there is the key of where I was screwing up. Because you had sent me this and very elegant, sort of simple to explain.
+
+00:20:39
+Speaker 3: Way, Hey, this is lot, this is Marshall.
+
+00:20:41
+Josh: Okay, I'll have Marshall brain. It was explained about, you know, like a Venn diagram, three circles overlapping and then the point where they overlap is where you are. We'll explain that more thoroughly. But I was just drawing three random circles, and I'm like, three random circles don't always intersect it a point, right, Like they might overlap in an area, and so the center of that area maybe is what we're talking about. But then I realize you can't just draw three random circles and expect them to have a tangent point because they don't always. Right in the case of GPS, I guess it's just a very exact measurement from one place to another, and in that case they will intersect.
+
+00:21:18
+Chuck: Right, Okay, Okay, So I think you should also tell everybody that when you sent me a picture of your three circles with.
+
+00:21:27
+Speaker 3: The like the part where they overlap, they all overlap.
+
+00:21:31
+Chuck: You would put a point in there re morote bingo with an exclamation point.
+
+00:21:35
+Speaker 3: You're like, case, I.
+
+00:21:38
+Josh: Thought I really figured out something here.
+
+00:21:40
+Chuck: I think you may have discovered something else that we're not aware of yet, So I don't.
+
+00:21:45
+Josh: Someone will tell us just put it to this.
+
+00:21:47
+Chuck: No, I think like you might have just intended like a new way of calculating things.
+
+00:21:52
+Josh: No, I'm sure there's a name for it, and some science person's gonna say, oh, chuck, that's just blank.
+
+00:21:56
+Speaker 3: Oh.
+
+00:21:56
+Chuck: I wish they would because I don't know either. But I like, it's off to you because man, I can't tell you how many circles. I guess you probably drew just trying to get this to work. And I don't blame you. I was smart and was like, there's madness there. I'm just going to try to understand this as best I can. I'm not going to try it myself.
+
+00:22:15
+Josh: I got a freaking compass at one point because you were like, it's because the circles are willy nilly, and I was like, okay, I'll draw them perfect.
+
+00:22:22
+Chuck: Okay, So well, let's talk about trilateration because in theory, I guess it's very simple. And the way that Marshall described it was, let's say you're lost. You're in the United States, and you ask somebody where you are, and that person says you are six hundred and twenty five miles from Boise, Idaho.
+
+00:22:42
+Josh: And you say, thanks a lot. That doesn't tell me much, right.
+
+00:22:46
+Speaker 3: You actually push them down as they're walking away.
+
+00:22:48
+Josh: Yeah, but.
+
+00:22:51
+Chuck: After you get away, you're chased by the police, but you make it down an alley and hide behind some garbage cans as they pass by. You have a good idea, you go buy a man and you spread out your map. Maybe you buy a compass as well, I'll a chuck, and you draw a circle around Boise, Idaho, using Boise as the center point that is six hundred and twenty five miles in diameter, or at least represents that by scale, right, And you're like, Okay, I am somewhere on this circle that has a diameter of six hundred and twenty five miles around Boise. Kind of helpful, it's a little bit narrowed it down, but I need more information. So you go find somebody else and you say, hey, do you know where I am?
+
+00:23:37
+Speaker 3: Yeah?
+
+00:23:37
+Josh: Is this where I could come in?
+
+00:23:39
+Speaker 3: Yeah? Yeah?
+
+00:23:40
+Josh: Hey, well I'm not going to tell you that, but how about this. You're six hundred and ninety miles from Minneapolis.
+
+00:23:44
+Speaker 3: Okay, So that's great.
+
+00:23:46
+Chuck: At least they didn't repeat the Boise thing, right, because if they said that, you'd just be like, man, that didn't help it all. But now you know where you are from Minneapolis, and you can do the same thing with Minneapolis using that as the center point of a circle. You draw one a circle with a radius of six hundred ninety miles around Minneapolis. Now you're really close because what you'll find is the circle around Boise and the circle around Minneapolis.
+
+00:24:11
+Josh: They overlap, right, Yeah, you get little football in the middle.
+
+00:24:14
+Chuck: Yeah, it's like a ven diagram. And if you look at a ven diagram where those two circles overlap, there's two points where they intersect, right where they cross each other. Those lines cross each other. And because you are six hundred and twenty five miles from Boise and six hundred and ninety miles from Minneapolis, you are somewhere where those two circles overlap. With those two points, one of those is right, the other is off by hundreds of miles, So you still need to narrow.
+
+00:24:46
+Speaker 3: It down right.
+
+00:24:47
+Josh: So you're like, is there one more wiseacre in this town who will tell me? By not telling me where I am where I am right? And so you go into this final the only other gas station in town. Guys, Someone told me how six to twenty five from Boise didn't help much. Someone else said six' ninety from Minneapolis. Please just tell me where I am. They said, oh, oh, you're six hundred and fifty miles from Tucson val.
+
+00:25:11
+Chuck: Do you just trash the place at this point.
+
+00:25:13
+Josh: Yeah, you just lay waste. You find the nearest broom, and you just start knocking everything.
+
+00:25:17
+Speaker 3: Off the shelves. My collector beer steins. All right.
+
+00:25:22
+Josh: So now you got three circles though, And this is where I got super tripped up because I was like, oh cool, let me draw this out. And I drew it out, and I was like, these don't intersect it at a common point, right, But if you're using exact GPS calculations distance from a satellite or in this case, points on a map, then that's that's you know exactly where you are because it's going to intersect it at only one place. At three points.
+
+00:25:48
+Chuck: Yeah, all three circles will overlap with one another, so they intersected two different points. Each circle intersects with the other at two points, but all three of them will only intersect it one single point. And you have just trilater related your position. Now you know where you are. And Marshall said, this is Denver, by the way, that's where you are is Denver. Because I think if we hadn't have included that, some people would have been really upset.
+
+00:26:14
+Josh: Yeah, but you knew you're in Denver because you can't catch your breath and it smells like weed everywhere.
+
+00:26:18
+Speaker 3: That's right, And now you have to figure out what to do even though you're dead.
+
+00:26:22
+Josh: Yeah, and liberals and conservatives are smashed together and everyone's like, what kind of state is this?
+
+00:26:27
+Speaker 3: It is? It's crazy like that, isn't it?
+
+00:26:30
+Josh: Yeah? I love Colorado. I think it's interesting that way.
+
+00:26:33
+Chuck: It's like all of these shows we've done in Denver. It's like a wedding, like split.
+
+00:26:38
+Speaker 3: Down the middle.
+
+00:26:39
+Chuck: The people on one half of the room all have guns out. The other half are all playing Hackey Sack. Right, it's an interesting place.
+
+00:26:48
+Josh: And one guy goes, hey, you ever try to shoot a Hackey sack? Admit air watch this kind of fun.
+
+00:26:55
+Chuck: Okay, So let's trilater elation. That's two D trilater relation, because what you've done has found your If you were a flat point and the Earth was flat, which it's not, that's all we would need to do. But the Earth is a sphere. It's round, and so what GPS uses is three D trilateralation, which rather than flat circles, it uses spheres. And when the three or four usually could use four satellites where those spheares all intersect the one point that's where you are, because now you not only know where you are longitudinal latitudinally, you also know where you are at altitudinally.
+
+00:27:33
+Josh: My friend, I hate to break it to you, but you did the old Josh Clark insert an extra consonant.
+
+00:27:39
+Speaker 3: Thing, trilateralizational.
+
+00:27:42
+Josh: It's trilateration, I know.
+
+00:27:44
+Chuck: And I've been wanting to say trilateralization for so long.
+
+00:27:48
+Josh: Well you aren't even taking it out. You were saying trilateralation.
+
+00:27:53
+Speaker 3: Okay, all right, So.
+
+00:27:54
+Josh: Now that's three ways.
+
+00:27:56
+Speaker 3: So trilateration, trilateration.
+
+00:27:59
+Chuck: That sounds made up like space force, I know, all right, trilateration isation, yeah, elie station.
+
+00:28:09
+Speaker 3: So that's it.
+
+00:28:10
+Chuck: That's how you figure out well, I should say, that's how your GPS receiver figures that out. It has it knows where those three or four satellites are because they tell it where they are. It figures out the distance between you the in your receiver for each of those four, and it tells it, oh, here's where I am, because here's where all those that information intersects.
+
+00:28:31
+Josh: Right, And I think you mentioned the spheres while I was obsessing about the extra l right, Yes.
+
+00:28:36
+Chuck: I did, Okay, And there's a really pretty image out there. I can't remember what website I found it on, but if you search like how GPS trilateration works, it will come up, I'm sure. But it shows like the four spheres created by the satellites and they're all in four different primary colors and it's so pretty.
+
+00:28:56
+Speaker 3: I saw it.
+
+00:28:56
+Chuck: Yeah, I understand that there are three primary colors, but whatever the fourth one is, it's basically a primary color as far as I'm concerned.
+
+00:29:04
+Josh: Okay, should we take our second break?
+
+00:29:09
+Speaker 3: Yeah?
+
+00:29:09
+Chuck: I think so, Chuck. We earned it with that trilater relation trilateration explanation exploration.
+
+00:29:16
+Speaker 3: We'll be right back, okay, Chuck.
+
+00:29:45
+Chuck: So there's one other thing, kind of like a little sidebar. I felt what we should talk about. If you've ever tried to figure out where you are and your phone's like, turn on Wi Fi and we'll get a better reading.
+
+00:29:57
+Josh: I've never understood that until you explained it.
+
+00:30:00
+Chuck: So what it's trying to do is it's prompting you to turn on your Wi Fi based positioning system. And that is based essentially on the same thing that doctor getting was getting at, which is you can use information from different sources in comparing those sources to figuring out where you are, and so rather than using satellite information this it bases it on the known strengths of different Wi Fi network towers, antenna and so, depending on how strong one signal is compared to where you are, in addition to comparing it to another signal, and another signal and another signal. It's like, oh, you're you're in Denver, right.
+
+00:30:48
+Josh: You don't know how dumb I am.
+
+00:30:50
+Chuck: I don't think you're dumb, and I know you're not dumb, but let's hear what.
+
+00:30:53
+Speaker 3: You have to say.
+
+00:30:54
+Josh: I say this out loud at the risk of losing listeners that might be new listeners are like, I can't listen to this guy.
+
+00:30:58
+Speaker 3: Oh this is really dumb.
+
+00:31:00
+Josh: Up until said yesterday, whenever my phone or my car or something said that, you know, turn on your Wi Fi to improve accuracy of your location. It's like, I'm not near my house. What is this thing asking me to do. I'm not near my WiFi.
+
+00:31:14
+Speaker 3: You weren't like, you're not the boss of me.
+
+00:31:17
+Josh: No, I was just that's pretty dumb.
+
+00:31:20
+Speaker 3: I don't know.
+
+00:31:21
+Josh: It's not everywhere. It doesn't have to be your house Wi Fi.
+
+00:31:25
+Chuck: So yes, that's one way it does it, and it does it in your house too, but that's because your router is a big blabbermouth and tells everybody where you are. So I not get it.
+
+00:31:36
+Josh: It's like they don't know I'm not near my house. Why is it asking me to turn on my wife?
+
+00:31:41
+Speaker 3: So stupid?
+
+00:31:42
+Josh: Oh boy? All right, So, speaking of the opposite of stupid, your smartphone? How accurate are those things? When GPS first started they said, and this was again like ninety five ish, they said it's gonna be accurate to within one hundred meters ninety five percent of the time, which at the time was like, hey, that's not bad at all, Like that gets me in the in the neighborhood of where I want to be. They've gotten much much better now they say two meters within two meters of six point six feet, but it's really closer than that. They did some measuring in twenty twenty one and the global average across all users was about just a little more than two feet. And you know again that that depends on a lot of things. If it's got tall buildings in the way, space, weather, atmospheric conditions, Apparently, like a really dense like jungle canopy or a thick shrubbery can actually degrade the accuracy of that signal.
+
+00:32:38
+Chuck: Yeah, you got a hickory tree. Well ts for you because GPS isn't gonna work.
+
+00:32:43
+Josh: Is that a thick tree, thick canopy?
+
+00:32:46
+Speaker 3: I would, Yeah, I think so. I mean it's a known shade tree.
+
+00:32:50
+Josh: No a, oh, it's a uh, it's a it's a KST.
+
+00:32:55
+Speaker 3: That's right.
+
+00:32:56
+Chuck: Put it on the If it could broadcast information, it would also be a known point.
+
+00:33:01
+Josh: Yeah, exactly.
+
+00:33:02
+Chuck: So there's a there's a couple of other things that can mess with your GPS signal coming from the satellite because remember I said that they navigate celestially. Well, if the Earth's position itself relative to the satellite, satellite can know where it is. But if the Earth shifts a little bit, like the magnetic core slashes around just enough that the Earth kind of wobbles a little bit, or if the c currents are particularly strong, it can like slow the rotation of the Earth. Those things, I mean, just the tiniest, tiniest changes can alter the accuracy of the signal that it gets. But that's just the signal that they're like, we're going to get you within six feet.
+
+00:33:46
+Speaker 3: They don't guarantee.
+
+00:33:47
+Chuck: Your receiver, and your receiver typically adds a little bit of inaccuracy. I think five meters is usually what you what you're going to get from like your average dumb gpsceiver.
+
+00:34:02
+Josh: Yeah, and I get. I mean, it's amazing we're here because if you're like GPS to just say this is good. If you're five feet away from the restaurant or your friend and you don't see them, that's on you.
+
+00:34:14
+Speaker 3: Yeah, just look up.
+
+00:34:16
+Josh: Yeah.
+
+00:34:16
+Speaker 3: So we're getting better though, you know.
+
+00:34:19
+Josh: Now, No, it's getting I mean I imagine they're going to have it. I think March twenty four. If you're an ideal, if it's clear skies, you're out in the middle of the desert or something, they can they can be as accurate as thirty centimeters.
+
+00:34:31
+Chuck: Which is five double A batteries end to end. We're going to get even better than that, though, chuck, because right now there's some really good GPS antenna that are starting to pop up in smartphones, and those those are dual band, dual band, dual frequency receivers. One of those two and that uses the L one, the standard civilian GPS band that has been around since the beginning but has gotten better over time. And it also uses the new wiz Bang L five and this is like the next generation of GPS. It's not widespread enough yet. There's not enough satellites out there that are L five for an intended to just rely on that. But when you put L one and L five together, it gets pretty good. The thing is is you might ask yourself, like, why would you need to get like within centimeters of the restaurant that you're going to. It doesn't make sense. Well, some people use GPS for more than just finding the restaurant that they're going to.
+
+00:35:36
+Josh: Yeah, that's right. And your parents and grandparents might be using their garments still, so just have patients with them.
+
+00:35:44
+Chuck: I think that garment was actually one of the original GPS devices.
+
+00:35:48
+Josh: Yeah, and it's still being used in certain cars in certain people's families.
+
+00:35:53
+Speaker 3: Are those things even supported any longer?
+
+00:35:56
+Josh: I don't know. Man. It's pretty funny though. It's like looking at at a MySpace web page or something when you look at it. Oh, Ben, it is, But yes, I took us off task. You were talking about other things that this is used for a lot we talked about landing airplanes. That's pretty important. Accuracy is pretty important, maybe not down to the centimeter, but if you want to track soil moisture, you can do that via GPS. If you want to measure the size of a glacier and whether it's shrinking or moving, you can do that very very accurately, and not just sort of ballpark things anymore. Migration patterns. If you want to see where that school of whales is headed and how they know when they get there, and how far there are from where they started, you can do that with great accuracy.
+
+00:36:44
+Speaker 3: Yeah.
+
+00:36:44
+Chuck: Also things use it to basically stay in position, like modern agricultural equipment like harvesters, they go in a straight line by themselves thanks to really precise GPS. Same as self driving cars. Oh sure, yeah. Like apparently it's just grown so ubiquitous and so reliable that contractors use it, like like digital blueprints will have GPS coordinates for like a nail or an electrical outlet or something like that, so you can know exactly where that thing's gonna go, Which I mean that's got to cut down on construction costs and time dramatically.
+
+00:37:25
+Josh: Yeah, I thought the thing on tunneling was kind of cool. I never really thought about that. But if you're tunneling through two sides of a mountain to ideally meet in the middle and have a one long tunnel, that's not one tunnel with a little zigzag in the middle because they were off by a little bit. You can do that down to the centimeter, you know, or thirty centimeters rather.
+
+00:37:44
+Chuck: Yeah, a tunnel that goes through a mountain with like a hairpin turn.
+
+00:37:47
+Speaker 3: In the middle area.
+
+00:37:48
+Josh: That sounds great.
+
+00:37:49
+Chuck: And if you put all this stuff together, all these different uses for GPS, which again the American taxpayers give to the world for free, it generated I think in twenty twenty ninety four billion dollars worth of stuff, right, all of that receivers that were sold, all the tunnels that were drilled correctly, Like, all that stuff came to generate ninety four billion dollars and in the next five years it's expected to hit almost three hundred billion. So it's a big deal. Like, we rely on GPS a lot, and so because we rely on something this much, and because like you said, we don't have a backup of GPS in particular.
+
+00:38:32
+Speaker 3: It can be pretty delicate.
+
+00:38:36
+Chuck: I guess you could say to put it delicately, because it can get screwed up pretty bad, pretty easily, and in fact, on a very local level, you or I could go screw up somebody's GPS for fun anytime we wanted.
+
+00:38:50
+Josh: Yeah, that was a little disconcerting to learn. I thought like, oh, well, surely this thing has just some weird, robust government shield that can be hacked, right, And that's not true. In fact the military, I mean it's part of military, just regular operations to jam GPS for another country, they're planes and drones, or to spoof it is when you send it, you know, jam it and make it nonoperable. But you're like, oh, here's some fake coordinates that you're going to think are real, right, Yeah, like they do that all the time. Countries do that to us all the time. But like you said, any schmow that's got three hundred bucks can get a software defined radio and figure out how to use it and jam somebody's GPS. And so your neighbor's walking around wondering where that restaurant is.
+
+00:39:37
+Chuck: I know, they're like a Friday's, right, I want to go to Bennigan's. Yeah, so you were talking about spoofing. Apparently, Iran in twenty nineteen, just for kicks, spoofed British cargo ships GPS and told that it was in international waters when really they had drifted into Iranian waters. So Ron was like, Oh, you're our ship now, and you're our crew now. And they held the whole thing for ten weeks just by being jerks.
+
+00:40:06
+Speaker 3: Apparently.
+
+00:40:07
+Chuck: I can't figure out what the point would have been for that, other than to flex.
+
+00:40:12
+Josh: Yeah, that is a little odd. I'm sure somebody knows, or maybe it was a flex.
+
+00:40:17
+Speaker 3: Yeah, and the kids still say that, right, they flex.
+
+00:40:20
+Josh: Oh you're asking the wrong guy.
+
+00:40:22
+Speaker 3: Okay, well let's say they do.
+
+00:40:24
+Josh: I mean, Ruby says things I don't understand, and I just don't even ask.
+
+00:40:27
+Chuck: I know, I know my niece Mila was schooling a son slang and I'm like, there's no context for that. It doesn't make any sense. Yeah, I'm trying to think of one example. I know I'm gonna get wrong.
+
+00:40:41
+Josh: No cap no, something like skibbity Oh uh, Skibbity's toilet.
+
+00:40:48
+Speaker 3: Yes, and I.
+
+00:40:48
+Chuck: Understand, yes it's a web video or whatever, but the videos itself make no sense whatsoever too.
+
+00:40:56
+Josh: Yeah. Hey, you know all we did in the eighties was short and awesome, to OUs and unass.
+
+00:41:01
+Speaker 3: That our big contribution that was.
+
+00:41:03
+Josh: As sophisticated as we got. I don't know about the skippity stuff.
+
+00:41:06
+Chuck: Yeah, And I don't mean to complain. I mean the generation like builds on the mask, comes up with its own stuff. I'm happy about that. I just don't understand it.
+
+00:41:15
+Josh: Well, that's the point I think.
+
+00:41:17
+Chuck: You know, I think you're right, actually, and I'm kind of hurt by that.
+
+00:41:21
+Josh: Yeah, it's it's you know, kids and teens come up with their own language, so adults don't know what the heck we're talking about, and they can laugh behind our backs. Yeah, we did the same thing.
+
+00:41:30
+Speaker 3: I didn't.
+
+00:41:30
+Josh: We said that's very unaus and our parents were like, what are they saying?
+
+00:41:35
+Speaker 3: I can't make heads or tails of it.
+
+00:41:40
+Josh: Airlines can get jammed. There was a study that found intentional jamming of airlines was a problem in three regions only three. More than seventy thousand flights were jammed between February and August of twenty twenty two. And that you know, once you jam it up, you can't reset it. Like that plain Lands and then the unjamming happens.
+
+00:42:02
+Chuck: Yeah, you have to turn the whole thing off and reset everything. You can't just reset the GPS antenna.
+
+00:42:07
+Josh: And they need to work out all that stuff, don't you think.
+
+00:42:10
+Chuck: They definitely do. But something about those flights being jammed, Those are civilian flights being jammed by bad actors and sometimes governments and militaries. So what you're trying to do, essentially is to crash a plane full of people.
+
+00:42:23
+Speaker 3: Like that's your shot. It's not like a really.
+
+00:42:27
+Chuck: Dedicated shot at it, but that's pretty much the goal of doing that to an airliner.
+
+00:42:33
+Josh: Yeah, and you have no idea how much I put my hand over my mouth when you said bad actors, and I almost shouted out a few names of actors.
+
+00:42:41
+Speaker 3: Who are you gonna name?
+
+00:42:43
+Josh: No, I can't because you know, you never know people might listen to this. Where I'm sensitive to hurting people's feelings now here in my fifties.
+
+00:42:49
+Speaker 3: I think that's great, man, Well text me some names then I will. Okay.
+
+00:42:54
+Chuck: There's another thing that spoofing, I believe I think they spoofing for it is to cheat at games like Pokemon Go. Yeah, where you can fake where your own GPS coordinates are to say like, oh, I'm at the I don't know Pikachu's layer or something like that. So give me the egg that Pikachu's guarding, which I can turn into like some ski ball tickets and get a comb.
+
+00:43:23
+Josh: Or skibbity toilet. I hope that doesn't mean something dirty, right.
+
+00:43:27
+Chuck: It means nothing from what Mela's told me, Like, it's just basically a thing you say. Okay, I hope I'm not outing Mela is uncool though.
+
+00:43:37
+Josh: Well, I'm just glad that you have someone in your life that's a down with that kind of stuff, because it's pretty vital these days.
+
+00:43:45
+Chuck: I don't know if it's vital that I know that skibbity toilet exists.
+
+00:43:49
+Josh: But maybe not that. But Skibbity toilet has its own Wikipedia entry.
+
+00:43:53
+Speaker 3: Oh, I believe it. Have you seen the videos though that it's based on.
+
+00:43:57
+Josh: No, But I see a screenshot now and their MESMERI it doesn't pull me in.
+
+00:44:03
+Chuck: You should watch a second or two of it. You don't need to watch much. You get the gist of it really quick. But it's like like you'll find that your mouth is open, not in awe, but just because you're like you're glazed over right. So, like you said, the United States is not unaware of the vulnerability. That was what I was saying. It was in a delicate position. It's vulnerable. It's a very vulnerable system, and you know, like globally and also locally. So they are taking steps to update it and that is going to come in the form of adding more and more L five satellites. But for now, if you want to be a little shocked, taking into consideration how dependent we are a GPS, the average age of a GPS, specifically the United States is Global Positioning System satellites is thirteen years.
+
+00:44:58
+Speaker 3: Yeah, that is real the old for a satellite.
+
+00:45:01
+Chuck: But Chuck tell him how old the oldest satellite in the constellation of GPS satellites is.
+
+00:45:07
+Josh: Uh, that would be twenty seven years old, is that right?
+
+00:45:13
+Speaker 3: Yeah? Yes, that thing has circopania. Oh I guess that's it for GPS. Huh.
+
+00:45:23
+Josh: Yeah. This was more fun than I thought. And you know what, I'm glad we had some fun and had some laughs because it feels like a lighter tribute for Marshall. Yeah, something else for sure.
+
+00:45:34
+Chuck: Hopefully we made you proud, Marshall, and thanks again for everything. And since we said thanks to Marshall Brain and I think it's time for listener mail.
+
+00:45:47
+Josh: I'm gonna call this forget Rice. How about some peace and love? Hey, guys, A big fan of the show. I love listening when training for marathons and loved the recent marathon episodes. While listening to the history of refrigeration, the Rice method for managing a musculo skeletal injury was mentioned. Did you know guys that in twenty twenty the medical world throughout the Rice method and transitioned it to Peace and Love.
+
+00:46:13
+Speaker 3: I don't even remember mentioning that, let alone knowing that did bit.
+
+00:46:17
+Josh: I think I probably did so for peace and love. We have protection avoid activities at cospain for two to three days elevation. The A is avoid anti inflammatories because apparently that reduces healing, and you should avoid ice too.
+
+00:46:33
+Chuck: I have heard that that anti inflammatories are actually not very good for you.
+
+00:46:38
+Josh: I just I never take those anyway, because I don't really need to.
+
+00:46:42
+Speaker 3: But yeah, lucky, some people really need them.
+
+00:46:46
+Josh: I know. I'm sure where I was a so down to c compression e education, which is avoid a necessary passive treatments. Your body will heal, so I guess educate yourself.
+
+00:46:57
+Speaker 3: They were like, you really need an e here.
+
+00:46:59
+Josh: Yeah, yeah basically, and then we and is not spelled out, but love is load. Let your pain be your guide, optimism, condition your brain, vascularization, pain free cardio and exercise, restore mobility through active approach. And Sarah says this is a lot. I hope people can learn to avoid ice and anti inflammatories for optimal recovery. But it's having a hard time catching on.
+
+00:47:29
+Speaker 3: And I imagine why.
+
+00:47:31
+Josh: That is from Sarah pt bird Nerd Hollingsworth and she's a bird nerd and loves our bird episodes.
+
+00:47:37
+Chuck: That's awesome. Thanks Sarah, way to spread the good word. I know there's a lot of good advice and information in there, but it's just going to take months of digesting that information to try to figure out those acronyms. Yeah, if you want to be like Sarah and put something on our radar that we weren't aware of before, we love that kind of thing. You can send it to us via email like Sarah did to Stuff Podcasts at iHeartRadio dot com.
+
+00:48:05
+Josh: Stuff you Should Know is a production of iHeartRadio. For more podcasts myheart Radio, visit the iHeartRadio app, Apple podcasts, or wherever you listen to your favorite shows.
