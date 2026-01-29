@@ -15,9 +15,70 @@ from chromadb.utils import embedding_functions
 from sentence_transformers import SentenceTransformer
 import hashlib
 from typing import List, Dict, Optional, Tuple
+import requests
+import zipfile
 
 # NEW: Hybrid search module
 from hybrid_search import HybridSearcher
+
+# ============================================================================
+# Database Setup (for cloud deployment with Git LFS)
+# ============================================================================
+
+@st.cache_resource(show_spinner=False)
+def setup_database_if_needed(_version="v3"):  # Change version to force re-extraction
+    """
+    Extract ChromaDB from chroma_db.zip if not present locally.
+    Only runs once per app session (cached).
+    The zip file is stored in the repo using Git LFS.
+    
+    Args:
+        _version: Internal version to force cache invalidation when database updates
+    """
+    db_path = "./chroma_db"
+    zip_path = "./chroma_db.zip"
+    
+    # Delete old database if exists (to force re-extraction of updated zip)
+    if os.path.exists(db_path):
+        import shutil
+        st.info("🔄 Removing old database to extract updated version...")
+        shutil.rmtree(db_path)
+    
+    # Skip the exists check - always extract when this function runs
+    
+    # Debug: Check what files exist
+    st.info(f"🔍 Looking for database zip at: {os.path.abspath(zip_path)}")
+    
+    # Check if zip file exists (from Git LFS)
+    if not os.path.exists(zip_path):
+        # List current directory contents for debugging
+        files = os.listdir(".")
+        st.error(f"❌ Database zip file not found at {zip_path}")
+        st.info(f"📁 Files in current directory: {files[:20]}")  # Show first 20 files
+        st.info("💡 Ensure chroma_db.zip is in the repository with Git LFS")
+        return False
+    
+    # Check file size to ensure LFS actually downloaded it (not just a pointer)
+    file_size = os.path.getsize(zip_path)
+    if file_size < 1000:  # LFS pointer files are tiny (~100 bytes)
+        st.error(f"❌ Database file appears to be an LFS pointer ({file_size} bytes)")
+        st.info("💡 Streamlit Cloud may not have Git LFS enabled. The file needs to be ~900MB.")
+        return False
+    
+    st.info(f"✓ Found zip file ({file_size / (1024**3):.2f} GB)")
+    
+    try:
+        with st.spinner("📥 Extracting database (first load only, ~1-2 minutes)..."):
+            # Extract database
+            with zipfile.ZipFile(zip_path, "r") as zip_ref:
+                zip_ref.extractall(".")
+            
+            st.success("✓ Database extracted successfully!")
+            return True
+            
+    except Exception as e:
+        st.error(f"❌ Failed to extract database: {e}")
+        return False
 
 # ============================================================================
 # Configuration
@@ -25,13 +86,36 @@ from hybrid_search import HybridSearcher
 
 class Config:
     """Application configuration"""
-    ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+    
+    @staticmethod
+    def get_api_key():
+        """Get API key from Streamlit secrets (cloud) or environment (local)"""
+        try:
+            # Try Streamlit secrets first (for cloud deployment)
+            return st.secrets["ANTHROPIC_API_KEY"]
+        except (KeyError, FileNotFoundError):
+            # Fallback to environment variable (for local development)
+            api_key = os.getenv("ANTHROPIC_API_KEY", "")
+            if not api_key:
+                st.error("⚠️ API key not found. Please configure ANTHROPIC_API_KEY in secrets or environment.")
+                st.stop()
+            return api_key
+    
+    @staticmethod
+    def get_database_url():
+        """Get database download URL from secrets (optional, for cloud with external storage)"""
+        try:
+            return st.secrets.get("DATABASE_URL", None)
+        except (KeyError, FileNotFoundError, AttributeError):
+            return None
+    
+    ANTHROPIC_API_KEY = None  # Will be set dynamically
     EMBEDDING_MODEL = "all-MiniLM-L6-v2"
     CHROMA_COLLECTION = "sysk_transcripts"
     CLAUDE_MODEL = "claude-sonnet-4-20250514"
     CLAUDE_MAX_TOKENS = 4096
-    TOP_K_RESULTS = 5
-    CONVERSATION_HISTORY_LENGTH = 5
+    TOP_K_RESULTS = 3  # Reduced from 5 for better performance on Streamlit Cloud
+    CONVERSATION_HISTORY_LENGTH = 3  # Reduced from 5 for memory optimization
     
     # Chunking parameters (configurable via UI)
     # For time-based chunking (episodes with timestamps)
@@ -252,10 +336,18 @@ class VectorDatabase:
         self.embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
             model_name=Config.EMBEDDING_MODEL
         )
-        self.collection = self.client.get_or_create_collection(
-            name=Config.CHROMA_COLLECTION,
-            embedding_function=self.embedding_function
-        )
+        # Get existing collection without specifying embedding function
+        # (will use whatever was set when collection was created)
+        try:
+            self.collection = self.client.get_collection(
+                name=Config.CHROMA_COLLECTION
+            )
+        except Exception:
+            # If collection doesn't exist, create it with embedding function
+            self.collection = self.client.create_collection(
+                name=Config.CHROMA_COLLECTION,
+                embedding_function=self.embedding_function
+            )
     
     def get_document_hash(self, filepath: str) -> str:
         """Generate hash of document for change detection"""
@@ -310,25 +402,18 @@ class VectorDatabase:
         return results
     
     def get_stats(self) -> Dict:
-        """Get database statistics"""
+        """Get database statistics - memory efficient version"""
         count = self.collection.count()
         
-        # Get unique episodes
-        all_data = self.collection.get()
-        unique_episodes = set()
-        episode_types = {"Short Stuff": 0, "Full Episode": 0}
-        
-        if all_data['metadatas']:
-            for metadata in all_data['metadatas']:
-                unique_episodes.add(metadata['filename'])
-                episode_type = metadata.get('episode_type', 'Full Episode')
-                episode_types[episode_type] = episode_types.get(episode_type, 0) + 1
+        # Estimate episodes without loading all data (memory efficient)
+        # Average ~19 chunks per episode based on your data
+        estimated_episodes = count // 19
         
         return {
             'total_chunks': count,
-            'total_episodes': len(unique_episodes),
-            'short_stuff': len([f for f in unique_episodes if 'Short_Stuff' in f]),
-            'full_episodes': len(unique_episodes) - len([f for f in unique_episodes if 'Short_Stuff' in f])
+            'total_episodes': estimated_episodes,
+            'short_stuff': 0,  # Estimation mode
+            'full_episodes': estimated_episodes
         }
 
 # ============================================================================
@@ -339,7 +424,7 @@ class RAGSystem:
     """Retrieval-Augmented Generation system"""
     
     def __init__(self):
-        self.client = anthropic.Anthropic(api_key=Config.ANTHROPIC_API_KEY)
+        self.client = anthropic.Anthropic(api_key=Config.get_api_key())
         self.vector_db = VectorDatabase()
         
         # NEW: Initialize hybrid searcher
@@ -568,6 +653,11 @@ def main():
         layout="wide"
     )
     
+    # Extract database from Git LFS zip file if needed
+    if not setup_database_if_needed():
+        st.error("❌ Database not available. Please ensure chroma_db.zip is in the repository.")
+        st.stop()
+    
     # Initialize session state
     init_session_state()
     
@@ -575,11 +665,7 @@ def main():
     st.sidebar.title("🎙️ SYSK Assistant")
     st.sidebar.markdown("Ask questions about **Stuff You Should Know** podcast episodes!")
     
-    # API Key check
-    if not Config.ANTHROPIC_API_KEY:
-        st.sidebar.error("⚠️ ANTHROPIC_API_KEY not set")
-        st.sidebar.info("Set it in your environment or Streamlit secrets")
-        st.stop()
+    # API Key check (removed - now handled in Config.get_api_key())
     
     # NEW: Search Settings Section
     st.sidebar.markdown("---")
@@ -618,9 +704,9 @@ def main():
     top_k = st.sidebar.slider(
         "Results to Retrieve",
         min_value=1,
-        max_value=15,
+        max_value=10,  # Reduced from 15 for better performance
         value=Config.TOP_K_RESULTS,
-        help="Number of transcript chunks to retrieve"
+        help="Number of transcript chunks to retrieve (lower = faster)"
     )
     
     # NEW: Title Weight Control
@@ -823,23 +909,32 @@ Higher values focus on episodes where the term is in the title.
         # Generate response
         with st.chat_message("assistant"):
             with st.spinner(f"Searching with {search_mode} mode..."):
-                # Retrieve context with search parameters
-                context, sources = st.session_state.rag_system.retrieve_context(
-                    prompt,
-                    episode_type_filter=episode_type_filter if episode_type_filter != "All" else None,
-                    search_mode=search_mode,
-                    semantic_weight=semantic_weight,
-                    keyword_weight=keyword_weight,
-                    title_weight=title_weight,
-                    top_k=top_k
-                )
-                
-                # Generate response
-                response = st.session_state.rag_system.generate_response(
-                    prompt, 
-                    context, 
-                    st.session_state.conversation_history[-Config.CONVERSATION_HISTORY_LENGTH:]
-                )
+                try:
+                    # Retrieve context with search parameters
+                    context, sources = st.session_state.rag_system.retrieve_context(
+                        prompt,
+                        episode_type_filter=episode_type_filter if episode_type_filter != "All" else None,
+                        search_mode=search_mode,
+                        semantic_weight=semantic_weight,
+                        keyword_weight=keyword_weight,
+                        title_weight=title_weight,
+                        top_k=top_k
+                    )
+                    
+                    # Generate response
+                    response = st.session_state.rag_system.generate_response(
+                        prompt, 
+                        context, 
+                        st.session_state.conversation_history[-Config.CONVERSATION_HISTORY_LENGTH:]
+                    )
+                    
+                except MemoryError:
+                    st.error("❌ Out of memory. Try reducing the number of results to 3 or fewer.")
+                    st.stop()
+                except Exception as e:
+                    st.error(f"❌ Search failed: {str(e)}")
+                    st.info("💡 Try: Reduce results, use Keyword search mode, or simplify your query")
+                    st.stop()
                 
                 st.markdown(response)
                 
