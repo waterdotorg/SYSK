@@ -29,3 +29,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Admin and progress files (generated on runtime)
+admin_config.json
+indexing_progress.json
+.streamlit/secrets.toml
