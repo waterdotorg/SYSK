@@ -26,7 +26,7 @@ from hybrid_search import HybridSearcher
 # ============================================================================
 
 @st.cache_resource(show_spinner=False)
-def setup_database_if_needed(_version="v3"):  # Change version to force re-extraction
+def setup_database_if_needed(_version="v2"):  # Change version to force re-extraction
     """
     Extract ChromaDB from chroma_db.zip if not present locally.
     Only runs once per app session (cached).
