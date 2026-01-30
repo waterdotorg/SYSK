@@ -160,60 +160,84 @@ class PineconeVectorDatabase:
         """
         if ids:
             # Fetch specific vectors
-            results = self.index.fetch(ids=ids)
-            
-            fetched_ids = []
-            metadatas = []
-            documents = []
-            
-            for vector_id, vector_data in results['vectors'].items():
-                fetched_ids.append(vector_id)
-                metadata = vector_data['metadata'].copy()
-                documents.append(metadata.pop('text', ''))
-                metadatas.append(metadata)
-            
-            return {
-                'ids': fetched_ids,
-                'metadatas': metadatas,
-                'documents': documents
-            }
-        else:
-            # Get all vectors using list/pagination
-            # Pinecone doesn't have a direct "get all" - we need to list and fetch
-            all_ids = []
-            
-            # List all vector IDs (paginated)
-            for ids_batch in self.index.list(namespace=''):
-                all_ids.extend(ids_batch)
-            
-            if not all_ids:
+            try:
+                results = self.index.fetch(ids=ids)
+                
+                fetched_ids = []
+                metadatas = []
+                documents = []
+                
+                for vector_id, vector_data in results.get('vectors', {}).items():
+                    fetched_ids.append(vector_id)
+                    metadata = vector_data.get('metadata', {}).copy()
+                    documents.append(metadata.pop('text', ''))
+                    metadatas.append(metadata)
+                
+                return {
+                    'ids': fetched_ids,
+                    'metadatas': metadatas,
+                    'documents': documents
+                }
+            except Exception as e:
+                # Return empty if fetch fails
                 return {
                     'ids': [],
                     'metadatas': [],
                     'documents': []
                 }
-            
-            # Fetch all vectors in batches
-            all_metadatas = []
-            all_documents = []
-            batch_size = 1000
-            
-            for i in range(0, len(all_ids), batch_size):
-                batch_ids = all_ids[i:i + batch_size]
-                results = self.index.fetch(ids=batch_ids)
+        else:
+            # Get all vectors using list/pagination
+            try:
+                # Check if index has any vectors first
+                stats = self.index.describe_index_stats()
+                if stats.get('total_vector_count', 0) == 0:
+                    return {
+                        'ids': [],
+                        'metadatas': [],
+                        'documents': []
+                    }
                 
-                for vector_id in batch_ids:
-                    if vector_id in results['vectors']:
-                        vector_data = results['vectors'][vector_id]
-                        metadata = vector_data['metadata'].copy()
-                        all_documents.append(metadata.pop('text', ''))
-                        all_metadatas.append(metadata)
-            
-            return {
-                'ids': all_ids,
-                'metadatas': all_metadatas,
-                'documents': all_documents
-            }
+                all_ids = []
+                
+                # List all vector IDs (paginated)
+                for ids_batch in self.index.list(namespace=''):
+                    all_ids.extend(ids_batch)
+                
+                if not all_ids:
+                    return {
+                        'ids': [],
+                        'metadatas': [],
+                        'documents': []
+                    }
+                
+                # Fetch all vectors in batches
+                all_metadatas = []
+                all_documents = []
+                batch_size = 1000
+                
+                for i in range(0, len(all_ids), batch_size):
+                    batch_ids = all_ids[i:i + batch_size]
+                    results = self.index.fetch(ids=batch_ids)
+                    
+                    for vector_id in batch_ids:
+                        if vector_id in results.get('vectors', {}):
+                            vector_data = results['vectors'][vector_id]
+                            metadata = vector_data.get('metadata', {}).copy()
+                            all_documents.append(metadata.pop('text', ''))
+                            all_metadatas.append(metadata)
+                
+                return {
+                    'ids': all_ids,
+                    'metadatas': all_metadatas,
+                    'documents': all_documents
+                }
+            except Exception as e:
+                # Return empty if anything fails
+                return {
+                    'ids': [],
+                    'metadatas': [],
+                    'documents': []
+                }
     
     def delete(self, ids: Optional[List[str]] = None, delete_all: bool = False):
         """
