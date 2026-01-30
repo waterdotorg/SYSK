@@ -13,13 +13,14 @@ import re
 from datetime import datetime
 from pathlib import Path
 import anthropic
-import chromadb
-from chromadb.utils import embedding_functions
 from sentence_transformers import SentenceTransformer
 import hashlib
 from typing import List, Dict, Optional, Tuple
 import json
 import random
+
+# Pinecone for persistent vector storage
+from pinecone_vector_db import VectorDatabase
 
 # NEW: Hybrid search module
 from hybrid_search import HybridSearcher
@@ -32,7 +33,7 @@ class Config:
     """Application configuration"""
     ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
     EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-    CHROMA_COLLECTION = "sysk_transcripts"
+    PINECONE_INDEX_NAME = "sysk-transcripts"  # Changed from underscore to hyphen
     CLAUDE_MODEL = "claude-sonnet-4-20250514"
     CLAUDE_MAX_TOKENS = 4096
     TOP_K_RESULTS = 5
@@ -117,10 +118,10 @@ def verify_and_change_pin(old_pin: str, new_pin: str, confirm_pin: str) -> tuple
 
 def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder: str):
     """
-    Rebuild indexing_progress.json from existing ChromaDB data
+    Rebuild indexing_progress.json from existing Pinecone data
     Useful when database exists but progress file is missing/empty
     """
-    # Get all unique filenames from ChromaDB
+    # Get all unique filenames from Pinecone
     all_metadata = vector_db.collection.get()['metadatas']
     
     if not all_metadata:
@@ -237,7 +238,7 @@ def batch_index_transcripts(processor: 'TranscriptProcessor',
                 parsed['metadata']
             )
             
-            # Add to ChromaDB
+            # Add to Pinecone
             if chunks:
                 for chunk in chunks:
                     chunk_id = f"{parsed['metadata']['filename']}_{chunk['chunk_id']}"
@@ -445,47 +446,9 @@ class TranscriptProcessor:
         return chunks if chunks else [{'text': transcript_text, 'start_time': '00:00:00', 'end_time': '00:00:00', 'chunk_id': 0, 'metadata': metadata}]
 
 # ============================================================================
-# Vector Database (Your existing class - abbreviated)
+# Vector Database - Now using Pinecone (see pinecone_vector_db.py)
 # ============================================================================
-
-class VectorDatabase:
-    """ChromaDB vector database for transcript storage and retrieval"""
-    
-    def __init__(self, collection_name: str = Config.CHROMA_COLLECTION, persist_directory: str = "./chroma_db"):
-        self.persist_directory = persist_directory
-        self.client = chromadb.PersistentClient(path=persist_directory)
-        
-        # Initialize sentence transformer for embeddings
-        self.embedding_model = SentenceTransformer(Config.EMBEDDING_MODEL)
-        
-        # Create or get collection
-        self.collection = self.client.get_or_create_collection(
-            name=collection_name,
-            metadata={"hnsw:space": "cosine"}
-        )
-    
-    def get_stats(self) -> Dict:
-        """Get database statistics"""
-        try:
-            all_metadata = self.collection.get()['metadatas']
-            
-            full_episodes = sum(1 for m in all_metadata if m.get('episode_type') == 'Full Episode')
-            short_stuff = sum(1 for m in all_metadata if m.get('episode_type') == 'Short Stuff')
-            unique_episodes = len(set(m.get('filename', '') for m in all_metadata))
-            
-            return {
-                'total_chunks': len(all_metadata),
-                'total_episodes': unique_episodes,
-                'full_episodes': full_episodes,
-                'short_stuff': short_stuff
-            }
-        except:
-            return {
-                'total_chunks': 0,
-                'total_episodes': 0,
-                'full_episodes': 0,
-                'short_stuff': 0
-            }
+# VectorDatabase class is imported from pinecone_vector_db.py
 
 # ============================================================================
 # RAG System (Your existing class - abbreviated for space)
@@ -508,10 +471,11 @@ class RAGSystem:
         """Retrieve relevant context with hybrid search"""
         
         # Execute search based on mode
+        # Note: For Pinecone, we avoid pure keyword search as it requires fetching all docs
         if search_mode == "Smart":
-            results, method_used = self.hybrid_searcher.search_with_fallback(
-                query, n_results=top_k, title_weight=title_weight
-            )
+            # Use semantic search as primary (keyword fallback doesn't work well with Pinecone)
+            results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
+            method_used = "semantic"
         elif search_mode == "Hybrid":
             results = self.hybrid_searcher.hybrid_search(
                 query, n_results=top_k,
@@ -522,7 +486,10 @@ class RAGSystem:
         elif search_mode == "Semantic":
             results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
         elif search_mode == "Keyword":
-            results = self.hybrid_searcher.keyword_search(query, n_results=top_k, title_weight=title_weight)
+            # Keyword-only doesn't work with Pinecone (requires get_all)
+            # Fall back to semantic search
+            st.warning("⚠️ Keyword-only search not available with Pinecone. Using semantic search.")
+            results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
         else:
             results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
         
@@ -808,60 +775,21 @@ def show_admin_interface():
         st.rerun()
     
     if st.sidebar.button("🗑️ Clear Database", use_container_width=True):
-        all_ids = vector_db.collection.get()['ids']
-        if all_ids:
-            total_docs = len(all_ids)
-            batch_size = 5000  # ChromaDB batch limit
+        with st.spinner("Clearing database..."):
+            vector_db.collection.delete(delete_all=True)
             
-            # Create progress indicators
-            progress_text = st.sidebar.empty()
-            progress_bar = st.sidebar.empty()
-            
-            # Delete in batches with progress
-            for i in range(0, total_docs, batch_size):
-                batch_ids = all_ids[i:i + batch_size]
-                vector_db.collection.delete(ids=batch_ids)
-                
-                current = min(i + batch_size, total_docs)
-                progress_text.text(f"Deleting: {current}/{total_docs}")
-                progress_bar.progress(current / total_docs)
-            
-            # Clear progress indicators
-            progress_text.empty()
-            progress_bar.empty()
-            
-            st.sidebar.success(f"✅ Deleted {total_docs} docs")
+            st.sidebar.success("✅ Database cleared")
             
             # Auto-sync (should now show 0 files)
             progress = sync_progress_from_database(vector_db, transcripts_folder)
             save_indexing_progress(progress)
             
             st.rerun()
-        else:
-            st.sidebar.info("Database empty")
     
     if st.sidebar.button("♻️ Full Rebuild", use_container_width=True):
-        # Clear database in batches with progress
-        all_ids = vector_db.collection.get()['ids']
-        if all_ids:
-            total_docs = len(all_ids)
-            batch_size = 5000
-            
-            # Create progress indicators
-            progress_text = st.sidebar.empty()
-            progress_bar = st.sidebar.empty()
-            
-            for i in range(0, total_docs, batch_size):
-                batch_ids = all_ids[i:i + batch_size]
-                vector_db.collection.delete(ids=batch_ids)
-                
-                current = min(i + batch_size, total_docs)
-                progress_text.text(f"Clearing: {current}/{total_docs}")
-                progress_bar.progress(current / total_docs)
-            
-            # Clear progress indicators
-            progress_text.empty()
-            progress_bar.empty()
+        with st.spinner("Clearing database..."):
+            # Clear database using Pinecone's delete_all
+            vector_db.collection.delete(delete_all=True)
         
         # Reset progress
         if os.path.exists(Config.INDEXING_PROGRESS_FILE):
@@ -974,66 +902,77 @@ def show_admin_interface():
     # Add scrolling ticker of random episode titles
     if db_count > 0:
         try:
-            # Get random sample of episodes
-            all_metadata = vector_db.collection.get()['metadatas']
+            # Sample episodes using a query instead of get_all (more efficient for Pinecone)
+            import numpy as np
+            dummy_vector = np.zeros(384).tolist()  # 384 dimensions
+            
+            # Query to get a sample of episodes
+            sample_results = vector_db.collection.index.query(
+                vector=dummy_vector,
+                top_k=100,
+                include_metadata=True
+            )
             
             # Extract unique episode titles
             unique_episodes = {}
-            for meta in all_metadata:
-                title = meta.get('title', '')
+            for match in sample_results.get('matches', []):
+                metadata = match.get('metadata', {})
+                title = metadata.get('title', '')
+                episode_type = metadata.get('episode_type', 'Full Episode')
                 if title and title not in unique_episodes:
-                    unique_episodes[title] = meta.get('episode_type', 'Full Episode')
+                    unique_episodes[title] = episode_type
             
-            import random
-            if len(unique_episodes) > 15:
-                sample_titles = random.sample(list(unique_episodes.items()), 15)
-            else:
-                sample_titles = list(unique_episodes.items())
-            
-            # Create ticker HTML with emojis
-            ticker_items = []
-            for title, ep_type in sample_titles:
-                emoji = "⚡" if ep_type == "Short Stuff" else "🎙️"
-                ticker_items.append(f"{emoji} {title}")
-            
-            ticker_text = " • ".join(ticker_items)
-            
-            # CSS for scrolling ticker
-            st.markdown(f"""
-                <style>
-                .ticker-wrapper {{
-                    width: 100%;
-                    overflow: hidden;
-                    background: linear-gradient(90deg, #1f1f1f 0%, #2d2d2d 50%, #1f1f1f 100%);
-                    padding: 10px 0;
-                    margin: 15px 0;
-                    border-radius: 5px;
-                }}
+            if unique_episodes:
+                import random
+                if len(unique_episodes) > 15:
+                    sample_titles = random.sample(list(unique_episodes.items()), 15)
+                else:
+                    sample_titles = list(unique_episodes.items())
                 
-                .ticker {{
-                    display: inline-block;
-                    white-space: nowrap;
-                    animation: scroll 60s linear infinite;
-                    padding-left: 100%;
-                    color: #e0e0e0;
-                    font-size: 14px;
-                    font-weight: 500;
-                }}
+                # Create ticker HTML with emojis
+                ticker_items = []
+                for title, ep_type in sample_titles:
+                    emoji = "⚡" if ep_type == "Short Stuff" else "🎙️"
+                    ticker_items.append(f"{emoji} {title}")
                 
-                @keyframes scroll {{
-                    0% {{ transform: translateX(0); }}
-                    100% {{ transform: translateX(-100%); }}
-                }}
+                ticker_text = " • ".join(ticker_items)
                 
-                .ticker:hover {{
-                    animation-play-state: paused;
-                }}
-                </style>
-                
-                <div class="ticker-wrapper">
-                    <div class="ticker">{ticker_text}</div>
-                </div>
-            """, unsafe_allow_html=True)
+                # CSS for scrolling ticker
+                st.markdown(f"""
+                    <style>
+                    .ticker-wrapper {{
+                        width: 100%;
+                        overflow: hidden;
+                        background: linear-gradient(90deg, #1f1f1f 0%, #2d2d2d 50%, #1f1f1f 100%);
+                        padding: 10px 0;
+                        margin: 15px 0;
+                        border-radius: 5px;
+                    }}
+                    
+                    .ticker {{
+                        display: inline-block;
+                        white-space: nowrap;
+                        animation: scroll 60s linear infinite;
+                        padding-left: 100%;
+                        color: #e0e0e0;
+                        font-size: 14px;
+                        font-weight: 500;
+                    }}
+                    
+                    @keyframes scroll {{
+                        0% {{ transform: translateX(0); }}
+                        100% {{ transform: translateX(-100%); }}
+                    }}
+                    
+                    .ticker:hover {{
+                        animation-play-state: paused;
+                    }}
+                    </style>
+                    
+                    <div class="ticker-wrapper">
+                        <div class="ticker">{ticker_text}</div>
+                    </div>
+                """, unsafe_allow_html=True)
             
         except Exception as e:
             # Silently fail if ticker can't be generated
@@ -1209,66 +1148,78 @@ def show_search_interface():
     # Add scrolling ticker of random episode titles
     if st.session_state.rag_system.vector_db.collection.count() > 0:
         try:
-            # Get random sample of episodes
-            all_metadata = st.session_state.rag_system.vector_db.collection.get()['metadatas']
+            # Sample episodes using a query instead of get_all (more efficient for Pinecone)
+            import numpy as np
+            dummy_vector = np.zeros(384).tolist()  # 384 dimensions for all-MiniLM-L6-v2
+            
+            # Query to get a sample of episodes
+            sample_results = st.session_state.rag_system.vector_db.collection.index.query(
+                vector=dummy_vector,
+                top_k=100,  # Get 100 random chunks
+                include_metadata=True
+            )
             
             # Extract unique episode titles
             unique_episodes = {}
-            for meta in all_metadata:
-                title = meta.get('title', '')
+            for match in sample_results.get('matches', []):
+                metadata = match.get('metadata', {})
+                title = metadata.get('title', '')
+                episode_type = metadata.get('episode_type', 'Full Episode')
                 if title and title not in unique_episodes:
-                    unique_episodes[title] = meta.get('episode_type', 'Full Episode')
+                    unique_episodes[title] = episode_type
             
-            import random
-            if len(unique_episodes) > 15:
-                sample_titles = random.sample(list(unique_episodes.items()), 15)
-            else:
-                sample_titles = list(unique_episodes.items())
-            
-            # Create ticker HTML with emojis
-            ticker_items = []
-            for title, ep_type in sample_titles:
-                emoji = "⚡" if ep_type == "Short Stuff" else "🎙️"
-                ticker_items.append(f"{emoji} {title}")
-            
-            ticker_text = " • ".join(ticker_items)
-            
-            # CSS for scrolling ticker
-            st.markdown(f"""
-                <style>
-                .ticker-wrapper {{
-                    width: 100%;
-                    overflow: hidden;
-                    background: linear-gradient(90deg, #1f1f1f 0%, #2d2d2d 50%, #1f1f1f 100%);
-                    padding: 10px 0;
-                    margin: 15px 0;
-                    border-radius: 5px;
-                }}
+            if unique_episodes:
+                # Get 15 random episodes
+                import random
+                if len(unique_episodes) > 15:
+                    sample_titles = random.sample(list(unique_episodes.items()), 15)
+                else:
+                    sample_titles = list(unique_episodes.items())
                 
-                .ticker {{
-                    display: inline-block;
-                    white-space: nowrap;
-                    animation: scroll 60s linear infinite;
-                    padding-left: 100%;
-                    color: #e0e0e0;
-                    font-size: 14px;
-                    font-weight: 500;
-                }}
+                # Create ticker HTML with emojis
+                ticker_items = []
+                for title, ep_type in sample_titles:
+                    emoji = "⚡" if ep_type == "Short Stuff" else "🎙️"
+                    ticker_items.append(f"{emoji} {title}")
                 
-                @keyframes scroll {{
-                    0% {{ transform: translateX(0); }}
-                    100% {{ transform: translateX(-100%); }}
-                }}
+                ticker_text = " • ".join(ticker_items)
                 
-                .ticker:hover {{
-                    animation-play-state: paused;
-                }}
-                </style>
-                
-                <div class="ticker-wrapper">
-                    <div class="ticker">{ticker_text}</div>
-                </div>
-            """, unsafe_allow_html=True)
+                # CSS for scrolling ticker
+                st.markdown(f"""
+                    <style>
+                    .ticker-wrapper {{
+                        width: 100%;
+                        overflow: hidden;
+                        background: linear-gradient(90deg, #1f1f1f 0%, #2d2d2d 50%, #1f1f1f 100%);
+                        padding: 10px 0;
+                        margin: 15px 0;
+                        border-radius: 5px;
+                    }}
+                    
+                    .ticker {{
+                        display: inline-block;
+                        white-space: nowrap;
+                        animation: scroll 60s linear infinite;
+                        padding-left: 100%;
+                        color: #e0e0e0;
+                        font-size: 14px;
+                        font-weight: 500;
+                    }}
+                    
+                    @keyframes scroll {{
+                        0% {{ transform: translateX(0); }}
+                        100% {{ transform: translateX(-100%); }}
+                    }}
+                    
+                    .ticker:hover {{
+                        animation-play-state: paused;
+                    }}
+                    </style>
+                    
+                    <div class="ticker-wrapper">
+                        <div class="ticker">{ticker_text}</div>
+                    </div>
+                """, unsafe_allow_html=True)
             
         except Exception as e:
             # Silently fail if ticker can't be generated
