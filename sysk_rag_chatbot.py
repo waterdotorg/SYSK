@@ -120,33 +120,59 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
     """
     Rebuild indexing_progress.json from existing Pinecone data
     Useful when database exists but progress file is missing/empty
-    """
-    # Get all unique filenames from Pinecone
-    all_metadata = vector_db.collection.get()['metadatas']
     
-    if not all_metadata:
+    For Pinecone, we use sampling via query instead of fetching all metadata
+    """
+    try:
+        # Check if database has any vectors
+        total_count = vector_db.collection.count()
+        
+        if total_count == 0:
+            return {
+                "indexed_files": [],
+                "total_indexed": 0,
+                "last_updated": None
+            }
+        
+        # Sample vectors using a query to get metadata (more efficient than get_all)
+        import numpy as np
+        dummy_vector = np.zeros(384).tolist()  # 384 dimensions for all-MiniLM-L6-v2
+        
+        # Query to get a large sample
+        sample_size = min(10000, total_count)  # Sample up to 10k vectors
+        sample_results = vector_db.collection.index.query(
+            vector=dummy_vector,
+            top_k=sample_size,
+            include_metadata=True
+        )
+        
+        # Extract unique filenames from sample
+        indexed_files = set()
+        for match in sample_results.get('matches', []):
+            metadata = match.get('metadata', {})
+            filename = metadata.get('filename', '')
+            if filename:
+                indexed_files.add(filename)
+        
+        # Create progress structure
+        progress = {
+            "indexed_files": sorted(list(indexed_files)),
+            "total_indexed": len(indexed_files),
+            "last_updated": datetime.now().isoformat(),
+            "synced_from_db": True,
+            "note": f"Synced from {total_count} total chunks, sampled {sample_size}"
+        }
+        
+        return progress
+        
+    except Exception as e:
+        # If sync fails, return empty
         return {
             "indexed_files": [],
             "total_indexed": 0,
-            "last_updated": None
+            "last_updated": None,
+            "error": str(e)
         }
-    
-    # Extract unique filenames
-    indexed_files = set()
-    for metadata in all_metadata:
-        filename = metadata.get('filename', '')
-        if filename:
-            indexed_files.add(filename)
-    
-    # Create progress structure
-    progress = {
-        "indexed_files": sorted(list(indexed_files)),
-        "total_indexed": len(indexed_files),
-        "last_updated": datetime.now().isoformat(),
-        "synced_from_db": True
-    }
-    
-    return progress
 
 # ============================================================================
 # Admin Database Builder Functions
