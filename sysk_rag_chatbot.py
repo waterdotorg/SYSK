@@ -19,6 +19,7 @@ from sentence_transformers import SentenceTransformer
 import hashlib
 from typing import List, Dict, Optional, Tuple
 import json
+import random
 
 # NEW: Hybrid search module
 from hybrid_search import HybridSearcher
@@ -922,27 +923,121 @@ def show_admin_interface():
     search_mode = st.sidebar.selectbox(
         "Search Mode",
         ["Smart", "Hybrid", "Semantic", "Keyword"],
-        help="Search method for queries"
+        help="Smart: Auto-selects best method | Hybrid: Combines both | Semantic: AI understanding | Keyword: Exact matches"
     )
     
     top_k = st.sidebar.slider("Number of Results", 3, 20, 10)
     
-    with st.sidebar.expander("⚙️ Advanced Settings"):
-        semantic_weight = st.slider("Semantic Weight", 0.0, 1.0, 0.5, 0.1)
-        keyword_weight = st.slider("Keyword Weight", 0.0, 1.0, 0.5, 0.1)
-        title_weight = st.slider("Title Match Boost", 0.0, 5.0, 2.0, 0.5)
+    with st.sidebar.expander("⚙️ Advanced Search Settings"):
+        semantic_weight = st.slider("Semantic Weight", 0.0, 1.0, 0.5, 0.1,
+                                    help="Weight for AI similarity search")
+        keyword_weight = st.slider("Keyword Weight", 0.0, 1.0, 0.5, 0.1,
+                                   help="Weight for exact text matching")
+        title_weight = st.slider("Title Match Boost", 0.0, 5.0, 2.0, 0.5,
+                                 help="Multiplier when query matches episode title")
     
     episode_type_filter = st.sidebar.selectbox(
-        "Episode Type",
-        options=["All", "Full Episode", "Short Stuff"]
+        "Episode Type Filter",
+        options=["All", "Full Episode", "Short Stuff"],
+        help="Filter results by episode type"
     )
+    
+    # ---- Example Prompts ----
+    st.sidebar.divider()
+    st.sidebar.markdown("### 💡 Example Questions")
+    examples = [
+        "What episodes discuss artificial intelligence?",
+        "Tell me about the episode on data centers",
+        "What did Josh and Chuck say about sleep?",
+        "Find episodes about space exploration",
+        "What are some Short Stuff episodes about technology?"
+    ]
+    
+    for example in examples:
+        if st.sidebar.button(example, use_container_width=True, key=f"example_{hash(example)}"):
+            # Add example as a message
+            st.session_state.admin_messages.append({"role": "user", "content": example})
+            st.rerun()
+    
+    # ---- Admin Info ----
     
     # ========================================================================
     # MAIN AREA - SEARCH INTERFACE (same as public)
     # ========================================================================
     
     st.title("🎙️ SYSK Search - Admin Mode")
-    st.caption(f"🔧 Admin • {db_count} chunks indexed")
+    
+    # Show search mode and stats
+    mode_emoji = {"Smart": "🧠", "Hybrid": "🔄", "Semantic": "🎯", "Keyword": "📝"}
+    st.caption(f"{mode_emoji.get(search_mode, '🔍')} Search Mode: **{search_mode}** • {db_count} chunks indexed")
+    
+    # Add scrolling ticker of random episode titles
+    if db_count > 0:
+        try:
+            # Get random sample of episodes
+            all_metadata = vector_db.collection.get()['metadatas']
+            
+            # Extract unique episode titles
+            unique_episodes = {}
+            for meta in all_metadata:
+                title = meta.get('title', '')
+                if title and title not in unique_episodes:
+                    unique_episodes[title] = meta.get('episode_type', 'Full Episode')
+            
+            import random
+            if len(unique_episodes) > 15:
+                sample_titles = random.sample(list(unique_episodes.items()), 15)
+            else:
+                sample_titles = list(unique_episodes.items())
+            
+            # Create ticker HTML with emojis
+            ticker_items = []
+            for title, ep_type in sample_titles:
+                emoji = "⚡" if ep_type == "Short Stuff" else "🎙️"
+                ticker_items.append(f"{emoji} {title}")
+            
+            ticker_text = " • ".join(ticker_items)
+            
+            # CSS for scrolling ticker
+            st.markdown(f"""
+                <style>
+                .ticker-wrapper {{
+                    width: 100%;
+                    overflow: hidden;
+                    background: linear-gradient(90deg, #1f1f1f 0%, #2d2d2d 50%, #1f1f1f 100%);
+                    padding: 10px 0;
+                    margin: 15px 0;
+                    border-radius: 5px;
+                }}
+                
+                .ticker {{
+                    display: inline-block;
+                    white-space: nowrap;
+                    animation: scroll 60s linear infinite;
+                    padding-left: 100%;
+                    color: #e0e0e0;
+                    font-size: 14px;
+                    font-weight: 500;
+                }}
+                
+                @keyframes scroll {{
+                    0% {{ transform: translateX(0); }}
+                    100% {{ transform: translateX(-100%); }}
+                }}
+                
+                .ticker:hover {{
+                    animation-play-state: paused;
+                }}
+                </style>
+                
+                <div class="ticker-wrapper">
+                    <div class="ticker">{ticker_text}</div>
+                </div>
+            """, unsafe_allow_html=True)
+            
+        except Exception as e:
+            # Silently fail if ticker can't be generated
+            pass
     
     # Check if indexed
     if db_count == 0:
@@ -957,8 +1052,20 @@ def show_admin_interface():
                 with st.expander("📚 View Sources"):
                     for i, source in enumerate(message["sources"], 1):
                         episode_type_emoji = "⚡" if source['episode_type'] == "Short Stuff" else "🎙️"
-                        st.markdown(f"**{i}.** {episode_type_emoji} **{source['title']}**")
+                        
+                        # Show match type badge
+                        match_badge = ""
+                        if 'match_type' in source and source['match_type']:
+                            match_icons = {'semantic': '🎯', 'keyword': '📝', 'both': '🔄', 
+                                         'title_match': '🏷️', 'title_and_content': '🏷️📝'}
+                            match_badge = f" {match_icons.get(source['match_type'], '🔍')}"
+                        
+                        st.markdown(f"**{i}.** {episode_type_emoji} **{source['title']}**{match_badge}")
                         st.caption(f"{source['date']} • {source['time']}")
+                        
+                        # Show match details if available
+                        if 'match_type' in source and source['match_type'] not in ['semantic_only', None]:
+                            st.caption(f"Match type: {source['match_type']}")
                         
                         if source.get('audio_url'):
                             st.markdown(f"🎧 [Listen]({source['audio_url']})")
@@ -975,7 +1082,7 @@ def show_admin_interface():
             st.markdown(prompt)
         
         with st.chat_message("assistant"):
-            with st.spinner(f"Searching..."):
+            with st.spinner(f"Searching with {search_mode} mode..."):
                 context, sources = rag_system.retrieve_context(
                     prompt,
                     episode_type_filter=episode_type_filter if episode_type_filter != "All" else None,
@@ -998,8 +1105,20 @@ def show_admin_interface():
                     with st.expander(f"📚 View Sources ({len(sources)})"):
                         for i, source in enumerate(sources, 1):
                             episode_type_emoji = "⚡" if source['episode_type'] == "Short Stuff" else "🎙️"
-                            st.markdown(f"**{i}.** {episode_type_emoji} **{source['title']}**")
+                            
+                            # Show match type badge
+                            match_badge = ""
+                            if 'match_type' in source and source['match_type']:
+                                match_icons = {'semantic': '🎯', 'keyword': '📝', 'both': '🔄',
+                                             'title_match': '🏷️', 'title_and_content': '🏷️📝'}
+                                match_badge = f" {match_icons.get(source['match_type'], '🔍')}"
+                            
+                            st.markdown(f"**{i}.** {episode_type_emoji} **{source['title']}**{match_badge}")
                             st.caption(f"{source['date']} • {source['time']}")
+                            
+                            # Show match details if available
+                            if 'match_type' in source and source['match_type'] not in ['semantic_only', None]:
+                                st.caption(f"Match type: {source['match_type']}")
                             
                             if source.get('audio_url'):
                                 st.markdown(f"🎧 [Listen]({source['audio_url']})")
@@ -1076,7 +1195,7 @@ def show_search_interface():
     
     # Default search parameters (no sidebar controls for public users)
     search_mode = "Smart"
-    top_k = 10
+    top_k = 3  # Show top 3 most relevant results
     semantic_weight = 0.5
     keyword_weight = 0.5
     title_weight = 2.0
@@ -1086,6 +1205,74 @@ def show_search_interface():
     st.title("🎙️ Stuff You Should Know - Podcast Assistant")
     
     st.caption(f"🧠 Smart Search Mode • 🎙️ {st.session_state.rag_system.vector_db.collection.count()} chunks indexed")
+    
+    # Add scrolling ticker of random episode titles
+    if st.session_state.rag_system.vector_db.collection.count() > 0:
+        try:
+            # Get random sample of episodes
+            all_metadata = st.session_state.rag_system.vector_db.collection.get()['metadatas']
+            
+            # Extract unique episode titles
+            unique_episodes = {}
+            for meta in all_metadata:
+                title = meta.get('title', '')
+                if title and title not in unique_episodes:
+                    unique_episodes[title] = meta.get('episode_type', 'Full Episode')
+            
+            import random
+            if len(unique_episodes) > 15:
+                sample_titles = random.sample(list(unique_episodes.items()), 15)
+            else:
+                sample_titles = list(unique_episodes.items())
+            
+            # Create ticker HTML with emojis
+            ticker_items = []
+            for title, ep_type in sample_titles:
+                emoji = "⚡" if ep_type == "Short Stuff" else "🎙️"
+                ticker_items.append(f"{emoji} {title}")
+            
+            ticker_text = " • ".join(ticker_items)
+            
+            # CSS for scrolling ticker
+            st.markdown(f"""
+                <style>
+                .ticker-wrapper {{
+                    width: 100%;
+                    overflow: hidden;
+                    background: linear-gradient(90deg, #1f1f1f 0%, #2d2d2d 50%, #1f1f1f 100%);
+                    padding: 10px 0;
+                    margin: 15px 0;
+                    border-radius: 5px;
+                }}
+                
+                .ticker {{
+                    display: inline-block;
+                    white-space: nowrap;
+                    animation: scroll 60s linear infinite;
+                    padding-left: 100%;
+                    color: #e0e0e0;
+                    font-size: 14px;
+                    font-weight: 500;
+                }}
+                
+                @keyframes scroll {{
+                    0% {{ transform: translateX(0); }}
+                    100% {{ transform: translateX(-100%); }}
+                }}
+                
+                .ticker:hover {{
+                    animation-play-state: paused;
+                }}
+                </style>
+                
+                <div class="ticker-wrapper">
+                    <div class="ticker">{ticker_text}</div>
+                </div>
+            """, unsafe_allow_html=True)
+            
+        except Exception as e:
+            # Silently fail if ticker can't be generated
+            pass
     
     st.markdown("Ask me anything about SYSK episodes!")
     
