@@ -71,7 +71,16 @@ def check_admin_access() -> bool:
     return query_params.get("admin") == "true"
 
 def load_admin_pin_hash() -> str:
-    """Load admin PIN hash from config file or use default"""
+    """Load admin PIN hash from Streamlit secrets (cloud) or config file (local)"""
+    # Try Streamlit secrets first (persistent across reboots in cloud)
+    try:
+        import streamlit as st
+        if hasattr(st, 'secrets') and "ADMIN_PIN_HASH" in st.secrets:
+            return st.secrets["ADMIN_PIN_HASH"]
+    except:
+        pass
+    
+    # Fall back to config file (for local development or if not in secrets)
     config_file = "admin_config.json"
     if os.path.exists(config_file):
         try:
@@ -80,6 +89,8 @@ def load_admin_pin_hash() -> str:
                 return config.get("admin_pin_hash", Config.ADMIN_PIN_HASH)
         except:
             pass
+    
+    # Default PIN hash (1234)
     return Config.ADMIN_PIN_HASH
 
 def save_admin_pin_hash(pin_hash: str):
@@ -88,6 +99,9 @@ def save_admin_pin_hash(pin_hash: str):
     config = {"admin_pin_hash": pin_hash, "updated": datetime.now().isoformat()}
     with open(config_file, 'w') as f:
         json.dump(config, f, indent=2)
+    
+    # Note: Cannot programmatically update Streamlit Cloud secrets
+    # User must manually add ADMIN_PIN_HASH to secrets in Streamlit Cloud UI
 
 def verify_and_change_pin(old_pin: str, new_pin: str, confirm_pin: str) -> tuple:
     """
@@ -249,6 +263,10 @@ def batch_index_transcripts(processor: 'TranscriptProcessor',
             progress_callback(idx, total_in_batch)
         
         try:
+            # Skip if somehow already indexed (shouldn't happen but safety check)
+            if file_path.name in indexed_set:
+                continue
+            
             # Parse transcript file
             parsed = processor.parse_transcript_file(str(file_path))
             if not parsed:
@@ -291,10 +309,16 @@ def batch_index_transcripts(processor: 'TranscriptProcessor',
                         ids=[chunk_id]
                     )
                 
-                # Track progress
+                # Track progress - only if chunks were created
                 progress["indexed_files"].append(file_path.name)
                 progress["total_indexed"] = len(progress["indexed_files"])
                 results["processed"] += 1
+            else:
+                # File had no chunks
+                results["errors"].append({
+                    "file": file_path.name,
+                    "error": "No chunks created (file may be too short or empty)"
+                })
                 
         except Exception as e:
             results["errors"].append({
@@ -762,14 +786,20 @@ def show_admin_interface():
                 st.sidebar.success(f"✅ Indexed {results['processed']} files")
                 st.sidebar.info(f"📝 {results['remaining']} remaining")
                 
+                # Debug info
+                if results['processed'] != batch_size and not results.get("errors"):
+                    st.sidebar.warning(f"⚠️ Expected {batch_size} but indexed {results['processed']}")
+                
                 if results.get("errors"):
-                    with st.sidebar.expander("⚠️ Errors"):
+                    with st.sidebar.expander(f"⚠️ Errors ({len(results['errors'])})"):
                         for error in results["errors"]:
                             st.error(f"{error['file']}: {error['error']}")
             
             # Auto-sync progress from DB
-            progress = sync_progress_from_database(vector_db, transcripts_folder)
-            save_indexing_progress(progress)
+            # NOTE: Disabled auto-sync after indexing because it uses sampling
+            # and might miss recently indexed files. Trust the saved progress instead.
+            # progress = sync_progress_from_database(vector_db, transcripts_folder)
+            # save_indexing_progress(progress)
             
             st.rerun()
     else:
@@ -841,6 +871,15 @@ def show_admin_interface():
             success, message = verify_and_change_pin(old_pin, new_pin, confirm_pin)
             if success:
                 st.success(message)
+                
+                # Check if running in cloud
+                is_cloud = os.getenv("STREAMLIT_RUNTIME_ENV") or "streamlit.app" in os.getenv("HOSTNAME", "")
+                
+                if is_cloud:
+                    st.warning("⚠️ **Cloud Deployment:** To make this PIN persistent across reboots, add it to Streamlit Cloud Secrets:")
+                    st.code(f'ADMIN_PIN_HASH = "{hash_pin(new_pin)}"', language="toml")
+                    st.caption("1. Go to share.streamlit.io\n2. Your app → Settings → Secrets\n3. Add the line above\n4. Click Save")
+                
                 st.info("Please re-login with your new PIN")
                 # Log out after successful change
                 st.session_state.admin_authenticated = False
@@ -928,25 +967,31 @@ def show_admin_interface():
     # Add scrolling ticker of random episode titles
     if db_count > 0:
         try:
-            # Sample episodes using a query instead of get_all (more efficient for Pinecone)
-            import numpy as np
-            dummy_vector = np.zeros(384).tolist()  # 384 dimensions
+            # Sample episodes by doing simple semantic searches
+            sample_queries = ["the", "how", "what", "work", "history"]
             
-            # Query to get a sample of episodes
-            sample_results = vector_db.collection.index.query(
-                vector=dummy_vector,
-                top_k=100,
-                include_metadata=True
-            )
-            
-            # Extract unique episode titles
             unique_episodes = {}
-            for match in sample_results.get('matches', []):
-                metadata = match.get('metadata', {})
-                title = metadata.get('title', '')
-                episode_type = metadata.get('episode_type', 'Full Episode')
-                if title and title not in unique_episodes:
-                    unique_episodes[title] = episode_type
+            
+            for query_word in sample_queries[:2]:  # Just use 2 queries
+                try:
+                    results = vector_db.collection.query(
+                        query_texts=[query_word],
+                        n_results=50
+                    )
+                    
+                    # Extract unique titles
+                    for metadata in results.get('metadatas', [[]])[0]:
+                        title = metadata.get('title', '')
+                        episode_type = metadata.get('episode_type', 'Full Episode')
+                        if title and title not in unique_episodes:
+                            unique_episodes[title] = episode_type
+                            if len(unique_episodes) >= 15:
+                                break
+                except:
+                    continue
+                
+                if len(unique_episodes) >= 15:
+                    break
             
             if unique_episodes:
                 import random
@@ -1174,28 +1219,35 @@ def show_search_interface():
     # Add scrolling ticker of random episode titles
     if st.session_state.rag_system.vector_db.collection.count() > 0:
         try:
-            # Sample episodes using a query instead of get_all (more efficient for Pinecone)
-            import numpy as np
-            dummy_vector = np.zeros(384).tolist()  # 384 dimensions for all-MiniLM-L6-v2
+            # Sample episodes by doing a simple semantic search for common words
+            # This is more reliable than dummy vector queries
+            sample_queries = ["the", "how", "what", "work", "history"]
             
-            # Query to get a sample of episodes
-            sample_results = st.session_state.rag_system.vector_db.collection.index.query(
-                vector=dummy_vector,
-                top_k=100,  # Get 100 random chunks
-                include_metadata=True
-            )
-            
-            # Extract unique episode titles
             unique_episodes = {}
-            for match in sample_results.get('matches', []):
-                metadata = match.get('metadata', {})
-                title = metadata.get('title', '')
-                episode_type = metadata.get('episode_type', 'Full Episode')
-                if title and title not in unique_episodes:
-                    unique_episodes[title] = episode_type
+            
+            for query_word in sample_queries[:2]:  # Just use 2 queries to be fast
+                try:
+                    results = st.session_state.rag_system.vector_db.collection.query(
+                        query_texts=[query_word],
+                        n_results=50
+                    )
+                    
+                    # Extract unique titles from results
+                    for metadata in results.get('metadatas', [[]])[0]:
+                        title = metadata.get('title', '')
+                        episode_type = metadata.get('episode_type', 'Full Episode')
+                        if title and title not in unique_episodes:
+                            unique_episodes[title] = episode_type
+                            if len(unique_episodes) >= 15:
+                                break
+                except:
+                    continue
+                
+                if len(unique_episodes) >= 15:
+                    break
             
             if unique_episodes:
-                # Get 15 random episodes
+                # Get up to 15 episodes
                 import random
                 if len(unique_episodes) > 15:
                     sample_titles = random.sample(list(unique_episodes.items()), 15)
