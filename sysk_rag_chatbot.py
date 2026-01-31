@@ -139,8 +139,7 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
     """
     try:
         # Check if database has any vectors
-        stats = vector_db.index.describe_index_stats()
-        total_count = stats.get('total_vector_count', 0)
+        total_count = vector_db.collection.count()
         
         if total_count == 0:
             return {
@@ -161,7 +160,7 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
             query_vector = [float(i * 0.001)] * 384  # Small variation
             
             sample_size = min(10000, total_count)
-            results = vector_db.index.query(
+            results = vector_db.collection.query(
                 vector=query_vector,
                 top_k=sample_size,
                 include_metadata=True
@@ -186,6 +185,8 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
         
     except Exception as e:
         st.error(f"Sync error: {e}")
+        import traceback
+        st.error(traceback.format_exc())
         # If sync fails, return empty
         return {
             "indexed_files": [],
@@ -193,7 +194,7 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
             "last_updated": None,
             "error": str(e)
         }
-
+    
 # ============================================================================
 # Admin Database Builder Functions
 # ============================================================================
