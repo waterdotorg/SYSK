@@ -135,11 +135,12 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
     Rebuild indexing_progress.json from existing Pinecone data
     Useful when database exists but progress file is missing/empty
     
-    For Pinecone, we use sampling via query instead of fetching all metadata
+    Uses multiple queries to sample more vectors and get better coverage
     """
     try:
         # Check if database has any vectors
-        total_count = vector_db.collection.count()
+        stats = vector_db.index.describe_index_stats()
+        total_count = stats.get('total_vector_count', 0)
         
         if total_count == 0:
             return {
@@ -148,25 +149,29 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
                 "last_updated": None
             }
         
-        # Sample vectors using a query to get metadata (more efficient than get_all)
-        import numpy as np
-        dummy_vector = np.zeros(384).tolist()  # 384 dimensions for all-MiniLM-L6-v2
-        
-        # Query to get a large sample
-        sample_size = min(10000, total_count)  # Sample up to 10k vectors
-        sample_results = vector_db.collection.index.query(
-            vector=dummy_vector,
-            top_k=sample_size,
-            include_metadata=True
-        )
-        
-        # Extract unique filenames from sample
+        # Sample vectors multiple times to get better coverage
         indexed_files = set()
-        for match in sample_results.get('matches', []):
-            metadata = match.get('metadata', {})
-            filename = metadata.get('filename', '')
-            if filename:
-                indexed_files.add(filename)
+        dummy_vector = [0.0] * 384  # 384 dimensions for all-MiniLM-L6-v2
+        
+        # Query multiple times with different "random" vectors to get diverse samples
+        num_samples = min(5, max(1, total_count // 10000))  # 5 samples for 40k+ vectors
+        
+        for i in range(num_samples):
+            # Use slightly different dummy vectors to get different samples
+            query_vector = [float(i * 0.001)] * 384  # Small variation
+            
+            sample_size = min(10000, total_count)
+            results = vector_db.index.query(
+                vector=query_vector,
+                top_k=sample_size,
+                include_metadata=True
+            )
+            
+            # Extract unique filenames
+            if results and 'matches' in results:
+                for match in results['matches']:
+                    if 'metadata' in match and 'filename' in match['metadata']:
+                        indexed_files.add(match['metadata']['filename'])
         
         # Create progress structure
         progress = {
@@ -174,12 +179,13 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
             "total_indexed": len(indexed_files),
             "last_updated": datetime.now().isoformat(),
             "synced_from_db": True,
-            "note": f"Synced from {total_count} total chunks, sampled {sample_size}"
+            "note": f"Synced from {total_count} total chunks using {num_samples} samples"
         }
         
         return progress
         
     except Exception as e:
+        st.error(f"Sync error: {e}")
         # If sync fails, return empty
         return {
             "indexed_files": [],
