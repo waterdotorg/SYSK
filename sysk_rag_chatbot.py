@@ -135,7 +135,7 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
     Rebuild indexing_progress.json from existing Pinecone data
     Useful when database exists but progress file is missing/empty
     
-    Uses multiple queries to sample more vectors and get better coverage
+    Uses multiple text queries to sample vectors and get better coverage
     """
     try:
         # Check if database has any vectors
@@ -148,32 +148,37 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
                 "last_updated": None
             }
         
-        # Sample vectors multiple times to get better coverage
+        # Sample vectors using different text queries to get diverse samples
         indexed_files = set()
-        dummy_vector = [0.0] * 384  # 384 dimensions for all-MiniLM-L6-v2
         
-        # Query multiple times with different "random" vectors to get diverse samples
-        num_samples = min(5, max(1, total_count // 10000))  # 5 samples for 40k+ vectors
+        # Use different query terms to get diverse samples from the database
+        sample_queries = [
+            "episode",
+            "Josh",
+            "Chuck", 
+            "stuff",
+            "podcast"
+        ]
         
-        for i in range(num_samples):
-            # Use slightly different dummy vectors to get different samples
-            query_vector = [float(i * 0.001)] * 384  # Small variation
-            
+        for query_text in sample_queries:
+            # Query with large n_results to sample broadly
             sample_size = min(10000, total_count)
             
-            # Query using query_texts instead of vector (matches how it's used elsewhere in the code)
-            results = vector_db.collection.query(
-                query_embeddings=[query_vector],  # Try query_embeddings instead
-                n_results=sample_size,
-                include=['metadatas']
-            )
-            
-            # Extract unique filenames - adjust based on results structure
-            if results and 'metadatas' in results and results['metadatas']:
-                for metadata_list in results['metadatas']:
-                    for metadata in metadata_list:
-                        if 'filename' in metadata:
-                            indexed_files.add(metadata['filename'])
+            try:
+                results = vector_db.collection.query(
+                    query_texts=[query_text],
+                    n_results=sample_size
+                )
+                
+                # Extract unique filenames from metadatas
+                if results and 'metadatas' in results and results['metadatas']:
+                    for metadata_list in results['metadatas']:
+                        for metadata in metadata_list:
+                            if 'filename' in metadata:
+                                indexed_files.add(metadata['filename'])
+            except Exception as query_error:
+                st.warning(f"Query '{query_text}' failed: {query_error}")
+                continue
         
         # Create progress structure
         progress = {
@@ -181,7 +186,7 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
             "total_indexed": len(indexed_files),
             "last_updated": datetime.now().isoformat(),
             "synced_from_db": True,
-            "note": f"Synced from {total_count} total chunks using {num_samples} samples"
+            "note": f"Synced from {total_count} total chunks using {len(sample_queries)} text queries"
         }
         
         return progress
