@@ -738,7 +738,7 @@ def show_admin_interface():
     
     # Progress bar
     if len(all_files) > 0:
-        progress_pct = progress.get("total_indexed", 0) / len(all_files)
+        progress_pct = min(progress.get("total_indexed", 0) / len(all_files), 1.0)
         st.sidebar.progress(progress_pct, text=f"{progress_pct*100:.1f}%")
     
     if progress.get("last_updated"):
