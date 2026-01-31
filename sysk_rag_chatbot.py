@@ -160,17 +160,20 @@ def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder:
             query_vector = [float(i * 0.001)] * 384  # Small variation
             
             sample_size = min(10000, total_count)
+            
+            # Query using query_texts instead of vector (matches how it's used elsewhere in the code)
             results = vector_db.collection.query(
-                vector=query_vector,
-                top_k=sample_size,
-                include_metadata=True
+                query_embeddings=[query_vector],  # Try query_embeddings instead
+                n_results=sample_size,
+                include=['metadatas']
             )
             
-            # Extract unique filenames
-            if results and 'matches' in results:
-                for match in results['matches']:
-                    if 'metadata' in match and 'filename' in match['metadata']:
-                        indexed_files.add(match['metadata']['filename'])
+            # Extract unique filenames - adjust based on results structure
+            if results and 'metadatas' in results and results['metadatas']:
+                for metadata_list in results['metadatas']:
+                    for metadata in metadata_list:
+                        if 'filename' in metadata:
+                            indexed_files.add(metadata['filename'])
         
         # Create progress structure
         progress = {
