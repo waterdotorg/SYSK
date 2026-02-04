@@ -1,33 +1,18 @@
-name: Keep Streamlit App Alive
+name: Keep Streamlit App Awake
 
 on:
   schedule:
-    # Every 2 hours
-    - cron: "0 */1 * * *"
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+  # Allows manual runs from the GitHub UI
   workflow_dispatch:
 
 jobs:
-  keep-alive:
+  keepalive:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Wake Streamlit runtime
+      - name: Ping Streamlit app to keep it awake
         run: |
-          echo "Waking Streamlit app..."
-
-          curl -L \
-            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36" \
-            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
-            -H "Accept-Language: en-US,en;q=0.5" \
-            -H "Cache-Control: no-cache" \
-            -H "Pragma: no-cache" \
-            --max-time 60 \
-            https://syskchat.streamlit.app/?keepalive=true
-
-      - name: Touch Streamlit health endpoint
-        run: |
-          curl -s --max-time 30 https://syskchat.streamlit.app/_stcore/health || true
-
-      - name: Log timestamp
-        run: |
-          echo "Keep-alive completed at $(date -u)"
+          echo "Pinging Streamlit app..."
+          curl -I --max-time 10 https://water-portal-assistant.streamlit.app || true
