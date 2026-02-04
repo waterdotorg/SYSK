@@ -2,30 +2,32 @@ name: Keep Streamlit App Alive
 
 on:
   schedule:
-    # Run every 6 hours (at minute 0 of hours 0, 6, 12, 18)
-    - cron: '0 */2 * * *'
-  workflow_dispatch:  # Allows manual trigger from GitHub UI
+    # Every 2 hours
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
 
 jobs:
   keep-alive:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Ping Streamlit App
+      - name: Wake Streamlit runtime
         run: |
-          echo "Pinging Streamlit app to keep it alive..."
-          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" https://syskchat.streamlit.app/)
-          echo "Response code: $RESPONSE"
-          
-          if [ $RESPONSE -eq 200 ] || [ $RESPONSE -eq 302 ]; then
-            echo "✅ App is alive! Status: $RESPONSE"
-            exit 0
-          else
-            echo "⚠️ Unexpected status: $RESPONSE"
-            exit 0
-          fi
-      
-      - name: Log Success
+          echo "Waking Streamlit app..."
+
+          curl -L \
+            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
+            -H "Accept-Language: en-US,en;q=0.5" \
+            -H "Cache-Control: no-cache" \
+            -H "Pragma: no-cache" \
+            --max-time 60 \
+            https://syskchat.streamlit.app/?keepalive=true
+
+      - name: Touch Streamlit health endpoint
         run: |
-          echo "Ping completed at $(date -u)"
-          echo "Next ping scheduled in 6 hours"
+          curl -s --max-time 30 https://syskchat.streamlit.app/_stcore/health || true
+
+      - name: Log timestamp
+        run: |
+          echo "Keep-alive completed at $(date -u)"
