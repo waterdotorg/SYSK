@@ -1220,7 +1220,7 @@ def show_search_interface():
     
     # Default search parameters (no sidebar controls for public users)
     search_mode = "Smart"
-    top_k = 3  # Show top 3 most relevant results
+    top_k = 5  # Show top 5 most relevant results
     semantic_weight = 0.5
     keyword_weight = 0.5
     title_weight = 2.0

@@ -1,0 +1,31 @@
+name: Keep Streamlit App Alive
+
+on:
+  schedule:
+    # Run every 6 hours (at minute 0 of hours 0, 6, 12, 18)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
+
+jobs:
+  keep-alive:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Ping Streamlit App
+        run: |
+          echo "Pinging Streamlit app to keep it alive..."
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" https://syskchat.streamlit.app/)
+          echo "Response code: $RESPONSE"
+          
+          if [ $RESPONSE -eq 200 ] || [ $RESPONSE -eq 302 ]; then
+            echo "✅ App is alive! Status: $RESPONSE"
+            exit 0
+          else
+            echo "⚠️ Unexpected status: $RESPONSE"
+            exit 0
+          fi
+      
+      - name: Log Success
+        run: |
+          echo "Ping completed at $(date -u)"
+          echo "Next ping scheduled in 6 hours"
