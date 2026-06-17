@@ -34,7 +34,7 @@ class Config:
     ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
     EMBEDDING_MODEL = "all-MiniLM-L6-v2"
     PINECONE_INDEX_NAME = "sysk-transcripts"  # Changed from underscore to hyphen
-    CLAUDE_MODEL = "claude-sonnet-4-20250514"
+    CLAUDE_MODEL = "cclaude-sonnet-4-6"
     CLAUDE_MAX_TOKENS = 4096
     TOP_K_RESULTS = 5
     CONVERSATION_HISTORY_LENGTH = 5
