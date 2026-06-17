@@ -25,6 +25,12 @@ from pinecone_vector_db import VectorDatabase
 # NEW: Hybrid search module
 from hybrid_search import HybridSearcher
 
+# Shared, Streamlit-free transcript parsing/chunking (also used by index_transcripts.py)
+from transcript_processor import TranscriptProcessor
+
+# Pinecone as the single source of truth for "what is indexed" (Priority #1)
+import pinecone_state
+
 # ============================================================================
 # Configuration
 # ============================================================================
@@ -130,95 +136,15 @@ def verify_and_change_pin(old_pin: str, new_pin: str, confirm_pin: str) -> tuple
     
     return True, "✅ PIN changed successfully!"
 
-def sync_progress_from_database(vector_db: 'VectorDatabase', transcripts_folder: str):
-    """
-    Rebuild indexing_progress.json from existing Pinecone data
-    Useful when database exists but progress file is missing/empty
-    
-    Uses multiple text queries to sample vectors and get better coverage
-    """
-    try:
-        # Check if database has any vectors
-        total_count = vector_db.collection.count()
-        
-        if total_count == 0:
-            return {
-                "indexed_files": [],
-                "total_indexed": 0,
-                "last_updated": None
-            }
-        
-        # Sample vectors using different text queries to get diverse samples
-        indexed_files = set()
-        
-        # Use different query terms to get diverse samples from the database
-        sample_queries = [
-            "episode",
-            "Josh",
-            "Chuck", 
-            "stuff",
-            "podcast"
-        ]
-        
-        for query_text in sample_queries:
-            # Query with large n_results to sample broadly
-            sample_size = min(10000, total_count)
-            
-            try:
-                results = vector_db.collection.query(
-                    query_texts=[query_text],
-                    n_results=sample_size
-                )
-                
-                # Extract unique filenames from metadatas
-                if results and 'metadatas' in results and results['metadatas']:
-                    for metadata_list in results['metadatas']:
-                        for metadata in metadata_list:
-                            if 'filename' in metadata:
-                                indexed_files.add(metadata['filename'])
-            except Exception as query_error:
-                st.warning(f"Query '{query_text}' failed: {query_error}")
-                continue
-        
-        # Create progress structure
-        progress = {
-            "indexed_files": sorted(list(indexed_files)),
-            "total_indexed": len(indexed_files),
-            "last_updated": datetime.now().isoformat(),
-            "synced_from_db": True,
-            "note": f"Synced from {total_count} total chunks using {len(sample_queries)} text queries"
-        }
-        
-        return progress
-        
-    except Exception as e:
-        st.error(f"Sync error: {e}")
-        import traceback
-        st.error(traceback.format_exc())
-        # If sync fails, return empty
-        return {
-            "indexed_files": [],
-            "total_indexed": 0,
-            "last_updated": None,
-            "error": str(e)
-        }
-    
+# (removed def sync_progress_from_database — superseded by Pinecone-sourced state / offline indexer)
+
 # ============================================================================
 # Admin Database Builder Functions
 # ============================================================================
 
-def load_indexing_progress() -> Dict:
-    """Load which files have been indexed"""
-    if os.path.exists(Config.INDEXING_PROGRESS_FILE):
-        with open(Config.INDEXING_PROGRESS_FILE, 'r') as f:
-            return json.load(f)
-    return {"indexed_files": [], "last_updated": None, "total_indexed": 0}
+# (removed def load_indexing_progress — superseded by Pinecone-sourced state / offline indexer)
 
-def save_indexing_progress(progress: Dict):
-    """Save indexing progress"""
-    progress["last_updated"] = datetime.now().isoformat()
-    with open(Config.INDEXING_PROGRESS_FILE, 'w') as f:
-        json.dump(progress, f, indent=2)
+# (removed def save_indexing_progress — superseded by Pinecone-sourced state / offline indexer)
 
 def get_transcript_files(transcripts_folder: str) -> List[Path]:
     """Get all transcript files"""
@@ -227,288 +153,37 @@ def get_transcript_files(transcripts_folder: str) -> List[Path]:
         return []
     return sorted([f for f in transcript_dir.glob("*.txt")])
 
-def batch_index_transcripts(processor: 'TranscriptProcessor', 
-                            vector_db: 'VectorDatabase',
-                            transcripts_folder: str,
-                            batch_size: int = 50,
-                            progress_callback=None) -> Dict:
+def get_indexing_state(vector_db: 'VectorDatabase', transcripts_folder: str) -> Dict:
+    """Derive indexing state directly from Pinecone (the single source of truth).
+
+    Replaces the old indexing_progress.json ledger (Priority #1). Returns the set
+    of episodes indexed in Pinecone, the files on disk, and the newest-first diff
+    of what still needs indexing — without maintaining any local ledger.
     """
-    Index transcripts in batches with progress tracking
-    
-    Args:
-        processor: TranscriptProcessor instance
-        vector_db: VectorDatabase instance
-        transcripts_folder: Path to transcripts directory
-        batch_size: Number of files to process per batch
-        progress_callback: Optional callback for progress updates (current, total)
-        
-    Returns:
-        Dict with indexing results
-    """
-    progress = load_indexing_progress()
-    all_files = get_transcript_files(transcripts_folder)
-    
-    # Filter out already indexed files
-    indexed_set = set(progress.get("indexed_files", []))
-    files_to_index = [f for f in all_files if f.name not in indexed_set]
-    
-    if not files_to_index:
-        return {
-            "status": "complete",
-            "message": "All files already indexed",
-            "total_files": len(all_files),
-            "indexed": len(indexed_set)
-        }
-    
-    # Get batch
-    batch_files = files_to_index[:batch_size]
-    
-    # Index the batch
-    results = {
-        "status": "processing",
-        "processed": 0,
-        "errors": []
+    disk_files = {f.name for f in get_transcript_files(transcripts_folder)}
+    try:
+        indexed_files = pinecone_state.get_indexed_filenames(vector_db.collection.index)
+    except Exception as e:
+        st.warning(f"Could not read indexed state from Pinecone: {e}")
+        indexed_files = set()
+
+    to_index = pinecone_state.diff_to_index(disk_files, indexed_files)
+    return {
+        "disk_files": disk_files,
+        "indexed_files": indexed_files,
+        "to_index": to_index,
+        "total_disk": len(disk_files),
+        "total_indexed": len(indexed_files),
+        "remaining": len(to_index),
     }
-    
-    total_in_batch = len(batch_files)
-    
-    for idx, file_path in enumerate(batch_files, 1):
-        # Call progress callback if provided
-        if progress_callback:
-            progress_callback(idx, total_in_batch)
-        
-        try:
-            # Skip if somehow already indexed (shouldn't happen but safety check)
-            if file_path.name in indexed_set:
-                continue
-            
-            # Parse transcript file
-            parsed = processor.parse_transcript_file(str(file_path))
-            if not parsed:
-                results["errors"].append({
-                    "file": file_path.name,
-                    "error": "Failed to parse file"
-                })
-                continue
-            
-            # Create chunks
-            chunks = processor.chunk_by_time(
-                parsed['transcript'], 
-                parsed['metadata']
-            )
-            
-            # Add to Pinecone
-            if chunks:
-                for chunk in chunks:
-                    chunk_id = f"{parsed['metadata']['filename']}_{chunk['chunk_id']}"
-                    
-                    # Prepare metadata for storage
-                    chunk_metadata = {
-                        'title': parsed['metadata'].get('title', 'Unknown'),
-                        'date': parsed['metadata'].get('date', 'Unknown'),
-                        'duration': parsed['metadata'].get('duration', 'Unknown'),
-                        'episode_type': parsed['metadata'].get('episode_type', 'Full Episode'),
-                        'filename': parsed['metadata'].get('filename', ''),
-                        'time': f"{chunk.get('start_time', '00:00:00')} - {chunk.get('end_time', '00:00:00')}",
-                        'chunk_id': chunk['chunk_id']
-                    }
-                    
-                    # Add URLs if available
-                    for url_key in ['episode_url', 'audio_url', 'transcript_url']:
-                        if url_key in parsed['metadata']:
-                            chunk_metadata[url_key] = parsed['metadata'][url_key]
-                    
-                    vector_db.collection.add(
-                        documents=[chunk['text']],
-                        metadatas=[chunk_metadata],
-                        ids=[chunk_id]
-                    )
-                
-                # Track progress - only if chunks were created
-                progress["indexed_files"].append(file_path.name)
-                progress["total_indexed"] = len(progress["indexed_files"])
-                results["processed"] += 1
-            else:
-                # File had no chunks
-                results["errors"].append({
-                    "file": file_path.name,
-                    "error": "No chunks created (file may be too short or empty)"
-                })
-                
-        except Exception as e:
-            results["errors"].append({
-                "file": file_path.name,
-                "error": str(e)
-            })
-    
-    # Save progress
-    save_indexing_progress(progress)
-    
-    results["total_files"] = len(all_files)
-    results["total_indexed"] = len(progress["indexed_files"])
-    results["remaining"] = len(all_files) - len(progress["indexed_files"])
-    
-    return results
+
+# (removed def batch_index_transcripts — superseded by Pinecone-sourced state / offline indexer)
 
 # ============================================================================
 # Document Processing (Your existing class)
 # ============================================================================
 
-class TranscriptProcessor:
-    """Process SYSK transcript files into chunks"""
-    
-    def __init__(self, chunk_duration_seconds=None, chunk_size_chars=None, chunk_overlap_chars=None):
-        self.chunk_duration = chunk_duration_seconds or Config.CHUNK_DURATION_SECONDS
-        self.chunk_size = chunk_size_chars or Config.CHUNK_SIZE_CHARS
-        self.chunk_overlap = chunk_overlap_chars or Config.CHUNK_OVERLAP_CHARS
-    
-    def parse_transcript_file(self, filepath: str) -> Optional[Dict]:
-        """Parse a transcript file and extract metadata"""
-        try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                content = f.read()
-            
-            # Extract metadata from header
-            lines = content.split('\n')
-            metadata = {}
-            transcript_start = 0
-            
-            for i, line in enumerate(lines):
-                if line.startswith("Episode:"):
-                    metadata['title'] = line.replace("Episode:", "").strip()
-                elif line.startswith("Date:"):
-                    metadata['date'] = line.replace("Date:", "").strip()
-                elif line.startswith("Duration:"):
-                    duration_str = line.replace("Duration:", "").strip()
-                    metadata['duration'] = duration_str
-                elif line.startswith("Episode URL:"):
-                    metadata['episode_url'] = line.replace("Episode URL:", "").strip()
-                elif line.startswith("Audio URL:"):
-                    metadata['audio_url'] = line.replace("Audio URL:", "").strip()
-                elif line.startswith("Transcript URL:"):
-                    metadata['transcript_url'] = line.replace("Transcript URL:", "").strip()
-                elif "=" * 40 in line:
-                    transcript_start = i + 1
-                    break
-            
-            # Get transcript content after header
-            transcript_text = '\n'.join(lines[transcript_start:]).strip()
-            
-            # Determine episode type
-            if metadata.get('title', '').startswith("Short Stuff"):
-                metadata['episode_type'] = "Short Stuff"
-            else:
-                metadata['episode_type'] = "Full Episode"
-            
-            # Extract filename for unique ID
-            metadata['filename'] = os.path.basename(filepath)
-            
-            return {
-                'metadata': metadata,
-                'transcript': transcript_text,
-                'filepath': filepath
-            }
-            
-        except Exception as e:
-            st.warning(f"Error parsing {filepath}: {e}")
-            return None
-    
-    def parse_timestamp(self, timestamp_str: str) -> int:
-        """Convert timestamp string (HH:MM:SS) to seconds"""
-        try:
-            parts = timestamp_str.strip().split(':')
-            if len(parts) == 3:
-                h, m, s = parts
-                return int(h) * 3600 + int(m) * 60 + int(s)
-            elif len(parts) == 2:
-                m, s = parts
-                return int(m) * 60 + int(s)
-            else:
-                return 0
-        except:
-            return 0
-    
-    def chunk_by_time(self, transcript_text: str, metadata: Dict) -> List[Dict]:
-        """Chunk transcript by time intervals, with fallback for episodes without timestamps"""
-        
-        # Fix transcripts that don't have proper line breaks
-        transcript_text = re.sub(r'(\d{2}:\d{2}:\d{2})([A-Za-z])', r'\n\1\n\2', transcript_text)
-        
-        # Count timestamps to determine chunking strategy
-        timestamp_count = len(re.findall(r'\d{2}:\d{2}:\d{2}', transcript_text))
-        
-        # If episode has very few timestamps, use character-based chunking
-        if timestamp_count < 5:
-            return self.chunk_by_characters(transcript_text, metadata)
-        
-        # Otherwise use time-based chunking
-        chunks = []
-        lines = transcript_text.split('\n')
-        
-        current_chunk = []
-        current_start_time = 0
-        current_start_timestamp = "00:00:00"
-        chunk_id = 0
-        
-        for line in lines:
-            line = line.strip()
-            if not line:
-                continue
-            
-            # Check if line is a timestamp
-            if re.match(r'^\d{2}:\d{2}:\d{2}$', line):
-                timestamp_seconds = self.parse_timestamp(line)
-                
-                # If we've exceeded chunk duration, save current chunk
-                if timestamp_seconds - current_start_time >= self.chunk_duration and current_chunk:
-                    chunk_text = '\n'.join(current_chunk)
-                    chunks.append({
-                        'text': chunk_text,
-                        'start_time': current_start_timestamp,
-                        'end_time': line,
-                        'chunk_id': chunk_id,
-                        'metadata': metadata
-                    })
-                    
-                    # Start new chunk
-                    current_chunk = []
-                    current_start_time = timestamp_seconds
-                    current_start_timestamp = line
-                    chunk_id += 1
-                
-                current_chunk.append(line)
-            else:
-                current_chunk.append(line)
-        
-        # Save final chunk
-        if current_chunk:
-            chunk_text = '\n'.join(current_chunk)
-            chunks.append({
-                'text': chunk_text,
-                'start_time': current_start_timestamp,
-                'end_time': current_start_timestamp,  # Last known timestamp
-                'chunk_id': chunk_id,
-                'metadata': metadata
-            })
-        
-        return chunks if chunks else [{'text': transcript_text, 'start_time': '00:00:00', 'end_time': '00:00:00', 'chunk_id': 0, 'metadata': metadata}]
-    
-    def chunk_by_characters(self, transcript_text: str, metadata: Dict) -> List[Dict]:
-        """Fallback chunking for episodes without timestamps"""
-        chunks = []
-        
-        for i in range(0, len(transcript_text), self.chunk_size - self.chunk_overlap):
-            chunk_text = transcript_text[i:i + self.chunk_size]
-            
-            chunks.append({
-                'text': chunk_text,
-                'start_time': '00:00:00',  # No timestamp available
-                'end_time': '00:00:00',
-                'chunk_id': len(chunks),
-                'metadata': metadata
-            })
-        
-        return chunks if chunks else [{'text': transcript_text, 'start_time': '00:00:00', 'end_time': '00:00:00', 'chunk_id': 0, 'metadata': metadata}]
+# (removed class TranscriptProcessor — superseded by Pinecone-sourced state / offline indexer)
 
 # ============================================================================
 # Vector Database - Now using Pinecone (see pinecone_vector_db.py)
@@ -735,144 +410,73 @@ def show_admin_interface():
     transcripts_folder = st.sidebar.text_input("Transcripts Folder", value="./transcripts")
     
     # ---- Database Status ----
+    # Indexing state is derived directly from Pinecone (the single source of
+    # truth). There is no longer an indexing_progress.json ledger to drift.
     st.sidebar.divider()
     st.sidebar.markdown("### 📊 Database Status")
-    
-    progress = load_indexing_progress()
-    all_files = get_transcript_files(transcripts_folder)
-    remaining = len(all_files) - progress.get("total_indexed", 0)
-    db_count = vector_db.collection.count()
-    
+
+    with st.spinner("Reading indexed state from Pinecone..."):
+        state = get_indexing_state(vector_db, transcripts_folder)
+        db_count = vector_db.collection.count()
+
     col1, col2 = st.sidebar.columns(2)
     with col1:
-        st.metric("Files", len(all_files))
-        st.metric("Indexed", progress.get("total_indexed", 0))
+        st.metric("Files on disk", state["total_disk"])
+        st.metric("Indexed (Pinecone)", state["total_indexed"])
     with col2:
-        st.metric("Remaining", remaining)
-        st.metric("DB Docs", db_count)
-    
+        st.metric("Remaining", state["remaining"])
+        st.metric("DB Chunks", db_count)
+
     # Progress bar
-    if len(all_files) > 0:
-        progress_pct = min(progress.get("total_indexed", 0) / len(all_files), 1.0)
+    if state["total_disk"] > 0:
+        progress_pct = min(state["total_indexed"] / state["total_disk"], 1.0)
         st.sidebar.progress(progress_pct, text=f"{progress_pct*100:.1f}%")
-    
-    if progress.get("last_updated"):
-        st.sidebar.caption(f"📅 {progress['last_updated']}")
-    
-    # ---- Batch Indexing ----
+
+    st.sidebar.caption("Source of truth: Pinecone (no local ledger)")
+
+    # ---- Indexing (now an offline job) ----
     st.sidebar.divider()
-    st.sidebar.markdown("### ⚡ Batch Indexing")
-    
-    batch_size = st.sidebar.slider(
-        "Batch Size", 
-        min_value=10, 
-        max_value=200, 
-        value=50,
-        help="Files to index per batch"
-    )
-    
-    if remaining > 0:
-        if st.sidebar.button("🚀 Index Next Batch", type="primary", use_container_width=True):
-            # Create placeholders for progress
-            progress_text = st.sidebar.empty()
-            progress_bar = st.sidebar.empty()
-            
-            # Progress callback
-            def update_progress(current, total):
-                progress_text.text(f"Processing file {current} of {total}")
-                progress_bar.progress(current / total)
-            
-            # Run indexing with progress updates
-            results = batch_index_transcripts(
-                processor, 
-                vector_db,
-                transcripts_folder,
-                batch_size=batch_size,
-                progress_callback=update_progress
-            )
-            
-            # Clear progress indicators
-            progress_text.empty()
-            progress_bar.empty()
-            
-            if results["status"] == "complete":
-                st.sidebar.success("✅ " + results["message"])
-            else:
-                st.sidebar.success(f"✅ Indexed {results['processed']} files")
-                st.sidebar.info(f"📝 {results['remaining']} remaining")
-                
-                # Debug info
-                if results['processed'] != batch_size and not results.get("errors"):
-                    st.sidebar.warning(f"⚠️ Expected {batch_size} but indexed {results['processed']}")
-                
-                if results.get("errors"):
-                    with st.sidebar.expander(f"⚠️ Errors ({len(results['errors'])})"):
-                        for error in results["errors"]:
-                            st.error(f"{error['file']}: {error['error']}")
-            
-            # Auto-sync progress from DB
-            # NOTE: Disabled auto-sync after indexing because it uses sampling
-            # and might miss recently indexed files. Trust the saved progress instead.
-            # progress = sync_progress_from_database(vector_db, transcripts_folder)
-            # save_indexing_progress(progress)
-            
-            st.rerun()
+    st.sidebar.markdown("### ⚡ Indexing")
+
+    if state["remaining"] == 0:
+        st.sidebar.success("✅ Pinecone is up to date with disk.")
     else:
-        st.sidebar.success("✅ All files indexed!")
-    
+        st.sidebar.info(
+            f"📝 {state['remaining']} new episode(s) to index. "
+            "Indexing now runs as an offline job (it no longer happens in this app)."
+        )
+        st.sidebar.markdown("Run the indexer locally or via GitHub Actions:")
+        st.sidebar.code(
+            "cd /Users/kevinbridges/POC/SYSK\n"
+            "export PINECONE_API_KEY='...'\n"
+            "python3 index_transcripts.py",
+            language="bash",
+        )
+        with st.sidebar.expander(f"⏭️ Next up, newest-first ({state['remaining']})"):
+            for fname in state["to_index"][:50]:
+                st.caption(fname)
+            if state["remaining"] > 50:
+                st.caption(f"...and {state['remaining'] - 50} more")
+
     # ---- Database Management ----
     st.sidebar.divider()
     st.sidebar.markdown("### 🔧 Database Management")
-    
-    # Sync button - useful when DB exists but progress is missing
-    if st.sidebar.button("🔄 Sync Progress from DB", use_container_width=True, 
-                         help="Rebuild progress tracker from existing database"):
-        with st.spinner("Syncing progress from database..."):
-            progress = sync_progress_from_database(vector_db, transcripts_folder)
-            save_indexing_progress(progress)
-            st.sidebar.success(f"✅ Synced {progress['total_indexed']} files")
-            st.rerun()
-    
-    if st.sidebar.button("🔄 Reset Progress", use_container_width=True):
-        if os.path.exists(Config.INDEXING_PROGRESS_FILE):
-            os.remove(Config.INDEXING_PROGRESS_FILE)
-        st.sidebar.success("✅ Progress reset")
-        
-        # Auto-sync from DB if DB has content
-        if vector_db.collection.count() > 0:
-            progress = sync_progress_from_database(vector_db, transcripts_folder)
-            save_indexing_progress(progress)
-        
-        st.rerun()
-    
-    if st.sidebar.button("🗑️ Clear Database", use_container_width=True):
+    st.sidebar.caption(
+        "Destructive operations. After clearing, re-index with the offline "
+        "`index_transcripts.py` job."
+    )
+
+    confirm_destructive = st.sidebar.checkbox(
+        "I understand these actions are destructive", key="confirm_destructive"
+    )
+
+    if st.sidebar.button("🗑️ Clear Database", use_container_width=True,
+                         disabled=not confirm_destructive):
         with st.spinner("Clearing database..."):
             vector_db.collection.delete(delete_all=True)
-            
-            st.sidebar.success("✅ Database cleared")
-            
-            # Auto-sync (should now show 0 files)
-            progress = sync_progress_from_database(vector_db, transcripts_folder)
-            save_indexing_progress(progress)
-            
-            st.rerun()
-    
-    if st.sidebar.button("♻️ Full Rebuild", use_container_width=True):
-        with st.spinner("Clearing database..."):
-            # Clear database using Pinecone's delete_all
-            vector_db.collection.delete(delete_all=True)
-        
-        # Reset progress
-        if os.path.exists(Config.INDEXING_PROGRESS_FILE):
-            os.remove(Config.INDEXING_PROGRESS_FILE)
-        
-        # Auto-sync (should show 0 everything)
-        progress = sync_progress_from_database(vector_db, transcripts_folder)
-        save_indexing_progress(progress)
-        
-        st.sidebar.success("✅ Ready for fresh indexing")
+        st.sidebar.success("✅ Database cleared. Run index_transcripts.py to rebuild.")
         st.rerun()
-    
+
     # ---- Change PIN ----
     st.sidebar.divider()
     st.sidebar.markdown("### 🔐 Change Admin PIN")
@@ -904,18 +508,18 @@ def show_admin_interface():
     
     # ---- Indexed Files List ----
     st.sidebar.divider()
-    if progress.get("indexed_files"):
-        with st.sidebar.expander(f"📝 Indexed Files ({len(progress['indexed_files'])})"):
-            files_list = sorted(progress["indexed_files"])
-            
+    if state.get("indexed_files"):
+        with st.sidebar.expander(f"📝 Indexed Files ({len(state['indexed_files'])})"):
+            files_list = sorted(state["indexed_files"])
+
             # Show first 50
             display_count = min(50, len(files_list))
             for filename in files_list[:display_count]:
                 st.caption(filename)
-            
+
             if len(files_list) > display_count:
                 st.caption(f"...and {len(files_list) - display_count} more")
-            
+
             # Download full list
             st.download_button(
                 "📥 Download List",
