@@ -1,0 +1,64 @@
+name: Index transcripts (offline)
+
+# Runs the offline, diff-based indexer in the cloud so indexing happens while
+# the laptop is off (COWORK.md Priority #3). The job:
+#   1. Checks out the repo (including Git LFS transcripts),
+#   2. Derives indexed-state directly from Pinecone (source of truth, Priority #1),
+#   3. Indexes only the disk-minus-Pinecone diff, newest-first (Priority #2).
+#
+# Requires repo secret: PINECONE_API_KEY
+
+on:
+  schedule:
+    # Weekly, Mondays at 08:00 UTC. SYSK publishes through the week; this keeps
+    # the index fresh without touching the whole backlog each run.
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Max NEW episodes to index this run (0 = no limit)"
+        required: false
+        default: "0"
+      dry_run:
+        description: "Dry run (report the diff, do not write to Pinecone)"
+        type: boolean
+        required: false
+        default: false
+
+concurrency:
+  # Never run two indexers against the same Pinecone index at once.
+  group: index-transcripts
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout (with LFS transcripts)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        # Indexing needs Pinecone + the embedding model only (not Streamlit).
+        run: |
+          python -m pip install --upgrade pip
+          pip install pinecone sentence-transformers numpy
+
+      - name: Run offline indexer
+        env:
+          PINECONE_API_KEY: ${{ secrets.PINECONE_API_KEY }}
+          PINECONE_INDEX_NAME: sysk-transcripts
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ -n "${{ inputs.limit }}" ] && [ "${{ inputs.limit }}" != "0" ]; then ARGS="$ARGS --limit ${{ inputs.limit }}"; fi
+          echo "Running: python index_transcripts.py $ARGS"
+          python index_transcripts.py $ARGS
