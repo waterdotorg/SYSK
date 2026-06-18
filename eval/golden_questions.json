@@ -1,0 +1,31 @@
+{
+  "_README": "Golden retrieval set for the SYSK RAG eval harness. Each item maps a natural-language question to one or more acceptable episode filenames (a hit = ANY listed episode appears in top-k). Questions are phrased to avoid copying the episode title verbatim, so they test semantic retrieval rather than exact title matching. Edit freely: add your own real-usage questions, and keep filenames exactly as they appear in ./transcripts. Starter set drafted from the actual archive; 7 entries marked 'formerly_missing' are the accented-title episodes that were re-indexed with ASCII-safe IDs.",
+  "questions": [
+    {"id": "q01", "question": "What did they say about the iceman mummy found frozen in the Alps?", "expected_episodes": ["SYSK_2019-11-19_The_Murder_Mystery_of_Ötzi_the_Iceman_53min.txt"], "note": "formerly_missing"},
+    {"id": "q02", "question": "The episode about people who look identical to you but aren't related", "expected_episodes": ["SYSK_2022-10-11_Doppelgängers_Hey_you_youre_me_48min.txt"], "note": "formerly_missing"},
+    {"id": "q03", "question": "What is the coming-of-age celebration for fifteen-year-old girls in Latin culture?", "expected_episodes": ["SYSK_2018-05-15_Whats_a_quinceañera_anyway_40min.txt"], "note": "formerly_missing"},
+    {"id": "q04", "question": "Why do we get the feeling we've already experienced something before?", "expected_episodes": ["SYSK_2009-03-24_How_Déjà_Vu_Works_25min.txt"], "note": "formerly_missing"},
+    {"id": "q05", "question": "Ancient Persian structures used to store ice in the desert", "expected_episodes": ["SYSK_2025-02-12_Short_Stuff_Yakhchāls_-_Ancient_Fridges_11min.txt"], "note": "formerly_missing"},
+    {"id": "q06", "question": "The famous Paris cemetery where Jim Morrison is buried", "expected_episodes": ["SYSK_2023-07-12_Short_Stuff_Père-Lachaise_Cemetery_12min.txt"], "note": "formerly_missing"},
+    {"id": "q07", "question": "The mysterious illness affecting US diplomats in Cuba with strange sounds", "expected_episodes": ["SYSK_2021-04-06_Havana_Syndrome_Qué_Diablos_42min.txt"], "note": "formerly_missing"},
+    {"id": "q08", "question": "Can you actually sink and die in quicksand?", "expected_episodes": ["SYSK_2010-06-24_Can_quicksand_kill_you_26min.txt"]},
+    {"id": "q09", "question": "How do these eight-armed sea creatures camouflage and escape?", "expected_episodes": ["SYSK_2010-09-21_Octopus_Octopi_Octopod_Octopuses_37min.txt"]},
+    {"id": "q10", "question": "Is being put under a trance state real, and how does it work?", "expected_episodes": ["SYSK_2010-09-23_Hypnosis_Youre_Getting_Sleepy_31min.txt"]},
+    {"id": "q11", "question": "The plague that wiped out a huge portion of medieval Europe", "expected_episodes": ["SYSK_2011-02-10_How_the_Black_Death_Worked_31min.txt", "SYSK_2019-08-03_SYSK_Selects_How_the_Black_Death_Worked_32min.txt"]},
+    {"id": "q12", "question": "Why do ships and planes supposedly vanish in that area of the Atlantic?", "expected_episodes": ["SYSK_2012-01-12_Whats_the_deal_with_the_Bermuda_Triangle_44min.txt"]},
+    {"id": "q13", "question": "How can a sugar pill make people feel better with no real medicine?", "expected_episodes": ["SYSK_2014-06-10_How_the_Placebo_Effect_Works_39min.txt", "SYSK_2020-01-18_SYSK_Selects_How_the_Placebo_Effect_Works_39min.txt"]},
+    {"id": "q14", "question": "The prehistoric stone circle monument in England", "expected_episodes": ["SYSK_2015-03-05_How_Stonehenge_Works_42min.txt"]},
+    {"id": "q15", "question": "Is the caffeine in coffee good or bad for you?", "expected_episodes": ["SYSK_2016-01-14_The_Duality_of_Caffeine_47min.txt"]},
+    {"id": "q16", "question": "How do giant ocean waves triggered by earthquakes form?", "expected_episodes": ["SYSK_2018-06-12_How_Tsunamis_Work_47min.txt"]},
+    {"id": "q17", "question": "The bloodsucking worms once used widely in medicine", "expected_episodes": ["SYSK_2022-02-15_Leeches_Oh_Hell_No_50min.txt"]},
+    {"id": "q18", "question": "How do those fortune-telling cards supposedly work?", "expected_episodes": ["SYSK_2023-01-12_How_Tarot_Works_43min.txt"]},
+    {"id": "q19", "question": "The German airship that caught fire in New Jersey in 1937", "expected_episodes": ["SYSK_2026-05-14_The_Hindenburg_Disaster_50min.txt"]},
+    {"id": "q20", "question": "How are those little plastic interlocking building bricks made?", "expected_episodes": ["SYSK_2010-05-04_How_LEGOs_Work_37min.txt"]},
+    {"id": "q21", "question": "The mail delivery service that used fast horse riders across the old West", "expected_episodes": ["SYSK_2018-07-31_How_the_Pony_Express_Worked_44min.txt"]},
+    {"id": "q22", "question": "What makes someone a psychopath, clinically speaking?", "expected_episodes": ["SYSK_2017-09-12_How_Psychopaths_Work_48min.txt"]},
+    {"id": "q23", "question": "The marsupial that plays dead when threatened", "expected_episodes": ["SYSK_2023-02-09_How_Opossums_Work_50min.txt"]},
+    {"id": "q24", "question": "Why do male peacocks have such elaborate tail feathers?", "expected_episodes": ["SYSK_2024-12-10_Ba-Gawk_How_Peacocks_Work_41min.txt"]},
+    {"id": "q25", "question": "How would you survive if your airplane were going down?", "expected_episodes": ["SYSK_2008-12-25_How_to_Survive_a_Plane_Crash_20min.txt"]},
+    {"id": "q26", "question": "The puppets created by Jim Henson", "expected_episodes": ["SYSK_2009-08-27_How_Muppets_Work_32min.txt"]}
+  ]
+}
