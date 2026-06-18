@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Wake Up App
         run: |
-          APP_URL="https://water-portal-assistant.streamlit.app"
+          APP_URL="https://syskchat.streamlit.app"
           
           echo "⏰ Pinging app at $(date -u)"
           echo "URL: $APP_URL"
