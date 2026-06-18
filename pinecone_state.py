@@ -21,10 +21,23 @@ offline indexer, or the MCP server.
 """
 
 import re
+import unicodedata
 from typing import Iterable, List, Optional, Set
 
 # Vector IDs look like "<basename>.txt_<int>"; this splits off the chunk suffix.
 _ID_FILENAME_RE = re.compile(r"^(?P<filename>.+\.txt)_\d+$")
+
+
+def _nfc(name: str) -> str:
+    """Normalize a filename to Unicode NFC (composed) form.
+
+    Episode titles contain accented characters (Ötzi, Père-Lachaise, Doppelgängers,
+    Qué, Yakhchāls, ...). The same name can be stored decomposed (NFD) or composed
+    (NFC) depending on the OS/filesystem that created it. Comparing the two forms
+    byte-for-byte makes identical episodes look different and produces phantom
+    "needs indexing" entries. Normalizing both sides to NFC fixes that.
+    """
+    return unicodedata.normalize("NFC", name)
 
 # Transcript filenames embed the publish date: SYSK_YYYY-MM-DD_Title_Nmin.txt
 _DATE_RE = re.compile(r"_(\d{4}-\d{2}-\d{2})_")
@@ -40,7 +53,7 @@ def filename_from_vector_id(vector_id: str) -> Optional[str]:
         return None
     match = _ID_FILENAME_RE.match(vector_id)
     if match:
-        return match.group("filename")
+        return _nfc(match.group("filename"))
     return None
 
 
@@ -90,6 +103,11 @@ def diff_to_index(disk_filenames: Iterable[str], indexed_filenames: Iterable[str
     """Compute the set of files that need indexing, newest-first.
 
     ``needs indexing = files on disk - episodes already in Pinecone``
+
+    Both sides are NFC-normalized so accented titles compare correctly regardless
+    of the OS/filesystem that produced them.
     """
-    to_index = set(disk_filenames) - set(indexed_filenames)
+    disk_nfc = {_nfc(f) for f in disk_filenames}
+    indexed_nfc = {_nfc(f) for f in indexed_filenames}
+    to_index = disk_nfc - indexed_nfc
     return sort_newest_first(to_index)
