@@ -153,16 +153,27 @@ def get_transcript_files(transcripts_folder: str) -> List[Path]:
         return []
     return sorted([f for f in transcript_dir.glob("*.txt")])
 
-def get_indexing_state(vector_db: 'VectorDatabase', transcripts_folder: str) -> Dict:
+@st.cache_data(ttl=900, show_spinner="Reading indexed state from Pinecone…")
+def get_indexing_state(_vector_db: 'VectorDatabase', transcripts_folder: str,
+                       db_count: int) -> Dict:
     """Derive indexing state directly from Pinecone (the single source of truth).
 
     Replaces the old indexing_progress.json ledger (Priority #1). Returns the set
     of episodes indexed in Pinecone, the files on disk, and the newest-first diff
     of what still needs indexing — without maintaining any local ledger.
+
+    Cached (st.cache_data) because enumerating all vector IDs from Pinecone takes
+    20-30s and Streamlit re-runs the whole script on every interaction (e.g. each
+    search). Cache keys:
+      * ``_vector_db`` is prefixed with ``_`` so Streamlit does NOT try to hash it.
+      * ``transcripts_folder`` and ``db_count`` ARE hashed, so the cache auto-
+        invalidates whenever the chunk count changes (i.e. after (re)indexing),
+        with a 15-minute TTL as a backstop. Use the sidebar "Refresh" button
+        (get_indexing_state.clear()) to force an immediate recompute.
     """
     disk_files = {f.name for f in get_transcript_files(transcripts_folder)}
     try:
-        indexed_files = pinecone_state.get_indexed_filenames(vector_db.collection.index)
+        indexed_files = pinecone_state.get_indexed_filenames(_vector_db.collection.index)
     except Exception as e:
         st.warning(f"Could not read indexed state from Pinecone: {e}")
         indexed_files = set()
@@ -415,9 +426,10 @@ def show_admin_interface():
     st.sidebar.divider()
     st.sidebar.markdown("### 📊 Database Status")
 
-    with st.spinner("Reading indexed state from Pinecone..."):
-        state = get_indexing_state(vector_db, transcripts_folder)
-        db_count = vector_db.collection.count()
+    # db_count (a fast describe_index_stats call) doubles as the cache key for
+    # get_indexing_state: when the chunk count changes, the cached state recomputes.
+    db_count = vector_db.collection.count()
+    state = get_indexing_state(vector_db, transcripts_folder, db_count)
 
     col1, col2 = st.sidebar.columns(2)
     with col1:
@@ -432,7 +444,11 @@ def show_admin_interface():
         progress_pct = min(state["total_indexed"] / state["total_disk"], 1.0)
         st.sidebar.progress(progress_pct, text=f"{progress_pct*100:.1f}%")
 
-    st.sidebar.caption("Source of truth: Pinecone (no local ledger)")
+    st.sidebar.caption("Source of truth: Pinecone (cached ~15 min)")
+    if st.sidebar.button("🔄 Refresh indexed state", use_container_width=True,
+                         help="Re-read indexed episodes from Pinecone now (clears the cache)"):
+        get_indexing_state.clear()
+        st.rerun()
 
     # ---- Indexing (now an offline job) ----
     st.sidebar.divider()
