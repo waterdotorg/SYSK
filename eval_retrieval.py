@@ -107,6 +107,13 @@ def evaluate(searcher, golden: List[Dict], top_k: int, mode: str, **search_kwarg
     for q in golden:
         if mode == "semantic":
             results = searcher.semantic_search(q["question"], n_results=top_k)
+        elif mode == "reranked":
+            # Same candidate pool as semantic, reordered by the cross-encoder.
+            import reranker
+            results = searcher.semantic_search(q["question"], n_results=top_k)
+            results = reranker.rerank_results(q["question"], results, top_n=top_k,
+                                              model_name=search_kwargs.get("model_name",
+                                                                          reranker.DEFAULT_MODEL))
         elif mode == "hybrid":
             results = searcher.hybrid_search(q["question"], n_results=top_k, **search_kwargs)
         else:
@@ -157,6 +164,10 @@ def main() -> int:
     p.add_argument("--golden", default=DEFAULT_GOLDEN)
     p.add_argument("--index-name", default=DEFAULT_INDEX)
     p.add_argument("--top-k", type=int, default=30, help="Candidate pool size to retrieve")
+    p.add_argument("--rerank", action="store_true",
+                   help="Also evaluate cross-encoder reranking of the semantic candidate pool")
+    p.add_argument("--rerank-model", default="cross-encoder/ms-marco-MiniLM-L-6-v2",
+                   help="Cross-encoder model for --rerank")
     p.add_argument("--include-hybrid", action="store_true",
                    help="Also evaluate hybrid search (SLOW: fetches the whole index per query)")
     p.add_argument("--title-boosts", type=float, nargs="*", default=[2.0],
@@ -185,6 +196,11 @@ def main() -> int:
     results = []
     logger.info("Evaluating SEMANTIC retrieval (top_k=%d)...", args.top_k)
     results.append(evaluate(searcher, golden, args.top_k, "semantic"))
+
+    if args.rerank:
+        logger.info("Evaluating RERANKED retrieval (cross-encoder %s)...", args.rerank_model)
+        results.append(evaluate(searcher, golden, args.top_k, "reranked",
+                                model_name=args.rerank_model))
 
     if args.include_hybrid:
         logger.warning("Hybrid mode fetches the entire index per query — this is slow.")
@@ -215,8 +231,8 @@ def main() -> int:
         f.write("| Config | " + " | ".join(f"R@{k}" for k in RECALL_KS) + " | MRR |\n")
         f.write("|" + "---|" * (len(RECALL_KS) + 2) + "\n")
         for r in results:
-            cfg = r["mode"] + ("" if not r["search_kwargs"]
-                               else f" (tb={r['search_kwargs'].get('title_boost')})")
+            tb = r["search_kwargs"].get("title_boost")
+            cfg = r["mode"] + (f" (tb={tb})" if tb is not None else "")
             cells = [f"{r['recall'].get(k, float('nan')):.0%}" if k in r["recall"] else "—"
                      for k in RECALL_KS]
             f.write(f"| {cfg} | " + " | ".join(cells) + f" | {r['mrr']:.3f} |\n")

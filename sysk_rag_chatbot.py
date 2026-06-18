@@ -31,6 +31,9 @@ from transcript_processor import TranscriptProcessor
 # Pinecone as the single source of truth for "what is indexed" (Priority #1)
 import pinecone_state
 
+# Cross-encoder reranker (Priority #4)
+import reranker
+
 # ============================================================================
 # Configuration
 # ============================================================================
@@ -44,6 +47,12 @@ class Config:
     CLAUDE_MAX_TOKENS = 4096
     TOP_K_RESULTS = 5
     CONVERSATION_HISTORY_LENGTH = 5
+
+    # Reranker (Priority #4): retrieve a candidate pool, rerank with a cross-encoder,
+    # then keep TOP_K_RESULTS. RERANK_CANDIDATES is the pool size before reranking.
+    RERANK_ENABLED = True
+    RERANK_CANDIDATES = 30
+    RERANK_MODEL = reranker.DEFAULT_MODEL
     
     # Chunking parameters (configurable via UI)
     # For time-based chunking (episodes with timestamps)
@@ -218,50 +227,75 @@ class RAGSystem:
     def retrieve_context(self, query: str, episode_type_filter: Optional[str] = None,
                         search_mode: str = "Smart", semantic_weight: float = 0.5,
                         keyword_weight: float = 0.5, title_weight: float = 2.0,
-                        top_k: int = Config.TOP_K_RESULTS) -> Tuple[str, List[Dict]]:
-        """Retrieve relevant context with hybrid search"""
-        
+                        top_k: int = Config.TOP_K_RESULTS,
+                        use_reranker: Optional[bool] = None) -> Tuple[str, List[Dict]]:
+        """Retrieve relevant context, optionally reranked with a cross-encoder.
+
+        When the reranker is enabled we fetch a larger candidate pool
+        (Config.RERANK_CANDIDATES), rerank it, and keep the top_k — this is the
+        Priority #4 pattern that lifts buried-but-relevant episodes into the top
+        results. Falls back transparently to the candidate order if the reranker
+        can't load.
+        """
+        if use_reranker is None:
+            use_reranker = Config.RERANK_ENABLED
+        # Fetch a deeper pool when reranking; otherwise just top_k.
+        fetch_k = max(top_k, Config.RERANK_CANDIDATES) if use_reranker else top_k
+
         # Execute search based on mode
         # Note: For Pinecone, we avoid pure keyword search as it requires fetching all docs
         if search_mode == "Smart":
             # Use semantic search as primary (keyword fallback doesn't work well with Pinecone)
-            results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
+            results = self.hybrid_searcher.semantic_search(query, n_results=fetch_k)
             method_used = "semantic"
         elif search_mode == "Hybrid":
             results = self.hybrid_searcher.hybrid_search(
-                query, n_results=top_k,
+                query, n_results=fetch_k,
                 semantic_weight=semantic_weight,
                 keyword_weight=keyword_weight,
                 title_weight=title_weight
             )
         elif search_mode == "Semantic":
-            results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
+            results = self.hybrid_searcher.semantic_search(query, n_results=fetch_k)
         elif search_mode == "Keyword":
             # Keyword-only doesn't work with Pinecone (requires get_all)
             # Fall back to semantic search
             st.warning("⚠️ Keyword-only search not available with Pinecone. Using semantic search.")
-            results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
+            results = self.hybrid_searcher.semantic_search(query, n_results=fetch_k)
         else:
-            results = self.hybrid_searcher.semantic_search(query, n_results=top_k)
-        
-        # Apply episode type filter if specified
+            results = self.hybrid_searcher.semantic_search(query, n_results=fetch_k)
+
+        # Apply episode type filter if specified (on the full candidate pool)
         if episode_type_filter and results['ids'] and results['ids'][0]:
             filtered_ids = []
             filtered_docs = []
             filtered_meta = []
-            
+
             for i, metadata in enumerate(results['metadatas'][0]):
                 if metadata.get('episode_type') == episode_type_filter:
                     filtered_ids.append(results['ids'][0][i])
                     filtered_docs.append(results['documents'][0][i])
                     filtered_meta.append(metadata)
-            
+
             results = {
                 'ids': [filtered_ids],
                 'documents': [filtered_docs],
                 'metadatas': [filtered_meta]
             }
-        
+
+        # Rerank the (filtered) candidate pool with the cross-encoder and keep top_k.
+        # When the reranker is off, the pool is already top_k; trim defensively.
+        if results.get('ids') and results['ids'][0]:
+            if use_reranker:
+                results = reranker.rerank_results(query, results, top_n=top_k,
+                                                  model_name=Config.RERANK_MODEL)
+            elif len(results['ids'][0]) > top_k:
+                results = {
+                    'ids': [results['ids'][0][:top_k]],
+                    'documents': [results['documents'][0][:top_k]],
+                    'metadatas': [results['metadatas'][0][:top_k]],
+                }
+
         # Format context and sources
         if not results['ids'] or not results['ids'][0]:
             return "No relevant episodes found.", []
@@ -555,7 +589,13 @@ def show_admin_interface():
     )
     
     top_k = st.sidebar.slider("Number of Results", 3, 20, 10)
-    
+
+    use_reranker = st.sidebar.checkbox(
+        "🎯 Cross-encoder reranker", value=Config.RERANK_ENABLED,
+        help=(f"Retrieve {Config.RERANK_CANDIDATES} candidates, rerank with "
+              "a cross-encoder, keep the top results. Improves ordering; adds "
+              "a one-time model load and a little per-query latency."))
+
     with st.sidebar.expander("⚙️ Advanced Search Settings"):
         semantic_weight = st.slider("Semantic Weight", 0.0, 1.0, 0.5, 0.1,
                                     help="Weight for AI similarity search")
@@ -735,7 +775,8 @@ def show_admin_interface():
                     semantic_weight=semantic_weight,
                     keyword_weight=keyword_weight,
                     title_weight=title_weight,
-                    top_k=top_k
+                    top_k=top_k,
+                    use_reranker=use_reranker
                 )
                 
                 response = rag_system.generate_response(
