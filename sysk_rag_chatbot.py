@@ -50,7 +50,16 @@ class Config:
 
     # Reranker (Priority #4): retrieve a candidate pool, rerank with a cross-encoder,
     # then keep TOP_K_RESULTS. RERANK_CANDIDATES is the pool size before reranking.
-    RERANK_ENABLED = True
+    # DISABLED by default. The eval harness (2026-06-18, n=26 golden questions)
+    # measured ms-marco-MiniLM-L-6 reranking in three forms; none beat plain
+    # semantic retrieval (baseline R@1 62% / R@5 85% / MRR 0.712):
+    #   - truncated chunk text : R@1 42% / R@5 85% / MRR 0.585  (much worse)
+    #   - full chunk text      : R@1 50% / R@5 88% / MRR 0.649  (better R@3/5, worse R@1)
+    #   - RRF(semantic, CE)    : R@1 58% / R@5 81% / MRR 0.695  (~wash, within noise)
+    # Retrieval here is recall-bound (R@30 plateaus at 96%), not ranking-bound, so
+    # the next lever is the embedding upgrade (#7), not reranking. Code + admin
+    # toggle retained for future experiments; re-measure before re-enabling.
+    RERANK_ENABLED = False
     RERANK_CANDIDATES = 30
     RERANK_MODEL = reranker.DEFAULT_MODEL
     
