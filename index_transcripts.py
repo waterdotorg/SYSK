@@ -65,7 +65,10 @@ def build_chunk_records(processor: TranscriptProcessor, file_path: Path):
     metadatas: List[Dict] = []
 
     for chunk in chunks:
-        chunk_id = f"{parsed['metadata']['filename']}_{chunk['chunk_id']}"
+        # ASCII-safe, reversible vector ID (Pinecone rejects non-ASCII IDs).
+        chunk_id = pinecone_state.make_vector_id(
+            parsed['metadata']['filename'], chunk['chunk_id']
+        )
 
         chunk_metadata = {
             'title': parsed['metadata'].get('title', 'Unknown'),

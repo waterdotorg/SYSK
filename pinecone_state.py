@@ -22,6 +22,7 @@ offline indexer, or the MCP server.
 
 import re
 import unicodedata
+import urllib.parse
 from typing import Iterable, List, Optional, Set
 
 # Vector IDs look like "<basename>.txt_<int>"; this splits off the chunk suffix.
@@ -43,18 +44,51 @@ def _nfc(name: str) -> str:
 _DATE_RE = re.compile(r"_(\d{4}-\d{2}-\d{2})_")
 
 
+def make_vector_id(filename: str, chunk_id) -> str:
+    """Build the ASCII-safe Pinecone vector ID for a chunk.
+
+    Pinecone requires vector IDs to be ASCII, but episode titles contain accented
+    characters (Ötzi, Doppelgängers, quinceañera, ...). We percent-encode the
+    filename so the ID is always ASCII, and reversibly so (see
+    ``filename_from_vector_id``). Pure-ASCII filenames are left byte-for-byte
+    unchanged, so the ~2,500 already-indexed episodes keep their existing IDs.
+    """
+    return f"{urllib.parse.quote(filename, safe='')}_{chunk_id}"
+
+
 def filename_from_vector_id(vector_id: str) -> Optional[str]:
     """Recover the transcript filename from a Pinecone vector ID.
 
-    Returns the ``*.txt`` basename, or ``None`` if the ID does not match the
-    expected ``<filename>.txt_<int>`` pattern.
+    Inverse of ``make_vector_id``: strips the ``_<int>`` chunk suffix, percent-
+    decodes, and NFC-normalizes. Returns the ``*.txt`` basename, or ``None`` if
+    the ID does not match the expected ``<filename>.txt_<int>`` pattern. The
+    ``.txt`` literal is preserved by percent-encoding, so the regex still anchors
+    on it for both legacy (plain) and encoded IDs.
     """
+    vector_id = _coerce_id(vector_id)
     if not vector_id:
         return None
     match = _ID_FILENAME_RE.match(vector_id)
     if match:
-        return _nfc(match.group("filename"))
+        return _nfc(urllib.parse.unquote(match.group("filename")))
     return None
+
+
+def _coerce_id(item) -> Optional[str]:
+    """Return the string ID from whatever ``index.list()`` yields.
+
+    Different pinecone client versions yield different shapes per page: some yield
+    plain ID strings, others yield ``ListItem`` objects (with an ``.id`` attribute)
+    or dicts (with an ``"id"`` key). Normalize all of them to the ID string so the
+    rest of the module is version-agnostic.
+    """
+    if item is None:
+        return None
+    if isinstance(item, str):
+        return item
+    if isinstance(item, dict):
+        return item.get("id")
+    return getattr(item, "id", None)
 
 
 def get_indexed_filenames(index, namespace: str = "") -> Set[str]:
@@ -69,10 +103,12 @@ def get_indexed_filenames(index, namespace: str = "") -> Set[str]:
         namespace: Pinecone namespace (default index uses the empty namespace).
     """
     indexed: Set[str] = set()
-    for id_batch in index.list(namespace=namespace):
-        # index.list() yields lists of IDs (one page at a time).
-        for vector_id in id_batch:
-            filename = filename_from_vector_id(vector_id)
+    for page in index.list(namespace=namespace):
+        # index.list() yields one page at a time. A page is normally a list of
+        # IDs, but be tolerant of clients that yield a single item per step.
+        items = page if isinstance(page, (list, tuple)) else [page]
+        for item in items:
+            filename = filename_from_vector_id(item)  # handles str / ListItem / dict
             if filename:
                 indexed.add(filename)
     return indexed
