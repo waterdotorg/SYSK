@@ -135,6 +135,16 @@ def evaluate(searcher, golden: List[Dict], top_k: int, mode: str,
             results = reranker.rerank_results(q["question"], results, top_n=top_k,
                                               model_name=search_kwargs.get("model_name",
                                                                           reranker.DEFAULT_MODEL))
+        elif mode == "rrf":
+            # Semantic pool, fused with the cross-encoder order via RRF.
+            import reranker
+            results = searcher.semantic_search(q["question"], n_results=top_k)
+            if text_provider is not None:
+                results = _replace_documents(results, text_provider)
+            results = reranker.rrf_rerank_results(
+                q["question"], results, top_n=top_k,
+                k=int(search_kwargs.get("rrf_k", 60)),
+                model_name=search_kwargs.get("model_name", reranker.DEFAULT_MODEL))
         elif mode == "hybrid":
             results = searcher.hybrid_search(q["question"], n_results=top_k, **search_kwargs)
         else:
@@ -191,7 +201,11 @@ def main() -> int:
                    help="Cross-encoder model for --rerank")
     p.add_argument("--rerank-fulltext", action="store_true",
                    help="Rerank on FULL chunk text re-read from disk (not the 1000-char "
-                        "Pinecone copy). Requires --transcripts-folder to be present.")
+                        "Pinecone copy). Applies to --rerank and --rrf. Requires "
+                        "--transcripts-folder to be present.")
+    p.add_argument("--rrf", action="store_true",
+                   help="Evaluate RRF fusion of the semantic and cross-encoder rankings")
+    p.add_argument("--rrf-k", type=int, default=60, help="RRF k constant")
     p.add_argument("--transcripts-folder", default="transcripts",
                    help="Transcript folder for --rerank-fulltext")
     p.add_argument("--include-hybrid", action="store_true",
@@ -228,6 +242,8 @@ def main() -> int:
         results.append(evaluate(searcher, golden, args.top_k, "reranked",
                                 model_name=args.rerank_model))
 
+    # Build a full-text provider once (shared by reranked+fulltext and RRF runs).
+    text_provider = None
     if args.rerank_fulltext:
         from transcript_processor import TranscriptProcessor
         proc = TranscriptProcessor()
@@ -252,6 +268,15 @@ def main() -> int:
         r = evaluate(searcher, golden, args.top_k, "reranked",
                      text_provider=text_provider, model_name=args.rerank_model)
         r["mode"] = "reranked+fulltext"
+        results.append(r)
+
+    if args.rrf:
+        suffix = "+fulltext" if text_provider else ""
+        logger.info("Evaluating RRF fusion%s (k=%d, cross-encoder %s)...",
+                    suffix, args.rrf_k, args.rerank_model)
+        r = evaluate(searcher, golden, args.top_k, "rrf", text_provider=text_provider,
+                     model_name=args.rerank_model, rrf_k=args.rrf_k)
+        r["mode"] = f"rrf{suffix}"
         results.append(r)
 
     if args.include_hybrid:

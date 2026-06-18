@@ -58,6 +58,55 @@ def rerank_order(query: str, documents: List[str],
         return list(range(n))
 
 
+def rrf_fuse(orderings: List[List[int]], k: int = 60) -> List[int]:
+    """Reciprocal-rank fusion of several rankings.
+
+    Each ordering is a list of item indices, best first. An item's fused score is
+    sum(1 / (k + rank)) across rankings (rank is 1-based). Items ranked highly by
+    multiple rankers rise; an item one ranker places badly is only dampened, not
+    dominated. Returns indices sorted by fused score (desc).
+    """
+    from collections import defaultdict
+    scores = defaultdict(float)
+    for order in orderings:
+        for rank, idx in enumerate(order, 1):
+            scores[idx] += 1.0 / (k + rank)
+    return sorted(scores.keys(), key=lambda i: scores[i], reverse=True)
+
+
+def rrf_rerank_results(query: str, results: Dict, top_n: Optional[int] = None,
+                       k: int = 60, model_name: str = DEFAULT_MODEL) -> Dict:
+    """Fuse the semantic order with the cross-encoder order via RRF, keep top_n.
+
+    The incoming ``results`` are assumed to already be in semantic rank order
+    (that is how the search layer returns them). We compute the cross-encoder
+    order over the same candidates and RRF-fuse the two. Falls back gracefully:
+    if the cross-encoder can't load, rerank_order returns the identity order and
+    the fusion reduces to the semantic order.
+    """
+    ids = (results.get("ids") or [[]])[0]
+    docs = (results.get("documents") or [[]])[0]
+    metas = (results.get("metadatas") or [[]])[0]
+    m = min(len(ids), len(docs), len(metas))
+    if m == 0:
+        return results
+    ids, docs, metas = ids[:m], docs[:m], metas[:m]
+
+    semantic_order = list(range(m))                  # already semantic-ranked
+    ce_order = rerank_order(query, docs, model_name)  # cross-encoder ranking
+    fused = rrf_fuse([semantic_order, ce_order], k=k)
+    if top_n is not None:
+        fused = fused[:top_n]
+
+    return {
+        "ids": [[ids[i] for i in fused]],
+        "documents": [[docs[i] for i in fused]],
+        "metadatas": [[metas[i] for i in fused]],
+        "reranked": True,
+        "fusion": "rrf",
+    }
+
+
 def rerank_results(query: str, results: Dict, top_n: Optional[int] = None,
                    model_name: str = DEFAULT_MODEL) -> Dict:
     """Reorder a Chroma-style results dict by cross-encoder score; truncate to top_n.
