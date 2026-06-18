@@ -77,18 +77,55 @@ def filename_from_vector_id(vector_id: str) -> Optional[str]:
 def _coerce_id(item) -> Optional[str]:
     """Return the string ID from whatever ``index.list()`` yields.
 
-    Different pinecone client versions yield different shapes per page: some yield
-    plain ID strings, others yield ``ListItem`` objects (with an ``.id`` attribute)
-    or dicts (with an ``"id"`` key). Normalize all of them to the ID string so the
-    rest of the module is version-agnostic.
+    Different pinecone client versions yield different shapes per page:
+      * plain ID strings (pinecone 8.x local),
+      * OpenAPI ``ListItem`` models — a ``ModelNormal`` exposing ``.get("id")``,
+        ``["id"]`` and ``.to_dict()`` (the REST client on Streamlit Cloud),
+      * gRPC ``ListItem`` protobufs with an ``.id`` attribute,
+      * plain dicts with an ``"id"`` key.
+    Try each access path in turn and return the first string ID found.
     """
     if item is None:
         return None
     if isinstance(item, str):
         return item
-    if isinstance(item, dict):
-        return item.get("id")
-    return getattr(item, "id", None)
+    if isinstance(item, bytes):
+        return item.decode("utf-8", "replace")
+
+    # .get("id") covers plain dicts AND OpenAPI ModelNormal (reads _data_store).
+    getter = getattr(item, "get", None)
+    if callable(getter):
+        try:
+            value = getter("id")
+            if isinstance(value, str):
+                return value
+        except Exception:
+            pass
+
+    # .id attribute covers gRPC ListItem protobufs.
+    value = getattr(item, "id", None)
+    if isinstance(value, str):
+        return value
+
+    # Square-bracket access covers OpenAPI models' __getitem__.
+    try:
+        value = item["id"]
+        if isinstance(value, str):
+            return value
+    except Exception:
+        pass
+
+    # Last resort: to_dict()["id"].
+    to_dict = getattr(item, "to_dict", None)
+    if callable(to_dict):
+        try:
+            value = to_dict().get("id")
+            if isinstance(value, str):
+                return value
+        except Exception:
+            pass
+
+    return None
 
 
 def get_indexed_filenames(index, namespace: str = "") -> Set[str]:
