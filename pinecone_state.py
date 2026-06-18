@@ -141,14 +141,44 @@ def get_indexed_filenames(index, namespace: str = "") -> Set[str]:
     """
     indexed: Set[str] = set()
     for page in index.list(namespace=namespace):
-        # index.list() yields one page at a time. A page is normally a list of
-        # IDs, but be tolerant of clients that yield a single item per step.
-        items = page if isinstance(page, (list, tuple)) else [page]
-        for item in items:
+        for item in _iter_page_items(page):
             filename = filename_from_vector_id(item)  # handles str / ListItem / dict
             if filename:
                 indexed.add(filename)
     return indexed
+
+
+def _iter_page_items(page):
+    """Yield the per-vector items from one page of ``index.list()``.
+
+    Tolerates every shape pinecone clients have used for a page:
+      * a list/tuple of ID strings (pinecone 8.x),
+      * a list/tuple of ``ListItem`` objects,
+      * a ``ListResponse``-style object exposing ``.vectors`` (list of items),
+      * a single id string or item.
+    """
+    if page is None:
+        return
+    if isinstance(page, (str, bytes)):
+        yield page
+        return
+    # ListResponse-style wrapper: iterate its .vectors.
+    vectors = getattr(page, "vectors", None)
+    if vectors is not None:
+        for item in vectors:
+            yield item
+        return
+    # If the page itself is a single coercible item (dict / ListItem), use it.
+    if _coerce_id(page) is not None:
+        yield page
+        return
+    # Otherwise treat the page as an iterable collection of items.
+    try:
+        iterator = iter(page)
+    except TypeError:
+        return
+    for item in iterator:
+        yield item
 
 
 def _sort_key_newest_first(filename: str):
