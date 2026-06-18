@@ -84,6 +84,19 @@ class TranscriptProcessor:
             logger.warning("Error parsing %s: %s", filepath, e)
             return None
 
+    def chunk_text_map(self, filepath: str) -> Dict[int, str]:
+        """Return {chunk_id: full_chunk_text} for a transcript file.
+
+        Reconstructs the exact chunks (and full, untruncated text) that were
+        indexed, so callers — e.g. the reranker — can score against complete
+        chunk text rather than the 1000-char copy stored in Pinecone metadata.
+        """
+        parsed = self.parse_transcript_file(filepath)
+        if not parsed:
+            return {}
+        chunks = self.chunk_by_time(parsed['transcript'], parsed['metadata'])
+        return {c['chunk_id']: c['text'] for c in chunks}
+
     def parse_timestamp(self, timestamp_str: str) -> int:
         """Convert timestamp string (HH:MM:SS) to seconds."""
         try:

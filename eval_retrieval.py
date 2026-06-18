@@ -101,7 +101,26 @@ def first_hit_rank(episodes: List[str], expected: set) -> Optional[int]:
     return None
 
 
-def evaluate(searcher, golden: List[Dict], top_k: int, mode: str, **search_kwargs) -> Dict:
+def _replace_documents(results: Dict, text_provider) -> Dict:
+    """Return a copy of results with each chunk's document replaced by full text.
+
+    text_provider(metadata, vector_id) -> full chunk text (or None to keep the
+    original truncated document).
+    """
+    ids = (results.get("ids") or [[]])[0]
+    docs = (results.get("documents") or [[]])[0]
+    metas = (results.get("metadatas") or [[]])[0]
+    new_docs = []
+    for i, doc in enumerate(docs):
+        meta = metas[i] if i < len(metas) else {}
+        vid = ids[i] if i < len(ids) else ""
+        full = text_provider(meta, vid)
+        new_docs.append(full if full else doc)
+    return {"ids": [ids], "documents": [new_docs], "metadatas": [metas]}
+
+
+def evaluate(searcher, golden: List[Dict], top_k: int, mode: str,
+             text_provider=None, **search_kwargs) -> Dict:
     """Run one config over the golden set and return metrics + per-question detail."""
     per_question = []
     for q in golden:
@@ -111,6 +130,8 @@ def evaluate(searcher, golden: List[Dict], top_k: int, mode: str, **search_kwarg
             # Same candidate pool as semantic, reordered by the cross-encoder.
             import reranker
             results = searcher.semantic_search(q["question"], n_results=top_k)
+            if text_provider is not None:
+                results = _replace_documents(results, text_provider)  # rerank on FULL text
             results = reranker.rerank_results(q["question"], results, top_n=top_k,
                                               model_name=search_kwargs.get("model_name",
                                                                           reranker.DEFAULT_MODEL))
@@ -168,6 +189,11 @@ def main() -> int:
                    help="Also evaluate cross-encoder reranking of the semantic candidate pool")
     p.add_argument("--rerank-model", default="cross-encoder/ms-marco-MiniLM-L-6-v2",
                    help="Cross-encoder model for --rerank")
+    p.add_argument("--rerank-fulltext", action="store_true",
+                   help="Rerank on FULL chunk text re-read from disk (not the 1000-char "
+                        "Pinecone copy). Requires --transcripts-folder to be present.")
+    p.add_argument("--transcripts-folder", default="transcripts",
+                   help="Transcript folder for --rerank-fulltext")
     p.add_argument("--include-hybrid", action="store_true",
                    help="Also evaluate hybrid search (SLOW: fetches the whole index per query)")
     p.add_argument("--title-boosts", type=float, nargs="*", default=[2.0],
@@ -201,6 +227,32 @@ def main() -> int:
         logger.info("Evaluating RERANKED retrieval (cross-encoder %s)...", args.rerank_model)
         results.append(evaluate(searcher, golden, args.top_k, "reranked",
                                 model_name=args.rerank_model))
+
+    if args.rerank_fulltext:
+        from transcript_processor import TranscriptProcessor
+        proc = TranscriptProcessor()
+        tdir = Path(args.transcripts_folder)
+        _text_cache: Dict[str, Dict[int, str]] = {}
+
+        def text_provider(meta, vid):
+            meta = meta or {}
+            fn = meta.get("filename") or pinecone_state.filename_from_vector_id(vid)
+            cid = meta.get("chunk_id")
+            if fn is None or cid is None:
+                return None
+            try:
+                cid = int(cid)  # Pinecone may return numeric metadata as float
+            except (TypeError, ValueError):
+                return None
+            if fn not in _text_cache:
+                _text_cache[fn] = proc.chunk_text_map(str(tdir / fn))
+            return _text_cache[fn].get(cid)
+
+        logger.info("Evaluating RERANKED+FULLTEXT retrieval (cross-encoder %s)...", args.rerank_model)
+        r = evaluate(searcher, golden, args.top_k, "reranked",
+                     text_provider=text_provider, model_name=args.rerank_model)
+        r["mode"] = "reranked+fulltext"
+        results.append(r)
 
     if args.include_hybrid:
         logger.warning("Hybrid mode fetches the entire index per query — this is slow.")
