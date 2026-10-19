@@ -1,26 +1,45 @@
-name: Simple Keep-Alive
+name: Keep-alive (headless browser)
+
+# Streamlit Community Cloud sleeps apps after 12 hours without traffic. This visits
+# the app in a real headless browser every 6 hours (a plain curl doesn't count as
+# traffic) and wakes it if it's asleep.
+#
+# App URL comes from the repo variable SYSK_APP_URL:
+#   gh variable set SYSK_APP_URL --body "https://<your-app>.streamlit.app" --repo waterdotorg/SYSK
+
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: "17 */6 * * *"   # every 6 hours at :17 (off the busy top of the hour)
   workflow_dispatch:
 
 jobs:
-  ping:
+  visit:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 12
     steps:
-      - name: Wake Up App
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: keep_alive.py
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Playwright + Chromium
         run: |
-          APP_URL="https://syskchat.streamlit.app"
-          
-          echo "⏰ Pinging app at $(date -u)"
-          echo "URL: $APP_URL"
-          
-          # Single request with very long timeout
-          curl -sL "$APP_URL" \
-            -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36" \
-            --max-time 180 \
-            -o /dev/null \
-            || echo "⚠️ Request timed out, but app should be waking up"
-          
-          echo "✅ Keep-alive ping sent"
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Visit the app (wake it if asleep)
+        env:
+          SYSK_APP_URL: ${{ vars.SYSK_APP_URL }}
+        run: python keep_alive.py
+
+      - name: Save screenshot if the app didn't load
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: keep-alive-failure
+          path: keep_alive_failure.png
+          if-no-files-found: ignore
