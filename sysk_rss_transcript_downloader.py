@@ -14,6 +14,20 @@ from datetime import datetime
 from pathlib import Path
 
 import difflib
+import html
+import json
+
+DESCRIPTIONS_FILE = "episode_descriptions.json"   # {episode_url: description}, shown in the app
+_DESC_BOILERPLATE = re.compile(   # everything from these phrases to the end is boilerplate
+    r"(?is)\s*(See omnystudio\.com/listener|Learn more about your ad[- ]?choices|See Privacy Policy at).*$")
+
+
+def clean_description(raw):
+    """RSS description HTML -> plain text without the feed's boilerplate."""
+    text = re.sub(r"(?i)<br\s*/?>|</p>", " ", raw or "")
+    text = html.unescape(re.sub(r"<[^>]+>", "", text))
+    text = _DESC_BOILERPLATE.sub("", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 # "SYSK Selects" episodes are re-runs. One is skipped when its original episode is
 # already in the archive; it's kept when it's the only copy (some originals have
@@ -70,6 +84,23 @@ class SYSKTranscriptDownloader:
             self._archive_keys = archive_title_keys(self.output_dir)
         return self._archive_keys
     
+    def update_descriptions(self, items):
+        """Write/refresh episode_descriptions.json from the whole feed (keyed by episode URL)."""
+        try:
+            with open(DESCRIPTIONS_FILE, encoding="utf-8") as f:
+                descs = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            descs = {}
+        before = dict(descs)
+        for item in items:
+            ep = self.extract_episode_data(item)
+            if ep and ep.get('episode_url') and ep.get('description'):
+                descs[ep['episode_url']] = ep['description']
+        if descs != before:
+            with open(DESCRIPTIONS_FILE, "w", encoding="utf-8") as f:
+                json.dump(dict(sorted(descs.items())), f, ensure_ascii=False, indent=1)
+        print(f"✓ Episode descriptions: {len(descs)} saved ({len(descs) - len(before)} new) in {DESCRIPTIONS_FILE}\n")
+
     def fetch_rss_feed(self):
         """Fetch and parse RSS feed"""
         print("Fetching RSS feed...")
@@ -135,8 +166,12 @@ class SYSKTranscriptDownloader:
                     transcript_url = trans_url
                     break
             
+            desc_elem = item.find('description') or item.find('itunes:summary')
+            description = clean_description(desc_elem.text) if desc_elem else ""
+
             return {
                 'title': title,
+                'description': description,
                 'date': date_formatted,
                 'duration_minutes': duration_minutes,
                 'episode_url': episode_url,
@@ -267,6 +302,8 @@ class SYSKTranscriptDownloader:
             print("ERROR: Could not fetch RSS feed. Exiting.")
             return
         
+        self.update_descriptions(items)
+
         # Determine how many to process
         if num_episodes == 'all':
             episodes_to_process = items
@@ -415,6 +452,8 @@ def main():
     parser.add_argument("--limit", type=int,
                         help="Process the newest N RSS items (existing files are skipped).")
     parser.add_argument("--all", action="store_true", help="Process every RSS item.")
+    parser.add_argument("--descriptions", action="store_true",
+                        help="Only refresh episode_descriptions.json from the feed, download nothing.")
     parser.add_argument("--headless", action="store_true",
                         help="Accepted for backward compatibility; no effect (no browser is used).")
     args = parser.parse_args()
@@ -427,6 +466,11 @@ def main():
 
     if args.check:
         downloader.list_missing(since=args.since)
+        return
+    if args.descriptions:
+        items = downloader.fetch_rss_feed()
+        if items:
+            downloader.update_descriptions(items)
         return
     if args.all:
         downloader.download_episodes('all')

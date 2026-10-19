@@ -28,6 +28,7 @@ import threading
 from pathlib import Path
 
 import streamlit as st
+import streamlit.components.v1 as components
 
 st.set_page_config(page_title="SYSK Archive Explorer", page_icon="🎙️", layout="wide")
 
@@ -101,16 +102,95 @@ def mmss(sec, approx=False):
     return ("~" if approx else "") + research.mmss(int(sec))
 
 
-def play_button(label, url, sec, key):
-    if url and st.button(f"▶ {label}", key=key, help="Play from here"):
-        st.session_state.player = {"url": url, "sec": int(sec), "label": label}
+def play_button(label, url, sec, key, title="", help="Play from here"):
+    if url and st.button(f"▶ {label}", key=key, help=help):
+        n = st.session_state.get("player", {}).get("nonce", 0) + 1  # re-seek on a repeat click
+        st.session_state.player = {"url": url, "sec": int(sec), "nonce": n,
+                                   "label": f"{title} @ {label}" if title else label}
+
+
+DESCRIPTIONS_FILE = Path("episode_descriptions.json")
+
+
+@st.cache_resource
+def _load_descriptions(mtime):
+    return json.loads(DESCRIPTIONS_FILE.read_text(encoding="utf-8"))
+
+
+def descriptions():
+    """{episode_url: description} from the RSS feed (written by the downloader).
+    Reloads automatically when the file changes; empty if it doesn't exist yet."""
+    try:
+        return _load_descriptions(DESCRIPTIONS_FILE.stat().st_mtime)
+    except Exception:
+        return {}
+
+
+def show_description(episode_url):
+    d = descriptions().get(episode_url or "")
+    if d:
+        d = re.sub(r"([\\*_`\[\]<>#|~$])", r"\\\1", d)  # escape markdown characters
+        st.markdown(f"*{d}*")
+
+
+def episode_links(episode_url, audio_url, title, key):
+    """Episode page link + 'Play from beginning' button, side by side."""
+    cols = st.columns([2, 2, 5])
+    with cols[0]:
+        play_button("Play from beginning", audio_url, 0, key=key, title=title,
+                    help="Play this episode from the start")
+    with cols[1]:
+        if episode_url:
+            st.markdown(f"[Episode page]({episode_url})")
+
+
+# Custom player so skip buttons can jump from the CURRENT position (st.audio can't).
+PLAYER_HTML = """<!-- __NONCE__ -->
+<style>
+  :root { color-scheme: light dark; }
+  html, body { margin: 0; background: transparent; font-family: "Source Sans Pro", sans-serif; }
+  audio { width: 100%; height: 40px; display: block; }
+  .ctl { display: flex; justify-content: center; gap: 14px; margin-top: 4px; }
+  .ctl button { width: 34px; height: 34px; padding: 0; border: 0; border-radius: 50%;
+                background: transparent; color: rgba(110,110,120,.95); cursor: pointer;
+                display: grid; place-items: center; transition: background .15s, color .15s; }
+  .ctl button:hover { background: rgba(128,128,128,.14); color: #ff4b4b; }
+  .ctl button:active { transform: scale(.92); }
+  .ctl svg { width: 22px; height: 22px; fill: currentColor; }
+  .ctl text { font: 700 6.5px sans-serif; fill: currentColor; }
+</style>
+<audio id="a" controls preload="auto" src="__URL__"></audio>
+<div class="ctl">
+  <button onclick="go(0)" title="Play from beginning" aria-label="Play from beginning">
+    <svg viewBox="0 0 24 24"><path d="M6 6h2v12H6zM9.5 12 18 18V6z"/></svg></button>
+  <button onclick="skip(-30)" title="Back 30 seconds" aria-label="Back 30 seconds">
+    <svg viewBox="0 0 24 24"><path d="M12 5V1.5L7 5.5l5 4V6.5a6.5 6.5 0 1 1-6.5 6.5H4a8 8 0 1 0 8-8z"/>
+      <text x="12" y="15.4" text-anchor="middle">30</text></svg></button>
+  <button onclick="skip(30)" title="Forward 30 seconds" aria-label="Forward 30 seconds">
+    <svg viewBox="0 0 24 24"><path d="M12 5V1.5l5 4-5 4V6.5a6.5 6.5 0 1 0 6.5 6.5H20a8 8 0 1 1-8-8z"/>
+      <text x="12" y="15.4" text-anchor="middle">30</text></svg></button>
+</div>
+<script>
+  const a = document.getElementById("a");
+  const START = __START__;
+  function go(t) { a.currentTime = Math.max(0, t); a.play().catch(() => {}); }
+  function skip(d) {
+    const end = isFinite(a.duration) ? a.duration - 1 : a.currentTime + d;
+    go(Math.min(a.currentTime + d, end));
+  }
+  a.addEventListener("loadedmetadata", () => go(START), { once: true });
+</script>
+"""
 
 
 def player():
     p = st.session_state.get("player")
     if p:
         st.caption(f"Now playing: {p['label']}")
-        st.audio(p["url"], start_time=p["sec"])
+        html = (PLAYER_HTML.replace("__URL__", json.dumps(p["url"])[1:-1].replace('"', "&quot;"))
+                .replace("__START__", str(int(p["sec"])))
+                .replace("__NONCE__", str(p.get("nonce", 0))))
+        components.html(html, height=88)
 
 
 def cache_key(question):
@@ -163,14 +243,14 @@ def quick_search_tab():
         for i, r in enumerate(results):
             badge = " · rerun" if r["episode_kind"] == "rerun" else ""
             with st.expander(f"**{i + 1}. {r['title']}** ({r['date']}){badge}", expanded=i < 3):
-                if r.get("episode_url"):
-                    st.markdown(f"[Episode page]({r['episode_url']})")
+                show_description(r.get("episode_url"))
+                episode_links(r.get("episode_url"), _audio_url(r["filename"]), r["title"], key=f"qsb{i}")
                 approx = not _is_timed(r["filename"])
                 for j, p in enumerate(r["passages"]):
                     cols = st.columns([1, 6])
                     with cols[0]:
                         play_button(mmss(p["start_sec"], approx), _audio_url(r["filename"]),
-                                    p["start_sec"], key=f"qs{i}_{j}")
+                                    p["start_sec"], key=f"qs{i}_{j}", title=r["title"])
                     with cols[1]:
                         if p.get("segment_title"):
                             st.markdown(f"**{p['segment_title']}**")
@@ -249,13 +329,13 @@ def render_report(d):
     for i, ep in enumerate(d["episodes"]):
         also = f" · also aired as {'; '.join(ep['also_aired'])}" if ep.get("also_aired") else ""
         with st.expander(f"**{ep['title']}** ({ep['date']}) · {len(ep['passages'])} passages{also}"):
-            if ep.get("episode_url"):
-                st.markdown(f"[Episode page]({ep['episode_url']})")
+            show_description(ep.get("episode_url"))
+            episode_links(ep.get("episode_url"), ep.get("audio_url"), ep["title"], key=f"drb{i}")
             for j, p in enumerate(ep["passages"]):
                 cols = st.columns([1, 6])
                 with cols[0]:
                     play_button(mmss(p["start_sec"], p["approx_time"]), ep.get("audio_url"),
-                                p["start_sec"], key=f"dr{i}_{j}")
+                                p["start_sec"], key=f"dr{i}_{j}", title=ep["title"])
                 with cols[1]:
                     who = f"**{p['speaker']}:** " if p.get("speaker") else ""
                     st.markdown(f"{p['point']}  \n> {who}“{p['quote']}”{'' if p['verified'] else ' †'}")
