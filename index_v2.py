@@ -82,8 +82,28 @@ def indexed_filenames(index):
 
 
 def load_model():
+    """Load the embedding model. SYSK_EMBED_DEVICE=mps|cuda opts into a GPU (default cpu)
+    (cpu avoids Apple-GPU memory build-up entirely, at some speed cost)."""
     from sentence_transformers import SentenceTransformer
-    return SentenceTransformer(EMBED_MODEL)
+    device = os.getenv("SYSK_EMBED_DEVICE", "cpu")  # Apple MPS hit OOM on long runs
+    model = SentenceTransformer(EMBED_MODEL, device=device)
+    print(f"Embedding on device: {model.device}")
+    return model
+
+
+def free_accelerator_memory():
+    """Release cached GPU memory between episodes (PyTorch's Apple MPS backend
+    otherwise keeps growing its cache until it runs out)."""
+    import gc
+    gc.collect()
+    try:
+        import torch
+        if torch.backends.mps.is_available():
+            torch.mps.empty_cache()
+        elif torch.cuda.is_available():
+            torch.cuda.empty_cache()
+    except Exception:
+        pass
 
 
 def to_record(c, vec):
@@ -105,8 +125,9 @@ def index_files(index, model, files, rebuild=False):
             old = list(indexed_ids(index, prefix=urllib.parse.quote(path.name, safe="") + "#"))
             for i in range(0, len(old), 1000):
                 index.delete(ids=old[i:i + 1000])
-        vecs = model.encode([c["embed_text"] for c in chunks], batch_size=64,
+        vecs = model.encode([c["embed_text"] for c in chunks], batch_size=32,
                             normalize_embeddings=True, show_progress_bar=False).tolist()
+        free_accelerator_memory()
         recs = [to_record(c, v) for c, v in zip(chunks, vecs)]
         for i in range(0, len(recs), UPSERT_BATCH):
             index.upsert(vectors=recs[i:i + UPSERT_BATCH])
