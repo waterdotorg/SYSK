@@ -174,33 +174,51 @@ def recall(ranked, gold, k):
     return len(set(ranked[:k]) & gold) / len(gold) if gold else float("nan")
 
 
+def precision(ranked, gold, k):
+    """Share of the top k that are relevant (fair for topics with more than k episodes)."""
+    top = ranked[:k]
+    return len(set(top) & gold) / len(top) if top else 0.0
+
+
+def r_precision(ranked, gold):
+    """Recall at k = |gold|: 100% means the first |gold| results are exactly the gold set."""
+    return recall(ranked, gold, len(gold))
+
+
 def cmd_run():
     import search_v2, pinecone_state
     labels = json.loads(LABELS.read_text(encoding="utf-8"))["topics"]
     v1, v2 = V1(), search_v2.HybridSearch()
     rows, totals = [], {}
+    print(f"{'topic':15s} {'gold':>4s} | {'old-chat':>8s} | {'P@25 v1':>7s} {'v2':>4s} | "
+          f"{'R-prec v1':>9s} {'v2':>4s} | {'R@100 v1':>8s} {'v2':>4s}")
     for key, t in labels.items():
         gold = {pinecone_state._nfc(f) for f in t["main"] + t["substantial"]}
         main = {pinecone_state._nfc(f) for f in t["main"]}
-        r1 = v1.episodes(t["query"])
+        r1 = v1.episodes(t["query"], top_k=1000)
         r1chat = v1.episodes(t["query"], top_k=20)
-        r2 = [pinecone_state._nfc(r["filename"]) for r in v2.search(t["query"], n_episodes=100)]
-        row = {"topic": key, "gold": len(gold),
-               "v1chat": recall(r1chat, gold, 999),
-               "v1@10": recall(r1, gold, 10), "v1@25": recall(r1, gold, 25), "v1@50": recall(r1, gold, 50),
-               "v2@10": recall(r2, gold, 10), "v2@25": recall(r2, gold, 25), "v2@50": recall(r2, gold, 50),
-               "v2main@25": recall(r2, main, 25),
-               "v2_missed": sorted(gold - set(r2[:50]))}
+        r2 = [pinecone_state._nfc(r["filename"]) for r in v2.search(t["query"], n_episodes=150)]
+        row = {"topic": key, "gold": len(gold), "main": len(main),
+               "v1chat_recall": recall(r1chat, gold, 999),
+               "v1_p25": precision(r1, gold, 25), "v2_p25": precision(r2, gold, 25),
+               "v1_rprec": r_precision(r1, gold), "v2_rprec": r_precision(r2, gold),
+               "v1_r100": recall(r1, gold, 100), "v2_r100": recall(r2, gold, 100),
+               "v1_main_r25": recall(r1, main, 25), "v2_main_r25": recall(r2, main, 25),
+               "v1_ranked_episodes": len(r1),
+               "v2_missed_top100": sorted(gold - set(r2[:100]))}
         rows.append(row)
         for k, v in row.items():
             if isinstance(v, float):
                 totals.setdefault(k, []).append(v)
-        print(f"{key:15s} gold={len(gold):3d}  old-chatbot={row['v1chat']:.0%}  "
-              f"v1@25={row['v1@25']:.0%}  v2@25={row['v2@25']:.0%}  v2@50={row['v2@50']:.0%}")
+        print(f"{key:15s} {len(gold):4d} | {row['v1chat_recall']:8.0%} | {row['v1_p25']:7.0%} {row['v2_p25']:4.0%} | "
+              f"{row['v1_rprec']:9.0%} {row['v2_rprec']:4.0%} | {row['v1_r100']:8.0%} {row['v2_r100']:4.0%}")
     avg = {k: sum(v) / len(v) for k, v in totals.items()}
-    print("\nAVERAGE  old-chatbot(top20 chunks)={v1chat:.0%}  "
-          "v1@10={v1@10:.0%} v1@25={v1@25:.0%} v1@50={v1@50:.0%}  |  "
-          "v2@10={v2@10:.0%} v2@25={v2@25:.0%} v2@50={v2@50:.0%}  (v2 main-subject @25={v2main@25:.0%})".format(**avg))
+    print("-" * 78)
+    print(f"{'AVERAGE':15s} {'':4s} | {avg['v1chat_recall']:8.0%} | {avg['v1_p25']:7.0%} {avg['v2_p25']:4.0%} | "
+          f"{avg['v1_rprec']:9.0%} {avg['v2_rprec']:4.0%} | {avg['v1_r100']:8.0%} {avg['v2_r100']:4.0%}")
+    print(f"Main-subject episodes in top 25:  v1 {avg['v1_main_r25']:.0%}   v2 {avg['v2_main_r25']:.0%}")
+    print("Key: old-chat = share of relevant episodes the old chatbot's top-20 chunks touched; "
+          "P@25 = relevant share of the top 25; R-prec = recall at k = #relevant; R@100 = recall in top 100.")
     out = Path("eval/results") / f"recall_{dt.datetime.now():%Y%m%dT%H%M}.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps({"average": avg, "topics": rows}, ensure_ascii=False, indent=1), encoding="utf-8")

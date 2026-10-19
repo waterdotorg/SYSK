@@ -83,3 +83,6 @@ enrichment/_batch*.json
 
 # SYSK v2 keyword index (rebuilt from transcripts + profiles)
 sysk_fts.db
+
+# Deep Research reports (local outputs)
+research_out/
