@@ -80,3 +80,6 @@ indexing_progress.json
 # SYSK v2: scratch folders for superseded/malformed episode profiles
 enrichment/_*/
 enrichment/_batch*.json
+
+# SYSK v2 keyword index (rebuilt from transcripts + profiles)
+sysk_fts.db
