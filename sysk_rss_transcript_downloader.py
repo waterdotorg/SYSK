@@ -11,6 +11,49 @@ import os
 import re
 import time
 from datetime import datetime
+from pathlib import Path
+
+import difflib
+
+# "SYSK Selects" episodes are re-runs. One is skipped when its original episode is
+# already in the archive; it's kept when it's the only copy (some originals have
+# dropped out of the public feed). remove_selects.py uses the same helpers.
+SELECTS_PREFIX = re.compile(r"(?i)^\s*(?:SYSK\s+)?Selects\b\s*:?\s*")
+
+
+def is_selects(title):
+    return bool(SELECTS_PREFIX.match(title or ""))
+
+
+def title_key(title):
+    return re.sub(r"[^a-z0-9]", "", (title or "").lower())
+
+
+def archive_title_keys(folder="transcripts"):
+    """title_key() of every non-Selects episode on disk (from each file's header)."""
+    keys = set()
+    for f in Path(folder).glob("*.txt"):
+        with open(f, encoding="utf-8", errors="replace") as fh:
+            first = fh.readline()
+        if first.startswith("Episode:"):
+            t = first[len("Episode:"):].strip()
+            if not is_selects(t):
+                keys.add(title_key(t))
+    return keys
+
+
+def original_in_archive(title, keys, rerun_of=None):
+    """True if the episode a Selects re-runs is already in the archive: exact title
+    match, a playlist re-run titled '... Playlist: <title>', or a near-identical title."""
+    for cand in (SELECTS_PREFIX.sub("", title or ""), rerun_of):
+        k = title_key(cand)
+        if not k:
+            continue
+        if k in keys or (len(k) >= 12 and any(x.endswith(k) for x in keys)):
+            return True
+        if difflib.get_close_matches(k, keys, n=1, cutoff=0.9):
+            return True
+    return False
 
 class SYSKTranscriptDownloader:
     def __init__(self):
@@ -20,6 +63,12 @@ class SYSKTranscriptDownloader:
         
         if not os.path.exists(self.output_dir):
             os.makedirs(self.output_dir)
+        self._archive_keys = None
+
+    def archive_keys(self):
+        if self._archive_keys is None:
+            self._archive_keys = archive_title_keys(self.output_dir)
+        return self._archive_keys
     
     def fetch_rss_feed(self):
         """Fetch and parse RSS feed"""
@@ -250,9 +299,9 @@ class SYSKTranscriptDownloader:
             print(f"Date: {episode_data['date']}")
             print(f"Duration: {episode_data['duration_minutes']} minutes")
             
-            # Skip Selects episodes (they are repeats)
-            if episode_data['title'].startswith("Selects"):
-                print(f"⊘ Skipping Selects episode (repeat)\n")
+            # Skip Selects re-runs whose original is already in the archive
+            if is_selects(episode_data['title']) and original_in_archive(episode_data['title'], self.archive_keys()):
+                print(f"⊘ Skipping Selects episode (original already in archive)\n")
                 selects += 1
                 continue
             
@@ -315,7 +364,7 @@ class SYSKTranscriptDownloader:
         print(f"  Total Processed: {total}")
         print(f"  ✓ Successful: {successful}")
         print(f"  ⊘ Skipped (already exists): {skipped}")
-        print(f"  ⊘ Skipped (Selects repeats): {selects}")
+        print(f"  ⊘ Skipped (Selects re-runs of episodes already here): {selects}")
         print(f"  ✗ Failed: {failed}")
         
         if self.failed_episodes:
@@ -327,7 +376,7 @@ class SYSKTranscriptDownloader:
 
     def list_missing(self, since=None):
         """Compare the RSS feed to the transcripts folder and report what's missing.
-        Read-only: downloads nothing. Selects (repeat) episodes are ignored.
+        Read-only: downloads nothing. Selects re-runs of episodes already here are ignored.
         since: optional 'YYYY-MM-DD'; only report episodes published on/after it."""
         items = self.fetch_rss_feed()
         if not items:
@@ -337,7 +386,7 @@ class SYSKTranscriptDownloader:
         deepest = 0  # RSS is newest-first; how far back a --limit run must reach
         for pos, item in enumerate(items, 1):
             ep = self.extract_episode_data(item)
-            if not ep or ep['title'].startswith("Selects"):
+            if not ep or (is_selects(ep['title']) and original_in_archive(ep['title'], self.archive_keys())):
                 continue
             if since and ep['date'] < since:
                 continue

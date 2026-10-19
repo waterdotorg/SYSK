@@ -2,7 +2,8 @@
 SYSK Archive Explorer (v2) - Streamlit app
 
   Quick Search    hybrid search (meaning + keywords + episode profiles), results
-                  grouped by episode, each passage playable from its timestamp.
+                  grouped by episode, each passage playable from its timestamp, with a
+                  short AI summary of the top 10 episodes (Claude Haiku, < $0.01).
   Deep Research   finds every episode on a topic, extracts the dialogue, and writes
                   a cited summary (research.py). ~1 minute, ~$0.15-0.50 per question.
 
@@ -138,7 +139,7 @@ def login():
     if st.session_state.get("code"):
         return st.session_state.code, st.session_state.code in admins
     st.title("🎙️ SYSK Archive Explorer")
-    st.write("Search 2,600 episodes of *Stuff You Should Know* and research any topic across "
+    st.write("Search 2,400 episodes of *Stuff You Should Know* and research any topic across "
              "18 years of the show. Access is by invite code.")
     code = st.text_input("Invite code", type="password")
     if st.button("Enter"):
@@ -156,10 +157,12 @@ def quick_search_tab():
     if q:
         with st.spinner("Searching..."):
             results = get_search().search(q, n_episodes=n, passages_per_episode=3)
+        # Summary sits above the results but is filled in last, so results show at once.
+        summary_box = st.container()
         st.caption(f"{len(results)} episodes, best matches first. ▶ plays the episode from that moment.")
         for i, r in enumerate(results):
             badge = " · rerun" if r["episode_kind"] == "rerun" else ""
-            with st.expander(f"**{r['title']}** ({r['date']}){badge}", expanded=i < 3):
+            with st.expander(f"**{i + 1}. {r['title']}** ({r['date']}){badge}", expanded=i < 3):
                 if r.get("episode_url"):
                     st.markdown(f"[Episode page]({r['episode_url']})")
                 approx = not _is_timed(r["filename"])
@@ -172,6 +175,27 @@ def quick_search_tab():
                         if p.get("segment_title"):
                             st.markdown(f"**{p['segment_title']}**")
                         st.write(p["text"][:600] + ("..." if len(p["text"]) > 600 else ""))
+        if results:
+            with summary_box:
+                st.markdown("#### Summary")
+                with st.spinner("Summarizing the top episodes..."):
+                    try:
+                        summary = _quick_summary(q, results[:10])
+                    except Exception as e:  # never let the summary break search
+                        summary = None
+                        st.caption(f"Summary unavailable right now: {e}")
+                if summary:
+                    st.markdown(summary)
+                    st.caption(f"AI-generated from the top {min(len(results), 10)} episodes below; "
+                               "[n] refers to the numbered results. For a full, every-episode answer, "
+                               "use Deep Research.")
+                st.divider()
+
+
+@st.cache_data(ttl=7 * 24 * 3600, max_entries=2000, show_spinner=False)
+def _quick_summary(query, results):
+    """Cached per query + result set, so ▶ clicks and reruns don't call the API again."""
+    return research.quick_summary(query, results)
 
 
 @st.cache_data(max_entries=5000)
@@ -240,8 +264,13 @@ def render_report(d):
 def about_tab():
     st.markdown("""
 **What's in here:** transcripts of every *Stuff You Should Know* episode in the public feed
-(2008 to today), refreshed weekly. Episodes before mid-2023 have no timestamps or speaker
+(2008 to today), refreshed weekly. "SYSK Selects" re-runs are left out when the original
+episode is already here (about 30 whose originals left the feed are kept). Episodes before mid-2023 have no timestamps or speaker
 names in their transcripts, so their play positions are estimated (marked ~).
+
+**Quick Search summaries:** Claude Haiku reads the passages shown for the top 10 results
+and writes a short overview citing them by number. It only sees those passages, so use
+Deep Research when you want everything the show has said on a topic.
 
 **How Deep Research works:** Claude Haiku reads a profile of every episode to find all that
 touch your topic, then reads each of those transcripts and pulls out the relevant dialogue.

@@ -258,6 +258,50 @@ def evidence_table(episodes):
     return "\n".join(out)
 
 
+# ---------------------------------------------------------- quick summary
+QUICK_MODEL = "claude-haiku-5-5"
+# A forced tool call (same pattern as the Deep Research steps) reliably returns the
+# summary; a plain text reply from Haiku came back empty.
+SUMMARY_TOOL = {
+    "name": "write_summary", "description": "Return the summary of the search results.",
+    "input_schema": {"type": "object", "properties": {
+        "summary": {"type": "string", "description": "The markdown summary with [n] citations"}},
+        "required": ["summary"]}}
+
+
+def quick_summary(query, results, max_episodes=10, chars_per_passage=900):
+    """Short cited summary of a Quick Search result list (one fast Haiku call,
+    well under a cent). Cites episodes as [n], matching the 1-based order of
+    `results`, so the app can number its result list to match. Returns markdown."""
+    lines = []
+    for n, r in enumerate(results[:max_episodes], 1):
+        for p in r.get("passages", []):
+            seg = f" [{p['segment_title']}]" if p.get("segment_title") else ""
+            text = re.sub(r"\s+", " ", p.get("text", ""))[:chars_per_passage]
+            lines.append(f"[{n}] \"{r['title']}\" ({r['date'][:4]}){seg}: {text}")
+    if not lines:
+        return ""
+    try:
+        text = call(QUICK_MODEL,
+                "You summarize search results from the podcast Stuff You Should Know for a general "
+                "audience. Use ONLY the passages provided; never add outside facts. Cite every point "
+                "with the episode number in square brackets, e.g. [2] or [2][5]. Older transcripts "
+                "have no speaker labels, so do not attribute statements to Josh or Chuck unless the "
+                "passage itself makes the speaker clear. Do not use em dashes.",
+                f"Search: {query}\n\nPassages (grouped by episode number):\n" + "\n".join(lines) +
+                "\n\nWrite markdown: one or two sentences giving the overall picture, then 3 to 6 "
+                "bullet points with the key findings or facts, each citing its episodes. If the "
+                "passages barely touch the search topic, say so in one sentence instead. "
+                "Under 200 words. No headings. Return it with the write_summary tool.",
+                SUMMARY_TOOL, max_tokens=2000).get("summary", "")
+        text = text.strip() if isinstance(text, str) else ""
+    except SystemExit as e:  # ee.post() exits on API errors; surface it instead
+        raise RuntimeError(str(e)) from None
+    if not text:
+        raise RuntimeError("the model returned an empty response")
+    return text
+
+
 # ------------------------------------------------------------------ main
 def fold_reruns(cands):
     """Drop a rerun when its original is also a candidate; remember the alias."""
