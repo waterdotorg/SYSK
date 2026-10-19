@@ -1,0 +1,381 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-02-10_How_Cognitive_Biases_Work_56min.txt",
+  "title": "How Cognitive Biases Work",
+  "date": "2026-02-10",
+  "duration": "56 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-cognitive-biases-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2a334a6c-1123-4f92-a92d-b3ec0173eeb8/transcript?format=TextWithTimestamps&t=1770677000",
+  "summary": "Josh and Chuck explore cognitive biases, the unconscious mental shortcuts (heuristics) that lead people to predictable errors in judgment. They cover the origins of the field in the work of Amos Tversky and Daniel Kahneman, System one vs. system two thinking, and a long list of biases including hindsight bias, self-serving bias, fundamental attribution error, anchoring, decoy effect, framing, availability heuristic, inattentional blindness (the gorilla test), Dunning-Kruger effect, gambler's fallacy, base rate fallacy, mere exposure effect, illusory truth effect, and confirmation bias. The episode also covers prospect theory and behavioral economics, how biases affect medicine and forensics, tips for counteracting biases, and a listener mail correction about the origin of the name Sebastopol, California.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "cognitive biases",
+    "heuristics",
+    "unconscious bias",
+    "system one and system two thinking",
+    "Tversky and Kahneman",
+    "Thinking Fast and Slow",
+    "Stroop effect",
+    "hindsight bias",
+    "self-serving bias",
+    "fundamental attribution error",
+    "anchoring bias",
+    "decoy effect",
+    "framing effect",
+    "availability heuristic",
+    "inattentional blindness",
+    "gorilla selective attention test",
+    "Dunning-Kruger effect",
+    "gambler's fallacy",
+    "base rate fallacy",
+    "mere exposure effect",
+    "illusory truth effect",
+    "confirmation bias",
+    "backfire effect",
+    "belief perseverance",
+    "behavioral economics",
+    "prospect theory",
+    "loss aversion",
+    "Bayesian reasoning",
+    "medical decision making biases",
+    "forensic science bias",
+    "debiasing tips",
+    "Sebastopol California name origin"
+  ],
+  "entities": [
+    {
+      "name": "Amos Tversky",
+      "type": "person"
+    },
+    {
+      "name": "Daniel Kahneman",
+      "type": "person"
+    },
+    {
+      "name": "John Ridley Stroop",
+      "type": "person"
+    },
+    {
+      "name": "Peter Wason",
+      "type": "person"
+    },
+    {
+      "name": "Richard Thaler",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Bayes",
+      "type": "person"
+    },
+    {
+      "name": "Dan Ariely",
+      "type": "person"
+    },
+    {
+      "name": "Adam Smith",
+      "type": "person"
+    },
+    {
+      "name": "David Dunning",
+      "type": "person"
+    },
+    {
+      "name": "Justin Kruger",
+      "type": "person"
+    },
+    {
+      "name": "Daniel Simons",
+      "type": "person"
+    },
+    {
+      "name": "Thinking, Fast and Slow",
+      "type": "work"
+    },
+    {
+      "name": "Prospect theory",
+      "type": "other"
+    },
+    {
+      "name": "Sebastopol, California",
+      "type": "place"
+    },
+    {
+      "name": "Crimean War",
+      "type": "event"
+    },
+    {
+      "name": "The Pit",
+      "type": "work"
+    },
+    {
+      "name": "Less Wrong",
+      "type": "organization"
+    },
+    {
+      "name": "Hebrew University of Jerusalem",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter and heuristics",
+      "summary": "Hosts open the episode and introduce heuristics as brain shortcuts that lead to cognitive biases, with the point that biases are unconscious and affect everyone.",
+      "topics": [
+        "heuristics",
+        "cognitive biases",
+        "unconscious bias",
+        "homeostasis"
+      ]
+    },
+    {
+      "segment_placeholder": null,
+      "start": "00:01:00",
+      "end": "00:05:40",
+      "kind": "content",
+      "title": "Origins: Tversky and Kahneman",
+      "summary": "Josh and Chuck describe Amos Tversky and Daniel Kahneman, Israeli psychologists whose partnership challenged the rational actor model and launched the Heuristics and Biases program.",
+      "topics": [
+        "Tversky and Kahneman",
+        "rational actor theory",
+        "Heuristics and Biases program"
+      ]
+    },
+    {
+      "start": "00:05:40",
+      "end": "00:08:50",
+      "kind": "content",
+      "title": "System one, system two, and the Stroop effect",
+      "summary": "Kahneman's fast and slow thinking model is explained, along with John Ridley Stroop's 1935 color-word interference test and post hoc rationalization.",
+      "topics": [
+        "system one and system two thinking",
+        "Thinking Fast and Slow",
+        "Stroop effect",
+        "post hoc rationalization"
+      ]
+    },
+    {
+      "start": "00:08:50",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Hiring bias and in-group comfort",
+      "summary": "Using a hiring example, the hosts discuss how first impressions get rationalized afterward and how comfort with similar people entrenches organizations, which is one reason diversity programs exist.",
+      "topics": [
+        "hiring bias",
+        "first impressions",
+        "diversity programs",
+        "in-group bias"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:13:10",
+      "kind": "content",
+      "title": "Why biases exist and their universality",
+      "summary": "The hosts note that biases arise from mental shortcuts and human guessing tendencies, and that many have been found across cultures despite replication issues and WEIRD sample criticisms.",
+      "topics": [
+        "why biases exist",
+        "cross-cultural replication",
+        "WEIRD samples"
+      ]
+    },
+    {
+      "start": "00:13:10",
+      "end": "00:18:55",
+      "kind": "content",
+      "title": "Hindsight, self-serving bias, and anchoring",
+      "summary": "Hindsight bias, self-serving bias with fundamental attribution error, and anchoring bias are explained, including the Mississippi River estimate study and the framing example of a drug mortality rate.",
+      "topics": [
+        "hindsight bias",
+        "self-serving bias",
+        "fundamental attribution error",
+        "anchoring bias",
+        "framing effect",
+        "decoy effect",
+        "negotiation"
+      ]
+    },
+    {
+      "start": "00:18:55",
+      "end": "00:19:40",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:19:40",
+      "end": "00:22:20",
+      "kind": "content",
+      "title": "Availability heuristic",
+      "summary": "The availability heuristic is described as relying on whatever comes easily to mind, such as recent plane crash news inflating risk estimates.",
+      "topics": [
+        "availability heuristic",
+        "risk perception"
+      ]
+    },
+    {
+      "start": "00:22:20",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Inattentional blindness and the gorilla test",
+      "summary": "The hosts describe Daniel Simons' selective attention basketball test in which half of viewers miss a person in a gorilla suit, and discuss how attention is limited.",
+      "topics": [
+        "inattentional blindness",
+        "gorilla selective attention test",
+        "Daniel Simons",
+        "selective attention"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Dunning-Kruger effect",
+      "summary": "The Dunning-Kruger effect is explained as overestimation by low-skill people and the reverse for experts, along with notes that the academic finding is being challenged.",
+      "topics": [
+        "Dunning-Kruger effect",
+        "overconfidence",
+        "expertise"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:50",
+      "kind": "content",
+      "title": "Gambler's fallacy and base rate fallacy",
+      "summary": "Gambler's fallacy is illustrated with blackjack and coin tosses. The base rate fallacy is illustrated with the fit woman who may be a teacher rather than a personal trainer.",
+      "topics": [
+        "gambler's fallacy",
+        "base rate fallacy",
+        "statistical reasoning"
+      ]
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Mere exposure and illusory truth effect",
+      "summary": "Mere exposure effect (liking increases with familiarity) and the illusory truth effect (repeated lies become believed) are discussed, with a political aside.",
+      "topics": [
+        "mere exposure effect",
+        "illusory truth effect",
+        "repetition and belief"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Confirmation bias, belief perseverance, and backfire effect",
+      "summary": "Peter Wason's 2-4-6 number sequence experiment is explained as an example of confirmation bias. The hosts discuss media bubbles, belief perseverance, the backfire effect, and why people resist challenges to their beliefs.",
+      "topics": [
+        "confirmation bias",
+        "Peter Wason 2-4-6 experiment",
+        "belief perseverance",
+        "backfire effect",
+        "media bubbles"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:40:05",
+      "kind": "content",
+      "title": "Break",
+      "summary": "Second, longer break before behavioral economics.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:40:05",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "Behavioral economics, Thaler, and prospect theory",
+      "summary": "Behavioral economics is introduced as building on Tversky and Kahneman's work and Richard Thaler's predictability of biases. Prospect theory's 1979 paper, loss aversion, and the 1996 lottery ticket experiment are described, along with a 2020 replication across nineteen countries.",
+      "topics": [
+        "behavioral economics",
+        "prospect theory",
+        "loss aversion",
+        "Richard Thaler",
+        "replication study"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:45:05",
+      "kind": "content",
+      "title": "Rare events and relative versus absolute thinking",
+      "summary": "The hosts discuss overestimating rare events, the kidnapping fear example, and relative thinking about saving money on a shirt versus a car.",
+      "topics": [
+        "rare event overestimation",
+        "relative vs absolute thinking",
+        "risk perception"
+      ]
+    },
+    {
+      "start": "00:45:05",
+      "end": "00:48:55",
+      "kind": "content",
+      "title": "Biases in medicine and forensics",
+      "summary": "Biases in medical decision making, such as anchoring to first lab results and outcome bias, are discussed with reference to the show The Pit. Forensic science biases and flawed lineups are also mentioned.",
+      "topics": [
+        "medical biases",
+        "forensic science bias",
+        "anchoring in medicine",
+        "eyewitness lineups",
+        "The Pit"
+      ]
+    },
+    {
+      "start": "00:48:55",
+      "end": "00:54:00",
+      "kind": "content",
+      "title": "Tips for counteracting biases",
+      "summary": "Tips include awareness, delaying decisions, sleeping on big decisions, writing down expectations, Bayesian reasoning, a growth mindset, recognizing scarcity and social proof, and cognitive bias modification for anxiety. The hosts note AI systems may show emergent biases.",
+      "topics": [
+        "debiasing tips",
+        "Bayesian reasoning",
+        "growth mindset",
+        "cognitive bias modification",
+        "scarcity and social proof",
+        "AI biases"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:55:50",
+      "kind": "listener_mail",
+      "title": "Listener mail: Sebastopol name origin",
+      "summary": "Listener Marsha writes that Sebastopol, California was originally named Pine Grove and was renamed after a bar fight comparison to the Crimean War siege. The hosts also briefly discuss Iron Maiden's song about the Light Brigade.",
+      "topics": [
+        "listener mail",
+        "Sebastopol California",
+        "Crimean War",
+        "Light Brigade",
+        "Iron Maiden"
+      ]
+    },
+    {
+      "start": "00:55:50",
+      "end": "00:56:03",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank the listener and give the show's email and credits.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 21077,
+    "output_tokens": 3988
+  }
+}

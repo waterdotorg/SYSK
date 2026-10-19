@@ -1,0 +1,383 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-08-01_The_One_About_Car_Washes_49min.txt",
+  "title": "The One About Car Washes",
+  "date": "2024-08-01",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-one-about-car-washes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4b071fb8-7c17-4988-8f0c-b1bc010744bd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4b071fb8-7c17-4988-8f0c-b1bc010744bd/transcript?format=TextWithTimestamps&t=1722503104",
+  "summary": "Josh and Chuck open with casual banter about how they get their cars washed, then trace the history of American automated car washes: the 1901 patent, early automobile laundries and the Detroit auto bowl, the 1920s conveyor washes, Cunningham's in Chicago, the 1946 Minuteman system by Leo Russo and Paul's Automatic Car Wash, and the 1951 Elephant Car Wash in Seattle. They explain how in-tunnel friction washes work (correlators, infrared length sensors, mitter curtains, dryers), the rise of express exterior models after Benny's in Baton Rouge, touchless laser washes, and the risks of brushes and water spots. They then cover car wash safety (claustrophobia and deaths), cars-per-hour economics, subscription models driving an industry boom, local moratoriums over employment and tax concerns, water use and greenwashing, and sales upsells. The episode closes with listener mail correcting a dopamine and genetics point, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "car washes",
+    "automated car wash history",
+    "tunnel car wash",
+    "Minuteman car wash system",
+    "Leo Russo",
+    "Paul's Automatic Car Wash",
+    "automobile laundry",
+    "auto bowl",
+    "Elephant Car Wash",
+    "touchless car wash",
+    "laser wash",
+    "express exterior car wash",
+    "Benny's Car Wash",
+    "car wash subscription model",
+    "cars per hour",
+    "car wash water usage",
+    "car wash greenwashing",
+    "car wash claustrophobia",
+    "car wash moratorium",
+    "car wash industry boom",
+    "conveyor car wash",
+    "mitter curtain",
+    "Cunningham's Automobile Laundry",
+    "car detailing",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Leo Russo",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Simpson",
+      "type": "person"
+    },
+    {
+      "name": "Paul Mouranian",
+      "type": "person"
+    },
+    {
+      "name": "William Lewis",
+      "type": "person"
+    },
+    {
+      "name": "Anderson brothers",
+      "type": "person"
+    },
+    {
+      "name": "Minuteman car wash system",
+      "type": "other"
+    },
+    {
+      "name": "Paul's Automatic Auto Wash",
+      "type": "organization"
+    },
+    {
+      "name": "Elephant Car Wash",
+      "type": "organization"
+    },
+    {
+      "name": "Cunningham's Automobile Laundry",
+      "type": "organization"
+    },
+    {
+      "name": "Benny's Car Wash",
+      "type": "organization"
+    },
+    {
+      "name": "Laser Wash",
+      "type": "organization"
+    },
+    {
+      "name": "Detroit",
+      "type": "place"
+    },
+    {
+      "name": "Seattle",
+      "type": "place"
+    },
+    {
+      "name": "Chicago",
+      "type": "place"
+    },
+    {
+      "name": "Baton Rouge",
+      "type": "place"
+    },
+    {
+      "name": "Milwaukee",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Bloomberg News",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts joke around about car washes and the slushy ritual, then start the topic.",
+      "topics": [
+        "car wash",
+        "casual banter"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:04:20",
+      "kind": "content",
+      "title": "How the hosts get their cars washed",
+      "summary": "Chuck and Josh describe their personal routines: occasional detailers, friction tunnel washes, DIY vacuuming, and a monthly drive-through habit.",
+      "topics": [
+        "car wash habits",
+        "car detailing",
+        "friction car wash"
+      ]
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Early car washes and the auto bowl",
+      "summary": "Early history: the first vehicle washer patent in 1901 to Scare it Hanley of Milwaukee, Model T era automobile laundries on the West Coast, and the 1920s auto bowl where cars drove through bumpy water to clean off mud.",
+      "topics": [
+        "auto bowl",
+        "automobile laundry",
+        "1901 vehicle washer patent",
+        "early car wash history"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Detroit's first automobile laundry",
+      "summary": "Frank McCormick and J.W. Hinkle opened an automobile laundry in Detroit in 1913 charging a dollar fifty; the hosts compare it to modern detailing.",
+      "topics": [
+        "1913 Detroit automobile laundry",
+        "car detailing history"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:09:40",
+      "kind": "content",
+      "title": "Patents and conveyor car washes of the 1920s",
+      "summary": "Patents for sprayers and hose systems followed, and in the 1920s conveyor-belt washes arrived, still manual with many workers.",
+      "topics": [
+        "car wash patents",
+        "conveyor car wash",
+        "1920s car wash"
+      ]
+    },
+    {
+      "start": "00:09:40",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Cunningham's and the tow-line assembly line",
+      "summary": "Cunningham's Automobile Laundry in Chicago in 1922 used an assembly line where cars were towed along a chain and workers each cleaned a part.",
+      "topics": [
+        "Cunningham's Automobile Laundry",
+        "assembly line car wash",
+        "Chicago car wash history"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Post-war semi-automatic systems and the Minuteman",
+      "summary": "Thomas Simpson's 1946 semi-automatic system; Leo Russo refined his Minuteman system during WWII and sold complete systems, with the first sold to Paul Mouranian in Detroit for Paul's Automatic Auto Wash. Workforce cut to as few as eight people.",
+      "topics": [
+        "Minuteman car wash system",
+        "Leo Russo",
+        "Paul's Automatic Auto Wash",
+        "Thomas Simpson",
+        "semi-automatic car wash",
+        "automation history"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Growth of car washes and the Elephant Car Wash",
+      "summary": "Car wash count grew from fifty in 1946 to two thousand nine years later. The Anderson brothers opened Elephant Car Wash in Seattle in 1951, considered an early fully automated, no-touch wash.",
+      "topics": [
+        "car wash growth post-war",
+        "Elephant Car Wash",
+        "Anderson brothers",
+        "no-touch car wash"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Attendants and the one-person car wash",
+      "summary": "Modern tunnel washes can have just one employee at the entrance; Josh's local Shifty has several staff, while Chuck's usual wash has one outside worker.",
+      "topics": [
+        "car wash staffing",
+        "automation and jobs"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Express exterior washes and Benny's Car Wash",
+      "summary": "The fully automatic express exterior model was developed by Benny's Car Wash in Baton Rouge around 2001; touchscreen tech made them practical. Earlier coin-operated attempts in the sixties and seventies were abandoned. Upselling staff at touchscreens was discussed.",
+      "topics": [
+        "express exterior car wash",
+        "Benny's Car Wash",
+        "touchscreen car wash",
+        "coin-operated car wash"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Inside a tunnel car wash",
+      "summary": "Walkthrough of a tunnel wash: rails and correlators, tire rollers, infrared length sensor that adjusts the wash, exit sensor, pre-soak, mitter curtains, foam and brushes, rinse, wax, and dryers including the Laser Wash 360 drying claim of 80 percent water removal.",
+      "topics": [
+        "tunnel car wash process",
+        "mitter curtain",
+        "infrared sensor car wash",
+        "car wash dryers",
+        "Laser Wash 360"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Water spots and paint damage",
+      "summary": "Detailer warnings that water spots left after drying can etch paint, and that even touchless washes can be harmful for that reason.",
+      "topics": [
+        "water spots",
+        "car paint damage",
+        "touchless car wash risks"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Cars per hour and car wash economics",
+      "summary": "Discussion of cars per hour (CPH) as the key throughput setting, balancing speed against wash quality, water hardness, detergent, and machinery upkeep, plus customers leaving long lines.",
+      "topics": [
+        "cars per hour",
+        "car wash economics",
+        "car wash quality"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:35:10",
+      "kind": "content",
+      "title": "Touchless car washes and laser washes",
+      "summary": "Touchless washes use only water, chemicals, and air. William Lewis developed the Laser Wash 4000 in the late 1980s to avoid damage from brushes; about 8,000 sold. Brush wear and grime on bristles can scratch paint, and Audi's manual endorses washes without bristles.",
+      "topics": [
+        "touchless car wash",
+        "Laser Wash 4000",
+        "William Lewis",
+        "brushes and scratches",
+        "Audi manual car wash advice"
+      ]
+    },
+    {
+      "start": "00:35:10",
+      "end": "00:38:10",
+      "kind": "content",
+      "title": "Claustrophobia and car wash safety",
+      "summary": "Some customers panic in tunnels; there have been deaths from being pinned by machinery when getting out. Industry advice is to drive a panicking customer's car through. Windows and lights were added to tunnels, and the hosts recall older darker washes.",
+      "topics": [
+        "car wash claustrophobia",
+        "car wash safety",
+        "car wash deaths",
+        "tunnel car wash design"
+      ]
+    },
+    {
+      "start": "00:38:10",
+      "end": "00:40:15",
+      "kind": "content",
+      "title": "Subscription model and car wash boom",
+      "summary": "Subscription plans are very profitable, letting washes earn from members who come less often. More than sixty thousand U.S. car washes exist per Bloomberg News, with projections of up to 120,000 by 2030; self-washing dropped from about fifty percent in the mid-nineties to about twenty-one percent.",
+      "topics": [
+        "car wash subscriptions",
+        "car wash industry boom",
+        "private equity car washes",
+        "Bloomberg News car wash statistics",
+        "self car washing decline"
+      ]
+    },
+    {
+      "start": "00:40:15",
+      "end": "00:42:40",
+      "kind": "content",
+      "title": "Towns pushing back on car wash construction",
+      "summary": "Some towns have enacted moratoriums on new car washes because they employ few people, pay little tax, drain local money to investors, and may become abandoned buildings.",
+      "topics": [
+        "car wash moratorium",
+        "local economy",
+        "car wash oversaturation",
+        "abandoned car wash buildings"
+      ]
+    },
+    {
+      "start": "00:42:40",
+      "end": "00:46:10",
+      "kind": "content",
+      "title": "Water use, recycling, and greenwashing",
+      "summary": "Home washing with a hose wastes far more water than commercial washes, which often recycle water and send it to sewers; California requires recycling. Modern washes use about eight to seventy gallons per car versus a 2011 HowStuffWorks figure of 300 to 400. Greenwashing warnings. Consumer Reports said most add-ons like wax and undercarriage cleaning are not worth it.",
+      "topics": [
+        "car wash water usage",
+        "water recycling",
+        "California car wash law",
+        "greenwashing",
+        "car wash upsells"
+      ]
+    },
+    {
+      "start": "00:46:10",
+      "end": "00:47:20",
+      "kind": "content",
+      "title": "Movies and wrap-up",
+      "summary": "Hosts mention car wash movies and Breaking Bad car wash scenes, and sign off the topic.",
+      "topics": [
+        "car wash movies",
+        "Breaking Bad car wash"
+      ]
+    },
+    {
+      "start": "00:47:20",
+      "end": "00:48:15",
+      "kind": "listener_mail",
+      "title": "Listener mail: dopamine and genetics",
+      "summary": "A UK listener named Steve Guercio corrects the dopamine episode, explaining that genetics influence addiction through receptors and enzymes rather than personality.",
+      "topics": [
+        "listener mail",
+        "dopamine",
+        "addiction genetics"
+      ]
+    },
+    {
+      "start": "00:48:15",
+      "end": "00:48:50",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite corrections by email and close with the iHeartRadio credit.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17863,
+    "output_tokens": 4390
+  }
+}

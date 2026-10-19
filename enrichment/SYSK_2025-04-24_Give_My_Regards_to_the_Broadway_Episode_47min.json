@@ -1,0 +1,453 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-04-24_Give_My_Regards_to_the_Broadway_Episode_47min.txt",
+  "title": "Give My Regards to the Broadway Episode!",
+  "date": "2025-04-24",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/give-my-regards-to-the-broadway-episode",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b11a2202-fbc1-4999-9964-b2c8014235a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b11a2202-fbc1-4999-9964-b2c8014235a7/transcript?format=TextWithTimestamps&t=1745437325",
+  "summary": "Josh and Chuck explore Broadway, the New York theater district and American musical theater. They discuss a listener suggestion (from Sarah Nagy) and start with casual banter about Josh's Broadway trip and buying tickets for Glengarry Glen Ross, plus TKTS day-of booths and ticket prices. The history covers Broadway's origins as a Lenape trail and Dutch-era road, the first recorded play in 1732 (The Recruiting Officer), early musicals like The Beggar's Opera, Oscar Hammerstein I's theaters and the IRT subway, the renaming of Longacre Square to Times Square in 1905, the Shubert brothers, vaudeville and the Ziegfeld Follies, and Irving Berlin and the Gershwins. The hosts then cover the Rodgers and Hammerstein partnership and the book musical, Showboat, West Side Story, Cabaret and the concept musical, Hair, Company, A Chorus Line, Cats, and Phantom of the Opera. Later segments cover Times Square's cleanup and the Disney era with Beauty and the Beast, the 1990s shows Rent and Mamma Mia, Wicked, and Broadway flops such as Moose Murders, Carrie, and Spider-Man: Turn Off the Dark. The episode ends with a listener shout-out from Cody in Raleigh for his mother Bonnie's eightieth birthday and a note that the show inspired two Broadway musicals.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Broadway",
+    "Broadway history",
+    "New York theater district",
+    "American musical theater",
+    "book musical",
+    "concept musical",
+    "Times Square history",
+    "Broadway ticket prices",
+    "TKTS discount booths",
+    "Broadway flops",
+    "Oscar Hammerstein I",
+    "Rodgers and Hammerstein",
+    "West Side Story",
+    "Cabaret musical",
+    "Hair musical",
+    "A Chorus Line",
+    "Cats musical",
+    "Phantom of the Opera",
+    "Spider-Man: Turn Off the Dark",
+    "Moose Murders",
+    "Carrie musical",
+    "Rent musical",
+    "Wicked musical",
+    "Beauty and the Beast Broadway",
+    "Showboat musical",
+    "Stephen Sondheim",
+    "Schubert Organization",
+    "Broadway theaters",
+    "Gershwin Theatre",
+    "The Beggar's Opera",
+    "Times Square renaming",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Broadway",
+      "type": "place"
+    },
+    {
+      "name": "Times Square",
+      "type": "place"
+    },
+    {
+      "name": "Gershwin Theatre",
+      "type": "place"
+    },
+    {
+      "name": "Hayes Theater",
+      "type": "place"
+    },
+    {
+      "name": "Palace Theatre",
+      "type": "place"
+    },
+    {
+      "name": "New Amsterdam Theatre",
+      "type": "place"
+    },
+    {
+      "name": "TKTS",
+      "type": "organization"
+    },
+    {
+      "name": "Schubert Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Oscar Hammerstein I",
+      "type": "person"
+    },
+    {
+      "name": "Oscar Hammerstein II",
+      "type": "person"
+    },
+    {
+      "name": "Jerome Kern",
+      "type": "person"
+    },
+    {
+      "name": "Richard Rodgers",
+      "type": "person"
+    },
+    {
+      "name": "Irving Berlin",
+      "type": "person"
+    },
+    {
+      "name": "George Gershwin",
+      "type": "person"
+    },
+    {
+      "name": "Ethel Merman",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Sondheim",
+      "type": "person"
+    },
+    {
+      "name": "Andrew Lloyd Webber",
+      "type": "person"
+    },
+    {
+      "name": "Tim Rice",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Larson",
+      "type": "person"
+    },
+    {
+      "name": "Julie Taymor",
+      "type": "person"
+    },
+    {
+      "name": "David Dinkins",
+      "type": "person"
+    },
+    {
+      "name": "Michael Eisner",
+      "type": "person"
+    },
+    {
+      "name": "Oklahoma!",
+      "type": "work"
+    },
+    {
+      "name": "West Side Story",
+      "type": "work"
+    },
+    {
+      "name": "Cabaret",
+      "type": "work"
+    },
+    {
+      "name": "Hair",
+      "type": "work"
+    },
+    {
+      "name": "A Chorus Line",
+      "type": "work"
+    },
+    {
+      "name": "Cats",
+      "type": "work"
+    },
+    {
+      "name": "The Phantom of the Opera",
+      "type": "work"
+    },
+    {
+      "name": "Rent",
+      "type": "work"
+    },
+    {
+      "name": "Wicked",
+      "type": "work"
+    },
+    {
+      "name": "Beauty and the Beast",
+      "type": "work"
+    },
+    {
+      "name": "Showboat",
+      "type": "work"
+    },
+    {
+      "name": "Moose Murders",
+      "type": "work"
+    },
+    {
+      "name": "Carrie",
+      "type": "work"
+    },
+    {
+      "name": "Spider-Man: Turn Off the Dark",
+      "type": "work"
+    },
+    {
+      "name": "Glengarry Glen Ross",
+      "type": "work"
+    },
+    {
+      "name": "Dear Evan Hansen",
+      "type": "work"
+    },
+    {
+      "name": "Hamilton",
+      "type": "work"
+    },
+    {
+      "name": "The Beggar's Opera",
+      "type": "work"
+    },
+    {
+      "name": "Lenape",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:40",
+      "kind": "intro",
+      "title": "Opening banter and Broadway trip",
+      "summary": "The hosts open with song banter and a listener suggestion from Sarah Nagy. Josh talks about his Broadway trips and buying Glengarry Glen Ross tickets, and they discuss TKTS day-of ticket booths.",
+      "topics": [
+        "Broadway",
+        "TKTS discount booths",
+        "Glengarry Glen Ross",
+        "Broadway tickets"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Broadway ticket prices and show scale",
+      "summary": "They compare the size of New York Broadway theaters, from the Gershwin at 1,933 seats to the Hayes at 597. They discuss blockbuster productions, special effects, and average ticket prices, with Wicked the most expensive at about $290 on average.",
+      "topics": [
+        "Broadway ticket prices",
+        "Broadway theater sizes",
+        "Gershwin Theatre",
+        "Wicked musical"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:12:40",
+      "kind": "content",
+      "title": "Origins of Broadway and early theater",
+      "summary": "Broadway began as a Lenape tribal trail and was later a Dutch road called Heere Straat. The first recorded play performance was The Recruiting Officer in 1732 at the New Theater on Nassau Street, owned by Governor Rip van Dam. Early musicals included The Beggar's Opera.",
+      "topics": [
+        "Broadway origins",
+        "Lenape trail",
+        "Dutch New Amsterdam",
+        "The Recruiting Officer",
+        "The Beggar's Opera",
+        "early American theater"
+      ]
+    },
+    {
+      "start": "00:12:40",
+      "end": "00:15:40",
+      "kind": "content",
+      "title": "Oscar Hammerstein I and the theater district",
+      "summary": "Oscar Hammerstein I, a former cigar factory worker who invented a cigar machine, funded opera houses including the Harlem Opera House and the Olympia in Longacre Square. With the IRT subway, the theater district took shape. Longacre Square was renamed Times Square in 1905 after the New York Times moved there.",
+      "topics": [
+        "Oscar Hammerstein I",
+        "Hammerstein's Olympia",
+        "IRT subway theater district",
+        "Times Square renaming",
+        "Longacre Square"
+      ]
+    },
+    {
+      "start": "00:15:40",
+      "end": "00:18:10",
+      "kind": "content",
+      "title": "Shubert brothers, Ziegfeld Follies and early songwriters",
+      "summary": "The Shubert brothers opened many theaters, and the Schubert Organization still owns seventeen of the forty-one Broadway theaters. The Ziegfeld Follies helped draw everyday audiences. Irving Berlin and George Gershwin wrote famous songs during this era.",
+      "topics": [
+        "Schubert Organization",
+        "Ziegfeld Follies",
+        "vaudeville",
+        "Irving Berlin",
+        "George Gershwin",
+        "Broadway songwriters"
+      ]
+    },
+    {
+      "start": "00:18:10",
+      "end": "00:20:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Sponsor break between segments.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Rodgers and Hammerstein and the book musical",
+      "summary": "Oscar Hammerstein II and Jerome Kern created Show Boat, which was integrated but also used blackface. Richard Rodgers and Hammerstein then made Oklahoma! in 1943, which set a performance record of 2,212 performances. Their partnership defined the book musical.",
+      "topics": [
+        "Rodgers and Hammerstein",
+        "Oklahoma!",
+        "Show Boat",
+        "book musical",
+        "integrated cast"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "West Side Story, Cabaret, Hair and Company",
+      "summary": "West Side Story in 1957 helped establish the triple threat performer. Cabaret in 1966 introduced the concept musical. Hair in 1968 was an early rock musical. Stephen Sondheim's breakout was Company.",
+      "topics": [
+        "West Side Story",
+        "triple threat",
+        "Cabaret concept musical",
+        "Hair rock musical",
+        "Stephen Sondheim",
+        "Company musical"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:30:20",
+      "kind": "content",
+      "title": "A Chorus Line, Cats and Phantom of the Opera",
+      "summary": "A Chorus Line, a concept musical set in an audition, began a long run in 1975. Cats opened in 1982, and Phantom of the Opera followed in 1988 with elaborate special effects. Phantom holds the record for most performances, at 13,981.",
+      "topics": [
+        "A Chorus Line",
+        "Cats musical",
+        "Phantom of the Opera",
+        "Andrew Lloyd Webber",
+        "Broadway record performances"
+      ]
+    },
+    {
+      "start": "00:30:20",
+      "end": "00:33:10",
+      "kind": "content",
+      "title": "Times Square cleanup and Disney era",
+      "summary": "Times Square was rowdy for decades. Mayors including Koch, Dinkins and Giuliani cleaned it up. John Lindsay offered tax breaks for theaters, and David Dinkins made a deal with Michael Eisner. Disney's Beauty and the Beast opened at the Palace Theatre in 1994.",
+      "topics": [
+        "Times Square cleanup",
+        "Disney Broadway",
+        "Beauty and the Beast Broadway",
+        "Michael Eisner",
+        "David Dinkins"
+      ]
+    },
+    {
+      "start": "00:33:10",
+      "end": "00:33:40",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:33:40",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Rent, jukebox musicals and recent hits",
+      "summary": "Rent in the 1990s tackled heavier topics; Jonathan Larson died before it premiered off Broadway. Mamma Mia! used ABBA songs. The hosts discuss jukebox musicals, Wicked, and Hamilton.",
+      "topics": [
+        "Rent musical",
+        "Jonathan Larson",
+        "jukebox musical",
+        "Mamma Mia",
+        "Hamilton"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:50",
+      "kind": "content",
+      "title": "Recent Broadway hits and grosses",
+      "summary": "They discuss Dear Evan Hansen and Wicked's record week, with its five million dollar week in December. The 2023-24 season grossed $1.5 to $1.6 billion with about 12 million attendees across 71 productions and an 89.9 percent average occupancy.",
+      "topics": [
+        "Dear Evan Hansen",
+        "Broadway grosses",
+        "Broadway attendance",
+        "Broadway occupancy"
+      ]
+    },
+    {
+      "start": "00:38:50",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Broadway flops",
+      "summary": "Moose Murders in 1983 closed after one performance. Carrie in 1988 closed after 16 previews and five performances on an eight million dollar budget. Spider-Man: Turn Off the Dark in 2011 had 182 previews and many problems.",
+      "topics": [
+        "Broadway flops",
+        "Moose Murders",
+        "Carrie musical",
+        "Spider-Man: Turn Off the Dark",
+        "previews"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:44:10",
+      "kind": "content",
+      "title": "Previews and critics",
+      "summary": "The hosts explain Broadway previews, where audiences see shows before opening and critics may review them. They discuss whether critics attend previews.",
+      "topics": [
+        "Broadway previews",
+        "theater critics"
+      ]
+    },
+    {
+      "start": "00:44:10",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Show inspired by the podcast",
+      "summary": "The hosts mention a Town and Country article and a producers' email saying the show inspired two Broadway musicals, including Tzacho and Vinzetti.",
+      "topics": [
+        "Stuff You Should Know inspired musical",
+        "Town and Country",
+        "Off Broadway"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:46:35",
+      "kind": "listener_mail",
+      "title": "Rare shout-out for Bonnie's 80th birthday",
+      "summary": "Cody from Raleigh asks for a shout-out for his mother Bonnie Nichols, who listens to the show for companionship after his father died in 2018. The hosts wish her a happy 80th birthday.",
+      "topics": [
+        "listener mail",
+        "shout-out",
+        "parasocial listening"
+      ]
+    },
+    {
+      "start": "00:46:35",
+      "end": "00:47:06",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to send stories about the people in their lives by email, and the show credits iHeartRadio.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18772,
+    "output_tokens": 4554
+  }
+}

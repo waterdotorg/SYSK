@@ -1,0 +1,160 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-08-26_Will_robots_get_married_15min.txt",
+  "title": "Will robots get married?",
+  "date": "2008-08-26",
+  "duration": "15 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/will-robots-get-married",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/36506fa4-ab06-470d-a057-ae2800c348f8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/36506fa4-ab06-470d-a057-ae2800c348f8/transcript?format=TextWithTimestamps&t=1700544002",
+  "summary": "Josh and Chuck discuss whether robots will marry humans, starting from the film Lars and the Real Girl and a paper by David Levy predicting legal human-robot marriages, with Massachusetts mentioned as a possible first state. They cover lifelike robot skin developed by a former Disney roboticist, the emerging debate over robot rights (with Japan, South Korea and Europe mentioned), and the animal-rights analogy. They raise abuse of lifelike robots, the US plan to supplement battalions with robots, and who is liable when a household robot causes harm. They review Isaac Asimov's Three Laws of Robotics from the story \"Runaround\" and the collection I, Robot, note early industrial robot fatalities, and worry about learning robots becoming unpredictable and the difficulty of programming morality. The episode closes with an ad and a segment on finding drinking water on a beach on a deserted island by digging a hole behind a sand dune.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "robot marriage",
+    "human-robot marriage",
+    "robot rights",
+    "robot ethics",
+    "David Levy",
+    "sexology and robotics",
+    "Lars and the Real Girl",
+    "lifelike robot skin",
+    "Isaac Asimov",
+    "Three Laws of Robotics",
+    "I, Robot",
+    "Runaround",
+    "industrial robot accidents",
+    "robot liability",
+    "learning robots unpredictability",
+    "robot morality",
+    "animal rights analogy",
+    "military robots",
+    "household robots",
+    "finding water on a beach",
+    "desert island survival",
+    "dig for water"
+  ],
+  "entities": [
+    {
+      "name": "David Levy",
+      "type": "person"
+    },
+    {
+      "name": "Isaac Asimov",
+      "type": "person"
+    },
+    {
+      "name": "Lars and the Real Girl",
+      "type": "work"
+    },
+    {
+      "name": "I, Robot",
+      "type": "work"
+    },
+    {
+      "name": "Runaround",
+      "type": "work"
+    },
+    {
+      "name": "Mrs. Doubtfire",
+      "type": "work"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "South Korea",
+      "type": "place"
+    },
+    {
+      "name": "Massachusetts",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter and Lars and the Real Girl",
+      "summary": "Hosts introduce the show and joke about a real doll, then discuss the film Lars and the Real Girl, in which a lonely man has a realistic doll he treats as a girlfriend.",
+      "topics": [
+        "Lars and the Real Girl",
+        "real dolls",
+        "sex dolls"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "David Levy and predicted human-robot marriages",
+      "summary": "Chuck describes David Levy's paper, drawing on robotics, philosophy and sexology, which predicts legally recognized human-robot marriages, starting possibly with Massachusetts. Another roboticist is cited as predicting robot sex within a few decades.",
+      "topics": [
+        "robot marriage",
+        "David Levy",
+        "sexology",
+        "robot sex"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Lifelike robot skin and facial expressions",
+      "summary": "The hosts discuss lifelike robot skin developed by a former Disney roboticist that wrinkles and bunches, allowing facial expressions and realistic emotion.",
+      "topics": [
+        "lifelike robot skin",
+        "robot facial expressions",
+        "android realism"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Robot rights debate",
+      "summary": "The hosts discuss the robot rights movement, with Japan, South Korea and Europe mentioned as leaders, and compare it to the history of animal rights.",
+      "topics": [
+        "robot rights",
+        "animal rights",
+        "Japan robotics",
+        "South Korea robots"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Abuse of robots, military robots, and liability",
+      "summary": "The hosts consider abuse of lifelike robots and the US plan to supplement battalions with robots. They use a Mrs. Doubtfire household robot example to ask who is responsible when a robot spills coffee or is struck in response.",
+      "topics": [
+        "robot abuse",
+        "military robots",
+        "robot liability",
+        "household robots",
+        "robot rights"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Asimov's Three Laws and robot safety",
+      "summary": "Chuck reads Isaac Asimov's Three Laws of Robotics from the story Runaround in I, Robot. They note Asimov used the laws to explore their limits, and discuss early industrial robot deaths, the risks of learning robots, and how to program morality.",
+      "topics": [
+        "Three Laws of Robotics",
+        "Isaac Asimov",
+        "industrial robot accidents",
+        "learning robots",
+        "robot morality"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6390,
+    "output_tokens": 1764
+  }
+}

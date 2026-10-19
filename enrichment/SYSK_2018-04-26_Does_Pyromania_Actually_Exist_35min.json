@@ -1,0 +1,212 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-04-26_Does_Pyromania_Actually_Exist_35min.txt",
+  "title": "Does Pyromania Actually Exist?",
+  "date": "2018-04-26",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/does-pyromania-actually-exist",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e31233b2-bda3-45e2-a591-ae2800647c3d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e31233b2-bda3-45e2-a591-ae2800647c3d/transcript?format=TextWithTimestamps&t=1700543763",
+  "summary": "Josh and Chuck mark the show's tenth anniversary by examining whether pyromania, a psychiatric impulse control disorder marked by deliberate fire setting, actually exists as a distinct diagnosis. They walk through DSM-IV criteria, the difference between pyromania, pyrophilia, arson and general fire setting, and how diagnosis has shifted over 150 years. They cite studies on arsonists (Lindbergh's Finnish records review, Grant and Kim's 21 diagnosed subjects) and a case where SPECT imaging and anticonvulsant treatment helped. They also discuss the prevalence estimate of about 1.1 percent, the link to firefighting, the Sparky arsonist case, and treatment options. The episode closes with thanks to listeners and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "pyromania",
+    "fire setting",
+    "impulse control disorder",
+    "arson",
+    "pyrophilia",
+    "DSM-IV criteria",
+    "psychiatric diagnosis history",
+    "fire starting behavior in children",
+    "McDonald triad",
+    "SPECT imaging case study",
+    "anticonvulsant treatment",
+    "selective serotonin reuptake inhibitors",
+    "firefighters and pyromania",
+    "Sparky arsonist",
+    "arson statistics",
+    "kleptomania comparison",
+    "Stuff You Should Know tenth anniversary",
+    "Freud psychosexual theory",
+    "insanity defense",
+    "Finland arsonist study"
+  ],
+  "entities": [
+    {
+      "name": "Pyromania",
+      "type": "other"
+    },
+    {
+      "name": "Pyrophilia",
+      "type": "other"
+    },
+    {
+      "name": "Arson",
+      "type": "other"
+    },
+    {
+      "name": "DSM-IV",
+      "type": "work"
+    },
+    {
+      "name": "Sigmund Freud",
+      "type": "person"
+    },
+    {
+      "name": "Nina Lindberg",
+      "type": "person"
+    },
+    {
+      "name": "John Grant",
+      "type": "person"
+    },
+    {
+      "name": "John Leonard Orr",
+      "type": "person"
+    },
+    {
+      "name": "Def Leppard",
+      "type": "organization"
+    },
+    {
+      "name": "Pyromania (album)",
+      "type": "work"
+    },
+    {
+      "name": "Finland",
+      "type": "place"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "Sparky",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Tenth anniversary opening banter",
+      "summary": "The hosts celebrate the show's tenth anniversary, joke about their hangovers, and mention Def Leppard's album Pyromania as the lead-in to the topic.",
+      "topics": [
+        "Stuff You Should Know anniversary",
+        "Def Leppard Pyromania"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Childhood fascination with fire",
+      "summary": "The hosts share childhood fire-play stories, and Chuck notes that messing with fire in small ways is a common part of development.",
+      "topics": [
+        "childhood fire play",
+        "fire fascination in kids",
+        "playing with fire"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "DSM-IV criteria for pyromania",
+      "summary": "The hosts go through the DSM-IV criteria: deliberate fires set more than once, tension before and pleasure or relief after, fascination with fire, no sexual gratification (pyrophilia is a separate disorder), no other motivation such as money, revenge or ideology, and no impaired judgment or other disorder explaining the behavior.",
+      "topics": [
+        "DSM-IV criteria",
+        "pyromania diagnosis",
+        "pyrophilia",
+        "fire setting motivations",
+        "insanity defense"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Diagnosis history and fire setting versus arson",
+      "summary": "Fire setting is an umbrella behavior, arson is a crime and pyromania is a diagnosis. Prevalence is hard to pin down because samples skew toward people jailed for arson. Diagnostic views have swung back and forth over 150 years depending on whether society sees the behavior as uncontrollable or as a failure of control.",
+      "topics": [
+        "arson vs pyromania",
+        "history of pyromania diagnosis",
+        "prevalence of pyromania",
+        "personal accountability and mental illness"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Arsonist studies in Finland and the United States",
+      "summary": "A Finnish review of 600 male arsonists found most had mental disorders and 68 percent were drunk, with only 12 meeting the DSM criteria. A study of 21 clinically diagnosed people (11 men, 10 women) reported pre-fire arousal and relief afterward, with immediate regret, and seven of 21 considered suicide to control the behavior. The hosts compare it to kleptomania and gambling.",
+      "topics": [
+        "Finland arsonist study",
+        "Lindberg review",
+        "Grant and Kim study",
+        "pyromania symptoms",
+        "suicidal ideation in fire setters",
+        "kleptomania comparison"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Childhood warning signs and treatment",
+      "summary": "The hosts discuss the McDonald triad of fire setting, bedwetting and animal cruelty as childhood warning signs, caution that these do not predict serial killing, and then cover treatment: ongoing psychiatric care, behavioral therapy, SSRIs and anticonvulsants. A 2006 letter describes a patient whose SPECT scan showed low blood flow in the left inferior frontal region and who improved with therapy and an anticonvulsant.",
+      "topics": [
+        "McDonald triad",
+        "childhood warning signs",
+        "pyromania treatment",
+        "SSRIs",
+        "anticonvulsants",
+        "SPECT imaging case",
+        "John Grant letter 2006"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Firefighters, Sparky the arsonist, and arson statistics",
+      "summary": "The hosts note a link between pyromania and firefighting and fire watching, and describe Sparky, a California fire captain who set fires to distract crews and killed four people. They cite about 62,000 US arsons a year, roughly a billion dollars in losses, and a reported fire every hour in Australia. They plan a future episode on arson investigation.",
+      "topics": [
+        "firefighters and pyromania",
+        "Sparky serial arsonist California",
+        "arson statistics US",
+        "arson investigation",
+        "fire watching"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:35:00",
+      "kind": "outro",
+      "title": "Thanks and sign-off",
+      "summary": "The hosts thank listeners for ten years, mention social media and the website, and sign off.",
+      "topics": [
+        "listener thanks",
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11454,
+    "output_tokens": 2487
+  }
+}

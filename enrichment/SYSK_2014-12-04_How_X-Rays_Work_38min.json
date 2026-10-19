@@ -1,0 +1,197 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-12-04_How_X-Rays_Work_38min.txt",
+  "title": "How X-Rays Work",
+  "date": "2014-12-04",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-x-rays-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1086af52-4cdc-4869-a11b-ae280092749f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1086af52-4cdc-4869-a11b-ae280092749f/transcript?format=TextWithTimestamps&t=1700543868",
+  "summary": "Josh and Chuck explain how X-rays work, starting with their accidental discovery by German physicist Wilhelm Röntgen (who named them X-rays and later won the first Nobel Prize in physics), then covering the electromagnetic spectrum, how photons interact with atoms, why bones show up on X-ray images while soft tissue does not, how X-ray machines generate X-rays with a cathode, anode and tungsten target, contrast media, the types of X-ray imaging (CT, mammography, fluoroscopy, standard radiography), radiation risks and typical dose amounts, and other uses of X-rays. The episode ends with listener mail about a Vancouver acupuncturist's neurotrophic stimulation therapy for PTSD.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "X-rays",
+    "how X-rays work",
+    "Wilhelm Röntgen",
+    "X-ray discovery",
+    "electromagnetic spectrum",
+    "photons",
+    "electron orbitals",
+    "X-ray imaging",
+    "radiography",
+    "CT scan",
+    "mammography",
+    "fluoroscopy",
+    "contrast media",
+    "barium",
+    "X-ray tube",
+    "cathode and anode",
+    "ionizing radiation",
+    "radiation exposure",
+    "millisieverts",
+    "X-ray risks",
+    "cancer risk from radiation",
+    "X-ray astronomy",
+    "PTSD treatment",
+    "neurotrophic stimulation therapy",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Wilhelm Röntgen",
+      "type": "person"
+    },
+    {
+      "name": "Siemens",
+      "type": "organization"
+    },
+    {
+      "name": "Balkan War",
+      "type": "event"
+    },
+    {
+      "name": "Last Door Recovery Society",
+      "type": "organization"
+    },
+    {
+      "name": "Tom Clancy",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck joke about the show, a Saved by the Bell movie, a Brittany Murphy biopic, and bumping into John Cryer, before turning to the topic of X-rays.",
+      "topics": [
+        "banter",
+        "biopics"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Discovery of X-rays",
+      "summary": "The hosts discuss their own experiences with X-rays and bone injuries, then describe Wilhelm Röntgen's accidental discovery while testing whether cathode rays could pass through glass, his wife's hand image, his naming of X-rays and Nobel Prize, and early use in the Balkan War.",
+      "topics": [
+        "X-ray discovery",
+        "Wilhelm Röntgen",
+        "cathode rays",
+        "Nobel Prize physics",
+        "Balkan War X-rays"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Electromagnetic spectrum and photons",
+      "summary": "X-rays are explained as part of the electromagnetic spectrum between gamma rays and ultraviolet, differing from visible light and radio waves by frequency and wavelength. Photons carry this energy, and the hosts discuss how electrons drop between orbitals and absorb or release photon energy only when the energy matches.",
+      "topics": [
+        "electromagnetic spectrum",
+        "photons",
+        "wavelength and frequency",
+        "electron orbitals",
+        "energy absorption"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "How bones show up on X-rays",
+      "summary": "Atoms of different density absorb X-ray photons differently. Dense calcium-rich bone absorbs X-rays while soft tissue lets them pass, so the film records a silhouette of bones. The hosts compare this to prehistoric handprint stencils, and describe the negative image on the plate and the lead-shielded machine.",
+      "topics": [
+        "X-ray absorption",
+        "bone and soft tissue",
+        "radiological density",
+        "X-ray film negative",
+        "lead shielding"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "How X-ray machines generate X-rays",
+      "summary": "The machine uses a heated cathode filament that emits electrons, which are drawn across a vacuum tube to a tungsten anode, producing X-rays as electrons strike it. Chain reactions produce more X-rays, and the anode is rotated and cooled in an oil bath to handle heat. Imaging variants include CT, mammography, fluoroscopy, and standard radiography, and contrast media like barium make blood vessels and the GI tract visible.",
+      "topics": [
+        "X-ray tube",
+        "tungsten anode",
+        "cathode",
+        "vacuum tube",
+        "CT scan",
+        "mammography",
+        "fluoroscopy",
+        "contrast media",
+        "barium",
+        "standard radiography"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "X-ray health risks and radiation doses",
+      "summary": "X-rays ionize atoms, which can cause cellular damage, mutations, cancer, and birth defects, so pregnant women should avoid them. Background radiation is noted, with typical exposure values for dental panoramas, chest X-rays, and CT scans given in millisieverts. Early shoe-store X-ray machines are mentioned as an overexposure example, and the hosts say medical imaging should use the minimum dose needed.",
+      "topics": [
+        "radiation risk",
+        "ionizing radiation",
+        "millisieverts",
+        "radiation dose",
+        "cancer risk",
+        "shoe fitting fluoroscopes",
+        "background radiation"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Other uses of X-rays and alternatives",
+      "summary": "The hosts mention X-ray use in baggage screening, food inspection, archaeology, earth science, and X-ray telescopes in space. They note that patients should ask whether an alternative to X-rays exists, while acknowledging X-rays are safer than exploratory surgery.",
+      "topics": [
+        "baggage X-ray screening",
+        "archaeology X-ray",
+        "X-ray astronomy",
+        "X-ray alternatives",
+        "exploratory surgery"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:37:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: neurotrophic stimulation therapy for PTSD",
+      "summary": "Listener Poppy, a registered acupuncturist in Vancouver, describes his neurotrophic stimulation therapy for PTSD and addictions, which uses ear acupuncture and electro-acupuncture, and asks for donations toward a brain scanner for Last Door Recovery Society.",
+      "topics": [
+        "listener mail",
+        "PTSD treatment",
+        "neurotrophic stimulation therapy",
+        "acupuncture",
+        "neuroplasticity",
+        "Last Door Recovery Society"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:38:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and email contact information and point listeners to HowStuffWorks for more on X-rays.",
+      "topics": [
+        "show contact",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13251,
+    "output_tokens": 2499
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-06-17_How_Venus_Works_41min.txt",
+  "title": "How Venus Works",
+  "date": "2021-06-17",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-venus-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/11aaeb21-f86f-4283-a1ea-ae280016473f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11aaeb21-f86f-4283-a1ea-ae280016473f/transcript?format=TextWithTimestamps&t=1700543591",
+  "summary": "Josh and Chuck explore the planet Venus: its ancient names and observation history, its slow retrograde spin and long day, lack of a magnetic field and moon, the surface's young basalt crust and volcanoes, crushing pressure and extreme heat, the runaway greenhouse effect as a warning for Earth, Soviet and US exploration missions, upcoming Venus missions, and the phosphine biosignature controversy. The episode closes with a listener email about military POG currency.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Venus",
+    "planet Venus",
+    "Venus exploration",
+    "Soviet Venera program",
+    "Venus runaway greenhouse effect",
+    "Venus surface temperature",
+    "Venus atmosphere sulfuric acid",
+    "Venus rotation retrograde spin",
+    "Venus day length",
+    "Venus magnetic field",
+    "Venus volcanoes",
+    "Venus crust age",
+    "phosphine biosignature",
+    "Venus missions VERITAS DaVinci",
+    "Magellan probe",
+    "Pioneer Venus",
+    "Mariner 2",
+    "Earth's toxic twin",
+    "Venus names Ishtar Vesper Lucifer",
+    "POGs military currency"
+  ],
+  "entities": [
+    {
+      "name": "Venus",
+      "type": "place"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "place"
+    },
+    {
+      "name": "Venera 4",
+      "type": "other"
+    },
+    {
+      "name": "Venera 13",
+      "type": "other"
+    },
+    {
+      "name": "Vega 1 and 2",
+      "type": "other"
+    },
+    {
+      "name": "Mariner 2",
+      "type": "other"
+    },
+    {
+      "name": "Magellan",
+      "type": "other"
+    },
+    {
+      "name": "Pioneer Venus",
+      "type": "other"
+    },
+    {
+      "name": "VERITAS",
+      "type": "other"
+    },
+    {
+      "name": "DaVinci Plus",
+      "type": "other"
+    },
+    {
+      "name": "Rocket Lab",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "European Space Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Galileo",
+      "type": "person"
+    },
+    {
+      "name": "Pythagoras",
+      "type": "person"
+    },
+    {
+      "name": "Kevin McKay",
+      "type": "person"
+    },
+    {
+      "name": "The End of the World with Josh Clark",
+      "type": "work"
+    },
+    {
+      "name": "Columbia crash",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to Venus",
+      "summary": "Hosts joke about a catchy song, explain why they chose Venus as a topic, and note its paradox as a beautiful-named but hostile planet.",
+      "topics": [
+        "Venus introduction",
+        "hosts banter"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Venus names and early observation",
+      "summary": "Venus is the third brightest object in the sky; Babylonians tracked it as Ishtar; Greeks called it Vesper and Lucifer/Phosphorus until Pythagoras identified one star; Romans named it Venus; features are named after women.",
+      "topics": [
+        "Venus names Ishtar Vesper Lucifer",
+        "ancient astronomy",
+        "Venus brightness",
+        "Pythagoras"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Venus orbit, phases and size",
+      "summary": "Venus is the second planet from the Sun, terrestrial, and orbits inside Earth's orbit so it shows phases; Galileo worked this out in 1610. Venus is similar in size and mass to Earth and is nearly a perfect sphere.",
+      "topics": [
+        "Venus orbit",
+        "Venus phases",
+        "Galileo 1610",
+        "terrestrial planets"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Venus spin, magnetic field and missing moon",
+      "summary": "Venus spins very slowly, about once every 243 Earth days, the slowest in the solar system, so it is nearly spherical. Its core is similar to Earth's but its magnetic field is very weak. Theories suggest Earth's moon once orbited Venus.",
+      "topics": [
+        "Venus rotation",
+        "Venus magnetic field",
+        "Venus no moon",
+        "Venus spin theories"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Retrograde spin theories and day versus year",
+      "summary": "Venus spins backward relative to Earth. Theories include a slowdown and reversal, or a large impact knocking the planet over, or atmospheric tides. A Venus day of 243 Earth days is longer than its 225-day year; sunrise-to-sunrise is 117 Earth days.",
+      "topics": [
+        "Venus retrograde rotation",
+        "Venus day length",
+        "Venus year",
+        "atmospheric tides"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:21:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode message break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Venus surface, crust age and volcanoes",
+      "summary": "Venus is about 4.8 billion years old, but its crust is only a few hundred million years old, suggesting a global resurfacing. Venus lacks plate tectonics, its crust is mostly basalt, and it has the most volcanoes of any planet, with mountain ranges and highlands. Surface gravity is similar to Earth's.",
+      "topics": [
+        "Venus surface",
+        "Venus crust age",
+        "basalt",
+        "Venus volcanoes",
+        "Venus mountains",
+        "plate tectonics"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Venus heat and pressure",
+      "summary": "Surface pressure is about ninety times Earth's, comparable to a kilometer underwater. Surface temperatures are around 800-plus degrees Fahrenheit, hotter than Mercury despite being farther from the Sun. Kevin McKay's hot plate analogy is cited.",
+      "topics": [
+        "Venus surface temperature",
+        "Venus surface pressure",
+        "Venus hotter than Mercury",
+        "Kevin McKay"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Runaway greenhouse effect",
+      "summary": "Venus is locked in a runaway greenhouse effect: oceans boiled off, water vapor amplified warming, and UV radiation split the vapor so hydrogen escaped, leaving carbon dioxide. The hosts draw a cautionary parallel to Earth's rising CO2 from fossil fuels. Josh mentions his End of the World episode.",
+      "topics": [
+        "runaway greenhouse effect",
+        "Venus climate",
+        "carbon dioxide",
+        "climate change lessons"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:00",
+      "kind": "ad",
+      "title": "Sponsor break and self-promotion",
+      "summary": "Brief promotion for The End of the World with Josh Clark; mid-episode break.",
+      "topics": [
+        "advertisement",
+        "The End of the World with Josh Clark"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Venus atmosphere, clouds and sulfuric acid",
+      "summary": "The atmosphere is mostly carbon dioxide and nitrogen with sulfuric acid clouds and lightning. Upper clouds circulate far faster than surface winds, producing a long-lived polar vortex at the south pole.",
+      "topics": [
+        "Venus atmosphere",
+        "sulfuric acid clouds",
+        "superrotation",
+        "polar vortex"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "History of Venus exploration and phosphine controversy",
+      "summary": "Soviet Venera and Vega missions made early firsts including Venera 4 atmospheric data, Venera 7 soft landing, and Venera 13 audio; US Mariner 2, Pioneer Venus, and Magellan followed. Exploration waned after the Soviet collapse. New NASA missions VERITAS and DaVinci Plus, plus ESA, India, Russia, and Rocket Lab plans are noted. A 2020 phosphine biosignature claim was questioned, possibly confused with sulfur dioxide.",
+      "topics": [
+        "Soviet Venera program",
+        "Venus exploration history",
+        "Pioneer Venus",
+        "Magellan",
+        "VERITAS mission",
+        "DaVinci Plus",
+        "phosphine biosignature",
+        "sulfur dioxide"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:51:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: POG currency",
+      "summary": "Listener Jeff recalls Air Force exchange POGs used as change instead of pennies, and a leftover Maggie Simpson POG.",
+      "topics": [
+        "POGs",
+        "military exchange currency",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close with contact information for listener mail and the show's credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13573,
+    "output_tokens": 3053
+  }
+}

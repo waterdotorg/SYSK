@@ -1,0 +1,307 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-04-07_How_Labor_Strikes_Work_54min.txt",
+  "title": "How Labor Strikes Work",
+  "date": "2016-04-07",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-labor-strikes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/89e45bde-7f6a-4aa0-8726-ae28008505cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/89e45bde-7f6a-4aa0-8726-ae28008505cb/transcript?format=TextWithTimestamps&t=1700543839",
+  "summary": "Josh and Chuck explain how labor strikes work: the history of strikes from the late 1700s (early printers' strike in Philadelphia), union bargaining power against employer monopsony, strike types (sick-out/blue flu, slowdown, sit-down, sympathy, general, wildcat), picketing and the word \"scab,\" informational picketing and the Fight for Fifteen, sports strikes (1987 NFL replacement players, 1994 MLB strike and canceled World Series, 2004 NHL lockout, 2012 NFL referee lockout), strikebreaking tactics (Pinkerton agency, Homestead strike of 1892, Great Railroad Strike of 1877), the Wagner Act, Taft-Hartley, permanent replacement, lockouts (American Crystal Sugar lockout in Minnesota), and the 1981 PATCO air traffic controller strike under Reagan. Opens with tour announcements and closes with a listener mail segment about ship name prefixes.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "labor strikes",
+    "how strikes work",
+    "labor unions",
+    "strike history",
+    "picketing",
+    "scab",
+    "strikebreaking",
+    "sympathy strike",
+    "general strike",
+    "wildcat strike",
+    "sit-down strike",
+    "sick-out",
+    "blue flu",
+    "slowdown",
+    "lockout",
+    "permanent replacement",
+    "Wagner Act",
+    "Taft-Hartley Act",
+    "right to work",
+    "sports strikes",
+    "PATCO air traffic controller strike",
+    "Homestead strike",
+    "Pinkerton detectives",
+    "collective bargaining",
+    "minimum wage",
+    "Fight for Fifteen"
+  ],
+  "entities": [
+    {
+      "name": "Pinkerton Detective Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Andrew Carnegie",
+      "type": "person"
+    },
+    {
+      "name": "Homestead, Pennsylvania",
+      "type": "place"
+    },
+    {
+      "name": "Battle of Homestead",
+      "type": "event"
+    },
+    {
+      "name": "Haymarket riot",
+      "type": "event"
+    },
+    {
+      "name": "Great strike of 1877",
+      "type": "event"
+    },
+    {
+      "name": "Wagner Act",
+      "type": "work"
+    },
+    {
+      "name": "Taft-Hartley Act",
+      "type": "work"
+    },
+    {
+      "name": "National Labor Relations Board",
+      "type": "organization"
+    },
+    {
+      "name": "PATCO",
+      "type": "organization"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "NATCA",
+      "type": "organization"
+    },
+    {
+      "name": "American Crystal Sugar Company",
+      "type": "organization"
+    },
+    {
+      "name": "NFL",
+      "type": "organization"
+    },
+    {
+      "name": "MLB Players Association",
+      "type": "organization"
+    },
+    {
+      "name": "McDonald's",
+      "type": "organization"
+    },
+    {
+      "name": "Fight for Fifteen",
+      "type": "event"
+    },
+    {
+      "name": "Occupy Wall Street",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Tour announcements and opening banter",
+      "summary": "Hosts announce tour dates, including Brooklyn shows at the Bell House and ticket sales via the website, then joke about not being on strike.",
+      "topics": [
+        "tour dates",
+        "live shows",
+        "Bell House"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Strike definition and early history",
+      "summary": "The word strike's origins, early strikes such as Philadelphia printers, and how unions gave workers bargaining power against a single employer (monopsony).",
+      "topics": [
+        "history of strikes",
+        "monopsony",
+        "early unions",
+        "Philadelphia printers strike",
+        "union bargaining power"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Unions, strikes as last resort, and strike duration",
+      "summary": "Strikes as a last resort after bargaining, the need for a member vote, war chests, average strike length in the US, and comparisons with Europe.",
+      "topics": [
+        "strike vote",
+        "war chest",
+        "strike duration",
+        "collective bargaining",
+        "US vs Europe strikes"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Wildcat strikes and Blackfoot tangent",
+      "summary": "Wildcat strikes happen without union approval. The hosts digress into the Southern rock band Blackfoot.",
+      "topics": [
+        "wildcat strike",
+        "union leadership",
+        "Blackfoot band"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Grievances, contract negotiations and types of strikes",
+      "summary": "Grievances and bargaining come first; strikes usually happen during contract negotiations. Sick-outs and blue flu, slowdowns, and sit-down strikes are described.",
+      "topics": [
+        "grievance",
+        "contract negotiation",
+        "sick-out",
+        "blue flu",
+        "slowdown",
+        "sit-down strike"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Sympathy strikes and general strikes",
+      "summary": "Sympathy strikes by other unions, the 1981 PATCO strike's lack of support, and general strikes such as those in France.",
+      "topics": [
+        "sympathy strike",
+        "general strike",
+        "France strikes"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Picketing, scabs, and informational pickets",
+      "summary": "Picketing draws public support, union membership matters, the origin of the term scab, informational picketing, and the Fight for Fifteen campaign against McDonald's.",
+      "topics": [
+        "picketing",
+        "scab",
+        "informational picketing",
+        "Fight for Fifteen",
+        "minimum wage",
+        "McDonald's"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Sports strikes and lockouts in pro leagues",
+      "summary": "NFL 1987 strike and replacement players, MLB 1994 strike and canceled World Series, NHL 2004 lockout, and 2012 NFL referee lockout.",
+      "topics": [
+        "NFL strike 1987",
+        "replacement players",
+        "MLB strike 1994",
+        "NHL lockout 2004",
+        "NFL referee lockout",
+        "sports strikes"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Strikebreaking, Pinkertons, and Wagner and Taft-Hartley acts",
+      "summary": "Employers hired Pinkerton detectives; the Homestead battle; the 1877 strike; Wagner Act right to strike; Supreme Court allowing permanent replacement; Taft-Hartley limits on secondary boycotts and closed shops; right-to-work laws.",
+      "topics": [
+        "strikebreaking",
+        "Pinkerton",
+        "Homestead",
+        "Great Strike of 1877",
+        "Wagner Act",
+        "Taft-Hartley",
+        "permanent replacement",
+        "right to work"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:52:30",
+      "kind": "content",
+      "title": "Lockouts and the American Crystal Sugar lockout",
+      "summary": "Lockouts explained, Supreme Court rulings on temporary replacement, and the 2011 Minnesota American Crystal Sugar lockout.",
+      "topics": [
+        "lockout",
+        "American Crystal Sugar",
+        "union dissolution"
+      ]
+    },
+    {
+      "start": "00:52:30",
+      "end": "00:53:30",
+      "kind": "content",
+      "title": "PATCO air traffic controller strike and closing remarks",
+      "summary": "The 1981 air traffic controller strike under Reagan, firings, replacements, and outcome; hosts suggest further episodes on Flint sit-down strike and Homestead.",
+      "topics": [
+        "PATCO strike",
+        "Reagan",
+        "air traffic controllers",
+        "Flint sit-down strike"
+      ]
+    },
+    {
+      "start": "00:53:30",
+      "end": "00:54:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: ship name prefixes",
+      "summary": "A Navy lieutenant writes about ship name prefixes like USS, HMS, and SS.",
+      "topics": [
+        "listener mail",
+        "ship prefixes",
+        "USS",
+        "HMS"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:54:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts ask for listener contact and sign off.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16631,
+    "output_tokens": 2993
+  }
+}

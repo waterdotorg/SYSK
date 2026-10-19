@@ -1,0 +1,189 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-01-27_How_Comas_Work_25min.txt",
+  "title": "How Comas Work",
+  "date": "2009-01-27",
+  "duration": "25 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-comas-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ca5926b0-a2ea-4ac2-b27f-ae2800c12f54/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ca5926b0-a2ea-4ac2-b27f-ae2800c12f54/transcript?format=TextWithTimestamps&t=1700543994",
+  "summary": "Josh and Chuck explain how comas work. They open with the story of Patricia White Bull, who woke after sixteen years in a coma, and Sunny von Bulow, who remained in a coma for decades. They cover the etymology of \"coma,\" the three main brain parts (cerebrum, cerebellum, brain stem), and related altered states: vegetative state, stupor, and locked-in syndrome. They discuss causes such as brain injury, diabetes, meningitis, and drug overdose, and how doctors assess coma with the Glasgow Coma Scale and Rancho Los Amigos scale. They also cover diagnostic imaging (EEG, MRI, fMRI, CT), long-term care such as tracheotomy and physical therapy, and Adrian Owen's 2006 fMRI study on consciousness in comatose and vegetative patients. The episode ends with listener mail: corrections about dragon skin armor and EEG versus MRI for epilepsy diagnosis.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "coma",
+    "comas",
+    "how comas work",
+    "vegetative state",
+    "locked-in syndrome",
+    "stupor",
+    "altered states of consciousness",
+    "Glasgow Coma Scale",
+    "Rancho Los Amigos scale",
+    "brain stem",
+    "cerebrum",
+    "cerebellum",
+    "coma causes",
+    "diabetic coma",
+    "traumatic brain injury",
+    "EEG",
+    "fMRI",
+    "Adrian Owen",
+    "Patricia White Bull",
+    "Sunny von Bulow",
+    "tracheotomy in coma patients",
+    "consciousness meter",
+    "dragon skin armor",
+    "listener mail",
+    "medical mystery"
+  ],
+  "entities": [
+    {
+      "name": "Patricia White Bull",
+      "type": "person"
+    },
+    {
+      "name": "Sunny von Bulow",
+      "type": "person"
+    },
+    {
+      "name": "Claus von Bulow",
+      "type": "person"
+    },
+    {
+      "name": "Adrian Owen",
+      "type": "person"
+    },
+    {
+      "name": "Jean-Dominique Bauby",
+      "type": "person"
+    },
+    {
+      "name": "The Diving Bell and the Butterfly",
+      "type": "work"
+    },
+    {
+      "name": "Glasgow Coma Scale",
+      "type": "other"
+    },
+    {
+      "name": "Rancho Los Amigos scale",
+      "type": "other"
+    },
+    {
+      "name": "Cambridge University",
+      "type": "organization"
+    },
+    {
+      "name": "Dragon skin armor",
+      "type": "other"
+    },
+    {
+      "name": "Coma",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "ad",
+      "title": "Opening sponsor reads and banter",
+      "summary": "Sponsor reads for the Camry and GoDaddy, followed by hosts' banter about their bad day and a diet cherry Coke mix-up.",
+      "topics": [
+        "sponsor read",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Patricia White Bull and Sunny von Bulow",
+      "summary": "Hosts recount Patricia White Bull's sixteen-year coma after a C-section complication and her sudden waking, and compare her case with Sunny von Bulow, who remained in a coma for decades.",
+      "topics": [
+        "Patricia White Bull",
+        "Sunny von Bulow",
+        "long-term coma",
+        "coma recovery"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Coma etymology and the brain",
+      "summary": "Chuck explains that 'coma' comes from a Greek word meaning sleep, which is misleading because comatose patients do not wake. The hosts outline the cerebrum, cerebellum, and brain stem and how they communicate.",
+      "topics": [
+        "coma etymology",
+        "cerebrum",
+        "cerebellum",
+        "brain stem",
+        "brain anatomy"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Vegetative state, stupor, and locked-in syndrome",
+      "summary": "The hosts distinguish coma from the vegetative state, which has sleep-wake cycles and brainstem-driven eye movements. They mention stupor and describe locked-in syndrome, using Jean-Dominique Bauby's book as an example.",
+      "topics": [
+        "vegetative state",
+        "locked-in syndrome",
+        "stupor",
+        "altered states of consciousness",
+        "Jean-Dominique Bauby"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Causes of coma and diagnosis",
+      "summary": "Causes discussed include severe head trauma, diabetes, meningitis, and drug overdose. Doctors check alertness with the Glasgow Coma Scale and Rancho Los Amigos scale, scoring from three to fifteen, and use EEG, MRI, fMRI, and CT scans.",
+      "topics": [
+        "coma causes",
+        "traumatic brain injury",
+        "diabetic coma",
+        "Glasgow Coma Scale",
+        "EEG",
+        "fMRI",
+        "CT scan"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Long-term care and Owen's consciousness study",
+      "summary": "Long-term care includes feeding tubes, tracheotomy, and physical therapy. The hosts discuss Adrian Owen's 2006 fMRI study at Cambridge University, which found similar brain activity in a healthy person and a vegetative patient, and the link between early GCS scores and prognosis.",
+      "topics": [
+        "coma care",
+        "tracheotomy",
+        "physical therapy",
+        "Adrian Owen",
+        "consciousness meter",
+        "prognosis"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:25:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "Corrections include dragon skin armor, which was missed in the body armor episode, and a correction that EEG rather than MRI is used to diagnose epilepsy. The hosts close with a website plug and sponsor read.",
+      "topics": [
+        "listener mail",
+        "dragon skin armor",
+        "EEG and epilepsy",
+        "stuff you should have known"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9567,
+    "output_tokens": 2152
+  }
+}

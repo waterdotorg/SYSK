@@ -1,0 +1,192 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-08-23_Short_Stuff_Saturns_Rings_12min.txt",
+  "title": "Short Stuff: Saturn's Rings",
+  "date": "2023-08-23",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-saturns-rings",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c983d2c8-5f06-4446-aded-b06200fb7c85/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c983d2c8-5f06-4446-aded-b06200fb7c85/transcript?format=TextWithTimestamps&t=1713855046",
+  "summary": "Short Stuff episode on Saturn's rings, based on a HowStuffWorks article by Ian O'Neil. The hosts describe how NASA's Cassini mission (launched 1997, entered Saturn orbit 2004) burned up the probe at end of mission and flew orbits through the gap between Saturn and its inner ring. Cassini found a rain of particles falling from the rings into Saturn's atmosphere. Using gravitational tugs on the spacecraft to measure ring mass, scientists estimated the rings are young, roughly 100 to 110 million years old, rather than as old as Saturn (about 4.5 billion years). They also discuss that the rings will dissolve in about 100 million years, the atmospheric flows that complicated the mass calculations, and theories that the rings came from an icy comet or moon torn apart by Saturn's gravity. Josh promises a full episode on Saturn.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Saturn's rings",
+    "Cassini mission",
+    "Cassini-Huygens",
+    "Saturn ring age",
+    "Saturn ring dissolving",
+    "ring rain into Saturn atmosphere",
+    "Grand Finale ring-plane orbits",
+    "Saturn gravity measurement of ring mass",
+    "Saturn equatorial atmosphere winds",
+    "Cassini probe disposal",
+    "Saturn moons habitability",
+    "origin of Saturn's rings",
+    "icy comet tidal disruption",
+    "gas giants",
+    "NASA",
+    "ESA",
+    "Ian O'Neil",
+    "space exploration",
+    "Saturn"
+  ],
+  "entities": [
+    {
+      "name": "Saturn",
+      "type": "place"
+    },
+    {
+      "name": "Cassini",
+      "type": "other"
+    },
+    {
+      "name": "Huygens",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "ESA",
+      "type": "organization"
+    },
+    {
+      "name": "Ian O'Neil",
+      "type": "person"
+    },
+    {
+      "name": "Venus",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:03",
+      "kind": "intro",
+      "title": "Opening and introduction to Saturn's rings",
+      "summary": "Hosts introduce the topic, crediting Ian O'Neil's HowStuffWorks article, and say Saturn's rings will disappear in about 100 million years and are younger than thought.",
+      "topics": [
+        "Saturn's rings",
+        "ring lifespan",
+        "Ian O'Neil"
+      ]
+    },
+    {
+      "start": "00:01:03",
+      "end": "00:02:50",
+      "kind": "content",
+      "title": "Cassini mission background and probe disposal",
+      "summary": "Cassini was launched by NASA and ESA in 1997 and entered Saturn orbit in 2004. Its probe was burned up in the atmosphere, not crashed on a moon, to avoid contaminating possibly habitable moons with Earth germs.",
+      "topics": [
+        "Cassini mission",
+        "Saturn moons habitability",
+        "Cassini probe disposal",
+        "NASA",
+        "ESA"
+      ]
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:05:06",
+      "kind": "content",
+      "title": "Cassini's ring-gap flyovers and falling ring material",
+      "summary": "Cassini flew orbits through the gap between Saturn and its innermost ring, expecting empty space but finding a rain of particles falling from the rings into Saturn's atmosphere, which implied the rings are slowly dissolving.",
+      "topics": [
+        "Grand Finale ring-plane orbits",
+        "ring rain into Saturn atmosphere",
+        "Saturn ring dissolving",
+        "Saturn's rings"
+      ]
+    },
+    {
+      "start": "00:05:06",
+      "end": "00:06:04",
+      "kind": "content",
+      "title": "Ring lifespan of about 100 million years",
+      "summary": "The hosts explain the rings have about 100 million years left, which is short compared with Saturn's roughly four-billion-year age.",
+      "topics": [
+        "Saturn ring dissolving",
+        "ring lifespan",
+        "Saturn's rings"
+      ]
+    },
+    {
+      "start": "00:06:04",
+      "end": "00:06:20",
+      "kind": "content",
+      "title": "Rain rate of ring particles",
+      "summary": "Josh mentions a rate of ten tons of material raining per second and converts the figure to kilograms, noting it is a large amount that still takes about 100 million years to dissolve the rings.",
+      "topics": [
+        "ring rain into Saturn atmosphere",
+        "ring mass loss"
+      ]
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:08:07",
+      "kind": "content",
+      "title": "Weighing the rings with spacecraft gravity measurements",
+      "summary": "Scientists used the gravitational pull of the rings and moons on Cassini's trajectory, detecting tiny acceleration changes, to calculate the rings' mass. Less mass suggests younger rings.",
+      "topics": [
+        "Saturn gravity measurement of ring mass",
+        "Cassini gravity science",
+        "ring age estimation"
+      ]
+    },
+    {
+      "start": "00:08:07",
+      "end": "00:09:04",
+      "kind": "content",
+      "title": "Mass estimate discrepancy and atmospheric flows",
+      "summary": "The initial mass predictions did not match the measurements. Scientists found that large flows in Saturn's equatorial atmosphere, about 6,000 miles deep and about four percent slower than the upper clouds, were altering the spacecraft's path.",
+      "topics": [
+        "Saturn equatorial atmosphere winds",
+        "Saturn gravity measurement of ring mass",
+        "Cassini gravity science"
+      ]
+    },
+    {
+      "start": "00:09:04",
+      "end": "00:10:09",
+      "kind": "content",
+      "title": "Revised ring age estimate",
+      "summary": "Density wave measurements and the lower mass suggested the rings are lightweight and bright with little rocky material, so they are young, estimated at 100 to 110 million years. Earlier estimates ranged from 4.5 billion years down to about 30 million.",
+      "topics": [
+        "Saturn ring age",
+        "density waves",
+        "ring composition",
+        "ring age estimation"
+      ]
+    },
+    {
+      "start": "00:10:09",
+      "end": "00:11:04",
+      "kind": "content",
+      "title": "Origin theories and future Saturn episode",
+      "summary": "Possible origins include an icy comet or moon pulled apart by Saturn's gravity. Josh says a full Saturn episode is coming, and Chuck notes a planet could form rings again in future.",
+      "topics": [
+        "origin of Saturn's rings",
+        "icy comet tidal disruption",
+        "Saturn"
+      ]
+    },
+    {
+      "start": "00:11:04",
+      "end": "00:11:28",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up the short episode and the iHeartRadio credit is read.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5424,
+    "output_tokens": 2331
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-06-01_What_Causes_Inflation_47min.txt",
+  "title": "What Causes Inflation?",
+  "date": "2021-06-01",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-causes-inflation",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a32e549d-9625-472d-9aec-ae280017ef39/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a32e549d-9625-472d-9aec-ae280017ef39/transcript?format=TextWithTimestamps&t=1700543592",
+  "summary": "Josh and Chuck explain what causes inflation. They open with banter about economics being dull and a plug for a related episode, then discuss how inflation makes past prices misleading (cars, houses, movie tickets, TVs) and define inflation as a general rise in prices and a fall in the dollar's buying power. They cover the monetary theory (too much money chasing fewer goods), the opposing view that inflation comes first and money growth follows (John T. Harvey), and cost-push versus demand-pull theories, illustrated with lumber and bread examples. They explain how inflation is measured: the BLS Consumer Price Index market basket, consumer spending surveys, monthly price collection, the 1982 base index, annual inflation rate calculation, core inflation, and the Bureau of Economic Analysis index. They discuss why inflation matters (fixed incomes, Social Security tied to CPI, investments, interest rates, business uncertainty, small businesses), hyperinflation in Weimar Germany and Zimbabwe, US inflation in the 1970s and early 1980s, and Federal Reserve tools (reserve requirement, buying and selling bonds, discount rate) plus government tools (taxes, supply-side deregulation). The episode closes with a listener mail about a Girl Scout troop.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "inflation",
+    "causes of inflation",
+    "cost-push inflation",
+    "demand-pull inflation",
+    "money supply theory",
+    "Consumer Price Index",
+    "CPI market basket",
+    "Bureau of Labor Statistics",
+    "inflation measurement",
+    "annual inflation rate",
+    "core inflation",
+    "Bureau of Economic Analysis",
+    "hyperinflation",
+    "Weimar Republic Germany hyperinflation",
+    "Zimbabwe hyperinflation",
+    "1970s stagflation",
+    "Federal Reserve",
+    "reserve requirement",
+    "open market bond sales",
+    "discount rate",
+    "supply-side economics",
+    "buying power of the dollar",
+    "Social Security COLA",
+    "lumber shortage",
+    "inflation calculators",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Bureau of Labor Statistics",
+      "type": "organization"
+    },
+    {
+      "name": "Consumer Price Index",
+      "type": "other"
+    },
+    {
+      "name": "Bureau of Economic Analysis",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Reserve",
+      "type": "organization"
+    },
+    {
+      "name": "Weimar Republic",
+      "type": "place"
+    },
+    {
+      "name": "Zimbabwe",
+      "type": "place"
+    },
+    {
+      "name": "John T. Harvey",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin Applebaum",
+      "type": "person"
+    },
+    {
+      "name": "Richard Nixon",
+      "type": "person"
+    },
+    {
+      "name": "Velveeta",
+      "type": "other"
+    },
+    {
+      "name": "Girl Scouts",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "The hosts joke about economics being dull, mention a related episode and a Thelma and Louise comparison, and introduce inflation as a topic people fear right now.",
+      "topics": [
+        "inflation fears",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Old prices versus today and inflation adjustment",
+      "summary": "The hosts compare past prices for cars, houses, movie tickets and TVs, and explain that inflation calculators are needed to compare them. They define inflation as a general rise in overall prices of goods and services.",
+      "topics": [
+        "inflation calculator",
+        "historical prices",
+        "inflation definition",
+        "color TV price history"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Money supply theory and the opposing view",
+      "summary": "They explain the theory that too much money chasing fewer goods raises prices. They then present John T. Harvey's view that prices rise first and money supply growth follows, and note that economists disagree.",
+      "topics": [
+        "money supply theory",
+        "too much money",
+        "John T. Harvey",
+        "monetary explanations of inflation",
+        "economists disagree"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Cost-push versus demand-pull theories",
+      "summary": "Cost-push is explained as rising input costs such as labor, raw materials, and fuel, illustrated with the lumber shortage. Demand-pull is explained as rising demand for finished goods, illustrated with housing and bread. The hosts note that a healthy economy is linked to demand-pull while supply-chain breakdowns are linked to cost-push.",
+      "topics": [
+        "cost-push inflation",
+        "demand-pull inflation",
+        "lumber shortage",
+        "housing market prices",
+        "bread and wheat example",
+        "supply chain"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:19:30",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-episode break before the measurement discussion.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "How inflation is measured",
+      "summary": "The hosts describe the BLS Consumer Price Index market basket of roughly 80,000 items in eight categories, built from spending surveys of 24,000 families and 12,000 spending diaries and priced monthly. They explain the index base year of 1982 and how the annual inflation rate is calculated. They also note core inflation and the Bureau of Economic Analysis index that accounts for substitution.",
+      "topics": [
+        "Consumer Price Index",
+        "CPI market basket",
+        "Bureau of Labor Statistics",
+        "annual inflation rate calculation",
+        "core inflation",
+        "Bureau of Economic Analysis",
+        "substitution effect",
+        "inflation measurement"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Why inflation matters",
+      "summary": "The hosts cover effects on fixed incomes and pensions, Social Security being tied to CPI, the lower buying power of investments, higher interest rates on loans, business uncertainty, and the squeeze on small businesses such as Emily's soap company, which can lead to lower employment.",
+      "topics": [
+        "fixed income",
+        "Social Security inflation adjustment",
+        "interest rates and inflation",
+        "small business pricing",
+        "inflation and employment",
+        "buying power of dollar"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Hyperinflation and 1970s US inflation",
+      "summary": "They discuss hyperinflation in the Weimar Republic of Germany and in Zimbabwe, then US inflation in the 1970s and early 1980s, which the hosts link to the oil embargo and to President Nixon's economic policies. They mention the Federal Reserve stepping in and the resulting recession.",
+      "topics": [
+        "hyperinflation",
+        "Weimar Republic",
+        "Zimbabwe hyperinflation",
+        "1970s inflation",
+        "oil embargo",
+        "Nixon economic policy",
+        "Great Inflation"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Federal Reserve and government tools to control inflation",
+      "summary": "They explain that the Fed does not simply print money and describe its tools: lowering reserve requirements, buying and selling bonds, and changing the discount rate. They also cover government tools such as raising taxes and supply-side deregulation, noting the hosts' skepticism about supply-side economics.",
+      "topics": [
+        "Federal Reserve tools",
+        "reserve requirement",
+        "open market operations",
+        "bond sales",
+        "discount rate",
+        "taxes and inflation",
+        "supply-side economics",
+        "reaganomics"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:45:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Girl Scouts",
+      "summary": "A listener named Caroline from Minnesota writes about her multi-level Girl Scout troop, which is funded by cookie sales and gives older girls leadership roles, and about her husband's Boy Scout experience.",
+      "topics": [
+        "listener mail",
+        "Girl Scouts",
+        "cookie sales"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode and remind listeners how to send listener mail.",
+      "topics": [
+        "sign-off",
+        "listener mail contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15595,
+    "output_tokens": 2934
+  }
+}

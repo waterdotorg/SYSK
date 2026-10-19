@@ -1,0 +1,204 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-05-03_Short_Stuff_Dunbars_Number_15min.txt",
+  "title": "Short Stuff: Dunbar's Number",
+  "date": "2023-05-03",
+  "duration": "15 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-dunbars-number",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5ab14a98-8da8-4b0c-b843-aff1011bcf9b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5ab14a98-8da8-4b0c-b843-aff1011bcf9b/transcript?format=TextWithTimestamps&t=1714077865",
+  "summary": "Short Stuff episode on Dunbar's number. Josh and Chuck open with a Seinfeld reference about making friends in your thirties, then Josh explains Robin Dunbar's proposed cognitive limit of about 150 stable social relationships, derived from the neocortex-to-group-size ratio in primate studies. They cover the layered numbers (5, 15, 50, 150, 500, 1500), which are all factors of five, and examples of groups said to cluster near 150 such as military units, villages, and Christmas card lists. They discuss the Swedish Tax Authority capping office sizes at 150, critiques that the number is unreliable, the shift from a bell curve to a power law, the wide confidence interval of contacts, online gaming friendships, and why the research matters for demography. Chuck shares a personal anecdote about a Los Angeles pool party with old and new friends.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Dunbar's number",
+    "Robin Dunbar",
+    "social network size",
+    "cognitive limit on friends",
+    "150 friends rule",
+    "neocortex size and group size",
+    "primate social groups",
+    "power law vs bell curve",
+    "social circles layers",
+    "Swedish Tax Authority office size",
+    "online friendships",
+    "making friends as adults",
+    "friendship research critique"
+  ],
+  "entities": [
+    {
+      "name": "Robin Dunbar",
+      "type": "person"
+    },
+    {
+      "name": "Dunbar's number",
+      "type": "other"
+    },
+    {
+      "name": "Swedish Tax Authority",
+      "type": "organization"
+    },
+    {
+      "name": "BBC",
+      "type": "organization"
+    },
+    {
+      "name": "Seinfeld",
+      "type": "work"
+    },
+    {
+      "name": "Oxford University",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:20",
+      "kind": "intro",
+      "title": "Opening banter and Seinfeld reference",
+      "summary": "Hosts open the show and reference a Seinfeld episode about how hard it is to make new friends in your thirties. Josh suggests people max out their friend group by then.",
+      "topics": [
+        "making friends as adults",
+        "Seinfeld"
+      ]
+    },
+    {
+      "start": "00:01:20",
+      "end": "00:02:33",
+      "kind": "content",
+      "title": "Chuck's experience making friends later in life",
+      "summary": "Chuck says he has made many new friends in his thirties and forties, many through his job, and calls himself a friend collector. Josh says he keeps his circle small.",
+      "topics": [
+        "making friends as adults",
+        "friendship personality differences"
+      ]
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:04:08",
+      "kind": "content",
+      "title": "Introducing Robin Dunbar and the 150 number",
+      "summary": "Josh introduces Oxford anthropologist Robin Dunbar, who proposed that the size of a species' social group could be predicted from neocortex size. This led to the figure of about 150 for humans.",
+      "topics": [
+        "Robin Dunbar",
+        "Dunbar's number",
+        "neocortex size and group size"
+      ]
+    },
+    {
+      "start": "00:04:08",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Primate studies and the neocortex ratio",
+      "summary": "Chuck explains that Dunbar started with primate studies, relating neocortex size relative to body size to the number of individuals a group can manage. Josh adds that the method extrapolated those findings to humans.",
+      "topics": [
+        "primate social groups",
+        "neocortex size and group size",
+        "cognitive load of social life"
+      ]
+    },
+    {
+      "start": "00:04:54",
+      "end": "00:06:10",
+      "kind": "content",
+      "title": "Evidence for the 150 group size",
+      "summary": "Dunbar examined working groups, factories, military squadrons, ancient English villages and Christmas card lists, finding groups tend to stop near 150 and split or become unwieldy beyond that.",
+      "topics": [
+        "150 friends rule",
+        "military squadron size",
+        "Christmas card list",
+        "group size evidence"
+      ]
+    },
+    {
+      "start": "00:06:10",
+      "end": "00:07:18",
+      "kind": "content",
+      "title": "Layered social circles",
+      "summary": "Josh describes Dunbar's layered numbers, all factors of five: about 5 loved ones, 15 good friends, 50 friends, 150 meaningful contacts, 500 acquaintances and 1500 recognizable people. The layers are not fixed and people can move between them.",
+      "topics": [
+        "social circles layers",
+        "Dunbar's number",
+        "five loved ones",
+        "social network tiers"
+      ]
+    },
+    {
+      "start": "00:07:18",
+      "end": "00:08:16",
+      "kind": "content",
+      "title": "Variation by personality and gender, and the Swedish Tax Authority",
+      "summary": "Chuck notes extroverts may have more acquaintances and that women may have fewer good friends than men. He cites a BBC article saying the Swedish Tax Authority limits offices to about 150 people. Josh jokes that this ignores employees' lives outside work.",
+      "topics": [
+        "Swedish Tax Authority office size",
+        "gender differences in friendship",
+        "BBC article",
+        "extroversion and social networks"
+      ]
+    },
+    {
+      "start": "00:08:16",
+      "end": "00:10:07",
+      "kind": "content",
+      "title": "Criticism, power law and confidence interval",
+      "summary": "Hosts say some reject the theory entirely. Follow-up studies gave numbers such as 290 and 611. Josh explains critics argue the data follows a power law rather than a bell curve, and one study's 95 percent interval ran from 4 to 520 contacts.",
+      "topics": [
+        "power law vs bell curve",
+        "Dunbar's number criticism",
+        "replication of studies",
+        "confidence interval"
+      ]
+    },
+    {
+      "start": "00:10:07",
+      "end": "00:11:48",
+      "kind": "content",
+      "title": "Online friendships and why the number matters",
+      "summary": "Chuck notes social media changes what counts as a friend, with younger people counting online gaming contacts. Josh says Dunbar sees similar limits online, and explains that predicting group size could help demographers count hard-to-reach groups such as crime victims and the homeless, though the number is not holding up in every case.",
+      "topics": [
+        "online friendships",
+        "social media friends",
+        "gaming networks",
+        "demography applications"
+      ]
+    },
+    {
+      "start": "00:11:48",
+      "end": "00:14:16",
+      "kind": "content",
+      "title": "Chuck's Los Angeles pool party",
+      "summary": "Chuck describes a spring break party he threw in the Hollywood Hills, inviting a close friends list and a wider fringe list of colleagues and acquaintances. Old and new friends mixed well, and a friend, Josh Beerman, arrived with a new baby.",
+      "topics": [
+        "personal anecdote",
+        "Los Angeles",
+        "friend lists"
+      ]
+    },
+    {
+      "start": "00:14:16",
+      "end": "00:14:22",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the Short Stuff episode.",
+      "topics": [
+        "sign-off"
+      ]
+    },
+    {
+      "start": "00:14:22",
+      "end": "00:14:30",
+      "kind": "ad",
+      "title": "Network credit",
+      "summary": "Closing credit that the show is an iHeartRadio production.",
+      "topics": [
+        "iHeartRadio credit"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6261,
+    "output_tokens": 2446
+  }
+}

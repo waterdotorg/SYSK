@@ -1,0 +1,149 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-11-10_Short_Stuff_Your_Dirty_Bed_12min.txt",
+  "title": "Short Stuff: Your Dirty Bed",
+  "date": "2021-11-10",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-your-dirty-bed",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/01f4d69c-1d90-4b72-a656-ae280002c272/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/01f4d69c-1d90-4b72-a656-ae280002c272/transcript?format=TextWithTimestamps&t=1700539649",
+  "summary": "Short Stuff episode on how dirty human beds are microbially, based on NC State University research. Josh and Chuck note that human beds contain bacteria from our own bodies (oral, skin, fecal). They contrast this with chimpanzee nests: chimps build fresh nests every night, and a study of 41 chimpanzee nests in Tanzania (15 vacuumed) found mostly environmental bacteria and no fecal bacteria typical of chimp feces, making chimps cleaner in bed than humans. The hosts discuss sleeping naked, a friend's house-fire story, and the Zippy the Chimp lovey tangent. The study is credited as \"The Ecology of Sleeping\" from NC State.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "human bed microbiome",
+    "bed sheet bacteria",
+    "fecal bacteria in bed",
+    "chimpanzee nests",
+    "chimpanzee sleep habits",
+    "NC State University research",
+    "Tanzania chimpanzee study",
+    "microbial biodiversity",
+    "how often to change sheets",
+    "sleeping naked",
+    "bed hygiene",
+    "primate microbiome",
+    "Zippy the Chimp",
+    "lovey stuffed animals"
+  ],
+  "entities": [
+    {
+      "name": "NC State University",
+      "type": "organization"
+    },
+    {
+      "name": "chimpanzees",
+      "type": "other"
+    },
+    {
+      "name": "Tanzania",
+      "type": "place"
+    },
+    {
+      "name": "Zippy the Chimp",
+      "type": "other"
+    },
+    {
+      "name": "Corduroy the Bear",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and the bed-cleanliness premise",
+      "summary": "Hosts banter briefly, then introduce the question of how gross human beds are, noting most people change sheets about once a week.",
+      "topics": [
+        "bed hygiene",
+        "how often to change sheets"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Human bed microbes",
+      "summary": "Hosts explain that people shed trillions of microbes nightly, including oral, skin, and fecal bacteria, which end up in bed. They frame the NC State research comparing human beds with primate beds.",
+      "topics": [
+        "human bed microbiome",
+        "fecal bacteria in bed",
+        "bed sheet bacteria",
+        "NC State University research"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts tease a break before returning to the chimpanzee discussion.",
+      "topics": []
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Chimpanzees build new nests nightly",
+      "summary": "Chimpanzees construct a fresh nest every day, which the hosts find surprising. The researchers wanted to know how much of a chimp nest is the animal's own microbiome versus environmental material.",
+      "topics": [
+        "chimpanzee nests",
+        "chimpanzee sleep habits",
+        "primate microbiome"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Zippy the Chimp tangent",
+      "summary": "After the break, the hosts digress into childhood lovey stuffed animals, including Zippy the Chimp and a Corduroy the Bear lovey that Chuck's mom made overalls for, and a blog gallery of knockoff lovies.",
+      "topics": [
+        "Zippy the Chimp",
+        "lovey stuffed animals"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:15",
+      "kind": "content",
+      "title": "Tanzania study findings: chimp nests are cleaner",
+      "summary": "Researchers swabbed 41 chimpanzee nests in Tanzania and vacuumed 15. They found mostly environmental bacteria, with no oral, skin, or fecal bacteria from chimps, so chimps are cleaner in bed than humans.",
+      "topics": [
+        "Tanzania chimpanzee study",
+        "chimpanzee nests",
+        "microbial biodiversity",
+        "chimpanzee sleep habits"
+      ]
+    },
+    {
+      "start": "00:10:15",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Sleeping naked and why humans bring in less outside dirt",
+      "summary": "Hosts discuss that sleeping naked leaves fecal bacteria on sheets, that chimps sleep naked, and that people change into sleepwear and avoid shoes in bed. A friend's house-fire story and Chuck's habit of sleeping on top of the covers come up.",
+      "topics": [
+        "sleeping naked",
+        "bed hygiene",
+        "fecal bacteria in bed"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:10",
+      "kind": "outro",
+      "title": "Wrap-up and credits",
+      "summary": "Hosts explain that chimp nests are rebuilt from scratch nightly, credit the NC State paper, and sign off with the show's production credit.",
+      "topics": [
+        "NC State University research",
+        "chimpanzee nests"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5103,
+    "output_tokens": 1796
+  }
+}

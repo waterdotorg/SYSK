@@ -1,0 +1,292 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-11-11_How_Patents_Work_61min.txt",
+  "title": "How Patents Work",
+  "date": "2014-11-11",
+  "duration": "61 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-patents-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b98c8313-4fcd-4776-b6b2-ae280092fff9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b98c8313-4fcd-4776-b6b2-ae280092fff9/transcript?format=TextWithTimestamps&t=1700543873",
+  "summary": "Josh and Chuck explain how patents work: the constitutional basis in Article One, Section Eight, the history of early English royal patents and the first U.S. patent to Samuel Hopkins, and how patents differ from copyrights, trademarks, service marks and trade secrets. They cover the novelty, non-obviousness and usefulness requirements, the five utility patent categories, design and plant patents, and the 20-year term. The episode also covers Edison's patent output, Jerome Lemelson and \"submarine patents,\" patent trolls and the Innovation Act debate, backlogs at the Patent and Trade Office, the application process and patent attorneys, employee-invention ownership, and the first-to-file rule. It closes with a listener mail about panic attacks and college therapy.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "patents",
+    "how patents work",
+    "patent law",
+    "U.S. patent system",
+    "Constitution intellectual property clause",
+    "utility patent",
+    "design patent",
+    "plant patent",
+    "copyright",
+    "trademark",
+    "service mark",
+    "trade secrets",
+    "novelty non-obviousness usefulness",
+    "patent application process",
+    "patent trolls",
+    "submarine patents",
+    "Jerome Lemelson",
+    "Thomas Edison patents",
+    "patent backlog",
+    "Patent and Trade Office",
+    "Innovation Act",
+    "first to file rule",
+    "patent attorney",
+    "gene patents",
+    "pharmaceutical patents",
+    "public domain"
+  ],
+  "entities": [
+    {
+      "name": "Samuel Hopkins",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Jefferson",
+      "type": "person"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "type": "person"
+    },
+    {
+      "name": "Mark Twain",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "Jerome Lemelson",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "type": "person"
+    },
+    {
+      "name": "Elisha Gray",
+      "type": "person"
+    },
+    {
+      "name": "Patrick Leahy",
+      "type": "person"
+    },
+    {
+      "name": "Jay Walker",
+      "type": "person"
+    },
+    {
+      "name": "Amgen",
+      "type": "organization"
+    },
+    {
+      "name": "United States Patent and Trademark Office",
+      "type": "organization"
+    },
+    {
+      "name": "Lemelson Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Invent Help",
+      "type": "organization"
+    },
+    {
+      "name": "Innovation Act",
+      "type": "work"
+    },
+    {
+      "name": "Article One, Section Eight of the U.S. Constitution",
+      "type": "work"
+    },
+    {
+      "name": "Menlo Park, New Jersey",
+      "type": "place"
+    },
+    {
+      "name": "TRIPS Agreement",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and patents in the Constitution",
+      "summary": "Josh and Chuck banter about whether either has patents, then introduce the Constitution's patent and copyright clause (Article One, Section Eight) and the goal of encouraging invention.",
+      "topics": [
+        "patents",
+        "Constitution intellectual property clause"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Early history of patents",
+      "summary": "The hosts describe the first English patent in 1449 granted by King Henry VI to John of Utynam for stained glass, royal patent abuses, and the statutes that later curbed them. They then cover the first U.S. patent to Samuel Hopkins for potash-making, the patent office's early review process, and Lincoln as the only president to hold a patent.",
+      "topics": [
+        "history of patents",
+        "English royal patents",
+        "first U.S. patent",
+        "Samuel Hopkins",
+        "Abraham Lincoln patent"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Mark Twain's patents and the U.S. Patent Office",
+      "summary": "Mark Twain's adjustable garment strap, game, and self-pasting scrapbook patents are discussed. The hosts note the early review process and the 1802 establishment of a patent office.",
+      "topics": [
+        "Mark Twain patents",
+        "patent office history"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Patents versus copyright, trademark, service mark and trade secrets",
+      "summary": "The hosts distinguish copyright (automatic on creation, lasting life plus 70 years), trademarks, trade secrets such as the Coca-Cola formula, service marks, and patents, which protect inventions for 20 years in exchange for public disclosure.",
+      "topics": [
+        "copyright",
+        "trademark",
+        "service mark",
+        "trade secrets",
+        "intellectual property types",
+        "public domain"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Patentability: novel, non-obvious, useful",
+      "summary": "The hosts explain the requirements for a patent: novelty, non-obviousness, and usefulness. Examples include the Cam-Corder patent by Jerome Lemelson, the obvious two-slot toaster, a time machine, and a doomsday laser. Patents cannot cover natural discoveries like relativity.",
+      "topics": [
+        "novelty",
+        "non-obviousness",
+        "usefulness",
+        "patentable subject matter",
+        "cam-corder"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Types of patents: utility, design, plant",
+      "summary": "The hosts describe the five categories of utility patents, the 14-year design patent for ornamental designs such as shoes and chairs, and plant patents. They discuss the gene patent debate in Australia versus the U.S. Supreme Court ruling in 2014.",
+      "topics": [
+        "utility patent",
+        "design patent",
+        "plant patent",
+        "gene patents",
+        "patent term"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Edison, Lemelson and submarine patents",
+      "summary": "Edison held 1,093 patents and ran a Menlo Park idea factory; Lemelson held 557 and was known for submarine patents, with his foundation's barcode-scanning claims ultimately rejected by a judge. The TRIPS agreement is mentioned as an effort to curb such patents.",
+      "topics": [
+        "Thomas Edison patents",
+        "Jerome Lemelson",
+        "submarine patents",
+        "patent trolling",
+        "TRIPS Agreement"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Patent trolls, Innovation Act and patent reform",
+      "summary": "The hosts discuss patent trolls and the rise of abstract software patents, the Innovation Act that passed the House and was blocked in the Senate, and the tech-versus-pharma lobbying split. They also cover Jay Walker's critique, unused patents, and the Patent Office backlog.",
+      "topics": [
+        "patent trolls",
+        "Innovation Act",
+        "patent reform",
+        "patent backlog",
+        "unused patents"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Applying for a patent",
+      "summary": "The hosts outline the patent process: searching existing patents, consulting a patent agent or attorney, filing an application with fee, the 'patent pending' status, and the required summary, preferred embodiment and claims. Fee costs and invention-help services are discussed.",
+      "topics": [
+        "patent application",
+        "patent attorney",
+        "patent pending",
+        "patent claims",
+        "invention help services"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:54:00",
+      "kind": "content",
+      "title": "Rejections, employee inventions and pharma patent blocking",
+      "summary": "The hosts cover patent rejections and resubmission, employees and company ownership of inventions, and how Amgen allegedly blocked a longer-lasting anemia drug. They also explain interference proceedings and the first-to-file rule and debunk the poor man's copyright.",
+      "topics": [
+        "patent rejection",
+        "employee inventions",
+        "Amgen anemia drug",
+        "interference",
+        "first to file",
+        "poor man's copyright"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Corporate ownership and Superman creators",
+      "summary": "The hosts discuss inventors and creators who did not profit from their work, including the Superman creators and Rudolph the Red-Nosed Reindeer, and the balance between corporations and individuals.",
+      "topics": [
+        "employee inventions",
+        "work for hire",
+        "creator compensation"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:58:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: panic attacks and college therapy",
+      "summary": "A listener writes about panic attacks in college, therapy through university health services, and encourages students to use mental health services. The hosts mention a listener from the University of Oklahoma.",
+      "topics": [
+        "listener mail",
+        "panic attacks",
+        "college mental health services"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:01:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to share patent ideas and contact the show through social media and email, then sign off.",
+      "topics": [
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19137,
+    "output_tokens": 3194
+  }
+}

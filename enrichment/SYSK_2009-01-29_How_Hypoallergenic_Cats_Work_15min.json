@@ -1,0 +1,155 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-01-29_How_Hypoallergenic_Cats_Work_15min.txt",
+  "title": "How Hypoallergenic Cats Work",
+  "date": "2009-01-29",
+  "duration": "15 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-hypoallergenic-cats-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3243a8de-12e8-4049-8f64-ae2800c129a1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3243a8de-12e8-4049-8f64-ae2800c129a1/transcript?format=TextWithTimestamps&t=1700543994",
+  "summary": "Josh and Chuck discuss hypoallergenic cats. They open with banter about their own cats and Chuck's wife Emily's cat allergy and allergy shots. They explain allergic reactions as mistaken identity involving antibodies and histamines, and identify the cat allergen Fel d 1 glycoprotein, found in cat saliva and skin and even on new mattresses in a Swedish study. They cover washing cats as an impractical remedy, and the Allerca company's six-thousand-dollar hypoallergenic cat, marketed without FDA-required proof, created through selective breeding guided by a bioinformatic algorithm that picked the British Shorthair. The episode closes with listener mail from young fans Cole, Ben, and Sarah S. about flirting, toothpaste, and haiku.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "hypoallergenic cats",
+    "cat allergy",
+    "Fel d 1 glycoprotein",
+    "cat allergen",
+    "allergic reaction",
+    "histamines",
+    "immunotherapy",
+    "allergy shots",
+    "Allerca",
+    "selective breeding",
+    "bioinformatics",
+    "British Shorthair",
+    "FDA hypoallergenic labeling",
+    "pet dander",
+    "asthma and allergies",
+    "washing cats",
+    "listener mail",
+    "speciation"
+  ],
+  "entities": [
+    {
+      "name": "Allerca",
+      "type": "organization"
+    },
+    {
+      "name": "Fel d 1 glycoprotein",
+      "type": "other"
+    },
+    {
+      "name": "British Shorthair",
+      "type": "other"
+    },
+    {
+      "name": "FDA",
+      "type": "organization"
+    },
+    {
+      "name": "Sweden",
+      "type": "place"
+    },
+    {
+      "name": "Emily",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and cat allergies",
+      "summary": "Hosts joke about their cats and Chuck's wife Emily, who keeps cats despite severe allergies and gets allergy shots. They note that about a third of cat-allergic people keep cats and that 15 to 30 percent of Americans have a cat allergy.",
+      "topics": [
+        "cat allergy",
+        "allergy shots",
+        "immunotherapy",
+        "pet ownership"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "How allergic reactions work",
+      "summary": "An allergic reaction is explained as mistaken identity: the immune system produces antibodies against a harmless substance, releasing histamines that cause watery eyes, sneezing, and other symptoms.",
+      "topics": [
+        "allergic reaction",
+        "histamines",
+        "antibodies",
+        "immune system"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Fel d 1 cat allergen",
+      "summary": "The cat allergen Fel d 1 glycoprotein is secreted through cat skin and saliva, is smaller than dust, and spreads widely. A Swedish study found it on brand-new mattresses in a store. Its role in cat hair and dander is also discussed.",
+      "topics": [
+        "Fel d 1 glycoprotein",
+        "cat allergen",
+        "pet dander",
+        "allergen transfer"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Washing cats as a remedy",
+      "summary": "Washing cats twice a week is mentioned as an allergy remedy, but the hosts note cats often resist baths and may scratch or bite, so it is not a practical course of action.",
+      "topics": [
+        "washing cats",
+        "allergy remedies"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Allerca hypoallergenic cat",
+      "summary": "Allerca sells a hypoallergenic cat for about six thousand dollars, with an eight-thousand-dollar faster option after a waiting list. Hypoallergenic labeling does not require proof under FDA rules. Allerca's own study is described as unconvincing. The cat was produced by selective breeding guided by a bioinformatic algorithm that pointed to the British Shorthair, which still carries a different version of the protein.",
+      "topics": [
+        "Allerca",
+        "hypoallergenic cats",
+        "FDA hypoallergenic labeling",
+        "selective breeding",
+        "bioinformatics",
+        "British Shorthair",
+        "speciation"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from young fans",
+      "summary": "Cole, age 12, wrote about the flirting episode; Ben, 15, from England wrote a haiku about snowfall after enjoying the toothpaste episode; and Sarah S., 11, sent a rhyming haiku about running. The hosts mention a youth-size T-shirt and give the listener mail address.",
+      "topics": [
+        "listener mail",
+        "haiku",
+        "flirting episode",
+        "fan mail"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:19:40",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode, repeating the sponsor line and the camera tagline.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6412,
+    "output_tokens": 1829
+  }
+}

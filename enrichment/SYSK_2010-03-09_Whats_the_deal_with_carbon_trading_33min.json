@@ -1,0 +1,231 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-03-09_Whats_the_deal_with_carbon_trading_33min.txt",
+  "title": "What's the deal with carbon trading?",
+  "date": "2010-03-09",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-carbon-trading",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/892b2cad-2c9a-4662-97fb-ae2800b93cdc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/892b2cad-2c9a-4662-97fb-ae2800b93cdc/transcript?format=TextWithTimestamps&t=1700543967",
+  "summary": "Josh and Chuck explain carbon trading (cap and trade): how a cap sets an emissions limit and credits can be traded, with penalties for exceeding it. They cover the failed U.S. cap-and-trade energy bill, the Northeast regional scheme (RGGI-style electric utilities), the European Trading Scheme born from the Kyoto Protocol, the Chicago Climate Exchange, the historical acid rain sulfur dioxide cap-and-trade program, and carbon offsets. They critique offsets as often paying for projects that would happen anyway, lack of transparency among brokers, and greenwashing examples such as Vail Resorts' renewable energy certificates and Delta's tree-planting. The episode ends with a Kiva update and listener mail about witchcraft and the host's Puritan ancestor Increase and Cotton Mather.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "carbon trading",
+    "cap and trade",
+    "carbon credits",
+    "carbon offsets",
+    "carbon emissions",
+    "Kyoto Protocol",
+    "European Trading Scheme",
+    "Chicago Climate Exchange",
+    "acid rain program",
+    "sulfur dioxide emissions",
+    "regional greenhouse gas initiative",
+    "carbon tax",
+    "greenwashing",
+    "renewable energy certificates",
+    "Terra Pass",
+    "Clean Air Campaign",
+    "Vail Resorts",
+    "Delta Airlines tree planting",
+    "Kiva micro lending",
+    "listener mail",
+    "witchcraft",
+    "Cotton Mather"
+  ],
+  "entities": [
+    {
+      "name": "Kyoto Protocol",
+      "type": "event"
+    },
+    {
+      "name": "European Trading Scheme",
+      "type": "organization"
+    },
+    {
+      "name": "Chicago Climate Exchange",
+      "type": "organization"
+    },
+    {
+      "name": "Richard Sandor",
+      "type": "person"
+    },
+    {
+      "name": "acid rain program",
+      "type": "event"
+    },
+    {
+      "name": "Terra Pass",
+      "type": "organization"
+    },
+    {
+      "name": "Clean Air Campaign",
+      "type": "organization"
+    },
+    {
+      "name": "Vail Resorts",
+      "type": "organization"
+    },
+    {
+      "name": "FPL Energy",
+      "type": "organization"
+    },
+    {
+      "name": "Delta Airlines",
+      "type": "organization"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Cotton Mather",
+      "type": "person"
+    },
+    {
+      "name": "Increase Mather",
+      "type": "person"
+    },
+    {
+      "name": "Salem witch trials",
+      "type": "event"
+    },
+    {
+      "name": "Al Gore",
+      "type": "person"
+    },
+    {
+      "name": "Darryl Vander",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and cap and trade bill setback",
+      "summary": "Hosts open the show and discuss the Senate dropping cap and trade from the energy bill, which left voluntary regional schemes such as the Western one in doubt, with California still going ahead.",
+      "topics": [
+        "cap and trade",
+        "energy bill",
+        "Senate climate legislation",
+        "California carbon market"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "How cap and trade works",
+      "summary": "Chuck and Josh explain the mechanics: a regulator sets a cap on total emissions, credits are distributed and can be banked or traded, and penalties for exceeding the cap should be larger than the credit price.",
+      "topics": [
+        "cap and trade mechanics",
+        "emissions credits",
+        "carbon market",
+        "penalties"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Northeast regional scheme and European Trading Scheme",
+      "summary": "They describe a voluntary Northeast regional cap and trade among electric utilities, then the European Trading Scheme, the first mandatory scheme, born from the Kyoto Protocol, covering about 12,000 factories and utilities, and criticisms of it including free allocations to favored industries.",
+      "topics": [
+        "Northeast regional cap and trade",
+        "European Trading Scheme",
+        "Kyoto Protocol",
+        "permit to pollute",
+        "lobbyists"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Kyoto Protocol, US position, and carbon tax",
+      "summary": "The hosts discuss the U.S. role in drafting and then not ratifying Kyoto, the Annex I and Annex II division, developing countries like China and India, the competitiveness concern, and how carbon taxes differ from cap and trade.",
+      "topics": [
+        "Kyoto Protocol",
+        "Annex I and Annex II",
+        "China and India emissions",
+        "carbon tax",
+        "US competitiveness"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Chicago Climate Exchange",
+      "summary": "Richard Sandor founded the Chicago Climate Exchange in 2003. It trades carbon credits like a commodities market, and membership is voluntary but legally binding, with a penalty of five thousand dollars per metric ton for missing targets. Prices are a few dollars per hundred tons, lower than in Europe.",
+      "topics": [
+        "Chicago Climate Exchange",
+        "Richard Sandor",
+        "carbon credit prices",
+        "binding penalties"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Acid rain program and carbon offsets",
+      "summary": "The acid rain sulfur dioxide cap and trade program is presented as a success, with emissions falling below their earlier levels and the cap lowered over time. The hosts then introduce carbon offsets, using Al Gore's home energy use and broker purchases as an example.",
+      "topics": [
+        "acid rain program",
+        "sulfur dioxide",
+        "declining caps",
+        "carbon offsets",
+        "Al Gore home energy"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Criticism of carbon offsets and greenwashing",
+      "summary": "Offsets are criticized for funding projects that would happen anyway, opaque broker fees (only about two of nine dollars reaching the project, per the Darryl Vander example), Vail Resorts claiming wind power through certificates, and Delta's tree-planting add-on. Michael Short of Clean Air Campaign is cited as an example of an offset approach that retires credits.",
+      "topics": [
+        "carbon offsets criticism",
+        "greenwashing",
+        "Vail Resorts wind power",
+        "Delta tree planting",
+        "Terra Pass",
+        "Clean Air Campaign",
+        "retiring carbon credits"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:30",
+      "kind": "listener_mail",
+      "title": "Kiva update and listener mail on witchcraft",
+      "summary": "Josh gives a Kiva team update, then a listener named Gwen shares family history linking her to Increase and Cotton Mather and Salem witch trials and her interest in Wicca.",
+      "topics": [
+        "Kiva",
+        "listener mail",
+        "Salem witch trials",
+        "Cotton Mather",
+        "witchcraft"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:33:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and direct listeners to the email address and HowStuffWorks.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11352,
+    "output_tokens": 2563
+  }
+}

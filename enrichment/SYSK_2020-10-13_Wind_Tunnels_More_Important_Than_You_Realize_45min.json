@@ -1,0 +1,244 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-10-13_Wind_Tunnels_More_Important_Than_You_Realize_45min.txt",
+  "title": "Wind Tunnels: More Important Than You Realize",
+  "date": "2020-10-13",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/wind-tunnels-more-important-than-you-realize",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3c44f50f-e621-4f6b-bcb5-ae28002c86d2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3c44f50f-e621-4f6b-bcb5-ae28002c86d2/transcript?format=TextWithTimestamps&t=1700543612",
+  "summary": "Josh Clark and Chuck Bryant open with banter about bad breath, masks, and flossing, then turn to wind tunnels. They cover how the hosts' own indoor skydiving commercial relates to vertical wind tunnels, and how most research tunnels use scaled-down models whose data is corrected with math. The episode traces early flight history: Benjamin Robbins' whirling arm, George Cayley's work on lift and drag and his glider, Frank Wenham's 1871 tunnel, and the Wright brothers' own tunnel in Dayton, Ohio. It then explains how a modern tunnel works (settling chamber, contraction cone, test section, diffuser, drive section), open versus closed circuit designs, and fans placed behind the model. Other topics include sting and balance force measurement, boundary layers, flow visualization with smoke and oil, supersonic and hypersonic tunnels, NASA Ames' large tunnel, NASCAR and Formula One tunnels, the Virginia Tech anechoic wind tunnel for wind turbine noise, and whether computational fluid dynamics will replace tunnels. The episode ends with a listener mail segment about the Wetlands club in New York.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "wind tunnels",
+    "aerodynamics",
+    "wind tunnel history",
+    "early flight",
+    "Benjamin Robbins",
+    "George Cayley",
+    "Frank Wenham",
+    "Wright brothers wind tunnel",
+    "lift and drag",
+    "wind tunnel design",
+    "closed circuit vs open circuit wind tunnel",
+    "settling chamber",
+    "test section",
+    "fan placement in wind tunnels",
+    "sting and balance force measurement",
+    "boundary layer",
+    "flow visualization",
+    "supersonic and hypersonic wind tunnels",
+    "NASA Ames wind tunnel",
+    "NASCAR wind tunnel",
+    "Formula One wind tunnel",
+    "anechoic wind tunnel wind turbine noise",
+    "computational fluid dynamics",
+    "scale models in wind tunnels",
+    "Wetlands club New York",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Benjamin Robbins",
+      "type": "person"
+    },
+    {
+      "name": "George Cayley",
+      "type": "person"
+    },
+    {
+      "name": "Frank Wenham",
+      "type": "person"
+    },
+    {
+      "name": "Wright brothers",
+      "type": "person"
+    },
+    {
+      "name": "Elmer of Malmesbury",
+      "type": "person"
+    },
+    {
+      "name": "NASA Ames Research Center",
+      "type": "organization"
+    },
+    {
+      "name": "NASCAR",
+      "type": "organization"
+    },
+    {
+      "name": "Virginia Tech",
+      "type": "organization"
+    },
+    {
+      "name": "University of Texas at Arlington",
+      "type": "organization"
+    },
+    {
+      "name": "Wetlands Preserve",
+      "type": "place"
+    },
+    {
+      "name": "Aeronautical Society of Great Britain",
+      "type": "organization"
+    },
+    {
+      "name": "Mars Rover",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and wind tunnel introduction",
+      "summary": "The hosts joke about bad breath from masks and flossing, then introduce wind tunnels and their interstitial shorts and a Toyota commercial shot in an indoor skydiving facility.",
+      "topics": [
+        "indoor skydiving",
+        "vertical wind tunnel",
+        "interstitials"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Types of wind tunnels and scale models",
+      "summary": "The hosts explain vertical and horizontal wind tunnels, use of desktop scale models with math used to correct data, and the link between wind tunnels and aerodynamics and aviation.",
+      "topics": [
+        "wind tunnels",
+        "scale models in wind tunnels",
+        "aerodynamics",
+        "vertical wind tunnel",
+        "spin testing"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Early flight and Benjamin Robbins' whirling arm",
+      "summary": "Early human flight attempts focused on flapping like birds. Benjamin Robbins used a whirling arm in 1746 and found drag and shape mattered more than flapping. Lift and drag became central ideas.",
+      "topics": [
+        "early flight",
+        "whirling arm",
+        "Benjamin Robbins",
+        "lift and drag",
+        "flapping wings",
+        "gliding"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "George Cayley and early gliders",
+      "summary": "George Cayley used his own whirling arm and identified lift as key. He built a glider flown by a coachman and later was credited with an early flying machine. The hosts mention a monk, Elmer of Malmesbury, with an early recorded flight around 1010 CE, and note that the Wright brothers are credited with engine-powered flight.",
+      "topics": [
+        "George Cayley",
+        "glider",
+        "early flight history",
+        "thrust",
+        "Elmer of Malmesbury"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Frank Wenham and the first wind tunnel",
+      "summary": "Frank Wenham of the Aeronautical Society of Great Britain built the first wind tunnel in 1871, twelve feet long with a steam-powered fan. The airflow was still choppy.",
+      "topics": [
+        "Frank Wenham",
+        "first wind tunnel",
+        "1871 wind tunnel",
+        "airfoil testing",
+        "angle of attack"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Wright brothers' wind tunnel",
+      "summary": "The Wright brothers built their own wind tunnel in Dayton, Ohio, tested many wing shapes, and finished tests by 1901. Their first powered flight came in 1903. Early tunnels had turbulent air, which led to smoother designs.",
+      "topics": [
+        "Wright brothers",
+        "Dayton Ohio",
+        "wing testing",
+        "turbulent airflow",
+        "1903 powered flight"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Anatomy of a modern wind tunnel",
+      "summary": "A modern tunnel has a settling chamber, contraction cone, test section, diffuser, and drive section. Open and closed circuit designs are described. The fan sits behind the model so air is pulled over it, which is smoother than pushing air.",
+      "topics": [
+        "settling chamber",
+        "contraction cone",
+        "test section",
+        "diffuser",
+        "drive section",
+        "open circuit",
+        "closed circuit",
+        "fan placement"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Measurement, boundary layers, and flow visualization",
+      "summary": "Models are held by stings and balances that convert forces into electrical signals. Boundary layers, viscosity, and compressibility affect results. Tunnels can simulate humidity, temperature, pressure, and icing. Smoke, oil, and high-speed cameras show airflow. Supersonic and hypersonic tunnels use compressed air bursts.",
+      "topics": [
+        "sting",
+        "balance sensors",
+        "boundary layer",
+        "viscosity",
+        "flow visualization",
+        "smoke visualization",
+        "supersonic wind tunnel",
+        "hypersonic wind tunnel",
+        "icing simulation"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Modern wind tunnel uses and future",
+      "summary": "Examples include NASA Ames' very large tunnel, Formula One and NASCAR tunnels, and a Virginia Tech anechoic tunnel with a Kevlar wall for testing wind turbine noise. The hosts discuss whether computational fluid dynamics will replace tunnels and conclude tunnels are still needed.",
+      "topics": [
+        "NASA Ames wind tunnel",
+        "NASCAR wind tunnel",
+        "Formula One wind tunnel",
+        "anechoic wind tunnel",
+        "wind turbine noise",
+        "computational fluid dynamics",
+        "future of wind tunnels"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:45:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Wetlands club",
+      "summary": "Brian from Queens writes about the Wetlands Preserve nightclub in Tribeca, open 1989 to 2001, which hosted musicians and ran an environmental activism center.",
+      "topics": [
+        "Wetlands Preserve",
+        "listener mail",
+        "Tribeca nightclub"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14896,
+    "output_tokens": 2963
+  }
+}

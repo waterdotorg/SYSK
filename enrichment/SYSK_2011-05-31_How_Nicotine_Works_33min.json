@@ -1,0 +1,229 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-05-31_How_Nicotine_Works_33min.txt",
+  "title": "How Nicotine Works",
+  "date": "2011-05-31",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-nicotine-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fd798ebc-83a7-42e5-934b-ae2800afb8a1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fd798ebc-83a7-42e5-934b-ae2800afb8a1/transcript?format=TextWithTimestamps&t=1700543942",
+  "summary": "Josh and Chuck explore nicotine: Chuck's personal smoking history and Josh's brief smoking past, the history of tobacco from early cultivation and 1600s health concerns, nicotine's chemistry as a liquid alkaloid, how it is absorbed through skin, lungs, and mucous membranes, its half-life and elimination via the liver and urine (cotinine), genetic differences in liver enzymes, effects on adrenaline, appetite, blood glucose, and metabolic rate, how nicotine drives addiction through dopamine, acetylcholine, endorphins, and glutamate, possible medical uses for Alzheimer's and Tourette syndrome, overdose risks including a prison nicotine-water anecdote, withdrawal and cravings, and a listener mail segment on strange will stipulations (the Toronto stork derby) and a Marine will story.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "nicotine",
+    "how nicotine works",
+    "tobacco history",
+    "nicotine addiction",
+    "smoking and the brain",
+    "dopamine",
+    "acetylcholine",
+    "glutamate",
+    "nicotine absorption",
+    "nicotine half-life",
+    "cotinine",
+    "nicotine overdose",
+    "nicotine withdrawal",
+    "basal metabolic rate",
+    "smoking and appetite",
+    "Alzheimer's nicotine research",
+    "Tourette syndrome nicotine patches",
+    "alkaloids",
+    "cigarette toxicity",
+    "wacky wills",
+    "Toronto stork derby",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Nicotine",
+      "type": "other"
+    },
+    {
+      "name": "Tobacco",
+      "type": "other"
+    },
+    {
+      "name": "Nicotiana tabacum",
+      "type": "other"
+    },
+    {
+      "name": "Alzheimer's disease",
+      "type": "other"
+    },
+    {
+      "name": "Tourette syndrome",
+      "type": "other"
+    },
+    {
+      "name": "R. J. Reynolds",
+      "type": "organization"
+    },
+    {
+      "name": "Chris Farley",
+      "type": "person"
+    },
+    {
+      "name": "Charles vance Millar",
+      "type": "person"
+    },
+    {
+      "name": "Toronto",
+      "type": "place"
+    },
+    {
+      "name": "Galesburg, Illinois",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and personal smoking stories",
+      "summary": "Josh and Chuck joke about the show's intro and recall their smoking histories, including Chuck's teenage purchase of cigarettes and Josh's occasional college and Europe smoking.",
+      "topics": [
+        "smoking stories",
+        "teen smoking",
+        "quitting smoking"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History of tobacco and early health concerns",
+      "summary": "The hosts discuss tobacco cultivation as early as 6000 BC, its use by Native Americans, and 1600s concerns that smoking was harmful. They also note tobacco was once thought medicinal.",
+      "topics": [
+        "tobacco history",
+        "early tobacco use",
+        "tobacco health concerns",
+        "Nicotiana tabacum"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Nicotine chemistry and absorption",
+      "summary": "Nicotine is described as a liquid alkaloid made of carbon, hydrogen, nitrogen and sometimes oxygen, making up about five percent of tobacco plant weight. Cigarettes hold 8 to 20 milligrams, but about one milligram is absorbed. Absorption occurs through skin, lungs and mucous membranes, with the lungs most efficient due to the alveoli's surface area.",
+      "topics": [
+        "nicotine chemistry",
+        "alkaloids",
+        "nicotine absorption",
+        "alveoli",
+        "snuff",
+        "smokeless tobacco"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Nicotine half-life and elimination from the body",
+      "summary": "Nicotine has a half-life of about 60 minutes. The liver breaks it down, and some is turned into cotinine, which is excreted in urine over about 24 hours. Cotinine tests and smell tests can detect use.",
+      "topics": [
+        "nicotine half-life",
+        "liver metabolism",
+        "cotinine",
+        "nicotine drug testing",
+        "urine test"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Genetics, adrenaline and appetite effects",
+      "summary": "Some people have a liver enzyme defect that makes them metabolize nicotine less effectively. Nicotine triggers adrenaline release in a biphasic way, and it raises blood glucose while blocking insulin, which reduces hunger and raises basal metabolic rate.",
+      "topics": [
+        "liver enzyme genetics",
+        "adrenaline",
+        "biphasic effects",
+        "appetite suppression",
+        "blood glucose",
+        "insulin",
+        "basal metabolic rate",
+        "weight and smoking"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Nicotine addiction and brain chemistry",
+      "summary": "Nicotine unlocks dopamine release in the reward pathway and binds to acetylcholine receptors, which increases acetylcholine activity, promoting dopamine, endorphins and glutamate. Glutamate may strengthen memory of the pleasure, reinforcing the habit.",
+      "topics": [
+        "nicotine addiction",
+        "dopamine",
+        "acetylcholine",
+        "cholinergic neurons",
+        "endorphins",
+        "glutamate",
+        "reward pathway",
+        "memory and addiction"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Possible medical uses of nicotine",
+      "summary": "Research suggests nicotine may help Alzheimer's disease, which involves loss of cholinergic neurons, by replacing or protecting them. Nicotine patches may reduce Tourette syndrome tics and outbursts. The hosts stress that cigarettes' other chemicals are what kill people.",
+      "topics": [
+        "Alzheimer's nicotine research",
+        "Tourette syndrome nicotine patches",
+        "medicinal nicotine",
+        "cigarette toxicity",
+        "cancer and emphysema from smoking"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Nicotine overdose and the prison nicotine-water story",
+      "summary": "Nicotine overdose is hard via smoking but easy for babies who eat cigarettes; three to seven cigarettes may be fatal for adults. A GQ-reported story describes a prisoner who drank nicotine-soaked water and was revived, with treatments such as ipecac and activated charcoal mentioned.",
+      "topics": [
+        "nicotine overdose",
+        "cigarette ingestion",
+        "ipecac",
+        "activated charcoal",
+        "prison escape anecdote",
+        "GQ article"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Withdrawal and cravings",
+      "summary": "Quitting causes irritability, anxiety, depression and cravings for about a month physically, with psychological cravings lasting longer. Hosts note individual variation in tolerance and craving.",
+      "topics": [
+        "nicotine withdrawal",
+        "quitting smoking",
+        "cravings",
+        "tolerance"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:33:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: wacky wills and Marine wills",
+      "summary": "A listener shares the Great Stork Derby from Charles vance Millar's will in Toronto, which offered money to the woman with the most children. Another listener notes military members must have a will.",
+      "topics": [
+        "wacky wills",
+        "Toronto stork derby",
+        "military wills",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11797,
+    "output_tokens": 2733
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-04-20_METI_Existential_Threat_Probably_Yes_44min.txt",
+  "title": "METI: Existential Threat? Probably Yes",
+  "date": "2023-04-20",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/meti-existential-threat-probably-yes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bafcf383-3a9a-49b2-b92d-afe901302003/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bafcf383-3a9a-49b2-b92d-afe901302003/transcript?format=TextWithTimestamps&t=1714101902",
+  "summary": "Josh and Chuck explain METI (Messaging to Extraterrestrial Intelligence, also called active SETI), the proactive effort to send deliberate signals to alien civilizations rather than only listening. They cover the Great Silence and Fermi paradox, the barn door argument, early proposals (Gauss's wheat fields, Lilienthal-style trench fires), the 1962 Soviet Crimea broadcast, the 1974 Arecibo Message with Frank Drake and Carl Sagan, later attempts (Zeitsev, NASA's Beatles broadcast, Dorito's ad, Joe Davis), Douglas Vakoch and the METI International group, the 2017 transmission to GJ 273b, the Beacon in the Galaxy project, criticisms (unauthorized diplomacy, Declaration of Principles, John Gertz, dark forest theory, existential risk, precautionary principle), and METI's counterarguments. Ends with a listener mail about stall speed correction.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "METI",
+    "active SETI",
+    "messaging to extraterrestrial intelligence",
+    "SETI",
+    "alien contact",
+    "Arecibo Message",
+    "Great Silence",
+    "Fermi paradox",
+    "dark forest theory",
+    "existential risk",
+    "precautionary principle",
+    "barn door argument",
+    "Douglas Vakoch",
+    "Beacon in the Galaxy",
+    "GJ 273b",
+    "Soviet 1962 Crimea radio broadcast",
+    "Breakthrough Listen",
+    "Dorito's alien ad",
+    "Joe Davis interstellar transmission",
+    "Drake equation",
+    "Carl Sagan",
+    "Frank Drake",
+    "unauthorized diplomacy",
+    "Declaration of Principles",
+    "John Gertz",
+    "Goldilocks zone exoplanets",
+    "I Love Lucy broadcast",
+    "listener mail",
+    "stall speed correction"
+  ],
+  "entities": [
+    {
+      "name": "METI",
+      "type": "organization"
+    },
+    {
+      "name": "SETI",
+      "type": "organization"
+    },
+    {
+      "name": "Arecibo Message",
+      "type": "event"
+    },
+    {
+      "name": "Arecibo Observatory",
+      "type": "place"
+    },
+    {
+      "name": "Frank Drake",
+      "type": "person"
+    },
+    {
+      "name": "Carl Sagan",
+      "type": "person"
+    },
+    {
+      "name": "Douglas Vakoch",
+      "type": "person"
+    },
+    {
+      "name": "John Gertz",
+      "type": "person"
+    },
+    {
+      "name": "Jill Tarter",
+      "type": "person"
+    },
+    {
+      "name": "Carl Friedrich Gauss",
+      "type": "person"
+    },
+    {
+      "name": "Joseph von Littrow",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Zaitsev",
+      "type": "person"
+    },
+    {
+      "name": "Joe Davis",
+      "type": "person"
+    },
+    {
+      "name": "Yuri Milner",
+      "type": "person"
+    },
+    {
+      "name": "Breakthrough Listen",
+      "type": "organization"
+    },
+    {
+      "name": "Golden Records",
+      "type": "work"
+    },
+    {
+      "name": "Dorito's",
+      "type": "organization"
+    },
+    {
+      "name": "GJ 273b",
+      "type": "place"
+    },
+    {
+      "name": "Beacon in the Galaxy",
+      "type": "work"
+    },
+    {
+      "name": "Yevpatoria RT-70 radar station",
+      "type": "place"
+    },
+    {
+      "name": "Declaration of Principles for Activities Following the Detection of Extraterrestrial Intelligence",
+      "type": "work"
+    },
+    {
+      "name": "Fermi paradox",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and plug for Inner Cosmos",
+      "summary": "Hosts banter, plug the new iHeart show Inner Cosmos, and connect the episode to earlier SETI, alien contact, and Golden Records episodes.",
+      "topics": [
+        "Inner Cosmos",
+        "SETI episodes",
+        "Golden Records"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:08:12",
+      "kind": "content",
+      "title": "What METI is and the Great Silence",
+      "summary": "METI (active SETI) is defined as proactively transmitting signals rather than passively listening. The Great Silence and Fermi paradox are introduced, with Jill Tarter's response, the barn door argument, and the precautionary principle.",
+      "topics": [
+        "METI definition",
+        "active SETI",
+        "Great Silence",
+        "Fermi paradox",
+        "barn door argument",
+        "precautionary principle"
+      ]
+    },
+    {
+      "start": "00:08:12",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Early historical proposals and the 1962 Soviet broadcast",
+      "summary": "Early ideas include Gauss's wheat-field triangles and Lilienthal's burning trenches. The first likely METI broadcast was a Soviet Crimea radar station's Morse code message in November 1962.",
+      "topics": [
+        "Gauss wheat triangles",
+        "Lilienthal trenches",
+        "1962 Soviet Crimea broadcast",
+        "early METI history"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:16:38",
+      "kind": "content",
+      "title": "Arecibo Message and the Golden Records",
+      "summary": "Frank Drake and Carl Sagan's 1974 Arecibo Message used binary code aimed at M13. The hosts note binary as a possible universal language, and mention Voyager's Golden Records (1977).",
+      "topics": [
+        "Arecibo Message",
+        "binary code",
+        "M13 cluster",
+        "Voyager Golden Records",
+        "Carl Sagan"
+      ]
+    },
+    {
+      "start": "00:16:38",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Later solo broadcasts: Zaitsev, NASA, Dorito's, Joe Davis",
+      "summary": "Survey of later attempts: Alexander Zaitsev's broadcasts, NASA's Beatles song toward Polaris, Dorito's thirty-second ad sent for six hours, and Joe Davis's artistic transmissions in 1985 and 2009.",
+      "topics": [
+        "Alexander Zaitsev",
+        "NASA Beatles broadcast",
+        "Dorito's alien ad",
+        "Joe Davis",
+        "artistic transmissions"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:22:40",
+      "kind": "content",
+      "title": "METI International and the 2017 transmission",
+      "summary": "Douglas Vakoch left SETI to found METI International after SETI refused to pursue messaging. The group's 2017 transmission included math, music, and a clock.",
+      "topics": [
+        "Douglas Vakoch",
+        "METI International",
+        "SETI internal debate",
+        "2017 METI transmission"
+      ]
+    },
+    {
+      "start": "00:22:40",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Beacon in the Galaxy and Goldilocks zone targets",
+      "summary": "The hosts discuss the 2017 message's target GJ 273b (about twelve light years away), and the JPL Beacon in the Galaxy project. Better exoplanet detection and roughly twenty Goldilocks-zone candidate planets make directed messages more feasible.",
+      "topics": [
+        "GJ 273b",
+        "Beacon in the Galaxy",
+        "Goldilocks zone",
+        "exoplanets",
+        "directed messaging"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:15",
+      "kind": "content",
+      "title": "Criticisms: unauthorized diplomacy and risk",
+      "summary": "Critics such as John Gertz call METI unauthorized diplomacy, citing the Declaration of Principles. Frank Drake was criticized after Arecibo. Critics argue international regulation is needed. Breakthrough Listen is cited as a reason to keep listening first.",
+      "topics": [
+        "unauthorized diplomacy",
+        "John Gertz",
+        "Declaration of Principles",
+        "Breakthrough Listen",
+        "METI criticism",
+        "Yuri Milner"
+      ]
+    },
+    {
+      "start": "00:31:15",
+      "end": "00:32:36",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-episode sponsor break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:32:36",
+      "end": "00:36:12",
+      "kind": "content",
+      "title": "METI counterarguments and the I Love Lucy broadcast",
+      "summary": "Proponents argue advanced civilizations may be waiting for a signal, and that Earth has already leaked TV signals such as I Love Lucy. The hosts say the leakage argument is weak because the signals are degraded and hard to detect at distance.",
+      "topics": [
+        "METI arguments",
+        "I Love Lucy broadcast",
+        "barn door rebuttal",
+        "great silence explanation",
+        "electromagnetic leakage"
+      ]
+    },
+    {
+      "start": "00:36:12",
+      "end": "00:40:24",
+      "kind": "content",
+      "title": "Dark forest theory and existential risk",
+      "summary": "The dark forest theory suggests quiet survival. Critics worry about hostile aliens, while the hosts note the debate is about uncertainty, not certainty of hostility, and point out that alien contact has had catastrophic outcomes on Earth.",
+      "topics": [
+        "dark forest theory",
+        "existential risk",
+        "alien hostility",
+        "altruism in advanced civilizations",
+        "first contact"
+      ]
+    },
+    {
+      "start": "00:40:24",
+      "end": "00:41:40",
+      "kind": "content",
+      "title": "Closing remarks on alien contact",
+      "summary": "Light closing banter about alien movie plots and the end of the alien contact series, including UFO episodes.",
+      "topics": [
+        "alien contact episodes",
+        "UFO episodes",
+        "Sleepless in Seattle"
+      ]
+    },
+    {
+      "start": "00:41:40",
+      "end": "00:43:10",
+      "kind": "listener_mail",
+      "title": "Listener mail: stall speed correction",
+      "summary": "Listener TJ corrects an earlier skydiving episode claim: stall speed refers to wing lift loss, not engine stall.",
+      "topics": [
+        "listener mail",
+        "stall speed",
+        "aviation correction",
+        "skydiving episode"
+      ]
+    },
+    {
+      "start": "00:43:10",
+      "end": "00:44:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give the email address; show credits follow.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15797,
+    "output_tokens": 3488
+  }
+}

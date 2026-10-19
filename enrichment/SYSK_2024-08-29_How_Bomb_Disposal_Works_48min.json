@@ -1,0 +1,339 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-08-29_How_Bomb_Disposal_Works_48min.txt",
+  "title": "How Bomb Disposal Works",
+  "date": "2024-08-29",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-bomb-disposal-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2588cc66-cfc8-49d9-91a1-b1d9012544cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2588cc66-cfc8-49d9-91a1-b1d9012544cd/transcript?format=TextWithTimestamps&t=1724922678",
+  "summary": "Josh and Chuck (with Kyle Houkstra's research) cover how bomb disposal developed, from 1870s Britain and Irish dynamite campaigns, Vivian Majendie's pioneering work, and New York's anarchist bomb squads, through World War I and II unexploded ordnance, the Northern Ireland Troubles, and the invention of the water-jet \"pigstick\" disruptor and robotic \"wheelbarrow\" robots. They discuss the X-ray and remote-handling workflow, IED threats, bomb suits and blast lung, bomb carriers, the low pay of bomb techs, and the ongoing danger of old munitions in Europe, Indochina, and US dumping sites. The episode closes with a Minecraft seed listener-mail correction and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "bomb disposal",
+    "EOD technicians",
+    "explosive ordnance disposal",
+    "bomb squad history",
+    "unexploded ordnance",
+    "UXO",
+    "pigstick disruptor",
+    "water disruptor",
+    "wheelbarrow robot",
+    "bomb suits",
+    "blast lung",
+    "X-ray bomb inspection",
+    "IEDs",
+    "Anarchist and Bomb Squad NYPD",
+    "Northern Ireland Troubles bombings",
+    "World War II unexploded bombs",
+    "dynamite terrorism",
+    "anti-handling devices",
+    "booby traps",
+    "Forensic Explosives Laboratory",
+    "car bombs",
+    "Camp Perry Lake Erie munitions",
+    "Minecraft seed correction listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Vivian Majendie",
+      "type": "person"
+    },
+    {
+      "name": "Giuseppe Petrosino",
+      "type": "person"
+    },
+    {
+      "name": "Anton Chigurh",
+      "type": "person"
+    },
+    {
+      "name": "Northern Ireland Troubles",
+      "type": "event"
+    },
+    {
+      "name": "Irish dynamite campaign",
+      "type": "event"
+    },
+    {
+      "name": "Saint Patrick's Cathedral bomb plot",
+      "type": "event"
+    },
+    {
+      "name": "Forensic Explosives Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Anarchist and Bomb Squad",
+      "type": "organization"
+    },
+    {
+      "name": "The Hurt Locker",
+      "type": "work"
+    },
+    {
+      "name": "No Country for Old Men",
+      "type": "work"
+    },
+    {
+      "name": "Camp Perry",
+      "type": "place"
+    },
+    {
+      "name": "Tybee Island",
+      "type": "place"
+    },
+    {
+      "name": "Minecraft",
+      "type": "work"
+    },
+    {
+      "name": "Boston Marathon bombing",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:50",
+      "kind": "intro",
+      "title": "Opening banter and The Hurt Locker",
+      "summary": "The hosts introduce the topic of bomb disposal, joke about duds and fireworks, and chat about the movie The Hurt Locker and Kathryn Bigelow's films.",
+      "topics": [
+        "bomb disposal",
+        "The Hurt Locker",
+        "Kathryn Bigelow"
+      ]
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:06:15",
+      "kind": "content",
+      "title": "Defining the job of EOD technicians",
+      "summary": "The hosts describe explosive ordnance disposal technicians, who approach unexploded bombs, identify them, and disable or remove them, and note that bombs are used by military and civilian police alike.",
+      "topics": [
+        "EOD technicians",
+        "explosive ordnance disposal",
+        "bomb disposal job"
+      ]
+    },
+    {
+      "start": "00:06:15",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Nineteenth-century origins: dynamite and Irish bombing",
+      "summary": "Bomb disposal began in Britain in the 1870s as Irish independence bombing campaigns used dynamite. Vivian Majendie pioneered the work, becoming the first head of the explosives department that later became the Forensic Explosives Laboratory.",
+      "topics": [
+        "dynamite",
+        "Irish dynamite campaign",
+        "Vivian Majendie",
+        "Forensic Explosives Laboratory",
+        "bomb disposal history"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:20",
+      "kind": "content",
+      "title": "New York anarchist bombings and early bomb squads",
+      "summary": "Anarchists in New York used dynamite, prompting the first US bomb squad in 1902 under Giuseppe Petrosino, dealing with the Mafia. The Anarchist and Bomb Squad was created in the NYPD in 1914. It uncovered a timed-fuse plot against Saint Patrick's Cathedral by letting the fuse be lit and then arresting the bombers.",
+      "topics": [
+        "New York anarchist bombings",
+        "Giuseppe Petrosino",
+        "NYPD bomb squad",
+        "Saint Patrick's Cathedral plot",
+        "timed fuse"
+      ]
+    },
+    {
+      "start": "00:12:20",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "World War I and II unexploded ordnance",
+      "summary": "Munitions fired in the World Wars left many duds across Europe. Volunteers, often from the Air Force, taught themselves to defuse them after World War I. Formal training developed in the UK and US during World War II, and Churchill pushed for better equipment in 1940.",
+      "topics": [
+        "World War I duds",
+        "World War II bomb disposal training",
+        "Churchill bomb disposal",
+        "Blitz unexploded bombs",
+        "land mines"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Anti-handling devices and booby traps",
+      "summary": "Germany used anti-handling devices that triggered if technicians tampered with fuses or wiring. The hosts explain that fuses can be magnetic, barometric, gyroscopic, timer, or radio triggered, and not just wicks. Techniques like stethoscopes, drilling, and water and steam were used to counter bombs.",
+      "topics": [
+        "anti-handling devices",
+        "booby traps",
+        "fuses",
+        "stethoscope bomb detection",
+        "water to disable bombs"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:20:20",
+      "kind": "content",
+      "title": "Disabling bomb charges with water",
+      "summary": "Hosts explain that bombs have a smaller primary explosive that sets off the larger charge, so disabling that trigger with water is easier than disabling the main explosive itself.",
+      "topics": [
+        "explosive charges",
+        "black powder detonation",
+        "disabling bombs"
+      ]
+    },
+    {
+      "start": "00:20:20",
+      "end": "00:21:40",
+      "kind": "ad",
+      "title": "Mid-episode break and correction",
+      "summary": "The hosts correct an earlier error from a Genghis Khan episode about world population, then take an ad break.",
+      "topics": [
+        "episode correction",
+        "Genghis Khan population error"
+      ]
+    },
+    {
+      "start": "00:21:40",
+      "end": "00:23:40",
+      "kind": "content",
+      "title": "The Troubles and the pigstick water disruptor",
+      "summary": "Twenty-three Royal Army Ordnance Corps specialists were killed during the Troubles in Northern Ireland. Techs returning from Vietnam and Northern Ireland pushed development. The pigstick water jet, introduced in 1971, disrupts circuitry from a distance and is still used today.",
+      "topics": [
+        "Northern Ireland Troubles",
+        "pigstick disruptor",
+        "water jet disruptor",
+        "Provisional IRA bombings",
+        "Vietnam veterans bomb techs"
+      ]
+    },
+    {
+      "start": "00:23:40",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Robots: the wheelbarrow and early disruptors",
+      "summary": "Early robots called wheelbarrows, one built from a lawnmower motor, carried disruptors and cameras and could hook ropes to move cars. About 400 were destroyed from 1972 to 1978. Hosts discuss the bombing pressure in Northern Ireland and the Europe-wide spread of bombs.",
+      "topics": [
+        "wheelbarrow robot",
+        "bomb disposal robots",
+        "car bombs in Northern Ireland",
+        "Northern Ireland bomb disposal"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:29:10",
+      "kind": "content",
+      "title": "Standard disposal procedure and the BBC documentary",
+      "summary": "The standard procedure is to clear the area, send in a robot, or send a technician in a bomb suit if needed. A 1974 BBC documentary on Northern Ireland bomb squads shows the tension of a technician working inside a building.",
+      "topics": [
+        "disposal procedure",
+        "BBC documentary 1974",
+        "bomb squad tension",
+        "The Hurt Locker"
+      ]
+    },
+    {
+      "start": "00:29:10",
+      "end": "00:31:20",
+      "kind": "content",
+      "title": "IEDs, illegal fireworks and suspicious objects",
+      "summary": "Improvised explosive devices can be almost anything, such as pressure cookers, pipe bombs, or backpacks, as in the Boston Marathon bombing. Public safety techs also handle homemade or illegal fireworks. Bomb squads pre-sweep event areas and collect bomb evidence for labs.",
+      "topics": [
+        "IEDs",
+        "improvised explosive devices",
+        "Boston Marathon bombing",
+        "illegal fireworks",
+        "pre-sweeping for bombs",
+        "bomb evidence collection"
+      ]
+    },
+    {
+      "start": "00:31:20",
+      "end": "00:34:20",
+      "kind": "content",
+      "title": "X-ray inspection and minimizing time near bombs",
+      "summary": "Technicians use portable X-rays to look inside bombs safely and aim to spend as little time near them as possible. Bombs can be triggered by time, remote control, or victim initiation, which make the approach dangerous.",
+      "topics": [
+        "X-ray bomb inspection",
+        "bomb trigger types",
+        "remote-controlled bombs",
+        "time bombs",
+        "victim-initiated booby traps"
+      ]
+    },
+    {
+      "start": "00:34:20",
+      "end": "00:38:40",
+      "kind": "content",
+      "title": "Bomb suits, heat, and blast protection",
+      "summary": "Heavy bomb suits with Kevlar and visors are clunky and hot, and newer models use coolant. Suits protect against shrapnel but may not fully protect against blast overpressure, which can cause blast lung. Suits are expensive, though a cheaper version could be made, and some include spinal protection.",
+      "topics": [
+        "bomb suits",
+        "blast lung",
+        "blast overpressure",
+        "bomb suit cooling",
+        "shrapnel protection"
+      ]
+    },
+    {
+      "start": "00:38:40",
+      "end": "00:41:20",
+      "kind": "content",
+      "title": "Disruptors, bomb carriers, and tech pay",
+      "summary": "Disruptors include water-based devices that spread in a V or circle. Bomb carriers are bolted to trucks and can hold up to about ten kilograms of TNT equivalent. The average bomb tech makes about fifty thousand dollars a year in the UK or US.",
+      "topics": [
+        "disruptors",
+        "bomb carrier",
+        "bomb tech salary",
+        "Cybertruck jokes"
+      ]
+    },
+    {
+      "start": "00:41:20",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Unexploded ordnance today and old munitions dumping",
+      "summary": "Old munitions degrade and can still explode decades later, as in a 2010 Germany incident that killed three bomb techs. Cluster bombs in Indochina left many duds, and children are still killed or injured. The US dumped old munitions off its coasts until 1970, and Lake Erie at Camp Perry holds unexploded ordnance. A nuclear bomb off Savannah near Tybee Island was also mentioned.",
+      "topics": [
+        "unexploded ordnance",
+        "cluster bombs Indochina",
+        "Germany 2010 bomb tech deaths",
+        "ocean munitions dumping",
+        "Camp Perry Lake Erie",
+        "Savannah nuclear bomb"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:47:10",
+      "kind": "listener_mail",
+      "title": "Listener mail: Minecraft seed correction",
+      "summary": "Listener Nathan corrects the hosts on Minecraft: players can make many worlds and pick seeds, which are shared online, and ancient settlements are sometimes underwater because coastlines change. The hosts accept the correction.",
+      "topics": [
+        "listener mail",
+        "Minecraft seeds",
+        "underwater ancient settlements"
+      ]
+    },
+    {
+      "start": "00:47:10",
+      "end": "00:47:25",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to send corrections by email and close the show.",
+      "topics": [
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17858,
+    "output_tokens": 4311
+  }
+}

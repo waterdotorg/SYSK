@@ -1,0 +1,420 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-05-16_The_Inflammation_Theory_of_Disease_59min.txt",
+  "title": "The Inflammation Theory of Disease",
+  "date": "2023-05-16",
+  "duration": "59 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-inflammation-theory-of-disease",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/10089962-3ee4-4555-87dc-b00300d72e09/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/10089962-3ee4-4555-87dc-b00300d72e09/transcript?format=TextWithTimestamps&t=1714055925",
+  "summary": "Josh and Chuck (with iHeart Intro segments) explain the inflammation theory of disease: the difference between acute inflammation (a healthy immune defense with redness, swelling, heat, pain, impaired function) and chronic systemic inflammation, which may underlie many noncommunicable diseases. Topics include causes of chronic inflammation (persistent infections, oxidative stress/free radicals, autoimmune disorders), links to Alzheimer's disease and neuroinflammation, depression and sickness behaviors, lung and colon cancer, the role of industrialization, diet, microplastics and chemicals, sedentary lifestyle, stress, shift work, aging, and the CRP blood test. The episode also includes a brief announcement about the updated website, and a listener mail segment from Kaya Powell.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "inflammation theory of disease",
+    "chronic inflammation",
+    "acute inflammation",
+    "systemic chronic inflammation",
+    "inflammatory mediators",
+    "oxidative stress",
+    "free radicals",
+    "autoimmune disorders",
+    "Alzheimer's disease",
+    "neuroinflammation",
+    "microglia",
+    "amyloid plaques",
+    "tau tangles",
+    "depression and inflammation",
+    "sickness behaviors",
+    "lung cancer",
+    "colon cancer",
+    "inflammatory bowel disease",
+    "evolutionary mismatch",
+    "industrialization and chronic disease",
+    "inflammatory diet",
+    "Mediterranean diet",
+    "microplastics",
+    "forever chemicals",
+    "sedentary lifestyle",
+    "visceral fat",
+    "shift work and circadian rhythm",
+    "immunosenescence",
+    "C-reactive protein test",
+    "chronic disease costs",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Galen",
+      "type": "person"
+    },
+    {
+      "name": "Pliny",
+      "type": "person"
+    },
+    {
+      "name": "Dave Ruse",
+      "type": "person"
+    },
+    {
+      "name": "Kaya Powell",
+      "type": "person"
+    },
+    {
+      "name": "Alzheimer's disease",
+      "type": "other"
+    },
+    {
+      "name": "depression",
+      "type": "other"
+    },
+    {
+      "name": "lung cancer",
+      "type": "other"
+    },
+    {
+      "name": "colon cancer",
+      "type": "other"
+    },
+    {
+      "name": "Crohn's disease",
+      "type": "other"
+    },
+    {
+      "name": "ulcerative colitis",
+      "type": "other"
+    },
+    {
+      "name": "Mediterranean diet",
+      "type": "other"
+    },
+    {
+      "name": "Western diet",
+      "type": "other"
+    },
+    {
+      "name": "Chevy Chase",
+      "type": "person"
+    },
+    {
+      "name": "Fletch",
+      "type": "work"
+    },
+    {
+      "name": "Hamilton",
+      "type": "work"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:15",
+      "kind": "intro",
+      "title": "Opening banter and studio move",
+      "summary": "Hosts banter about Chuck's move to a new home studio, Governor's awards, and a segue into inflammation.",
+      "topics": [
+        "podcast banter",
+        "Governor's award"
+      ]
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "What inflammation is and its Latin roots",
+      "summary": "The word inflammation comes from Latin flammatio, and Galen's four classic signs (redness, swelling, heat, pain) plus impaired function are introduced.",
+      "topics": [
+        "inflammation definition",
+        "Galen",
+        "cardinal signs of inflammation"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:20",
+      "kind": "content",
+      "title": "Acute inflammation and the immune response",
+      "summary": "Acute inflammation is a healthy defense: immune cells release mediators like histamine and bradykinin that dilate blood vessels and cause pain and fluid buildup.",
+      "topics": [
+        "acute inflammation",
+        "inflammatory mediators",
+        "histamine",
+        "white blood cells"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:11:10",
+      "kind": "content",
+      "title": "Swollen lymph nodes and personal anecdote",
+      "summary": "Swollen lymph nodes and runny noses are explained as inflammatory processes; Chuck recalls a swollen node after a hospital visit.",
+      "topics": [
+        "lymph nodes",
+        "swelling",
+        "mucous membranes"
+      ]
+    },
+    {
+      "start": "00:11:10",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "From acute to chronic inflammation",
+      "summary": "Inflammation becomes harmful when it persists long after it should stop, which is the basis of the unifying theory of disease.",
+      "topics": [
+        "chronic inflammation",
+        "systemic chronic inflammation",
+        "fatigue during infection"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:16:30",
+      "kind": "content",
+      "title": "Causes: persistent infections, oxidative stress, autoimmunity",
+      "summary": "Chronic inflammation can be triggered by persistent infections such as hepatitis, HIV, and possibly long COVID; by oxidative stress from free radicals; and by autoimmune disorders like lupus.",
+      "topics": [
+        "persistent infections",
+        "oxidative stress",
+        "free radicals",
+        "autoimmune disorders",
+        "lupus"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:18:45",
+      "kind": "content",
+      "title": "Diseases linked to chronic inflammation",
+      "summary": "A list of major killers linked to chronic inflammation: high blood pressure, heart disease, type 2 diabetes, chronic kidney disease, IBS, inflammatory bowel disease, asthma, some cancers, rheumatoid arthritis, depression, Parkinson's, dementia, and non-alcoholic fatty liver disease.",
+      "topics": [
+        "chronic disease list",
+        "heart disease",
+        "type 2 diabetes",
+        "asthma",
+        "fatty liver disease"
+      ]
+    },
+    {
+      "start": "00:18:45",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Cause or symptom debate",
+      "summary": "The hosts discuss whether chronic inflammation causes these diseases or is a symptom, with Josh arguing it is the cause, using sugar as an example.",
+      "topics": [
+        "inflammation as cause vs symptom",
+        "sugar and inflammation"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Alzheimer's disease and neuroinflammation",
+      "summary": "Alzheimer's is reviewed as amyloid plaques and tau tangles, then neuroinflammation is presented as a possible root cause; microglia may attack healthy neurons. Autopsy studies are cited on both sides.",
+      "topics": [
+        "Alzheimer's disease",
+        "amyloid plaques",
+        "tau tangles",
+        "neuroinflammation",
+        "microglia"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:10",
+      "kind": "content",
+      "title": "Potential impact of solving chronic inflammation",
+      "summary": "The hosts discuss that about half of annual deaths (67 million in 2022) are linked to chronic inflammation, and the potential effect on population and quality of life.",
+      "topics": [
+        "chronic disease deaths",
+        "life expectancy",
+        "quality of life"
+      ]
+    },
+    {
+      "start": "00:26:10",
+      "end": "00:28:10",
+      "kind": "content",
+      "title": "Economic cost of chronic inflammation",
+      "summary": "In 2016 the US spent about 1.1 trillion dollars directly on healthcare for chronic inflammation-related diseases, and about 3.7 trillion including lost productivity.",
+      "topics": [
+        "healthcare costs",
+        "economic burden"
+      ]
+    },
+    {
+      "start": "00:28:10",
+      "end": "00:31:10",
+      "kind": "content",
+      "title": "Smoking, lung cancer and colon cancer",
+      "summary": "Smoke irritates lung cells, causing inflammation and reactive oxygen species that damage DNA and can lead to tumors. Crohn's and ulcerative colitis raise colon cancer risk. Chronic infections like HPV and tuberculosis are also linked to cancer via inflammation.",
+      "topics": [
+        "lung cancer",
+        "smoking",
+        "colon cancer",
+        "Crohn's disease",
+        "ulcerative colitis",
+        "HPV",
+        "tuberculosis"
+      ]
+    },
+    {
+      "start": "00:31:10",
+      "end": "00:33:50",
+      "kind": "content",
+      "title": "Depression and inflammation",
+      "summary": "About a third of people with depression do not respond to SSRIs, suggesting neuroinflammation may cause depression for some. Autopsy studies and an interferon alpha study in cancer patients are cited.",
+      "topics": [
+        "depression",
+        "SSRIs",
+        "neuroinflammation",
+        "interferon alpha"
+      ]
+    },
+    {
+      "start": "00:33:50",
+      "end": "00:36:05",
+      "kind": "content",
+      "title": "Sickness behaviors and evolutionary explanation",
+      "summary": "Sickness behaviors such as fatigue, anhedonia, and social withdrawal may have evolved to help the body rest while sick, and the brain may confuse them with depression.",
+      "topics": [
+        "sickness behaviors",
+        "anhedonia",
+        "evolutionary advantage of illness behavior"
+      ]
+    },
+    {
+      "start": "00:36:05",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Evolutionary mismatch and uncontacted tribes",
+      "summary": "Modern chronic diseases may stem from an evolutionary mismatch with modern industrial life. Uncontacted tribes are noted as lacking type 2 diabetes and IBS, and the hosts reject aging alone as the explanation.",
+      "topics": [
+        "evolutionary mismatch",
+        "uncontacted tribes",
+        "hunter-gatherers",
+        "free radical theory of aging"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Environmental toxins, microplastics and chemicals",
+      "summary": "Pollution, microplastics, and forever chemicals are discussed as sources of inflammation. Josh notes about 150,000 industrial chemicals with around 2,000 added yearly and limited FDA testing.",
+      "topics": [
+        "microplastics",
+        "forever chemicals",
+        "air pollution",
+        "industrial chemicals",
+        "FDA testing"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:20",
+      "kind": "content",
+      "title": "Inflammatory diet and Mediterranean diet",
+      "summary": "Fried food, sugary sodas, refined sugar, trans fats, processed meats, and alcohol are inflammatory; the Mediterranean diet (olive oil, leafy greens, fish, berries, nuts) is anti-inflammatory. The Western diet is low in fiber.",
+      "topics": [
+        "inflammatory diet",
+        "Mediterranean diet",
+        "Western diet",
+        "dietary fiber",
+        "ultra-processed foods"
+      ]
+    },
+    {
+      "start": "00:45:20",
+      "end": "00:47:45",
+      "kind": "content",
+      "title": "Exercise, sedentary lifestyle and belly fat",
+      "summary": "Contracting skeletal muscle releases anti-inflammatory proteins; half of American adults are not physically active. Visceral belly fat is also described as causing inflammation. Chuck mentions weight loss.",
+      "topics": [
+        "exercise and inflammation",
+        "sedentary lifestyle",
+        "visceral fat",
+        "weight loss"
+      ]
+    },
+    {
+      "start": "00:47:45",
+      "end": "00:50:00",
+      "kind": "ad",
+      "title": "Website announcement",
+      "summary": "Hosts announce the updated stuffyoushouldknow.com website with all episodes and improved search.",
+      "topics": [
+        "website update",
+        "episode search"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:52:20",
+      "kind": "content",
+      "title": "Sleep, shift work, circadian rhythm and aging",
+      "summary": "Screens and shift work disrupt circadian rhythm, which promotes inflammation and raises risk of cardiovascular disease, type 2 diabetes, obesity, and cancer. Immunosenescence with aging is also described.",
+      "topics": [
+        "circadian rhythm",
+        "shift work",
+        "sleep",
+        "immunosenescence",
+        "aging"
+      ]
+    },
+    {
+      "start": "00:52:20",
+      "end": "00:54:55",
+      "kind": "content",
+      "title": "Testing for inflammation and lifestyle changes",
+      "summary": "The CRP blood test (hs-CRP) indicates chronic inflammation but not its location. Lifestyle changes like exercise, healthy weight, less processed food, quitting smoking, sleep, reducing alcohol, and social connection can help.",
+      "topics": [
+        "C-reactive protein",
+        "hs-CRP blood test",
+        "lifestyle changes",
+        "biomarkers"
+      ]
+    },
+    {
+      "start": "00:54:55",
+      "end": "00:57:30",
+      "kind": "outro",
+      "title": "Closing remarks on family and grandparents",
+      "summary": "Hosts close with personal reflections on grandparents and advice to talk with older relatives.",
+      "topics": [
+        "grandparents",
+        "closing remarks"
+      ]
+    },
+    {
+      "start": "00:57:30",
+      "end": "00:58:35",
+      "kind": "listener_mail",
+      "title": "Listener mail from Kaya Powell",
+      "summary": "Kaya Powell writes that she listened to the show with her dad on car trips starting around 2013, and now as a college student still listens.",
+      "topics": [
+        "listener mail",
+        "listener story"
+      ]
+    },
+    {
+      "start": "00:58:35",
+      "end": "00:59:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Standard closing with iHeartRadio credit and mail address.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 21996,
+    "output_tokens": 4592
+  }
+}

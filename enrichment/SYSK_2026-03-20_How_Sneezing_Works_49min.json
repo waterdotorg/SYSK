@@ -1,0 +1,372 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-03-20_How_Sneezing_Works_49min.txt",
+  "title": "How Sneezing Works",
+  "date": "2026-03-20",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-sneezing-works-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/39e844bf-5e21-43c0-a3e1-b41300d5e478/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/39e844bf-5e21-43c0-a3e1-b41300d5e478/transcript?format=TextWithTimestamps&t=1774011954",
+  "summary": "Josh and Chuck explain how sneezing works, starting with the nasal filtration system, cilia, mast cells and histamine, and the afferent and efferent phases of the sneeze reflex. They cover the sneezing center in the lateral medulla (including a fisherman case that helped locate it), the muscles and speed involved, and common triggers across the types of rhinitis. Other topics include photic sneezing and its genetics, rare sneeze triggers such as eating too much, sexual arousal and orgasm, intractable sneezing (Donna Griffiths record), sneezing and contagion from the MIT droplet study, cultural \"bless you\" customs and superstitions, and myths about eyes popping out or the heart stopping. The episode closes with listener mail about Atlanta, Texas.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "sneezing",
+    "how sneezing works",
+    "sternutation",
+    "sneezing center",
+    "lateral medulla",
+    "nasal passages",
+    "cilia",
+    "mast cells",
+    "histamine",
+    "allergies",
+    "rhinitis",
+    "photic sneezing",
+    "autosomal dominant compelling helio-ophthalmic outburst syndrome",
+    "intractable sneezing",
+    "Donna Griffiths",
+    "sneeze speed",
+    "sneezing and contagion",
+    "droplets",
+    "bless you",
+    "sneeze superstitions",
+    "sneezing myths",
+    "reverse sneeze",
+    "rhinorrhea",
+    "gustatory sneezing",
+    "sneezing during orgasm",
+    "sneezing after eating",
+    "trigeminal nerve"
+  ],
+  "entities": [
+    {
+      "name": "Donna Griffiths",
+      "type": "person"
+    },
+    {
+      "name": "Pope Gregory I",
+      "type": "person"
+    },
+    {
+      "name": "Lydia Bourouiba",
+      "type": "person"
+    },
+    {
+      "name": "Wilson D. Wallace",
+      "type": "person"
+    },
+    {
+      "name": "Atlanta, Texas",
+      "type": "place"
+    },
+    {
+      "name": "Texarkana, Texas",
+      "type": "place"
+    },
+    {
+      "name": "Smokey and the Bandit",
+      "type": "work"
+    },
+    {
+      "name": "Radio Atlanta",
+      "type": "organization"
+    },
+    {
+      "name": "Scanners",
+      "type": "work"
+    },
+    {
+      "name": "MIT",
+      "type": "organization"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:39",
+      "kind": "intro",
+      "title": "Cold open",
+      "summary": "Josh introduces the spring allergy season and the episode on sneezing.",
+      "topics": [
+        "allergies",
+        "sneezing"
+      ]
+    },
+    {
+      "start": "00:00:39",
+      "end": "00:02:08",
+      "kind": "intro",
+      "title": "Opening banter and word origin",
+      "summary": "Hosts banter about the show's opening and the word sternutation, which dates to a 1576 text.",
+      "topics": [
+        "sternutation",
+        "sneezing etymology"
+      ]
+    },
+    {
+      "start": "00:02:08",
+      "end": "00:03:40",
+      "kind": "content",
+      "title": "Sneezing as a bodily defense",
+      "summary": "Sneezing is described as an ancient reflex shared by mammals, with iguanas noted for sneezing often. Chuck explains it as the body's bouncer expelling irritants.",
+      "topics": [
+        "sneezing reflex",
+        "mammal sneezing",
+        "reverse sneeze"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:06:51",
+      "kind": "content",
+      "title": "Nasal filtration and irritant detection",
+      "summary": "Narrow nasal passages create turbulence that pushes air to the mucosa, where cilia move particles back to the throat. Particles that stick irritate mast cells, which release histamine and send signals to the brain.",
+      "topics": [
+        "nasal passages",
+        "cilia",
+        "mast cells",
+        "histamine",
+        "nasal mucosa"
+      ]
+    },
+    {
+      "start": "00:06:51",
+      "end": "00:08:37",
+      "kind": "content",
+      "title": "Afferent and efferent phases and nerve pathways",
+      "summary": "The sneeze takes under a second. The afferent phase is the irritation signal traveling through the olfactory, ethmoidal and trigeminal nerves to the sneeze center; the efferent phase is the response sent back.",
+      "topics": [
+        "afferent phase",
+        "efferent phase",
+        "trigeminal nerve",
+        "olfactory nerve",
+        "sneeze reflex arc"
+      ]
+    },
+    {
+      "start": "00:08:37",
+      "end": "00:11:24",
+      "kind": "content",
+      "title": "Muscles, pressure and speed of a sneeze",
+      "summary": "The sneeze involves many muscles, vocal cords clamping and then opening, and a diaphragm push at about one hundred miles per hour. The myth that eyes pop out when sneezing with eyes open is debunked.",
+      "topics": [
+        "sneeze mechanics",
+        "sneeze speed",
+        "eyes popping myth",
+        "vocal cords",
+        "diaphragm"
+      ]
+    },
+    {
+      "start": "00:11:24",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Involuntary nature of sneezing",
+      "summary": "Sneezing is involuntary and cannot be reliably triggered on command, though some things can trigger it.",
+      "topics": [
+        "involuntary sneezing",
+        "sneeze triggers"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:24",
+      "kind": "content",
+      "title": "Sneezing center in the lateral medulla",
+      "summary": "The sneezing center was hypothesized from cat research and confirmed in humans around 2005 through a fisherman case with a lesion on the lateral medulla. Capsaicin tests showed he would not sneeze though his nose burned.",
+      "topics": [
+        "sneezing center",
+        "lateral medulla",
+        "capsaicin test",
+        "brain lesion case"
+      ]
+    },
+    {
+      "start": "00:16:24",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Causes of rhinitis",
+      "summary": "Rhinitis, inflammation of the nasal mucous membrane, is the most common cause of sneezing. Types discussed include occupational, hormonal, drug-induced, and atrophic rhinitis, plus rhinorrhea for a runny nose.",
+      "topics": [
+        "rhinitis",
+        "occupational rhinitis",
+        "hormonal rhinitis",
+        "drug-induced rhinitis",
+        "atrophic rhinitis",
+        "rhinorrhea"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Chuck and Josh on sneezing commentary",
+      "summary": "Brief tangents on the rhinitis discussion and a remark about 2020.",
+      "topics": [
+        "rhinitis",
+        "sneezing"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Photic sneezing and its genetics",
+      "summary": "Josh is a photic sneezer triggered by bright sunlight. Chuck and Josh discuss multiple sneezes in a row and the inherited photic sneeze reflex, with a crossover between the pupillary light reflex and sneeze reflex arcs. Looking toward the sun can help complete a stuck sneeze.",
+      "topics": [
+        "photic sneezing",
+        "sneezing in threes",
+        "genetic sneeze traits",
+        "pupillary light reflex",
+        "ACHOO syndrome"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Gustatory sneezing and evolutionary theory",
+      "summary": "Gustatory sneezing after eating is mentioned as rare. A theory connects photic sneezing to infants who cannot blow their noses.",
+      "topics": [
+        "gustatory sneezing",
+        "photic sneezing evolution",
+        "infant sneezing"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Unusual sneeze triggers",
+      "summary": "Plucking nose or eyebrow hairs can trigger sneezing or watering eyes via the trigeminal nerve. Sneezing from sexual arousal or orgasm is discussed, with an informal internet survey and a journal explanation involving erectile tissue in the nose.",
+      "topics": [
+        "plucking hair sneezing",
+        "sexual arousal sneezing",
+        "orgasm sneezing",
+        "trigeminal nerve"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:33:05",
+      "kind": "content",
+      "title": "Intractable sneezing and Donna Griffiths",
+      "summary": "Intractable (psychogenic) sneezing mostly affects adolescent girls. Donna Griffiths sneezed for 977 days from January 1981 to September 1983. Sneezing during sleep is not possible, so she averaged about a sneeze a minute while awake.",
+      "topics": [
+        "intractable sneezing",
+        "psychogenic sneezing",
+        "Donna Griffiths",
+        "world record sneezing"
+      ]
+    },
+    {
+      "start": "00:33:05",
+      "end": "00:33:15",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Ad break between segments.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:33:15",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Sneeze droplets and airborne spread",
+      "summary": "A 2016 MIT study by Lydia Bourouiba used high-speed film to show sneeze clouds of fluid that break into smaller particles, which can travel up to about 25 to 27 feet and remain suspended. Covering the nose and mouth and using masks are recommended. Chuck cites covering a sneeze with the elbow.",
+      "topics": [
+        "sneeze droplets",
+        "MIT sneeze study",
+        "airborne transmission",
+        "aerosol",
+        "sneezing into elbow",
+        "masks"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:10",
+      "kind": "content",
+      "title": "Outdoor versus indoor spread during the pandemic",
+      "summary": "Josh summarizes an aerosol study on outdoor spread, noting outdoor air disperses particles more than indoor air. The hosts share personal experiences of avoiding people who sneeze during the pandemic.",
+      "topics": [
+        "outdoor transmission",
+        "indoor transmission",
+        "pandemic sneezing",
+        "aerosol dispersion"
+      ]
+    },
+    {
+      "start": "00:40:10",
+      "end": "00:43:36",
+      "kind": "content",
+      "title": "Bless you customs and sneeze folklore",
+      "summary": "Gregory I is said to have urged saying God bless you during the plague, while earlier Christians ignored sneezes according to Wilson D. Wallace's 1919 article. Greek and Roman phrases, a micro-affection concept, and a Zoroastrian belief about expelling a fiend are discussed.",
+      "topics": [
+        "bless you",
+        "Pope Gregory I",
+        "sneezing folklore",
+        "Zoroastrian sneeze belief",
+        "sneeze customs"
+      ]
+    },
+    {
+      "start": "00:43:36",
+      "end": "00:45:32",
+      "kind": "content",
+      "title": "Sneeze omens and the heart-stopping myth",
+      "summary": "Sneezes are read as omens in China and Japan. The myth that the heart stops during a sneeze is debunked; heart electrical activity stays the same.",
+      "topics": [
+        "sneeze omens",
+        "heart stops sneezing myth",
+        "sneezing myths"
+      ]
+    },
+    {
+      "start": "00:45:32",
+      "end": "00:46:46",
+      "kind": "content",
+      "title": "Sneezing and pregnancy myth and throat rupture",
+      "summary": "A myth about sneezing after sex preventing pregnancy is mentioned. A man in Leicester was reported to have ruptured his throat trying to stifle a sneeze.",
+      "topics": [
+        "sneezing and pregnancy myth",
+        "stifled sneeze injury",
+        "throat rupture"
+      ]
+    },
+    {
+      "start": "00:46:46",
+      "end": "00:48:33",
+      "kind": "listener_mail",
+      "title": "Listener mail: Atlanta, Texas",
+      "summary": "Listener Benjamin Boden Lee writes about Atlanta, Texas, the town named in the Radio Atlanta pirate radio episode, and nearby Texarkana and the film Smokey and the Bandit.",
+      "topics": [
+        "listener mail",
+        "Atlanta Texas",
+        "pirate radio",
+        "Smokey and the Bandit"
+      ]
+    },
+    {
+      "start": "00:48:33",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "Hosts thank listeners and give the contact address and credits.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19415,
+    "output_tokens": 4012
+  }
+}

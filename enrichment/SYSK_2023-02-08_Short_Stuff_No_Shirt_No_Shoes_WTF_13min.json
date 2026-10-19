@@ -1,0 +1,148 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-02-08_Short_Stuff_No_Shirt_No_Shoes_WTF_13min.txt",
+  "title": "Short Stuff: No Shirt, No Shoes, WTF",
+  "date": "2023-02-08",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-no-shirt-no-shoes-wtf",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62efdd7c-2f9e-4f69-bfc3-afa201128386/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/62efdd7c-2f9e-4f69-bfc3-afa201128386/transcript?format=TextWithTimestamps&t=1700557641",
+  "summary": "Short Stuff episode on the \"No Shirt, No Shoes, No Service\" sign. Josh and Chuck discuss the history of the placards, which they say spread in the late 1960s and early 1970s as businesses tried to keep hippies out, though similar signs existed earlier in formal coastal Florida towns. They cite a researcher (William Roarer Baugh, per the transcript) and the Society for Barefoot Living, which wrote to state health departments and reported that no law bars customers based on attire. They explain that federal civil rights law (the 1964 Civil Rights Act, referred to as 1904 in the transcript) and the Americans with Disabilities Act bar exclusion based on protected characteristics, while dress codes applied evenly to everyone are generally allowed. The episode closes with off-topic talk about slippers, resort wear, and shoes for Bahamas restaurants.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "no shirt no shoes no service",
+    "dress codes",
+    "business refusing service",
+    "hippies",
+    "history of signage",
+    "Society for Barefoot Living",
+    "health department regulations",
+    "Civil Rights Act",
+    "Americans with Disabilities Act",
+    "public accommodation law",
+    "barefoot policies",
+    "Florida beach bars",
+    "1960s counterculture",
+    "resort wear",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "No Shirt, No Shoes, No Service sign",
+      "type": "other"
+    },
+    {
+      "name": "Society for Barefoot Living",
+      "type": "organization"
+    },
+    {
+      "name": "William H. Roarer Ball",
+      "type": "person"
+    },
+    {
+      "name": "hippies",
+      "type": "other"
+    },
+    {
+      "name": "Civil Rights Act",
+      "type": "work"
+    },
+    {
+      "name": "Americans with Disabilities Act",
+      "type": "work"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Bahamas",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and the song mix-up",
+      "summary": "Josh and Chuck open with banter about a song stuck in Josh's head and a slip where a forbidden word was said. They introduce the topic of no shirt, no shoes, no service signs.",
+      "topics": [
+        "banter",
+        "no shirt no shoes no service"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Origins of the placards and hippies",
+      "summary": "The hosts say the signs spread in popularity in the late 1960s and early 1970s in response to hippies. A researcher, William H. Roarer Ball, said the signs existed earlier but were mostly in formal coastal Florida towns in the 1950s.",
+      "topics": [
+        "hippies",
+        "history of no shirt no shoes signs",
+        "Florida beach bars",
+        "1950s dress codes"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Musical tangent",
+      "summary": "Josh and Chuck talk about the Five Man Electrical Band, Tesla, Gordon Lightfoot, and Rush.",
+      "topics": [
+        "Five Man Electrical Band",
+        "Tesla",
+        "music banter"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Health department letters and the law",
+      "summary": "The Society for Barefoot Living wrote to state health departments, which said no law bars customers from entering without shoes or a shirt. Health departments are concerned with employees, not customers.",
+      "topics": [
+        "health department regulations",
+        "Society for Barefoot Living",
+        "barefoot policies",
+        "employee dress codes"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Civil rights law and dress codes",
+      "summary": "The hosts explain that federal civil rights law bars businesses from refusing service based on religion, race, color, or national origin, and the ADA extends protections to people with disabilities. A business can require attire if it applies to everyone and not just one protected group.",
+      "topics": [
+        "Civil Rights Act",
+        "Americans with Disabilities Act",
+        "public accommodation law",
+        "dress codes",
+        "discrimination"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Slippers, resort wear, and sign-off",
+      "summary": "Hosts chat about slippers and resort-appropriate shoes for Bahamas restaurants, then sign off with a note about the episode length and the show's production credit.",
+      "topics": [
+        "resort wear",
+        "slippers",
+        "Bahamas",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5338,
+    "output_tokens": 1650
+  }
+}

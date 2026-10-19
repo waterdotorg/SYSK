@@ -1,0 +1,240 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-09-10_How_Chili_Peppers_Work_52min.txt",
+  "title": "How Chili Peppers Work",
+  "date": "2015-09-10",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-chili-peppers-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6ba04e64-7070-4afb-a829-ae28008b7c3c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6ba04e64-7070-4afb-a829-ae28008b7c3c/transcript?format=TextWithTimestamps&t=1700543850",
+  "summary": "Josh and Chuck explore chili peppers: the name's origin (Columbus, Aztec/Triple Alliance usage), domestication in South America, the five domesticated species, capsaicin and pungency, the Scoville heat unit test (Wilbert Scoville, 1912) and modern liquid chromatography measurement, pepper classification by shape and heat profile, popular varieties (bell, poblano, habanero, Carolina Reaper, ghost pepper), pepper culture and competitive heat, buying, storing, and growing peppers, and health effects such as pain relief, endorphins, and cholesterol. The episode opens with banter about the Red Hot Chili Peppers band and closes with a listener shout-out.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "chili peppers",
+    "capsaicin",
+    "Scoville heat units",
+    "Scoville scale",
+    "Wilbert Scoville",
+    "pepper heat measurement",
+    "Columbus chili pepper naming",
+    "chili pepper domestication",
+    "habanero",
+    "Carolina Reaper",
+    "ghost pepper",
+    "bell pepper",
+    "poblano",
+    "pepper spray",
+    "capsaicin pain relief",
+    "pepper health benefits",
+    "pepper growing",
+    "Chili Pepper Institute",
+    "pepper heat profile",
+    "hottest pepper",
+    "pickled peppers",
+    "Scotch bonnet",
+    "chipotle",
+    "paprika"
+  ],
+  "entities": [
+    {
+      "name": "Christopher Columbus",
+      "type": "person"
+    },
+    {
+      "name": "Wilbert Scoville",
+      "type": "person"
+    },
+    {
+      "name": "Ed Currie",
+      "type": "person"
+    },
+    {
+      "name": "Fabian Garcia",
+      "type": "person"
+    },
+    {
+      "name": "Anthony Kiedis",
+      "type": "person"
+    },
+    {
+      "name": "Carolina Reaper",
+      "type": "other"
+    },
+    {
+      "name": "Ghost pepper",
+      "type": "other"
+    },
+    {
+      "name": "Habanero",
+      "type": "other"
+    },
+    {
+      "name": "Chili Pepper Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Guinness World Records",
+      "type": "organization"
+    },
+    {
+      "name": "Guantanamo Bay",
+      "type": "place"
+    },
+    {
+      "name": "Red Hot Chili Peppers",
+      "type": "work"
+    },
+    {
+      "name": "Triple Alliance",
+      "type": "organization"
+    },
+    {
+      "name": "New Mexico",
+      "type": "place"
+    },
+    {
+      "name": "Bindy restaurant",
+      "type": "organization"
+    },
+    {
+      "name": "New Yorker",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Red Hot Chili Peppers",
+      "summary": "Hosts joke about the Red Hot Chili Peppers being used at Guantanamo Bay, discuss the band's music and Anthony Kiedis's autobiography, then clarify they are talking about chili peppers.",
+      "topics": [
+        "Red Hot Chili Peppers",
+        "Anthony Kiedis",
+        "chili pepper spelling"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Name origin and domestication",
+      "summary": "The word chili came from the Aztecs/Triple Alliance; Columbus mislabeled the pepper as a relative of black pepper. Peppers were domesticated in South America about 6,000 years ago, birds disperse seeds, and there are five domesticated species in the nightshade family.",
+      "topics": [
+        "chili pepper name origin",
+        "Columbus chili pepper naming",
+        "chili pepper domestication",
+        "five chili pepper species",
+        "nightshade family"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Capsaicin, pungency and pain",
+      "summary": "Heat comes from capsaicin, concentrated in the placenta (membrane) rather than the seeds. Capsaicin triggers TRPV1 pain receptors and substance P, and topically it works as a local pain reliever. Fats like milk or sour cream dissolve it; peppers may also aid the stomach and thin blood.",
+      "topics": [
+        "capsaicin",
+        "TRPV1 receptor",
+        "pepper pungency",
+        "capsaicin pain relief",
+        "milk for pepper burn",
+        "pepper health myths"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Endorphins and pepper eating",
+      "summary": "Peppers trigger endorphin release that can produce a high; humans appear to be the only mammals that purposefully eat peppers, which the hosts relate to the pepper's defensive burn.",
+      "topics": [
+        "pepper endorphins",
+        "pepper high",
+        "benign masochism",
+        "why peppers are hot"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Scoville heat unit test",
+      "summary": "Pharmacist Wilbert Scoville devised the Scoville organoleptic test in 1912 to replace having people taste peppers, diluting extracts until heat is undetectable. Heat is still measured in Scoville heat units. Modern labs use liquid chromatography to measure capsaicin in parts per million, multiplied by sixteen to get Scoville units.",
+      "topics": [
+        "Scoville heat units",
+        "Scoville organoleptic test",
+        "Wilbert Scoville",
+        "liquid chromatography pepper testing",
+        "capsaicin measurement"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Pepper types and heat profiles",
+      "summary": "Peppers are classified by shape, heat, and a five-part heat profile from the Chili Pepper Institute (heat level, onset, duration, location, flat versus sharp). Varieties discussed include bell peppers, poblanos, ancho, chipotle, habanero, Scotch bonnet, banana and pepperoncini, and paprika versus cayenne.",
+      "topics": [
+        "pepper varieties",
+        "heat profile",
+        "poblano",
+        "chipotle",
+        "ancho",
+        "paprika",
+        "bell pepper colors",
+        "Scotch bonnet",
+        "Chili Pepper Institute"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Pepper culture and the hottest pepper",
+      "summary": "Chili pepper enthusiasts compete over heat, with no official governing body; Guinness recognizes a record. The Carolina Reaper, bred by Ed Currie, averages about 1,569,300 Scoville units; the ghost pepper held the title earlier, and Trinidad scorpion and Butch T peppers are also mentioned.",
+      "topics": [
+        "hottest pepper",
+        "Carolina Reaper",
+        "Ed Currie",
+        "ghost pepper",
+        "Guinness record peppers",
+        "pepper competitions",
+        "Trinidad scorpion"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Buying, handling, storing, growing, and health",
+      "summary": "Tips on choosing peppers, wearing gloves when handling hot peppers, storage and freezing, growing peppers from seed, and claimed health benefits such as lower cholesterol and blood pressure. A ghost pepper curry challenge in England is mentioned.",
+      "topics": [
+        "buying peppers",
+        "handling hot peppers",
+        "storing peppers",
+        "growing peppers from seed",
+        "pepper cholesterol",
+        "ghost pepper curry challenge"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Listener shout-out and sign-off",
+      "summary": "A listener shout-out to a sister leaving for college, followed by standard sign-off and contact info.",
+      "topics": [
+        "listener mail",
+        "shout-outs"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17158,
+    "output_tokens": 2694
+  }
+}

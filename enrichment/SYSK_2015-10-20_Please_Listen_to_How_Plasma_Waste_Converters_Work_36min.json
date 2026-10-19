@@ -1,0 +1,230 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-10-20_Please_Listen_to_How_Plasma_Waste_Converters_Work_36min.txt",
+  "title": "Please Listen to How Plasma Waste Converters Work",
+  "date": "2015-10-20",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/please-listen-to-how-plasma-waste-converters-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8f31ecff-648e-4bda-940c-ae28008a8d8b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8f31ecff-648e-4bda-940c-ae28008a8d8b/transcript?format=TextWithTimestamps&t=1700543849",
+  "summary": "Josh and Chuck explain plasma waste treatment (plasma gasification and pyrolysis). They cover how lightning-like plasma is made, how plasma torches break garbage down into syngas, slag, and heat without combustion, and how syngas can drive gas turbines and steam generators to produce electricity. They discuss cleaning syngas, the heavy metal hazards, slag uses (paving stones, rock wool for insulation and oil spill cleanup), radioactive waste vitrification, the handful of operating plants worldwide, economic and landfill-competition issues, and ideas like co-locating with coal plants and decontaminating livestock or soil. The episode ends with a listener letter correcting their language about Africa and puberty episode feedback.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "plasma waste treatment",
+    "plasma gasification",
+    "plasma torch",
+    "pyrolysis",
+    "syngas",
+    "slag",
+    "vitrification",
+    "waste-to-energy",
+    "garbage to energy",
+    "plasma state of matter",
+    "rock wool",
+    "landfill alternatives",
+    "gas turbine",
+    "heat recovery steam generator",
+    "heavy metals in syngas",
+    "radioactive waste disposal",
+    "oil spill cleanup",
+    "Centralia Pennsylvania",
+    "medical waste disposal",
+    "listener mail",
+    "Vitreous glass uranium glass",
+    "incineration vs gasification"
+  ],
+  "entities": [
+    {
+      "name": "Jonathan Strickland",
+      "type": "person"
+    },
+    {
+      "name": "Georgia Tech",
+      "type": "organization"
+    },
+    {
+      "name": "Dr. Cerczio",
+      "type": "person"
+    },
+    {
+      "name": "Westinghouse",
+      "type": "organization"
+    },
+    {
+      "name": "Air Products",
+      "type": "organization"
+    },
+    {
+      "name": "Centralia, Pennsylvania",
+      "type": "place"
+    },
+    {
+      "name": "Port St. Lucie, Florida",
+      "type": "place"
+    },
+    {
+      "name": "Vero Beach, Florida",
+      "type": "place"
+    },
+    {
+      "name": "Utashinai, Japan",
+      "type": "place"
+    },
+    {
+      "name": "TechStuff",
+      "type": "work"
+    },
+    {
+      "name": "Stuff You Should Know episode on lightning",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and plasma explained",
+      "summary": "Josh and Chuck open with banter, then explain lightning-generated superheated air and plasma as the fourth state of matter, including molecular dissociation and pyrolysis.",
+      "topics": [
+        "plasma state of matter",
+        "lightning plasma",
+        "pyrolysis",
+        "molecular dissociation"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "What plasma torches can do with garbage",
+      "summary": "Plasma torches can break down waste without combustion or oxygen, turning organics into syngas and metals into slag, and can recover more energy from garbage than incineration.",
+      "topics": [
+        "plasma torch",
+        "waste-to-energy",
+        "gasification",
+        "syngas",
+        "slag",
+        "vitrification"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Plant design: feedstock, furnace, and plasma torch",
+      "summary": "Plants are custom built; conveyor belts feed pretreated waste into an airtight furnace with a water-cooled plasma torch, slag drains, gas venting, and a coke bed that keeps the furnace hot. The torch uses an electric arc to heat air to plasma.",
+      "topics": [
+        "gasification furnace design",
+        "plasma torch construction",
+        "coke bed",
+        "slag drainage",
+        "Westinghouse plasma"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:30",
+      "kind": "content",
+      "title": "Generating electricity from syngas",
+      "summary": "Syngas expands through a gas turbine, then a heat recovery steam generator makes steam for another turbine, and syngas can also fuel an engine, so the plant can power itself and sell electricity.",
+      "topics": [
+        "syngas electricity",
+        "gas turbine",
+        "heat recovery steam generator",
+        "combined cycle",
+        "waste-to-energy"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:18:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a short break with banter.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Cleaning syngas and hazardous byproducts",
+      "summary": "Syngas is water scrubbed and filtered, with an afterburner possible. Heavy metals such as cadmium and mercury must be removed, and about 20 tons of residue remain per 1,000 tons of waste.",
+      "topics": [
+        "syngas scrubbing",
+        "heavy metals",
+        "cadmium",
+        "mercury",
+        "air pollution control",
+        "residue volume"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Uses for slag and rock wool",
+      "summary": "Slag weighs the same as the original waste's inert portion, about 5 percent of volume, and can be used in asphalt, concrete, and paving stones. Compressed air turns molten slag into rock wool for hydroponics, insulation, and oil spill cleanup. Radioactive material can be vitrified into stable glass, and the hosts discuss vaseline glass.",
+      "topics": [
+        "slag uses",
+        "rock wool",
+        "oil spill cleanup",
+        "radioactive waste vitrification",
+        "vaseline glass",
+        "hydroponics"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Operating plants, costs, and landfill competition",
+      "summary": "About eight plasma gasification facilities operated worldwide, including in Japan, Canada, England, the US, India, China, and one on a US aircraft carrier. A Port St. Lucie, Florida project was planned; a Utashinai, Japan plant closed when it ran out of feedstock; a large plant cost about half a billion dollars. Costs, tipping fees, and competition with landfills are discussed.",
+      "topics": [
+        "plasma plant locations",
+        "Port St. Lucie Florida",
+        "Utashinai Japan",
+        "plasma economics",
+        "tipping fees",
+        "landfill competition",
+        "Air Products"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Future ideas: landfill mining, coal plant co-location, decontamination",
+      "summary": "Dr. Cerczio of Georgia Tech envisions plasma torches inserted into landfills and co-located with coal plants to burn waste and reduce fossil fuel use. Hosts also joke about decontaminating diseased livestock, contaminated soil, and medical waste, and about the Centralia coal fire.",
+      "topics": [
+        "landfill mining",
+        "coal plant co-location",
+        "decontamination",
+        "Centralia coal fire",
+        "future of waste treatment"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:36:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Africa and puberty episode feedback",
+      "summary": "A listener from Ghana praises the female puberty episode and asks hosts to be specific when discussing regions, noting Africa is a continent of many countries and cultures. Josh and Chuck acknowledge the feedback and the boy crazy comment.",
+      "topics": [
+        "listener mail",
+        "Africa",
+        "Ghana",
+        "female puberty episode",
+        "language about regions"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11481,
+    "output_tokens": 2608
+  }
+}

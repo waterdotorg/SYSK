@@ -1,0 +1,207 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-07-04_How_Miranda_Rights_Work_29min.txt",
+  "title": "How Miranda Rights Work",
+  "date": "2013-07-04",
+  "duration": "29 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-miranda-rights-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cb944cdf-b31c-4200-a0f2-ae28009f504d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cb944cdf-b31c-4200-a0f2-ae28009f504d/transcript?format=TextWithTimestamps&t=1700543899",
+  "summary": "Josh and Chuck explain Miranda rights, starting with banter about the phrase's pop-culture ubiquity. They trace the 1966 Miranda v. Arizona case (consolidated with Vignera v. New York, Westover v. United States, and California v. Stewart) and the Fifth Amendment protection against self-incrimination. They cover custodial interrogation and the \"in custody\" gray area, including whether a traffic stop counts as custodial, and the fact that failing to Mirandize doesn't void evidence found through a confession. They then discuss the public safety exception from New York v. Quarles (1984) and its use in the 2013 Boston bombing suspect interrogation and the Times Square bomber case. The episode closes with listener mail about the film The Royal Tenenbaums and fan theories, plus an anniversary shout-out.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Miranda rights",
+    "Miranda v. Arizona",
+    "Ernesto Miranda",
+    "Fifth Amendment",
+    "self-incrimination",
+    "custodial interrogation",
+    "in custody",
+    "public safety exception",
+    "New York v. Quarles",
+    "police interrogation",
+    "Miranda warning",
+    "traffic stop",
+    "Boston bombing interrogation",
+    "Dzhokhar Tsarnaev",
+    "Times Square bomber",
+    "coerced confession",
+    "police deception",
+    "The Royal Tenenbaums",
+    "fan theories",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Miranda rights",
+      "type": "other"
+    },
+    {
+      "name": "Miranda v. Arizona",
+      "type": "event"
+    },
+    {
+      "name": "Ernesto Miranda",
+      "type": "person"
+    },
+    {
+      "name": "Vignera v. New York",
+      "type": "event"
+    },
+    {
+      "name": "Westover v. United States",
+      "type": "event"
+    },
+    {
+      "name": "California v. Stewart",
+      "type": "event"
+    },
+    {
+      "name": "New York v. Quarles",
+      "type": "event"
+    },
+    {
+      "name": "Benjamin Quarles",
+      "type": "person"
+    },
+    {
+      "name": "Dzhokhar Tsarnaev",
+      "type": "person"
+    },
+    {
+      "name": "Phoenix, Arizona",
+      "type": "place"
+    },
+    {
+      "name": "Boston",
+      "type": "place"
+    },
+    {
+      "name": "The Royal Tenenbaums",
+      "type": "work"
+    },
+    {
+      "name": "Alien Nation",
+      "type": "work"
+    },
+    {
+      "name": "Castle",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Miranda rights in pop culture",
+      "summary": "The hosts open with a callback joke about Miranda from Sex and the City, then discuss how Miranda warnings are ubiquitous on TV cop and lawyer shows and that the case behind them is probably little known.",
+      "topics": [
+        "Miranda rights",
+        "pop culture",
+        "TV cop shows"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Miranda v. Arizona and the consolidated cases",
+      "summary": "The hosts explain that Miranda v. Arizona (1966) was actually four consolidated cases, including Vignera v. New York, Westover v. United States, and California v. Stewart, all involving confessions after interrogation. They tie this to the Fifth Amendment protection against self-incrimination.",
+      "topics": [
+        "Miranda v. Arizona",
+        "Fifth Amendment",
+        "self-incrimination",
+        "consolidated cases"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Ernesto Miranda's case and police deception",
+      "summary": "Ernesto Miranda was picked up in Phoenix, Arizona for questioning in a kidnapping and rape case. Police falsely told him a witness identified him in a lineup, and he signed a written confession without knowing he could remain silent. The Supreme Court later upheld police use of deception in interrogation but said confessions must follow warnings of rights.",
+      "topics": [
+        "Ernesto Miranda",
+        "Phoenix Arizona",
+        "police deception",
+        "coerced confession",
+        "voluntary confession"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "The Supreme Court ruling and aftermath of the Miranda case",
+      "summary": "The Supreme Court ruled 5-4 that suspects must be informed of their rights before custodial interrogation. Miranda was retried without his confession but was still convicted, later paroled, sold autographed Miranda cards, and was stabbed to death in a bar fight; his attacker was read his rights and did not talk.",
+      "topics": [
+        "Supreme Court ruling",
+        "custodial interrogation",
+        "Miranda cards",
+        "Miranda aftermath"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Defining custody and non-custodial situations",
+      "summary": "The hosts discuss what counts as being in custody, including handcuffs and locked police cars, and the 'denial of complete freedom of action' standard. They debate whether the presence of police can create implied detention, and whether a traffic stop is non-custodial, questioning whether a driver can legally drive off.",
+      "topics": [
+        "in custody",
+        "custodial interrogation",
+        "traffic stop",
+        "implied detention",
+        "freedom of movement"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Consequences of not reading Miranda rights",
+      "summary": "Failing to read Miranda rights does not release a suspect; it only bars the use of statements made during custodial interrogation in court, along with some derivative evidence. The hosts give a hypothetical about a suspect admitting to marijuana before being told of rights.",
+      "topics": [
+        "Miranda violation",
+        "suppressed evidence",
+        "derivative evidence",
+        "non-custodial statements"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Public safety exception and the Boston bombing suspect",
+      "summary": "The hosts explain the public safety exception from New York v. Quarles (1984), in which a gun was retrieved before Miranda warnings. They discuss the 2013 Boston bombing suspect questioned in hospital without warnings, who revealed information about possible explosives, and the Times Square bomber case three years earlier, and debate the limits of the exception.",
+      "topics": [
+        "public safety exception",
+        "New York v. Quarles",
+        "Boston bombing interrogation",
+        "Times Square bomber",
+        "terrorism interrogation",
+        "counterterrorism rights"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:29:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on The Royal Tenenbaums and fan theories",
+      "summary": "A listener shares a fan theory that each Royal Tenenbaum character represents a stage of grief, and the hosts discuss fan theories. A shout-out for a teacher's tenth anniversary closes out the segment, followed by the sign-off.",
+      "topics": [
+        "The Royal Tenenbaums",
+        "fan theories",
+        "listener mail",
+        "anniversary shout-out"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10592,
+    "output_tokens": 2474
+  }
+}

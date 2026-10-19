@@ -1,0 +1,137 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-01-09_Short_Stuff_How_Often_Do_You_Need_To_Change_Your_Oil_14min.txt",
+  "title": "Short Stuff: How Often Do You Need To Change Your Oil?",
+  "date": "2019-01-09",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-how-often-do-you-need-to-change-your-o",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0407b8fb-ddd1-457b-99d8-ae280054153d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0407b8fb-ddd1-457b-99d8-ae280054153d/transcript?format=TextWithTimestamps&t=1700543712",
+  "summary": "Short Stuff episode on how often to change car oil. Josh and Chuck discuss the no-appointment quick-lube shops and why they recommend a regular mechanic, then explain that the old three-thousand-mile or three-month oil change rule is outdated for newer cars. They cover the dashboard oil life indicator light versus the low-oil warning light (stop driving immediately), and why the sticker in the window should be ignored. Owner's manuals list a normal and a severe schedule; severe driving means short trips and stop-and-go traffic, which is harder on the engine because water condensation builds up unless the engine runs long enough (roughly ten-plus miles at highway speed) to burn it off. They discuss synthetic versus conventional oil, including its benefits and environmental tradeoffs, and briefly mention canola-based oil. The closing advice is to follow the indicator light, consult the owner's manual, and change oil at least every six months if you drive short trips.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "oil change interval",
+    "how often to change oil",
+    "oil life indicator light",
+    "low oil pressure warning light",
+    "owner's manual oil recommendations",
+    "three thousand mile oil change myth",
+    "severe driving vs normal driving",
+    "short trips and engine wear",
+    "highway driving and condensation",
+    "synthetic oil",
+    "conventional oil",
+    "quick lube shops",
+    "car maintenance",
+    "engine oil environmental impact",
+    "canola oil engine oil",
+    "oil change sticker",
+    "water condensation in engine oil"
+  ],
+  "entities": [
+    {
+      "name": "Honda Pilot",
+      "type": "other"
+    },
+    {
+      "name": "Edmunds",
+      "type": "organization"
+    },
+    {
+      "name": "Plymouth Valiant",
+      "type": "other"
+    },
+    {
+      "name": "Jaguar",
+      "type": "other"
+    },
+    {
+      "name": "Crisco",
+      "type": "other"
+    },
+    {
+      "name": "Car Talk",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and quick-lube shops",
+      "summary": "Josh and Chuck open the episode, joke about Josh being overdue for an oil change, and discuss avoiding no-appointment quick-lube shops in favor of a regular mechanic.",
+      "topics": [
+        "quick lube shops",
+        "choosing a mechanic",
+        "oil change"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Oil life light versus low oil warning",
+      "summary": "Chuck explains the oil life indicator light and the separate low-oil light, which means stop driving as soon as possible. They discuss how running out of oil can destroy an engine.",
+      "topics": [
+        "oil life indicator light",
+        "low oil pressure warning light",
+        "running out of oil"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Why the three-thousand-mile rule is outdated",
+      "summary": "The hosts say the old three-thousand-mile or three-month guideline no longer applies to newer cars, since the indicator system monitors oil condition. They say the window sticker is a sales gimmick and to check the owner's manual, which lists a normal and a severe schedule.",
+      "topics": [
+        "three thousand mile oil change myth",
+        "owner's manual oil recommendations",
+        "oil change sticker"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Normal versus severe driving and condensation",
+      "summary": "Severe driving means short trips and stop-and-go traffic. Water condensation can build up in oil, and highway driving of more than about ten miles burns it off, so short-trip drivers should use the shorter interval.",
+      "topics": [
+        "severe driving vs normal driving",
+        "highway driving and condensation",
+        "short trips and engine wear",
+        "water condensation in engine oil"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Synthetic oil, environment, and canola oil",
+      "summary": "The hosts compare synthetic and conventional oil, noting synthetics last longer and perform better but cost more. They discuss environmental effects of fewer oil changes and mention canola-based engine oil as an experimental alternative.",
+      "topics": [
+        "synthetic oil",
+        "conventional oil",
+        "engine oil environmental impact",
+        "canola oil engine oil"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:14:00",
+      "kind": "outro",
+      "title": "Recap and sign-off",
+      "summary": "Josh recaps: follow the oil life light, consult the owner's manual, ignore the sticker, and change oil about every six months if driving short trips. The show closes with an email invitation.",
+      "topics": [
+        "oil change recap"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5727,
+    "output_tokens": 1677
+  }
+}

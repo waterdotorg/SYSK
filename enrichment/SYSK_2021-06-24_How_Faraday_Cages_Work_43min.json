@@ -1,0 +1,200 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-06-24_How_Faraday_Cages_Work_43min.txt",
+  "title": "How Faraday Cages Work",
+  "date": "2021-06-24",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-faraday-cages-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5debd1ed-77f0-4cda-bc9a-ae280015447c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5debd1ed-77f0-4cda-bc9a-ae280015447c/transcript?format=TextWithTimestamps&t=1700543588",
+  "summary": "Josh and Chuck explain Faraday cages: conductive enclosures that keep electric charge and electromagnetic radiation out (and sometimes in). They cover Ben Franklin's 1755 pint-can and cork-ball observations, Michael Faraday's room and ice pail experiments, the physics of electrostatic induction, and applications including microwave doors, MRI rooms, labs, airplanes and cars struck by lightning, shielded government rooms, and EMF-allergy and survivalist claims. They also discuss a Dutch computer expert's electromagnetic eavesdropping on voting machines. The episode ends with a listener email suggesting an electric eel episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Faraday cage",
+    "Faraday cages",
+    "Michael Faraday",
+    "Ben Franklin",
+    "electrostatic induction",
+    "electromagnetic radiation",
+    "electromagnetic shielding",
+    "lightning and cars",
+    "airplanes lightning",
+    "microwave oven door",
+    "MRI room shielding",
+    "EMF allergy",
+    "survivalist EMP protection",
+    "electromagnetic pulse",
+    "electromagnetic eavesdropping",
+    "Rop Gonggrijp voting machines",
+    "Faraday ice pail",
+    "RF shielding",
+    "electrical conductors",
+    "electric eels"
+  ],
+  "entities": [
+    {
+      "name": "Michael Faraday",
+      "type": "person"
+    },
+    {
+      "name": "Ben Franklin",
+      "type": "person"
+    },
+    {
+      "name": "Rop Gonggrijp",
+      "type": "person"
+    },
+    {
+      "name": "Faraday cage",
+      "type": "other"
+    },
+    {
+      "name": "Better Call Saul",
+      "type": "work"
+    },
+    {
+      "name": "The Langoliers",
+      "type": "work"
+    },
+    {
+      "name": "The Ice Storm",
+      "type": "work"
+    },
+    {
+      "name": "Holland Shielding",
+      "type": "organization"
+    },
+    {
+      "name": "Michael Faraday ice pail experiment",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and drinks",
+      "summary": "Josh and Chuck chat about drinks (Topo Chico, tequila), a lightning-strike question, and the Faraday name, setting up the topic.",
+      "topics": [
+        "Topo Chico",
+        "lightning and cars"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "What a Faraday cage is and Ben Franklin's observations",
+      "summary": "A Faraday cage is a conductor surrounding something to protect it from electric charge or electromagnetic radiation. Ben Franklin in 1755 lowered an uncharged cork ball into an electrified pint can and saw it did not pick up charge; Michael Faraday later investigated the effect decades on.",
+      "topics": [
+        "Faraday cage",
+        "Ben Franklin",
+        "electromagnetic radiation",
+        "electrical conductors"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Faraday's experiments and the ice pail",
+      "summary": "Faraday recreated the experiments, including sitting inside a foil-lined room with charge applied outside, and used an ice pail (a bucket, now made of wire mesh) to show the charge stays on the exterior.",
+      "topics": [
+        "Michael Faraday",
+        "Faraday ice pail",
+        "Faraday experiments"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Electrostatic induction explained",
+      "summary": "Using a pint can as an example, the hosts explain how a charged object pulls opposite charges to the near side of a conductor and pushes like charges away, so the charge stays on the outside and the inside is neutral.",
+      "topics": [
+        "electrostatic induction",
+        "electrons and protons",
+        "electrical current",
+        "charge distribution"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break; no sponsor read is present in the transcript.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Shielding strength and real-world applications",
+      "summary": "Shielding depends on the metal, conductivity, and mesh hole size relative to wavelength; plaster and lath walls and rebar can act as partial cages. Applications include university labs, MRI rooms, and airplanes, which are Faraday cages and are sometimes struck by lightning.",
+      "topics": [
+        "shielding effectiveness",
+        "MRI room shielding",
+        "airplanes lightning",
+        "microwave oven door",
+        "lab shielding"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "EMF allergies, secure rooms, and eavesdropping",
+      "summary": "The hosts discuss EMF allergy claims as largely unsupported by science, government secure rooms that block leakage, and Rop Gonggrijp's demonstration of electromagnetic eavesdropping on Dutch voting machines.",
+      "topics": [
+        "EMF allergy",
+        "secure rooms",
+        "electromagnetic eavesdropping",
+        "Rop Gonggrijp voting machines"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Survivalists and EMP protection",
+      "summary": "Preppers build Faraday cages to protect electronics from electromagnetic pulses, though a cage is useless if you are outside it during an event. Shielding wallpaper and mu-metal are mentioned as options.",
+      "topics": [
+        "EMP protection",
+        "survivalist preppers",
+        "shielding wallpaper",
+        "mu-metal"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Off-topic chat about sleep and email",
+      "summary": "Josh and Chuck discuss their sleep habits and scheduling emails.",
+      "topics": [
+        "sleep habits"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:00",
+      "kind": "listener_mail",
+      "title": "Listener email suggesting electric eels",
+      "summary": "A listener from Poland suggests an episode on electric eels, noting how little is known about them, and the hosts respond warmly.",
+      "topics": [
+        "electric eels",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14197,
+    "output_tokens": 2218
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-01-12_How_Organ_Donation_Works_36min.txt",
+  "title": "How Organ Donation Works",
+  "date": "2010-01-12",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-organ-donation-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c4e0ec1e-27d3-4b97-805c-ae2800ba8238/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c4e0ec1e-27d3-4b97-805c-ae2800ba8238/transcript?format=TextWithTimestamps&t=1700543973",
+  "summary": "Josh and Chuck discuss organ donation: the first living-donor kidney transplant between twins Richard and Ronald Herrick in 1954, earlier and odd transplant history, the waiting list statistics from UNOS (checked live during the show), which organs can come from living versus deceased donors, organ regeneration of the liver, religious objections (Shinto, Amish, Jehovah's Witnesses, Romani), registering through the DMV and Georgia's seven-dollar incentive, brain death versus cardiac death procurement rules including the sixty-five-second rule and the apnea test, organ procurement organizations, UNOS, SRTR and OPTN, organ transport, post-transplant lifestyle expectations, the black market in organs and kidney theft, and a listener mail story about a bookstore thief's journal.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "organ donation",
+    "living organ donation",
+    "deceased organ donation",
+    "kidney transplant",
+    "first living donor transplant 1954",
+    "Herrick twins kidney transplant",
+    "waiting list for organs",
+    "UNOS",
+    "United Network for Organ Sharing",
+    "organ procurement organization",
+    "brain death",
+    "cardiac death",
+    "sixty-five second rule",
+    "apnea test",
+    "liver regeneration",
+    "organ transplant tourism",
+    "black market organ trade",
+    "kidney theft",
+    "donor registry",
+    "religious views on organ donation",
+    "heart-lung transplant wait time",
+    "Scientific Registry of Transplant Recipients",
+    "organ transport cooler",
+    "Alistair Cook body tissue sale",
+    "kleptomania listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Richard Herrick",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Herrick",
+      "type": "person"
+    },
+    {
+      "name": "Tom Scheve",
+      "type": "person"
+    },
+    {
+      "name": "Selim Khan",
+      "type": "person"
+    },
+    {
+      "name": "Michael Marino",
+      "type": "person"
+    },
+    {
+      "name": "Alistair Cook",
+      "type": "person"
+    },
+    {
+      "name": "United Network for Organ Sharing",
+      "type": "organization"
+    },
+    {
+      "name": "Scientific Registry of Transplant Recipients",
+      "type": "organization"
+    },
+    {
+      "name": "Organ Procurement and Transplantation Network",
+      "type": "organization"
+    },
+    {
+      "name": "Biomedical Tissue Services",
+      "type": "organization"
+    },
+    {
+      "name": "Life Guardian Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Harvard",
+      "type": "organization"
+    },
+    {
+      "name": "Georgia Organ Procurement Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Shinto",
+      "type": "other"
+    },
+    {
+      "name": "Jehovah's Witnesses",
+      "type": "organization"
+    },
+    {
+      "name": "Amish",
+      "type": "organization"
+    },
+    {
+      "name": "South Africa",
+      "type": "place"
+    },
+    {
+      "name": "Delhi",
+      "type": "place"
+    },
+    {
+      "name": "Brazil",
+      "type": "place"
+    },
+    {
+      "name": "Turkey",
+      "type": "place"
+    },
+    {
+      "name": "Richmond, Virginia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and organ donation introduction",
+      "summary": "Josh and Chuck joke about kidneys and livers, then introduce organ donation as the topic.",
+      "topics": [
+        "organ donation",
+        "podcast introduction"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "History of transplants and the 1954 twin kidney transplant",
+      "summary": "The first successful living-to-living organ donation was a kidney from Ronald Herrick to his dying twin Richard in 1954, with low rejection risk due to twin genetics. Earlier and odd transplant attempts are mentioned, and the hosts note that more than half a million transplants have been performed.",
+      "topics": [
+        "first living donor transplant 1954",
+        "Herrick twins kidney transplant",
+        "transplant history",
+        "xenotransplantation"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Live waiting list statistics from UNOS",
+      "summary": "The hosts read up-to-the-minute waiting list numbers from UNOS: about 105,000 people waiting for organs and 83,012 for kidneys, and plan to recheck later.",
+      "topics": [
+        "waiting list for organs",
+        "UNOS",
+        "organ shortage"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "What organs are and organ reserve capacity",
+      "summary": "Chuck explains organs as systems of cells and tissues, noting their reserve capacity and that corneas do not deteriorate with age like other organs. Organs do deteriorate with age, and wait times for organs are discussed, including a median wait of 6.7 years for heart-lung combinations.",
+      "topics": [
+        "organs",
+        "organ reserve capacity",
+        "cornea transplant",
+        "heart-lung transplant wait time"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Living versus deceased donation and the liver",
+      "summary": "Organs can come from living or deceased donors; hearts generally come only from deceased donors. The liver can regenerate, so a portion can be donated, including to children, and it grows back to full size.",
+      "topics": [
+        "living donor",
+        "deceased donor",
+        "liver regeneration",
+        "partial liver donation",
+        "kidney donation"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Religious objections and donor eligibility",
+      "summary": "Exceptions to donation are discussed, including HIV and certain infections, and religious views from Shinto, Amish, Romani, and Jehovah's Witnesses, which are explained.",
+      "topics": [
+        "religious views on organ donation",
+        "Shinto organ donation",
+        "Amish organ donation",
+        "Jehovah's Witnesses blood draining",
+        "donor eligibility"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Registering as a donor and Georgia's seven-dollar incentive",
+      "summary": "Registration is done at the DMV. Georgia once paid seven dollars off driver's licenses for donor sign-ups, which made donor rates hard to trust; the program stopped in 2005 because compensation for organs is illegal.",
+      "topics": [
+        "donor registry",
+        "DMV organ donor registration",
+        "Georgia organ donor incentive",
+        "organ sale illegal"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Brain death versus cardiac death and procurement rules",
+      "summary": "Deceased donation happens by brain death or cardiac death. Cardiac death lacks laws; a five-minute wait was established, then a Colorado doctor's sixty-five-second rule, which was challenged in an unsuccessful lawsuit. Brain death is defined by tests including an apnea test, and the ventilator blurs the line between life and death. A 2008 white paper is mentioned.",
+      "topics": [
+        "brain death",
+        "cardiac death",
+        "sixty-five second rule",
+        "apnea test",
+        "ventilator and death",
+        "death definition"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Organ procurement organizations and related networks",
+      "summary": "Organ procurement organizations are federally designated nonprofits that handle awareness, recruitment, evaluation, removal, and transport, and talk to families. Hospitals must notify them of deaths. UNOS, SRTR, and OPTN are described, and the advice to put donor wishes in a living will is given.",
+      "topics": [
+        "organ procurement organization",
+        "UNOS",
+        "Scientific Registry of Transplant Recipients",
+        "organ donor family consent",
+        "living will donor wishes"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Organ transport and post-transplant expectations",
+      "summary": "Organs are flown in coolers between cities. Living donors get some consideration on waiting lists, and insurance may penalize former donors. Recipients are expected to live healthily, and recipients typically pay donor travel costs.",
+      "topics": [
+        "organ transport cooler",
+        "living donor insurance",
+        "post-transplant lifestyle",
+        "donor expenses"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Organ black market and kidney theft",
+      "summary": "The hosts discuss the illegal organ trade, mostly in poor countries, including a 2003 South African case with Brazilian sellers, Indian villagers paid around $800, and Israeli brokers in Turkey. A Delhi kidney theft case is described. A 2000 New York case involved Biomedical Tissue Services, which sold tissue including from Alistair Cook.",
+      "topics": [
+        "black market organ trade",
+        "kidney theft",
+        "organ trafficking",
+        "Biomedical Tissue Services",
+        "Alistair Cook tissue"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:00:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: bookstore thief's journal",
+      "summary": "Sarah writes about a bookstore that received a journal from a long-time thief who logged every book stolen over twenty years; the thief was from a prominent local family and the matter was settled out of court.",
+      "topics": [
+        "kleptomania",
+        "listener mail",
+        "bookstore theft"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:00:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts encourage listeners to email and mention further resources on how stuff works, then sign off.",
+      "topics": [
+        "podcast sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12593,
+    "output_tokens": 3345
+  }
+}

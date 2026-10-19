@@ -1,0 +1,215 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-11-13_How_close_are_we_to_holographic_environments_23min.txt",
+  "title": "How close are we to holographic environments?",
+  "date": "2012-11-13",
+  "duration": "23 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-close-are-we-to-holographic-environments",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ad7425d9-014f-4f04-bc15-ae2800a45284/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ad7425d9-014f-4f04-bc15-ae2800a45284/transcript?format=TextWithTimestamps&t=1700543922",
+  "summary": "Josh and Chuck discuss how close holographic environments are to reality, starting from the Star Trek holodeck and moving to telepresence/tele-immersion for video conferencing, the National Tele-Immersion Initiative, ultra-fast internet (the Internet2-style university network), Microsoft's HoloDesk research, Microsoft Kinect motion tracking, haptic feedback for virtual touch and hugging, the 2Pac hologram at Coachella, and PTSD training uses. They also read a listener email from Lance Spangler about supercomputer nuclear simulations and cell-level heart modeling.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "holographic environments",
+    "holodeck",
+    "Star Trek holodeck",
+    "tele-immersion",
+    "telepresence",
+    "video conferencing",
+    "National Tele-Immersion Initiative",
+    "high-speed internet bandwidth",
+    "Microsoft HoloDesk",
+    "Microsoft Kinect motion tracking",
+    "haptics",
+    "haptic feedback",
+    "virtual hugging",
+    "2Pac hologram",
+    "holograms",
+    "virtual reality",
+    "PTSD training with virtual environments",
+    "surgeon training holograms",
+    "supercomputer nuclear weapons simulation",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Star Trek",
+      "type": "work"
+    },
+    {
+      "name": "holodeck",
+      "type": "other"
+    },
+    {
+      "name": "Star Wars",
+      "type": "work"
+    },
+    {
+      "name": "Microsoft",
+      "type": "organization"
+    },
+    {
+      "name": "National Tele-Immersion Initiative",
+      "type": "organization"
+    },
+    {
+      "name": "University of North Carolina at Chapel Hill",
+      "type": "organization"
+    },
+    {
+      "name": "HoloDesk",
+      "type": "other"
+    },
+    {
+      "name": "Kinect",
+      "type": "other"
+    },
+    {
+      "name": "2Pac hologram",
+      "type": "event"
+    },
+    {
+      "name": "Tupac Shakur",
+      "type": "person"
+    },
+    {
+      "name": "Lance Spangler",
+      "type": "person"
+    },
+    {
+      "name": "Kevin Bondser",
+      "type": "person"
+    },
+    {
+      "name": "Berkeley",
+      "type": "organization"
+    },
+    {
+      "name": "PlayStation 3",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Chuck's mustache fundraiser",
+      "summary": "Josh and Chuck open with off-topic banter about the dinosaur toy and Chuck's Movember mustache fundraiser for prostate cancer research, then introduce the topic Chuck picked.",
+      "topics": [
+        "Movember",
+        "prostate cancer research"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "The holodeck and what tele-immersion means",
+      "summary": "The hosts compare the Star Trek holodeck with the Star Wars projected hologram, explaining that tele-immersion aims for three-dimensional, 360-degree interactive projections where people can move around and interact, not just watch a clunky projection.",
+      "topics": [
+        "holodeck",
+        "Star Trek holodeck",
+        "tele-immersion",
+        "holograms vs projections",
+        "Star Wars hologram"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Telepresence, video conferencing and the 2000 breakthrough",
+      "summary": "They discuss tele-immersion as a replacement for video conferencing and travel, the Tandberg system that was already HD, and the limits of webcams such as eye contact and tracking. They describe the National Tele-Immersion Initiative's 2000 breakthrough showing 3D holographic images of colleagues in different cities.",
+      "topics": [
+        "telepresence",
+        "video conferencing",
+        "National Tele-Immersion Initiative",
+        "webcam eye contact",
+        "Tandberg"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Bandwidth challenges and ultra-fast networks",
+      "summary": "The hosts describe the data demands of tele-immersion, including frame refresh rates, and mention a university initiative to build much faster networks, including for underserved rural areas.",
+      "topics": [
+        "bandwidth",
+        "high-speed internet",
+        "frame rate",
+        "rural internet access"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Microsoft HoloDesk and haptics",
+      "summary": "Josh describes Microsoft's HoloDesk research project, which projects 2D images through a half-silvered beam splitter onto a desk so users can juggle virtual balls. They then discuss haptic feedback as a way to simulate touch, such as vibrating game controllers and tactile sensors, and virtual hugging.",
+      "topics": [
+        "Microsoft HoloDesk",
+        "haptics",
+        "haptic feedback",
+        "virtual hugging",
+        "virtual touch"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Training uses, Kinect and the 2Pac hologram",
+      "summary": "The hosts discuss surgeon and soldier training and a PTSD-prevention idea of desensitizing soldiers through immersive simulation. They mention Microsoft's Kinect motion tracking and then the 2Pac hologram, which used a projection and reflective screen setup to perform alongside live performers.",
+      "topics": [
+        "surgeon training holograms",
+        "PTSD training",
+        "Kinect",
+        "2Pac hologram",
+        "Tupac hologram"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Wrap-up and Berkeley tele-immersion lab",
+      "summary": "The hosts close the topic, mention that Berkeley's tele-immersion lab is still active (Josh briefly confuses the school with a Massachusetts one), and joke about a future where a boss hugs remotely.",
+      "topics": [
+        "Berkeley tele-immersion",
+        "future of holographic video conferencing"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:22:45",
+      "kind": "listener_mail",
+      "title": "Listener mail from Lance Spangler",
+      "summary": "Chuck reads an email from listener Lance Spangler, who writes about a California supercomputer that simulates nuclear weapons at the sub-atomic level and models human heart cells to test drugs and diseases. The hosts also discuss sending stickers and shirts to military listeners.",
+      "topics": [
+        "listener mail",
+        "supercomputer simulation",
+        "nuclear weapons simulation",
+        "cell-level heart modeling"
+      ]
+    },
+    {
+      "start": "00:22:45",
+      "end": "00:23:00",
+      "kind": "outro",
+      "title": "Sign-off and contact info",
+      "summary": "Josh gives contact details for Twitter, Facebook, and email, and points listeners to HowStuffWorks.com.",
+      "topics": [
+        "contact information",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 8637,
+    "output_tokens": 2405
+  }
+}

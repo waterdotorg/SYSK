@@ -1,0 +1,213 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-01-15_How_Airbags_Work_40min.txt",
+  "title": "How Airbags Work",
+  "date": "2019-01-15",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-airbags-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2e16452e-c9fd-4995-a2bc-ae280053ae54/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e16452e-c9fd-4995-a2bc-ae280053ae54/transcript?format=TextWithTimestamps&t=1700543712",
+  "summary": "Josh and Chuck explain how airbags work and their history. They cover the 1953 patent by John Hetrick, Ralph Nader's advocacy alongside seat belts, and why early compressed-gas designs were too slow. They describe the sodium azide propellant chemistry, the sensor and microcontroller that trigger deployment in about 30 thousandths of a second, and the ball-bearing mechanism used in older designs. Safety guidance covers sitting at least ten inches from the steering wheel, tilting the wheel toward the chest, placing children in the back seat under twelve, and driving at nine and three. They discuss the passenger-side airbag off switch and the University of Georgia 2005 study on airbag fatalities. The episode also covers the Takata airbag recall, in which faulty inflators shot shrapnel, and the limits of airbags at low and very high speeds, plus side curtain airbags and newer designs. The closing listener mail is about Dr. Seuss.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "airbags",
+    "how airbags work",
+    "airbag history",
+    "John Hetrick patent",
+    "Ralph Nader",
+    "Unsafe at Any Speed",
+    "passive safety features",
+    "seat belts",
+    "sodium azide",
+    "airbag deployment sensor",
+    "accelerometer",
+    "airbag inflation chemistry",
+    "Takata airbag recall",
+    "faulty airbag inflators",
+    "passenger airbag off switch",
+    "child safety airbags",
+    "driving position ten inches from steering wheel",
+    "side curtain airbags",
+    "crumple zones",
+    "University of Georgia airbag study",
+    "airbag low speed danger",
+    "nine and three driving position",
+    "airbag injuries",
+    "Dr. Seuss listener mail"
+  ],
+  "entities": [
+    {
+      "name": "John Hetrick",
+      "type": "person"
+    },
+    {
+      "name": "Ralph Nader",
+      "type": "person"
+    },
+    {
+      "name": "Marshall Brain",
+      "type": "person"
+    },
+    {
+      "name": "Takata",
+      "type": "organization"
+    },
+    {
+      "name": "National Transportation Safety Board",
+      "type": "organization"
+    },
+    {
+      "name": "University of Georgia",
+      "type": "organization"
+    },
+    {
+      "name": "Unsafe at Any Speed",
+      "type": "work"
+    },
+    {
+      "name": "Ashley Parham",
+      "type": "person"
+    },
+    {
+      "name": "Dr. Seuss",
+      "type": "person"
+    },
+    {
+      "name": "Sophia Cook",
+      "type": "person"
+    },
+    {
+      "name": "Volvo",
+      "type": "organization"
+    },
+    {
+      "name": "BMW",
+      "type": "organization"
+    },
+    {
+      "name": "Vacation",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts introduce the airbag episode, note the article source is dated and regulations seem unchanged, and joke about the Chevy Chase movie Vacation's airbag gag.",
+      "topics": [
+        "airbags",
+        "Vacation film airbag gag"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Airbag history and early development",
+      "summary": "John Hetrick patented a safety cushion in 1953 and automakers ignored it. Ralph Nader's Unsafe at Any Speed promoted airbags with seat belts. Seat belt laws were weak, so airbags were added as a passive safety feature. Mandates for frontal and later side airbags followed.",
+      "topics": [
+        "John Hetrick patent",
+        "airbag history",
+        "Ralph Nader",
+        "passive safety features",
+        "seat belt laws"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Why early compressed-gas airbags failed",
+      "summary": "The original compressed-gas design inflated too slowly, and a late airbag could push the head back. Airbags are meant to act as a barrier against the steering column, and deployment must happen in about 30 thousandths of a second.",
+      "topics": [
+        "compressed gas airbag",
+        "airbag deployment timing",
+        "airbag physics"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Sodium azide chemistry and sensors",
+      "summary": "Solid rocket fuel style propellant, sodium azide, decomposes into nitrogen gas when heated. Additives neutralize sodium byproducts that would form lye. Accelerometers feed data to a microcontroller that decides whether to fire. The older ball-bearing tube design is also described.",
+      "topics": [
+        "sodium azide",
+        "airbag inflation chemistry",
+        "airbag deployment sensor",
+        "accelerometer",
+        "microcontroller"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Safe seating position and children",
+      "summary": "The hosts recommend sitting at least ten inches from the steering wheel, tilting the wheel toward the chest, and using the nine and three hand position. Children under twelve should ride in the back seat, and older kids must sit correctly.",
+      "topics": [
+        "driving position ten inches from steering wheel",
+        "child safety airbags",
+        "nine and three driving position"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Passenger airbag off switch and crash study",
+      "summary": "Passenger airbag off switches are allowed for specific reasons such as rear-facing child seats in the front. A 2005 University of Georgia study found a slight overall increase in death risk from airbags when low-speed crashes were included. Airbags are estimated to raise survival in serious crashes by about a third.",
+      "topics": [
+        "passenger airbag off switch",
+        "University of Georgia airbag study",
+        "airbag fatalities"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Takata recall and airbag limits",
+      "summary": "The Takata recall involved about 37 million cars with inflators that could shoot shrapnel. Ashley Parham died after a minor crash. Airbags work best in head-on crashes and are dangerous at low speed without a seat belt. Side curtain airbags, front center airbags, knee airbags and inflatable seat belts are discussed.",
+      "topics": [
+        "Takata airbag recall",
+        "Ashley Parham",
+        "airbag shrapnel",
+        "side curtain airbags",
+        "front center airbag",
+        "knee airbags",
+        "inflatable seat belts",
+        "low speed airbag injury"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Dr. Seuss",
+      "summary": "A listener named Sophia Cook writes that she dislikes Dr. Seuss books and explains her mother's criticisms of the poetry.",
+      "topics": [
+        "listener mail",
+        "Dr. Seuss"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13047,
+    "output_tokens": 2426
+  }
+}

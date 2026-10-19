@@ -1,0 +1,279 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-07-23_Everything_You_Ever_Wanted_to_Know_About_Mobile_Phones_57min.txt",
+  "title": "Everything You Ever Wanted to Know About Mobile Phones",
+  "date": "2020-07-23",
+  "duration": "57 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/everything-you-ever-wanted-to-know-about-mobile-ph",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3a3f6039-4da4-484b-8603-ae280031676c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a3f6039-4da4-484b-8603-ae280031676c/transcript?format=TextWithTimestamps&t=1700543619",
+  "summary": "Josh and Chuck open with a plug for their upcoming book \"Stuff You Should Know: An Incomplete Compendium of Mostly Interesting Things\" and its pre-order poster, which is unavailable outside the US. They then give a history of mobile phones across generations: smartphone and cell phone ownership statistics, the \"G\" in 0G through 5G, early radio telephones (St. Louis, Finland's ARP), Bell Labs' cellular network concept (D.H. Ring, William Ray Young), Marty Cooper's 1973 Motorola DynaTAC call, analog 1G, digital 2G with SMS and Vodafone, MMS and camera phones, 3G and the first smartphones (Simon, iPhone and App Store), 4G LTE and MIMO, and 5G millimeter wave with low latency and the Internet of Things. They close with smartphone addiction and dopamine, dumb phones and the Light Phone, custom ringtones, and listener mail from Nat about stalking the hosts on Instagram and the UK pre-order issue.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "mobile phones",
+    "cell phone history",
+    "cellular network",
+    "1G 2G 3G 4G 5G generations",
+    "5G",
+    "4G LTE",
+    "3G",
+    "2G",
+    "Marty Cooper",
+    "DynaTAC",
+    "Bell Labs",
+    "radio telephone",
+    "Almost Ready Telephone",
+    "SMS text messaging",
+    "MMS",
+    "smartphone history",
+    "iPhone",
+    "App Store",
+    "millimeter wave",
+    "MIMO",
+    "latency",
+    "Internet of Things",
+    "smartphone addiction",
+    "dopamine and phones",
+    "dumb phones",
+    "Light Phone",
+    "Vodafone prepaid phones",
+    "Stuff You Should Know book pre-order",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Marty Cooper",
+      "type": "person"
+    },
+    {
+      "name": "Joel Engel",
+      "type": "person"
+    },
+    {
+      "name": "D. H. Ring",
+      "type": "person"
+    },
+    {
+      "name": "William Ray Young",
+      "type": "person"
+    },
+    {
+      "name": "Bell Labs",
+      "type": "organization"
+    },
+    {
+      "name": "AT&T",
+      "type": "organization"
+    },
+    {
+      "name": "Motorola",
+      "type": "organization"
+    },
+    {
+      "name": "DynaTAC",
+      "type": "work"
+    },
+    {
+      "name": "Vodafone",
+      "type": "organization"
+    },
+    {
+      "name": "Radiopuhelin",
+      "type": "organization"
+    },
+    {
+      "name": "Simon",
+      "type": "work"
+    },
+    {
+      "name": "Light Phone",
+      "type": "work"
+    },
+    {
+      "name": "Sony Ericsson T68",
+      "type": "work"
+    },
+    {
+      "name": "Tristan Harris",
+      "type": "person"
+    },
+    {
+      "name": "Nicholas Carr",
+      "type": "person"
+    },
+    {
+      "name": "St. Louis",
+      "type": "place"
+    },
+    {
+      "name": "Finland",
+      "type": "place"
+    },
+    {
+      "name": "Third Generation Partnership Project",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "ad",
+      "title": "Book pre-order plug",
+      "summary": "Hosts promote the book Stuff You Should Know: An Incomplete Compendium of Mostly Interesting Things, its pre-order poster, and note the poster is not yet available outside the US.",
+      "topics": [
+        "book pre-order",
+        "Stuff You Should Know book",
+        "pre-order poster"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "intro",
+      "title": "Opening banter and mobile phone stats",
+      "summary": "Hosts introduce the episode on mobile phones, discuss the book again and the international poster issue, and cite statistics on cell phone and smartphone ownership and how often people touch their phones.",
+      "topics": [
+        "cell phone ownership statistics",
+        "smartphone ownership",
+        "screen time"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "What G stands for in cell phone generations",
+      "summary": "The hosts explain that G stands for generation, and that each generation defines the network and the devices that run on it, with the 5G conspiracy theories mentioned as a joke.",
+      "topics": [
+        "cellular generations",
+        "G meaning",
+        "5G conspiracy theories"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Zero G: early radio telephones and the cellular network idea",
+      "summary": "Early mobile radio telephones, such as field radios and the first radio telephone network in St. Louis in the mid-1940s, are discussed. Bell Labs engineers D.H. Ring and William Ray Young proposed a hexagonal grid of towers with handoff, which gave cellular networks their name, though the idea was not built until later. Finland's ARP is noted as the first nationwide mobile phone network in 1971.",
+      "topics": [
+        "radio telephone",
+        "St. Louis radio telephone",
+        "Bell Labs cellular concept",
+        "hexagonal cell towers",
+        "ARP Finland"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Marty Cooper's first cell phone call",
+      "summary": "Marty Cooper of Motorola made the first cell phone call in the US in 1973 on a roughly two and a half pound brick phone, reportedly calling Joel Engel at AT&T Bell Labs. The 1973 Popular Science cover is mentioned.",
+      "topics": [
+        "Marty Cooper",
+        "first cell phone call",
+        "DynaTAC",
+        "Motorola brick phone",
+        "Joel Engel"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "1G analog cellular networks",
+      "summary": "The first commercial cellular network is described as set up by AT&T, using analog signals. Analog had drawbacks such as limited capacity and poor security, and was used into the early 1990s.",
+      "topics": [
+        "1G",
+        "analog cellular",
+        "first cellular network",
+        "analog drawbacks"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "2G digital networks and SMS texting",
+      "summary": "2G digitized calls, allowing roughly ten digital calls in the space of one analog call. It started in Europe, and SMS (short message service, 160 characters) was created by an engineer in the GSM group. Vodafone's prepaid service helped spread texting, and the first SMS was sent by a Vodafone engineer. Hosts share personal anecdotes about early texting and dumb phone-era texting habits.",
+      "topics": [
+        "2G",
+        "digital cellular",
+        "SMS",
+        "text messaging history",
+        "prepaid phones",
+        "burner phones",
+        "Vodafone"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "MMS, camera phones, and early smartphones",
+      "summary": "MMS allowed sending pictures and music, and early cameras on phones such as the Sony Ericsson T68 were small and grainy. The Light Phone is described as a companion phone with minimal features. 3G brought mobile broadband, and the first smartphone was the Simon; the 2007 iPhone and the App Store made smartphones mainstream.",
+      "topics": [
+        "MMS",
+        "camera phone",
+        "Sony Ericsson T68",
+        "Light Phone",
+        "3G",
+        "Simon smartphone",
+        "iPhone 2007",
+        "App Store",
+        "early smartphone apps"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "4G LTE, 5G millimeter wave, and the Internet of Things",
+      "summary": "4G LTE was about ten times faster than 3G and enabled HD streaming; it uses OFDM and MIMO. Capacity and latency limits in crowded cities like New York are discussed. 5G uses the millimeter wave spectrum (30 to 300 GHz) with wide channels and very low latency, supported by small transmitters and the Internet of Things, enabling ideas like smart roads and augmented reality.",
+      "topics": [
+        "4G LTE",
+        "MIMO",
+        "OFDM",
+        "5G millimeter wave",
+        "latency",
+        "Internet of Things",
+        "smart roads",
+        "augmented reality"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Phone addiction, dopamine, and notifications",
+      "summary": "The hosts discuss smartphone addiction and dopamine-driven notifications, referencing Nicholas Carr's Atlantic article and Tristan Harris. Chuck describes his ringtones and that he keeps notifications off.",
+      "topics": [
+        "smartphone addiction",
+        "dopamine",
+        "push notifications",
+        "Nicholas Carr",
+        "Tristan Harris"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "00:57:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Nat",
+      "summary": "Listener Nat says the show helped her through a hard time, mentions stalking the hosts on Instagram, and asks about the UK pre-order issue. The hosts reply and sign off with the listener mail address.",
+      "topics": [
+        "listener mail",
+        "Instagram",
+        "UK pre-order"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17664,
+    "output_tokens": 3168
+  }
+}

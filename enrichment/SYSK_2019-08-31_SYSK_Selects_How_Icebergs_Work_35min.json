@@ -1,0 +1,313 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-08-31_SYSK_Selects_How_Icebergs_Work_35min.txt",
+  "title": "SYSK Selects: How Icebergs Work",
+  "date": "2019-08-31",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-icebergs-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7aa4b910-d6eb-43e6-a3a7-ae280046dc81/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7aa4b910-d6eb-43e6-a3a7-ae280046dc81/transcript?format=TextWithTimestamps&t=1700543683",
+  "summary": "SYSK Selects rerun of an episode on how icebergs work. The hosts open with banter about computers and the Titanic-era sinkings (William Carson, Lady of the Lake, SS Hans Hedtoft), then explain glaciers, calving, and ice shelves; why ice floats (lower density than water) and the tip-of-the-iceberg ratio; blue and green glacial ice; iceberg size and shape classifications (growler, bergy bit, tabular, non-tabular); Greenland and Antarctica as iceberg sources; iceberg movement driven by currents and wave motion; ecological effects and iron/carbon sequestration; the idea of towing icebergs for fresh drinking water (RAND study); the International Ice Patrol and US Coast Guard; a segment on the nautical mile versus statute mile; and listener mail from Matt Schunk about Robin Dunbar's book on grooming, gossip and language evolution and vervet monkey alarm calls.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Icebergs Work",
+  "topics": [
+    "icebergs",
+    "how icebergs work",
+    "glaciers",
+    "calving",
+    "ice shelves",
+    "ice density and buoyancy",
+    "tip of the iceberg",
+    "glacial ice color blue green",
+    "iceberg size classifications",
+    "tabular icebergs",
+    "Greenland glaciers",
+    "Antarctica ice shelves",
+    "B-15 iceberg",
+    "iceberg drift currents",
+    "iceberg ecology and nutrients",
+    "iceberg carbon sequestration",
+    "towing icebergs for fresh water",
+    "International Ice Patrol",
+    "Coast Guard iceberg monitoring",
+    "William Carson sinking",
+    "Titanic",
+    "nautical mile vs statute mile",
+    "listener mail",
+    "Robin Dunbar grooming gossip language",
+    "vervet monkey alarm calls",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "Icebergs",
+      "type": "other"
+    },
+    {
+      "name": "William Carson",
+      "type": "other"
+    },
+    {
+      "name": "Lady of the Lake",
+      "type": "other"
+    },
+    {
+      "name": "Titanic",
+      "type": "other"
+    },
+    {
+      "name": "B-15 iceberg",
+      "type": "other"
+    },
+    {
+      "name": "Greenland",
+      "type": "place"
+    },
+    {
+      "name": "Antarctica",
+      "type": "place"
+    },
+    {
+      "name": "Iceberg Alley",
+      "type": "place"
+    },
+    {
+      "name": "New Zealand",
+      "type": "place"
+    },
+    {
+      "name": "Bermuda",
+      "type": "place"
+    },
+    {
+      "name": "International Ice Patrol",
+      "type": "organization"
+    },
+    {
+      "name": "US Coast Guard",
+      "type": "organization"
+    },
+    {
+      "name": "RAND Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "Robin Dunbar",
+      "type": "person"
+    },
+    {
+      "name": "Gregory Stone",
+      "type": "person"
+    },
+    {
+      "name": "Matt Schunk",
+      "type": "person"
+    },
+    {
+      "name": "Grooming, Gossip and the Evolution of Language",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and SYSK Selects intro",
+      "summary": "Josh introduces the Selects episode as based on a HowStuffWorks article, then the hosts chat casually about computers and data before starting the topic.",
+      "topics": [
+        "SYSK Selects",
+        "intro banter"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Ships sunk by icebergs",
+      "summary": "Chuck recounts the William Carson sinking off Labrador in 1913 (no lives lost, cars lost) and other ships hit by icebergs, including the Lady of the Lake off the Grand Banks and a ship hit off Greenland on its maiden voyage. They note many liners went down in Iceberg Alley between 1882 and 1899 and that iceberg tracking began about 25 years before.",
+      "topics": [
+        "William Carson",
+        "Lady of the Lake",
+        "iceberg shipwrecks",
+        "Iceberg Alley",
+        "Titanic"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Icebergs, glaciers, and calving",
+      "summary": "Icebergs are freshwater chunks of glaciers that calve off into the sea, often from ice shelves. Glaciers form from compacted snow over centuries, squeezing out air so the ice looks blue, and they flow downhill under their own weight.",
+      "topics": [
+        "glaciers",
+        "calving",
+        "ice shelves",
+        "freshwater icebergs",
+        "glacial ice blue color"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Why ice floats and the tip of the iceberg",
+      "summary": "Ice is less dense than liquid water, so it floats; saltwater freezes at a lower temperature and is denser. Only about one-sixth to one-ninth of an iceberg shows above water, with the ratio varying by salt concentration and ice density.",
+      "topics": [
+        "ice density",
+        "buoyancy",
+        "tip of the iceberg",
+        "freezing point of seawater",
+        "thermal shock"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Iceberg color, rolling, and thermal shock",
+      "summary": "Icebergs can look white from trapped air, or green from organic matter in old ice under Antarctic shelves. Icebergs can roll over unexpectedly, as in a New Zealand incident where a helicopter landed on one. Ice cubes crack in drinks through thermal shock, similar to an iceberg breaking apart.",
+      "topics": [
+        "iceberg color",
+        "green icebergs",
+        "iceberg rolling",
+        "thermal shock",
+        "Gregory Stone"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Iceberg life cycle and where they drift",
+      "summary": "Icebergs may be up to 10,000 years old before calving. After calving they last roughly three to six years, longer if they stay north of 48 degrees parallel; those that drift south melt faster, including one that reached Bermuda.",
+      "topics": [
+        "iceberg life cycle",
+        "iceberg lifespan",
+        "iceberg melting",
+        "Bermuda iceberg"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Iceberg size and shape classifications",
+      "summary": "Icebergs are classed as growlers, bergy bits, small, medium, large, very large, and huge, and as tabular or non-tabular shapes with subtypes such as blocky, domed, pinnacle, wedged, and dry dock. The largest recorded was B-15, off the Ross Ice Shelf, about the size of Jamaica.",
+      "topics": [
+        "iceberg size classifications",
+        "growler",
+        "bergy bit",
+        "tabular iceberg",
+        "non-tabular iceberg",
+        "B-15 iceberg",
+        "Ross Ice Shelf"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Northern and southern icebergs, movement, and damage",
+      "summary": "Greenland and Antarctica are the main iceberg sources; about 40,000 medium-to-large icebergs calve from about twenty Greenland glaciers each year. Icebergs are about ten percent as strong as concrete, move slowly driven mostly by underwater currents, and can gouge the seafloor, with Central Park's grooves cited as an example of similar glacial carving.",
+      "topics": [
+        "Greenland glaciers",
+        "iceberg drift",
+        "ocean currents",
+        "seafloor gouging",
+        "Labrador Current",
+        "Central Park glacial grooves"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Iceberg ecology, carbon sequestration, and hazards",
+      "summary": "Melting icebergs release iron-rich nutrients that feed algae, krill, fish and birds, forming a food chain; icebergs may also increase carbon absorption in the ocean. Icebergs can clog shipping lanes and disrupt Emperor Penguins, as in the B-15 case shown in March of the Penguins.",
+      "topics": [
+        "iceberg ecology",
+        "iron nutrients",
+        "algae and krill",
+        "carbon sequestration",
+        "emperor penguins",
+        "shipping hazards"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Towing icebergs for drinking water",
+      "summary": "The hosts discuss a RAND Corporation study, requested by the US military, on towing icebergs to supply fresh drinking water, estimated at about eight dollars per thousand cubic meters for a system serving 500 million people. Insulating sheets to slow melting were proposed. An MIT pipeline proposal from Alaska was estimated at about 4.87 billion dollars and considered not worth it.",
+      "topics": [
+        "iceberg water harvesting",
+        "RAND Corporation",
+        "fresh water supply",
+        "iceberg towing",
+        "MIT pipeline proposal",
+        "Alaska glaciers"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "International Ice Patrol and iceberg monitoring",
+      "summary": "The US Coast Guard runs the International Ice Patrol, which tracks icebergs and marks the Limit of All Known Ice. Methods include spray-painting icebergs and attaching radio transmitters to them.",
+      "topics": [
+        "International Ice Patrol",
+        "US Coast Guard",
+        "Limit of All Known Ice",
+        "iceberg tracking",
+        "iceberg marking"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Nautical mile versus statute mile",
+      "summary": "A nautical mile is about 1.15 statute miles because it follows the curvature of the Earth. The French Academy of Sciences in 1791 defined the meter as one ten-millionth of the distance from the North Pole to the equator through Paris.",
+      "topics": [
+        "nautical mile",
+        "statute mile",
+        "earth curvature",
+        "meter definition",
+        "French Academy of Sciences"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:55:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: language evolution and vervet monkeys",
+      "summary": "Listener Matt Schunk writes about Robin Dunbar's book Grooming, Gossip and the Evolution of Language, arguing language evolved to maintain group bonds, and about research showing vervet monkeys make distinct alarm calls for air and ground predators. The hosts discuss brain size and close with a call for listener feedback.",
+      "topics": [
+        "listener mail",
+        "Robin Dunbar",
+        "language evolution",
+        "vervet monkeys",
+        "alarm calls",
+        "group size"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:35:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close by inviting listeners to send book recommendations and feedback through Twitter, Facebook, or email.",
+      "topics": [
+        "outro",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12049,
+    "output_tokens": 3816
+  }
+}

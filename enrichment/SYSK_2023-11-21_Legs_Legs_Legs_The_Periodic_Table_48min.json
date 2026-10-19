@@ -1,0 +1,386 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-11-21_Legs_Legs_Legs_The_Periodic_Table_48min.txt",
+  "title": "Legs! Legs! Legs! (The Periodic Table)",
+  "date": "2023-11-21",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/legs-legs-legs-the-periodic-table",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b0630e7b-bd46-476e-a539-b0b60145ccaf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0630e7b-bd46-476e-a539-b0b60145ccaf/transcript?format=TextWithTimestamps&t=1713755994",
+  "summary": "Josh and Chuck explain the periodic table, jokingly titled \"Legs! Legs! Legs!\". They cover early attempts to classify elements (Aristotle's four elements, John Dalton's atomic theory and early lists, Döbereiner's triads), Dmitri Mendeleev's 1869 table with gaps that later-discovered elements filled, and how elements are ordered by atomic number into periods (rows) and groups (columns). They explain shells and valence electrons, why groups share reactivity, the s/p/d/f blocks and quantum mechanics, and atomic mass as a weighted average of isotopes. Later they discuss particle accelerators and lab-created elements from the 1930s onward (technetium, einsteinium, tennessine, nihonium, moscovium, oganesson), IUPAC naming rules, the separated f-block, alternative table designs such as spirals and Timothy Stowe's 3D table, and relativistic effects on gold and mercury. The episode closes with a listener mail segment about a Halloween episode (the Hermit's eyes not matching his mouth) and a promotion of tour dates.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "periodic table",
+    "periodic table of elements",
+    "Mendeleev",
+    "Dmitri Mendeleev",
+    "John Dalton",
+    "atomic theory",
+    "atomic number",
+    "periods and groups",
+    "valence electrons",
+    "electron shells",
+    "blocks s p d f",
+    "quantum mechanics",
+    "isotopes",
+    "atomic mass",
+    "particle accelerators",
+    "lab-created elements",
+    "superheavy elements",
+    "IUPAC element naming",
+    "oganesson",
+    "alternative periodic tables",
+    "f-block lanthanides actinides",
+    "relativistic effects gold",
+    "Aristotle four elements",
+    "Döbereiner triads",
+    "Stuff You Should Know chemistry episode",
+    "tour dates"
+  ],
+  "entities": [
+    {
+      "name": "Dmitri Mendeleev",
+      "type": "person"
+    },
+    {
+      "name": "John Dalton",
+      "type": "person"
+    },
+    {
+      "name": "Johann Wolfgang Döbereiner",
+      "type": "person"
+    },
+    {
+      "name": "Niels Bohr",
+      "type": "person"
+    },
+    {
+      "name": "Werner Heisenberg",
+      "type": "person"
+    },
+    {
+      "name": "Ernest Lawrence",
+      "type": "person"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "Yuri Oganessian",
+      "type": "person"
+    },
+    {
+      "name": "Timothy Stowe",
+      "type": "person"
+    },
+    {
+      "name": "David Bowie",
+      "type": "person"
+    },
+    {
+      "name": "Democritus",
+      "type": "person"
+    },
+    {
+      "name": "Aristotle",
+      "type": "person"
+    },
+    {
+      "name": "periodic table",
+      "type": "work"
+    },
+    {
+      "name": "IUPAC",
+      "type": "organization"
+    },
+    {
+      "name": "Lawrence Livermore National Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Life magazine",
+      "type": "work"
+    },
+    {
+      "name": "tennessine",
+      "type": "other"
+    },
+    {
+      "name": "nihonium",
+      "type": "other"
+    },
+    {
+      "name": "moscovium",
+      "type": "other"
+    },
+    {
+      "name": "oganesson",
+      "type": "other"
+    },
+    {
+      "name": "einsteinium",
+      "type": "other"
+    },
+    {
+      "name": "technetium",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Tour announcement and opening",
+      "summary": "Josh and Chuck announce January tour dates in the Pacific Northwest and Northern California (Seattle, Portland, SketchFest San Francisco) and direct listeners to the website and linktree. They then introduce the periodic table episode.",
+      "topics": [
+        "tour dates",
+        "live shows",
+        "SketchFest"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:04:00",
+      "kind": "intro",
+      "title": "Introduction to the periodic table episode",
+      "summary": "The hosts joke about the topic and admit they find chemistry difficult. Chuck notes that many explainers on the subject are wrong or unclear, and credits Olivia for research help. They preview a basic introduction to the topic.",
+      "topics": [
+        "periodic table",
+        "chemistry",
+        "science podcast intro"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Early element classification and John Dalton",
+      "summary": "They cover Aristotle's four elements and the later move toward identifying more building blocks. They describe John Dalton's 1803-1804 atomic theory and early lists of elements, including his 1803 list of five, and how chemists weighed elements. Dalton did not discover elements; he proposed ordering them by atomic weight.",
+      "topics": [
+        "Aristotle four elements",
+        "John Dalton",
+        "atomic theory",
+        "atomic weight",
+        "early chemistry"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Patterns and Mendeleev's table",
+      "summary": "Dalton's element lists grew over time. Döbereiner noticed groups of similar elements such as lithium, sodium, and potassium. Mendeleev arranged elements in 1869 by similarity and left gaps, and three elements discovered in the next fifteen years filled those gaps.",
+      "topics": [
+        "Döbereiner triads",
+        "Mendeleev 1869 table",
+        "periodic law",
+        "predicted elements"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Ordering by atomic number",
+      "summary": "Mendeleev's table became the model. Elements are arranged by atomic number rather than atomic mass, read left to right and top to bottom, starting with hydrogen at one proton.",
+      "topics": [
+        "atomic number",
+        "protons",
+        "hydrogen",
+        "reading the periodic table"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:15:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Structure: periods, groups, and shells",
+      "summary": "The table has seven numbered periods (rows) and eighteen groups (columns), with the f-block shown separately below. Periods correspond to the number of electron shells, and shells hold 2, 8, 18, and 32 electrons. Helium and neon are used as examples.",
+      "topics": [
+        "periods",
+        "groups",
+        "electron shells",
+        "electron capacity",
+        "table layout"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Valence electrons and element reactivity",
+      "summary": "Groups correspond to the number of valence electrons in the outermost shell, which drives bonding and reactivity. Elements in the same group behave similarly. Fluorine and potassium are used as examples of highly reactive elements with nearly full or nearly empty outer shells.",
+      "topics": [
+        "valence electrons",
+        "reactivity",
+        "fluorine",
+        "potassium",
+        "chemical bonding"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Reading the table as a map",
+      "summary": "The hosts explain that the table predicts properties from an element's position, such as reactivity, shininess, and whether it reacts violently with water. Silicon is used as an example of how position gives its neighbors and type. Different colored tables may use different schemes.",
+      "topics": [
+        "periodic table as a map",
+        "silicon",
+        "metalloids",
+        "table colors and legends"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Blocks, quantum mechanics, and electron orbitals",
+      "summary": "The s, p, d, and f blocks indicate where the highest-energy outermost electron sits, and quantum mechanics was incorporated in the early twentieth century. Chuck explains that the Bohr planetary model is misleading, that electrons occupy probability regions, and invokes Heisenberg's uncertainty principle.",
+      "topics": [
+        "s p d f blocks",
+        "quantum mechanics",
+        "Heisenberg uncertainty principle",
+        "electron orbitals",
+        "Bohr model"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Quantum digression and humor",
+      "summary": "After the quantum explanation, the hosts joke about baseball and the banter moves to thanks for the explanation.",
+      "topics": [
+        "quantum digression",
+        "hosts banter"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Atomic mass, isotopes, and ions",
+      "summary": "Atomic mass on tables is a weighted average of protons plus neutrons across natural isotopes; carbon is the example at about 12.01. Chuck explains that changing electron count creates ions, while changing protons creates a new element. Electron gain or loss determines positive or negative ion formation.",
+      "topics": [
+        "atomic mass",
+        "weighted average",
+        "isotopes",
+        "carbon",
+        "ions",
+        "positive and negative ions"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:35:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Particle accelerators and lab-created elements",
+      "summary": "Ernest Lawrence's particle accelerators let scientists collide atoms to make new elements. The hosts link this research to the nuclear bomb and Einstein's advice to Roosevelt. Lab-made elements began in 1937 with technetium, and einsteinium was found in fallout from nuclear tests. Elements beyond uranium are made in labs.",
+      "topics": [
+        "particle accelerators",
+        "Ernest Lawrence",
+        "technetium",
+        "einsteinium",
+        "nuclear tests",
+        "transuranium elements"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Naming new elements",
+      "summary": "IUPAC naming rules allow elements to be named after minerals, places, countries, properties, scientists, or mythological concepts. Tennessine, nihonium, and moscovium are examples. Yuri Oganessian's element was named oganesson, and his proposed name stardust honoring David Bowie did not meet the criteria.",
+      "topics": [
+        "IUPAC naming",
+        "tennessine",
+        "nihonium",
+        "moscovium",
+        "oganesson",
+        "David Bowie stardust name"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Gaps, the f-block, and alternative tables",
+      "summary": "Hydrogen's placement is debated, and the f-block lanthanides and actinides are shown separately because their properties differ. Alternative layouts include a 1949 Life magazine spiral and Timothy Stowe's three-dimensional table. The hosts joke about designing their own table.",
+      "topics": [
+        "f-block placement",
+        "lanthanides",
+        "actinides",
+        "alternative periodic tables",
+        "spiral periodic table",
+        "Timothy Stowe 3D periodic table",
+        "hydrogen placement"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Relativistic effects on heavy elements",
+      "summary": "Chuck explains that in heavy elements such as gold and mercury, electrons move at a significant fraction of light speed, causing relativistic effects that help explain gold's color and other properties. He notes time and space are bent inside these atoms and wraps up the topic.",
+      "topics": [
+        "relativity",
+        "gold",
+        "mercury",
+        "relativistic electrons",
+        "heavy elements"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Owen about the Hermit",
+      "summary": "A listener named Owen explains his take on the Hermit card's line that the man's eyes didn't match his mouth, suggesting it relates to disingenuous encouragement, and says he is using the description in a song. The hosts respond and invite listeners to send emails to Stuff Podcasts at iHeartRadio dot com.",
+      "topics": [
+        "listener mail",
+        "Halloween episode",
+        "the Hermit tarot",
+        "listener feedback"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and production information.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15969,
+    "output_tokens": 4265
+  }
+}

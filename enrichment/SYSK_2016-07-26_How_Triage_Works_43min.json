@@ -1,0 +1,219 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-07-26_How_Triage_Works_43min.txt",
+  "title": "How Triage Works",
+  "date": "2016-07-26",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-triage-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/965b3a76-3fb2-4649-ba50-ae280081d82a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/965b3a76-3fb2-4649-ba50-ae280081d82a/transcript?format=TextWithTimestamps&t=1700543831",
+  "summary": "Josh and Chuck explain triage, the system of sorting patients by urgency of need. They trace its origin to Napoleon's chief surgeon Dominique Jean Larrey, who devised battlefield sorting in the 1790s, and cover later refinements by British naval surgeon John Wilson in the 1840s and the shift toward treating those most likely to return to battle in World War One. They describe modern emergency room triage, including the Manchester Triage System and color codes (which differ between countries and hospitals), the Met Tag invented by Robert Blodgett in Jacksonville, Florida after the Cuban missile crisis and later revised by Dennis Ortiz and his brother of LA County Fire Department, and field triage scoring. They close with criticism of triage, a study finding longer waits for the most urgent patients, and a Kaiser Permanente lean approach that treated minor injuries in the waiting room. The episode ends with listener mail about lighthouses, including Terrible Tilly.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "triage",
+    "medical triage",
+    "battlefield triage",
+    "emergency room triage",
+    "Napoleon surgeon Larrey",
+    "Dominique Jean Larrey",
+    "John Wilson naval surgeon",
+    "Manchester Triage System",
+    "ER color codes",
+    "Met Tag",
+    "Robert Blodgett",
+    "incident triage",
+    "disaster triage",
+    "field triage score",
+    "Kaiser Permanente lean waiting room",
+    "triage criticism",
+    "Cuban missile crisis civil defense",
+    "LWBS left without being seen",
+    "terrorism medical tags",
+    "lighthouses"
+  ],
+  "entities": [
+    {
+      "name": "Dominique Jean Larrey",
+      "type": "person"
+    },
+    {
+      "name": "John Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Robert Blodgett",
+      "type": "person"
+    },
+    {
+      "name": "Dennis Ortiz",
+      "type": "person"
+    },
+    {
+      "name": "Napoleon",
+      "type": "person"
+    },
+    {
+      "name": "Manchester Triage System",
+      "type": "other"
+    },
+    {
+      "name": "Met Tag",
+      "type": "other"
+    },
+    {
+      "name": "Kaiser Permanente South Sacramento Medical Center",
+      "type": "organization"
+    },
+    {
+      "name": "Beth Israel",
+      "type": "organization"
+    },
+    {
+      "name": "LA County Fire Department",
+      "type": "organization"
+    },
+    {
+      "name": "Terrible Tilly",
+      "type": "place"
+    },
+    {
+      "name": "Cuban missile crisis",
+      "type": "event"
+    },
+    {
+      "name": "Oklahoma City bombing",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and French origin of 'triage'",
+      "summary": "Hosts chat about Scotland shirts and their UK tour, then discuss the French word 'trier' meaning to sort, especially for vegetables, as the origin of the term triage.",
+      "topics": [
+        "triage etymology",
+        "trier French word meaning sort"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Larrey and the origins of battlefield triage",
+      "summary": "Napoleon's chief surgeon Dominique Jean Larrey devised a system to prioritize wounded soldiers by severity of injury, replacing earlier treatment by social standing. Napoleon reportedly still expected to be at the top. John Wilson in the 1840s shifted focus to those likely to survive, and in World War One the emphasis moved to treating people who could quickly return to battle.",
+      "topics": [
+        "battlefield triage",
+        "Larrey",
+        "John Wilson triage",
+        "World War One triage",
+        "history of triage",
+        "military medicine"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Triage at the emergency room",
+      "summary": "Hosts describe the ER triage nurse, a host's personal Beth Israel visit, and the Manchester Triage System flow chart that focuses heavily on breathing. Triage includes vitals and medical history, and there are two tracks for less severe cases.",
+      "topics": [
+        "ER triage",
+        "triage nurse",
+        "Manchester Triage System",
+        "emergency room vitals",
+        "two-track ER system",
+        "Beth Israel"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "ER color codes",
+      "summary": "Hosts explain that triage color codes are not universal. In the US, code blue is most urgent and code red is serious, with orange, gray, and green following. Under the Manchester scale, red is worst and blue is less urgent. Hosts argue for a universal system.",
+      "topics": [
+        "ER color codes",
+        "code blue",
+        "code red",
+        "Manchester triage colors",
+        "standardizing triage colors"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Incident triage intro",
+      "summary": "Brief note that triage applies whenever resources are scarce and demand is high, including mass-casualty incidents such as explosions.",
+      "topics": [
+        "incident triage",
+        "mass casualty triage"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Met Tag invented by Robert Blodgett",
+      "summary": "Robert Blodgett, civil defense director in Jacksonville, Florida, created a two-sided lanyard tag with color codes during the Cuban missile crisis. Tags were torn off to show progressively worse condition, ending with a black morgue tag. After the Oklahoma City bombing, Dennis Ortiz and his brother of LA County Fire Department revised the tag for terrorist disasters.",
+      "topics": [
+        "Met Tag",
+        "Robert Blodgett",
+        "Cuban missile crisis civil defense",
+        "Dennis Ortiz",
+        "triage tags",
+        "disaster triage tags",
+        "Oklahoma City bombing"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Field triage score and spectrum of triage",
+      "summary": "Triage exists on a spectrum from calm ER to mass disaster. Battlefield field triage score combines pulse and Glasgow Coma Scale awareness to predict survival. Status can change, so tags may be updated.",
+      "topics": [
+        "field triage score",
+        "Glasgow Coma Scale",
+        "triage spectrum",
+        "combat casualty care",
+        "triage tags changing"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Criticism of triage and Kaiser Permanente approach",
+      "summary": "Hosts discuss complaints about ER wait times and people leaving without being seen. A 1990s study found triage led to longer waits for the most critical patients without improving satisfaction. Kaiser Permanente South Sacramento used lean principles to treat minor injuries in the waiting room, cutting left-without-being-seen rates and wait times.",
+      "topics": [
+        "triage criticism",
+        "ER wait times",
+        "left without being seen",
+        "Kaiser Permanente lean",
+        "waiting room treatment"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:43:00",
+      "kind": "listener_mail",
+      "title": "Lighthouse follow-up listener mail",
+      "summary": "A listener named Kendra writes about lighthouses on Oregon's coast, highlighting Terrible Tilly, an offshore lighthouse built on a rock where sailors' ashes were stored.",
+      "topics": [
+        "lighthouses",
+        "Terrible Tilly",
+        "listener mail",
+        "Oregon lighthouses"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13894,
+    "output_tokens": 2613
+  }
+}

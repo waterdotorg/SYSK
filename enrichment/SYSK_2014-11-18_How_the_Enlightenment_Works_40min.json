@@ -1,0 +1,347 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-11-18_How_the_Enlightenment_Works_40min.txt",
+  "title": "How the Enlightenment Works",
+  "date": "2014-11-18",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-enlightenment-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4f74ffdb-72f5-4f74-b3d8-ae280092d70f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4f74ffdb-72f5-4f74-b3d8-ae280092d70f/transcript?format=TextWithTimestamps&t=1700543869",
+  "summary": "Josh and Chuck give a bird's-eye overview of the Age of Enlightenment, covering its roots and its lasting effects. They start with the modern debate over the Enlightenment (Bill Maher and Ben Affleck on Islam, moral absolutism vs. relativism) and note that historians dispute whether it was one movement. Earlier groundwork includes Newton, the Thirty Years' War, medieval scholasticism, Gutenberg's printing press, the revival of Aristotle, and humanism. Copernicus, Kepler and Galileo challenged the Church's cosmology, and Francis Bacon and Descartes shaped scientific and rational method. The hosts then cover social contract theory (Hobbes, Locke, Rousseau), Voltaire and the Paris salons, Montesquieu's separation of powers, Adam Smith's free-market ideas, David Hume's skepticism about causation, and Kant's \"dare to know.\" They discuss how the Enlightenment fed into the American and French Revolutions, the Reign of Terror, Romanticism, and criticism that it supported colonialism. The episode closes with reading recommendations and a listener email proposing that mummy-derived fertilizer caused mad cow disease.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Age of Enlightenment",
+    "Enlightenment philosophy",
+    "Enlightenment vs religion",
+    "social contract",
+    "Voltaire",
+    "salons",
+    "humanism",
+    "Renaissance",
+    "scientific method",
+    "Francis Bacon",
+    "Descartes",
+    "David Hume",
+    "causation",
+    "Adam Smith",
+    "Immanuel Kant",
+    "Montesquieu separation of powers",
+    "French Revolution",
+    "American Revolution",
+    "Reign of Terror",
+    "Romanticism",
+    "Copernicus heliocentrism",
+    "Thirty Years' War",
+    "Dark Ages",
+    "moral relativism vs absolutism",
+    "mad cow disease prions",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Age of Enlightenment",
+      "type": "event"
+    },
+    {
+      "name": "Voltaire",
+      "type": "person"
+    },
+    {
+      "name": "David Hume",
+      "type": "person"
+    },
+    {
+      "name": "Immanuel Kant",
+      "type": "person"
+    },
+    {
+      "name": "Adam Smith",
+      "type": "person"
+    },
+    {
+      "name": "Isaac Newton",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Aquinas",
+      "type": "person"
+    },
+    {
+      "name": "Roger Bacon",
+      "type": "person"
+    },
+    {
+      "name": "Francis Bacon",
+      "type": "person"
+    },
+    {
+      "name": "Francois Marie Arouet",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Hobbes",
+      "type": "person"
+    },
+    {
+      "name": "John Locke",
+      "type": "person"
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "type": "person"
+    },
+    {
+      "name": "Montesquieu",
+      "type": "person"
+    },
+    {
+      "name": "Descartes",
+      "type": "person"
+    },
+    {
+      "name": "Copernicus",
+      "type": "person"
+    },
+    {
+      "name": "Kepler",
+      "type": "person"
+    },
+    {
+      "name": "Galileo",
+      "type": "person"
+    },
+    {
+      "name": "Johannes Gutenberg",
+      "type": "person"
+    },
+    {
+      "name": "Baruch Spinoza",
+      "type": "person"
+    },
+    {
+      "name": "Robespierre",
+      "type": "person"
+    },
+    {
+      "name": "Thirty Years' War",
+      "type": "event"
+    },
+    {
+      "name": "French Revolution",
+      "type": "event"
+    },
+    {
+      "name": "American Revolution",
+      "type": "event"
+    },
+    {
+      "name": "Reign of Terror",
+      "type": "event"
+    },
+    {
+      "name": "Romanticism",
+      "type": "event"
+    },
+    {
+      "name": "Jonathan Israel",
+      "type": "person"
+    },
+    {
+      "name": "Anthony Pagden",
+      "type": "person"
+    },
+    {
+      "name": "Scholasticism",
+      "type": "other"
+    },
+    {
+      "name": "Humanism",
+      "type": "other"
+    },
+    {
+      "name": "Social contract",
+      "type": "other"
+    },
+    {
+      "name": "Salons",
+      "type": "other"
+    },
+    {
+      "name": "Mad cow disease",
+      "type": "other"
+    },
+    {
+      "name": "Fatal familial insomnia",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and framing the Enlightenment debate",
+      "summary": "The hosts say the Enlightenment is too large for a short episode and mention Jonathan Israel's multi-volume work. They tie it to modern arguments such as the Bill Maher and Ben Affleck exchange on Islam, which they frame as moral absolutism versus relativism. They also say the Enlightenment is still debated and that historians dispute whether it was one movement.",
+      "topics": [
+        "Age of Enlightenment",
+        "moral relativism vs absolutism",
+        "Jonathan Israel",
+        "modern Enlightenment debate"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Groundwork: Newton, Thirty Years' War, and the Dark Ages",
+      "summary": "The hosts describe Newton and the falling apple as a start to scientific inquiry and mention Hume's objection. They cover the Thirty Years' War and the Peace-era shift of allegiance from church to state. They also discuss the Middle Ages, the term 'Dark Ages' as a disparaging label, and scholasticism from Thomas Aquinas and Roger Bacon.",
+      "topics": [
+        "Isaac Newton",
+        "Thirty Years' War",
+        "Dark Ages",
+        "scholasticism",
+        "Thomas Aquinas",
+        "Roger Bacon"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Printing press, Aristotle, humanism and Renaissance",
+      "summary": "The hosts discuss Gutenberg's printing press and the spread of education in native languages. They describe the Latin translation of Aristotle and Leonardo Bruni's revival of humanism, which put human ability at the center. Humanism is tied to the Renaissance.",
+      "topics": [
+        "Gutenberg printing press",
+        "humanism",
+        "Renaissance",
+        "Leonardo Bruni",
+        "Aristotle translations"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Copernicus, Kepler, Galileo and the Church's loss of authority",
+      "summary": "The hosts explain that Aristotle's geocentric crystal-sphere universe was challenged by Copernicus's infinite universe. Kepler's elliptical orbits undercut the Church's view of the circle as perfect, and Galileo recanted his heliocentric views under accusations of heresy. The hosts say the Church lost intellectual and political authority.",
+      "topics": [
+        "Copernicus",
+        "Kepler",
+        "Galileo",
+        "heliocentrism",
+        "Church authority",
+        "Aristotle geocentric universe"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Francis Bacon, scientific method and Descartes",
+      "summary": "Francis Bacon is described as a proponent of experiments as the basis of the scientific method. The hosts then discuss Descartes and his separation of mind and matter, with a short personal tangent about college philosophy classes.",
+      "topics": [
+        "scientific method",
+        "Francis Bacon",
+        "Descartes",
+        "mind and matter"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Social contract, natural rights and Locke's blank slate",
+      "summary": "The hosts describe Hobbes, Locke and Rousseau's social contract, in which people are born with natural rights and give some up to form society, including the state monopoly on violence. They say Locke promoted the idea of the mind as a blank slate shaped by experience, which led to the nurture-over-nature view.",
+      "topics": [
+        "social contract",
+        "natural rights",
+        "state monopoly on violence",
+        "John Locke",
+        "blank slate",
+        "Hobbes",
+        "Rousseau"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Voltaire, the Paris salons and the philosophes",
+      "summary": "Voltaire is described as exiled in England, where he encountered Locke and Descartes, and then returned to France. The hosts say the salons were private meetings to discuss radical ideas under a monarchy that opposed them. The philosophes were skeptical of church and government, and many were deists, with Montesquieu proposing separation of powers and the seeds of democracy.",
+      "topics": [
+        "Voltaire",
+        "salons",
+        "philosophes",
+        "deism",
+        "Montesquieu",
+        "separation of powers",
+        "Louis XIV"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:34:30",
+      "kind": "content",
+      "title": "Modern social media and state sovereignty",
+      "summary": "The hosts discuss a Wharton article by Curtis Howland arguing that social media erodes state sovereignty and can lead to a less stable world. They tie this to historical upheaval and say the present may be a period of fundamental change.",
+      "topics": [
+        "social media",
+        "state sovereignty",
+        "Curtis Howland",
+        "political instability"
+      ]
+    },
+    {
+      "start": "00:34:30",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Adam Smith, David Hume and Kant",
+      "summary": "The hosts describe Adam Smith's Wealth of Nations and its argument that government should stay out of economic affairs. They discuss Hume's empiricism and skepticism about cause and effect, using billiards as an example. They also cover Frederick the Great, Catherine the Great, and Kant's motto 'dare to know' and categorical imperative.",
+      "topics": [
+        "Adam Smith",
+        "Wealth of Nations",
+        "laissez-faire",
+        "David Hume",
+        "causation",
+        "Kant",
+        "dare to know",
+        "categorical imperative"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Revolutions, Romanticism and criticism of Enlightenment",
+      "summary": "The hosts link Enlightenment ideas to the American and French Revolutions, describing Robespierre's Reign of Terror and the claim that the French Revolution ended the Enlightenment. They then describe Romanticism's reaction against rationalism, criticism that Enlightenment thought supported colonialism, and Spinoza's role according to Jonathan Israel.",
+      "topics": [
+        "American Revolution",
+        "French Revolution",
+        "Robespierre",
+        "Reign of Terror",
+        "Romanticism",
+        "colonialism",
+        "Spinoza",
+        "Jonathan Israel"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:40:00",
+      "kind": "outro",
+      "title": "Further reading and sign-off",
+      "summary": "The hosts recommend articles by Ali Cussin in Prospect magazine and Tim O'Neil on Strange Notions, and point listeners to HowStuffWorks for more. They then close the episode.",
+      "topics": [
+        "further reading",
+        "Anthony Pagden",
+        "Ali Cussin"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13052,
+    "output_tokens": 3758
+  }
+}

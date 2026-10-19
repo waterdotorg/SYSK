@@ -1,0 +1,283 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-07-12_Gerrymandering_How_to_Stifle_Democracy_37min.txt",
+  "title": "Gerrymandering: How to Stifle Democracy",
+  "date": "2018-07-12",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/gerrymandering-how-to-stifle-democracy",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/940c9c67-a6a1-4a51-ae7d-ae28005f86f0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/940c9c67-a6a1-4a51-ae7d-ae28005f86f0/transcript?format=TextWithTimestamps&t=1700543743",
+  "summary": "Josh and Chuck explain gerrymandering: how the House of Representatives is apportioned after each census, how vague redistricting rules let dominant state parties draw skewed maps, the origin of the term in 1812 with Governor Elbridge Gerry and the \"salamander\" map, cracking and packing techniques, the efficiency gap metric, prison gerrymandering, nonpartisan commissions (Canada and several US states), and Supreme Court reluctance to intervene (Gill v. Whitford, Texas and other cases). The episode closes with a listener mail about bone marrow registry donation.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "gerrymandering",
+    "jerrymandering",
+    "House of Representatives apportionment",
+    "Reapportionment Act",
+    "census redistricting",
+    "congressional districts",
+    "cracking and packing",
+    "efficiency gap",
+    "wasted votes",
+    "prison gerrymandering",
+    "nonpartisan redistricting commissions",
+    "Canada redistricting commission",
+    "Gill v. Whitford",
+    "Supreme Court redistricting",
+    "Voting Rights Act",
+    "racial gerrymandering",
+    "Elbridge Gerry salamander map",
+    "political polarization",
+    "swing states",
+    "Wisconsin Assembly maps",
+    "North and South Dakota statehood",
+    "bone marrow registry"
+  ],
+  "entities": [
+    {
+      "name": "Elbridge Gerry",
+      "type": "person"
+    },
+    {
+      "name": "James Madison",
+      "type": "person"
+    },
+    {
+      "name": "Patrick Henry",
+      "type": "person"
+    },
+    {
+      "name": "James Monroe",
+      "type": "person"
+    },
+    {
+      "name": "Nicholas Stephanopoulos",
+      "type": "person"
+    },
+    {
+      "name": "Neil Gorsuch",
+      "type": "person"
+    },
+    {
+      "name": "Clarence Thomas",
+      "type": "person"
+    },
+    {
+      "name": "Gill v. Whitford",
+      "type": "event"
+    },
+    {
+      "name": "Brennan Center for Justice",
+      "type": "organization"
+    },
+    {
+      "name": "Supreme Court of the United States",
+      "type": "organization"
+    },
+    {
+      "name": "Reapportionment Act",
+      "type": "work"
+    },
+    {
+      "name": "Voting Rights Act",
+      "type": "work"
+    },
+    {
+      "name": "House of Representatives",
+      "type": "organization"
+    },
+    {
+      "name": "Wisconsin",
+      "type": "place"
+    },
+    {
+      "name": "Texas",
+      "type": "place"
+    },
+    {
+      "name": "Maryland",
+      "type": "place"
+    },
+    {
+      "name": "North Carolina",
+      "type": "place"
+    },
+    {
+      "name": "Canada",
+      "type": "place"
+    },
+    {
+      "name": "Montana",
+      "type": "place"
+    },
+    {
+      "name": "New York State",
+      "type": "place"
+    },
+    {
+      "name": "North Dakota",
+      "type": "place"
+    },
+    {
+      "name": "South Dakota",
+      "type": "place"
+    },
+    {
+      "name": "Massachusetts",
+      "type": "place"
+    },
+    {
+      "name": "Be The Match Bone Marrow Registry",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:10",
+      "kind": "intro",
+      "title": "Opening banter and introduction",
+      "summary": "Josh and Chuck open with dad jokes and banter about Jim Gaffigan, then introduce the topic of gerrymandering as a newsy PSA-style episode.",
+      "topics": [
+        "podcast intro",
+        "gerrymandering introduction"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "How the House of Representatives is apportioned",
+      "summary": "The hosts explain the House's design: two-year terms, seats tied to population, the 435-seat cap set in 1912, and the Reapportionment Act requiring redistribution after each census. They note the vague rules for drawing district boundaries that let dominant parties draw maps.",
+      "topics": [
+        "House of Representatives",
+        "apportionment",
+        "census",
+        "Reapportionment Act",
+        "congressional districts",
+        "redistricting rules"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Break and transition to history",
+      "summary": "Brief mid-episode break before the hosts turn to historical examples.",
+      "topics": [
+        "podcast break"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Early history and the origin of the term gerrymander",
+      "summary": "Early examples include Patrick Henry redrawing Virginia's fifth district to pit James Madison against James Monroe. The term comes from Governor Elbridge Gerry of Massachusetts, whose 1812 map was compared by the Boston Gazette to a salamander. Early Congress attempted rules but they were hard to enforce, and the Dakota territories were split into two states to gain Senate and electoral votes.",
+      "topics": [
+        "Patrick Henry",
+        "James Madison",
+        "Elbridge Gerry",
+        "salamander map origin",
+        "Dakota statehood split",
+        "early gerrymandering history"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Modern gerrymandering, partisan consultants and polarization",
+      "summary": "Modern map-drawing uses sophisticated software and block-level census data, with consultants simulating future elections. Wisconsin's Assembly map is cited as an example. The hosts argue polarization has worsened the problem and that the Brennan Center found most gerrymandered districts sit in seven swing states.",
+      "topics": [
+        "modern gerrymandering software",
+        "Wisconsin Assembly map",
+        "political polarization",
+        "Brennan Center report",
+        "swing states",
+        "safe seats"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Break and transition to techniques",
+      "summary": "A short break before the hosts describe the main techniques.",
+      "topics": [
+        "podcast break"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Cracking, packing, and the efficiency gap",
+      "summary": "Cracking dilutes opposing voters across districts; packing concentrates them into few districts. The hosts explain wasted votes and the efficiency gap metric devised by Nicholas Stephanopoulos, with a suggested seven percent threshold.",
+      "topics": [
+        "cracking",
+        "packing",
+        "wasted votes",
+        "efficiency gap",
+        "Nicholas Stephanopoulos"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Prison gerrymandering",
+      "summary": "Some states count prisoners toward district population even though they cannot vote, giving more weight to voters in districts with prisons, such as a ward in Iowa; a few states have ruled this unconstitutional.",
+      "topics": [
+        "prison gerrymandering",
+        "census counting of prisoners",
+        "Iowa ward example"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Nonpartisan commissions and Supreme Court involvement",
+      "summary": "The hosts argue only nonpartisan commissions can fix the problem, citing Canada's 1960s commission and commissions in California, Arizona, Washington, Idaho, New Jersey and Hawaii. They discuss Gill v. Whitford being sent back on standing grounds and the Supreme Court's reluctance to rule on maps, including Texas and the Voting Rights Act, with remarks by Gorsuch and Thomas.",
+      "topics": [
+        "nonpartisan redistricting commissions",
+        "Canada redistricting",
+        "Gill v. Whitford",
+        "Supreme Court redistricting",
+        "Voting Rights Act",
+        "racial gerrymandering",
+        "affirmative gerrymandering"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: bone marrow registry",
+      "summary": "A listener named Chris shares that his father died of AML after a bone marrow treatment and asks listeners to register with Be The Match Bone Marrow Registry.",
+      "topics": [
+        "listener mail",
+        "bone marrow donation",
+        "Be The Match registry"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to share ideas and contact the show via social media, website, or email.",
+      "topics": [
+        "show sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11497,
+    "output_tokens": 2860
+  }
+}

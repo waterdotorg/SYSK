@@ -1,0 +1,142 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-10-19_Short_Stuff_Water_Towers_11min.txt",
+  "title": "Short Stuff: Water Towers",
+  "date": "2022-10-19",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-water-towers",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/612b10a3-c51a-488a-b963-af2600e0e3bc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/612b10a3-c51a-488a-b963-af2600e0e3bc/transcript?format=TextWithTimestamps&t=1700557275",
+  "summary": "Short Stuff episode on water towers, adapted from a Marshall Brain HowStuffWorks article. hosts explain that water towers use gravity to pressurize municipal water, act as buffers for peak demand so pumps can be sized for average demand, keep water flowing during power outages for roughly a day, and can lower fire insurance rates. They also discuss the psi-per-foot-of-height math, why New York City buildings have rooftop water tanks, and close with listener shout-outs. Includes a digression about a TV show and casual banter.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "water towers",
+    "water pressure",
+    "gravity-fed water systems",
+    "municipal water supply",
+    "water pumps",
+    "peak demand",
+    "power outage water supply",
+    "rooftop water tanks",
+    "New York City water tanks",
+    "fire insurance rates",
+    "water pressure math",
+    "HowStuffWorks",
+    "Marshall Brain",
+    "water utility infrastructure",
+    "short stuff"
+  ],
+  "entities": [
+    {
+      "name": "Marshall Brain",
+      "type": "person"
+    },
+    {
+      "name": "HowStuffWorks",
+      "type": "organization"
+    },
+    {
+      "name": "Jackson, Mississippi",
+      "type": "place"
+    },
+    {
+      "name": "New York City",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening and Marshall Brain tribute",
+      "summary": "Hosts welcome listeners, introduce the water tower topic, and credit Marshall Brain, founder of HowStuffWorks, whose older article they are drawing from. They note water pressure is usually reliable compared with other utilities.",
+      "topics": [
+        "Marshall Brain",
+        "HowStuffWorks",
+        "water pressure reliability"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "How water towers use gravity",
+      "summary": "A water tower is an elevated tank whose height lets gravity pressurize the town's water, so no pump is needed to maintain pressure. Its stored water can keep supply going during a power outage until pumps return, typically about a day's worth.",
+      "topics": [
+        "water towers",
+        "gravity-fed water systems",
+        "power outage water supply",
+        "water pressure"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Pressure math by height",
+      "summary": "Hosts discuss a figure attributed to Marshall Brain: each foot of height gives about 0.43 psi of pressure. They work through how tall a tower on flat ground would need to be to reach typical household pressures of 40 to 60 psi, roughly 93 to 140 feet. Hosts say they are unsure of their own math.",
+      "topics": [
+        "water pressure math",
+        "psi",
+        "water tower height",
+        "household water pressure"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:20",
+      "kind": "content",
+      "title": "Peak demand and pump sizing",
+      "summary": "Water towers let cities buy pumps sized for average demand rather than peak demand. The tower supplies extra water during morning peaks and refills when demand drops. The hosts describe the configuration: treatment plant, pump station, then the tower connected after the pumps.",
+      "topics": [
+        "peak demand",
+        "water pumps",
+        "pump station",
+        "water system configuration",
+        "water tower refill cycle"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Rooftop tanks in New York City and tall buildings",
+      "summary": "Hosts explain that tall New York City buildings need rooftop water tanks, and some also use pumping systems, to get water to upper floors beyond what city pressure can reach.",
+      "topics": [
+        "rooftop water tanks",
+        "New York City water tanks",
+        "tall buildings water pressure"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Fire insurance and water towers",
+      "summary": "Hosts say a water tower can lower homeowners' fire insurance rates because it helps guarantee water pressure to fight a fire.",
+      "topics": [
+        "fire insurance rates",
+        "fire protection water pressure",
+        "water tower benefits"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:00",
+      "kind": "outro",
+      "title": "Listener shout-outs and sign-off",
+      "summary": "Hosts thank listeners who suggested the topic, from 2019 through two weeks before the episode, and sign off with a note about the show's production company.",
+      "topics": [
+        "listener suggestions",
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4756,
+    "output_tokens": 1615
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-02-21_How_Galaxies_Work_46min.txt",
+  "title": "How Galaxies Work",
+  "date": "2019-02-21",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-galaxies-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a82803f8-aa19-4e50-b845-ae2800513f04/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a82803f8-aa19-4e50-b845-ae2800513f04/transcript?format=TextWithTimestamps&t=1700543705",
+  "summary": "Josh and Chuck explain how galaxies work: the Milky Way's place in the universe (about a quarter of the way from the galactic center to the edge), the history of the \"island universe\" debate between Harlow Shapley and Hubble, Hubble's classification of galaxies as elliptical, spiral, and irregular, and the structure of the Milky Way (spiral arms, nucleus, bulge, halo, globular clusters). They cover how galaxies formed after the Big Bang, galaxy collisions and mergers (including the coming Milky Way-Andromeda merger), galaxy clusters and superclusters, the intergalactic medium, Hubble's law and red shifting, the expanding universe and the visible universe, active galaxies (Seyfert galaxies, radio galaxies, blazars, quasars) with supermassive black holes, and starburst galaxies. The episode also includes a tangent on the James Webb Space Telescope replacing Hubble, a Star Wars parsec joke, and a closing listener mail segment about stalking feedback.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "galaxies",
+    "how galaxies work",
+    "Milky Way",
+    "spiral galaxy",
+    "elliptical galaxy",
+    "irregular galaxy",
+    "Hubble classification",
+    "galaxy formation",
+    "galaxy collisions",
+    "galaxy mergers",
+    "Andromeda galaxy",
+    "Milky Way Andromeda collision",
+    "local group",
+    "galaxy clusters",
+    "supercluster",
+    "intergalactic medium",
+    "Hubble's law",
+    "red shift",
+    "expanding universe",
+    "visible universe",
+    "active galaxies",
+    "quasars",
+    "blazars",
+    "Seyfert galaxies",
+    "radio galaxies",
+    "supermassive black hole",
+    "starburst galaxies",
+    "globular clusters",
+    "James Webb Space Telescope",
+    "parsecs",
+    "island universes",
+    "Harlow Shapley"
+  ],
+  "entities": [
+    {
+      "name": "Milky Way",
+      "type": "place"
+    },
+    {
+      "name": "Andromeda galaxy",
+      "type": "place"
+    },
+    {
+      "name": "Hubble Space Telescope",
+      "type": "other"
+    },
+    {
+      "name": "James Webb Space Telescope",
+      "type": "other"
+    },
+    {
+      "name": "Edwin Hubble",
+      "type": "person"
+    },
+    {
+      "name": "Harlow Shapley",
+      "type": "person"
+    },
+    {
+      "name": "Charles Messier",
+      "type": "person"
+    },
+    {
+      "name": "Carl Seyfert",
+      "type": "person"
+    },
+    {
+      "name": "Barbara Ryden",
+      "type": "person"
+    },
+    {
+      "name": "Virgo supercluster",
+      "type": "place"
+    },
+    {
+      "name": "Local Group",
+      "type": "place"
+    },
+    {
+      "name": "Cartwheel galaxy",
+      "type": "place"
+    },
+    {
+      "name": "Mice galaxies",
+      "type": "place"
+    },
+    {
+      "name": "Alpha Centauri",
+      "type": "place"
+    },
+    {
+      "name": "Orion arm",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and scale of the universe",
+      "summary": "The hosts joke around, then explain the scale of the solar system, Milky Way, and universe using a grain-of-sand analogy, and note that the Sun is not at the galactic center.",
+      "topics": [
+        "solar system scale",
+        "universe size",
+        "Milky Way center"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "History of the island universe debate",
+      "summary": "The Greeks named the galaxy 'galaxias' meaning milky circle. Early Western thinkers believed the visible stars were the whole universe. Harlow Shapley argued the spiral nebulae were separate galaxies outside the Milky Way, which Hubble's telescope observations later supported.",
+      "topics": [
+        "history of astronomy",
+        "island universes",
+        "Harlow Shapley",
+        "Hubble telescope observations",
+        "galaxy name origin"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "James Webb telescope and Hubble's view back in time",
+      "summary": "The hosts discuss the James Webb Space Telescope as the successor to Hubble, and how telescopes see back in time because light takes time to travel, with Hubble seeing to about four million years after the Big Bang.",
+      "topics": [
+        "James Webb Space Telescope",
+        "looking back in time",
+        "Hubble telescope",
+        "Big Bang"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Hubble's galaxy classification",
+      "summary": "Hubble classified galaxies as elliptical, spiral, and irregular. Ellipticals range from E0 to E7 and are disordered; spirals are bright, have arms, and rotate in order. Barred spirals have an elongated central bar, and irregular galaxies are faint and small.",
+      "topics": [
+        "Hubble classification",
+        "elliptical galaxy",
+        "spiral galaxy",
+        "barred spiral",
+        "irregular galaxy"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Structure of the Milky Way",
+      "summary": "The Milky Way is a barred spiral with a nucleus, bulge, galactic disc, four spiral arms, the Orion arm where the solar system sits, globular clusters, and a halo. The hosts discuss the galaxy's rotation period and its bent, sombrero-like shape.",
+      "topics": [
+        "Milky Way structure",
+        "spiral arms",
+        "Orion arm",
+        "globular clusters",
+        "galactic halo",
+        "galactic bulge"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:41:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "The hosts take a break before continuing.",
+      "topics": []
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Galaxy formation after the Big Bang",
+      "summary": "Galaxies are thought to have formed about fourteen billion years ago from dust and gas clouds in the early universe, with denser regions slowing expansion and gravity pulling gas together into stars within a proto-galaxy.",
+      "topics": [
+        "galaxy formation",
+        "early universe",
+        "dark matter",
+        "cosmic web"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Galaxy collisions and mergers",
+      "summary": "Galaxies are far apart, so stars rarely collide even when galaxies merge. Examples include the Mice and the Cartwheel galaxy. Spirals often become elliptical after merging, and the Milky Way and Andromeda are expected to merge in about five billion years.",
+      "topics": [
+        "galaxy collisions",
+        "galaxy mergers",
+        "Milky Way Andromeda collision",
+        "Cartwheel galaxy",
+        "Mice galaxies"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "Galaxy clusters and the local group",
+      "summary": "Galaxies cluster through gravity. The Milky Way belongs to the Local Group, which has about fifty galaxies, while rich clusters have more than a thousand, such as the Virgo supercluster.",
+      "topics": [
+        "galaxy clusters",
+        "Local Group",
+        "Virgo supercluster"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Intergalactic medium and Hubble's law",
+      "summary": "The intergalactic medium is the space between galaxies, containing cold and very hot gas with unexplained temperature differences. Hubble's law states that galaxies move away from us faster the farther they are, implying an expanding universe with no center and a visible universe smaller than the whole universe, with red shift as the evidence.",
+      "topics": [
+        "intergalactic medium",
+        "Hubble's law",
+        "red shift",
+        "expanding universe",
+        "visible universe",
+        "cosmological principle"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:18:00",
+      "kind": "content",
+      "title": "Active galaxies and quasars",
+      "summary": "Active galaxies emit most of their light and energy from a small central nucleus, thought to be driven by supermassive black holes with jets. The four types are Seyfert galaxies, radio galaxies, quasars, and blazars, which differ mainly by viewing angle.",
+      "topics": [
+        "active galaxies",
+        "quasars",
+        "blazars",
+        "Seyfert galaxies",
+        "radio galaxies",
+        "supermassive black hole",
+        "accretion disc",
+        "galactic jets"
+      ]
+    },
+    {
+      "start": "01:18:00",
+      "end": "01:22:00",
+      "kind": "content",
+      "title": "Starburst galaxies",
+      "summary": "Starburst galaxies form stars at a rate of over a hundred per year, far above the typical one per year, and burn out quickly, possibly leaving behind globular clusters.",
+      "topics": [
+        "starburst galaxies",
+        "star formation rate"
+      ]
+    },
+    {
+      "start": "01:22:00",
+      "end": "01:30:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on stalking episode",
+      "summary": "The hosts thank listeners who wrote in about their stalking episode, say they will not read the personal stories, and point to resources such as the Stalking Resource Center and the National Center for Victims of Crime.",
+      "topics": [
+        "stalking",
+        "listener feedback",
+        "victim resources"
+      ]
+    },
+    {
+      "start": "01:30:00",
+      "end": "01:31:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode, invite listeners to visit the website and send email, and sign off.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14973,
+    "output_tokens": 3292
+  }
+}

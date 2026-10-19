@@ -1,0 +1,99 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-05-06_How_Trolley_Problems_Work_6min.txt",
+  "title": "How Trolley Problems Work",
+  "date": "2008-05-06",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-trolley-problems-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/67712b11-16d0-4b3d-b462-ae2800c47aab/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/67712b11-16d0-4b3d-b462-ae2800c47aab/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chris Pallette discuss the trolley problem, a philosophical thought experiment about whether to sacrifice one life to save several. They walk through the lever (switch) version, where pulling the switch kills one man on a side track instead of five or fifteen on the trolley, and the footbridge-style version, where one large man must be pushed onto the tracks to stop the trolley. They discuss the difference between allowing a death and actively causing one, how most people would pull the lever but not push the man, the utilitarian view, and how such reasoning relates to rules like organ transplant policy. The episode is a promotional-style discussion tied to a HowStuffWorks article on the topic.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "trolley problem",
+    "ethics",
+    "moral philosophy",
+    "ethical dilemma",
+    "utilitarianism",
+    "thought experiment",
+    "doing vs allowing harm",
+    "sacrificing one life to save many",
+    "trolley dilemma lever switch",
+    "footbridge dilemma",
+    "organ transplant ethics",
+    "philosophy",
+    "HowStuffWorks article"
+  ],
+  "entities": [
+    {
+      "name": "trolley problem",
+      "type": "other"
+    },
+    {
+      "name": "utilitarianism",
+      "type": "other"
+    },
+    {
+      "name": "organ transplant",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:30",
+      "kind": "intro",
+      "title": "Opening and introduction",
+      "summary": "Brief sponsor line and show introduction; Josh introduces the topic of the trolley problem as an article he wrote.",
+      "topics": [
+        "podcast introduction"
+      ]
+    },
+    {
+      "start": "00:00:30",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "The trolley problem: lever and footbridge scenarios",
+      "summary": "Josh describes the basic trolley dilemma: a runaway trolley will kill five people, and a switch could divert it onto a track where one man is standing. He then describes the second version, with no switch, where a large person must be pushed onto the tracks to stop the trolley.",
+      "topics": [
+        "trolley problem",
+        "ethical dilemma",
+        "lever switch scenario",
+        "footbridge dilemma",
+        "thought experiment"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Allowing death versus actively killing",
+      "summary": "Chris and Josh discuss whether they would pull the lever or push the man. They note that the problem, first posed in the 1960s, distinguishes allowing a death from actively causing one, and that pulling the lever is easier to accept than pushing someone.",
+      "topics": [
+        "doing vs allowing harm",
+        "moral philosophy",
+        "sacrificing one life for many",
+        "trolley problem history"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Utilitarianism and real-world rules",
+      "summary": "Josh says most people would pull the lever but not push the man, and explains this in terms of utilitarianism. He links the reasoning to societal rules, using an example about organ transplants, and closes with a promotion for the HowStuffWorks article.",
+      "topics": [
+        "utilitarianism",
+        "organ transplant ethics",
+        "public policy and ethics",
+        "HowStuffWorks article"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3272,
+    "output_tokens": 1187
+  }
+}

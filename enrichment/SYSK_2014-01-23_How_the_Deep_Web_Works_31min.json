@@ -1,0 +1,252 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-01-23_How_the_Deep_Web_Works_31min.txt",
+  "title": "How the Deep Web Works",
+  "date": "2014-01-23",
+  "duration": "31 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-deep-web-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8b1b0bb5-8566-4718-a924-ae28009b1c30/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8b1b0bb5-8566-4718-a924-ae28009b1c30/transcript?format=TextWithTimestamps&t=1700543889",
+  "summary": "Josh and Chuck explain the deep web versus the surface web, and how the dark web differs from both. They cover how search engines index pages with spiders and crawlers, why password-protected, unindexed, and private pages fall outside search results, and the claim that search engines reach only about 0.03 percent of the web. The episode opens with Iron Maiden touring based on pirated-music data gathered from BitTorrent sites, which requires harvesting deep web content. It then covers bank accounts, government grant databases, and the scale of the deep web, and discusses the dark web's anonymity uses and the Silk Road marketplace and the Ross Ulbricht case. It explains Tor (The Onion Router), its origins at the US Naval Research Laboratory, and the FBI malware operation against Freedom Hosting users. It closes with uses of anonymity, deep web harvesting companies such as BrightPlanet and Vocative, and a listener birthday shout-out and sponsor read for Lynda.com.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "deep web",
+    "dark web",
+    "surface web",
+    "search engines",
+    "web indexing",
+    "spiders and crawlers",
+    "big data",
+    "Tor",
+    "The Onion Router",
+    ".onion sites",
+    "Silk Road",
+    "Ross Ulbricht",
+    "Dread Pirate Roberts",
+    "bitcoin seizure",
+    "Freedom Hosting",
+    "FBI malware",
+    "anonymity and privacy",
+    "BrightPlanet",
+    "Vocative",
+    "deep web harvesting",
+    "Iron Maiden tour piracy",
+    "BitTorrent",
+    "Naval Research Laboratory",
+    "Silk Road 2.0",
+    "online anonymity"
+  ],
+  "entities": [
+    {
+      "name": "Iron Maiden",
+      "type": "organization"
+    },
+    {
+      "name": "Bruce Dickinson",
+      "type": "person"
+    },
+    {
+      "name": "BrightPlanet",
+      "type": "organization"
+    },
+    {
+      "name": "Vocative",
+      "type": "organization"
+    },
+    {
+      "name": "Silk Road",
+      "type": "other"
+    },
+    {
+      "name": "Ross Ulbricht",
+      "type": "person"
+    },
+    {
+      "name": "Tor",
+      "type": "other"
+    },
+    {
+      "name": "Freedom Hosting",
+      "type": "organization"
+    },
+    {
+      "name": "FBI",
+      "type": "organization"
+    },
+    {
+      "name": "US Naval Research Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Tracy Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Edward Snowden",
+      "type": "person"
+    },
+    {
+      "name": "Google",
+      "type": "organization"
+    },
+    {
+      "name": "BitTorrent",
+      "type": "other"
+    },
+    {
+      "name": "Linda.com",
+      "type": "organization"
+    },
+    {
+      "name": "Firefox",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Iron Maiden anecdote",
+      "summary": "Josh and Chuck open with banter, clarify that the dark web is part of the deep web, and tell a story about Iron Maiden using BitTorrent piracy data to choose tour cities, such as Rio.",
+      "topics": [
+        "deep web",
+        "dark web",
+        "Iron Maiden tour piracy",
+        "BitTorrent"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Defining the deep web and surface web",
+      "summary": "The hosts define the deep web as pages not indexed by search engines, such as password-protected, timed, uncaptioned, or unlinked pages. They say search engines reach only about 0.03 percent of the web. Examples include BrightPlanet's grants.gov example, online bank accounts, and internal company pages.",
+      "topics": [
+        "deep web",
+        "surface web",
+        "search engines",
+        "password-protected pages",
+        "0.03 percent of the web"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "How search engines index the web",
+      "summary": "The hosts explain that spiders or crawlers build an index of URLs, page content, and metadata. Search queries use this index rather than crawling the web live, so results return quickly.",
+      "topics": [
+        "web indexing",
+        "spiders and crawlers",
+        "search engine index",
+        "metadata",
+        "search results"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Scale of the deep web and big data",
+      "summary": "The hosts say superficial search results miss much scholarly and specialized content behind paywalls. They discuss big data as too large to process and the deep web as roughly 400 to 500 times bigger than the surface web. They cite about 50 million registered domains and the HowStuffWorks site as an example.",
+      "topics": [
+        "big data",
+        "deep web size",
+        "paywalls",
+        "research databases",
+        "registered domains"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Dark web, anonymity, and Silk Road",
+      "summary": "The hosts distinguish intentionally hidden dark web sites from the deep web generally. They note uses for privacy and anonymity, then describe Silk Road, its shutdown, the case against Ross Ulbricht (who denies being Dread Pirate Roberts), the disputed bitcoin seizure, and the alleged contract killings. They mention copycat markets and Silk Road 2.0.",
+      "topics": [
+        "dark web",
+        "Silk Road",
+        "Ross Ulbricht",
+        "Dread Pirate Roberts",
+        "bitcoin seizure",
+        "contract killings",
+        "Silk Road 2.0",
+        "anonymity"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Tor and the FBI Freedom Hosting malware operation",
+      "summary": "The hosts explain Tor (The Onion Router), which hides user location and reaches .onion sites. They describe the FBI's malware attack on Freedom Hosting sites, which exposed users' identifying information, and the resulting loss of trust in anonymity.",
+      "topics": [
+        "Tor",
+        "The Onion Router",
+        ".onion sites",
+        "Freedom Hosting",
+        "FBI malware",
+        "Firefox exploit",
+        "anonymity"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:25:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Brief break before the return to the show.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Tor origins, legitimate uses, and deep web harvesting",
+      "summary": "The hosts say Tor was launched by the US Naval Research Laboratory in 2003 for dissidents and whistleblowers, and that news outlets accept anonymous tips through it. They discuss legitimate privacy uses and the University of Luxembourg study. They describe BrightPlanet's deep web harvester and Vocative's journalism use.",
+      "topics": [
+        "Naval Research Laboratory",
+        "Tor origins",
+        "whistleblowers",
+        "political dissidents",
+        "deep web harvesting",
+        "BrightPlanet",
+        "Vocative",
+        "University of Luxembourg study",
+        "targeted advertising"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:30:30",
+      "kind": "outro",
+      "title": "Wrap-up and listener mail",
+      "summary": "The hosts summarize the cyber war between anonymity and surveillance and suggest searching how stuff works for more. A listener birthday shout-out for Natalie and David follows, plus social media and contact information.",
+      "topics": [
+        "cyber war",
+        "listener mail",
+        "birthday shout-out"
+      ]
+    },
+    {
+      "start": "00:30:30",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Lynda.com sponsor read",
+      "summary": "Sponsor read for Lynda.com, an online video tutorial service with a free seven-day trial.",
+      "topics": [
+        "Lynda.com",
+        "sponsor"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10563,
+    "output_tokens": 2721
+  }
+}

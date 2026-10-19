@@ -1,0 +1,298 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-03-20_How_Electricity_Works_44min.txt",
+  "title": "How Electricity Works",
+  "date": "2014-03-20",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-electricity-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c24bbf8c-bf71-4f64-bc4f-ae280099c2a3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c24bbf8c-bf71-4f64-bc4f-ae280099c2a3/transcript?format=TextWithTimestamps&t=1700543885",
+  "summary": "Josh and Chuck explain how electricity works, starting from the Big Bang and energy conservation, then covering the history of static electricity (Thales, William Gilbert, Ben Franklin, Coulomb, J.J. Thomson and the electron, Michael Faraday), atoms and conductors versus insulators, generators and turbines at Niagara Falls, voltage, current, resistance and power, circuits and loads, electric motors, grounding, transformers, the Tesla versus Edison AC/DC rivalry, and how electricity bills are calculated. The episode closes with a listener mail shout-out for Molly's birthday.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "electricity",
+    "how electricity works",
+    "static electricity",
+    "current electricity",
+    "history of electricity",
+    "electrons",
+    "atoms",
+    "conductors and insulators",
+    "voltage",
+    "current amps",
+    "resistance",
+    "watts and power",
+    "circuits",
+    "generators",
+    "turbines",
+    "Niagara Falls hydroelectric plant",
+    "electric motors",
+    "grounding",
+    "transformers",
+    "AC vs DC",
+    "Tesla vs Edison",
+    "Coulomb's law",
+    "Michael Faraday",
+    "Ben Franklin kite experiment",
+    "Leyden jar",
+    "kilowatt hours electricity bill",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Nikola Tesla",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "George Westinghouse",
+      "type": "person"
+    },
+    {
+      "name": "Michael Faraday",
+      "type": "person"
+    },
+    {
+      "name": "Ben Franklin",
+      "type": "person"
+    },
+    {
+      "name": "Charles-Augustin de Coulomb",
+      "type": "person"
+    },
+    {
+      "name": "J. J. Thomson",
+      "type": "person"
+    },
+    {
+      "name": "William Gilbert",
+      "type": "person"
+    },
+    {
+      "name": "Thales of Miletus",
+      "type": "person"
+    },
+    {
+      "name": "Thomas-François Dalibard",
+      "type": "person"
+    },
+    {
+      "name": "Niagara Falls",
+      "type": "place"
+    },
+    {
+      "name": "Hoover Dam",
+      "type": "place"
+    },
+    {
+      "name": "Big Bang",
+      "type": "event"
+    },
+    {
+      "name": "War of the currents",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and social media",
+      "summary": "Josh and Chuck open with casual banter about Chuck's hat, Schoolhouse Rock and Electric Company theme songs, and plug the show's Twitter, Facebook and website.",
+      "topics": [
+        "podcast banter",
+        "Schoolhouse Rock",
+        "Electric Company"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Energy, the Big Bang and electricity as a carrier",
+      "summary": "Josh explains that energy is conserved since the Big Bang and changes form, and that electricity is a secondary energy source that carries energy from one point to another to do work.",
+      "topics": [
+        "energy conservation",
+        "Big Bang",
+        "primary vs secondary energy source",
+        "electricity as energy carrier",
+        "mechanical energy"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Early static electricity experiments",
+      "summary": "The hosts describe Thales of Miletus rubbing amber with fur, the Greek origin of the word electricity, and William Gilbert coining the term. They distinguish static from current electricity and note early scientists thought electricity was a fluid.",
+      "topics": [
+        "Thales amber experiment",
+        "origin of the word electricity",
+        "William Gilbert",
+        "static vs current electricity",
+        "electricity as fluid theory"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Franklin, Coulomb's law and the discovery of the electron",
+      "summary": "The hosts discuss Ben Franklin's positive and negative charge idea and the disputed kite experiment, Coulomb's law of charge attraction, the Leyden jar, and J.J. Thomson's discovery of a particle smaller than the atom, which he called a corpuscle and was later renamed the electron.",
+      "topics": [
+        "Ben Franklin kite experiment",
+        "Coulomb's law",
+        "Leyden jar",
+        "J.J. Thomson electron discovery",
+        "corpuscle"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Atoms, conductors and insulators",
+      "summary": "Atoms are described as protons, neutrons and orbiting electrons, with a neutral atom having equal protons and electrons. Materials are conductors when electrons are loosely bound (metal) and insulators when tightly bound (wood).",
+      "topics": [
+        "atomic structure",
+        "protons neutrons electrons",
+        "conductors",
+        "insulators",
+        "free electrons"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Static electricity and generating current with magnets",
+      "summary": "Chuck explains static electricity using the balloon-on-sweater example and the doorknob shock. They then explain that moving magnets near conductive coils knocks electrons loose, producing current, building on Faraday's work.",
+      "topics": [
+        "static electricity balloon",
+        "doorknob shock",
+        "electromagnetic induction",
+        "Faraday dynamo",
+        "generators"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Hydroelectric power at Niagara Falls and power plants",
+      "summary": "George Westinghouse set up a hydroelectric plant at Niagara Falls in 1895 that used falling water to spin a turbine connected to a shaft and coils in magnets. Dams like Hoover Dam work similarly, and thermal plants use heat from coal or nuclear reactions to make steam that turns turbines.",
+      "topics": [
+        "Niagara Falls hydroelectric plant",
+        "turbines",
+        "hydroelectric dams",
+        "thermal power plants",
+        "steam turbines",
+        "kinetic energy"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Voltage, current, resistance and power",
+      "summary": "Using a water-pipe analogy, the hosts explain voltage as electromotive force, current in amps, resistance in ohms, and power in watts as voltage times current. They note that 120 volts is the US household standard and that higher voltage means more danger.",
+      "topics": [
+        "voltage",
+        "amps",
+        "ohms resistance",
+        "watts",
+        "water analogy for electricity",
+        "120 volts household",
+        "electrical safety"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Circuits, loads, motors and grounding",
+      "summary": "A circuit is a closed loop, and a load such as a light bulb, battery or heater uses the electron flow. An electric motor converts electricity into mechanical energy. Grounding wires and prongs send residual charge into the earth for safety, as do lightning rods.",
+      "topics": [
+        "electrical circuits",
+        "load",
+        "light bulb filament",
+        "electric motor",
+        "grounding",
+        "third prong",
+        "lightning rod"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Transformers, AC vs DC and the Tesla-Edison rivalry",
+      "summary": "Transformers step up voltage for long-distance transmission to reduce loss and step it down for homes. The hosts contrast DC batteries with AC current that alternates 60 times per second in the US and 50 in Europe, and recount the Tesla versus Edison war of the currents, with Westinghouse also mentioned.",
+      "topics": [
+        "transformers",
+        "AC vs DC",
+        "alternating current",
+        "direct current",
+        "Tesla vs Edison",
+        "war of the currents",
+        "power transmission"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Calculating an electricity bill and kilowatt-hours",
+      "summary": "Using a space heater example at 10 amps and 120 volts, the hosts calculate 1,200 watts and 1.2 kilowatt-hours per hour, and explain that a dime per kilowatt-hour makes it 12 cents an hour. They advise checking appliance kWh tags.",
+      "topics": [
+        "kilowatt-hours",
+        "electricity bill calculation",
+        "appliance energy use",
+        "space heater example"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Rubber shoes and closing remarks",
+      "summary": "Josh wraps up the electricity topic, saying rubber is an insulator and pointing listeners to the HowStuffWorks search bar and kids science sites for more.",
+      "topics": [
+        "rubber insulator",
+        "electricity resources"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:03:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Molly's birthday shout-out",
+      "summary": "Pearl writes that she and her best friend Molly listen to the show together and asks for a birthday shout-out for Molly, who turns 26 on April 9. The hosts wish her a happy birthday.",
+      "topics": [
+        "listener mail",
+        "birthday shout-out"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:04:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh gives contact details for Twitter, Facebook, email and the website and signs off.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14066,
+    "output_tokens": 3282
+  }
+}

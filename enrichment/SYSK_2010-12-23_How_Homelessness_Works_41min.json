@@ -1,0 +1,244 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-12-23_How_Homelessness_Works_41min.txt",
+  "title": "How Homelessness Works",
+  "date": "2010-12-23",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-homelessness-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/064d6c43-046a-4608-874b-ae2800b2d823/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/064d6c43-046a-4608-874b-ae2800b2d823/transcript?format=TextWithTimestamps&t=1700543961",
+  "summary": "Josh Clark and Chuck Bryant discuss homelessness in the United States, opening with Facebook page banter and a reference to a blog post Chuck wrote on rising homeless school children (a 41 percent national increase, with Texas and Iowa among the highest). They cover worldwide and US counts (point-in-time counts versus annual Census-based estimates, shelter bed numbers, and minority overrepresentation), then causes: poverty, the gap between minimum wage and the poverty line and affordable housing, the demolition of low-rent housing and cuts to housing assistance from 1980 to 2003, mental illness including the claim about Reagan-era closures of mental hospitals, addiction, domestic violence, and veterans. They discuss the McKinney-Vento Act, effects on homeless people (physical attacks, health problems, PTSD), programs such as Section 8 vouchers, shelters, public housing, food banks and food waste, and job training. They close with ways listeners can help and a call to see homeless people as individuals. The episode ends with a listener mail segment about Kiva microloans, a Kiva team listing, and a holiday story request.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "homelessness",
+    "homelessness in the United States",
+    "homeless statistics",
+    "homeless school children",
+    "poverty",
+    "affordable housing",
+    "minimum wage and poverty line",
+    "Section 8 housing",
+    "public housing",
+    "mental illness and homelessness",
+    "Reagan mental hospital closures",
+    "McKinney-Vento Act",
+    "domestic violence and homelessness",
+    "veterans homelessness",
+    "food banks",
+    "food waste",
+    "homeless shelters",
+    "job training for homeless",
+    "Kiva microloans",
+    "how to help the homeless",
+    "Techwood Homes demolition"
+  ],
+  "entities": [
+    {
+      "name": "McKinney-Vento Act",
+      "type": "work"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "Section 8",
+      "type": "other"
+    },
+    {
+      "name": "Techwood Homes",
+      "type": "place"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Sioux Falls",
+      "type": "place"
+    },
+    {
+      "name": "Sweden",
+      "type": "place"
+    },
+    {
+      "name": "Norway",
+      "type": "place"
+    },
+    {
+      "name": "Will Smith",
+      "type": "person"
+    },
+    {
+      "name": "Shelter",
+      "type": "work"
+    },
+    {
+      "name": "Invisible Families",
+      "type": "work"
+    },
+    {
+      "name": "Coalition for the Homeless",
+      "type": "organization"
+    },
+    {
+      "name": "Homeless Veterans Reintegration Program",
+      "type": "organization"
+    },
+    {
+      "name": "Department of Veterans Affairs",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and homeless school children",
+      "summary": "Josh and Chuck open with Facebook page chatter, then Chuck introduces the July news about rising numbers of homeless school children, citing a 41 percent national increase and large jumps in Texas, Iowa and Sioux Falls.",
+      "topics": [
+        "homeless school children",
+        "recession and homelessness",
+        "Sioux Falls homeless students"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Counting the homeless worldwide and in the US",
+      "summary": "The hosts explain point-in-time counts versus annual Census-based estimates and why counts are hard. They cite worldwide figures, note homelessness in Sweden and Norway, and give conflicting US totals. They also note disproportionate homelessness among minorities, especially African Americans, and that families make up a large share of rural homelessness.",
+      "topics": [
+        "homeless statistics",
+        "point-in-time count",
+        "homelessness worldwide",
+        "minorities and homelessness",
+        "rural homelessness"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Defining homelessness and its history",
+      "summary": "Josh and Chuck explain that homelessness includes people without a permanent residence, such as those in weekly motels or staying with family, not just people on the street. They mention historical vagrancy laws in fourteenth-century England and say homelessness has existed in the US since its founding.",
+      "topics": [
+        "definition of homelessness",
+        "history of homelessness",
+        "vagrancy laws"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Poverty, minimum wage and affordable housing",
+      "summary": "The hosts describe the poverty line, the federal minimum wage of 7.25 an hour, and the gap that makes full-time minimum-wage work fall below poverty. They explain that affordable housing is defined as 30 percent of income and that about five million US households pay more than half their income in rent. Many homeless people hold jobs, and job loss, medical bills or catastrophe can push ordinary people into homelessness.",
+      "topics": [
+        "poverty line",
+        "federal minimum wage",
+        "affordable housing",
+        "rent burden",
+        "working homeless"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Demolition of low-rent housing and cuts to assistance",
+      "summary": "Chuck and Josh discuss the demolition of Techwood Homes in Atlanta before the Olympics and a nationwide trend in which more than two million low-rent units were demolished or converted between 1980 and 2003, while government housing assistance fell by half in the same period.",
+      "topics": [
+        "Techwood Homes",
+        "public housing demolition",
+        "housing assistance cuts",
+        "1980s housing policy"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Mental illness, Reagan and addiction",
+      "summary": "The hosts say about 20 percent of homeless people have a mental illness and about two-thirds struggle with alcohol or drug problems. They discuss the urban legend that Reagan closed mental institutions, which they say is largely accurate: he cut state psychiatric hospitals as California governor and cut mental health treatment funding as president.",
+      "topics": [
+        "mental illness and homelessness",
+        "Reagan mental hospitals",
+        "addiction and homelessness",
+        "deinstitutionalization"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "McKinney-Vento Act and domestic violence",
+      "summary": "The hosts discuss the McKinney-Vento Act, signed by Reagan and named for Stewart McKinney and Bruce Vento, which funded shelters, transitional housing, healthcare, food and job training. They then cover domestic violence as a cause of homelessness, with about half of homeless women described as battered women, and the abuse homeless people face on the street.",
+      "topics": [
+        "McKinney-Vento Act",
+        "domestic violence and homelessness",
+        "battered women shelters",
+        "runaway youth",
+        "violence against homeless people"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Veterans and the cycle of homelessness",
+      "summary": "Josh and Chuck discuss homeless veterans, about 200,000 homeless single men, often with PTSD or substance abuse. They describe a vicious cycle in which mental illness, addiction and scarce services reinforce each other, and they note the Department of Veterans Affairs can serve only part of the homeless veteran population. They argue the money exists but the will is lacking.",
+      "topics": [
+        "veterans homelessness",
+        "PTSD and homelessness",
+        "Department of Veterans Affairs",
+        "cycle of homelessness"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Health effects and Section 8 housing",
+      "summary": "The hosts list health effects of homelessness for adults and children, including asthma, infections, depression, anxiety, PTSD, frostbite, HIV and diabetes. They then describe Section 8 vouchers, where tenants pay about 30 percent of rent and the government pays the rest, and note long waiting lists and closed lists in some cities.",
+      "topics": [
+        "health effects of homelessness",
+        "Section 8 vouchers",
+        "housing waiting lists",
+        "stress and PTSD in homeless children"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Shelters, food banks, job training and how to help",
+      "summary": "The hosts discuss shelters, public housing, food banks and food waste, with estimates that up to half of US food is thrown away. They cover job training groups such as the Coalition for the Homeless and the Homeless Veterans Reintegration Program. They suggest ways to help: volunteering, donating goods, car donation, advocacy and hiring homeless people. They end with a call to treat homeless people as individuals, referencing Will Smith's film and David Pearle's story and photography projects Shelter and Invisible Families.",
+      "topics": [
+        "food banks",
+        "food waste",
+        "job training for homeless",
+        "how to help the homeless",
+        "homeless advocacy",
+        "invisibility of homeless people"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:00",
+      "kind": "outro",
+      "title": "Closing remarks",
+      "summary": "Josh and Chuck wrap up the homelessness discussion and point listeners to the website search bar for more on the topic.",
+      "topics": [
+        "show closing"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13120,
+    "output_tokens": 3215
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-18_Sunburn_Suntans_and_Sunscreen_48min.txt",
+  "title": "Sunburn, Suntans and Sunscreen",
+  "date": "2017-07-18",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sunburn-suntans-and-sunscreen",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3779ed89-1cd2-452a-b87b-ae280074793a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3779ed89-1cd2-452a-b87b-ae280074793a/transcript?format=TextWithTimestamps&t=1700543801",
+  "summary": "Josh and Chuck discuss sun exposure and skin health: the three types of solar UV (UVA, UVB, UVC) and which reach Earth, why tans and sunburns are both signs of skin damage, the myth that a base tan protects, indoor tanning bed risks, melanin, collagen damage and wrinkles, how sunburn works, UPF clothing, the history of sunscreen (Milton Blake, Franz Gerta's Piz Boul glacier cream, Benjamin Green's red vet pet, Coppertone), how SPF is measured and its limits, zinc oxide versus chemical filters, application tips, and sunscreen sprays. The episode closes with a listener mail segment about early voting, and a tour announcement opens the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "sunburn",
+    "suntan",
+    "sunscreen",
+    "SPF",
+    "sun protection factor",
+    "UVA",
+    "UVB",
+    "UVC",
+    "ultraviolet radiation",
+    "broad spectrum sunscreen",
+    "base tan myth",
+    "tanning beds",
+    "indoor tanning skin cancer",
+    "melanin",
+    "melanoma",
+    "skin cancer",
+    "collagen and wrinkles",
+    "UPF clothing",
+    "sun protective clothing",
+    "zinc oxide",
+    "chemical sunscreen filters",
+    "sunscreen spray",
+    "sunscreen history",
+    "Coppertone",
+    "Milton Blake",
+    "FDA sunscreen regulation",
+    "vitamin D from sun",
+    "early voting"
+  ],
+  "entities": [
+    {
+      "name": "Milton Blake",
+      "type": "person"
+    },
+    {
+      "name": "Franz Gerta",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin Green",
+      "type": "person"
+    },
+    {
+      "name": "Joyce Valentine",
+      "type": "person"
+    },
+    {
+      "name": "Coppertone",
+      "type": "organization"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Consumer Reports",
+      "type": "organization"
+    },
+    {
+      "name": "Piz Boul",
+      "type": "place"
+    },
+    {
+      "name": "Yale",
+      "type": "organization"
+    },
+    {
+      "name": "Mount Sinai Medical Center",
+      "type": "organization"
+    },
+    {
+      "name": "University of Michigan",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Tour announcement and opening banter",
+      "summary": "Josh announces the 2017 SYSK tour dates and ticket link, then the hosts banter about getting sunburned and tanned.",
+      "topics": [
+        "tour dates",
+        "sunburn",
+        "suntan"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Types of sunlight and UV radiation",
+      "summary": "The hosts explain the sun's infrared, visible, and ultraviolet output, the UVA, UVB, and UVC split, which reaches Earth, and how reflection from snow, sand, and clouds adds exposure. They note glass absorbs UV, so a greenhouse prevents burning.",
+      "topics": [
+        "ultraviolet radiation",
+        "UVA",
+        "UVB",
+        "UVC",
+        "UV reflection snow sand",
+        "greenhouse glass UV"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Tans, burns, and tanning beds",
+      "summary": "The hosts explain that UVB causes sunburn and UVA causes deeper damage and aging, and that tans are a damage response. They discuss tanning beds using mainly UVA, the vitamin D myth, and estimated skin cancer cases and melanoma risk for early tanning bed users.",
+      "topics": [
+        "tanning beds",
+        "indoor tanning",
+        "vitamin D myth",
+        "melanoma risk",
+        "UVA aging",
+        "tan as damage signal"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Melanin and skin tone",
+      "summary": "Melanin absorbs UVA and converts it to heat. The hosts note that darker skin can still burn and get skin cancer, though less often, and that UVA breaks down collagen, leading to wrinkles. A University of Michigan study found MMP-1 production kept rising during tanning.",
+      "topics": [
+        "melanin",
+        "skin tone and skin cancer",
+        "collagen breakdown",
+        "MMP-1",
+        "wrinkles"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "The base tan myth and how sunburn works",
+      "summary": "A base tan gives an SPF of about three or less and can encourage people to skip protection. Sunburn is cellular damage from UV that triggers redness (erythema) from increased blood flow. UVB can mutate DNA and lead to skin cancer. Clothing and eyes can also burn.",
+      "topics": [
+        "base tan myth",
+        "erythema",
+        "sunburn mechanism",
+        "DNA mutation skin cancer",
+        "sunburn on eyes"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "UPF clothing and where to protect",
+      "summary": "The hosts discuss UV-protective shirts, UPF ratings from about 15 to 50, weave tightness, and a dermatologist's view that clothing is the most effective sun protection. They discuss commonly missed spots like the tops of feet, ears, and the back of the neck.",
+      "topics": [
+        "UPF clothing",
+        "UV shirts",
+        "commonly missed sunscreen spots",
+        "sun protective clothing"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "History of sunscreen",
+      "summary": "The hosts trace sun protection from ancient Egypt, with oat and rice remedies, through Milton Blake's Australian sunblock, Franz Gerta's Swiss glacier cream with SPF two, Benjamin Green's red veterinary petrolatum with cocoa butter, and the Coppertone girl illustrated by Joyce Valentine with her daughter Sherry Irwin. The FDA became involved in the late 1970s and was criticized for slow testing of ingredients compared with Europe and Japan.",
+      "topics": [
+        "sunscreen history",
+        "Milton Blake",
+        "Piz Boul glacier cream",
+        "Benjamin Green red vet pet",
+        "Coppertone",
+        "Joyce Valentine",
+        "FDA sunscreen regulation",
+        "Europe sunscreen ingredients"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "How sunscreen and SPF work",
+      "summary": "Broad spectrum sunscreen protects against both UVA and UVB. SPF is determined by testing on a buttock with UV exposure until burn, and the ratio is rounded to the nearest five. SPF 15 roughly means 150 minutes instead of 10. Sunscreen works either as a physical blocker (zinc oxide) or as a chemical filter. The hosts discuss the diminishing returns above SPF 30, which blocks about 97 percent of harmful rays, and the false sense of security from high SPF.",
+      "topics": [
+        "SPF",
+        "sun protection factor",
+        "broad spectrum",
+        "zinc oxide",
+        "chemical sunscreen filters",
+        "SPF formula",
+        "SPF 30 blocking"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Sunscreen application, reapplication, and sprays",
+      "summary": "The hosts describe how much sunscreen is used in testing versus real life, the advice to apply 15 to 30 minutes before going out and to reapply after water and sweating, and the hats and sunglasses they use. They cover the Consumer Reports caution about spray sunscreens, inhaling fumes, and not spraying on the face or kids.",
+      "topics": [
+        "sunscreen application amount",
+        "sunscreen reapplication",
+        "sunscreen spray safety",
+        "sunglasses and UV",
+        "hats for sun protection",
+        "Consumer Reports sunscreen spray"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Sun protection tips from HowStuffWorks",
+      "summary": "The hosts recap practical tips: know your skin type and family cancer history, use broad spectrum high SPF sunscreen, reapply often, and wear hats. Chuck and Josh discuss pool time and staying in the water.",
+      "topics": [
+        "sun safety tips",
+        "skin type",
+        "family history skin cancer",
+        "pool sun safety"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:48:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: early voting",
+      "summary": "Listener Rebecca Chan writes that an online debater called early voting disrespectful to elections. The hosts disagree and call that view puzzling.",
+      "topics": [
+        "early voting",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to get in touch on Twitter, Facebook, email, and the website, and sign off.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15421,
+    "output_tokens": 3167
+  }
+}

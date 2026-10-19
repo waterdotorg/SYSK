@@ -1,0 +1,335 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-07-10_Sixdegreescom_A_Social_Media_Origin_Story_43min.txt",
+  "title": "Sixdegrees.com: A Social Media Origin Story",
+  "date": "2025-07-10",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sixdegrees-com-a-social-media-origin-story",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7d321520-9c0a-4cae-884c-b3150185d61a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d321520-9c0a-4cae-884c-b3150185d61a/transcript?format=TextWithTimestamps&t=1752105050",
+  "summary": "Hosts Josh and Chuck (credited in transcript as \"iHeart Intro\" speaker for Chuck) cover SixDegrees.com, founded by Andrew Weinreich in 1997 and considered by the hosts to be the first social media site. They discuss its roughly three and a half million users, its launch during low home internet penetration and slow dial-up speeds, and its features (email-based confirmation of connections, channels, bulletin boards, daily polls). They trace its roots to Stanley Milgram and Jeffrey Travers's small-world letter experiments and the Six Degrees of Kevin Bacon game, describe the lack of photos and early digital cameras, and cover the company's shutdown in 1999, the sale of its patent to Reid Hoffman and Mark Pincus, and Weinreich's later ventures (Meet Moi, Indicative). The episode closes with a listener email from Matt, a man with autism, about impression management and being judged for his demeanor.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "SixDegrees.com",
+    "social media history",
+    "Andrew Weinreich",
+    "first social media site",
+    "Six Degrees of Separation",
+    "Stanley Milgram small world experiment",
+    "Jeffrey Travers",
+    "degrees of separation",
+    "Six Degrees of Kevin Bacon",
+    "Bacon number",
+    "Friendster",
+    "MySpace",
+    "Facebook",
+    "dot com bubble",
+    "early internet dial-up",
+    "digital cameras history",
+    "camera phone history",
+    "Reid Hoffman",
+    "Mark Pincus",
+    "Meet Moi",
+    "Indicative data analytics",
+    "listener mail",
+    "autism impression management"
+  ],
+  "entities": [
+    {
+      "name": "SixDegrees.com",
+      "type": "organization"
+    },
+    {
+      "name": "Andrew Weinreich",
+      "type": "person"
+    },
+    {
+      "name": "Stanley Milgram",
+      "type": "person"
+    },
+    {
+      "name": "Jeffrey Travers",
+      "type": "person"
+    },
+    {
+      "name": "Kevin Bacon",
+      "type": "person"
+    },
+    {
+      "name": "Friendster",
+      "type": "organization"
+    },
+    {
+      "name": "MySpace",
+      "type": "organization"
+    },
+    {
+      "name": "Facebook",
+      "type": "organization"
+    },
+    {
+      "name": "Twitter",
+      "type": "organization"
+    },
+    {
+      "name": "LinkedIn",
+      "type": "organization"
+    },
+    {
+      "name": "Reid Hoffman",
+      "type": "person"
+    },
+    {
+      "name": "Mark Pincus",
+      "type": "person"
+    },
+    {
+      "name": "Meet Moi",
+      "type": "organization"
+    },
+    {
+      "name": "Indicative",
+      "type": "organization"
+    },
+    {
+      "name": "Xtify",
+      "type": "organization"
+    },
+    {
+      "name": "Milgram experiment",
+      "type": "event"
+    },
+    {
+      "name": "Six Degrees of Kevin Bacon",
+      "type": "work"
+    },
+    {
+      "name": "Apple QuickTake 100",
+      "type": "other"
+    },
+    {
+      "name": "Kyocera VisualPhone VP-210",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:19",
+      "kind": "intro",
+      "title": "Opening and SixDegrees overview",
+      "summary": "The hosts introduce SixDegrees.com, launched in 1997 by Andrew Weinreich, which reached about three and a half million users and is described as an early social media site.",
+      "topics": [
+        "SixDegrees.com",
+        "first social media site",
+        "Andrew Weinreich"
+      ]
+    },
+    {
+      "start": "00:01:19",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "Timing and slow early internet",
+      "summary": "The hosts argue SixDegrees was ahead of its time: home internet penetration was low (about 18 percent in 1997 per the US figure cited, with Pew numbers discussed), and dial-up speeds of 56 kbps made waiting painful.",
+      "topics": [
+        "early internet adoption",
+        "dial-up modem speeds",
+        "internet penetration statistics",
+        "dot com bubble"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:06:23",
+      "kind": "content",
+      "title": "Legacy and comparison to later social networks",
+      "summary": "The hosts note SixDegrees has been forgotten, with many people wrongly crediting Friendster. They compare its user count to MySpace, which reached a million monthly users in 2003, and Facebook, with over three billion users.",
+      "topics": [
+        "Friendster",
+        "MySpace",
+        "Facebook",
+        "social media history"
+      ]
+    },
+    {
+      "start": "00:06:23",
+      "end": "00:11:10",
+      "kind": "content",
+      "title": "Six Degrees of Separation and Milgram's small-world studies",
+      "summary": "The hosts connect the site's name to Stanley Milgram and Jeffrey Travers's late-1960s letter study, in which packets were passed through acquaintances to reach a target person. The study found a mean of about four to six intermediaries, with later studies on Facebook and Twitter cited.",
+      "topics": [
+        "Stanley Milgram",
+        "Jeffrey Travers",
+        "small world experiment",
+        "degrees of separation",
+        "Milgram experiment"
+      ]
+    },
+    {
+      "start": "00:11:10",
+      "end": "00:14:44",
+      "kind": "content",
+      "title": "Kevin Bacon game and Bacon numbers",
+      "summary": "The hosts discuss the Six Degrees of Kevin Bacon game and Bacon numbers, noting that several actors, including Eric Roberts, have lower connectivity numbers than Bacon. They also digress on actor Cameron Mitchell.",
+      "topics": [
+        "Six Degrees of Kevin Bacon",
+        "Bacon number",
+        "Eric Roberts",
+        "Cameron Mitchell"
+      ]
+    },
+    {
+      "start": "00:14:44",
+      "end": "00:17:11",
+      "kind": "content",
+      "title": "How SixDegrees worked: connections and invitations",
+      "summary": "Users built networks by confirming connections with people they knew, inviting others by email, and tracing first, second, and third degree links. Profiles held professional and hobby information.",
+      "topics": [
+        "SixDegrees features",
+        "online networking",
+        "email invitations",
+        "LinkedIn precursor"
+      ]
+    },
+    {
+      "start": "00:17:11",
+      "end": "00:20:26",
+      "kind": "content",
+      "title": "Features: messaging, channels, and early community",
+      "summary": "The site offered in-network email, bulletin boards, and channels (special-interest groups), a precursor to Facebook groups. The hosts describe the 1999 and 2000 homepage content, including daily trivia and polls.",
+      "topics": [
+        "channels",
+        "bulletin boards",
+        "daily poll",
+        "Facebook groups precursor"
+      ]
+    },
+    {
+      "start": "00:20:26",
+      "end": "00:23:39",
+      "kind": "content",
+      "title": "Homepage engagement and early chat culture",
+      "summary": "The hosts recall the site showing online user counts and engagement prompts, plus a February 2000 question of the day and themed content. Chuck shares a memory of chatting online.",
+      "topics": [
+        "online chat rooms",
+        "engagement tactics",
+        "early internet memories"
+      ]
+    },
+    {
+      "start": "00:23:39",
+      "end": "00:26:51",
+      "kind": "content",
+      "title": "Lack of photos and early digital cameras",
+      "summary": "Pictures were not supported because digital cameras were scarce and costly. The hosts cite the Apple QuickTake 100, the Canon PowerShot, and the 1999 Kyocera VisualPhone VP-210 as the first camera phone, and Weinreich's handling of user photo requests.",
+      "topics": [
+        "digital camera history",
+        "camera phone history",
+        "Apple QuickTake 100",
+        "Kyocera VisualPhone",
+        "SixDegrees photos"
+      ]
+    },
+    {
+      "start": "00:26:51",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Break and tangent",
+      "summary": "A break and off-topic conversation about movies, Elliott Gould, Jarmusch, and vanity license plates, with a brief mention of Weinreich's name pronunciation.",
+      "topics": [
+        "off-topic banter"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:06",
+      "kind": "content",
+      "title": "Launch party and early growth",
+      "summary": "The site launched with a party in New York City for two hundred invited guests. Growth was around fifty new users a day at first, and reps recruited on college campuses.",
+      "topics": [
+        "SixDegrees launch",
+        "user growth",
+        "campus marketing"
+      ]
+    },
+    {
+      "start": "00:32:06",
+      "end": "00:34:23",
+      "kind": "content",
+      "title": "Shutdown and the site's domain",
+      "summary": "The hosts discuss the site's shutdown and that sixdegrees.com still resolves but is unreachable.",
+      "topics": [
+        "SixDegrees shutdown",
+        "domain name"
+      ]
+    },
+    {
+      "start": "00:34:23",
+      "end": "00:37:16",
+      "kind": "content",
+      "title": "Business failure, Weinreich's sale, and the patent",
+      "summary": "YouthStream Media Networks bought in at about 125 million dollars in stock, but went under because of debt financing. Weinreich's patent was sold for about 700,000 dollars to Reid Hoffman and Mark Pincus, who were Friendster investors. LinkedIn is not built on SixDegrees architecture.",
+      "topics": [
+        "YouthStream Media Networks",
+        "patent sale",
+        "Reid Hoffman",
+        "Mark Pincus",
+        "LinkedIn"
+      ]
+    },
+    {
+      "start": "00:37:16",
+      "end": "00:40:04",
+      "kind": "content",
+      "title": "Weinreich's later ventures: Meet Moi and Indicative",
+      "summary": "Weinreich founded Meet Moi, a location-based dating app, whose dating side was sold to Match.com. The analytics side became Indicative, and location-based push advertising was sold to Xtify.",
+      "topics": [
+        "Meet Moi",
+        "Indicative",
+        "Xtify",
+        "location-based advertising",
+        "Match.com"
+      ]
+    },
+    {
+      "start": "00:40:04",
+      "end": "00:40:40",
+      "kind": "content",
+      "title": "Weinreich's current podcast and transition",
+      "summary": "The hosts mention Weinreich now hosts a podcast called Predicting Our Future and move to listener mail.",
+      "topics": [
+        "Predicting Our Future"
+      ]
+    },
+    {
+      "start": "00:40:40",
+      "end": "00:42:04",
+      "kind": "listener_mail",
+      "title": "Listener mail: autism and impression management",
+      "summary": "Listener Matt, a forty-something man with autism, writes about struggling with body language, being searched at airports, and being nicknamed Terminator. The hosts respond about giving people slack.",
+      "topics": [
+        "listener mail",
+        "autism",
+        "impression management",
+        "airport screening"
+      ]
+    },
+    {
+      "start": "00:42:04",
+      "end": "00:42:26",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks inviting listener mail and the iHeartRadio credit.",
+      "topics": [
+        "sign-off",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16591,
+    "output_tokens": 3671
+  }
+}

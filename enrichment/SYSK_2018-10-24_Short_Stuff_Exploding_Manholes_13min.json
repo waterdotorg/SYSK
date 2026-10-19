@@ -1,0 +1,147 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-10-24_Short_Stuff_Exploding_Manholes_13min.txt",
+  "title": "Short Stuff: Exploding Manholes",
+  "date": "2018-10-24",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-exploding-manholes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3916b863-c5a1-4f02-9a13-ae28005a2abf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3916b863-c5a1-4f02-9a13-ae28005a2abf/transcript?format=TextWithTimestamps&t=1700543722",
+  "summary": "Short Stuff episode on exploding manhole covers, focused mostly on New York City. The hosts discuss how New York has one of the world's oldest and largest underground electrical systems, with roughly a thousand miles of cable and about 264,000 manholes. Old wiring, salty slush from road salt, and rats chewing insulation lead to corroded, frayed wires; arcing then ignites gases released by smoldering insulation, and the buildup of pressure can blow a manhole cover tens of feet into the air, compared to an internal combustion engine. The episode cites Con Edison as the main source of incident numbers (about 1,908 in 2016 and nearly 3,800 in 2015, including about 600 in one week of February 2015), notes a city council effort for more reporting transparency, and mentions injuries are rare. It also covers other cities such as Boston, where a Boston-area high school art teacher was killed in 2016 when a manhole cover came through her windshield, and DC, where the problem is linked to natural gas.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "exploding manholes",
+    "exploding manhole covers",
+    "Con Edison",
+    "New York City underground electrical system",
+    "manhole incidents",
+    "old underground wiring",
+    "road salt corrosion",
+    "rats chewing wire insulation",
+    "manhole cover safety",
+    "Boston manhole accident 2016",
+    "DC manhole explosions natural gas",
+    "electrical arc and gas ignition",
+    "New York City infrastructure",
+    "city council manhole transparency",
+    "Donovan Richards bill"
+  ],
+  "entities": [
+    {
+      "name": "Con Edison",
+      "type": "organization"
+    },
+    {
+      "name": "New York City",
+      "type": "place"
+    },
+    {
+      "name": "Boston",
+      "type": "place"
+    },
+    {
+      "name": "Washington DC",
+      "type": "place"
+    },
+    {
+      "name": "Donovan Richards",
+      "type": "person"
+    },
+    {
+      "name": "Fear and Loathing in Las Vegas",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and manhole scare",
+      "summary": "The hosts joke about being scared of exploding manhole covers before a trip to New York and note that the covers are very heavy and can be thrown high into the air. Off-topic chatter about the dogs follows.",
+      "topics": [
+        "exploding manholes",
+        "hosts banter"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "New York's aging underground electrical system",
+      "summary": "New York has one of the world's largest and oldest underground electrical systems, with about a thousand miles of cable and 264,000 manholes. Manhole covers are heavy to deter theft, and a large share of the wiring is about a century old, well past its roughly forty-year lifespan.",
+      "topics": [
+        "New York City underground electrical system",
+        "old underground wiring",
+        "manhole covers weight"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "How salt water and rats cause the explosions",
+      "summary": "Road salt and slush from snowmelt get into the manholes and corrode wire insulation, and rats gnaw on the insulation. Salt water conducts electricity, so frayed wires arc, and the smoldering insulation releases gases.",
+      "topics": [
+        "road salt corrosion",
+        "rats chewing wire insulation",
+        "electrical arc",
+        "salt water conductivity"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Gas buildup and the explosion mechanism",
+      "summary": "Gas released by the smoldering insulation builds up pressure, and when an electrical arc meets it, it ignites. The hosts compare the blast to the compression and combustion in an internal combustion engine, which can send a roughly three-pound cover up to about fifty feet.",
+      "topics": [
+        "gas ignition",
+        "manhole explosion mechanism",
+        "internal combustion engine comparison"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Manhole incident statistics and reporting",
+      "summary": "Con Edison reported about 1,908 manhole incidents in 2016 and almost 3,800 in 2015, including about 600 in one week of February 2015. The hosts note that the city does not require full reporting and Con Edison is the only real source, so the numbers may be incomplete. Councilman Donovan Richards introduced a bill for annual reports. Injuries are rare.",
+      "topics": [
+        "manhole incidents statistics",
+        "Con Edison",
+        "city council transparency bill",
+        "Donovan Richards"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Other cities and the Boston windshield death",
+      "summary": "Boston and Chicago also have exploding manhole problems tied to old infrastructure and salty snowmelt, and DC's problems are linked to natural gas. In 2016 in Boston, a high school art teacher was killed when a manhole cover came through her windshield.",
+      "topics": [
+        "Boston manhole accident 2016",
+        "DC manhole explosions natural gas",
+        "Chicago infrastructure",
+        "freak accidents"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners, point to their social media and website, and say goodbye with a reminder to watch out for manholes.",
+      "topics": [
+        "podcast sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5445,
+    "output_tokens": 1929
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-10-09_How_Marathons_Work_65min.txt",
+  "title": "How Marathons Work",
+  "date": "2018-10-09",
+  "duration": "65 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-marathons-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a3a3fa2d-d03f-4c02-b8f5-ae28005b57ff/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a3a3fa2d-d03f-4c02-b8f5-ae28005b57ff/transcript?format=TextWithTimestamps&t=1700543724",
+  "summary": "Josh and Chuck explore the history and physiology of marathon running. They open with banter about not wanting to run marathons, then cover the legend of Pheidippides running from Marathon to Athens, the revival of the Olympics and creation of the modern marathon by Michel Bréal and Pierre de Coubertin, the 1908 London extension to 26.2 miles, Boston Marathon history, Fred Lebow's 1970 Central Park race and the 1970s running boom, Katherine Switzer, marathon demographics, training advice (couch to 5K, training journals, slow and fast twitch muscles, heart rate formula, talk test), the runner's high and the endocannabinoid theory, hitting the wall and glycogen depletion, deaths and hyponatremia risks, runner's diarrhea, Eliud Kipchoge's sub-two-hour Berlin run, and Rosie Ruiz's cheating at the Boston Marathon. The episode closes with plugs for Josh's and Chuck's own podcasts.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "marathon",
+    "marathon history",
+    "Pheidippides legend",
+    "Battle of Marathon",
+    "ancient Olympics",
+    "modern Olympics marathon origin",
+    "Boston Marathon",
+    "New York City Marathon",
+    "Fred Lebow",
+    "marathon boom 1970s",
+    "Katherine Switzer",
+    "marathon training",
+    "couch to 5K",
+    "slow twitch and fast twitch muscles",
+    "training heart rate formula",
+    "talk test",
+    "runner's high",
+    "endocannabinoids anandamide",
+    "hitting the wall",
+    "glycogen depletion",
+    "runner's diarrhea",
+    "hyponatremia water intoxication",
+    "ultramarathon",
+    "Eliud Kipchoge world record",
+    "Rosie Ruiz Boston Marathon cheating",
+    "Frank Shorter 1972"
+  ],
+  "entities": [
+    {
+      "name": "Pheidippides",
+      "type": "person"
+    },
+    {
+      "name": "Marathon",
+      "type": "place"
+    },
+    {
+      "name": "Athens",
+      "type": "place"
+    },
+    {
+      "name": "Sparta",
+      "type": "place"
+    },
+    {
+      "name": "Michel Bréal",
+      "type": "person"
+    },
+    {
+      "name": "Pierre de Coubertin",
+      "type": "person"
+    },
+    {
+      "name": "Spyridon Louis",
+      "type": "person"
+    },
+    {
+      "name": "Alexandra of Denmark",
+      "type": "person"
+    },
+    {
+      "name": "Boston Marathon",
+      "type": "event"
+    },
+    {
+      "name": "New York City Marathon",
+      "type": "event"
+    },
+    {
+      "name": "Fred Lebow",
+      "type": "person"
+    },
+    {
+      "name": "Katherine Switzer",
+      "type": "person"
+    },
+    {
+      "name": "Frank Shorter",
+      "type": "person"
+    },
+    {
+      "name": "Jim Fixx",
+      "type": "person"
+    },
+    {
+      "name": "Ryan Shay",
+      "type": "person"
+    },
+    {
+      "name": "Eliud Kipchoge",
+      "type": "person"
+    },
+    {
+      "name": "Rosie Ruiz",
+      "type": "person"
+    },
+    {
+      "name": "Jeff Galloway",
+      "type": "person"
+    },
+    {
+      "name": "Gordon Pirie",
+      "type": "person"
+    },
+    {
+      "name": "Berlin Marathon",
+      "type": "event"
+    },
+    {
+      "name": "Peachtree Road Race",
+      "type": "event"
+    },
+    {
+      "name": "Forrest Gump",
+      "type": "work"
+    },
+    {
+      "name": "Runner's World",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter on running marathons",
+      "summary": "Josh and Chuck joke about not wanting to run marathons, Josh says he likes running less than other exercise, and they note growing marathon popularity and the Peachtree Road Race.",
+      "topics": [
+        "marathon popularity",
+        "Peachtree Road Race",
+        "running banter"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Pheidippides and the legend of Marathon",
+      "summary": "The hosts recount the ancient Greek legend: Athenian runner Pheidippides ran from Marathon to Sparta asking for help against the Persians around 490 BC, and supposedly later ran from the battle to Athens to announce victory, then died. They discuss the Athenian messenger runners.",
+      "topics": [
+        "Pheidippides legend",
+        "Battle of Marathon",
+        "Persian invasion",
+        "ancient Greek messenger runners"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:16:30",
+      "kind": "content",
+      "title": "Revival of the Olympics and the first marathon",
+      "summary": "Michel Bréal proposed a marathon for the first modern Olympics, backed by Pierre de Coubertin, inspired partly by a Robert Browning poem. The first modern marathon was about 40 km and was initially expected to be dangerous. Greek runner Spyridon Louis won in 2:58:50 (stated as two hours twenty-eight minutes per the hosts), reportedly stopping for wine.",
+      "topics": [
+        "modern Olympics",
+        "first Olympic marathon",
+        "Michel Bréal",
+        "Pierre de Coubertin",
+        "Spyridon Louis",
+        "Robert Browning poem"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Marathon distance of 26.2 miles",
+      "summary": "The first marathons were about 25 miles. The distance was extended to 26.2 miles at the 1908 London Olympics, at the request of Queen Alexandra, so the race could start at the palace and the children's nursery could watch the start. The Boston Marathon began in 1897.",
+      "topics": [
+        "marathon distance 26.2 miles",
+        "1908 London Olympics",
+        "Queen Alexandra",
+        "Boston Marathon 1897"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Marathon boom and Fred Lebow's Central Park race",
+      "summary": "Marathons were elite, invitation-only events until 1970, when Fred Lebow started a public marathon around Central Park with about a hundred runners that included women. Frank Shorter's 1972 Olympic gold and the fitness craze boosted popularity.",
+      "topics": [
+        "Fred Lebow",
+        "New York City Marathon origins",
+        "Frank Shorter",
+        "1970s fitness craze",
+        "marathon boom"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Marathon growth in the 1990s and demographics",
+      "summary": "Major cities began hosting marathons, with Berlin starting in 1980 and London later. Running USA figures showed rising participation. Katherine Switzer ran Boston as a registered woman in 1967 and wrote Marathon Woman. Hosts discuss the look of marathoners and that most long-distance runners are college educated.",
+      "topics": [
+        "marathon growth",
+        "Katherine Switzer",
+        "Boston Marathon women",
+        "marathon demographics",
+        "Running USA statistics"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Break in the episode.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Marathon training basics",
+      "summary": "The hosts discuss that there is no single way to train, that beginners should start training about eight to nine months ahead, the weekly long run, cross training, speed and interval work, the Couch to 5K program, and setting a goal such as just finishing.",
+      "topics": [
+        "marathon training",
+        "couch to 5K",
+        "interval training",
+        "long run",
+        "cross training",
+        "training goals"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Training journals and slow-twitch muscles",
+      "summary": "Training journals log run data and reveal patterns and motivation. The hosts explain slow-twitch versus fast-twitch muscle fibers, myoglobin, mitochondria, capillaries, and how training shifts muscle fiber recruitment toward endurance.",
+      "topics": [
+        "training journal",
+        "slow twitch muscle",
+        "fast twitch muscle",
+        "muscle fiber recruitment",
+        "oxygen uptake VO2"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Heart rate and the talk test",
+      "summary": "The hosts describe a training heart rate formula attributed to Gordon Pirie (called Gordon Block in the episode) of 220 minus age multiplied by 0.6 to 0.9, question its origin, and suggest the talk test: you should be able to talk while training. Also brief tangent on Billy Joel's Piano Man and mental visualization and Jeff Galloway's mantra 'relax, power, glide'.",
+      "topics": [
+        "training heart rate",
+        "talk test",
+        "visualization",
+        "mantras",
+        "Jeff Galloway"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Runner's high",
+      "summary": "The runner's high is described as a euphoric, effortless state reached after roughly two hours of steady running at moderate exertion. The hosts say endorphins were long blamed but may not cross the blood-brain barrier, and a Georgia Tech and UC Irvine study suggested the endocannabinoid anandamide, which is similar to THC. Ultramarathons are also mentioned, along with Dean Karnazes and Scott Jurek's Appalachian Trail record, and the loneliness of the long-distance runner.",
+      "topics": [
+        "runner's high",
+        "endorphins",
+        "anandamide endocannabinoid",
+        "ultramarathon",
+        "Dean Karnazes",
+        "Scott Jurek"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Hitting the wall and glycogen",
+      "summary": "Hitting the wall around mile 17 to 21 is explained as running out of stored glycogen and fat reserves, which release too slowly. Advice includes carb loading, energy gels, and bananas. The Office's 5K carb-loading joke is mentioned.",
+      "topics": [
+        "hitting the wall",
+        "glycogen",
+        "carb loading",
+        "energy gels",
+        "fat reserves"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:05:00",
+      "kind": "content",
+      "title": "Marathon health risks, runner's diarrhea, records, and Rosie Ruiz",
+      "summary": "Risks include death from genetic heart issues (Jim Fixx, Ryan Shay), heart enlargement, and hyponatremia from drinking too much water. Runner's diarrhea is discussed with diet advice. Eliud Kipchoge's sub-two-hour-one-minute Berlin Marathon record is praised. Rosie Ruiz's 1980 Boston Marathon win via subway shortcut is described, and checkpoint cameras are mentioned. Closing plugs for Josh's and Chuck's podcasts follow.",
+      "topics": [
+        "marathon deaths",
+        "hyponatremia",
+        "runner's diarrhea",
+        "Eliud Kipchoge",
+        "Rosie Ruiz",
+        "Boston Marathon cheating",
+        "podcast plugs"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19991,
+    "output_tokens": 3850
+  }
+}

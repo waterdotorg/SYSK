@@ -1,0 +1,252 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-03-27_How_Meals_on_Wheels_Works_48min.txt",
+  "title": "How Meals on Wheels Works",
+  "date": "2018-03-27",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-meals-on-wheels-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc41111e-28d8-4aef-ba29-ae2800667d93/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cc41111e-28d8-4aef-ba29-ae2800667d93/transcript?format=TextWithTimestamps&t=1700543767",
+  "summary": "Josh and Chuck explain Meals on Wheels, the home meal delivery program for homebound seniors and others who cannot easily care for themselves. They cover the program's origins in wartime England (Women's Voluntary Service for Civil Defense), its spread to the US through Margaret Toy in Philadelphia and to South Australia through Doris Taylor, and its funding mix of federal Older Americans Act money, block grants, state and local government, donations, and a sliding-scale meal fee. They discuss eligibility, meal types, volunteering, the social-isolation and safety-check benefits, research on health and cost savings versus nursing home care, and the 2017 proposed federal budget cuts announced by Mick Mulvaney. The episode ends with a call for volunteers and donations rather than listener mail.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Meals on Wheels",
+    "home-delivered meals",
+    "senior nutrition",
+    "homebound seniors",
+    "social isolation",
+    "aging in place",
+    "Older Americans Act",
+    "Meals on Wheels funding",
+    "federal budget cuts",
+    "block grants",
+    "sliding scale meal fees",
+    "volunteering",
+    "Meals on Wheels America",
+    "Doris Taylor",
+    "Margaret Toy",
+    "Women's Voluntary Service for Civil Defense",
+    "Meals on Wheels history",
+    "silver tsunami",
+    "nursing home cost comparison",
+    "Mick Mulvaney budget"
+  ],
+  "entities": [
+    {
+      "name": "Meals on Wheels",
+      "type": "organization"
+    },
+    {
+      "name": "Meals on Wheels America",
+      "type": "organization"
+    },
+    {
+      "name": "Meals on Wheels of South Australia",
+      "type": "organization"
+    },
+    {
+      "name": "Doris Taylor",
+      "type": "person"
+    },
+    {
+      "name": "Margaret Toy",
+      "type": "person"
+    },
+    {
+      "name": "Women's Voluntary Service for Civil Defense",
+      "type": "organization"
+    },
+    {
+      "name": "Older Americans Act",
+      "type": "work"
+    },
+    {
+      "name": "Mick Mulvaney",
+      "type": "person"
+    },
+    {
+      "name": "Adelaide",
+      "type": "place"
+    },
+    {
+      "name": "South Australia",
+      "type": "place"
+    },
+    {
+      "name": "Philadelphia",
+      "type": "place"
+    },
+    {
+      "name": "England",
+      "type": "place"
+    },
+    {
+      "name": "Brown University",
+      "type": "organization"
+    },
+    {
+      "name": "Henry J. Kaiser Family Foundation",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and what Meals on Wheels is",
+      "summary": "The hosts open with off-topic banter, then explain that Meals on Wheels brings a meal once a day, five days a week, to homebound seniors, with a visit and a safety check. They reflect on how the visits combat social isolation, and Josh recalls a former neighbor, Miss Jesse.",
+      "topics": [
+        "Meals on Wheels",
+        "social isolation",
+        "homebound seniors",
+        "home-delivered meals"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Origins in wartime England and the US",
+      "summary": "Meals on Wheels began in England during World War Two, when the Woman's Volunteer Service for Civil Defense delivered home-cooked meals to bombed-out families, reportedly in baby carriages. About a decade later, Margaret Toy in Philadelphia organized the Platter Angels, which was renamed Meals on Wheels after British students compared it to the English program.",
+      "topics": [
+        "Meals on Wheels history",
+        "World War Two England",
+        "Margaret Toy",
+        "Platter Angels",
+        "Women's Voluntary Service for Civil Defense"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Doris Taylor and the South Australian program",
+      "summary": "A woman named Doris Taylor, who was disabled and had crippling rheumatoid arthritis, started a similar program in South Australia in the same period, also called Meals on Wheels. It grew to about 5,000 clients and 90 branches. Adelaide is the capital of South Australia, with under one and a half million people.",
+      "topics": [
+        "Doris Taylor",
+        "Meals on Wheels of South Australia",
+        "Adelaide",
+        "disability advocacy",
+        "Meals on Wheels history"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Early grassroots funding and the Older Americans Act",
+      "summary": "Early programs were community grassroots efforts funded locally until the Older Americans Act brought federal money. The Act now provides about thirty percent of funding, with the rest coming from state and local governments, private donations, foundations, and grants.",
+      "topics": [
+        "Older Americans Act",
+        "Meals on Wheels funding",
+        "public-private partnership",
+        "federal funding"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Recipient-paid sliding scale and volunteer labor",
+      "summary": "Doris Taylor's Australian program asked people who could afford it to pay for meals, while people who cannot pay get meals free, on a sliding scale. Full price was reported as about two dollars and five cents. Volunteers do not need to be paid, though food and skilled workers do cost money.",
+      "topics": [
+        "sliding scale",
+        "meal costs",
+        "volunteers",
+        "Meals on Wheels funding"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Eligibility for recipients",
+      "summary": "Eligibility is based on need, first medical, such as the ability to get around the house and to go to the grocery store, and then finances, assessed mainly on an honor system. Qualifying people may be placed on a waiting list depending on funding. Meals can be hot, cold, frozen, or shelf-stable, and rural recipients can get a week's worth of frozen meals. Some congregate meal sites also exist.",
+      "topics": [
+        "Meals on Wheels eligibility",
+        "waiting list",
+        "medically tailored meals",
+        "congregate meals",
+        "rural meal delivery"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Meal underuse statistic and volunteering",
+      "summary": "Less than five percent of eligible older Americans receive meals, averaging under three meals per week. The hosts attribute this mainly to funding and volunteer shortages. They discuss how emotionally demanding volunteering can be, and that the required tasks are simple: deliver the meal, say hello, and check on the person.",
+      "topics": [
+        "volunteering",
+        "meal delivery statistics",
+        "emotional toll of volunteering",
+        "wellness checks"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Benefits of visits, nutrition, and extra services",
+      "summary": "A meal supplies about a third of daily calories, supporting recovery and mental acuity. The visit provides social contact and safety checks, which shorten the time before someone notices a fall. Some programs also offer pet food, home repair, transportation, emergency meals, hospital discharge support, and gardens.",
+      "topics": [
+        "nutrition for seniors",
+        "fall detection",
+        "safety checks",
+        "pet food delivery",
+        "hospital discharge programs"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Aging population and the silver tsunami",
+      "summary": "The hosts discuss the baby boom generation reaching older age, which they call the silver tsunami, and argue the country is not set up or funding for it. Meals on Wheels is expected to be hit by cuts. They discuss research that aging in place is cheaper than assisted living.",
+      "topics": [
+        "silver tsunami",
+        "baby boomers",
+        "aging in place",
+        "assisted living costs",
+        "low-care Medicaid recipients"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "2017 budget cuts and cost-effectiveness",
+      "summary": "In March 2017, budget director Mick Mulvaney called Meals on Wheels a program not showing results when announcing the skinny budget. The hosts dispute this, citing peer-reviewed studies. The proposal would eliminate three block grants and cut about three million from the Older Americans Act. The estimated loss is about forty-eight million dollars against a roughly 1.4 billion dollar annual budget. A 2013 Brown University study found net Medicaid savings, a Kaiser estimate put a hospital day at about seventy dollars, and the annual meal cost about sixty-five dollars.",
+      "topics": [
+        "federal budget cuts",
+        "Mick Mulvaney",
+        "block grants",
+        "Community Development Block Grant",
+        "Social Services Block Grant",
+        "Community Services Block Grant",
+        "cost-effectiveness",
+        "Medicaid savings"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Closing remarks and calls to action",
+      "summary": "The hosts close by saying aging with dignity matters. They skip listener mail and encourage listeners to volunteer or donate through Meals on Wheels America or America Let's Do Lunch. They sign off with social media and website information.",
+      "topics": [
+        "Meals on Wheels America",
+        "volunteer campaign",
+        "America Let's Do Lunch",
+        "donations"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14788,
+    "output_tokens": 3227
+  }
+}

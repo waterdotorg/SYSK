@@ -1,0 +1,390 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-09-11_Youre_So_Good_At_Conversation_50min.txt",
+  "title": "You’re So Good At Conversation!",
+  "date": "2025-09-11",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/you-re-so-good-at-conversation",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9024f9d3-86f1-4098-a643-b35500cb01ea/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9024f9d3-86f1-4098-a643-b35500cb01ea/transcript?format=TextWithTimestamps&t=1757614691",
+  "summary": "Josh and Chuck explore conversation analysis, a micro-level observational field that grew out of ethnomethodology and sociolinguistics at UCLA in the 1960s and 1970s. They cover its founders (Harvey Sacks, Gail Jefferson, Emanuel Schegloff), the Jefferson transcription system, early work with an emergency psychiatric hospital's phone calls, adjacency pairs and presequences, turn-taking via turn constructional units and transition relevance places, repair, gaps, overlap and interruption (including cooperative vs. intrusive types), storytelling, laminated action, conversation \"families,\" John Heritage's work with doctors, Elizabeth Stokoe's mediation research, customer service bots, gender and interruption research, and generational changes such as the Gen Z stare. The episode ends with a listener email about orthodontics and TMJ.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "conversation analysis",
+    "turn-taking",
+    "Jefferson transcription system",
+    "Harvey Sacks",
+    "Gail Jefferson",
+    "Emanuel Schegloff",
+    "adjacency pairs",
+    "presequences",
+    "transition relevance place",
+    "turn constructional unit",
+    "repair in conversation",
+    "conversation gaps",
+    "overlap and interruption",
+    "cooperative interruption",
+    "storytelling in conversation",
+    "laminated action",
+    "conversation families",
+    "John Heritage",
+    "Elizabeth Stokoe",
+    "customer service bots",
+    "gender and interruptions",
+    "Gen Z stare",
+    "ethnomethodology",
+    "sociolinguistics",
+    "New York interruption style",
+    "Deborah Tannen",
+    "how are you small talk",
+    "orthodontics listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Harvey Sacks",
+      "type": "person"
+    },
+    {
+      "name": "Gail Jefferson",
+      "type": "person"
+    },
+    {
+      "name": "Emanuel Schegloff",
+      "type": "person"
+    },
+    {
+      "name": "Erving Goffman",
+      "type": "person"
+    },
+    {
+      "name": "Noam Chomsky",
+      "type": "person"
+    },
+    {
+      "name": "John Heritage",
+      "type": "person"
+    },
+    {
+      "name": "Elizabeth Stokoe",
+      "type": "person"
+    },
+    {
+      "name": "Deborah Tannen",
+      "type": "person"
+    },
+    {
+      "name": "Douglas Coupland",
+      "type": "person"
+    },
+    {
+      "name": "Matthew Modine",
+      "type": "person"
+    },
+    {
+      "name": "UCLA",
+      "type": "organization"
+    },
+    {
+      "name": "London School of Economics and Political Science",
+      "type": "organization"
+    },
+    {
+      "name": "Georgetown University",
+      "type": "organization"
+    },
+    {
+      "name": "Conversation analysis",
+      "type": "other"
+    },
+    {
+      "name": "Jefferson transcription system",
+      "type": "work"
+    },
+    {
+      "name": "Better Off Dead",
+      "type": "work"
+    },
+    {
+      "name": "Full Metal Jacket",
+      "type": "work"
+    },
+    {
+      "name": "Generation X",
+      "type": "work"
+    },
+    {
+      "name": "Her",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:21",
+      "kind": "intro",
+      "title": "Opening banter and introduction to conversation analysis",
+      "summary": "Chuck and Josh open with banter about how the episode might make them self-conscious. Chuck introduces conversation analysis as an observational social science and argues that conversation is something humans do very well without realizing it.",
+      "topics": [
+        "conversation analysis",
+        "self-consciousness about talking"
+      ]
+    },
+    {
+      "start": "00:04:21",
+      "end": "00:08:19",
+      "kind": "content",
+      "title": "History: Sacks, Jefferson and Schegloff at UCLA",
+      "summary": "The hosts describe the roots of conversation analysis in ethnomethodology and sociolinguistics. They cover Harvey Sacks, his early work and death in 1975, his links to Erving Goffman, Gail Jefferson's transcription work and interest in laughter, and Emanuel Schegloff's later leadership at UCLA.",
+      "topics": [
+        "Harvey Sacks",
+        "Gail Jefferson",
+        "Emanuel Schegloff",
+        "UCLA conversation analysis history",
+        "ethnomethodology"
+      ]
+    },
+    {
+      "start": "00:08:19",
+      "end": "00:10:11",
+      "kind": "content",
+      "title": "Early phone call research and the Jefferson transcription method",
+      "summary": "Early work focused on telephone calls, such as how callers open and close them and how turns are signaled without visual cues. The Jefferson transcription method is introduced as the key tool. The hosts also note the contrast with Chomsky's universal grammar.",
+      "topics": [
+        "telephone call analysis",
+        "Jefferson transcription",
+        "Noam Chomsky universal grammar"
+      ]
+    },
+    {
+      "start": "00:10:11",
+      "end": "00:12:27",
+      "kind": "content",
+      "title": "Emergency psychiatric hospital phone calls and the 'huh' disruptor",
+      "summary": "Sacks worked with an emergency psychiatric hospital to get callers to give their names. Greeting formats affected responses, and a response like 'huh' acted as a disruptor that shifted the conversational script.",
+      "topics": [
+        "emergency psychiatric hospital study",
+        "caller names",
+        "disruptors in conversation",
+        "huh as conversational repair"
+      ]
+    },
+    {
+      "start": "00:12:27",
+      "end": "00:15:08",
+      "kind": "content",
+      "title": "Adjacency pairs, 'how are you' greetings and closeness",
+      "summary": "Sacks identified composites and adjacency pairs, where a prompt expects a limited set of responses. The hosts discuss how 'how are you' is a ritual greeting that is largely universal, and how honest answers signal closeness.",
+      "topics": [
+        "adjacency pairs",
+        "composites",
+        "how are you greeting",
+        "small talk rituals"
+      ]
+    },
+    {
+      "start": "00:15:08",
+      "end": "00:15:34",
+      "kind": "content",
+      "title": "Video recording as a breakthrough",
+      "summary": "Chuck notes that the arrival of affordable video recording let analysts see body language and interaction, not just voices.",
+      "topics": [
+        "video recording in conversation analysis",
+        "nonverbal communication"
+      ]
+    },
+    {
+      "start": "00:15:34",
+      "end": "00:18:17",
+      "kind": "ad",
+      "title": "Sponsor break and tangent",
+      "summary": "A break with a Stuckey's-style ad riff, followed by a tangent about Matthew Modine's diary on Full Metal Jacket and putting oneself on tape for auditions.",
+      "topics": [
+        "sponsor break",
+        "Matthew Modine diary",
+        "self-tape auditions"
+      ]
+    },
+    {
+      "start": "00:18:17",
+      "end": "00:19:42",
+      "kind": "content",
+      "title": "Method: objectivity, meaning and transcription",
+      "summary": "Chuck explains that conversation analysts describe patterns without theorizing motives, deriving meaning from the next speaker's response. Recordings are transcribed objectively, with ethics requiring participants to know they are being recorded.",
+      "topics": [
+        "research methodology",
+        "objective transcription",
+        "meaning in conversation"
+      ]
+    },
+    {
+      "start": "00:19:42",
+      "end": "00:25:31",
+      "kind": "content",
+      "title": "Turn constructional units, transition relevance places, repair and gaps",
+      "summary": "The hosts define turn constructional units and transition relevance places, give exceptions like taking two turns in a row, and explain repair as correcting misunderstandings. They also describe conversation gaps and ways to handle awkward pauses.",
+      "topics": [
+        "turn constructional unit",
+        "transition relevance place",
+        "repair",
+        "conversation gaps",
+        "awkward pauses"
+      ]
+    },
+    {
+      "start": "00:25:31",
+      "end": "00:27:47",
+      "kind": "content",
+      "title": "Adjacency pairs, preferences and the cake example",
+      "summary": "Josh and Chuck revisit adjacency pairs and presequences, with examples such as invitation and acceptance, and joke about a mismatched reply to an offer of cake.",
+      "topics": [
+        "adjacency pairs",
+        "presequences",
+        "conversational scripts"
+      ]
+    },
+    {
+      "start": "00:27:47",
+      "end": "00:30:03",
+      "kind": "content",
+      "title": "Storytelling and laminated action",
+      "summary": "The hosts discuss how stories end with a look that asks for a response, how discourse markers link ideas, and how gestures like eye-rolling complete a spoken meaning, which they call laminated action.",
+      "topics": [
+        "storytelling in conversation",
+        "discourse markers",
+        "laminated action",
+        "gestures"
+      ]
+    },
+    {
+      "start": "00:30:03",
+      "end": "00:32:05",
+      "kind": "content",
+      "title": "Overlap, interruption and cooperative interruption",
+      "summary": "Overlap is separated from interruption. Intrusive interruptions are contrasted with cooperative interruptions, such as saying 'right' or adding detail to a story.",
+      "topics": [
+        "overlap",
+        "interruption",
+        "cooperative interruption",
+        "intrusive interruption"
+      ]
+    },
+    {
+      "start": "00:32:05",
+      "end": "00:35:35",
+      "kind": "content",
+      "title": "Interruption across cultures: New Yorkers and Japanese talk shows",
+      "summary": "Deborah Tannen's study of Californians, New Yorkers and a Londoner found New Yorkers overlap frequently without offense among themselves. Samoan, Japanese and Italian American patterns are mentioned, and Japanese morning TV hosts are cited as interjecting in a way that is accepted.",
+      "topics": [
+        "Deborah Tannen",
+        "New York conversation style",
+        "cultural differences in interruption",
+        "Japanese TV talk"
+      ]
+    },
+    {
+      "start": "00:35:35",
+      "end": "00:35:50",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Short sponsor break.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:35:50",
+      "end": "00:37:31",
+      "kind": "content",
+      "title": "Conversation families: reconstruction, projection and moralizing",
+      "summary": "Conversations are grouped into families: reconstruction (sharing past events), projection (future plans), and moralizing (judging good and bad). The hosts say negative moralizing is more elaborate than positive talk, which they link to a negativity bias.",
+      "topics": [
+        "conversation families",
+        "reconstruction",
+        "projection",
+        "moralizing",
+        "negativity bias"
+      ]
+    },
+    {
+      "start": "00:37:31",
+      "end": "00:40:40",
+      "kind": "content",
+      "title": "Applications: John Heritage, mediation and customer service bots",
+      "summary": "Conversation analysis is used in call centers and surgical teams. John Heritage showed that doctors' question wording changes how much patients disclose. Elizabeth Stokoe found mediation clients wanted practical steps. Customer service bots are discussed, with the advice that bots should identify themselves.",
+      "topics": [
+        "John Heritage doctor-patient communication",
+        "Elizabeth Stokoe mediation",
+        "customer service bots",
+        "practical applications of conversation analysis"
+      ]
+    },
+    {
+      "start": "00:40:40",
+      "end": "00:43:09",
+      "kind": "content",
+      "title": "Gender and interruptions",
+      "summary": "Research on whether men interrupt women more gives mixed results. A 1998 meta-analysis suggested gender differences are clearer for intrusive interruptions than cooperative ones. Upbringing explanations are offered, and first-author gender in studies is noted as a factor.",
+      "topics": [
+        "gender and interruptions",
+        "meta-analysis",
+        "intrusive vs cooperative interruptions",
+        "men interrupting women"
+      ]
+    },
+    {
+      "start": "00:43:09",
+      "end": "00:45:01",
+      "kind": "content",
+      "title": "Generational differences: Gen Z stare and phone etiquette",
+      "summary": "The hosts discuss generational change in conversation, including the Gen Z stare and Gen Z phone greetings that skip hello.",
+      "topics": [
+        "Gen Z stare",
+        "generational differences in conversation",
+        "phone etiquette"
+      ]
+    },
+    {
+      "start": "00:45:01",
+      "end": "00:47:10",
+      "kind": "content",
+      "title": "Teenagers, Gen X and Douglas Coupland",
+      "summary": "The hosts joke about talking with teenagers and adults ignoring Gen X kids. Chuck mentions Douglas Coupland's book Generation X and the hosts discuss their current reading.",
+      "topics": [
+        "teenager conversation",
+        "Generation X",
+        "Douglas Coupland",
+        "reading recommendations"
+      ]
+    },
+    {
+      "start": "00:47:10",
+      "end": "00:49:03",
+      "kind": "listener_mail",
+      "title": "Listener mail: orthodontics and TMJ",
+      "summary": "A listener named Aaron writes to correct an earlier focus on appearance in the orthodontics episode, noting links between bite alignment, sleep apnea, ADHD and TMJ dysfunction, and describing his own treatment.",
+      "topics": [
+        "listener mail",
+        "orthodontics",
+        "TMJ dysfunction",
+        "sleep apnea"
+      ]
+    },
+    {
+      "start": "00:49:03",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Outro and sign-off",
+      "summary": "Chuck invites listeners to send emails, and Josh gives the show credit and directs listeners to the iHeartRadio app.",
+      "topics": [
+        "sign-off",
+        "listener email address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18022,
+    "output_tokens": 4217
+  }
+}

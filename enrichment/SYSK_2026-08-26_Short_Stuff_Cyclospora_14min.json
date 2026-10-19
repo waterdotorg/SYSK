@@ -1,0 +1,212 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-08-26_Short_Stuff_Cyclospora_14min.txt",
+  "title": "Short Stuff: Cyclospora",
+  "date": "2026-08-26",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-cyclospora",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd7a7d5c-10f4-42a5-8362-b4b100d1da4f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd7a7d5c-10f4-42a5-8362-b4b100d1da4f/transcript?format=TextWithTimestamps&t=1787662014",
+  "summary": "Short Stuff episode on the 2026 cyclosporiasis outbreak in the United States, linked to tainted produce and a Taylor Farms supplier that Taco Bell was tied to in the news. Josh and Chuck explain that Cyclospora is a protozoan parasite spread through human sewage, its life cycle and symptoms (severe diarrhea, dehydration, up to 10 percent body weight loss), and its history from the 1978 Papua New Guinea case and 1995 Chicago outbreak. They discuss why this outbreak is the largest on record, citing climate change, cuts to food safety programs (FERN and FoodNet, which stopped tracking cyclospora), the CDC's slow response and Michigan's guidelines, consolidation of agriculture, and use of treated sewage water on crops. They close with prevention tips such as washing produce, cooking to 160 F, and handwashing.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "cyclospora",
+    "cyclosporiasis",
+    "cyclospora outbreak 2026",
+    "foodborne illness",
+    "food poisoning",
+    "protozoan parasite",
+    "Taco Bell lettuce outbreak",
+    "Taylor Farms",
+    "contaminated produce",
+    "treated sewage irrigation",
+    "CDC response",
+    "FoodNet",
+    "food safety funding cuts",
+    "Michigan health guidelines",
+    "parasite life cycle",
+    "oocyst",
+    "traveler's diarrhea",
+    "food safety prevention",
+    "largest foodborne outbreak"
+  ],
+  "entities": [
+    {
+      "name": "Cyclospora",
+      "type": "other"
+    },
+    {
+      "name": "Taco Bell",
+      "type": "organization"
+    },
+    {
+      "name": "Taylor Farms",
+      "type": "organization"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "FoodNet",
+      "type": "organization"
+    },
+    {
+      "name": "Food Emergency Response Network",
+      "type": "organization"
+    },
+    {
+      "name": "Michigan",
+      "type": "place"
+    },
+    {
+      "name": "Papua New Guinea",
+      "type": "place"
+    },
+    {
+      "name": "Chicago",
+      "type": "place"
+    },
+    {
+      "name": "Guatemala",
+      "type": "place"
+    },
+    {
+      "name": "Mexico",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:37",
+      "kind": "intro",
+      "title": "Opening and framing",
+      "summary": "Josh and Chuck introduce the Short Stuff episode on the cyclospora outbreak in the news, tied to tainted lettuce and a Taco Bell supplier.",
+      "topics": [
+        "cyclospora",
+        "Taco Bell lettuce outbreak"
+      ]
+    },
+    {
+      "start": "00:00:37",
+      "end": "00:01:42",
+      "kind": "content",
+      "title": "Outbreak size and stats",
+      "summary": "Case counts as of August 13: about 28,056 sickened and two deaths, up from 9,481 a month earlier. It is the third-biggest US foodborne outbreak and the largest cyclospora outbreak on record, and the true number is likely higher.",
+      "topics": [
+        "cyclospora outbreak 2026",
+        "largest foodborne outbreak",
+        "foodborne illness"
+      ]
+    },
+    {
+      "start": "00:01:42",
+      "end": "00:03:25",
+      "kind": "content",
+      "title": "What cyclospora is and its history",
+      "summary": "Cyclospora is a protozoan parasite with humans as host. First documented in Papua New Guinea in 1978, the first US outbreak was in Chicago in 1995, followed by a 1996 Florida outbreak linked to Guatemalan raspberries. Cases appear most summers. The parasite lives in water and hides in berries and leafy vegetables, and spreads via knives, utensils and unwashed hands.",
+      "topics": [
+        "protozoan parasite",
+        "cyclospora history",
+        "Papua New Guinea",
+        "1995 Chicago outbreak",
+        "Guatemala raspberries"
+      ]
+    },
+    {
+      "start": "00:03:25",
+      "end": "00:05:33",
+      "kind": "content",
+      "title": "Transmission and life cycle",
+      "summary": "Cyclospora passes through human sewage and enters people as an oocyst, which breaks down in the gut and releases sporozoites. The incubation period is two days to two weeks. Each bowel movement can pass up to 10,000 oocysts per cubic centimeter of feces.",
+      "topics": [
+        "oocyst",
+        "parasite life cycle",
+        "sewage transmission",
+        "incubation period"
+      ]
+    },
+    {
+      "start": "00:05:33",
+      "end": "00:06:31",
+      "kind": "content",
+      "title": "Symptoms and dehydration",
+      "summary": "Main symptom is severe watery diarrhea without fever or inflammation, which can cause dangerous dehydration, electrolyte imbalance, kidney risk and hospitalization, with up to 10 percent body weight loss.",
+      "topics": [
+        "cyclospora symptoms",
+        "diarrhea",
+        "dehydration"
+      ]
+    },
+    {
+      "start": "00:06:31",
+      "end": "00:08:18",
+      "kind": "content",
+      "title": "Why this outbreak is so large",
+      "summary": "Chuck cites rising temperatures spreading the parasite beyond the tropics and cuts to food safety programs, including FERN funding and FoodNet, which stopped tracking six of eight pathogens, including cyclospora. Undercounting is also noted, with cases in only 38 states and testing not always done.",
+      "topics": [
+        "climate change",
+        "food safety funding cuts",
+        "FoodNet",
+        "Food Emergency Response Network",
+        "undercounting cases"
+      ]
+    },
+    {
+      "start": "00:08:18",
+      "end": "00:10:34",
+      "kind": "content",
+      "title": "CDC delay and state response",
+      "summary": "Josh says federal agencies waited about two months before the CDC issued guidelines and went public. Michigan issued guidelines that other states' providers used. Josh says about twenty foodborne outbreaks are ongoing in the US. Chuck notes that agricultural consolidation spreads contamination nationwide, citing Taylor Farms of Mexico, a California-based company, also linked to other outbreaks such as salmonella from jalapenos.",
+      "topics": [
+        "CDC response",
+        "Michigan guidelines",
+        "agricultural consolidation",
+        "Taylor Farms",
+        "salmonella jalapenos"
+      ]
+    },
+    {
+      "start": "00:10:34",
+      "end": "00:12:18",
+      "kind": "content",
+      "title": "Sewage water on crops",
+      "summary": "Josh says more than half of US states, about 27, allow treated sewage water to irrigate food crops, and Chuck says nine states have no policy. Sewage treatment plants may not handle cyclospora, so cysts can reach produce.",
+      "topics": [
+        "treated sewage irrigation",
+        "food crop contamination",
+        "state water policy"
+      ]
+    },
+    {
+      "start": "00:12:18",
+      "end": "00:13:09",
+      "kind": "content",
+      "title": "Prevention and cooking",
+      "summary": "Advice includes seeking medical care if symptoms are bad, washing produce, cooking to 160 F where possible (not practical for lettuce), peeling items like bananas and avocados, and handwashing.",
+      "topics": [
+        "food safety prevention",
+        "washing produce",
+        "handwashing",
+        "cooking temperature"
+      ]
+    },
+    {
+      "start": "00:13:09",
+      "end": "00:13:36",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh briefly mentions listener email, then Chuck closes with the show credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5765,
+    "output_tokens": 2567
+  }
+}

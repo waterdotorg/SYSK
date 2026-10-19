@@ -1,0 +1,233 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-02-23_How_Bail_Works_25min.txt",
+  "title": "How Bail Works",
+  "date": "2010-02-23",
+  "duration": "25 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-bail-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b0b0573f-f0aa-48f2-8838-ae2800b97849/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0b0573f-f0aa-48f2-8838-ae2800b97849/transcript?format=TextWithTimestamps&t=1700543967",
+  "summary": "Josh and Chuck explain how bail works, from its origins in thirteenth-century England (sureties) through habeas corpus, the Judiciary Act of 1789, and the Eighth Amendment, to modern cash bail, bail bondsmen and their premiums, collateral, property bonds, and release on citation or recognizance. They cover states that ban commercial bail bonding, and discuss Laura Sullivan's MPR series on bail abuses, including Broward County's pretrial program being shut down under bail bond industry lobbying and the Lubbock, Texas cases. They preview a bounty hunter episode two days later. The episode closes with listener mail about a Brazilian doctor who gave a blood transfusion to a child whose Jehovah's Witness parents objected.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "bail",
+    "bail bonds",
+    "bail bondsman",
+    "bail bond industry",
+    "cash bail",
+    "surety",
+    "bond",
+    "release on recognizance",
+    "released on citation",
+    "property bond",
+    "bail schedule",
+    "Eighth Amendment excessive bail",
+    "habeas corpus",
+    "Judiciary Act of 1789",
+    "pretrial release",
+    "pretrial programs",
+    "Broward County Florida bail",
+    "Lubbock Texas jail",
+    "MPR Laura Sullivan series",
+    "bail bond lobbying",
+    "states that ban commercial bail bonding",
+    "bounty hunters",
+    "jail costs",
+    "premium",
+    "collateral",
+    "Jehovah's Witnesses blood transfusion"
+  ],
+  "entities": [
+    {
+      "name": "Laura Sullivan",
+      "type": "person"
+    },
+    {
+      "name": "MPR",
+      "type": "organization"
+    },
+    {
+      "name": "Broward County",
+      "type": "place"
+    },
+    {
+      "name": "Lubbock",
+      "type": "place"
+    },
+    {
+      "name": "Los Angeles",
+      "type": "place"
+    },
+    {
+      "name": "Wisconsin",
+      "type": "place"
+    },
+    {
+      "name": "Oregon",
+      "type": "place"
+    },
+    {
+      "name": "Illinois",
+      "type": "place"
+    },
+    {
+      "name": "Kentucky",
+      "type": "place"
+    },
+    {
+      "name": "Midnight Run",
+      "type": "work"
+    },
+    {
+      "name": "Dead Man",
+      "type": "work"
+    },
+    {
+      "name": "Raj Rajaratnam",
+      "type": "person"
+    },
+    {
+      "name": "Bernie Madoff",
+      "type": "person"
+    },
+    {
+      "name": "Jehovah's Witnesses",
+      "type": "organization"
+    },
+    {
+      "name": "Judiciary Act of 1789",
+      "type": "event"
+    },
+    {
+      "name": "Habeas corpus",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and bail series introduction",
+      "summary": "Hosts joke about being arrested and booked, then introduce the two-part bail and bounty hunter series, prompted by listener Steve and an MPR series by Laura Sullivan.",
+      "topics": [
+        "bail",
+        "booking and mug shots",
+        "MPR Laura Sullivan series"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "History of bail",
+      "summary": "Bail began in thirteenth-century England as sureties, persons who could be hanged in place of a defaulting defendant. Habeas corpus in the seventeenth century set terms for bail, and English Bill of Rights addressed excessive bail. The US adopted English common law and the Judiciary Act of 1789.",
+      "topics": [
+        "bail history",
+        "surety",
+        "habeas corpus",
+        "Judiciary Act of 1789",
+        "English Bill of Rights"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Eighth Amendment and bail reforms",
+      "summary": "The Eighth Amendment guarantees bail and bars excessive bail. A 1966 change and later reforms closed loopholes for dangerous people, limited judges, and made bail harder for violent offenders. Capital crimes originally could not be bailed.",
+      "topics": [
+        "Eighth Amendment excessive bail",
+        "1966 bail reform",
+        "bail for capital crimes",
+        "bail limits"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Bail schedules and cash bail",
+      "summary": "Large jurisdictions such as Los Angeles use bail schedules that set fixed amounts per offense. Cash bail can be paid in full, by check, card, or cash.",
+      "topics": [
+        "bail schedule",
+        "cash bail",
+        "Los Angeles jails"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "How bail bondsmen work",
+      "summary": "When people cannot pay full bail, they use a bail bondsman who posts a surety bond backed by an insurance company and charges a non-refundable premium, typically ten percent. Bondsmen take collateral such as property titles or jewelry and often involve family. Options like release on citation and release on recognizance are also described, along with property bonds where a lien is placed on property.",
+      "topics": [
+        "bail bondsman",
+        "surety bond",
+        "ten percent premium",
+        "collateral",
+        "release on citation",
+        "release on recognizance",
+        "property bond",
+        "bail bond contract"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Choosing a bail bondsman and states that ban bail bonds",
+      "summary": "Hosts advise checking a bondsman's license, fees, and responsiveness. Wisconsin, Oregon, Illinois, and Kentucky are described as having laws against commercial bail bonding, with Wisconsin doing so indirectly.",
+      "topics": [
+        "choosing a bail bondsman",
+        "commercial bail bonding bans",
+        "bail bond licensing"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Broward County pretrial programs and bail bond lobbying",
+      "summary": "The MPR report describes Broward County, Florida, where pretrial release programs with monitoring were successful and cheaper, but were shut down after bail bondsmen lobbied and donated to county officials. Lubbock, Texas, cases show poor defendants held for low bail amounts.",
+      "topics": [
+        "Broward County pretrial release",
+        "bail bond lobbying",
+        "jail costs",
+        "Lubbock Texas bail",
+        "poor defendants and bail",
+        "Laura Sullivan MPR"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Bondsmen not paying forfeited bail and bounty hunter preview",
+      "summary": "Bondsmen often negotiate forfeited bail down to about five percent. Hosts preview the bounty hunter episode and discuss Midnight Run and Dead Man.",
+      "topics": [
+        "bail forfeiture",
+        "bounty hunters preview",
+        "Midnight Run"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:25:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: blood transfusion from a Jehovah's Witness family",
+      "summary": "A listener from Portugal shares a story about his father, a Brazilian doctor, who gave a child a blood transfusion against the Jehovah's Witness parents' wishes; the child recovered and the family later sent Christmas gifts.",
+      "topics": [
+        "listener mail",
+        "Jehovah's Witnesses blood transfusion",
+        "medical ethics"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9594,
+    "output_tokens": 2567
+  }
+}

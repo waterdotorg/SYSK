@@ -1,0 +1,137 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-05-29_Short_Stuff_Look-Alike_Old_Couples_14min.txt",
+  "title": "Short Stuff: Look-Alike Old Couples",
+  "date": "2019-05-29",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-look-alike-old-couples",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/58e3da0f-452e-4af9-8cc7-ae28004c35af/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/58e3da0f-452e-4af9-8cc7-ae28004c35af/transcript?format=TextWithTimestamps&t=1700543696",
+  "summary": "Short Stuff episode on why old couples start to look alike. The hosts describe a study in which people matched married couples' photos better than chance, with pairs rated similarly for attractiveness, and discuss genetic similarity, shared personality and expressions, and shared life experiences as possible explanations. They then cover genetic compatibility in mate selection, sexual imprinting (women seeking partners resembling close fathers, including in adoptive cases), symmetry and attractiveness, waist-to-hip ratio, and finally the tendency of people to look like their dogs, including a 2004 study on people choosing purebred dogs that resemble them.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "old couples look alike",
+    "couples lookalike",
+    "senior couples facial resemblance",
+    "married couples resemblance study",
+    "genetic similarity mate selection",
+    "sexual imprinting",
+    "father daughter imprinting",
+    "facial symmetry attractiveness",
+    "body symmetry",
+    "waist to hip ratio",
+    "assortative mating",
+    "pet owners look like their dogs",
+    "dog owner resemblance",
+    "purebred dog selection",
+    "nature vs nurture",
+    "shared expressions and personality in couples"
+  ],
+  "entities": [
+    {
+      "name": "Personality and Individual Differences",
+      "type": "work"
+    },
+    {
+      "name": "sexual imprinting",
+      "type": "other"
+    },
+    {
+      "name": "waist-to-hip ratio",
+      "type": "other"
+    },
+    {
+      "name": "facial symmetry",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Opening banter and why couples look alike",
+      "summary": "The hosts joke about looking alike after their anniversary, define older couples, and ask why long-term partners come to resemble each other.",
+      "topics": [
+        "old couples look alike",
+        "senior couples"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Study on matching married couples by photo",
+      "summary": "A study had participants (eleven men and eleven women) match photos of married couples. People paired couples above chance, and rated attractiveness similarly within pairs. The hosts attribute the resemblance mostly to genetics, with shared personality and expressions as other factors.",
+      "topics": [
+        "married couples resemblance study",
+        "couples lookalike",
+        "shared expressions and personality in couples"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:40",
+      "kind": "content",
+      "title": "Genetic similarity and mate selection",
+      "summary": "The hosts discuss the idea that people seek partners who are genetically similar but not too similar, and ask how someone could judge genetic compatibility.",
+      "topics": [
+        "genetic similarity mate selection",
+        "assortative mating",
+        "nature vs nurture"
+      ]
+    },
+    {
+      "start": "00:06:40",
+      "end": "00:08:20",
+      "kind": "content",
+      "title": "Sexual imprinting on fathers",
+      "summary": "Studies suggest women tend to seek partners resembling fathers they were close to, with the effect stronger with stronger bonds. The same pattern was reported for adoptive daughters, who imprint on their genetic fathers, which the hosts note complicates the genetic argument.",
+      "topics": [
+        "sexual imprinting",
+        "father daughter imprinting",
+        "nature vs nurture"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Symmetry, waist-to-hip ratio and attractiveness",
+      "summary": "Facial and body symmetry are described as universal markers of beauty linked to health. Men are said to prefer a waist-to-hip ratio of about 0.7 in women, and the hosts explain fat distribution is driven by hormones. Symmetry is also linked in studies to more sexual partners.",
+      "topics": [
+        "facial symmetry attractiveness",
+        "body symmetry",
+        "waist to hip ratio"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Couples dressing alike and dogs that look like owners",
+      "summary": "The hosts note couples sometimes dress alike, then turn to people looking like their dogs. A 2004 study reportedly found people who buy purebred dogs tend to choose dogs that resemble them.",
+      "topics": [
+        "pet owners look like their dogs",
+        "purebred dog selection",
+        "dog owner resemblance"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:14:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up the episode and close with the show's credits.",
+      "topics": [
+        "short stuff sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5397,
+    "output_tokens": 1631
+  }
+}

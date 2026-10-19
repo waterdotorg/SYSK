@@ -1,0 +1,367 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-09-26_The_Judas_Priest_Suicide_Trial_49min.txt",
+  "title": "The Judas Priest Suicide Trial",
+  "date": "2024-09-26",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-judas-priest-suicide-trial",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0422fea3-7f34-4438-a72a-b1f100f11932/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0422fea3-7f34-4438-a72a-b1f100f11932/transcript?format=TextWithTimestamps&t=1727342281",
+  "summary": "Hosts Josh and Chuck cover the 1990 Judas Priest trial in Reno, Nevada, a product liability lawsuit alleging that subliminal backmasked messages in the song \"Better By You, Better Than Me\" led two fans, Raymond Belknap and James Vance, to a suicide pact in December 1985. The episode traces the Satanic Panic and backmasking background, the 1985 PMRC hearings, the Ozzy Osbourne \"Suicide Solution\" suit, the trial's plaintiff and defense arguments and expert witnesses, Judge Jerry Carr Whitehead's ruling for the band on invasion-of-privacy grounds, the CBS discovery sanction, Vance's later death, and the spread of the moral panic to rap music. Ends with a listener email about streaming music economics.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Judas Priest trial",
+    "Judas Priest lawsuit",
+    "backmasking",
+    "backward masking",
+    "subliminal messages",
+    "Satanic Panic",
+    "PMRC",
+    "Parents Music Resource Center",
+    "Ozzy Osbourne Suicide Solution lawsuit",
+    "Better By You Better Than Me",
+    "Reno Nevada trial 1990",
+    "Judge Jerry Carr Whitehead",
+    "product liability lawsuit heavy metal",
+    "invasion of privacy ruling",
+    "junk science",
+    "William Wilson Key subliminal advertising",
+    "Howard Shevrin",
+    "Rob Halford testimony",
+    "heavy metal censorship",
+    "warning labels on records",
+    "Two Live Crew obscenity trial",
+    "Spotify streaming listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Judas Priest",
+      "type": "organization"
+    },
+    {
+      "name": "CBS Records",
+      "type": "organization"
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "type": "person"
+    },
+    {
+      "name": "Rob Halford",
+      "type": "person"
+    },
+    {
+      "name": "Raymond Belknap",
+      "type": "person"
+    },
+    {
+      "name": "James Vance",
+      "type": "person"
+    },
+    {
+      "name": "Judge Jerry Carr Whitehead",
+      "type": "person"
+    },
+    {
+      "name": "William Yarrell",
+      "type": "person"
+    },
+    {
+      "name": "William Nick Lough",
+      "type": "person"
+    },
+    {
+      "name": "Wilson Key",
+      "type": "person"
+    },
+    {
+      "name": "Howard Shevrin",
+      "type": "person"
+    },
+    {
+      "name": "Ken McKenna",
+      "type": "person"
+    },
+    {
+      "name": "Parents Music Resource Center",
+      "type": "organization"
+    },
+    {
+      "name": "Phil Wyman",
+      "type": "person"
+    },
+    {
+      "name": "Reno, Nevada",
+      "type": "place"
+    },
+    {
+      "name": "Two Live Crew",
+      "type": "organization"
+    },
+    {
+      "name": "Suicide Solution",
+      "type": "work"
+    },
+    {
+      "name": "Better By You, Better Than Me",
+      "type": "work"
+    },
+    {
+      "name": "Stained Class",
+      "type": "work"
+    },
+    {
+      "name": "Village Voice",
+      "type": "organization"
+    },
+    {
+      "name": "Satanic Panic",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening and trigger warning",
+      "summary": "Hosts introduce the episode with a content warning for drug, alcohol and suicide references and recommend a Village Voice article, The Dreamer Deceiver by Ivan Solotaroff.",
+      "topics": [
+        "trigger warning",
+        "Dreamer Deceiver article"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:00",
+      "kind": "content",
+      "title": "Background: Satanic Panic and backmasking",
+      "summary": "Chuck explains the early-1980s Satanic Panic and backmasking, the idea of hidden messages heard when music plays backward. Josh points to the earlier Satanic Panic episode and the book chapter on backmasking.",
+      "topics": [
+        "Satanic Panic",
+        "backmasking",
+        "backward masking"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "California AB 37-41 warning label bill",
+      "summary": "Josh and Chuck describe California assemblyman Phil Wyman's bill, prompted by a constituent who saw a Trinity Broadcast Network show, which claimed backmasked messages affect the subconscious. The bill was never voted on.",
+      "topics": [
+        "California warning label bill",
+        "Phil Wyman",
+        "subliminal messages in music"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Pseudoscience and expert witness William Yarrell",
+      "summary": "Hosts discuss William Yarrell's self-described neuroscience credentials and his claim that the unconscious decodes backmasked messages and acts on them, and how junk science gains traction.",
+      "topics": [
+        "William Yarrell",
+        "junk science",
+        "pseudoscience testimony"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "PMRC and 1985 congressional hearings",
+      "summary": "The Parents Music Resource Center and its proposed warning labels are discussed, along with the 1985 hearings featuring Frank Zappa and John Denver. Hosts reflect on the resulting Parental Advisory label and testimony such as Joe Stuckey's claims about scientific studies.",
+      "topics": [
+        "PMRC",
+        "1985 Senate hearings",
+        "Parental Advisory label",
+        "Frank Zappa",
+        "John Denver"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:20",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:12:20",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Ozzy Osbourne suit and the Reno tragedy",
+      "summary": "The 1985 lawsuit against Ozzy Osbourne and CBS Records over Suicide Solution was dismissed on First Amendment grounds. In December 1985 in Reno, Nevada, Raymond Belknap and James Vance were best friends and Judas Priest fans; Belknap died by shotgun suicide after a day of drinking and marijuana.",
+      "topics": [
+        "Ozzy Osbourne Suicide Solution lawsuit",
+        "First Amendment music lyrics",
+        "Raymond Belknap",
+        "James Vance",
+        "Reno suicide 1985"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Vance's survival and the song Better By You, Better Than Me",
+      "summary": "Vance survived a shotgun suicide attempt, and in a letter to Belknap's mother he blamed alcohol and heavy metal, including Judas Priest. The boys believed the song Better By You, Better Than Me, a Gary Wright cover on Stained Class, contained 'do it' and other backmasked phrases. Chuck describes the song's original anti-war meaning.",
+      "topics": [
+        "Better By You Better Than Me",
+        "Stained Class",
+        "Gary Wright",
+        "Vance survival",
+        "suicide attempt"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Product liability lawsuit and Judge Whitehead's jurisdiction",
+      "summary": "Attorney Ken McKenna's firm filed a product liability suit against Judas Priest and CBS Records. Judge Jerry Carr Whitehead in Washoe County heard it without a jury, and hosts explain why the subliminal-message framing was treated differently from protected lyrics.",
+      "topics": [
+        "product liability lawsuit",
+        "Ken McKenna",
+        "Judge Jerry Carr Whitehead",
+        "Washoe County",
+        "subliminal messages not protected speech"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:25:15",
+      "kind": "content",
+      "title": "Families, band reaction and blame",
+      "summary": "Hosts discuss the parents' hostility toward the music, the band's distress at being blamed, and the troubled home lives of the boys, including the stepfather's alcoholism, and psychologist commentary about other risk factors.",
+      "topics": [
+        "Rob Halford reaction",
+        "parents blame",
+        "troubled home life",
+        "risk factors for suicide"
+      ]
+    },
+    {
+      "start": "00:25:15",
+      "end": "00:30:30",
+      "kind": "content",
+      "title": "Plaintiff case: identifying, intent, subliminality",
+      "summary": "The plaintiffs needed to show an identifiable message, deliberate placement, subliminal nature, and capacity to cause suicide. Engineer William Nick Lough slowed and isolated the audio, and Wilson Key's subliminal advertising claims were used. Halford admitted the band had used backmasking before, for effect.",
+      "topics": [
+        "William Nick Lough",
+        "Wilson Key",
+        "subliminal advertising",
+        "Rob Halford testimony",
+        "deliberate backmasking"
+      ]
+    },
+    {
+      "start": "00:30:30",
+      "end": "00:34:40",
+      "kind": "content",
+      "title": "Psychologist testimony on unconscious mind",
+      "summary": "Clinical psychologist Howard Shevrin testified about the conscious and unconscious mind and claimed subliminal messages can be perceived as internal truths. Hosts note the testimony went beyond the evidence, and that the judge's ruling covered only subliminal messages, not lyrics.",
+      "topics": [
+        "Howard Shevrin",
+        "unconscious mind",
+        "subliminal perception",
+        "expert testimony"
+      ]
+    },
+    {
+      "start": "00:34:40",
+      "end": "00:35:10",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break before the defense case.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:35:10",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Defense case and sound analysis",
+      "summary": "The defense argued that 'do it' was not clearly present, a combination of guitar and Halford exhaling, and used their own sound engineer. Halford explained his vocal habits. Defense cross-examined families, and experts testified there was no scientific basis for subliminal behavioral effects. Band members were distressed by the case.",
+      "topics": [
+        "defense arguments",
+        "do it sound analysis",
+        "Rob Halford vocal style",
+        "defense experts",
+        "band reaction"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Ruling, invasion of privacy and damages",
+      "summary": "Judge Whitehead ruled for Judas Priest, treating the case as invasion of privacy requiring intent rather than product liability. He did not debunk subliminal messages, which later bolstered other claims. Judas Priest spent about a quarter million dollars on defense; CBS was ordered to pay $40,000 for discovery violations over the master tapes.",
+      "topics": [
+        "verdict",
+        "invasion of privacy",
+        "product liability vs privacy intent",
+        "legal costs",
+        "CBS discovery sanction",
+        "master tapes"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:10",
+      "kind": "content",
+      "title": "Aftermath, Vance's later death and moral panic moves to rap",
+      "summary": "Vance later died after an overdose of methadone, with disputes over whether it was suicide. The panic shifted to rap, and Two Live Crew was tried for obscenity in Florida in 1990.",
+      "topics": [
+        "James Vance death",
+        "methadone overdose",
+        "Two Live Crew obscenity trial",
+        "moral panic shift to rap"
+      ]
+    },
+    {
+      "start": "00:46:10",
+      "end": "00:46:48",
+      "kind": "content",
+      "title": "Tour mention",
+      "summary": "Chuck notes Judas Priest's tour dates, including a September 21 show in Cedar Rapids, Iowa.",
+      "topics": [
+        "Judas Priest tour"
+      ]
+    },
+    {
+      "start": "00:46:48",
+      "end": "00:48:10",
+      "kind": "listener_mail",
+      "title": "Listener mail on streaming music",
+      "summary": "A listener named Nate from New York adds context on Spotify, label payouts to musicians and songwriters, and the power struggle between streaming services and labels.",
+      "topics": [
+        "Spotify",
+        "streaming royalties",
+        "music industry"
+      ]
+    },
+    {
+      "start": "00:48:10",
+      "end": "00:48:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to email the show and note the show's production credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17269,
+    "output_tokens": 4022
+  }
+}

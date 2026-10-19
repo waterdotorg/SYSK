@@ -1,0 +1,486 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-07-04_How_Trucking_Works_62min.txt",
+  "title": "How Trucking Works",
+  "date": "2023-07-04",
+  "duration": "62 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-trucking-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/213633cd-0066-4531-8095-b03500d4c514/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/213633cd-0066-4531-8095-b03500d4c514/transcript?format=TextWithTimestamps&t=1713902052",
+  "summary": "Josh and Chuck explore the trucking industry: its role in moving most freight, the invention of the semi trailer and fifth wheel, refrigerated trucks, the shipping container, highway and weight-limit history, driver logs and hours-of-service rules, sleeper cabs, air brakes, diesel emissions, pay and detention time, owner-operators, truck stops and driver health, bathroom access, the 1970s trucker craze (C.W. McCall's \"Convoy\"), Carter-era deregulation and its effect on driver wages, unionization decline, and driverless trucks. The episode opens with tour announcements and closes with a listener mail item about the phrase \"batching it.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "trucking industry",
+    "truckers",
+    "long haul trucking",
+    "semi trailer",
+    "fifth wheel",
+    "refrigerated trucks",
+    "reefer trucks",
+    "shipping container",
+    "Federal Highway Aid Act",
+    "weigh stations",
+    "hours of service",
+    "driver logs",
+    "sleeper cab",
+    "air brakes",
+    "diesel emissions",
+    "detention time pay",
+    "owner operators",
+    "truck stops",
+    "trucker health",
+    "CB radio",
+    "trucker craze 1970s",
+    "C.W. McCall Convoy",
+    "Carter deregulation trucking",
+    "Teamsters decline",
+    "trucker shortage",
+    "driverless trucks",
+    "freight logistics",
+    "long shoremen",
+    "truck driver pay",
+    "bathroom access truckers"
+  ],
+  "entities": [
+    {
+      "name": "August Fruehauf",
+      "type": "person"
+    },
+    {
+      "name": "Fred Jones",
+      "type": "person"
+    },
+    {
+      "name": "C.W. McCall",
+      "type": "person"
+    },
+    {
+      "name": "Bill Fries",
+      "type": "person"
+    },
+    {
+      "name": "Jimmy Carter",
+      "type": "person"
+    },
+    {
+      "name": "Federal Express",
+      "type": "organization"
+    },
+    {
+      "name": "Teamsters",
+      "type": "organization"
+    },
+    {
+      "name": "Old Home Bread",
+      "type": "organization"
+    },
+    {
+      "name": "Schneider",
+      "type": "organization"
+    },
+    {
+      "name": "Travel Centers of America",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Motor Carrier Safety Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Convoy",
+      "type": "work"
+    },
+    {
+      "name": "B.J. and the Bear",
+      "type": "work"
+    },
+    {
+      "name": "Smokey and the Bandit",
+      "type": "work"
+    },
+    {
+      "name": "Convoy (1978 film)",
+      "type": "work"
+    },
+    {
+      "name": "Steve Dore",
+      "type": "other"
+    },
+    {
+      "name": "Surface Transportation Assistance Act",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:02",
+      "end": "00:00:35",
+      "kind": "ad",
+      "title": "Tour announcement",
+      "summary": "Hosts promote the final 2023 tour dates in Orlando, Nashville and Atlanta and point listeners to the tour page.",
+      "topics": [
+        "tour dates"
+      ]
+    },
+    {
+      "start": "00:00:35",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter about trucks",
+      "summary": "Hosts reminisce about kids honking at truckers and say the episode is for trucking listeners who asked for it.",
+      "topics": [
+        "truckers listening",
+        "childhood trucker horn"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "Why trucking matters",
+      "summary": "Trucking moves most freight by weight in the United States and most goods from factory to store in most countries, and it enabled modern grocery and big box stores.",
+      "topics": [
+        "freight shipping",
+        "trucking economy",
+        "freight by weight"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Patience with semis passing",
+      "summary": "Chuck says drivers should be understood when semis slowly pass on uphill grades; Josh is less convinced.",
+      "topics": [
+        "semi trucks passing",
+        "road etiquette"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:40",
+      "kind": "content",
+      "title": "Semi trailer and fifth wheel invention",
+      "summary": "August Fruehauf of Detroit built a semi trailer for lumber in the 1910s, and a fifth wheel design later made trailers quick to attach and swap, which helped the industry grow.",
+      "topics": [
+        "semi trailer history",
+        "fifth wheel",
+        "Fruehauf"
+      ]
+    },
+    {
+      "start": "00:06:40",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Terminology and early refrigerated trucks",
+      "summary": "Hosts discuss the terms tractor trailer and semi, then describe pre-1930s iceand brine-cooled transport and the refrigerated truck developed by Fred Jones.",
+      "topics": [
+        "refrigerated trucks",
+        "reefer trucks",
+        "Fred Jones",
+        "semi terminology"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Refrigeration's impact on food distribution",
+      "summary": "Before refrigerated trucks, perishable goods were sourced locally; refrigerated trailers and earlier truck farming widened the range of foods shipped nationally.",
+      "topics": [
+        "food distribution",
+        "truck farming",
+        "local produce history"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Shipping container and trucking growth",
+      "summary": "Standardized shipping containers, moved by crane between ships and trucks, cut handling and theft and reduced longshoremen's work starting in the 1970s.",
+      "topics": [
+        "shipping container",
+        "longshoremen",
+        "intermodal freight"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Weight limits, Federal Highway Aid Act and weigh stations",
+      "summary": "The 1956 highway act built the interstate system; federal and state weight limits were made uniform in 1982 under the Surface Transportation Assistance Act, and weigh stations became electronic in the 1990s with WIM scales and RFID transponders.",
+      "topics": [
+        "Federal Highway Aid Act 1956",
+        "weigh stations",
+        "truck weight limits",
+        "Surface Transportation Assistance Act",
+        "weigh in motion"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:40",
+      "kind": "content",
+      "title": "Paper logs and comic books",
+      "summary": "Drivers historically kept written logs, sometimes keeping two books, one for inspectors; electronic tracking has replaced this.",
+      "topics": [
+        "driver logs",
+        "electronic logging",
+        "comic book logs"
+      ]
+    },
+    {
+      "start": "00:15:40",
+      "end": "00:16:05",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:16:05",
+      "end": "00:19:20",
+      "kind": "content",
+      "title": "FedEx detention charge dispute",
+      "summary": "Chuck describes a disputed FedEx charge for a delivery wait, and the hosts explain detention time pay and how shipping contracts assign it to shippers.",
+      "topics": [
+        "detention time pay",
+        "FedEx billing dispute",
+        "unpaid driver wait time"
+      ]
+    },
+    {
+      "start": "00:19:20",
+      "end": "00:23:10",
+      "kind": "content",
+      "title": "Truck design, sleeper cabs and air brakes",
+      "summary": "Discussion of older truck makers, integrated sleeper cabs versus RV-style bunks, air brakes borrowed from trains, Jake brakes, and typical truck dimensions and weight limits.",
+      "topics": [
+        "sleeper cab",
+        "air brakes",
+        "jake brakes",
+        "truck dimensions",
+        "truck weight limit 80000 pounds"
+      ]
+    },
+    {
+      "start": "00:23:10",
+      "end": "00:26:40",
+      "kind": "content",
+      "title": "Diesel, emissions and electric trucks",
+      "summary": "Diesel trucks face emissions issues; the EPA pushed ultra low sulfur diesel in 2006, yet trucking CO2 rose about 80 percent between 1990 and 2020. The hosts also mention an electric boat show visit.",
+      "topics": [
+        "diesel emissions",
+        "ultra low sulfur diesel",
+        "CO2 trucking",
+        "electric semis",
+        "electric boats"
+      ]
+    },
+    {
+      "start": "00:26:40",
+      "end": "00:28:10",
+      "kind": "content",
+      "title": "Types of trucks and trucking pay",
+      "summary": "Trailer types are mentioned; drivers are usually paid by the mile rather than a base salary, and owner operators must handle their own loads, expenses and scheduling.",
+      "topics": [
+        "trailer types",
+        "pay by the mile",
+        "owner operators",
+        "freelance trucking"
+      ]
+    },
+    {
+      "start": "00:28:10",
+      "end": "00:31:05",
+      "kind": "content",
+      "title": "Time away from home and load apps",
+      "summary": "Long haul drivers often stay away four to six weeks, with long haul defined as at least 250 miles; load-finding apps have replaced older methods.",
+      "topics": [
+        "long haul definition",
+        "time away from family",
+        "load board apps",
+        "deadheading"
+      ]
+    },
+    {
+      "start": "00:31:05",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Unpaid hours and team driving",
+      "summary": "Drivers often go unpaid for waiting and rest time; the Biden administration targeted unpaid detention time. Married couples sometimes team drive to run nonstop.",
+      "topics": [
+        "unpaid driver hours",
+        "team driving couples",
+        "Biden trucker policy"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:30",
+      "kind": "content",
+      "title": "Hours-of-service rules",
+      "summary": "The 11-hour driving limit, 10-hour rest, 14-hour window, 70/80-hour weekly caps, and 34-hour reset are outlined, requiring careful trip planning.",
+      "topics": [
+        "hours of service",
+        "driving limits",
+        "34-hour restart",
+        "trucker rest rules"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:36:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Second mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:45",
+      "kind": "content",
+      "title": "CB radio among truckers",
+      "summary": "Truckers still use CB radio for road conditions and team coordination, though cell phones and apps have replaced much of it.",
+      "topics": [
+        "CB radio",
+        "trucker communication"
+      ]
+    },
+    {
+      "start": "00:37:45",
+      "end": "00:40:45",
+      "kind": "content",
+      "title": "Truck stops and trucker fitness",
+      "summary": "Independent truck stops have declined as chains buy them; amenities like showers, fitness centers and sit-down diners are shrinking. Travel Centers of America's Stay Fit program and Schneider's centers are mentioned.",
+      "topics": [
+        "truck stops",
+        "trucker fitness",
+        "Stay Fit program",
+        "Schneider",
+        "trucker health"
+      ]
+    },
+    {
+      "start": "00:40:45",
+      "end": "00:42:40",
+      "kind": "content",
+      "title": "Restroom access for truckers",
+      "summary": "Drivers are often denied bathroom access at pickup and drop-off sites, and federal action was taken to require access; hosts joke about it.",
+      "topics": [
+        "trucker restroom access",
+        "hydration",
+        "federal truck driver policy"
+      ]
+    },
+    {
+      "start": "00:42:40",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "1970s trucker craze and CB boom",
+      "summary": "The 1970s trucker fad, including CB radio popularity, Travis D's blog, and the 1973 fuel crisis and 55 mph limit, is covered, with the fad fading quickly afterward.",
+      "topics": [
+        "1970s trucker craze",
+        "CB radio boom",
+        "55 mph speed limit",
+        "trucker fad"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Old Home Bread jingle and Convoy",
+      "summary": "The craze began with an Omaha bread company jingle written by ad executive Bill Fries, who became C.W. McCall; his 1975 song Convoy topped charts and inspired films such as Smokey and the Bandit, Convoy and BJ and the Bear.",
+      "topics": [
+        "C.W. McCall",
+        "Convoy song",
+        "Old Home Bread jingle",
+        "trucker movies",
+        "Smokey and the Bandit"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:52:30",
+      "kind": "content",
+      "title": "Deregulation and driver pay decline",
+      "summary": "Carter-era deregulation in 1980 opened trucking to competition, leading to lower wages; mean driver earnings fell significantly and Teamsters membership dropped sharply.",
+      "topics": [
+        "trucking deregulation 1980",
+        "driver wages decline",
+        "Teamsters membership",
+        "destructive competition"
+      ]
+    },
+    {
+      "start": "00:52:30",
+      "end": "00:55:40",
+      "kind": "content",
+      "title": "Trucker shortage and unionizing",
+      "summary": "Hundreds of thousands of drivers have left the industry, a shortage exists due to low pay, and independent truckers are hard to organize.",
+      "topics": [
+        "trucker shortage",
+        "driver turnover",
+        "trucker unionization"
+      ]
+    },
+    {
+      "start": "00:55:40",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Driverless trucks",
+      "summary": "Self-driving trucks are being tested on highways, which the hosts say suit highways better than city streets; convoy-style setups with a human driver are suggested. Steve Dore longshore foremen are briefly explained.",
+      "topics": [
+        "driverless trucks",
+        "autonomous trucking",
+        "steve dore"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "00:59:20",
+      "kind": "content",
+      "title": "Closing thoughts on trucking's future",
+      "summary": "Hosts conclude that the future of trucking is uncertain and encourage listeners to be nice to truckers.",
+      "topics": [
+        "trucking future",
+        "trucker respect"
+      ]
+    },
+    {
+      "start": "00:59:20",
+      "end": "01:01:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: batching it",
+      "summary": "Aubrey writes about the phrase batching it, which Chuck traces to Laura Ingalls Wilder's The Long Winter from 1940. Aubrey also says the show calms her with two-year-old twins.",
+      "topics": [
+        "listener mail",
+        "batching it phrase",
+        "Laura Ingalls Wilder"
+      ]
+    },
+    {
+      "start": "01:01:30",
+      "end": "01:01:50",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Credits and iHeartRadio production note and listener mail address.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 23290,
+    "output_tokens": 4997
+  }
+}

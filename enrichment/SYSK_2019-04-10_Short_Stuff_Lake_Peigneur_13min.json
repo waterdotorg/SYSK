@@ -1,0 +1,167 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-04-10_Short_Stuff_Lake_Peigneur_13min.txt",
+  "title": "Short Stuff: Lake Peigneur",
+  "date": "2019-04-10",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-lake-peigneur",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4294339b-9108-4c1d-889b-ae28004efe7a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4294339b-9108-4c1d-889b-ae28004efe7a/transcript?format=TextWithTimestamps&t=1700543698",
+  "summary": "Short Stuff episode on the 1980 Lake Peigneur disaster in Iberia Parish, Louisiana. Texico contractors drilling for gas in the lake accidentally broke into a salt mine beneath the lake, causing a large whirlpool that drew in the lake water, the nearby Gulf Intracoastal canal water, eleven barges, a tugboat, and a drilling platform into the mine. About fifty miners escaped by elevator, and no one died. The lake changed from freshwater to saltwater and from a few feet deep to about two feet, and Texico paid out millions in damages. The hosts attribute the error to a map-coordinate mix-up.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Lake Peigneur",
+    "Lake Pereira disaster",
+    "Lake Peigneur sinkhole",
+    "1980 Louisiana salt mine collapse",
+    "Jefferson Island salt dome",
+    "Texico drilling accident",
+    "whirlpool",
+    "salt mine flooding",
+    "Iberia Parish",
+    "New Iberia Louisiana",
+    "Diamond Crystal Salt Company",
+    "Gulf of Mexico canal inflow",
+    "eleven barges sucked into lake",
+    "miners escape elevator",
+    "saltwater lake transformation",
+    "industrial disasters",
+    "Short Stuff",
+    "oil drilling accident",
+    "geyser of air"
+  ],
+  "entities": [
+    {
+      "name": "Lake Peigneur",
+      "type": "place"
+    },
+    {
+      "name": "Iberia Parish",
+      "type": "place"
+    },
+    {
+      "name": "New Iberia",
+      "type": "place"
+    },
+    {
+      "name": "Jefferson Island",
+      "type": "place"
+    },
+    {
+      "name": "Texico",
+      "type": "organization"
+    },
+    {
+      "name": "Diamond Crystal Salt Company",
+      "type": "organization"
+    },
+    {
+      "name": "Jewel Gattison",
+      "type": "person"
+    },
+    {
+      "name": "Gulf of Mexico",
+      "type": "place"
+    },
+    {
+      "name": "Delcambre Canal",
+      "type": "place"
+    },
+    {
+      "name": "1980 Lake Peigneur disaster",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts open with light banter and introduce the Lake Peigneur story, a Louisiana lake that sits atop a salt dome.",
+      "topics": [
+        "Lake Peigneur",
+        "salt dome"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Drill rig stuck and sinking",
+      "summary": "In November 1980, Texico contractors drilling for gas in the shallow lake hit a stuck drill about 1,200 feet down. The rig tilted and sank, and the crew escaped on barges.",
+      "topics": [
+        "Texico drilling accident",
+        "Lake Peigneur",
+        "drill rig sinking",
+        "gas exploration"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Whirlpool forms and mine floods",
+      "summary": "The drill had broken into a salt mine shaft beneath the lake. A whirlpool grew to about a quarter mile across, and water flooded the mine, where an electrician sounded the alarm.",
+      "topics": [
+        "whirlpool",
+        "salt mine flooding",
+        "mine alarm",
+        "Jewel Gattison"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:09:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Miners escape and lake drains into mine",
+      "summary": "About fifty miners rode elevators eight at a time to the surface. The whirlpool pulled in the Gulf of Mexico water via the canal, along with eleven barges, a tugboat, and a drilling platform. Air from the mine shot out as geysers.",
+      "topics": [
+        "miners escape elevator",
+        "eleven barges sucked into lake",
+        "Delcambre Canal",
+        "Gulf of Mexico canal inflow",
+        "Jefferson Island"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:40",
+      "kind": "content",
+      "title": "Aftermath and lasting changes",
+      "summary": "The water drained into the mine over hours, and most barges resurfaced. No one died. The lake became saltwater and about two feet deep. Texico paid millions in damages, and the error was blamed on mixed-up map coordinates.",
+      "topics": [
+        "saltwater lake",
+        "Texico damages",
+        "no casualties",
+        "map coordinate error"
+      ]
+    },
+    {
+      "start": "00:12:40",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts credit sources and sign off the Short Stuff segment.",
+      "topics": [
+        "Short Stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5447,
+    "output_tokens": 1733
+  }
+}

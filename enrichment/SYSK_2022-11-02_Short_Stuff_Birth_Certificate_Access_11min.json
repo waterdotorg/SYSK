@@ -1,0 +1,157 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-11-02_Short_Stuff_Birth_Certificate_Access_11min.txt",
+  "title": "Short Stuff: Birth Certificate Access",
+  "date": "2022-11-02",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-birth-certificate-access",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5d9c0b97-b7c4-4ce7-80e2-af3200f3f29a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5d9c0b97-b7c4-4ce7-80e2-af3200f3f29a/transcript?format=TextWithTimestamps&t=1700557305",
+  "summary": "Short Stuff episode on adoption birth certificate access in the United States. The hosts draw on a Conversation article by Andrea Ross and outline how states differ: ten states offer complete access to original birth certificates, eighteen require a court order to unseal them, twenty-three offer a redacted version, and twelve have date-based restrictions. They trace the sealing practice to the 1940s, when it was meant to keep birth parents from interfering with adoptive families, and note the claim that it also protected unwed mothers' identities. They discuss recent legislation in Tennessee, Connecticut and Rhode Island, veto rights held by birth parents and adoptees, confidential intermediary services, DNA testing, and a statistic that under three quarters of a percent of birth parents do not want contact. The hosts close with personal reflections on open adoption.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "adoption",
+    "birth certificate access",
+    "original birth certificate",
+    "sealed birth certificates",
+    "adoptee rights",
+    "open adoption",
+    "confidential intermediary services",
+    "birth parents",
+    "unsealing records",
+    "DNA testing adoption",
+    "adoption law by state",
+    "amended birth certificates",
+    "unwed mothers adoption history",
+    "Tennessee adoption law",
+    "Connecticut adoption law",
+    "Rhode Island adoption law",
+    "New Hampshire adoption records",
+    "birth parent veto",
+    "Andrea Ross"
+  ],
+  "entities": [
+    {
+      "name": "Andrea Ross",
+      "type": "person"
+    },
+    {
+      "name": "The Conversation",
+      "type": "organization"
+    },
+    {
+      "name": "Tennessee",
+      "type": "place"
+    },
+    {
+      "name": "Connecticut",
+      "type": "place"
+    },
+    {
+      "name": "Rhode Island",
+      "type": "place"
+    },
+    {
+      "name": "New Hampshire",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:50",
+      "kind": "intro",
+      "title": "Opening and framing adoptee birth certificate access",
+      "summary": "Josh introduces the topic of adoptees gaining access to original birth certificates, citing an article by Andrea Ross, and describes sealed records as a basic right to know one's identity.",
+      "topics": [
+        "adoption",
+        "birth certificate access",
+        "adoptee rights"
+      ]
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:03:20",
+      "kind": "content",
+      "title": "State-by-state access categories",
+      "summary": "The hosts describe how states differ: ten offer complete access, eighteen require a court order, twenty-three offer redacted versions, and twelve have date-based restrictions.",
+      "topics": [
+        "adoption law by state",
+        "sealed birth certificates",
+        "court order unsealing",
+        "redacted birth certificate",
+        "original birth certificate"
+      ]
+    },
+    {
+      "start": "00:03:20",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "History of sealing birth certificates",
+      "summary": "Sealing practices began in the 1940s, reportedly to keep birth parents from interfering with adoptive families, and a view holds they also protected unwed mothers from stigma.",
+      "topics": [
+        "amended birth certificates",
+        "1940s adoption history",
+        "unwed mothers adoption history",
+        "adoption stigma"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Patchwork of state laws and recent reforms",
+      "summary": "Every state has its own rules, with no single national approach. Tennessee, Connecticut and Rhode Island have recent or pending reforms, and some states grant access at age eighteen.",
+      "topics": [
+        "adoption law by state",
+        "Tennessee adoption law",
+        "Connecticut adoption law",
+        "Rhode Island adoption law",
+        "age eighteen access"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Birth parent veto, intermediary services and privacy",
+      "summary": "The hosts discuss birth parents and adoptees being able to veto release of records, confidential intermediary services that act like a matching app, and the privacy concerns of birth mothers. They also mention DNA testing as an alternative.",
+      "topics": [
+        "birth parent veto",
+        "confidential intermediary services",
+        "DNA testing adoption",
+        "birth parent privacy"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Contact preferences and open adoption",
+      "summary": "The hosts note that adoptive parents are now often open about birth parent information, and cite a statistic that under three quarters of a percent of birth parents do not want contact, with New Hampshire mentioned. They discuss how adoptee interest varies by age.",
+      "topics": [
+        "open adoption",
+        "birth parent contact preferences",
+        "New Hampshire adoption records",
+        "adoptee interest by age"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:00",
+      "kind": "outro",
+      "title": "Personal reflections and sign-off",
+      "summary": "Josh and Chuck share personal thoughts on being an adoptive family and the importance of not forcing relationships, then sign off with the show credits.",
+      "topics": [
+        "adoptive family",
+        "open adoption"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4611,
+    "output_tokens": 1792
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-02-18_How_Salt_Works_43min.txt",
+  "title": "How Salt Works",
+  "date": "2014-02-18",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-salt-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b0230a4d-85b2-4477-bf48-ae28009a91f6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0230a4d-85b2-4477-bf48-ae28009a91f6/transcript?format=TextWithTimestamps&t=1700543889",
+  "summary": "Josh and Chuck explore salt: the origin of salty idioms (not worth his salt, salary, salad, grain of salt), salt's history as currency and preservation, Gandhi's Salt March, the Erie Canal and salt, salt in the Civil War, and salt's role in the body (electrolytes, hyponatremia and hypernatremia). They cover the health debate over sodium intake, the chemistry of sodium chloride, types of salt (table salt with iodine and anti-caking agents, the Morton Salt girl ad, sea salt, fleur de sel, pink Himalayan and Hawaiian alaea, black lava salt, smoked salt, kosher and rock salt), and three mining methods (deep shaft room-and-pillar, solution mining, solar evaporation), including the Wieliczka Salt Mine. The episode closes with a listener mail from Glenn, a Southern California police officer, correcting an error about the Christopher Dorner manhunt shootings, and a sponsor read for Lynda.com.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "salt",
+    "how salt works",
+    "salt history",
+    "salt idioms",
+    "Gandhi Salt March",
+    "Erie Canal salt",
+    "Civil War salt",
+    "electrolytes",
+    "hyponatremia",
+    "hypernatremia",
+    "sodium intake",
+    "sodium chloride",
+    "table salt",
+    "iodized salt",
+    "Morton Salt girl",
+    "sea salt",
+    "kosher salt",
+    "rock salt",
+    "salt mining",
+    "solar evaporation",
+    "solution mining",
+    "Wieliczka Salt Mine",
+    "curing meat",
+    "salt health debate",
+    "Dorner manhunt listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Gandhi",
+      "type": "person"
+    },
+    {
+      "name": "Salt March to Dandi",
+      "type": "event"
+    },
+    {
+      "name": "Erie Canal",
+      "type": "place"
+    },
+    {
+      "name": "Morton Salt",
+      "type": "organization"
+    },
+    {
+      "name": "Wieliczka Salt Mine",
+      "type": "place"
+    },
+    {
+      "name": "Cracow, Poland",
+      "type": "place"
+    },
+    {
+      "name": "Saltville, Virginia",
+      "type": "place"
+    },
+    {
+      "name": "Lynda.com",
+      "type": "organization"
+    },
+    {
+      "name": "Christopher Dorner",
+      "type": "person"
+    },
+    {
+      "name": "Idiocracy",
+      "type": "work"
+    },
+    {
+      "name": "Hawaiian alaea salt",
+      "type": "other"
+    },
+    {
+      "name": "Kosher salt",
+      "type": "other"
+    },
+    {
+      "name": "Fleur de sel",
+      "type": "other"
+    },
+    {
+      "name": "Flynn effect",
+      "type": "other"
+    },
+    {
+      "name": "Hyponatremia",
+      "type": "other"
+    },
+    {
+      "name": "Hypernatremia",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and salty idioms",
+      "summary": "The hosts open by discussing the word salty and origins of salt idioms such as taking something with a grain of salt, not being worth one's salt, and the etymology of salary and salad.",
+      "topics": [
+        "salt idioms",
+        "not worth his salt",
+        "grain of salt",
+        "salary etymology"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Salt history, currency and Gandhi's Salt March",
+      "summary": "Salt's historical importance: ancient trade, economies and control of salt production, Gandhi's 240-mile Salt March against British control of salt in India, and salt as currency in Ethiopia and as a method of suicide among Chinese nobility.",
+      "topics": [
+        "salt history",
+        "Gandhi Salt March",
+        "British salt tax India",
+        "salt currency Ethiopia",
+        "salt trade"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Salt preservation and curing",
+      "summary": "Salt's role in preserving food by drawing out moisture and killing bacteria, which is the basis of curing meat, and the sodium in packaged foods.",
+      "topics": [
+        "curing meat",
+        "food preservation",
+        "osmosis and salt",
+        "packaged food sodium"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Salt in medieval Europe, American colonies, and the Erie Canal",
+      "summary": "Medieval tortures including the goat's tongue, the Old Salt Route in northern Germany, the Massachusetts Bay Colony salt works, and the Erie Canal being built largely to transport salt.",
+      "topics": [
+        "Old Salt Route",
+        "Massachusetts Bay Colony salt",
+        "Erie Canal salt",
+        "early American salt",
+        "goat's tongue torture"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Salt in the Civil War",
+      "summary": "Salt's role in Union strategy during the Civil War, with battles over salt works and mines such as Saltville, Virginia, and the salt shortage's effect on Confederate morale.",
+      "topics": [
+        "Civil War salt",
+        "Saltville Virginia",
+        "Confederate salt shortage",
+        "salt strategy"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Salt, electrolytes and the body",
+      "summary": "Salt is essential to the body; humans have a taste for it, and it carries electrical impulses for muscles and the heart. Discussion of hyponatremia from too little salt (water intoxication, diuretics, vomiting) and hypernatremia from too much, with its effect on blood volume and blood pressure.",
+      "topics": [
+        "electrolytes",
+        "salt craving",
+        "hyponatremia",
+        "hypernatremia",
+        "blood pressure and salt",
+        "kidneys and sodium"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Sodium intake guidelines and the health debate",
+      "summary": "Recommended sodium limits (about 2.4 grams per day), average American intake, and the CDC panel finding that cutting sodium does not clearly reduce heart attack or stroke risk, with low and high intake groups at higher risk.",
+      "topics": [
+        "sodium recommendations",
+        "salt and heart attack risk",
+        "CDC sodium panel",
+        "sodium intake controversy"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Types of salt: table salt and iodine",
+      "summary": "Table salt is the most common salt, refined with anti-caking agents. Iodization was added to prevent goiter and developmental problems, and is linked to the Flynn effect. The Morton Salt girl ad with the umbrella slogan 'when it rains it pours' is described.",
+      "topics": [
+        "table salt",
+        "iodized salt",
+        "Flynn effect",
+        "Morton Salt girl",
+        "anti-caking agents"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Sea salt, colored and smoked salts",
+      "summary": "Sea salt, fleur de sel harvested by hand in France, pink Himalayan salt and the algae coloring, Hawaiian alaea with iron oxide, black lava salt, gray Celtic salt, and smoked salt.",
+      "topics": [
+        "sea salt",
+        "fleur de sel",
+        "pink salt",
+        "Hawaiian alaea salt",
+        "black lava salt",
+        "smoked salt"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Kosher salt and rock salt",
+      "summary": "Kosher salt is not kosher itself but is used to draw blood from meat to make it kosher; its coarse grain means it must be doubled when substituting for table salt. Rock salt is unrefined and used for de-icing and ice cream.",
+      "topics": [
+        "kosher salt",
+        "rock salt",
+        "de-icing salt",
+        "salt substitution in recipes"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Salt mining methods and famous salt mines",
+      "summary": "Top salt producers (China, US, Germany, India, Australia). Three mining methods: deep shaft room-and-pillar mining, solution mining by pumping water into salt beds and evaporating brine, and solar evaporation. The Wieliczka Salt Mine in Poland with its salt cathedral and chandeliers.",
+      "topics": [
+        "salt mining",
+        "deep shaft mining",
+        "solution mining",
+        "solar evaporation",
+        "Wieliczka Salt Mine",
+        "salt production by country"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:01:00",
+      "kind": "content",
+      "title": "Religious significance of salt",
+      "summary": "Salt's religious and symbolic role: Lot's wife turned into a pillar of salt in the Old Testament, a salt pillar near Mount Ararat, the custom of keeping salt in cars for protection, and a quote from Roman senator Cassiodorus.",
+      "topics": [
+        "salt religion",
+        "Lot's wife pillar of salt",
+        "salt superstitions",
+        "Cassiodorus quote"
+      ]
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:03:00",
+      "kind": "ad",
+      "title": "Sponsor plug for local homemade salts",
+      "summary": "Chuck plugs a Atlanta maker of handcrafted sea salts, including the Magic Unicorn blend, and gives contact details.",
+      "topics": [
+        "homemade sea salt",
+        "salt blends"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:08:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Christopher Dorner manhunt correction",
+      "summary": "Listener Glenn, a Southern California police officer, corrects an episode error about the Christopher Dorner manhunt: the LAPD fired on one vehicle and the Torrance Police Department on another, and he says nobody was killed. Josh says he will recheck and admit any error.",
+      "topics": [
+        "listener mail",
+        "Christopher Dorner",
+        "LAPD shooting correction",
+        "Torrance Police Department"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:09:00",
+      "kind": "ad",
+      "title": "Lynda.com sponsor read and outro",
+      "summary": "Sponsor read for Lynda.com online video tutorials, followed by contact information and sign-off.",
+      "topics": [
+        "Lynda.com sponsor",
+        "outro",
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14621,
+    "output_tokens": 3578
+  }
+}

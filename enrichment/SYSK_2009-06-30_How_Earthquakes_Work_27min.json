@@ -1,0 +1,265 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-06-30_How_Earthquakes_Work_27min.txt",
+  "title": "How Earthquakes Work",
+  "date": "2009-06-30",
+  "duration": "27 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-earthquakes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f43048d5-9c7a-43b9-8784-ae2800be42f1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f43048d5-9c7a-43b9-8784-ae2800be42f1/transcript?format=TextWithTimestamps&t=1700543984",
+  "summary": "Josh and Chuck open with banter about Los Angeles, a friend's (Hippie Rob) prison earthquake-proofing story, and cousin Wolf's name change. They then cover the history of continental drift, starting with Alfred Wegener, Pangaea, and his rejected explanation of centrifugal force and tidal movement, which was later vindicated by plate tectonics research in the 1950s and 1960s. They explain plate boundaries (divergent, convergent, and transform), fault types (normal, reverse, thrust, strike-slip), the San Andreas Fault, and how stress builds until a slip releases seismic energy. They describe body waves (P and S) and surface waves (Love and Rayleigh), the Richter scale's logarithmic nature, the 1960 Chile earthquake (magnitude 9.5) and its tsunami, the 1811-1812 New Madrid earthquakes, the Mercalli damage scale, the 1906 San Francisco earthquake, and why earthquakes cannot be predicted precisely. The episode closes with listener mail about sleep paralysis.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "earthquakes",
+    "plate tectonics",
+    "continental drift",
+    "Alfred Wegener",
+    "Pangaea",
+    "faults",
+    "San Andreas Fault",
+    "seismic waves",
+    "P waves",
+    "S waves",
+    "surface waves",
+    "Richter scale",
+    "Mercalli scale",
+    "1960 Chile earthquake",
+    "New Madrid earthquakes 1811-1812",
+    "1906 San Francisco earthquake",
+    "earthquake prediction",
+    "earthquake-resistant building",
+    "tsunamis",
+    "asthenosphere",
+    "sleep paralysis",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Alfred Wegener",
+      "type": "person"
+    },
+    {
+      "name": "Pangaea",
+      "type": "other"
+    },
+    {
+      "name": "San Andreas Fault",
+      "type": "place"
+    },
+    {
+      "name": "Chile",
+      "type": "place"
+    },
+    {
+      "name": "1960 Chile earthquake",
+      "type": "event"
+    },
+    {
+      "name": "New Madrid earthquakes",
+      "type": "event"
+    },
+    {
+      "name": "1906 San Francisco earthquake",
+      "type": "event"
+    },
+    {
+      "name": "Papua New Guinea",
+      "type": "place"
+    },
+    {
+      "name": "San Quentin",
+      "type": "place"
+    },
+    {
+      "name": "Folsom prison",
+      "type": "place"
+    },
+    {
+      "name": "Tremors",
+      "type": "work"
+    },
+    {
+      "name": "Richter scale",
+      "type": "other"
+    },
+    {
+      "name": "Mercalli scale",
+      "type": "other"
+    },
+    {
+      "name": "Superman",
+      "type": "work"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Hawaii",
+      "type": "place"
+    },
+    {
+      "name": "Boston",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Los Angeles earthquake stories",
+      "summary": "Josh and Chuck chat about energy drinks, a celebrity sighting, and Chuck's years in Los Angeles without feeling an earthquake. Chuck tells the Hippie Rob story about prisoner transfers to Folsom during earthquake proofing.",
+      "topics": [
+        "Los Angeles earthquakes",
+        "earthquake-proofing prisons",
+        "Folsom prison",
+        "San Quentin"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Alfred Wegener and continental drift history",
+      "summary": "Wegener, a German astronomer-turned-geologist, noticed matching fossils on South America and Africa and proposed that the continents were once joined as Pangaea and have drifted apart. His centrifugal force and tidal explanation was rejected, but he was vindicated in the 1950s and 1960s.",
+      "topics": [
+        "continental drift",
+        "Alfred Wegener",
+        "Pangaea",
+        "fossil evidence",
+        "continental drift theory history"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Plate tectonics and the asthenosphere",
+      "summary": "The lithosphere is broken into plates that move over the softer asthenosphere, which behaves like a liquid under heat and pressure. Plate motion explains volcanoes, trenches, mountains, and earthquakes.",
+      "topics": [
+        "plate tectonics",
+        "lithosphere",
+        "asthenosphere",
+        "mantle",
+        "volcanoes and plate movement"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Earthquake frequency and deadliness",
+      "summary": "Earthquakes happen constantly, roughly eight thousand per day, but most go unfelt because they are deep or in uninhabited areas. About 1.5 million people died from earthquake-related causes in the last hundred years, mostly from collapsed structures, tsunamis, and mudslides.",
+      "topics": [
+        "earthquake statistics",
+        "earthquake deaths",
+        "USGS earthquake monitoring",
+        "tsunamis"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Plate boundaries and fault types",
+      "summary": "Plates can move apart, collide (with one subducting under the other), or slide past each other. The hosts describe normal, reverse, thrust, and strike-slip faults, and place the San Andreas Fault as a horizontal fault.",
+      "topics": [
+        "fault lines",
+        "plate boundaries",
+        "normal fault",
+        "reverse fault",
+        "thrust fault",
+        "strike-slip fault",
+        "San Andreas Fault",
+        "subduction"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Stress build-up, slip, and fault zones",
+      "summary": "Friction locks plates together while pressure keeps building. When the stress overcomes friction, the fault slips and releases energy, which is the focus of the earthquake. Fault zones can trigger several quakes in a series, as with the 1811-1812 New Madrid earthquakes in the middle of a plate.",
+      "topics": [
+        "earthquake focus",
+        "elastic rebound",
+        "fault zones",
+        "aftershocks",
+        "New Madrid earthquakes 1811-1812"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Seismic waves: body waves and surface waves",
+      "summary": "Earthquake energy travels as seismic waves. P waves are fastest and move through solids, liquids, and gases. S waves shake rock perpendicular to their direction and cannot pass through liquid. Surface waves move the ground up and down like ocean waves and cause the most damage. The Tremors film is cited.",
+      "topics": [
+        "seismic waves",
+        "P waves",
+        "S waves",
+        "body waves",
+        "surface waves",
+        "Tremors movie",
+        "hollow earth theory"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Richter and Mercalli scales, notable earthquakes",
+      "summary": "The Richter scale is logarithmic and measures magnitude; the record is 9.5 in Chile in 1960, which killed about 1,665 people and caused a tsunami that reached Hawaii and Japan. The Mercalli scale rates damage in Roman numerals. The 1906 San Francisco earthquake lasted about a minute and killed about 3,000 people, with fires following.",
+      "topics": [
+        "Richter scale",
+        "Mercalli scale",
+        "magnitude",
+        "1960 Chile earthquake",
+        "1906 San Francisco earthquake",
+        "earthquake damage scale"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Earthquake prediction and building codes",
+      "summary": "Scientists can forecast aftershocks and identify areas at risk but cannot say precisely when a major quake will strike. The hosts discuss building standards and the uniform building code.",
+      "topics": [
+        "earthquake prediction",
+        "aftershock forecasting",
+        "uniform building code",
+        "earthquake-resistant building"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:33:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on sleep paralysis",
+      "summary": "Hosts read a listener email from Madeleine describing sleep paralysis experiences, and promise a future episode on the topic.",
+      "topics": [
+        "sleep paralysis",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:34:00",
+      "kind": "outro",
+      "title": "Sign-off and website pointers",
+      "summary": "Hosts point listeners to the email address and HowStuffWorks articles on earthquakes and surviving earthquakes.",
+      "topics": [
+        "show closing",
+        "HowStuffWorks earthquake articles"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10297,
+    "output_tokens": 3036
+  }
+}

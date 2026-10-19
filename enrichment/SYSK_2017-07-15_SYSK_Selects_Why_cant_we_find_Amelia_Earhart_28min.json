@@ -1,0 +1,231 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-15_SYSK_Selects_Why_cant_we_find_Amelia_Earhart_28min.txt",
+  "title": "SYSK Selects: Why can't we find Amelia Earhart?",
+  "date": "2017-07-15",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-why-cant-we-find-amelia-earhart",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/46d91301-c8a7-458f-87a2-ae280074c20e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/46d91301-c8a7-458f-87a2-ae280074c20e/transcript?format=TextWithTimestamps&t=1700543802",
+  "summary": "SYSK Selects rerun of the December 2000 episode \"Why Can't We Find Amelia Earhart?\", reintroduced by Josh as a response to a recent photo purporting to show Earhart and Fred Noonan after their disappearance. The episode covers Earhart's career, the 1937 equatorial world flight, the final flight from Papua New Guinea toward Howland Island, the failed US Navy search, the 1940 Gardner Island (Nikumaroro) evidence including the bones taken by Gerald Gallagher's physician, the artifacts later found by TIGAR, and theories including Japanese capture, the Irene Craig alleged-identity claim, and a plane sunk in the Pacific. The episode ends with a listener mail about a rehab hospital experience.",
+  "episode_kind": "rerun",
+  "rerun_of": "Why Can't We Find Amelia Earhart?",
+  "topics": [
+    "Amelia Earhart",
+    "Fred Noonan",
+    "Earhart disappearance",
+    "1937 round-the-world flight",
+    "Lockheed Electra",
+    "Howland Island",
+    "Gardner Island",
+    "Nikumaroro",
+    "TIGAR",
+    "Navy search and rescue 1937",
+    "Japanese capture theory",
+    "Tokyo Rose",
+    "Irene Craig Bolam",
+    "Earhart bones",
+    "Gerald Gallagher",
+    "castaway artifacts",
+    "ground penetrating radar",
+    "Pacific Ocean search",
+    "unsolved mysteries",
+    "SYSK Selects",
+    "rehab hospital listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Amelia Earhart",
+      "type": "person"
+    },
+    {
+      "name": "Fred Noonan",
+      "type": "person"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "type": "person"
+    },
+    {
+      "name": "Gerald Gallagher",
+      "type": "person"
+    },
+    {
+      "name": "Irene Craig Bolam",
+      "type": "person"
+    },
+    {
+      "name": "Howland Island",
+      "type": "place"
+    },
+    {
+      "name": "Gardner Island",
+      "type": "place"
+    },
+    {
+      "name": "Papua New Guinea",
+      "type": "place"
+    },
+    {
+      "name": "Lockheed Electra",
+      "type": "other"
+    },
+    {
+      "name": "USCGC Itasca",
+      "type": "other"
+    },
+    {
+      "name": "TIGAR",
+      "type": "organization"
+    },
+    {
+      "name": "Tokyo Rose",
+      "type": "other"
+    },
+    {
+      "name": "Nikumaroro",
+      "type": "place"
+    },
+    {
+      "name": "Scott (listener mail)",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Selects introduction and opening banter",
+      "summary": "Josh introduces the Selects episode, explaining it was chosen because of a recent photo purporting to show Earhart and Noonan after their disappearance. Hosts then trade light banter about Time Life books and the Greatest Mysteries of All Time list.",
+      "topics": [
+        "SYSK Selects",
+        "Time Life books",
+        "Greatest Mysteries of All Time"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Competing theories about Earhart's fate",
+      "summary": "The hosts describe the Japanese capture theory and the Tokyo Rose connection, and the alleged identity of Irene Craig Bolam, a claim that Earhart lived as a New Jersey housewife, which led to a lawsuit.",
+      "topics": [
+        "Japanese capture theory",
+        "Tokyo Rose",
+        "Irene Craig Bolam",
+        "alien abduction theory"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Fred Noonan and Earhart's background",
+      "summary": "Noonan is described as the navigator with a traditional look. Earhart's pacifism, women's rights advocacy, and honors such as the Flying Cross and the National Geographic award are discussed, along with her earlier record flights.",
+      "topics": [
+        "Fred Noonan",
+        "Amelia Earhart biography",
+        "Distinguished Flying Cross",
+        "pacifism"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "The 1937 equatorial round-the-world flight",
+      "summary": "The hosts explain the attempt to circumnavigate the globe along the equator and the Papua New Guinea departure. The Howland Island leg was the most dangerous, with a Coast Guard cutter Itasca and support ships stationed to help. Overcast weather blocked celestial navigation, and the last transmissions were received.",
+      "topics": [
+        "1937 round-the-world flight",
+        "Howland Island",
+        "Itasca",
+        "celestial navigation",
+        "final radio transmission"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Navy search and the Gardner Island lead",
+      "summary": "President Roosevelt ordered a massive multinational search covering about a quarter million square miles, which found nothing and drew criticism over cost. Later radio transmissions were heard near Gardner Island, prompting a destroyer dispatch, which also found nothing.",
+      "topics": [
+        "Navy search",
+        "Roosevelt",
+        "quarter million square miles search",
+        "Gardner Island radio transmissions"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Gardner Island artifacts and the bones",
+      "summary": "After British colonization of Gardner Island, settlers found evidence of a castaway, including shoes, a bottle, a sextant container, and human remains. Gerald Gallagher's physician took notes on the bones, which were later lost. Forensic anthropologists in the 1990s judged from the notes that the bones were a woman of Northern European ancestry about five foot seven. Other items such as cooking evidence and a knife blade were also found.",
+      "topics": [
+        "Gardner Island bones",
+        "Gerald Gallagher",
+        "castaway evidence",
+        "forensic anthropology",
+        "knife blade",
+        "Nikumaroro artifacts"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "TIGAR expeditions, DNA testing, and the plane in the ocean",
+      "summary": "TIGAR's expeditions found more items, including aluminum folk art and a knife, and submitted touch DNA samples for testing. The hosts discuss the possibility that the Electra survived largely intact on the ocean floor, and that ground penetrating radar found nothing conclusive.",
+      "topics": [
+        "TIGAR",
+        "touch DNA",
+        "ground penetrating radar",
+        "sonar search",
+        "Lockheed Electra wreckage"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Speculation on the castaway's final days and closing notes",
+      "summary": "The hosts speculate about how long Earhart survived on Gardner Island and what she might have left behind, then close the topic by noting that the show will not likely update the episode.",
+      "topics": [
+        "Earhart survival speculation",
+        "unsolved mysteries"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: rehab hospital experience from Scott",
+      "summary": "Scott describes being hospitalized in 2005 after burnout, including a seventy-two hour hold, eight days at a locked psychiatric unit, and a twenty-eight day program. He reports on his experiences and says he is doing well now.",
+      "topics": [
+        "listener mail",
+        "rehab hospital",
+        "psychiatric hold",
+        "addiction treatment"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off and contact information",
+      "summary": "The hosts invite listeners to send mail, share on Facebook and Twitter, and visit the Kiva and Coed links, and point to the HowStuffWorks site for more on Earhart.",
+      "topics": [
+        "contact information",
+        "Kiva",
+        "HowStuffWorks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10352,
+    "output_tokens": 2765
+  }
+}

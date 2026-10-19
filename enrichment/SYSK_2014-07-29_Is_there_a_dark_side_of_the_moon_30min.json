@@ -1,0 +1,213 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-07-29_Is_there_a_dark_side_of_the_moon_30min.txt",
+  "title": "Is there a dark side of the moon?",
+  "date": "2014-07-29",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-there-a-dark-side-of-the-moon",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6f144fda-3458-48a5-ade5-ae280095a76c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6f144fda-3458-48a5-ade5-ae280095a76c/transcript?format=TextWithTimestamps&t=1700543877",
+  "summary": "Hosts Josh and Chuck open with rambling banter about Dolly Parton, Dollywood and roller coasters, then explain the difference between the dark side and far side of the Moon. They cover why the Moon shows us only one face (its rotation matches its orbit, so it is tidally locked), the Earthshine glow and its recent measurement, the lunar day lasting about 29.5 Earth days, the Moon receding from Earth and Earth's day lengthening over billions of years, misconceptions about the phases of the Moon (new and full moon explained with the Earth/Sun/Moon geometry), the first images of the far side from Soviet Luna 3, the far side highlands problem and its proposed explanation of thicker crust, libration allowing glimpses of extra sky, the anthropic principle, and a sponsor read for Squarespace. The episode closes with a listener mail from eleven-year-old Ethan, who corrects an earlier episode on magnetism, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "dark side of the moon",
+    "far side of the moon",
+    "tidal locking",
+    "lunar rotation and orbit",
+    "phases of the moon",
+    "new moon and full moon explained",
+    "earthshine",
+    "lunar day length",
+    "moon recession from Earth",
+    "Earth day lengthening",
+    "Luna 3",
+    "far side highlands problem",
+    "lunar libration",
+    "anthropic principle",
+    "moon crust and lava maria",
+    "Sea of Tranquility",
+    "Dollywood",
+    "Squarespace sponsor",
+    "listener mail",
+    "electromagnetism correction"
+  ],
+  "entities": [
+    {
+      "name": "Dolly Parton",
+      "type": "person"
+    },
+    {
+      "name": "Dollywood",
+      "type": "place"
+    },
+    {
+      "name": "Jonathan Strickland",
+      "type": "person"
+    },
+    {
+      "name": "Luna 3",
+      "type": "other"
+    },
+    {
+      "name": "Sea of Tranquility",
+      "type": "place"
+    },
+    {
+      "name": "Moon",
+      "type": "place"
+    },
+    {
+      "name": "Squarespace",
+      "type": "organization"
+    },
+    {
+      "name": "Glastonbury",
+      "type": "event"
+    },
+    {
+      "name": "Tech Stuff",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck chat about Dolly Parton's Glastonbury performance, her fan base, and Dollywood, plus Chuck's dislike of roller coasters.",
+      "topics": [
+        "Dolly Parton",
+        "Dollywood",
+        "Glastonbury"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Dark side versus far side of the Moon",
+      "summary": "The hosts explain that the dark side and far side are not always the same thing, and that the Moon has a side we never see. They note the popular misuse of the term dark side.",
+      "topics": [
+        "dark side of the moon",
+        "far side of the moon",
+        "popular misconceptions"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Moonlight and Earthshine",
+      "summary": "Moonlight is reflected sunlight. Earthshine is light reflected from Earth onto the Moon, and radio telescopes have recently isolated it, revealing a dark turquoise-cobalt glow.",
+      "topics": [
+        "earthshine",
+        "moon glow",
+        "radio telescopes",
+        "moon color"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Why we only see one side of the Moon",
+      "summary": "The Moon rotates on its axis at the same rate it orbits Earth, so the same face always points toward us. A tennis-ball demonstration illustrates the idea. The lunar day lasts about 29.5 Earth days.",
+      "topics": [
+        "tidal locking",
+        "lunar rotation and orbit",
+        "lunar day length",
+        "near side of the moon"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Gravity, tides and the Moon receding",
+      "summary": "Earth's gravity locks the Moon in place and causes tidal bulges. The Moon is moving away from Earth by about an inch and a half per year. Over billions of years Earth's day lengthens, possibly to about forty current days, matching the lunar cycle.",
+      "topics": [
+        "tides",
+        "moon recession from Earth",
+        "Earth day lengthening",
+        "gravity"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Misconceptions about the phases of the Moon",
+      "summary": "The hosts explain that a new moon is not caused by Earth blocking sunlight; the Moon sits between Earth and the Sun. A full moon occurs when Earth is between the Sun and the Moon. A spotlight and person analogy illustrates this.",
+      "topics": [
+        "phases of the moon",
+        "new moon",
+        "full moon",
+        "moon misconceptions"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Far side exploration and the highlands problem",
+      "summary": "Soviet Luna 3 first photographed the far side, which looked very different, with few seas. This posed the lunar far side highlands problem, explained by a thicker far-side crust and lava flows on the near side from impacts.",
+      "topics": [
+        "Luna 3",
+        "far side of the moon images",
+        "far side highlands problem",
+        "Sea of Tranquility",
+        "lunar crust"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Libration and the anthropic principle",
+      "summary": "Because the Moon's orbit is elliptical, we can see extra slices of the near side, about eight degrees. The hosts discuss whether the Moon's rotation matching its orbit is a coincidence, and the anthropic principle.",
+      "topics": [
+        "lunar libration",
+        "anthropic principle",
+        "cosmic coincidence"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:29:00",
+      "kind": "ad",
+      "title": "Squarespace sponsor read",
+      "summary": "Sponsor read for Squarespace website builder with a fourteen-day trial and promo code.",
+      "topics": [
+        "Squarespace sponsor"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:29:50",
+      "kind": "listener_mail",
+      "title": "Listener mail from Ethan",
+      "summary": "Eleven-year-old Ethan writes in about the space race, sugar, movie ratings, and Monopoly, and corrects the Magnets episode: the force is electromagnetism.",
+      "topics": [
+        "listener mail",
+        "electromagnetism correction"
+      ]
+    },
+    {
+      "start": "00:29:50",
+      "end": "00:30:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to get in touch via Twitter, Facebook, email, and the website.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10576,
+    "output_tokens": 2415
+  }
+}

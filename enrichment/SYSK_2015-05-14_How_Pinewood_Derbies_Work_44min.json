@@ -1,0 +1,228 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-05-14_How_Pinewood_Derbies_Work_44min.txt",
+  "title": "How Pinewood Derbies Work",
+  "date": "2015-05-14",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-pinewood-derbies-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/74cd2355-1887-4efa-bfad-ae28008e5b2b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/74cd2355-1887-4efa-bfad-ae28008e5b2b/transcript?format=TextWithTimestamps&t=1700543859",
+  "summary": "Josh and Chuck explain the Pinewood Derby, the gravity-powered wooden toy car racing event for Cub Scouts and Boy Scouts. They cover its origin in Manhattan Beach, California in the early 1950s (Don Murphy, inspired by the soapbox derby), the rules (five ounce maximum weight, seven inch length, two and three quarter inch width, three eighths inch rail clearance, no motors or starting devices), design and speed tips (weight distribution toward the rear, baking the wood, straight polished axles, graphite, lighter wheels, rail riding with bent axles, a three-wheel setup), track design, and the problem of parents doing the building. The episode ends with listener mail about a producer's meeting with Alan Alda and a brief tangent on the hosts' own scouting experiences.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Pinewood Derby",
+    "Pinewood Derby history",
+    "Pinewood Derby rules",
+    "Cub Scouts",
+    "Boy Scouts",
+    "gravity racing",
+    "soapbox derby",
+    "Don Murphy",
+    "Manhattan Beach California",
+    "Pinewood Derby car design",
+    "rail riding",
+    "axle alignment",
+    "graphite lubricant",
+    "weight distribution",
+    "Pinewood Derby track",
+    "Pinewood Derby cheating",
+    "parent involvement in Pinewood Derby",
+    "Boys Life Magazine",
+    "Pinewood Derby speed tips",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Pinewood Derby",
+      "type": "event"
+    },
+    {
+      "name": "Cub Scouts",
+      "type": "organization"
+    },
+    {
+      "name": "Boy Scouts of America",
+      "type": "organization"
+    },
+    {
+      "name": "Don Murphy",
+      "type": "person"
+    },
+    {
+      "name": "Manhattan Beach, California",
+      "type": "place"
+    },
+    {
+      "name": "soapbox derby",
+      "type": "event"
+    },
+    {
+      "name": "Boys Life Magazine",
+      "type": "work"
+    },
+    {
+      "name": "Mark Rober",
+      "type": "person"
+    },
+    {
+      "name": "Griffith Park",
+      "type": "place"
+    },
+    {
+      "name": "Greg German",
+      "type": "person"
+    },
+    {
+      "name": "Alan Alda",
+      "type": "person"
+    },
+    {
+      "name": "Micro Wizard",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and scouting memories",
+      "summary": "The hosts plug their social channels and trade stories about their own Cub Scout and Boy Scout experiences, including Chuck quitting after a candy sale and Josh's brother's racing success.",
+      "topics": [
+        "Cub Scouts",
+        "Boy Scouts",
+        "childhood scouting memories"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "What a Pinewood Derby is",
+      "summary": "Introduction to the Pinewood Derby as a gravity racing event where identical wooden blocks are customized by scouts and parents. The hosts explain potential energy turning to kinetic energy at the start.",
+      "topics": [
+        "Pinewood Derby",
+        "gravity racing",
+        "potential energy",
+        "kinetic energy"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "History: Don Murphy and the first race in 1953",
+      "summary": "Don Murphy, a Cub Scout leader in Manhattan Beach, California, created the Pinewood Derby as a safer alternative to the soapbox derby for his sons. The first race used standard blocks, wheels and nail axles on a track of about thirty-one feet, with doorbell-based timing. Boys Life Magazine covered it, and the event grew into a national tradition.",
+      "topics": [
+        "Pinewood Derby history",
+        "Don Murphy",
+        "soapbox derby",
+        "Manhattan Beach California",
+        "Boys Life Magazine",
+        "Griffith Park championships"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Official rules and car dimensions",
+      "summary": "The rules: five ounce maximum weight, seven inch maximum length, two and three quarter inch maximum width, a clearance of three eighths of an inch, and gravity-only propulsion with no motors or starters. Cars ride a central rail. The hosts discuss aerodynamics versus weight and the trade-off between looks and speed.",
+      "topics": [
+        "Pinewood Derby rules",
+        "rail car",
+        "five ounce weight limit",
+        "Pinewood Derby aerodynamics",
+        "car dimensions"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Break before the tips section.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Buying kits, aftermarket parts and legal limits",
+      "summary": "Kits and aftermarket parts are available, but local leagues set different limits. Some aftermarket wheels appear identical to official ones but have had mass removed. Third-party car building is generally banned.",
+      "topics": [
+        "Pinewood Derby kits",
+        "aftermarket wheels",
+        "Pinewood Derby cheating",
+        "local league rules",
+        "parent involvement"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Track design and starting gate",
+      "summary": "The starting gate is about four feet high and the track runs roughly thirty-two to forty-five feet with two to six lanes. Officials usually place cars. Aluminum tracks like the Micro Wizard system have precise timers, while wooden tracks may require multiple runs per lane to average times.",
+      "topics": [
+        "Pinewood Derby track",
+        "starting gate",
+        "lanes",
+        "timing",
+        "Micro Wizard"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Speed tips: nose shape, weight placement, baking wood, and wheels",
+      "summary": "Tips from NASA engineer Mark Rober: keep a flat nose, place weight about an inch ahead of the rear axle (around thirty-six percent of speed effect), bake the wood at 250 degrees to remove moisture, and avoid a wheelie. Lighter wheels and a wider wheelbase are also recommended.",
+      "topics": [
+        "Pinewood Derby speed tips",
+        "Mark Rober",
+        "weight distribution",
+        "baking wood",
+        "wheelbase",
+        "lighter wheels"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Axle straightening, rail riding, graphite, and three-wheel cars",
+      "summary": "Straight, polished axles are checked by spinning them in a drill. Newer advice is rail riding with slightly bent axles so one wheel steers into the rail. Graphite adds about seven percent speed. Lifting one wheel off the track can add speed, but may be illegal in some leagues.",
+      "topics": [
+        "axle alignment",
+        "rail riding",
+        "graphite lubricant",
+        "three-wheel Pinewood Derby car",
+        "axle polishing"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Parent involvement, dad divisions and wrap-up",
+      "summary": "Hosts discuss parents building cars for kids and leagues' responses such as detailed build documentation, dad divisions, and car-building days. They note speeds of about twenty miles per hour that scale to around two hundred miles per hour for a full-sized car. The episode ends with a listener mail about Alan Alda.",
+      "topics": [
+        "parent involvement",
+        "dad divisions",
+        "car building days",
+        "Pinewood Derby scale speed",
+        "listener mail",
+        "Alan Alda"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15033,
+    "output_tokens": 2712
+  }
+}

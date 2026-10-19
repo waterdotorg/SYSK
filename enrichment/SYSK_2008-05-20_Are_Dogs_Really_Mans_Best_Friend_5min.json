@@ -1,0 +1,103 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-05-20_Are_Dogs_Really_Mans_Best_Friend_5min.txt",
+  "title": "Are Dogs Really Man's Best Friend?",
+  "date": "2008-05-20",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/are-dogs-really-mans-best-friend",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cde11c05-6fbb-4043-99d4-ae2800c45cd7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cde11c05-6fbb-4043-99d4-ae2800c45cd7/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "A short 2008 How Stuff Works podcast episode asking whether a dog is really man's best friend. The hosts use the story of Hachiko, the Akita-type dog who waited at Shibuya station in Tokyo for his deceased professor for years, to discuss canine loyalty and whether describing the dog as 'waiting patiently' anthropomorphizes it. They note studies suggesting dogs can display secondary emotions such as jealousy, shame, pride and guilt. The episode also includes a brief ad read for a camera and some office banter.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "dog loyalty",
+    "man's best friend",
+    "Hachiko",
+    "Hachi",
+    "Japanese Akita dog",
+    "anthropomorphism",
+    "animal emotions",
+    "dog secondary emotions",
+    "jealousy in dogs",
+    "dog guilt and shame",
+    "dog behavior",
+    "canine emotions",
+    "animal loyalty stories",
+    "Japanese dog story",
+    "dogs and humans"
+  ],
+  "entities": [
+    {
+      "name": "Hachiko",
+      "type": "other"
+    },
+    {
+      "name": "Tokyo",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Museum of Nature and Science in Tokyo",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "ad",
+      "title": "Opening ad and introduction",
+      "summary": "Camera sponsor read, then the editor introduces the topic of whether a dog is really man's best friend, using the story of Hachiko.",
+      "topics": [
+        "sponsor read",
+        "man's best friend"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:02:10",
+      "kind": "content",
+      "title": "Hachiko's story",
+      "summary": "The hosts recount Hachiko's life: he walked his professor to and from a Japanese university train station daily for about ten to twelve years. After the professor died at school, Hachiko kept returning to the station, was given to another family, repeatedly escaped to the station, and contracted mange and other diseases. He is now stuffed at the Museum of Nature and Science in Tokyo, and his bones were buried next to his owner.",
+      "topics": [
+        "Hachiko",
+        "loyalty",
+        "train station vigil",
+        "Museum of Nature and Science in Tokyo"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Debate over anthropomorphizing the dog",
+      "summary": "The hosts discuss whether writing that Hachiko 'waited patiently' anthropomorphizes him. They acknowledge the show aims for scientific accuracy but argue his continued waiting, despite illness and treats not being the reason, suggests loyalty. They cite studies showing dogs exhibit secondary emotions such as jealousy, shame, pride and guilt, and conclude the wording was a matter of erring on the side of caution.",
+      "topics": [
+        "anthropomorphism",
+        "dog emotions",
+        "scientific accuracy",
+        "secondary emotions"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to read the article and share feedback by email, followed by a repeated camera ad.",
+      "topics": [
+        "listener feedback",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3066,
+    "output_tokens": 1215
+  }
+}

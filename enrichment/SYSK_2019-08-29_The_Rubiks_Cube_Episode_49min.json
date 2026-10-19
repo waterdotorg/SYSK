@@ -1,0 +1,273 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-08-29_The_Rubiks_Cube_Episode_49min.txt",
+  "title": "The Rubik's Cube Episode",
+  "date": "2019-08-29",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-rubiks-cube-episode",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c1ccd7ef-0e8c-41ac-8059-ae2800470578/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c1ccd7ef-0e8c-41ac-8059-ae2800470578/transcript?format=TextWithTimestamps&t=1700543683",
+  "summary": "Josh and Chuck explore the Rubik's Cube: its invention by Hungarian architecture professor Ernő Rubik (originally the Bévüs kocka or \"magic cube\"), the Tibor Laczi deal that brought it to Ideal Toy Company at the Nuremberg Toy Fair, its 1980s craze and solution books, the cube's mechanics and the roughly 43 quintillion configurations, algorithms and the story of how Rubik solved his own puzzle, speed cubing and world championships (including the Red Bull sponsorship and the World Cube Association), God's number, the Larry Nichols and Molecular Research patent litigation, and Rubik's later life. The episode closes with listener mail correcting the pronunciation of \"Sanskrit\" and the coconut tree discussion from a previous episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Rubik's Cube",
+    "Ernő Rubik",
+    "Rubik's Cube history",
+    "speed cubing",
+    "Rubik's Cube World Championship",
+    "God's number",
+    "Rubik's Cube algorithms",
+    "Rubik's Cube patent lawsuit",
+    "Larry Nichols",
+    "Molecular Research Corporation",
+    "Tibor Laczi",
+    "Ideal Toy Company",
+    "Nuremberg Toy Fair",
+    "cubing mathematics group theory",
+    "cubist's thumb",
+    "Rubik's Cube solution books",
+    "Bűvös kocka magic cube",
+    "toy history 1980s",
+    "white cross method",
+    "Red Bull Rubik's Cube World Championship",
+    "World Cube Association",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Ernő Rubik",
+      "type": "person"
+    },
+    {
+      "name": "Tibor Laczi",
+      "type": "person"
+    },
+    {
+      "name": "Larry Nichols",
+      "type": "person"
+    },
+    {
+      "name": "Yu Shang Yu",
+      "type": "person"
+    },
+    {
+      "name": "James G. Nourse",
+      "type": "person"
+    },
+    {
+      "name": "Dan Gosby",
+      "type": "person"
+    },
+    {
+      "name": "Rubik's Cube",
+      "type": "work"
+    },
+    {
+      "name": "Ideal Toy Company",
+      "type": "organization"
+    },
+    {
+      "name": "Molecular Research Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "World Cube Association",
+      "type": "organization"
+    },
+    {
+      "name": "Red Bull",
+      "type": "organization"
+    },
+    {
+      "name": "Nuremberg Toy Fair",
+      "type": "event"
+    },
+    {
+      "name": "Rubik's Cube World Championship",
+      "type": "event"
+    },
+    {
+      "name": "The Simple Solution to Rubik's Cube",
+      "type": "work"
+    },
+    {
+      "name": "Rubik the Amazing Cube",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Rubik the Amazing Cube",
+      "summary": "Josh and Chuck open with a cartoon clip reference to Rubik the Amazing Cube, a Chicago show plug, and casual talk about the cube's popularity and their own experiences solving it.",
+      "topics": [
+        "Rubik the Amazing Cube",
+        "Rubik's Cube",
+        "hosts banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "What the Rubik's Cube is and its origins",
+      "summary": "The hosts describe the cube's structure of smaller cubies and its colored faces, note its National Toy Hall of Fame induction in 2014, and explain it was invented in 1974 by Hungarian architecture professor Ernő Rubik, originally called the Bűvös kocka (magic cube).",
+      "topics": [
+        "Rubik's Cube",
+        "Ernő Rubik",
+        "Bűvös kocka magic cube",
+        "National Toy Hall of Fame",
+        "cube design"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Tibor Laczi and the deal with Ideal Toy",
+      "summary": "The cube sold locally in Hungary before Tibor Laczi bought one from a restaurant waiter, met Rubik, and took it to toy fairs. At the Nuremberg Toy Fair he met people tied to Ideal Toy Company, which bought the global rights and renamed it the Rubik's Cube.",
+      "topics": [
+        "Tibor Laczi",
+        "Ideal Toy Company",
+        "Nuremberg Toy Fair",
+        "Rubik's Cube licensing",
+        "toy marketing"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "The 1980s craze, sales, and solution books",
+      "summary": "Sales reached hundreds of millions, awards followed, and solution books topped the New York Times bestseller list, including James G. Nourse's The Simple Solution to Rubik's Cube and a book by 12-year-old Patrick Bossert. The hosts also mention cubist's thumb, a tendonitis described in a medical journal.",
+      "topics": [
+        "Rubik's Cube craze",
+        "solution books",
+        "The Simple Solution to Rubik's Cube",
+        "cubist's thumb",
+        "New York Times bestseller",
+        "1980s toys"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "How Rubik designed the mechanism and solved his own puzzle",
+      "summary": "Rubik reportedly began the design as a model for a 3D design class, and the mechanical solution (a central sphere with arms and rotating pieces) came to him on the Danube. Coloring the cube made it a puzzle, and he took about a month to work out solution algorithms.",
+      "topics": [
+        "Rubik's Cube mechanism",
+        "Ernő Rubik design",
+        "algorithms",
+        "Rubik's Cube invention",
+        "puzzle design"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Configurations, algorithms, and notation",
+      "summary": "The hosts discuss the roughly 43 quintillion possible configurations, the single solved state, the use of algorithms and move notation from solution books, and why the puzzle is learnable through memorized sequences.",
+      "topics": [
+        "Rubik's Cube configurations",
+        "algorithms",
+        "move notation",
+        "cube math",
+        "solving methods",
+        "white cross method"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Speed cubing and world championships",
+      "summary": "Countries held national championships the year after the cube's release, followed by the first World Championship in Budapest. The hosts discuss speed records, the 2018 record of 3.47 seconds by Yu Shang Yu, the 2003 Toronto competition by Dan Gosby, and specialized speed cubes with magnets.",
+      "topics": [
+        "speed cubing",
+        "Rubik's Cube World Championship",
+        "speed records",
+        "speed cubes",
+        "Dan Gosby",
+        "Toronto competition",
+        "blindfolded solving"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Red Bull sponsorship and the World Cube Association",
+      "summary": "The hosts discuss corporate sponsorship of cubing events by Red Bull, the grassroots World Cube Association, and the renaming of the sponsored event as the World Cup to avoid conflict.",
+      "topics": [
+        "Red Bull Rubik's Cube World Championship",
+        "World Cube Association",
+        "cubing sponsorship",
+        "World Cup name change"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "God's number and the Devil's number",
+      "summary": "The hosts explain God's number, the maximum moves needed to solve any configuration, estimated around 20 using computer analysis, and mention the Devil's number concept for traversing all configurations.",
+      "topics": [
+        "God's number",
+        "Devil's number",
+        "cube mathematics",
+        "group theory",
+        "computer analysis"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Patent dispute with Larry Nichols",
+      "summary": "Larry Nichols held a 1972 US patent on a similar 2x2x2 cube and sued via Molecular Research Corporation. A court ruled for them, but an appeals court overturned it in 1986 and another upheld that in 1989. Frank Fox's 1974 patent had lapsed. Nichols reportedly said the settlement helped send his kids to Harvard.",
+      "topics": [
+        "Rubik's Cube patent",
+        "Larry Nichols",
+        "Molecular Research Corporation",
+        "patent litigation",
+        "Frank Fox"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Ernő Rubik today and related puzzles",
+      "summary": "Rubik is still alive, teaches architecture in Hungary, and runs foundations. The hosts mention larger cubes, the Snake, the S Cube, and the films Cube and The Pursuit of Happyness.",
+      "topics": [
+        "Ernő Rubik later life",
+        "Rubik's Cube variants",
+        "Pursuit of Happyness",
+        "Cube film"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Sanskrit pronunciation and coconut tree",
+      "summary": "A listener corrects the pronunciation of Sanskrit and adds context about the kalpavriksha coconut tree from a previous episode, and asks about pronunciation of non-Western words.",
+      "topics": [
+        "listener mail",
+        "Sanskrit pronunciation",
+        "coconut tree",
+        "kalpavriksha"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15964,
+    "output_tokens": 3325
+  }
+}

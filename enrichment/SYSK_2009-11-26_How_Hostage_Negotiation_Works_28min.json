@@ -1,0 +1,224 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-11-26_How_Hostage_Negotiation_Works_28min.txt",
+  "title": "How Hostage Negotiation Works",
+  "date": "2009-11-26",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-hostage-negotiation-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8c30f66a-c233-4880-930e-ae2800bb5556/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8c30f66a-c233-4880-930e-ae2800bb5556/transcript?format=TextWithTimestamps&t=1700543975",
+  "summary": "Josh and Chuck explain how hostage negotiation works, covering the phases of a hostage situation (initial assault, standoff/negotiation, resolution), negotiator tactics such as stalling, lessening demands, keeping hostage takers calm, and getting hostages to interact with takers. They discuss the Munich 1972 Olympics attack, the Stockholm syndrome origin in a 1973 bank robbery (the episode says 1981 Stockholm), the Dutch train hostage incident, Russian non-negotiation cases (2002 Moscow theater, 2004 Beslan school), the 1980 Prince's Gate siege in London, and the 1975 Kuala Lumpur US consulate siege. The episode closes with a Kiva lending team plug, blog mention, and sign-off. The episode also includes a short pre-show promo for a Punkin Chunkin TV show and a Camry ad.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "hostage negotiation",
+    "hostage situation phases",
+    "negotiation tactics",
+    "stalling hostage takers",
+    "Stockholm syndrome",
+    "Munich 1972 Olympics hostage crisis",
+    "Prince's Gate siege London",
+    "Kuala Lumpur US consulate hostage siege 1975",
+    "Russian hostage crisis non-negotiation policy",
+    "Moscow theater hostage crisis 2002",
+    "Beslan school siege 2004",
+    "Dutch train hostage crisis",
+    "domestic hostage situations",
+    "crisis negotiation",
+    "terrorism",
+    "Kiva micro lending"
+  ],
+  "entities": [
+    {
+      "name": "Munich Olympics hostage crisis",
+      "type": "event"
+    },
+    {
+      "name": "Stockholm syndrome",
+      "type": "other"
+    },
+    {
+      "name": "Prince's Gate siege",
+      "type": "event"
+    },
+    {
+      "name": "Kuala Lumpur US consulate siege",
+      "type": "event"
+    },
+    {
+      "name": "Moscow theater hostage crisis",
+      "type": "event"
+    },
+    {
+      "name": "Beslan school siege",
+      "type": "event"
+    },
+    {
+      "name": "Dutch train hostage crisis",
+      "type": "event"
+    },
+    {
+      "name": "Japanese Red Army",
+      "type": "organization"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Dog Day Afternoon",
+      "type": "work"
+    },
+    {
+      "name": "Inside Man",
+      "type": "work"
+    },
+    {
+      "name": "Munich",
+      "type": "work"
+    },
+    {
+      "name": "The Negotiator",
+      "type": "work"
+    },
+    {
+      "name": "Chechen separatists",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Punkin Chunkin promo",
+      "summary": "Josh and Chuck open with banter about a Punkin Chunkin TV special and movies about hostages, including Dog Day Afternoon and Inside Man, and set up the topic.",
+      "topics": [
+        "Punkin Chunkin",
+        "hostage movies",
+        "Dog Day Afternoon"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Why hostages are used and the Munich example",
+      "summary": "Hostage takers usually want something, and the real target is often a third party. Hostages are symbolic bargaining chips, illustrated by the 1972 Munich Olympics attack on Israeli athletes.",
+      "topics": [
+        "hostage takers motives",
+        "symbolic hostages",
+        "Munich 1972 Olympics hostage crisis"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Phases of a hostage situation",
+      "summary": "The initial violent phase, the longer standoff/negotiation phase with police involvement, and the resolution phase (surrender, assault, or granted demands). The Munich crisis ended in a bloodbath.",
+      "topics": [
+        "hostage situation phases",
+        "initial phase",
+        "standoff phase",
+        "resolution phase",
+        "Munich aftermath"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Why the negotiator is not the commander",
+      "summary": "The negotiator must focus on talking the hostage taker down, and separating the negotiator from command lets them stall by claiming they need approval from someone else.",
+      "topics": [
+        "negotiator role",
+        "stalling tactic",
+        "separating negotiator from commander"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Stalling with minute details and gathering information",
+      "summary": "Negotiators prolong situations by focusing takers on trivial details, and gather information about the taker's identity, number of takers, and mental state. Domestic disputes are the most common hostage scenario.",
+      "topics": [
+        "stalling",
+        "distraction tactics",
+        "intelligence gathering",
+        "domestic hostage situations"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Keeping hostages safe, calm, and interacting",
+      "summary": "Negotiators aim to lessen demands, keep hostages safe and reduce numbers, keep the situation calm, and have hostages perform tasks like fetching pizza so takers see them as human. A Dutch train hostage case shows the risk of this; the Baader-Meinhof group is mentioned as a source of early terrorism tactics.",
+      "topics": [
+        "lessening demands",
+        "keeping hostages calm",
+        "humanizing hostages",
+        "Dutch train hostage crisis",
+        "Baader-Meinhof"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Stockholm syndrome",
+      "summary": "Stockholm syndrome is described as hostages identifying with their captors, arising from a bank robbery standoff where hostages helped the robber; psychological causes include feeling powerless and relief after survival.",
+      "topics": [
+        "Stockholm syndrome",
+        "bank robbery hostage",
+        "psychology of hostages"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Non-negotiating countries and Russian sieges",
+      "summary": "The US, Russia, and Israel are described as non-negotiating; France negotiated and was targeted. Russia's 2002 Moscow theater and 2004 school sieges by Chechen separatists are discussed, with heavy hostage deaths.",
+      "topics": [
+        "non-negotiation policy",
+        "France hostage deals",
+        "Moscow theater siege 2002",
+        "Beslan school siege 2004",
+        "Chechen separatists"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Prince's Gate siege and Kuala Lumpur consulate",
+      "summary": "The 1980 Prince's Gate siege in London ended with an SAS assault after negotiators stalled; a 1975 Kuala Lumpur US consulate siege saw a junior officer end up negotiating directly.",
+      "topics": [
+        "Prince's Gate siege",
+        "SAS assault",
+        "Kuala Lumpur consulate siege 1975",
+        "secondary negotiator"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:30:00",
+      "kind": "outro",
+      "title": "Kiva plug and sign-off",
+      "summary": "Hosts plug the Stuff You Should Know Kiva lending team, mention the blog, listener email address, and close the episode with an ad.",
+      "topics": [
+        "Kiva micro lending",
+        "listener mail address",
+        "blog"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10633,
+    "output_tokens": 2604
+  }
+}

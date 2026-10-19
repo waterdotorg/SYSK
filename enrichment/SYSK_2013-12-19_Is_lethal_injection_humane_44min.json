@@ -1,0 +1,270 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-12-19_Is_lethal_injection_humane_44min.txt",
+  "title": "Is lethal injection humane?",
+  "date": "2013-12-19",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-lethal-injection-humane",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/797e8fe9-8e9a-4674-907e-ae28009bb7f5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/797e8fe9-8e9a-4674-907e-ae28009bb7f5/transcript?format=TextWithTimestamps&t=1700543891",
+  "summary": "Josh and Chuck examine lethal injection as the most common US execution method, covering its history from the nineteenth-century proposals and the 1972 Furman and 1976 Gregg rulings, the three-drug cocktail and its replacement by single-drug protocols (pentobarbital, propofol shortage), and the procedures on death row and death watch. They discuss last meals, execution witnesses and the public-execution history, executioners and medical ethics, botched executions and vein-finding problems, alternatives like inert gas asphyxiation and firing squads, and racial disparities in capital cases. The episode opens with news of Missouri's execution of Joseph Paul Franklin and Larry Flynt's opposition, and closes with a listener mail segment from Whitney in Utah.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "lethal injection",
+    "capital punishment",
+    "death penalty",
+    "execution methods",
+    "three-drug cocktail",
+    "pentobarbital",
+    "propofol shortage",
+    "execution drugs",
+    "death row",
+    "death watch",
+    "last meal",
+    "execution witnesses",
+    "public executions",
+    "reputable citizens",
+    "botched executions",
+    "executioners and medical ethics",
+    "inert gas asphyxiation",
+    "firing squad",
+    "electric chair",
+    "Eighth Amendment cruel and unusual punishment",
+    "Furman v. Georgia",
+    "Gregg v. Georgia",
+    "racial disparity death penalty",
+    "Joseph Paul Franklin execution",
+    "Stuff You Should Know listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Lethal injection",
+      "type": "other"
+    },
+    {
+      "name": "Joseph Paul Franklin",
+      "type": "person"
+    },
+    {
+      "name": "Larry Flynt",
+      "type": "person"
+    },
+    {
+      "name": "Julius Mount Bleyer",
+      "type": "person"
+    },
+    {
+      "name": "Rainey Bethea",
+      "type": "person"
+    },
+    {
+      "name": "Missouri",
+      "type": "place"
+    },
+    {
+      "name": "Texas",
+      "type": "place"
+    },
+    {
+      "name": "Georgia",
+      "type": "place"
+    },
+    {
+      "name": "Alabama",
+      "type": "place"
+    },
+    {
+      "name": "Illinois",
+      "type": "place"
+    },
+    {
+      "name": "Kentucky",
+      "type": "place"
+    },
+    {
+      "name": "Furman v. Georgia",
+      "type": "event"
+    },
+    {
+      "name": "Gregg v. Georgia",
+      "type": "event"
+    },
+    {
+      "name": "Pentobarbital",
+      "type": "other"
+    },
+    {
+      "name": "Propofol",
+      "type": "other"
+    },
+    {
+      "name": "Midazolam",
+      "type": "other"
+    },
+    {
+      "name": "American Medical Association",
+      "type": "organization"
+    },
+    {
+      "name": "Lapham's Quarterly",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter and Joseph Paul Franklin execution news",
+      "summary": "The hosts introduce the episode and discuss the recent Missouri execution of Joseph Paul Franklin, Larry Flynt's opposition to it, and the state's secrecy over its execution drug supplier.",
+      "topics": [
+        "Joseph Paul Franklin execution",
+        "Larry Flynt death penalty",
+        "Missouri execution",
+        "execution drug secrecy"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "History of lethal injection and abolition movements",
+      "summary": "The hosts trace abolition movements, the 1972 Furman ruling, the 1976 Gregg reversal, and how lethal injection was proposed in the nineteenth century and adopted in the US, with other countries following.",
+      "topics": [
+        "Furman v. Georgia",
+        "Gregg v. Georgia",
+        "Eighth Amendment cruel and unusual punishment",
+        "abolition movement",
+        "Julius Mount Bleyer",
+        "lethal injection history"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Death penalty statistics and death row",
+      "summary": "The hosts discuss the number of states with the death penalty, de facto abolition, global use of lethal injection, current death row population, and concentration of executions in a few counties.",
+      "topics": [
+        "death penalty statistics",
+        "de facto abolition",
+        "death row population",
+        "Texas executions",
+        "Alabama sentencing"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Death watch and last meals",
+      "summary": "The hosts describe death watch, the final days before execution, and the varying rules on last meals, including Arkansas inmate Verry Leaf Fairchild's comment and historic pre-execution drinking.",
+      "topics": [
+        "death watch",
+        "last meal",
+        "Lapham's Quarterly",
+        "pre-execution customs"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Witnesses and public execution history",
+      "summary": "The hosts explain who attends executions, the history of public hangings, the 1936 Kentucky execution of Rainey Bethea, and the reputable citizens program.",
+      "topics": [
+        "execution witnesses",
+        "public executions",
+        "Rainey Bethea",
+        "reputable citizens",
+        "execution viewing rooms"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Execution chamber procedures and drug cocktail",
+      "summary": "The hosts walk through the final steps: IV lines, the anti-room, executioners who do not know which line is live, and the original three-drug cocktail of anesthetic, paralytic and toxic agent.",
+      "topics": [
+        "execution procedure",
+        "IV lines",
+        "three-drug cocktail",
+        "anesthetic",
+        "paralytic agent",
+        "potassium chloride",
+        "execution machine"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Single-drug protocols and drug shortages",
+      "summary": "The hosts discuss the shift to single-drug executions using pentobarbital, the manufacturer's objections, propofol and the hospital shortage, compounding pharmacies, and midazolam.",
+      "topics": [
+        "pentobarbital",
+        "propofol",
+        "drug shortage",
+        "compounding pharmacies",
+        "midazolam",
+        "single-drug execution"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:36:45",
+      "kind": "content",
+      "title": "Pet euthanasia comparison",
+      "summary": "Chuck mentions that his family dog was recently put down and notes the similar drug sequence used, with a brief remark on the topic.",
+      "topics": [
+        "pet euthanasia",
+        "drug cocktail comparison"
+      ]
+    },
+    {
+      "start": "00:36:45",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Medical ethics, vein access, and alternative methods",
+      "summary": "The hosts discuss the timeline from order to death, difficulty finding veins, the role of medical personnel and the AMA's hippocratic oath concerns, inert gas asphyxiation, firing squads, the guillotine, and racial disparities in capital cases.",
+      "topics": [
+        "executioners and medical ethics",
+        "AMA",
+        "botched executions",
+        "inert gas asphyxiation",
+        "firing squad",
+        "guillotine",
+        "racial disparity death penalty"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:43:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Whitney",
+      "summary": "Whitney, a band teacher from Provo, Utah, writes about how the podcast helped her through a stressful year.",
+      "topics": [
+        "listener mail",
+        "Whitney Werner"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:44:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to get in touch through social media and email, and point to the website for more information.",
+      "topics": [
+        "show contact information",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14382,
+    "output_tokens": 2701
+  }
+}

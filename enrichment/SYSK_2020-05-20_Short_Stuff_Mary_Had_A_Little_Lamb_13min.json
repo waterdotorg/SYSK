@@ -1,0 +1,156 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-05-20_Short_Stuff_Mary_Had_A_Little_Lamb_13min.txt",
+  "title": "Short Stuff: Mary Had A Little Lamb",
+  "date": "2020-05-20",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-mary-had-a-little-lamb",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/04a6f5a1-30a8-4b2f-bedb-ae280035f196/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/04a6f5a1-30a8-4b2f-bedb-ae280035f196/transcript?format=TextWithTimestamps&t=1700543627",
+  "summary": "Short Stuff episode on the origins and controversy of the nursery rhyme \"Mary Had a Little Lamb.\" Sterling, Massachusetts claims the rhyme is based on Mary Sawyer's pet lamb, which followed her to the schoolhouse in 1815, and that young John Rollstone wrote the first verses. Newport, New Hampshire, instead credits Sarah Josepha Hale, who the hosts say wrote the poem. The hosts cover Hale's work as editor of Godey's Lady's Book, her collaboration with Lowell Mason on children's songs in Poems for Our Children, the melody's later British origin, the sworn statements from both women, and Henry Ford's role backing the Sawyer story and moving the schoolhouse to Sudbury. The episode ends unresolved.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Mary Had a Little Lamb",
+    "nursery rhyme origins",
+    "Mary Sawyer",
+    "John Rollstone",
+    "Sarah Josepha Hale",
+    "Sterling Massachusetts",
+    "Newport New Hampshire",
+    "Henry Ford",
+    "Lowell Mason",
+    "Godey's Lady's Book",
+    "Poems for Our Children",
+    "Sudbury Massachusetts",
+    "nursery rhyme controversy",
+    "authorship dispute",
+    "children's songs history",
+    "schoolhouse lamb story"
+  ],
+  "entities": [
+    {
+      "name": "Mary Had a Little Lamb",
+      "type": "work"
+    },
+    {
+      "name": "Mary Sawyer",
+      "type": "person"
+    },
+    {
+      "name": "John Rollstone",
+      "type": "person"
+    },
+    {
+      "name": "Sarah Josepha Hale",
+      "type": "person"
+    },
+    {
+      "name": "Lowell Mason",
+      "type": "person"
+    },
+    {
+      "name": "Henry Ford",
+      "type": "person"
+    },
+    {
+      "name": "Sterling, Massachusetts",
+      "type": "place"
+    },
+    {
+      "name": "Newport, New Hampshire",
+      "type": "place"
+    },
+    {
+      "name": "Sudbury, Massachusetts",
+      "type": "place"
+    },
+    {
+      "name": "Godey's Lady's Book",
+      "type": "work"
+    },
+    {
+      "name": "Poems for Our Children",
+      "type": "work"
+    },
+    {
+      "name": "The Story of Mary and her Little Lamb",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Introduction and the Sterling vs. Newport dispute",
+      "summary": "The hosts introduce the nursery rhyme and the rival claims. Sterling, Massachusetts credits Mary Sawyer's pet lamb, which came to school in 1815, and John Rollstone's poem. Newport, New Hampshire credits Sarah Josepha Hale.",
+      "topics": [
+        "Mary Had a Little Lamb",
+        "Mary Sawyer",
+        "John Rollstone",
+        "Sterling Massachusetts",
+        "Newport New Hampshire",
+        "Sarah Josepha Hale"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Sarah Josepha Hale and Lowell Mason",
+      "summary": "The hosts describe Hale's career, including editing Godey's Lady's Book, and her meeting with musician Lowell Mason in Boston. Together they set poems to music for children, and the first melody was not the familiar tune, which came from a later British song.",
+      "topics": [
+        "Sarah Josepha Hale",
+        "Lowell Mason",
+        "Godey's Lady's Book",
+        "Poems for Our Children",
+        "nursery rhyme melody"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Competing claims and sworn statements",
+      "summary": "Mary Sawyer said Hale's first three verses matched Rollstone's poem about her real experience. Hale denied this and said she invented the poem. Both women signed sworn statements affirming their accounts.",
+      "topics": [
+        "authorship dispute",
+        "Mary Sawyer",
+        "Sarah Josepha Hale",
+        "sworn statements",
+        "plagiarism claim"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Henry Ford and the Sawyer story",
+      "summary": "Henry Ford backed Mary Sawyer's account, bought the original schoolhouse frame, moved it to Sudbury where he owned an inn, and wrote a book, The Story of Mary and her Little Lamb. Newport still disputes his view.",
+      "topics": [
+        "Henry Ford",
+        "Sudbury Massachusetts",
+        "schoolhouse relocation",
+        "The Story of Mary and her Little Lamb"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Unresolved mystery and closing",
+      "summary": "The hosts note that the mystery is unresolved and read the ending of Hale's poem about kindness to animals. They close the episode.",
+      "topics": [
+        "Mary Had a Little Lamb",
+        "unresolved mystery",
+        "kindness to animals"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5281,
+    "output_tokens": 1796
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-01-08_How_the_Spanish_Flu_Worked_58min.txt",
+  "title": "How the Spanish Flu Worked",
+  "date": "2019-01-08",
+  "duration": "58 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-spanish-flu-worked",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/88959fbd-4b40-474d-ab81-ae2800543f63/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/88959fbd-4b40-474d-ab81-ae2800543f63/transcript?format=TextWithTimestamps&t=1700543712",
+  "summary": "Josh and Chuck open with tour dates and a note about the flu season, then explain the 1918 Spanish flu pandemic. They cover its origins in Haskell County, Kansas and Camp Funston, its spread to Europe via World War One troop movements (including Camp Taliaferro/Topoa mentioned as Topoa), and Dr. Loring Minor's early alarm. They discuss why it was misdiagnosed, the three waves (with the deadly fall 1918 second wave and October as the deadliest month), the unusual toll on healthy young adults and the cytokine storm theory, and the rapid progression of symptoms. They describe the Philadelphia Liberty Parade, the public health failures, the 1930s sample collection, and the 2000s resurrection of the virus from preserved lung tissue. They close with its legacy, Woodrow Wilson's illness and speculative link to the Treaty of Versailles, and the lack of lasting policy change. The back half is listener mail and administrative news: Christmas cards, gifts, pens, and thank-yous.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Spanish flu",
+    "1918 flu pandemic",
+    "influenza pandemic",
+    "H1N1",
+    "World War One and the flu",
+    "Camp Funston",
+    "Haskell County Kansas",
+    "Loring Minor",
+    "three waves of the flu",
+    "cytokine storm",
+    "Philadelphia Liberty Parade",
+    "Wilmer Krusen",
+    "Woodrow Wilson flu",
+    "flu virus resurrection",
+    "1918 flu legacy",
+    "flu history",
+    "pandemic history",
+    "Stanley Cup 1919 series not completed",
+    "virus discovery history",
+    "flu mortality in young adults"
+  ],
+  "entities": [
+    {
+      "name": "Spanish flu",
+      "type": "event"
+    },
+    {
+      "name": "Haskell County, Kansas",
+      "type": "place"
+    },
+    {
+      "name": "Camp Funston",
+      "type": "place"
+    },
+    {
+      "name": "Fort Riley",
+      "type": "place"
+    },
+    {
+      "name": "Loring Minor",
+      "type": "person"
+    },
+    {
+      "name": "John M. Barry",
+      "type": "person"
+    },
+    {
+      "name": "Wilmer Krusen",
+      "type": "person"
+    },
+    {
+      "name": "Woodrow Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Treaty of Versailles",
+      "type": "event"
+    },
+    {
+      "name": "Philadelphia",
+      "type": "place"
+    },
+    {
+      "name": "Brevig Mission, Alaska",
+      "type": "place"
+    },
+    {
+      "name": "Johan Hultin",
+      "type": "person"
+    },
+    {
+      "name": "The Great Influenza",
+      "type": "work"
+    },
+    {
+      "name": "Seattle Metropolitans",
+      "type": "organization"
+    },
+    {
+      "name": "Montreal Canadiens",
+      "type": "organization"
+    },
+    {
+      "name": "American Samoa",
+      "type": "place"
+    },
+    {
+      "name": "New Caledonia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:40",
+      "kind": "intro",
+      "title": "Opening banter and tour dates",
+      "summary": "Josh and Chuck open with live show dates in Seattle, Portland, and San Francisco, a note that Josh is under the weather, and a joke about face masks being largely ineffective against viruses.",
+      "topics": [
+        "Stuff You Should Know live shows",
+        "face masks and viruses",
+        "flu season"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Framing the 1918 pandemic and the 1919 Stanley Cup",
+      "summary": "The hosts frame the 1918 Spanish flu as one of the worst pandemics in history, with death toll estimates from twenty to fifty million or more. They mention the 1919 Stanley Cup series canceled after players from the Seattle Metropolitans and Montreal Canadiens fell ill, including one death, and how the flu differed from ordinary seasonal flu.",
+      "topics": [
+        "Spanish flu death toll",
+        "Stanley Cup series not completed",
+        "seasonal flu vs pandemic flu",
+        "flu age mortality curve"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Why it was called Spanish flu",
+      "summary": "The hosts explain that the name came from Spain being neutral in World War One and openly reporting on the flu, while the warring countries censored or downplayed it for morale. The flu touched nearly every corner of the globe, with American Samoa and New Caledonia among the places that successfully quarantined.",
+      "topics": [
+        "Spanish flu name origin",
+        "wartime censorship",
+        "World War One propaganda",
+        "pandemic reach"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Origins in Kansas and spread via troop movements",
+      "summary": "Historian John M. Barry's research traces the outbreak to Haskell County, Kansas in early 1918, with farm boys who fell sick being drafted to Camp Funston at Fort Riley. The first wave was mild and mostly confined to military camps, then the virus spread to Europe and returned to the US in a more lethal form via returning soldiers. Dr. Loring Minor's journal report was an early alarm.",
+      "topics": [
+        "Haskell County origin",
+        "Camp Funston",
+        "Fort Riley",
+        "Loring Minor",
+        "John M. Barry",
+        "troop movements and pandemics"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Misdiagnosis, viruses, and pneumonia",
+      "summary": "The hosts discuss why doctors were slow to identify the outbreak: it resembled bacterial pneumonia, earlier virus research relied on filterable agents and Chamberlain candles, and viruses could not be seen until the 1930s. Unusual symptoms such as bleeding from the ears added to the confusion.",
+      "topics": [
+        "filterable agents",
+        "early virus research",
+        "pneumonia deaths",
+        "misdiagnosis"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Later research and resurrecting the virus",
+      "summary": "Starting in the 1930s, scientists collected blood and tissue samples. In the 1990s Johan Hultin dug up a victim's lung tissue in Brevig Mission, Alaska, and the genome was later synthesized, and the virus was reconstructed. The hosts argue this step was a mistake.",
+      "topics": [
+        "Johan Hultin",
+        "Brevig Mission Alaska",
+        "flu virus reconstruction",
+        "1918 flu genome",
+        "H1N1 history"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Three waves and the deadly second wave",
+      "summary": "The first wave hit in spring 1918 with limited impact. The second wave in fall 1918 was far deadlier, with October the deadliest month in US history at about 195,000 deaths. The third wave came in early 1919, less widespread and more sporadic. Some immunity from the first wave may have helped people survive the second.",
+      "topics": [
+        "three waves of 1918 flu",
+        "October 1918 deaths",
+        "second wave",
+        "flu immunity"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Why it was so deadly: young adults, cytokine storms, symptoms",
+      "summary": "The hosts describe the high death rate among young adults aged 25 to 34, the cytokine storm theory, and how quickly victims died. Symptoms included heliotrope or mahogany-colored cheeks, blue skin, and nosebleeds, and people died within hours. Spread was helped by troops returning home and overwhelmed hospitals.",
+      "topics": [
+        "cytokine storm",
+        "young adult flu deaths",
+        "flu symptoms 1918",
+        "rapid flu death",
+        "heliotrope cyanosis"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Public health failures and Philadelphia Liberty Parade",
+      "summary": "The hosts describe how wartime morale and slow government reaction let the flu spread. Philadelphia health commissioner Wilmer Krusen allowed a Liberty Parade in September 1918 that drew about 200,000 people, and Philadelphia was hit harder than any other American city. The hosts discuss the effect on towns, people refusing to help the sick, and funerals being banned.",
+      "topics": [
+        "Philadelphia Liberty Parade",
+        "Wilmer Krusen",
+        "public health failures",
+        "public gatherings bans",
+        "wartime morale"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Legacy and Woodrow Wilson",
+      "summary": "The hosts discuss the pandemic's limited lasting policy impact and the long-running nicknames like the Spanish Lady and Blue Death. They cover Woodrow Wilson's 1919 illness and the speculative claim that it influenced his harsh reparations policy in the Treaty of Versailles.",
+      "topics": [
+        "Woodrow Wilson flu",
+        "Treaty of Versailles",
+        "flu legacy",
+        "public health policy",
+        "Spanish Lady",
+        "Blue Death"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:00:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close by encouraging listeners to search for more on the Spanish flu.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18437,
+    "output_tokens": 3256
+  }
+}

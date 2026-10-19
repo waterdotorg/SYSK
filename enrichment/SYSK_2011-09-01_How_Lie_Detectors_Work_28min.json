@@ -1,0 +1,258 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-09-01_How_Lie_Detectors_Work_28min.txt",
+  "title": "How Lie Detectors Work",
+  "date": "2011-09-01",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-lie-detectors-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/992b552d-33af-429b-a031-ae2800ade879/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/992b552d-33af-429b-a031-ae2800ade879/transcript?format=TextWithTimestamps&t=1700543936",
+  "summary": "Josh and Chuck explain how lie detectors (polygraphs) work, starting with the 1920s Berkeley case of Helen Graham and John Larson, and the early proponents like Leonard Keeler who marketed the device. They cover pre-history (Lombroso, Vittorio Benussi, James Mackenzie, the unigraph), the three measurements (respiration via pneumographs, cardiovascular changes via blood pressure cuff, and galvanic skin response via finger electrodes), the pretest, control and relevant questions, and forensic psychophysiologist training. They discuss scoring subjectivity, false positives and negatives (including Gary Ridgeway), legal admissibility (New Mexico, federal judges), the Employee Polygraph Protection Act, countermeasures, fMRI lie detection, and penile plethysmography. The episode ends with a listener mail segment from Brad with satirical suggestions for the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "lie detector",
+    "polygraph",
+    "how polygraphs work",
+    "polygraph history",
+    "Berkeley Police Department",
+    "John Larson",
+    "Leonard Keeler",
+    "William Marston",
+    "Helen Graham",
+    "galvanic skin response",
+    "pneumograph",
+    "forensic psychophysiologist",
+    "control question test",
+    "polygraph admissibility in court",
+    "Employee Polygraph Protection Act",
+    "false positive false negative polygraph",
+    "Gary Ridgeway",
+    "fMRI lie detection",
+    "penile plethysmography",
+    "polygraph countermeasures",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Polygraph",
+      "type": "other"
+    },
+    {
+      "name": "Lie detector",
+      "type": "other"
+    },
+    {
+      "name": "John Larson",
+      "type": "person"
+    },
+    {
+      "name": "Leonard Keeler",
+      "type": "person"
+    },
+    {
+      "name": "William Marston",
+      "type": "person"
+    },
+    {
+      "name": "Helen Graham",
+      "type": "person"
+    },
+    {
+      "name": "Gary Ridgeway",
+      "type": "person"
+    },
+    {
+      "name": "Cesare Lombroso",
+      "type": "person"
+    },
+    {
+      "name": "Vittorio Benussi",
+      "type": "person"
+    },
+    {
+      "name": "James Mackenzie",
+      "type": "person"
+    },
+    {
+      "name": "Berkeley Police Department",
+      "type": "organization"
+    },
+    {
+      "name": "University of California, Berkeley",
+      "type": "organization"
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "name": "Employee Polygraph Protection Act",
+      "type": "work"
+    },
+    {
+      "name": "Kevin Bondser",
+      "type": "person"
+    },
+    {
+      "name": "Stoelting",
+      "type": "organization"
+    },
+    {
+      "name": "Mr. Show",
+      "type": "work"
+    },
+    {
+      "name": "New Mexico",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and early polygraph history in Berkeley",
+      "summary": "Hosts open with banter about the 'you lie' Saturday Night Live skit, then tell the story of the 1920s Berkeley campus theft case in which John Larson used a cardio-pneumo-psychograph on suspect Helen Graham, who confessed. They note William Marston invented the device and Leonard Keeler marketed it.",
+      "topics": [
+        "Berkeley police polygraph case",
+        "John Larson",
+        "Helen Graham",
+        "William Marston",
+        "Leonard Keeler",
+        "placebo effect of lie detectors"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Prehistory of the polygraph",
+      "summary": "Early devices measuring blood pressure and breathing are described, including Cesare Lombroso, Vittorio Benussi, James Mackenzie's 1906 use of the term polygraph, and the unigraph. The hosts stress that polygraphs measure physiological changes and are not true lie detectors.",
+      "topics": [
+        "Cesare Lombroso",
+        "Vittorio Benussi",
+        "James Mackenzie",
+        "unigraph",
+        "polygraph history",
+        "polygraph is not a lie detector"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Components of a polygraph test",
+      "summary": "The three main measurements are explained: respiration via pneumograph tubes around the chest and abdomen, cardiovascular changes via a blood pressure cuff, and electrodermal activity (galvanic skin response) via finger electrodes measuring sweat-related conductivity. The shift from paper ink-pen readouts to digital transducers is noted.",
+      "topics": [
+        "pneumograph",
+        "blood pressure cuff polygraph",
+        "galvanic skin response",
+        "electrodermal activity",
+        "ink pen polygraph chart",
+        "polygraph sensors"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Subjectivity and forensic psychophysiologists",
+      "summary": "The hosts discuss criticism from the ACLU and others that polygraph data is subjective. They describe the 5,000 to 10,000 US examiners, the lack of licensing in many states, and the Académie training requirements (bachelor's degree or investigative experience, a ten-week course, and twenty-five reviewed exams) described by Kevin Bondser's interview with Bob Lee.",
+      "topics": [
+        "polygraph subjectivity",
+        "voodoo science",
+        "forensic psychophysiologist",
+        "polygraph examiner training",
+        "polygraph licensing",
+        "Academy polygraph training"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "How the polygraph test is conducted",
+      "summary": "The pretest interview is described, in which examiners profile the subject. The hosts explain control questions, relevant questions, and irrelevant questions, and how examiners compare responses to the control baseline to judge deception or inconclusive results.",
+      "topics": [
+        "polygraph pretest",
+        "control question",
+        "relevant and irrelevant questions",
+        "polygraph scoring",
+        "inconclusive polygraph result"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Countermeasures and legal admissibility",
+      "summary": "Popular countermeasures such as sedatives, antiperspirant, and tacks in the shoe are described. The hosts explain that polygraph results are generally inadmissible in court except in New Mexico, with federal judges deciding case by case.",
+      "topics": [
+        "polygraph countermeasures",
+        "polygraph beat tricks",
+        "polygraph admissibility in court",
+        "New Mexico polygraph law",
+        "federal judges polygraph"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Accuracy problems, employment use, and Gary Ridgeway",
+      "summary": "False positives and false negatives are defined. Gary Ridgeway, the Green River killer, is cited as passing a polygraph before killing more women. The federal government is described as the largest consumer of polygraph exams, and the Employee Polygraph Protection Act bars most private employers from requiring them.",
+      "topics": [
+        "false positive polygraph",
+        "false negative polygraph",
+        "Gary Ridgeway",
+        "Employee Polygraph Protection Act",
+        "federal government polygraph use",
+        "polygraph accuracy"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "fMRI lie detection and penile plethysmography",
+      "summary": "The hosts discuss using MRI to detect lies in the brain and its early state and ethical questions. They then describe penile plethysmography used on sex offenders and a study at UGA that used it to test homophobic men's arousal to gay pornography.",
+      "topics": [
+        "fMRI lie detection",
+        "brain-based lie detection",
+        "penile plethysmography",
+        "sex offender arousal testing",
+        "UGA homophobia study"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:27:00",
+      "kind": "ad",
+      "title": "Closing requests and promotions",
+      "summary": "Chuck jokes about taking a polygraph in the Atlanta area, and the hosts point listeners to the How Stuff Works site for lie detector animation. They invite listeners to offer polygraph access and promote the video podcast Stuff from the Future and a camera sponsor.",
+      "topics": [
+        "lie detector flash animation",
+        "listener contact",
+        "Stuff from the Future",
+        "sponsor read"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:28:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Brad",
+      "summary": "Brad's satirical suggestions for the show are read: nicknames, removing personal anecdotes, a memoir podcast, and layering listener mail over tribal drums and jungle noises.",
+      "topics": [
+        "listener mail",
+        "Brad suggestions"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9416,
+    "output_tokens": 3053
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-07-12_How_Radiation_Sickness_Works_47min.txt",
+  "title": "How Radiation Sickness Works",
+  "date": "2016-07-12",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-radiation-sickness-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bdd988ef-cc15-46ac-a43f-ae2800823bb1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bdd988ef-cc15-46ac-a43f-ae2800823bb1/transcript?format=TextWithTimestamps&t=1700543831",
+  "summary": "Josh and Chuck explain acute radiation sickness: how ionizing radiation (alpha, beta, gamma) damages atoms, molecules and cells; the difference between radiation and contamination; background dose and sievert thresholds; symptoms, latent period, and bone marrow and gut damage. They discuss treatments (decontamination, Prussian blue, DTPA, transfusions, transplants), dental X-ray habits, and historical cases: Hiroshima and Nagasaki, Chernobyl, the Demon core deaths (Harry Daghlian and Louis Slotin), and the Goiânia caesium-137 accident in Brazil. The episode ends with a listener email about physician suicide and the documentary Do No Harm.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "radiation sickness",
+    "acute radiation syndrome",
+    "ionizing radiation",
+    "alpha particles",
+    "beta particles",
+    "gamma rays",
+    "radiation vs contamination",
+    "sievert radiation dose",
+    "background radiation",
+    "radiation poisoning treatment",
+    "Prussian blue",
+    "DTPA chelation",
+    "bone marrow damage",
+    "Hiroshima and Nagasaki bombings",
+    "Chernobyl disaster",
+    "Demon core criticality accidents",
+    "Goiania caesium accident",
+    "X-ray exposure",
+    "dental X-rays",
+    "physician suicide",
+    "Do No Harm documentary"
+  ],
+  "entities": [
+    {
+      "name": "Radiation sickness",
+      "type": "other"
+    },
+    {
+      "name": "Hiroshima",
+      "type": "place"
+    },
+    {
+      "name": "Nagasaki",
+      "type": "place"
+    },
+    {
+      "name": "Chernobyl",
+      "type": "place"
+    },
+    {
+      "name": "Three Mile Island",
+      "type": "place"
+    },
+    {
+      "name": "Fukushima",
+      "type": "place"
+    },
+    {
+      "name": "Goiânia",
+      "type": "place"
+    },
+    {
+      "name": "Demon core",
+      "type": "other"
+    },
+    {
+      "name": "Harry Daghlian",
+      "type": "person"
+    },
+    {
+      "name": "Louis Slotin",
+      "type": "person"
+    },
+    {
+      "name": "Little Boy",
+      "type": "other"
+    },
+    {
+      "name": "Fat Man",
+      "type": "other"
+    },
+    {
+      "name": "Hiroshima Peace Memorial Museum",
+      "type": "place"
+    },
+    {
+      "name": "Do No Harm",
+      "type": "work"
+    },
+    {
+      "name": "Grossinger's",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts joke about the show's name and tangents, talk about Andy Kaufman and Sacha Baron Cohen, and lead into radiation sickness.",
+      "topics": [
+        "Andy Kaufman",
+        "show tangents"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Ionizing vs non-ionizing radiation",
+      "summary": "Sunlight, microwaves and cell phones are non-ionizing, so they do not cause radiation sickness. Radiation sickness requires a huge immediate dose of ionizing radiation, with symptoms such as vomiting, diarrhea and scarring.",
+      "topics": [
+        "ionizing radiation",
+        "radiation sickness definition",
+        "cell phone radiation",
+        "microwave radiation"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Alpha, beta and gamma particles",
+      "summary": "The three kinds of ionizing radiation are described. Alpha particles are stopped by clothing but are dangerous if inhaled or ingested, beta particles pass through clothing and can be blocked by solid objects, and gamma rays pass through most things. Ionization damages molecules and cells.",
+      "topics": [
+        "alpha particles",
+        "beta particles",
+        "gamma rays",
+        "ionization",
+        "free radicals",
+        "radon gas"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Radiation versus contamination and X-rays",
+      "summary": "Contamination means radioactive material is on or in the body and can spread to others. Irradiation, such as a chest X-ray, ends when the machine is turned off. The hosts discuss dental X-rays and upselling.",
+      "topics": [
+        "radiation vs contamination",
+        "X-ray exposure",
+        "dental X-rays",
+        "dentist upselling"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Sieverts, background dose and dose thresholds",
+      "summary": "The sievert measures dose. Average background exposure is about 3.6 millisieverts per year. Around 0.75 sieverts causes sickness, 3 sieverts needs medical attention, and about 10 sieverts is fatal. Survival odds depend on dose, exposed body part, and health.",
+      "topics": [
+        "sievert",
+        "background radiation",
+        "radiation dose thresholds",
+        "radiation mortality"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Symptoms, latent period and bone marrow damage",
+      "summary": "Symptoms include nausea, diarrhea, headache, fever, unconsciousness and burns. After a latent period, damage shows up as multi-organ failure, with bone marrow and gut lining especially vulnerable, leading to infection and anemia.",
+      "topics": [
+        "latent period",
+        "bone marrow",
+        "gut lining damage",
+        "immune system",
+        "acute radiation syndrome symptoms"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Hiroshima and Nagasaki bombings",
+      "summary": "Little Boy and Fat Man bombings are summarized, with only a few pounds of fuel undergoing fission in each, and the casualty estimates. The hosts recommend the Hiroshima Peace Memorial Museum.",
+      "topics": [
+        "Hiroshima bombing",
+        "Nagasaki bombing",
+        "Little Boy",
+        "Fat Man",
+        "atomic bomb"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Chernobyl disaster",
+      "summary": "The 1986 Chernobyl reactor explosion is described as preventable, caused by a reactor design flaw and a safety test that removed controls. Eight died immediately, contamination covered a large area, and about 7,000 thyroid cancer cases were recorded by 2005. The sarcophagus is mentioned, along with wildlife returning to the exclusion zone.",
+      "topics": [
+        "Chernobyl",
+        "reactor accident",
+        "exclusion zone",
+        "thyroid cancer",
+        "Chernobyl wildlife"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Demon core and Goiânia accidents",
+      "summary": "Harry Daghlian and Louis Slotin died after criticality accidents with the Demon core plutonium core. In Goiânia, Brazil, scavengers opened an abandoned radiotherapy unit, spread caesium-137 among people who handled it, and four people died.",
+      "topics": [
+        "Demon core",
+        "Harry Daghlian",
+        "Louis Slotin",
+        "criticality accident",
+        "Goiania accident",
+        "caesium-137"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:45:30",
+      "kind": "content",
+      "title": "Treatment for radiation exposure",
+      "summary": "Treatments include washing off contamination, Prussian blue for caesium and thallium, DTPA for plutonium, infection prevention, blood transfusions and bone marrow transplants.",
+      "topics": [
+        "radiation treatment",
+        "Prussian blue",
+        "DTPA",
+        "bone marrow transplant",
+        "decontamination"
+      ]
+    },
+    {
+      "start": "00:45:30",
+      "end": "00:46:30",
+      "kind": "content",
+      "title": "Abandoned places tangent",
+      "summary": "The hosts briefly discuss abandoned structures and the Grossinger's resort in New Jersey.",
+      "topics": [
+        "abandoned buildings",
+        "Grossinger's resort"
+      ]
+    },
+    {
+      "start": "00:46:30",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on physician suicide",
+      "summary": "A fourth-year medical student writes about suicide among doctors and medical students and promotes the documentary Do No Harm.",
+      "topics": [
+        "physician suicide",
+        "medical student stress",
+        "Do No Harm documentary"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode and point listeners to social media and the website.",
+      "topics": [
+        "podcast sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15246,
+    "output_tokens": 2994
+  }
+}

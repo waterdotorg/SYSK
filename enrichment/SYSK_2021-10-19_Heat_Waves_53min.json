@@ -1,0 +1,303 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-10-19_Heat_Waves_53min.txt",
+  "title": "Heat Waves!",
+  "date": "2021-10-19",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/heat-waves",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0a5fd549-7f33-49ea-a93a-ae2800066597/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a5fd549-7f33-49ea-a93a-ae2800066597/transcript?format=TextWithTimestamps&t=1700539653",
+  "summary": "Josh and Chuck explore heat waves: how they are defined (regionally, with a two-day, 90°F minimum cited for the US), how high pressure systems, a slowed jet stream, and lack of nighttime cooling create them, and why they are deadly and under-recognized as a natural disaster. They cover humidity, sweat, the heat index (R. G. Steadman, 1979), infrastructure and energy strain, drought feedback loops, wildlife and crops, air pollution, and notable heat waves including the 2003 European heat wave and the 2021 Pacific Northwest heat wave (Portland, Seattle, Lytton, British Columbia). They discuss attribution studies and rising heat wave frequency in US cities since the 1960s, plus mitigation such as cooling centers, cool roofs, and trees. Chuck shares a near heat stroke on the golf course. The episode closes with a listener mail item from the Merchant's House Museum in New York.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "heat waves",
+    "heat wave definition",
+    "high pressure system",
+    "jet stream",
+    "heat index",
+    "humidity and sweat",
+    "urban heat island effect",
+    "heat wave deaths",
+    "drought and heat",
+    "air pollution and heat",
+    "power grid strain during heat waves",
+    "Pacific Northwest heat wave 2021",
+    "2003 European heat wave",
+    "Lytton British Columbia wildfire",
+    "attribution studies climate change",
+    "heat wave frequency trends",
+    "cooling centers",
+    "cool roofs",
+    "R. G. Steadman",
+    "heat stroke",
+    "cold waves",
+    "Texas winter grid failure",
+    "listener mail",
+    "Merchant's House Museum"
+  ],
+  "entities": [
+    {
+      "name": "Pacific Northwest heat wave",
+      "type": "event"
+    },
+    {
+      "name": "2003 European heat wave",
+      "type": "event"
+    },
+    {
+      "name": "Lytton, British Columbia",
+      "type": "place"
+    },
+    {
+      "name": "Portland, Oregon",
+      "type": "place"
+    },
+    {
+      "name": "Seattle",
+      "type": "place"
+    },
+    {
+      "name": "Phoenix, Arizona",
+      "type": "place"
+    },
+    {
+      "name": "R. G. Steadman",
+      "type": "person"
+    },
+    {
+      "name": "Merchant's House Museum",
+      "type": "organization"
+    },
+    {
+      "name": "Texas winter grid failure",
+      "type": "event"
+    },
+    {
+      "name": "Cypress Hill",
+      "type": "work"
+    },
+    {
+      "name": "Martha and the Vandellas",
+      "type": "work"
+    },
+    {
+      "name": "Desert Survival episode",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Heat Wave song",
+      "summary": "Josh and Chuck open with banter about the Martha and the Vandellas song 'Heat Wave' and tease the episode topic.",
+      "topics": [
+        "Heat Wave song",
+        "Martha and the Vandellas"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Defining a heat wave",
+      "summary": "Heat waves are consecutive days with temperatures above the historical average, defined regionally. A two-day run of 90°F or higher counts as a heat wave in New Hampshire, and that is the minimum threshold cited for the US. Chuck describes his personal dislike of heat and humidity.",
+      "topics": [
+        "heat wave definition",
+        "regional temperature thresholds",
+        "heat wave personal experience"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Heat waves as a deadly natural disaster",
+      "summary": "Heat waves are described as a silent, deadly natural disaster that kills more people per year than other natural disasters, often slowly and without obvious cause.",
+      "topics": [
+        "heat wave deaths",
+        "silent natural disaster",
+        "heat wave as disaster"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "High pressure systems and the jet stream",
+      "summary": "A heat wave is a stagnant high pressure system of warm air that settles over a region. The jet stream normally moves weather along but slows in summer. High pressure pushes air downward, stopping breezes and rain, creating a feedback loop.",
+      "topics": [
+        "high pressure system",
+        "jet stream",
+        "stagnant air",
+        "feedback loop",
+        "surface air temperature"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Nighttime cooling and why heat waves are dangerous",
+      "summary": "The hosts explain that heat waves are most dangerous because nights fail to cool down, so the body and buildings start each day hotter, straining the heart.",
+      "topics": [
+        "nighttime cooling",
+        "heat stress",
+        "heart strain",
+        "vulnerable populations"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:25:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break with a short unrelated bit ahead of the humidity discussion.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Humidity, sweat and the heat index",
+      "summary": "High humidity stops sweat from evaporating and cooling the body. R. G. Steadman's 1979 paper introduced the heat index, also called apparent temperature, which reflects how hot the body feels.",
+      "topics": [
+        "humidity",
+        "sweat evaporation",
+        "heat index",
+        "apparent temperature",
+        "R. G. Steadman"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Health effects and infrastructure impacts",
+      "summary": "Elderly, children, low-income people, the homeless, and outdoor workers are most at risk. Railway tracks buckle, buildings and asphalt absorb heat, and urban heat islands intensify heat in cities like New York. Trees help cool the air.",
+      "topics": [
+        "vulnerable populations",
+        "urban heat island effect",
+        "railway buckling",
+        "trees and cooling",
+        "infrastructure heat damage"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Energy grid strain, cold waves and Texas",
+      "summary": "Air conditioning demand strains the electrical grid, which can cause blackouts during heat waves. Cold waves are the opposite. Texas's winter grid failure is mentioned as a parallel. Warmer winters will not balance out summer energy use.",
+      "topics": [
+        "power grid strain",
+        "blackouts",
+        "cold waves",
+        "Texas winter grid failure",
+        "energy demand"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Water, drought, wildfire, animals and crops",
+      "summary": "Heat waves increase water demand while drought reduces supply. Dry ground heats more. Drought landscapes are more prone to wildfire. Livestock, pets, and crops are also affected, and animal reproduction may decline.",
+      "topics": [
+        "drought and heat waves",
+        "water scarcity",
+        "wildfire risk",
+        "livestock heat stress",
+        "crop impacts"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Air pollution during heat waves",
+      "summary": "Power plants emit more during heat waves, and stagnant air traps pollution. Ozone and particulate matter form more readily, making breathing harder.",
+      "topics": [
+        "air pollution",
+        "ozone",
+        "particulate matter",
+        "emissions during heat waves"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Notable heat waves: 2021 Pacific Northwest and 2003 Europe",
+      "summary": "The June 2021 heat wave in the US and Canada hit Phoenix at 115°F for six days, Portland, Oregon at 112°F, Seattle at 104°F, and Lytton, British Columbia at 116°F, which then burned in a wildfire. A 2003 European heat wave killed an estimated 30,000 to 70,000 people, and historical temperatures were reconstructed using borehole data.",
+      "topics": [
+        "Pacific Northwest heat wave 2021",
+        "Lytton British Columbia",
+        "Portland Seattle heat",
+        "2003 European heat wave",
+        "borehole temperature reconstruction",
+        "Phoenix heat record"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Attribution studies and rising heat wave frequency",
+      "summary": "Attribution science estimates how climate change affects extreme events. The Pacific Northwest event would have been a roughly 1,000-year event under current climate and far rarer before 1880. Among 50 US cities, 46 saw heat waves increase since the 1960s, going from about two to six per year, with seasons 47 days longer.",
+      "topics": [
+        "attribution studies",
+        "climate change",
+        "heat wave frequency",
+        "National Weather Service study",
+        "statistical anomalies"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:05:00",
+      "kind": "content",
+      "title": "Coping and mitigation",
+      "summary": "Local governments can plan cooling centers, use cool roofs and green roofs, lighter building colors, more trees, and a more efficient grid. Heat advisories are a signal to take them seriously. Chuck recounts a heat-related near miss on the golf course.",
+      "topics": [
+        "cooling centers",
+        "cool roofs",
+        "green roofs",
+        "heat advisory",
+        "heat stroke",
+        "heat safety"
+      ]
+    },
+    {
+      "start": "01:05:00",
+      "end": "01:08:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Merchant's House Museum",
+      "summary": "A listener from the Merchant's House Museum in New York thanks the hosts for mentioning the museum in the Embalming episode. It is fighting a real estate developer building next to the 189-year-old house and asks for visitors, volunteers, and donors.",
+      "topics": [
+        "listener mail",
+        "Merchant's House Museum",
+        "historic preservation"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:08:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off and give listener contact information.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17341,
+    "output_tokens": 3533
+  }
+}

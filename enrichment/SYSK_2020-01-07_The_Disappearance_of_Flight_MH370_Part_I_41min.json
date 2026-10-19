@@ -1,0 +1,213 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-01-07_The_Disappearance_of_Flight_MH370_Part_I_41min.txt",
+  "title": "The Disappearance of Flight MH370, Part I",
+  "date": "2020-01-07",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-disappearance-of-flight-mh370-part-i",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/772ee707-5b3a-4bbb-b730-ae28003f3da9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/772ee707-5b3a-4bbb-b730-ae28003f3da9/transcript?format=TextWithTimestamps&t=1700543668",
+  "summary": "Hosts Josh Clark and Chuck Bryant begin a two-part look at the disappearance of Malaysia Airlines Flight MH370 in March 2014. They walk through the flight's departure from Kuala Lumpur, the handoff to Ho Chi Minh City air traffic control, the loss of the transponder, the Malaysian military's radar tracking of an unexplained turn, and how Inmarsat's satellite handshake pings were used to estimate arcs and the likely crash location in the southern Indian Ocean. They also discuss the Air France 447 crash as background, and the leading theory that someone on board deliberately disabled systems and the plane flew on until it ran out of fuel. Part two is teased for the crash-site search and alternative theories.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "MH370",
+    "Malaysia Airlines Flight 370",
+    "missing airliner",
+    "aviation mystery",
+    "Kuala Lumpur air traffic control",
+    "Ho Chi Minh air traffic control",
+    "transponder",
+    "primary radar",
+    "secondary radar",
+    "Inmarsat",
+    "satellite data unit",
+    "burst timing offset",
+    "burst frequency offset",
+    "Doppler effect",
+    "seventh arc",
+    "hypoxia",
+    "Air France Flight 447",
+    "emergency locator transmitter",
+    "airline forensics",
+    "2014 Boeing 777 disappearance",
+    "Southern Indian Ocean crash",
+    "aviation safety",
+    "in-flight tracking"
+  ],
+  "entities": [
+    {
+      "name": "Malaysia Airlines Flight 370",
+      "type": "event"
+    },
+    {
+      "name": "Malaysia Airlines",
+      "type": "organization"
+    },
+    {
+      "name": "Inmarsat",
+      "type": "organization"
+    },
+    {
+      "name": "Kuala Lumpur",
+      "type": "place"
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "type": "place"
+    },
+    {
+      "name": "Beijing",
+      "type": "place"
+    },
+    {
+      "name": "Perth",
+      "type": "place"
+    },
+    {
+      "name": "Air France Flight 447",
+      "type": "event"
+    },
+    {
+      "name": "William Langewiesche",
+      "type": "person"
+    },
+    {
+      "name": "Captain Zaharie Ahmad Shah",
+      "type": "person"
+    },
+    {
+      "name": "First Officer Fariq Abdul Hamid",
+      "type": "person"
+    },
+    {
+      "name": "Boeing 777-200ER",
+      "type": "other"
+    },
+    {
+      "name": "Malaysian Air Force",
+      "type": "organization"
+    },
+    {
+      "name": "Steve Fossett",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening and ad-like promo",
+      "summary": "Josh and Chuck open with tour dates and a promo, then introduce the episode on the missing Malaysia Airlines flight MH370 and credit researcher and William Langewiesche's Atlantic article.",
+      "topics": [
+        "Stuff You Should Know intro",
+        "MH370 introduction",
+        "William Langewiesche"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Departure from Kuala Lumpur",
+      "summary": "The hosts describe the Boeing 777-200ER flight from Kuala Lumpur to Beijing on March 8, 2014, its passenger and crew count, the 12:42 am takeoff, the climb to 35,000 feet, and the pilots' radio calls.",
+      "topics": [
+        "MH370 departure",
+        "Kuala Lumpur",
+        "Boeing 777",
+        "pilot radio transmissions",
+        "first officer training flight"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Handoff to Ho Chi Minh control and disappearance",
+      "summary": "The flight is handed off to Ho Chi Minh City air traffic control. Captain Zaharie's last words are 'good night Malaysian three seven zero', and the plane vanishes from radar. Ho Chi Minh City waits 18 minutes before calling Kuala Lumpur, well beyond the five-minute protocol.",
+      "topics": [
+        "air traffic control handoff",
+        "last radio transmission",
+        "Ho Chi Minh City delay",
+        "international protocol"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Short break before the discussion of radar systems.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Primary vs secondary radar and transponder loss",
+      "summary": "The hosts explain secondary radar and transponders, which send identity and altitude data, and primary radar. The transponder stopped just after the handoff, and places beyond radar coverage allow aircraft to disappear.",
+      "topics": [
+        "secondary radar",
+        "primary radar",
+        "transponder",
+        "radar coverage gaps",
+        "air traffic control technology"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Malaysian military radar tracks an unexplained turn",
+      "summary": "Malaysian Air Force primary radar tracked the plane for about an hour after it vanished from transponders. It turned sharply away from its planned route, crossed the Malay Peninsula, turned near Penang, and was last seen on radar near the Andaman Sea around 2 am. The military did not reveal this for a while.",
+      "topics": [
+        "Malaysian Air Force radar",
+        "flight path deviation",
+        "Penang turn",
+        "Andaman Sea",
+        "military cover-up concern"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Inmarsat satellite pings and the Air France 447 background",
+      "summary": "Inmarsat realized its satellite data unit on the plane had been pinging satellites for hours. The hosts describe handshake logins and reboot logins, the upgrades made after Air France 447 in 2009, and the Perth ground station data.",
+      "topics": [
+        "Inmarsat",
+        "satellite data unit",
+        "handshake pings",
+        "Air France 447",
+        "Perth ground station",
+        "satellite tracking over oceans"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Arcs, BTO and BFO analysis and the leading theory",
+      "summary": "Burst timing offset and burst frequency offset data produced seven arcs, with the last ping around 8:19 am and a final log-on request at 9:15 am. The hosts discuss the leading theory that someone on board deliberately disabled systems, possibly depressurized the cabin, and the plane flew until fuel ran out. They recap and close, previewing part two.",
+      "topics": [
+        "seventh arc",
+        "burst timing offset",
+        "burst frequency offset",
+        "Doppler effect",
+        "hypoxia ruled out",
+        "leading theory",
+        "auxiliary power unit",
+        "emergency locator transmitter",
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13562,
+    "output_tokens": 2405
+  }
+}

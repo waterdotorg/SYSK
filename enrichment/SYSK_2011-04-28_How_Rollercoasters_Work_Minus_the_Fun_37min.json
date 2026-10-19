@@ -1,0 +1,240 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-04-28_How_Rollercoasters_Work_Minus_the_Fun_37min.txt",
+  "title": "How Rollercoasters Work, Minus the Fun",
+  "date": "2011-04-28",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-rollercoasters-work-minus-the-fun",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c28838d1-06fc-4779-8e3a-ae2800b0664c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c28838d1-06fc-4779-8e3a-ae2800b0664c/transcript?format=TextWithTimestamps&t=1700543944",
+  "summary": "Josh Clark and Chuck Bryant explain how roller coasters work, starting with their origins in sixteenth-century Russian ice slides and the French wheeled coaster (Russian Mountains, 1817), then covering early American incline railways, the Great Depression slowdown, and the components of a coaster: chain lifts, linear induction motors, launch systems, and disc-style brakes. They compare wooden and steel track, describe suspended, inverted, flying, stand-up, and four-dimension coasters, and explain the physics of gravity, acceleration, potential and kinetic energy, weightlessness, and airtime. They discuss ride safety statistics from Tom Harris's HowStuffWorks article, a fatal 2011 Chicago incident involving a three-year-old, and records such as the tallest, fastest, and oldest coasters. The episode ends with listener mail about the crowdsourced Japan earthquake e-book \"Two Minutes and Forty Six Seconds,\" with proceeds going to the Japan Red Cross.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "roller coasters",
+    "how roller coasters work",
+    "roller coaster physics",
+    "potential energy",
+    "kinetic energy",
+    "acceleration and gravity",
+    "airtime",
+    "weightlessness",
+    "roller coaster history",
+    "Russian ice slides",
+    "Russian Mountains Belleville",
+    "wooden roller coasters",
+    "steel roller coasters",
+    "inverted coaster",
+    "suspended coaster",
+    "flying coaster",
+    "chain lift",
+    "linear induction motor",
+    "launch coaster",
+    "roller coaster brakes",
+    "roller coaster safety statistics",
+    "theme park injuries",
+    "tallest roller coaster",
+    "fastest roller coaster",
+    "oldest roller coaster",
+    "Japan earthquake e-book",
+    "Two Minutes and Forty Six Seconds"
+  ],
+  "entities": [
+    {
+      "name": "Tom Harris",
+      "type": "person"
+    },
+    {
+      "name": "Isaac Newton",
+      "type": "person"
+    },
+    {
+      "name": "Cedar Point",
+      "type": "place"
+    },
+    {
+      "name": "Son of the Beast",
+      "type": "other"
+    },
+    {
+      "name": "Millennium Force",
+      "type": "other"
+    },
+    {
+      "name": "Formula Rossa",
+      "type": "other"
+    },
+    {
+      "name": "Top Thrill Dragster",
+      "type": "other"
+    },
+    {
+      "name": "King Kong coaster",
+      "type": "other"
+    },
+    {
+      "name": "King Ka",
+      "type": "other"
+    },
+    {
+      "name": "Leap the Dips",
+      "type": "other"
+    },
+    {
+      "name": "Go Bananas",
+      "type": "place"
+    },
+    {
+      "name": "Mauch Chunk Switchback Railway",
+      "type": "other"
+    },
+    {
+      "name": "Kennywood Park",
+      "type": "place"
+    },
+    {
+      "name": "Coney Island",
+      "type": "place"
+    },
+    {
+      "name": "Russian Mountains",
+      "type": "other"
+    },
+    {
+      "name": "Two Minutes and Forty Six Seconds",
+      "type": "work"
+    },
+    {
+      "name": "Japan Red Cross",
+      "type": "organization"
+    },
+    {
+      "name": "Jason Jenkins",
+      "type": "person"
+    },
+    {
+      "name": "Dollywood",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter about roller coaster fears and experiences",
+      "summary": "The hosts trade personal stories about childhood roller coaster fears, Space Mountain, Cedar Point, and Six Flags, and set up the topic.",
+      "topics": [
+        "roller coaster fears",
+        "Cedar Point",
+        "Space Mountain"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History of roller coasters",
+      "summary": "Origins in sixteenth-century Russian ice slides, the French move to wheeled coasters with the Russian Mountains in 1817, the mid-1800s Pennsylvania Mauch Chunk railway, early amusement parks, and the slowdown during the Great Depression and World War Two.",
+      "topics": [
+        "roller coaster history",
+        "Russian ice slides",
+        "Russian Mountains Belleville",
+        "Mauch Chunk Switchback Railway",
+        "Pennsylvania amusement parks"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Lift systems and braking",
+      "summary": "Components that move the train: chain lifts with chain dogs, catapult launches using linear induction motors or spinning wheels, and disc-style brakes that clamp metal fins, with computer control.",
+      "topics": [
+        "chain lift",
+        "linear induction motor",
+        "launch coaster",
+        "roller coaster brakes"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Wooden versus steel track",
+      "summary": "Wooden coasters are limited by stiff planks and high maintenance, and are less precise; steel track allows inversions. Steel tubular track debuted in the 1950s with polyurethane or nylon wheels. Son of the Beast is noted as the tallest wooden coaster.",
+      "topics": [
+        "wooden roller coasters",
+        "steel roller coasters",
+        "tubular steel track",
+        "Son of the Beast"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Coaster car types",
+      "summary": "Suspended, inverted, flying, pipeline, stand-up, and bobsled-style coasters, and how the fourth-dimension design spins seats around the track.",
+      "topics": [
+        "suspended coaster",
+        "inverted coaster",
+        "flying coaster",
+        "pipeline coaster",
+        "stand-up coaster",
+        "fourth dimension coaster"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Physics of the ride: energy, gravity, acceleration, and sensations",
+      "summary": "Energy conversion between potential and kinetic energy on hills, Newton's first law, atmospheric weight and the sensation of gravity, opposing feelings from acceleration, weightlessness and airtime, and how organs react differently, plus visual cues and the body not feeling constant velocity.",
+      "topics": [
+        "potential energy",
+        "kinetic energy",
+        "Newton's first law",
+        "acceleration and gravity",
+        "weightlessness",
+        "airtime",
+        "visual cues on coasters"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Safety statistics and records",
+      "summary": "Injury statistics from Tom Harris's article, the Brain Injury Institute study on pre-existing conditions, the recent Go Bananas death of a three-year-old in Chicago, and records for tallest, fastest, steepest, largest woodie, and oldest coasters.",
+      "topics": [
+        "roller coaster safety",
+        "theme park injuries",
+        "Go Bananas Chicago",
+        "tallest coaster",
+        "fastest coaster",
+        "oldest coaster",
+        "King Ka",
+        "Formula Rossa"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Japan earthquake e-book",
+      "summary": "Listener Jason Jenkins describes the crowdsourced e-book Two Minutes and Forty Six Seconds, with proceeds going to the Japan Red Cross.",
+      "topics": [
+        "Japan earthquake e-book",
+        "Two Minutes and Forty Six Seconds",
+        "Japan Red Cross",
+        "crowdsourced publishing"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13207,
+    "output_tokens": 2585
+  }
+}

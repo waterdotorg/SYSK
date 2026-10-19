@@ -1,0 +1,288 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-03-28_The_First_Road_Trip_49min.txt",
+  "title": "The First Road Trip",
+  "date": "2023-03-28",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-first-road-trip",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/89cea908-fb83-4cbf-9306-afd300b435fa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/89cea908-fb83-4cbf-9306-afd300b435fa/transcript?format=TextWithTimestamps&t=1700557768",
+  "summary": "Josh and Chuck tell the story of the first cross-country automobile trip: Horatio Nelson Jackson and mechanic Sewell Crocker's 1903 drive from San Francisco to New York in a Winton touring car, with the dog Bud. They cover the poor state of American roads in 1900, earlier failed attempts (the Davis couple in 1899, Alexander Winton in 1901), the $1,500 wager at the University Club, the rival Packard and Oldsmobile sponsored trips, the route north through Oregon, breakdowns, the trip's arrival in Manhattan on July 26, 1903, and later events including Alice Ramsey's 1909 trip and Cannonball Baker's record. The episode also includes a segue-off-a-cliff tangent and a listener mail factoid about the Amazon's outflow.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "first cross-country car trip",
+    "Horatio Nelson Jackson",
+    "Sewell Crocker",
+    "Winton touring car",
+    "1903 transcontinental drive",
+    "early automobile history",
+    "Bud the bulldog mascot",
+    "pit bull mascot",
+    "early American roads",
+    "University Club wager",
+    "Packard cross-country trip 1903",
+    "Oldsmobile cross-country trip",
+    "Alexander Winton",
+    "Davis cross-country bicycle race 1899",
+    "Alice Ramsey",
+    "Cannonball Baker",
+    "Cannonball Run",
+    "Ken Burns Horatio's Drive",
+    "Smithsonian Vermont car",
+    "Segway cliff death legend",
+    "Amazon River outflow factoid"
+  ],
+  "entities": [
+    {
+      "name": "Horatio Nelson Jackson",
+      "type": "person"
+    },
+    {
+      "name": "Sewell Crocker",
+      "type": "person"
+    },
+    {
+      "name": "Bud",
+      "type": "other"
+    },
+    {
+      "name": "Winton touring car",
+      "type": "work"
+    },
+    {
+      "name": "Alexander Winton",
+      "type": "person"
+    },
+    {
+      "name": "Packard",
+      "type": "organization"
+    },
+    {
+      "name": "Oldsmobile",
+      "type": "organization"
+    },
+    {
+      "name": "National Motor Carriage Company",
+      "type": "organization"
+    },
+    {
+      "name": "Alice Ramsey",
+      "type": "person"
+    },
+    {
+      "name": "Irwin Cannonball Baker",
+      "type": "person"
+    },
+    {
+      "name": "Horatio's Drive",
+      "type": "work"
+    },
+    {
+      "name": "Smithsonian",
+      "type": "organization"
+    },
+    {
+      "name": "San Francisco",
+      "type": "place"
+    },
+    {
+      "name": "New York",
+      "type": "place"
+    },
+    {
+      "name": "Vermont",
+      "type": "place"
+    },
+    {
+      "name": "Oregon",
+      "type": "place"
+    },
+    {
+      "name": "Buffalo, New York",
+      "type": "place"
+    },
+    {
+      "name": "Cleveland",
+      "type": "place"
+    },
+    {
+      "name": "Caldwell, Idaho",
+      "type": "place"
+    },
+    {
+      "name": "Cannonball Run",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening and context",
+      "summary": "The hosts introduce the story of Horatio Nelson Jackson's first cross-country car trip, credit Ken Burns' documentary Horatio's Drive and Dayton Duncan's book, and describe the early 1900s context of rail travel, poor roads, few cars, and lack of maps.",
+      "topics": [
+        "first cross-country car trip",
+        "Horatio's Drive",
+        "early American roads",
+        "pre-GPS directions"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Early failed cross-country attempts",
+      "summary": "Car companies sponsored publicity drives. The Davis couple, sponsored by National Motor Carriage Company in 1899, lost a race to a one-armed bicyclist and dropped out after Chicago. Alexander Winton then tried in about 1901 and got stuck in a Nevada sand dune.",
+      "topics": [
+        "Davis cross-country bicycle race 1899",
+        "Alexander Winton",
+        "National Motor Carriage Company",
+        "car publicity stunts"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "The wager and choosing the car",
+      "summary": "Jackson bets about $1,500 at the University Club of San Francisco that he can drive to New York in under 90 days. Jackson, a former doctor with a wealthy wife Bertha, picks Sewell Crocker as mechanic and buys a used 1903 Winton touring car, which they name the Vermont.",
+      "topics": [
+        "University Club wager",
+        "Horatio Nelson Jackson",
+        "Sewell Crocker",
+        "Winton touring car",
+        "Bertha Richardson Wells"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "The open car and rival corporate teams",
+      "summary": "The hosts describe the open, unprotected Winton with about 20 horsepower and a 30 mph top speed. They contrast Jackson's self-funded trip with the sponsored Packard and Oldsmobile teams that had mechanics and pre-positioned gasoline.",
+      "topics": [
+        "Winton touring car specs",
+        "Packard cross-country trip 1903",
+        "Oldsmobile cross-country trip",
+        "gasoline supply early cars"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Gear, route choice, and the railroad rights-of-way",
+      "summary": "They pack camping gear, rope, a block and tackle, and guns, and lose items along the way. They choose to go west to east and route north through Oregon to avoid the Nevada desert, using railroad rights-of-way and bridges.",
+      "topics": [
+        "block and tackle",
+        "route through Oregon",
+        "railroad right-of-way driving",
+        "Nevada desert sand"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Departure, breakdowns, and mountain roads",
+      "summary": "They leave San Francisco on May 23, 1903, and blow tires early. Tires, tubes, and clutch failures are recurring problems, along with getting stuck and misdirected by locals. Crocker repeatedly repairs the clutch and they use the block and tackle to escape mud. The hosts explain what a clutch does.",
+      "topics": [
+        "tire blowouts 1903",
+        "clutch failure",
+        "misdirected directions",
+        "mountain driving breakdowns",
+        "clutch function"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Segue cliff legend tangent",
+      "summary": "After the break the hosts check a claim that a Segway rider drove off a cliff. BBC reports Jimmy Hezeldin, 62, died riding his company's Segways in West Yorkshire. They also briefly discuss a Fabio roller coaster meme they could not verify.",
+      "topics": [
+        "Segway cliff death",
+        "Jimmy Hezeldin",
+        "internet meme fact-checking"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:54:00",
+      "kind": "content",
+      "title": "Bud the dog and the trip's later stretch",
+      "summary": "In Caldwell, Idaho, Jackson and Crocker acquire a pit bull named Bud, who rides as mascot and is fitted with goggles; they paid $15 for him. Press coverage grows. After Wyoming and Omaha the roads improve, and they make about 70 miles in a day.",
+      "topics": [
+        "Bud pit bull mascot",
+        "Caldwell Idaho",
+        "press coverage",
+        "trip progress"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "01:01:00",
+      "kind": "content",
+      "title": "Cleveland, Buffalo wreck, and arrival in New York",
+      "summary": "In Cleveland Winton offers sponsorship, which Jackson declines. In Buffalo the car crashes into a hidden obstruction and the three are ejected, but nobody is hurt. They reach Manhattan on July 26, 1903, after 63 days, 12 hours and 30 minutes. Jackson never collects the wager.",
+      "topics": [
+        "Cleveland Winton factory",
+        "Buffalo crash",
+        "arrival in Manhattan",
+        "trip duration"
+      ]
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Aftermath and later records",
+      "summary": "Bud lived out his days on the Jackson farm in Vermont. Jackson later ran businesses, served in World War One, and ran for governor of Vermont. He donated the Vermont car to the Smithsonian. Crocker died young around 1913 after a Mexico assignment. Alice Ramsey made the first all-woman trip in 59 days in 1909, and Cannonball Baker's 1930s record led to the Cannonball Run.",
+      "topics": [
+        "Alice Ramsey",
+        "Cannonball Baker",
+        "Cannonball Run",
+        "Smithsonian Vermont car",
+        "Jackson later life"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:11:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Amazon factoid",
+      "summary": "Rich Pope writes in with a factoid: the volume of water leaving the Amazon's mouth equals that of Niagara, Victoria, and Iguazu Falls combined, multiplied by twelve.",
+      "topics": [
+        "Amazon River outflow",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "01:11:00",
+      "end": "01:11:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners and close the episode with the show's production credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16023,
+    "output_tokens": 3393
+  }
+}

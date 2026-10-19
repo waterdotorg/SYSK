@@ -1,0 +1,245 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-02-14_How_Zero_Works_30min.txt",
+  "title": "How Zero Works",
+  "date": "2012-02-14",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-zero-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f3dfe4ef-7ca9-462d-acf1-ae2800aa2b5c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f3dfe4ef-7ca9-462d-acf1-ae2800aa2b5c/transcript?format=TextWithTimestamps&t=1700543928",
+  "summary": "Josh and Chuck explore the history and mathematical oddities of zero. They trace its origins from Sumerian placeholder marks on clay tablets, through Babylonian positional notation, Roman numerals' lack of zero, its conception as a number in fifth-century India (attributed to Aryabhata, as Josh is corrected to \"discovered\" or \"created\"), its transmission to the West via Arabs and Fibonacci, independent Maya use for calendars, the missing year zero in the Gregorian calendar and Cassini's astronomical numbering, zero's role in the decimal system and fractions, its arithmetic properties (additive identity, additive inverse, multiplication, division by zero, zero exponent), and elevator floor numbering in countries once ruled by the Ottomans. The episode closes with a South by Southwest live show announcement and a listener mail about coffee and a coffee song.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "zero",
+    "history of zero",
+    "origin of zero",
+    "placeholder zero",
+    "Sumerian numerals",
+    "Babylonian numeral system",
+    "Indian mathematics zero",
+    "Aryabhata",
+    "Fibonacci",
+    "Arabic numerals",
+    "Maya zero",
+    "Roman numerals",
+    "Gregorian calendar year zero",
+    "millennium debate",
+    "Jacques Cassini",
+    "decimal system",
+    "properties of zero",
+    "division by zero",
+    "zero exponent",
+    "additive inverse",
+    "elevator floor numbering",
+    "Robert Kaplan The Nothing That Is",
+    "South by Southwest 2012",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Zero",
+      "type": "other"
+    },
+    {
+      "name": "Sumer",
+      "type": "place"
+    },
+    {
+      "name": "Babylonians",
+      "type": "organization"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "Aryabhata",
+      "type": "person"
+    },
+    {
+      "name": "Fibonacci",
+      "type": "person"
+    },
+    {
+      "name": "Maya",
+      "type": "organization"
+    },
+    {
+      "name": "Robert Kaplan",
+      "type": "person"
+    },
+    {
+      "name": "Jacques Cassini",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Hawking",
+      "type": "person"
+    },
+    {
+      "name": "Ottoman Turks",
+      "type": "organization"
+    },
+    {
+      "name": "South by Southwest",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and zero's many facets",
+      "summary": "Josh and Chuck introduce the episode as a non-math-heavy history of zero, joking about its many facets and its name across languages (nol, cero, zilch, sunya, sifr, zephyrum, zero).",
+      "topics": [
+        "zero",
+        "etymology of zero",
+        "zero name in languages"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Zero as placeholder in Sumerian and Babylonian numerals",
+      "summary": "The hosts describe Sumerian clay tablets using wedges and hooks as placeholders so that numbers like 3000 and 300 can be distinguished, and how the Babylonians' positional system made zero necessary. Kaplan's speculation about the origin of the heavy dot symbol is mentioned.",
+      "topics": [
+        "placeholder zero",
+        "Sumerian numerals",
+        "Babylonian numeral system",
+        "positional notation",
+        "Robert Kaplan The Nothing That Is"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Fear of zero and Roman numerals",
+      "summary": "Discussion of why zero was uneasy for some cultures, associated with void and chaos, and how the Romans lacked zero in their numeral system, with the word nulla used without a numeral symbol.",
+      "topics": [
+        "fear of zero",
+        "Roman numerals",
+        "nulla",
+        "zero and chaos"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Zero as a number in India and transmission to the West",
+      "summary": "Zero's conception as a number is attributed to fifth-century India, possibly to Aryabhata. Arab nations spread it, and Fibonacci, son of a customs officer in Algeria, learned Arabic numerals from Arabic tutors and introduced them to the West through his book.",
+      "topics": [
+        "Indian mathematics zero",
+        "Aryabhata",
+        "Fibonacci",
+        "Arabic numerals",
+        "Islamic mathematics"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Maya zero and calendar counting",
+      "summary": "The Maya independently used zero as a base for counting, mainly for their calendar, with day zero followed by one, two, three. The hosts note the Gregorian calendar has no year zero.",
+      "topics": [
+        "Maya zero",
+        "Maya calendar",
+        "Gregorian calendar",
+        "year zero",
+        "millennium debate"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Year zero, Cassini and the number line",
+      "summary": "Western astronomers, credited to Jacques Cassini, designated 1 BC as year zero, with negative and positive years on either side. Zero is described as the fulcrum between positive and negative numbers and as a whole integer.",
+      "topics": [
+        "year zero",
+        "Jacques Cassini",
+        "astronomical calendar",
+        "number line",
+        "negative numbers",
+        "integers"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Decimal system, fractions and precision",
+      "summary": "Zero enables the decimal system and fractions, allowing precise measurement such as machine parts and small quantities, which whole numbers alone could not do.",
+      "topics": [
+        "decimal system",
+        "fractions",
+        "decimal point",
+        "precision measurement",
+        "pi"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Properties of zero: addition, multiplication, division, exponents",
+      "summary": "The hosts cover the additive identity, additive inverses, multiplication by zero, why division by zero is undefined with the six divided by zero example, Stephen Hawking's joke about black holes, and the zero exponent equaling one.",
+      "topics": [
+        "properties of zero",
+        "additive identity",
+        "additive inverse",
+        "multiplication by zero",
+        "division by zero",
+        "zero exponent",
+        "Stephen Hawking joke"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Elevator floor numbering in formerly Ottoman lands",
+      "summary": "Elevators in Hungary and Spain, once ruled by the Ottoman Turks, label the ground floor zero with basements as negative numbers, cited as evidence of comfort with zero.",
+      "topics": [
+        "elevator floor numbering",
+        "Ottoman Turks",
+        "zero in Hungary and Spain"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:29:30",
+      "kind": "ad",
+      "title": "Show announcement: South by Southwest live show",
+      "summary": "Josh announces a live podcast at South by Southwest in Austin, Texas on March 11, 2012, plus a Monday party for non-badge holders.",
+      "topics": [
+        "South by Southwest 2012",
+        "live podcast",
+        "Austin Texas"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:30:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: coffee and the coffee song",
+      "summary": "Listener Ashley from Edmonton, Alberta writes about coffee blends at cafes and Starbucks, and sends a coffee song, which is played.",
+      "topics": [
+        "listener mail",
+        "coffee blends",
+        "Starbucks",
+        "coffee song"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10355,
+    "output_tokens": 2690
+  }
+}

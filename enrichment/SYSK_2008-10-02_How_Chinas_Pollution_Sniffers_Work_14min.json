@@ -1,0 +1,157 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-10-02_How_Chinas_Pollution_Sniffers_Work_14min.txt",
+  "title": "How China's Pollution Sniffers Work",
+  "date": "2008-10-02",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-chinas-pollution-sniffers-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ed47e8a4-c5c2-43b6-9bfd-ae2800c2b81d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ed47e8a4-c5c2-43b6-9bfd-ae2800c2b81d/transcript?format=TextWithTimestamps&t=1700544000",
+  "summary": "Josh and Chuck open with a study finding that air pollution, especially ultrafine particles, interferes with the heart's electrical activity, and note that heart patients are advised to avoid traffic. They move to China's pollution, citing a World Bank survey in which sixteen of the twenty most polluted cities were in China, and the Beijing Olympics mask controversy. The main topic is China's Guangdong province \"pollution sniffers,\" trained human smellers who identify pollutants such as sulfur and black carbon. The hosts question why people would be used instead of electronic sensors, contrast them with NASA's JPL \"enose\" device, which can detect ammonia leaks at about one part per million and distinguish Coke from Pepsi, and discuss smell and taste receptor theories (shape theory, lock-and-key theory) and how smell perception is learned through practice. The episode ends with a sign-off plugging HowStuffWorks.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "pollution sniffers",
+    "China air pollution",
+    "Guangdong province",
+    "air pollution and heart health",
+    "ultrafine particles",
+    "World Bank pollution survey",
+    "Beijing Olympics pollution masks",
+    "human sense of smell",
+    "olfactory training",
+    "electronic nose",
+    "NASA JPL enose",
+    "ammonia leak detection",
+    "space shuttle air monitoring",
+    "smell receptor theory",
+    "lock and key theory",
+    "taste and smell receptors",
+    "odor perception",
+    "sulfur dioxide",
+    "black carbon"
+  ],
+  "entities": [
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "Guangdong province",
+      "type": "place"
+    },
+    {
+      "name": "Beijing",
+      "type": "place"
+    },
+    {
+      "name": "World Bank",
+      "type": "organization"
+    },
+    {
+      "name": "Journal of the American Heart Association",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Jet Propulsion Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "enose",
+      "type": "other"
+    },
+    {
+      "name": "Beijing Olympics",
+      "type": "event"
+    },
+    {
+      "name": "Jellybelly",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and air pollution heart study",
+      "summary": "Hosts introduce the episode and discuss a study finding that air pollution interferes with heart electrical activity, and that heart patients are advised to avoid traffic.",
+      "topics": [
+        "air pollution and heart health",
+        "ultrafine particles",
+        "traffic pollution"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "China's pollution levels and the Beijing Olympics",
+      "summary": "Hosts say pollution is high across most of China, citing a World Bank survey where sixteen of the twenty most polluted cities were in China, and recall athletes wearing masks at the Beijing Olympics.",
+      "topics": [
+        "China air pollution",
+        "World Bank pollution survey",
+        "Beijing Olympics pollution masks"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Guangdong pollution sniffers and their training",
+      "summary": "Hosts describe a group in Guangdong province who sniff out air pollution after intensive training in a lab, smelling sulfur and noxious odors to identify pollutants such as sulfur and black carbon. Hosts note the training is unpleasant and the sniffers are recertified every three years.",
+      "topics": [
+        "pollution sniffers",
+        "Guangdong province",
+        "olfactory training",
+        "sulfur",
+        "black carbon"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Why use humans instead of electronic sensors",
+      "summary": "Hosts question why people are trained to sniff pollution when electronic sensors exist, noting humans can be harmed by the exposure. They discuss NASA's JPL enose, which detects ammonia leaks at about one part per million and can tell Coke from Pepsi.",
+      "topics": [
+        "electronic nose",
+        "NASA JPL enose",
+        "ammonia leak detection",
+        "space shuttle air monitoring"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "How smell and taste receptors work",
+      "summary": "Hosts discuss the shape-based receptor theory of smell and taste, the lock-and-key theory, and how molecules with identical shapes can smell different, which challenges those theories. They also discuss how combinations of receptors create flavors, with a Jelly Belly comparison.",
+      "topics": [
+        "smell receptor theory",
+        "lock and key theory",
+        "taste and smell receptors",
+        "odor perception"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:14:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close by promoting HowStuffWorks.com and inviting listener feedback.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5953,
+    "output_tokens": 1770
+  }
+}

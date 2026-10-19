@@ -1,0 +1,188 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-04-14_Short_Stuff_Palindromes_13min.txt",
+  "title": "Short Stuff: Palindromes",
+  "date": "2021-04-14",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-palindromes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bfb88832-bd6d-46ef-8e54-ae28001c9017/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bfb88832-bd6d-46ef-8e54-ae28001c9017/transcript?format=TextWithTimestamps&t=1700543594",
+  "summary": "Short Stuff episode on palindromes. Josh and Chuck discuss the meaning of the word palindrome (Greek roots), the first known Latin palindrome (\"Sator\" square phrase, dating to around 70 CE) and its Evil Dead connection, John Philipot's 1600s English mention in Camden's Remains, the 1706 \"Lewd did I live? And evil did I dwell?\" English palindrome, James A. Linden's palindrome poem \"Doppelganger\" built around \"night after night,\" the documentary The Palindromists and the Palindrome Championships, example palindromes from contestants, Peter Norvig's computer-generated long palindrome, the longest Finnish palindrome word, and a few playful examples. Josh dismisses numeric palindromes like 18008.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "palindromes",
+    "palindrome history",
+    "word play",
+    "Latin palindrome",
+    "Sator palindrome",
+    "Evil Dead Latin palindrome",
+    "Camden's Remains",
+    "John Philipot",
+    "Lewd did I live palindrome",
+    "New World of Words dictionary",
+    "Doppelganger poem",
+    "James A. Linden",
+    "night after night palindrome poem",
+    "The Palindromists documentary",
+    "Palindrome Championships",
+    "Danica McKellar palindrome",
+    "Weird Al palindrome",
+    "Peter Norvig computer palindrome",
+    "longest palindrome sentence",
+    "Finnish palindrome",
+    "longest palindrome word",
+    "number palindromes",
+    "taco cat palindrome",
+    "No lemon, no melon",
+    "palindrome etymology"
+  ],
+  "entities": [
+    {
+      "name": "Camden's Remains",
+      "type": "work"
+    },
+    {
+      "name": "John Philipot",
+      "type": "person"
+    },
+    {
+      "name": "New World of Words",
+      "type": "work"
+    },
+    {
+      "name": "James A. Linden",
+      "type": "person"
+    },
+    {
+      "name": "Doppelganger",
+      "type": "work"
+    },
+    {
+      "name": "The Palindromists",
+      "type": "work"
+    },
+    {
+      "name": "Palindrome Championships",
+      "type": "event"
+    },
+    {
+      "name": "Danica McKellar",
+      "type": "person"
+    },
+    {
+      "name": "Weird Al",
+      "type": "person"
+    },
+    {
+      "name": "Peter Norvig",
+      "type": "person"
+    },
+    {
+      "name": "Evil Dead",
+      "type": "work"
+    },
+    {
+      "name": "Bruce Campbell",
+      "type": "person"
+    },
+    {
+      "name": "Day the Earth Stood Still",
+      "type": "work"
+    },
+    {
+      "name": "Harry Potter",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and palindrome definition",
+      "summary": "Josh and Chuck banter about palindromes, dismiss number palindromes as not counting, and explain the Greek roots of the word palindrome (palin and dromos). They agree they prefer literal letter-based palindromes over word-order ones like night after night.",
+      "topics": [
+        "palindromes",
+        "palindrome etymology",
+        "number palindromes",
+        "word play"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "First Latin palindrome",
+      "summary": "The hosts discuss the Romans' use of palindromes and the first known one from around 70 CE, a Latin palindrome that Chuck reads aloud. They joke about its Evil Dead and Day the Earth Stood Still associations and translate it as roughly about a sower guiding a plow with his hands.",
+      "topics": [
+        "Latin palindrome",
+        "Sator palindrome",
+        "Evil Dead Latin palindrome",
+        "ancient Rome word play"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Early English palindromes",
+      "summary": "John Philipot's 1600s mention of palindromes in Camden's Remains, which includes Latin palindromes, is covered. The hosts then discuss the first English palindrome in the 1706 New World of Words dictionary, 'Lewd did I live? And evil did I dwell?', and its flaws.",
+      "topics": [
+        "Camden's Remains",
+        "John Philipot",
+        "Lewd did I live palindrome",
+        "New World of Words dictionary",
+        "early English palindromes"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Doppelganger palindrome poem",
+      "summary": "Josh describes James A. Linden's poem Doppelganger, which reads the same forward and backward by reversing the order of its lines around the phrase 'night after night', and reads a middle section aloud.",
+      "topics": [
+        "Doppelganger poem",
+        "James A. Linden",
+        "night after night palindrome poem",
+        "poetry palindromes"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "The Palindromists documentary and championships",
+      "summary": "The hosts discuss the documentary The Palindromists and the Palindrome Championships, where contestants write original palindromes in ninety minutes. They share examples such as Suzy rat in a sanitary zoo and Mr Owl ate my metal worm, and note Peter Norvig's computer-generated long palindrome and the longest Finnish palindrome word.",
+      "topics": [
+        "The Palindromists documentary",
+        "Palindrome Championships",
+        "Danica McKellar palindrome",
+        "Weird Al palindrome",
+        "Peter Norvig computer palindrome",
+        "longest palindrome sentence",
+        "Finnish palindrome",
+        "longest palindrome word"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Playful palindromes and sign-off",
+      "summary": "The hosts share a few more playful palindromes, including 'No lemon, no melon', and a joke about 'Penis sniper'. They wrap up the episode with a sign-off.",
+      "topics": [
+        "No lemon, no melon",
+        "taco cat palindrome",
+        "palindrome jokes",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5241,
+    "output_tokens": 2082
+  }
+}

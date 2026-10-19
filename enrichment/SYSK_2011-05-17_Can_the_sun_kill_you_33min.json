@@ -1,0 +1,210 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-05-17_Can_the_sun_kill_you_33min.txt",
+  "title": "Can the sun kill you?",
+  "date": "2011-05-17",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-the-sun-kill-you",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f25d22e-9117-4e8b-b7b4-ae2800b000b8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2f25d22e-9117-4e8b-b7b4-ae2800b000b8/transcript?format=TextWithTimestamps&t=1700543943",
+  "summary": "Josh and Chuck explain the many ways the Sun can kill you. They open with the 1972 Apollo 17 story, where a predicted megaflare (solar flare) struck months before the mission, and the Moon's lack of a magnetic field would have left astronauts exposed. They then cover heat stroke (stages of heat illness, body cooling failure, and a note on nuclear plant workers in Japan), skin cancer (UVA vs UVB, melanoma, the role of early-life sun exposure, cloudy-day UV, and SPF), and a possible sunscreen compound derived from broccoli and Brussels sprouts (I3C/DIM-type compound, described as I C S four). The main segment covers xeroderma pigmentosum (XP), a rare genetic condition with extreme UV sensitivity, Camp Sundown, the NASA-developed protective suit, and a newly identified enzyme (palmitoyl transferase-like, described as \"Palmer sita\") linked to UV-damaged DNA replication. The episode closes with listener mail: a follow-up from listener Dan, who moved from New Hampshire to Portland, Oregon, after leaving a high-stress job.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "can the sun kill you",
+    "solar flare",
+    "megaflare",
+    "Apollo 17",
+    "Moon magnetic field radiation",
+    "heat stroke",
+    "heat exhaustion",
+    "heat cramps",
+    "body temperature regulation",
+    "skin cancer",
+    "UVA vs UVB",
+    "melanoma",
+    "basal cell carcinoma",
+    "squamous cell carcinoma",
+    "sunscreen",
+    "SPF sun protection factor",
+    "broccoli sunscreen compound",
+    "Brussels sprouts",
+    "xeroderma pigmentosum",
+    "XP",
+    "Camp Sundown",
+    "NASA UV protective suit",
+    "DNA repair enzyme",
+    "stem cells",
+    "listener mail",
+    "gross national happiness follow-up",
+    "Portland Oregon"
+  ],
+  "entities": [
+    {
+      "name": "Apollo 17",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 16",
+      "type": "event"
+    },
+    {
+      "name": "Nixon",
+      "type": "person"
+    },
+    {
+      "name": "Sunshine",
+      "type": "work"
+    },
+    {
+      "name": "Danny Boyle",
+      "type": "person"
+    },
+    {
+      "name": "Camp Sundown",
+      "type": "organization"
+    },
+    {
+      "name": "XP Society",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "American Academy of Dermatology",
+      "type": "organization"
+    },
+    {
+      "name": "New York Times",
+      "type": "organization"
+    },
+    {
+      "name": "Xeroderma pigmentosum",
+      "type": "other"
+    },
+    {
+      "name": "Japan nuclear reactor site",
+      "type": "place"
+    },
+    {
+      "name": "Portland, Oregon",
+      "type": "place"
+    },
+    {
+      "name": "New Hampshire",
+      "type": "place"
+    },
+    {
+      "name": "Bhutan",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Apollo 17 megaflare story",
+      "summary": "The hosts joke about recording early and the previous Sun episode, then describe how a predicted 1972 solar megaflare threatened Apollo 17 astronauts on the Moon, which lacks a magnetic field. The flare hit months before the December 1972 launch.",
+      "topics": [
+        "solar flare",
+        "megaflare",
+        "Apollo 17",
+        "Moon magnetic field radiation",
+        "Earth magnetic field"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Heat stroke",
+      "summary": "The hosts explain heat stroke as the final stage after heat cramps and heat exhaustion. They describe how the body cools itself through sweating and blood flow near the skin, why infants and trapped people are at risk, symptoms that escalate, and heat-related danger for workers at the Japan nuclear site.",
+      "topics": [
+        "heat stroke",
+        "heat exhaustion",
+        "body temperature regulation",
+        "sweating",
+        "Japan nuclear reactor workers"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "UV rays and skin cancer",
+      "summary": "The hosts distinguish UVA, which penetrates to the dermis and damages DNA, from UVB, which burns but is blocked by window glass. They explain how UV damages elastin and melanocytes, the three main skin cancer types, melanoma as the dangerous one, and that much lifetime UV exposure occurs before age 18. Cloudy days still let UV through.",
+      "topics": [
+        "skin cancer",
+        "UVA vs UVB",
+        "melanoma",
+        "basal cell carcinoma",
+        "squamous cell carcinoma",
+        "UV exposure in childhood",
+        "cloudy day UV"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "SPF, sunscreen, and broccoli compound",
+      "summary": "The hosts explain SPF as a multiplier of how long protected skin takes to burn, recommend reapplying every two hours and after swimming or sweating, and note the American Academy of Dermatology's recommendation of SPF 30. They then mention a compound found in broccoli and Brussels sprouts that researchers want to add to sunscreen for better skin cancer protection.",
+      "topics": [
+        "SPF sun protection factor",
+        "sunscreen",
+        "reapplying sunscreen",
+        "broccoli sunscreen compound",
+        "Brussels sprouts",
+        "cancer prevention diet"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Xeroderma pigmentosum (XP)",
+      "summary": "The hosts describe xeroderma pigmentosum, a rare genetic condition where people are roughly a thousand times more likely to develop skin cancer, often by age ten, and can be harmed even by indoor light. They discuss Camp Sundown, where children stay up at night, a New York Times story of an infant with severe burns, and a newly identified enzyme that may help DNA replicate after UVA damage.",
+      "topics": [
+        "xeroderma pigmentosum",
+        "XP",
+        "Camp Sundown",
+        "genetic disorder UV sensitivity",
+        "DNA repair enzyme",
+        "stem cell therapy hope"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "NASA suit and XP resources",
+      "summary": "The hosts mention a NASA-developed suit, costing about two thousand dollars, that lets children with XP go outside in sunlight, and point listeners to the XP Society for information and support. They also note many XP sufferers go blind.",
+      "topics": [
+        "NASA UV protective suit",
+        "XP Society",
+        "XP support resources"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:33:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Dan follow-up",
+      "summary": "Listener Dan follows up on an earlier episode about happiness and money. He sold his New Hampshire house, quit his job, and moved to Portland, Oregon, with his wife and dog, and reports working fewer hours, saving more, and feeling happier. The hosts invite listeners to send transformation stories.",
+      "topics": [
+        "listener mail",
+        "life change story",
+        "downshifting",
+        "gross national happiness follow-up"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11854,
+    "output_tokens": 2465
+  }
+}

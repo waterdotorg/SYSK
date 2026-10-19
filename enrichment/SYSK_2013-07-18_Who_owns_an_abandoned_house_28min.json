@@ -1,0 +1,230 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-07-18_Who_owns_an_abandoned_house_28min.txt",
+  "title": "Who owns an abandoned house?",
+  "date": "2013-07-18",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/who-owns-an-abandoned-house",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3f1b31f3-9323-4c4d-828f-ae28009f117c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3f1b31f3-9323-4c4d-828f-ae28009f117c/transcript?format=TextWithTimestamps&t=1700543899",
+  "summary": "Josh and Chuck discuss abandoned houses in the wake of the mid-2000s housing bubble and foreclosure crisis. They cover foreclosure statistics by state and metro area (Florida, Nevada, Illinois, Ohio, Georgia), how foreclosure can drag on without a house being vacant, and how original owners may still legally own a foreclosed property after an auction nobody bids on. They describe the cycle of accruing back taxes, code enforcement tickets, and liens that makes owners walk away, plus Josh's neighbor's derelict house. They cover crime linked to vacant homes (a Queens, New York study, Detroit, and the broken windows theory with Times Square as an example), Detroit's demolition plans with federal funds, county land trusts for unclaimed properties, and a Dayton, Ohio woman who regained her foreclosed home after five years. The episode ends with a listener email about Pearl Jam, Soundgarden, and Nirvana.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "abandoned houses",
+    "vacant homes",
+    "foreclosure",
+    "foreclosure crisis",
+    "housing bubble",
+    "real estate bubble",
+    "foreclosure statistics",
+    "who owns an abandoned house",
+    "back taxes",
+    "code enforcement",
+    "land trusts",
+    "LLC liability",
+    "vacant property crime",
+    "broken windows theory",
+    "Detroit blight",
+    "Detroit demolition",
+    "property liens",
+    "house flipping",
+    "Queens foreclosure crime study",
+    "squatters",
+    "Pearl Jam Nirvana rivalry",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Detroit",
+      "type": "place"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Queens, New York",
+      "type": "place"
+    },
+    {
+      "name": "Times Square",
+      "type": "place"
+    },
+    {
+      "name": "Dayton, Ohio",
+      "type": "place"
+    },
+    {
+      "name": "Broken windows theory",
+      "type": "other"
+    },
+    {
+      "name": "George Kelling",
+      "type": "person"
+    },
+    {
+      "name": "James Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Rudy Giuliani",
+      "type": "person"
+    },
+    {
+      "name": "Rick Snyder",
+      "type": "person"
+    },
+    {
+      "name": "Mitt Romney",
+      "type": "person"
+    },
+    {
+      "name": "Pearl Jam",
+      "type": "organization"
+    },
+    {
+      "name": "Nirvana",
+      "type": "organization"
+    },
+    {
+      "name": "Soundgarden",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and the housing bubble setup",
+      "summary": "Josh and Chuck open with banter about Josh's two neighboring abandoned houses, then set the stage: the early-to-mid 2000s real estate bubble, speculative flipping, and the collapse that left many houses underwater and abandoned, especially in cities like Detroit.",
+      "topics": [
+        "housing bubble",
+        "house flipping",
+        "abandoned houses",
+        "LLC liability"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Foreclosure statistics",
+      "summary": "Josh gives foreclosure figures: 2.3 million homes foreclosed in 2012 versus about 2.4 million in 2000s comparison, a 2011 peak near 3.9 million. Florida leads states with one in 104 housing units in foreclosure, followed by Nevada, Illinois, Ohio, and Georgia. Florida metros also rank high.",
+      "topics": [
+        "foreclosure statistics",
+        "foreclosure rates by state",
+        "Florida foreclosures"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Detroit's vacant properties and the Silverdome",
+      "summary": "Detroit has a large share of empty homes, with about 36 percent of residential spaces described as vacant or abandoned. The hosts discuss the Pontiac Silverdome, built for about $55 million, sold in 2009 for about $583,000, and the buyer's plans to restore it.",
+      "topics": [
+        "Detroit blight",
+        "Detroit vacant homes",
+        "Silverdome"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Foreclosure stages and ownership limbo",
+      "summary": "Foreclosure can last years and stages differ, including a notice of intent to foreclose and courthouse auctions. Foreclosed does not mean vacant. If no bank bids at a sheriff's auction, the original owner may still legally own the house and not know it. Unpaid taxes make owners reluctant to claim these properties.",
+      "topics": [
+        "foreclosure process",
+        "sheriff's auction",
+        "property ownership",
+        "back taxes",
+        "hot potato properties"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Neighborhood derelict house and the vicious cycle",
+      "summary": "Josh describes the vacant house across from his home: overgrown, a broken rear wall, neighbor complaints, and code enforcement. Fines and assessments such as lawn-cutting, flooding, and pest problems add to the cost of gaining possession, which discourages owners from claiming it.",
+      "topics": [
+        "code enforcement",
+        "derelict houses",
+        "liens and assessments",
+        "neighborhood blight"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Vacant homes and crime, broken windows theory",
+      "summary": "A Queens study found neighborhoods with high foreclosure rates had 424 more burglaries, robberies, murders and auto thefts in 2008 than lower-foreclosure areas, an increase of 150 over two years. A similar percentage increase was reported in Detroit. The hosts discuss broken windows theory from Kelling and Wilson and its Times Square application under Giuliani, and question the evidence for it.",
+      "topics": [
+        "vacant property crime",
+        "Queens foreclosure crime study",
+        "broken windows theory",
+        "Times Square cleanup",
+        "squatters"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Options for vacant properties: code enforcement, land trusts, and Detroit demolition",
+      "summary": "The hosts describe county handling of abandoned houses, including inspections, tickets, and tracking owners, and LLC dissolution complications. Some counties create land trusts funded by a share of back taxes. Detroit plans to use about $100 million in unused federal anti-foreclosure funds to demolish about 4,000 structures, and a separate effort aims to demolish 10,000 abandoned houses. A Dayton, Ohio woman regained her foreclosed house after five years.",
+      "topics": [
+        "land trusts",
+        "Detroit demolition",
+        "Rick Snyder blight funding",
+        "Dayton foreclosure reversal",
+        "county property management"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "ad",
+      "title": "Message break",
+      "summary": "Ad break between segments.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:38:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Grunge beef",
+      "summary": "A listener named Paul Hilt from Waukesha, Wisconsin writes that Pearl Jam and Soundgarden members have a friendly relationship, citing Temple of the Dog, Matt Cameron, and Mad Season. He notes Nirvana and Pearl Jam had a rivalry driven by Kurt Cobain's jabs. The hosts thank him and recommend the documentary Pearl Jam Twenty.",
+      "topics": [
+        "Pearl Jam",
+        "Soundgarden",
+        "Nirvana",
+        "Temple of the Dog",
+        "Mad Season",
+        "grunge rivalry"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:40:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck wrap up, invite listener mail through social media and email, and mention the website and a Hulu Plus sponsor message.",
+      "topics": [
+        "sign-off",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10420,
+    "output_tokens": 2844
+  }
+}

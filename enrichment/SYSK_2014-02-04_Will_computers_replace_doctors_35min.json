@@ -1,0 +1,207 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-02-04_Will_computers_replace_doctors_35min.txt",
+  "title": "Will computers replace doctors?",
+  "date": "2014-02-04",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/will-computers-replace-doctors",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6d165c39-6118-4c3a-80e3-ae28009ad8a8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6d165c39-6118-4c3a-80e3-ae28009ad8a8/transcript?format=TextWithTimestamps&t=1700543889",
+  "summary": "Josh and Chuck discuss whether computers will replace doctors. They cover consumer health-tracking wearables and apps, the bedside manner of diagnostic avatars (including a 2011 World Science Festival kiosk that handled a baby's diarrhea), IBM's Watson and its diagnosis versus treatment roles, the DXplain and Isabel diagnostic programs, the case of diagnostician Dr. Dolly Wall, intuition versus data, misdiagnosis statistics, robotic surgery (da Vinci, fully autonomous surgery, under-reporting of injuries), and smartphone-based self-diagnostic gadgets and proteomics. They conclude humans will still be needed, though computers will assist. The episode ends with a listener mail about weeds and the Scott Fertilizer Company, and an outro with contact information and an ad read.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "computers replacing doctors",
+    "artificial intelligence in medicine",
+    "IBM Watson",
+    "diagnostic computers",
+    "medical diagnosis software",
+    "Isabel diagnostic program",
+    "DXplain",
+    "Dolly Wall diagnostician",
+    "intuition vs data in medicine",
+    "misdiagnosis rates",
+    "robotic surgery",
+    "da Vinci surgical robot",
+    "autonomous surgery",
+    "FDA surgical injury reporting",
+    "bedside manner",
+    "avatar doctors",
+    "wearable health trackers",
+    "self-diagnosis smartphone devices",
+    "proteomics",
+    "future of medicine",
+    "listener mail",
+    "weeds and lawn history"
+  ],
+  "entities": [
+    {
+      "name": "IBM Watson",
+      "type": "other"
+    },
+    {
+      "name": "Isabel",
+      "type": "other"
+    },
+    {
+      "name": "da Vinci surgical robot",
+      "type": "other"
+    },
+    {
+      "name": "Dolly Wall",
+      "type": "person"
+    },
+    {
+      "name": "Kent Bottles",
+      "type": "person"
+    },
+    {
+      "name": "Farhad Manjoo",
+      "type": "person"
+    },
+    {
+      "name": "Atul Gawande",
+      "type": "person"
+    },
+    {
+      "name": "Enrico Benedetti",
+      "type": "person"
+    },
+    {
+      "name": "Sheina Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Joe McCormick",
+      "type": "person"
+    },
+    {
+      "name": "Johns Hopkins",
+      "type": "organization"
+    },
+    {
+      "name": "Massachusetts General Hospital",
+      "type": "organization"
+    },
+    {
+      "name": "University of Pittsburgh",
+      "type": "organization"
+    },
+    {
+      "name": "Fitbit",
+      "type": "other"
+    },
+    {
+      "name": "Scott Fertilizer Company",
+      "type": "organization"
+    },
+    {
+      "name": "Intuitive Surgical",
+      "type": "organization"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and wearable health trackers",
+      "summary": "Josh and Chuck open the episode after the holidays and discuss consumer health-tracking devices like Fitbit, Nike Fuelband and Jawbone, plus sites and apps for self-advocacy and informed patients.",
+      "topics": [
+        "wearable health trackers",
+        "Fitbit",
+        "self-advocacy health information",
+        "informed patients"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Will computers replace doctors? Opinions",
+      "summary": "The hosts introduce the debate over whether physicians will be replaced. Dr. Kent Bottles foresees diagnostic computers replacing GPs, Farhad Manjoo argues specialists are more vulnerable, and Dr. Ashwin (Atul Gawande-style commentary) notes nurses already do the human interface role.",
+      "topics": [
+        "computers replacing doctors",
+        "future of medicine",
+        "general practitioners"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Bedside manner and avatars",
+      "summary": "The hosts discuss whether computers can offer good bedside manner, citing a 2011 World Science Festival kiosk avatar that handled a baby's diarrhea and a study finding anxiety patients disclosed more to avatars.",
+      "topics": [
+        "bedside manner",
+        "avatar doctors",
+        "synthetic empathy",
+        "medical kiosk"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Personal care and medical history",
+      "summary": "They note that personal, longtime family-doctor care has declined and that intimate knowledge of patients' medical histories has been largely lost in modern practice, an area computers could conceivably do better.",
+      "topics": [
+        "personal care",
+        "medical history",
+        "family doctor"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Diagnostic software history and IBM Watson",
+      "summary": "The hosts trace diagnostic software from the University of Pittsburgh in the 1970s and Massachusetts General's DXplain system, then describe Watson's strengths with natural language and its potential to combine records, research and tests into ranked diagnoses.",
+      "topics": [
+        "diagnostic software",
+        "IBM Watson",
+        "natural language processing",
+        "DXplain",
+        "University of Pittsburgh diagnostic software"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Doctors' time limits, Dolly Wall and intuition",
+      "summary": "They discuss physicians' limited reading time, the habits and forgetting that come with practice, and diagnostician Dr. Dolly Wall, who uses the Isabel program and says it has never offered a diagnosis he missed. The debate of intuition versus data is raised, with the claim that only a portion of physician knowledge is evidence based.",
+      "topics": [
+        "Dolly Wall",
+        "Isabel diagnostic program",
+        "intuition vs data",
+        "physician continuing education",
+        "evidence-based medicine"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Misdiagnosis statistics and the Isabel story",
+      "summary": "A statistic says one in five US diagnoses are incorrect or incomplete. Johns Hopkins research estimates up to 40,000 ICU deaths yearly from misdiagnosis, with premature closure and anchoring bias cited. The Isabel program was named after the daughter of its creator, whose necrotizing fasciitus was missed after a chicken pox diagnosis.",
+      "topics": [
+        "misdiagnosis rates",
+        "Johns Hopkins study",
+        "anchoring bias",
+        "premature closure",
+        "necrotizing fasciitis",
+        "Isabel program origin"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11796,
+    "output_tokens": 2337
+  }
+}

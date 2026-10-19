@@ -1,0 +1,348 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-02-22_The_Story_of_the_Nuclear_Boy_Scout_41min.txt",
+  "title": "The Story of the Nuclear Boy Scout",
+  "date": "2024-02-22",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-story-of-the-nuclear-boy-scout",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/286c5e25-c0d0-4f17-ae52-b11e00c3f159/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/286c5e25-c0d0-4f17-ae52-b11e00c3f159/transcript?format=TextWithTimestamps&t=1713581528",
+  "summary": "Josh and Chuck tell the story of David Hahn, the \"Nuclear Boy Scout\" from Clinton Township (Golf Manor), Michigan, who as a teen built a small nuclear reactor and ran a chain reaction in his mother's potting shed in the early 1990s. They cover his childhood interest in chemistry and the Boy Scout Atomic Energy merit badge, his posing as a high school professor to get materials from companies and the Nuclear Regulatory Commission contact Donald Herb, how he gathered americium, radium, thorium, uranium and tritium, his neutron gun, his 1994 arrest for stealing wheels and tires that led to a radiological response, the 1995 cleanup of the shed, his later life and death at 39 from combined alcohol, fentanyl and benzodiazepine effects, and the story of Taylor Wilson. The episode closes with a listener email about an eighth-grade teacher's coin-toss reading game for The Jungle.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "David Hahn",
+    "Nuclear Boy Scout",
+    "radioactive boy scout",
+    "home nuclear reactor",
+    "backyard nuclear reactor",
+    "potting shed reactor",
+    "Atomic Energy merit badge",
+    "Boy Scouts nuclear badge",
+    "neutron gun",
+    "americium",
+    "radium paint",
+    "thorium",
+    "tritium gun sights",
+    "Donald Herb NRC",
+    "Clinton Township Michigan",
+    "Golf Manor",
+    "radiological cleanup 1995",
+    "Ken Silverstein",
+    "Harper's Magazine",
+    "Taylor Wilson",
+    "breeder reactor",
+    "smoke detectors americium",
+    "Radium Girls",
+    "listener mail",
+    "The Jungle Upton Sinclair"
+  ],
+  "entities": [
+    {
+      "name": "David Hahn",
+      "type": "person"
+    },
+    {
+      "name": "Ken Silverstein",
+      "type": "person"
+    },
+    {
+      "name": "Donald Herb",
+      "type": "person"
+    },
+    {
+      "name": "Taylor Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Clinton Township",
+      "type": "place"
+    },
+    {
+      "name": "Golf Manor",
+      "type": "place"
+    },
+    {
+      "name": "Nuclear Regulatory Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Boy Scouts of America",
+      "type": "organization"
+    },
+    {
+      "name": "Harper's Magazine",
+      "type": "work"
+    },
+    {
+      "name": "The Radioactive Boy Scout",
+      "type": "work"
+    },
+    {
+      "name": "Golden Book of Chemistry Experiments",
+      "type": "work"
+    },
+    {
+      "name": "Atomic Energy merit badge",
+      "type": "other"
+    },
+    {
+      "name": "The Jungle",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:04",
+      "kind": "intro",
+      "title": "Introduction and suggestion",
+      "summary": "Hosts introduce the topic, a listener suggestion, and credit Ken Silverstein's Harper's article and book and the Natural Resources News Service.",
+      "topics": [
+        "David Hahn",
+        "Ken Silverstein",
+        "Nuclear Boy Scout"
+      ]
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Hahn's family and early childhood",
+      "summary": "David Hahn was born in October 1976. His mother Patty had depression and paranoid schizophrenia and died by suicide in 1996. He lived with his father Ken and stepmother Kathy, engineers at General Motors, in Clinton Township, Michigan, and spent weekends with his mother.",
+      "topics": [
+        "David Hahn childhood",
+        "Clinton Township Michigan",
+        "Golf Manor",
+        "mental illness family history"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:21",
+      "kind": "content",
+      "title": "Chemistry interest and early experiments",
+      "summary": "At age ten, David received the Golden Book of Chemistry Experiments from his stepgrandfather and became fascinated by the Curies and radium. He read his father's chemistry textbooks at twelve, made nitroglycerin at fourteen, and had other mishaps, including a self-tanning experiment with canthaxanthin. His experiments wrecked his bedroom and he was moved to the basement, then to his mother's potting shed.",
+      "topics": [
+        "Golden Book of Chemistry Experiments",
+        "teen chemistry experiments",
+        "canthaxanthin overdose",
+        "Curie radium fascination"
+      ]
+    },
+    {
+      "start": "00:07:21",
+      "end": "00:09:38",
+      "kind": "content",
+      "title": "Potting shed lab and the Atomic Energy merit badge",
+      "summary": "David set up a lab in his mother's potting shed while his father suspected drug making and pushed him toward Eagle Scout. He chose the Atomic Energy merit badge, which the Boy Scouts introduced in 1963 with a pamphlet made with the nuclear energy industry.",
+      "topics": [
+        "Atomic Energy merit badge",
+        "Boy Scouts 1963 pamphlet",
+        "Eagle Scout",
+        "Nuclear Science Badge"
+      ]
+    },
+    {
+      "start": "00:09:38",
+      "end": "00:12:26",
+      "kind": "content",
+      "title": "Goal of building a neutron gun",
+      "summary": "Inspired by the merit badge project of a model reactor, David decided to build a real one. His planned neutron gun was a lead block with a cavity for radioactive material, covered in foil. The hosts say his aim was to start a nuclear chain reaction, not to build a bomb.",
+      "topics": [
+        "neutron gun",
+        "nuclear chain reaction",
+        "home reactor motive"
+      ]
+    },
+    {
+      "start": "00:12:26",
+      "end": "00:14:38",
+      "kind": "content",
+      "title": "Posing as a professor and contact with Donald Herb",
+      "summary": "David wrote to organizations posing as Professor Hahn of Chippewa Valley High School. Despite spelling and grammar errors, adults corresponded with him. Donald Herb, who ran isotope production at the Nuclear Regulatory Commission, helped him most.",
+      "topics": [
+        "Donald Herb",
+        "Nuclear Regulatory Commission isotopes",
+        "impersonation",
+        "Chippewa Valley High School"
+      ]
+    },
+    {
+      "start": "00:14:38",
+      "end": "00:15:05",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Sponsor break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:15:05",
+      "end": "00:16:02",
+      "kind": "content",
+      "title": "Safety precautions and driving shoes",
+      "summary": "Hosts note David's partial safety measures: lead shielding, disposing of contaminated clothes, and leaving shoes in the shed. Chuck explains driving shoes.",
+      "topics": [
+        "radiation safety precautions",
+        "driving shoes"
+      ]
+    },
+    {
+      "start": "00:16:02",
+      "end": "00:18:42",
+      "kind": "content",
+      "title": "Acquiring americium from smoke detectors",
+      "summary": "David tried to steal americium-241 smoke detectors from a Boy Scout camp, was caught and sent home, then bought one hundred broken smoke detectors for one hundred dollars and extracted americium. Chuck explains how americium in smoke detectors works.",
+      "topics": [
+        "americium-241",
+        "smoke detector radioactivity",
+        "americium extraction",
+        "ionization smoke detector"
+      ]
+    },
+    {
+      "start": "00:18:42",
+      "end": "00:21:10",
+      "kind": "content",
+      "title": "Hunting uranium, thorium and radium",
+      "summary": "David drove around Upper Michigan with a Geiger counter on his dashboard looking for uranium and found pitchblende, which he could not purify. He bought uranium from a Czechoslovakian firm and bought thousands of gas lantern mantles for thorium, purifying it with lithium batteries. He found radium paint in antique clocks at junk shops.",
+      "topics": [
+        "uranium sourcing",
+        "pitchblende",
+        "thorium-232 gas mantles",
+        "radium paint",
+        "Geiger counter"
+      ]
+    },
+    {
+      "start": "00:21:10",
+      "end": "00:23:19",
+      "kind": "content",
+      "title": "Tritium gun sights and moderator",
+      "summary": "Herb told David his neutrons were too fast and suggested tritium as a moderator. David ordered gun sights from catalogs, scraped off the tritium, and got them re-tritiated by sending them back for repair.",
+      "topics": [
+        "tritium",
+        "gun sight tritium",
+        "neutron moderator",
+        "thorium conversion"
+      ]
+    },
+    {
+      "start": "00:23:19",
+      "end": "00:24:34",
+      "kind": "content",
+      "title": "Breeder reactor concept",
+      "summary": "At seventeen David wanted a small breeder reactor, inspired by early US small breeder designs from the 1950s. Chuck explains the difference between breeder and regular reactors and the role of uranium-238.",
+      "topics": [
+        "breeder reactor",
+        "uranium-238",
+        "small reactor design"
+      ]
+    },
+    {
+      "start": "00:24:34",
+      "end": "00:26:35",
+      "kind": "content",
+      "title": "Building and dismantling the reactor",
+      "summary": "David built a small atomic pile from americium, radium, aluminum, beryllium, and foil, modeled on a blueprint from a textbook, like Fermi's Chicago pile. It produced a chain reaction that grew, was detectable five houses away, and he took it apart. Police later stopped him for stealing wheels and tires and he warned them not to open a radioactive toolbox.",
+      "topics": [
+        "atomic pile",
+        "Fermi Chicago pile",
+        "reactor shutdown",
+        "arrest 1994 wheels and tires"
+      ]
+    },
+    {
+      "start": "00:26:35",
+      "end": "00:28:11",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Sponsor break before the arrest story continues.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:28:11",
+      "end": "00:31:12",
+      "kind": "content",
+      "title": "1994 arrest, radiological response and cleanup",
+      "summary": "In August-September 1994 police called a bomb squad, the car was found radioactive, and federal and state agencies responded. Later a state health expert found the potting shed. The 1995 cleanup took two to three days and cost about sixty thousand dollars, with waste buried in the Great Salt Lake Desert. The remaining material went to a nearby landfill.",
+      "topics": [
+        "1994 Clinton Township arrest",
+        "radiological emergency response",
+        "potting shed cleanup 1995",
+        "Great Salt Lake Desert burial",
+        "Superfund site"
+      ]
+    },
+    {
+      "start": "00:31:12",
+      "end": "00:33:05",
+      "kind": "content",
+      "title": "Aftermath, Navy and Marines service",
+      "summary": "Classmates mocked him as radioactive boy and he declined EPA medical exams. Scout leaders still awarded him Eagle Scout. No one in the neighborhood or family showed radiation sickness. He joined the Navy, served on the USS Enterprise without working near its nuclear systems, and later joined the Marines.",
+      "topics": [
+        "Eagle Scout award",
+        "radiation exposure health",
+        "Navy service",
+        "Marines"
+      ]
+    },
+    {
+      "start": "00:33:05",
+      "end": "00:35:30",
+      "kind": "content",
+      "title": "Later life, FBI reports and death",
+      "summary": "By 2007 David was unemployed and his mental illness had worsened. FBI reports said he was not taking his meds and used cocaine. A 2010 report noted rehab and drug charges. He died at 39; the cause was combined effects of alcohol, fentanyl and benzodiazepines, not radiation. He was found dead in a Walmart bathroom.",
+      "topics": [
+        "FBI investigation",
+        "drug charges",
+        "cause of death",
+        "paranoid schizophrenia"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:38:16",
+      "kind": "content",
+      "title": "Taylor Wilson comparison",
+      "summary": "Taylor Wilson received the Radioactive Boy Scout book as an eleven-year-old and, with supervision and expert help, became the youngest person to achieve nuclear fusion at fourteen. His grandmother reportedly regretted giving him the book.",
+      "topics": [
+        "Taylor Wilson",
+        "youngest nuclear fusion",
+        "amateur nuclear physics"
+      ]
+    },
+    {
+      "start": "00:38:16",
+      "end": "00:40:11",
+      "kind": "listener_mail",
+      "title": "Listener mail: The Jungle coin toss",
+      "summary": "Tiffany recalls her eighth-grade teacher's coin toss tied to The Jungle by Upton Sinclair, with a playful menu and lunch-line order. The hosts thank her.",
+      "topics": [
+        "listener mail",
+        "The Jungle",
+        "Upton Sinclair"
+      ]
+    },
+    {
+      "start": "00:40:11",
+      "end": "00:41:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give the email address for listener mail, then sign off.",
+      "topics": [
+        "outro",
+        "listener mail address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15171,
+    "output_tokens": 4406
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-11-04_Short_Stuff_Fruit_Flies_Why_12min.txt",
+  "title": "Short Stuff: Fruit Flies, Why?",
+  "date": "2020-11-04",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-fruit-flies-why",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/17758d19-dcc2-449e-8b20-ae28002a84f6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/17758d19-dcc2-449e-8b20-ae28002a84f6/transcript?format=TextWithTimestamps&t=1700543608",
+  "summary": "Short Stuff episode on fruit flies (Drosophila melanogaster). The hosts cover their use in scientific research: the V2 rocket flight that carried fruit flies to space and their safe return, their role in establishing modern genetics through Thomas Hunt Morgan's chromosome work and multiple Nobel Prize winners, and why they are useful models (fast generations, easy breeding, cheap care, about 8,000 of 20,000 to 25,000 human genes analogous to fruit fly genes, shared biochemical pathways and brain structures relevant to Alzheimer's, and use as models for mosquito disease transmission). They end with the downsides: fruit flies are a cosmopolitan pest attracted to overripe fruit and compost, do not transmit human disease, and can be trapped with a vinegar jar and plastic wrap.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "fruit flies",
+    "Drosophila melanogaster",
+    "fruit fly genetics",
+    "fruit flies in science",
+    "animal testing in space",
+    "V2 rocket fruit fly space flight",
+    "Thomas Hunt Morgan",
+    "chromosome inheritance",
+    "Nobel Prize fruit flies",
+    "model organisms",
+    "human gene analogs",
+    "Alzheimer's research fruit flies",
+    "mosquito disease models",
+    "generation time breeding",
+    "cosmopolitan pests",
+    "fruit flies in compost and kitchens",
+    "vinegar trap for fruit flies",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Drosophila melanogaster",
+      "type": "other"
+    },
+    {
+      "name": "V2 rocket",
+      "type": "other"
+    },
+    {
+      "name": "Thomas Hunt Morgan",
+      "type": "person"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Alzheimer's disease",
+      "type": "other"
+    },
+    {
+      "name": "mosquitoes",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and naming fruit flies",
+      "summary": "The hosts joke about confusing fruit flies with tsetse flies and debate how to pronounce Drosophila melanogaster, then settle on calling them fruit flies.",
+      "topics": [
+        "fruit flies",
+        "Drosophila",
+        "tsetse flies"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:40",
+      "kind": "content",
+      "title": "Fruit flies in space",
+      "summary": "Fruit flies were loaded on a V2 rocket that reached about 67 miles up, described as one mile into space by NASA. They were the first animals sent to space and survived the flight and re-entry, which paved the way for larger animals and eventually humans.",
+      "topics": [
+        "V2 rocket fruit fly space flight",
+        "animals in space",
+        "NASA",
+        "first animals in space"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Fruit flies and the founding of modern genetics",
+      "summary": "Fruit flies were used in biological studies for more than a decade by the 1930s. Thomas Hunt Morgan used them to show inheritance passes through chromosomes, faster than other early geneticists, and at least five people have won Nobel Prizes working with fruit flies.",
+      "topics": [
+        "Thomas Hunt Morgan",
+        "chromosome inheritance",
+        "history of genetics",
+        "Nobel Prize fruit flies"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Why fruit flies are good lab subjects",
+      "summary": "Fruit flies produce a new generation in about two weeks, are easy and cheap to breed and care for, and eat a cornstarch and sugar mixture. They share about 8,000 of the roughly 20,000 to 25,000 human genes in analogous form, so studies can extrapolate to people, including disease-linked genes and experiments on cold-temperature effects on metabolism.",
+      "topics": [
+        "generation time breeding",
+        "model organisms",
+        "human gene analogs",
+        "fruit fly lab care",
+        "genetic research"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Alzheimer's pathways and other research uses",
+      "summary": "Fruit flies do not develop Alzheimer's but share the biochemical pathways and brain structures affected by it, so researchers study them to look for treatments.",
+      "topics": [
+        "Alzheimer's research fruit flies",
+        "biochemical pathways",
+        "brain structure research",
+        "optogenetics"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Fruit fly pests and their role as research models",
+      "summary": "Fruit flies are a cosmopolitan species found wherever humans live, drawn to overripe fruit and compost. They do not transmit communicable diseases, but they have served as models for studying disease-carrying mosquitoes. Trapping them with a vinegar jar covered by plastic wrap with holes is suggested.",
+      "topics": [
+        "cosmopolitan pests",
+        "fruit flies in compost",
+        "vinegar trap for fruit flies",
+        "mosquito disease models",
+        "fruit flies and disease transmission"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode with a joke about thanking fruit flies rather than swatting them and end the show.",
+      "topics": [
+        "Short Stuff outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4897,
+    "output_tokens": 1944
+  }
+}

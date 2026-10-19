@@ -1,0 +1,202 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-01-03_Short_Stuff_Blueprints_12min.txt",
+  "title": "Short Stuff: Blueprints",
+  "date": "2024-01-03",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-blueprints",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a425ef0a-a58b-4968-a894-b0d500daf58e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a425ef0a-a58b-4968-a894-b0d500daf58e/transcript?format=TextWithTimestamps&t=1713680793",
+  "summary": "Short Stuff episode on blueprints and the color Prussian blue, the conclusion of a two-part series on colors. The hosts explain cyanotype, the photographic process discovered by John Herschel in 1842 that produced white lines on Prussian blue paper, and how Anna Atkins used it for her 1843 book of British algae photographs. They describe the origin of Prussian blue in Berlin, accidentally created by dyemaker Diesbach and alchemist Dippel, its naming after the Prussian army uniforms and its mixed reception after Waterloo. The episode then covers the decline of blueprints: the diazo (diazo white print) process, which gave black or gray lines on white, its fading in sunlight and ammonia regulations, Xerography and the dry copier process, and the return of pen plotters.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "blueprints",
+    "Prussian blue",
+    "cyanotype",
+    "blueprint history",
+    "John Herschel",
+    "Anna Atkins",
+    "Photographs of British Algae",
+    "Berlin blue",
+    "diazo print",
+    "diazo process",
+    "xerography",
+    "Xerox",
+    "pen plotters",
+    "architectural copying",
+    "ferric ferrocyanide",
+    "Dippel",
+    "Diesbach",
+    "colors series",
+    "early photography",
+    "Waterloo Prussian army"
+  ],
+  "entities": [
+    {
+      "name": "John Herschel",
+      "type": "person"
+    },
+    {
+      "name": "Anna Atkins",
+      "type": "person"
+    },
+    {
+      "name": "Johann Conrad Dippel",
+      "type": "person"
+    },
+    {
+      "name": "Diesbach",
+      "type": "person"
+    },
+    {
+      "name": "Prussian blue",
+      "type": "other"
+    },
+    {
+      "name": "cyanotype",
+      "type": "other"
+    },
+    {
+      "name": "blueprint",
+      "type": "other"
+    },
+    {
+      "name": "diazo process",
+      "type": "other"
+    },
+    {
+      "name": "xerography",
+      "type": "other"
+    },
+    {
+      "name": "Photographs of British Algae",
+      "type": "work"
+    },
+    {
+      "name": "Prussian army",
+      "type": "organization"
+    },
+    {
+      "name": "Berlin",
+      "type": "place"
+    },
+    {
+      "name": "Waterloo",
+      "type": "event"
+    },
+    {
+      "name": "Xerox",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening and series context",
+      "summary": "Josh and Chuck introduce the episode as the conclusion of a two-part series on colors, and preview Prussian blue and the blueprint.",
+      "topics": [
+        "colors series",
+        "Prussian blue",
+        "blueprints"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:04:12",
+      "kind": "content",
+      "title": "Cyanotype process and John Herschel",
+      "summary": "John Herschel discovered in 1842 that Prussian blue is light-reactive, enabling copies via cyanotype. Anna Atkins's 1843 book Photographs of British Algae was the first published photography book, made with cyanotype. Architects adopted the process to copy drawings; the hosts explain the white-lines-on-blue reversal and the dark-room aspect.",
+      "topics": [
+        "cyanotype",
+        "John Herschel",
+        "Anna Atkins",
+        "early photography",
+        "blueprint process",
+        "ferric ferrocyanide"
+      ]
+    },
+    {
+      "start": "00:04:12",
+      "end": "00:04:50",
+      "kind": "content",
+      "title": "Break",
+      "summary": "Brief break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:07:10",
+      "kind": "content",
+      "title": "Origin of Prussian blue in Berlin",
+      "summary": "Prussian blue was accidentally created in a Berlin lab shared by alchemist Johann Conrad Dippel and dyemaker Diesbach, when Diesbach borrowed potash and ox blood was involved. It was first called Berlin blue and later Prussian blue after the Prussian army uniforms; its reception varied by nationality, with the Prussians' role at Waterloo.",
+      "topics": [
+        "Prussian blue origin",
+        "Berlin blue",
+        "Dippel",
+        "Diesbach",
+        "Prussian army uniforms",
+        "Waterloo"
+      ]
+    },
+    {
+      "start": "00:07:10",
+      "end": "00:09:05",
+      "kind": "content",
+      "title": "Decline of blueprints and the diazo process",
+      "summary": "Blueprints fell out of use as labor-intensive cyanotype gave way to the diazo white print, which gave black or gray lines on white, and later xerographic copiers. The hosts note the dry xerographic process and the Xerox name.",
+      "topics": [
+        "blueprint decline",
+        "diazo print",
+        "xerography",
+        "Xerox",
+        "dry copying process"
+      ]
+    },
+    {
+      "start": "00:09:05",
+      "end": "00:10:05",
+      "kind": "content",
+      "title": "Diazo fading, ammonia, and digital printing",
+      "summary": "Diazo prints faded in sunlight and were not archival; ammonia use and regulations led to its decline in the 1970s through early 2000s, and cheaper digital printers replaced it.",
+      "topics": [
+        "diazo fading",
+        "ammonia regulations",
+        "digital printing",
+        "archival copies"
+      ]
+    },
+    {
+      "start": "00:10:05",
+      "end": "00:11:19",
+      "kind": "content",
+      "title": "Pen plotters and modern plotting",
+      "summary": "Pen plotters, which drew multiple copies at once, have returned as computerized machines; a sign-maker friend used plotters to cut designs from computer files.",
+      "topics": [
+        "pen plotters",
+        "plotters",
+        "computerized plotting",
+        "sign making"
+      ]
+    },
+    {
+      "start": "00:11:19",
+      "end": "00:11:52",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts wrap up the short stuff episode, with the standard closing credits and iHeartRadio attribution.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5428,
+    "output_tokens": 2029
+  }
+}

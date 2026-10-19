@@ -1,0 +1,202 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-06-09_How_the_Wow_Signal_Works_33min.txt",
+  "title": "How the Wow! Signal Works",
+  "date": "2015-06-09",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-wow-signal-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a54ab89-751d-4998-a6b3-ae28008dd8a9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2a54ab89-751d-4998-a6b3-ae28008dd8a9/transcript?format=TextWithTimestamps&t=1700543858",
+  "summary": "Josh and Chuck explain the Wow! Signal, a strong narrowband radio burst detected by Ohio State's Big Ear radio telescope on August 15, 1977 (the transcript says August 18 and \"seventy seven\"), recorded as 6EQUJ5 and annotated \"Wow!\" by astronomer Jerry Ehman. They cover the Big Ear's fixed-dish design, the SETI search rationale, the hydrogen line at 1420 MHz, why the signal's shape and narrowness are notable, skeptical explanations (lighthouse beacon, space debris reflection), and failed follow-up searches including the VLA. The episode opens with a World Science Festival recap and karaoke banter, and closes with a listener mail about the purpose of life.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Wow! signal",
+    "SETI",
+    "Search for Extraterrestrial Intelligence",
+    "Big Ear radio telescope",
+    "Ohio State University Radio Observatory",
+    "Jerry Ehman",
+    "6EQUJ5",
+    "hydrogen line",
+    "21 cm line",
+    "radio SETI",
+    "alien radio signal",
+    "Doppler effect",
+    "skeptic explanations",
+    "space debris reflection",
+    "lighthouse beacon hypothesis",
+    "Very Large Array",
+    "purpose of life",
+    "listener mail",
+    "World Science Festival"
+  ],
+  "entities": [
+    {
+      "name": "Wow! signal",
+      "type": "event"
+    },
+    {
+      "name": "Big Ear radio telescope",
+      "type": "other"
+    },
+    {
+      "name": "Ohio State University",
+      "type": "organization"
+    },
+    {
+      "name": "Jerry Ehman",
+      "type": "person"
+    },
+    {
+      "name": "SETI",
+      "type": "organization"
+    },
+    {
+      "name": "Very Large Array",
+      "type": "other"
+    },
+    {
+      "name": "Philip Morrison",
+      "type": "person"
+    },
+    {
+      "name": "Giuseppe Cocconi",
+      "type": "person"
+    },
+    {
+      "name": "Robert Gray",
+      "type": "person"
+    },
+    {
+      "name": "Cornell University",
+      "type": "organization"
+    },
+    {
+      "name": "World Science Festival",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and World Science Festival recap",
+      "summary": "Hosts recap a live show at the World Science Festival in Washington Square Park and introduce the Wow! signal and the basic idea of listening for alien transmissions.",
+      "topics": [
+        "World Science Festival",
+        "live podcast",
+        "SETI introduction"
+      ]
+    },
+    {
+      "segment_start_placeholder": true,
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Big Ear and the 1977 printout",
+      "summary": "The Big Ear telescope at Ohio State scanned the sky and printed data on dot matrix paper. Jerry Ehman circled the 6EQUJ5 reading and wrote 'Wow!' next to it, peaking at 30 times background noise.",
+      "topics": [
+        "Big Ear radio telescope",
+        "Wow! signal",
+        "Jerry Ehman",
+        "6EQUJ5",
+        "Ohio State University"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Fixed-dish design and the 72-second signal",
+      "summary": "The Big Ear did not move; Earth's rotation swept its field across the sky. The 72-second duration suggests a fixed source in the sky.",
+      "topics": [
+        "Big Ear design",
+        "Earth rotation",
+        "72 seconds",
+        "signal duration"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Karaoke tangent",
+      "summary": "The hosts talk about karaoke songs and a piano karaoke bar in New York City, Sig Gold's Request Room. They then loop back to the Doppler effect.",
+      "topics": [
+        "karaoke",
+        "Sig Gold's Request Room"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Why the hydrogen line",
+      "summary": "SETI researchers Philip Morrison and Giuseppe Cocconi reasoned that aliens would broadcast near the hydrogen line, about 1420 MHz, the most common frequency in the universe. The Wow! signal fell on this line, and its narrowness and pyramid shape set it apart from natural sources like quasars.",
+      "topics": [
+        "hydrogen line",
+        "SETI frequency choice",
+        "narrowband signal",
+        "Philip Morrison",
+        "Giuseppe Cocconi"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Skeptical explanations and follow-up searches",
+      "summary": "The hosts review counterarguments: a lighthouse-style rotating beacon, reflection off space debris (which would need implausible motion), and failed repeat observations including a Very Large Array search by Robert Gray. The signal remains unexplained.",
+      "topics": [
+        "skeptic explanations",
+        "lighthouse beacon hypothesis",
+        "space debris reflection",
+        "Very Large Array",
+        "Robert Gray",
+        "unexplained radio signal"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Wrap-up of the Wow! signal",
+      "summary": "Hosts summarize that the signal is not proof of aliens but is unexplained, quote Jerry Ehman's fishing-line analogy, and mention the Skeptics Club's official line.",
+      "topics": [
+        "Jerry Ehman",
+        "unexplained signal",
+        "skepticism"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: purpose of life",
+      "summary": "Danny from Seattle, a geologist and biologist, writes that life has no external purpose; it replicates genes, and the hosts respond.",
+      "topics": [
+        "purpose of life",
+        "listener mail",
+        "evolution",
+        "replication"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:33:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to get in touch and visit the website.",
+      "topics": [
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10861,
+    "output_tokens": 2177
+  }
+}

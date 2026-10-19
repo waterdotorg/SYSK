@@ -1,0 +1,236 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-12-08_Will_the_Large_Hadron_Collider_destroy_the_Earth_35min.txt",
+  "title": "Will the Large Hadron Collider destroy the Earth?",
+  "date": "2009-12-08",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/will-the-large-hadron-collider-destroy-the-earth",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/165f2371-9140-4f5f-a4b7-ae2800bb1bf3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/165f2371-9140-4f5f-a4b7-ae2800bb1bf3/transcript?format=TextWithTimestamps&t=1700543975",
+  "summary": "The hosts explain the Large Hadron Collider (LHC) at CERN on the French-Swiss border: its purpose (testing the Standard Model, finding the Higgs boson, searching for dark matter and dark energy, antimatter, string theory and supersymmetry), how the magnets, cryogenics, vacuum, detectors and data grid work, how proton beams are accelerated, and the safety fears (micro black holes, strangelets) and lawsuit by Walter Wagner and Luis Sancho. They also cover the Holger Bech Nielsen and Masao Ninomiya paper claiming the Higgs was created in the future, the early coolant leak and a bird dropping bread into equipment, and an arrest of a scientist in France as an al Qaida suspect. The episode ends with a listener mail about couples fighting before trips and a Kiva lending team update.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Large Hadron Collider",
+    "LHC",
+    "CERN",
+    "Higgs boson",
+    "God particle",
+    "Standard Model",
+    "dark matter",
+    "dark energy",
+    "antimatter",
+    "string theory",
+    "supersymmetry",
+    "particle accelerator",
+    "proton beams",
+    "superconducting magnets",
+    "black holes at CERN",
+    "strangelets",
+    "Walter Wagner lawsuit",
+    "time travel Higgs paper",
+    "Kiva lending team",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Large Hadron Collider",
+      "type": "other"
+    },
+    {
+      "name": "CERN",
+      "type": "organization"
+    },
+    {
+      "name": "Higgs boson",
+      "type": "other"
+    },
+    {
+      "name": "Peter Higgs",
+      "type": "person"
+    },
+    {
+      "name": "Walter Wagner",
+      "type": "person"
+    },
+    {
+      "name": "Luis Sancho",
+      "type": "person"
+    },
+    {
+      "name": "Holger Bech Nielsen",
+      "type": "person"
+    },
+    {
+      "name": "Masao Ninomiya",
+      "type": "person"
+    },
+    {
+      "name": "Strickland",
+      "type": "person"
+    },
+    {
+      "name": "Switzerland",
+      "type": "place"
+    },
+    {
+      "name": "France",
+      "type": "place"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Higgs boson name joke",
+      "summary": "Hosts joke about naming children Higgs Boson and introduce the Large Hadron Collider as the topic.",
+      "topics": [
+        "Higgs boson",
+        "Large Hadron Collider"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "What the LHC is and its cost",
+      "summary": "The LHC is a 17-mile underground particle accelerator on the Swiss-French border, built by CERN, costing around six to ten billion dollars and first going online in 2008.",
+      "topics": [
+        "Large Hadron Collider",
+        "CERN",
+        "particle accelerator",
+        "construction cost"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Standard Model and the Higgs boson",
+      "summary": "The Standard Model covers three forces but not gravity. The Higgs boson, named after Peter Higgs, is theorized to give particles mass and would complete the Standard Model.",
+      "topics": [
+        "Standard Model",
+        "Higgs boson",
+        "Higgs mechanism",
+        "fundamental forces",
+        "gravity",
+        "neutrinos mass"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Dark matter, dark energy, antimatter and string theory",
+      "summary": "The hosts describe the unseen matter and energy the LHC hopes to detect, the antimatter asymmetry after the Big Bang, and string theory with extra dimensions and supersymmetry.",
+      "topics": [
+        "dark matter",
+        "dark energy",
+        "antimatter",
+        "string theory",
+        "supersymmetry",
+        "extra dimensions"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Magnets, cryogenics and vacuum",
+      "summary": "About ninety superconducting magnets steer the beams and are cooled with liquid helium and nitrogen to near absolute zero to reduce electrical resistance, inside a vacuum pipe.",
+      "topics": [
+        "superconducting magnets",
+        "cryogenics",
+        "liquid helium",
+        "vacuum beam pipe"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Detectors, data and grid computing",
+      "summary": "Six detector stations collect radiation and field data, producing about fifteen petabytes a year, processed on linked off-the-shelf computers in a grid; power costs about thirty million dollars a year.",
+      "topics": [
+        "detectors",
+        "data processing",
+        "grid computing",
+        "power costs"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Accelerating and colliding proton beams",
+      "summary": "Hydrogen atoms are stripped to protons, boosted through the Linac and PS booster and the Super Proton Synchrotron, split into bunches, sent in opposite directions, and collided at high speed, producing quarks and gluons that decay.",
+      "topics": [
+        "proton beams",
+        "PS booster",
+        "Super Proton Synchrotron",
+        "collisions",
+        "speed of light",
+        "quarks"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Black hole and strangelet fears and the Wagner lawsuit",
+      "summary": "Critics fear micro black holes and strangelets could destroy Earth. Walter Wagner and Luis Sancho sued to stop the LHC, and CERN responded that the risks are negligible.",
+      "topics": [
+        "black holes at CERN",
+        "strangelets",
+        "Walter Wagner lawsuit",
+        "LHC safety",
+        "CERN response"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Time-travel Higgs paper, setbacks and a scientist's arrest",
+      "summary": "Physicists Holger Bech Nielsen and Masao Ninomiya argue the Higgs was created in the future and sabotaged the LHC; the coolant leak and a bird dropping bread into equipment caused delays; a scientist was arrested in France as an al Qaida suspect.",
+      "topics": [
+        "time travel Higgs paper",
+        "coolant leak",
+        "bird bread incident",
+        "LHC delays",
+        "al Qaida arrest"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on pre-trip fights and Kiva team",
+      "summary": "A listener writes that she and her husband fight before every trip; hosts read a note on finding the Stuff You Should Know Kiva team and discuss its lending total.",
+      "topics": [
+        "listener mail",
+        "Kiva lending team"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give website and email information and sign off.",
+      "topics": [
+        "show information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12229,
+    "output_tokens": 2488
+  }
+}

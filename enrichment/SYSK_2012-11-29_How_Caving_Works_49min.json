@@ -1,0 +1,266 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-11-29_How_Caving_Works_49min.txt",
+  "title": "How Caving Works",
+  "date": "2012-11-29",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-caving-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6e20c0ea-0324-4666-99c7-ae2800a3fa47/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6e20c0ea-0324-4666-99c7-ae2800a3fa47/transcript?format=TextWithTimestamps&t=1700543912",
+  "summary": "Josh and Chuck explore caving (speleology): how caves form (limestone dissolved by carbonic acid, sea caves, sulfuric acid from extremophile bacteria, lava tubes), stalactites and stalagmites, cave animals (troglobites, troglophiles, trogloxenes), stable cave temperatures, cave art in France and the Southeastern Ceremonial Complex in Tennessee, Chuck's personal caving trip with a friend, gear and safety advice, cave diving dangers, urban exploration, and a listener mail segment about pizza in Pakistan. Includes a mustache-growing plug at the start.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "caving",
+    "spelunking",
+    "speleology",
+    "cave formation",
+    "karst landscape",
+    "limestone caves",
+    "carbonic acid",
+    "sea caves",
+    "lava tubes",
+    "extremophile bacteria",
+    "sulfuric acid cave erosion",
+    "stalactites",
+    "stalagmites",
+    "speleothems",
+    "cave animals",
+    "troglobites",
+    "blind cave fish",
+    "cave temperature",
+    "cave art",
+    "Lascaux",
+    "Chauvet Cave",
+    "Southeastern Ceremonial Complex",
+    "cave diving",
+    "cave safety",
+    "caving gear",
+    "carbide lamp",
+    "grottos",
+    "urban exploration",
+    "Pakistani pizza"
+  ],
+  "entities": [
+    {
+      "name": "Lascaux",
+      "type": "place"
+    },
+    {
+      "name": "Chauvet Cave",
+      "type": "place"
+    },
+    {
+      "name": "Southeastern Ceremonial Complex",
+      "type": "event"
+    },
+    {
+      "name": "Bond Terror Mine",
+      "type": "place"
+    },
+    {
+      "name": "Fort Pickens",
+      "type": "place"
+    },
+    {
+      "name": "Ruby Falls",
+      "type": "place"
+    },
+    {
+      "name": "Carlsbad Caverns",
+      "type": "place"
+    },
+    {
+      "name": "National Speleological Society",
+      "type": "organization"
+    },
+    {
+      "name": "Cumberland Plateau",
+      "type": "place"
+    },
+    {
+      "name": "The Orphanage",
+      "type": "work"
+    },
+    {
+      "name": "Herzog's Cave of Forgotten Dreams",
+      "type": "work"
+    },
+    {
+      "name": "Pizza Hut Pakistan",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and mustache plug",
+      "summary": "Josh plugs his No-Shave November mustache fundraiser for prostate cancer research, then the hosts introduce the episode and mention a Slate article on ancient cave art in the Southeast.",
+      "topics": [
+        "mustache fundraiser",
+        "Southern Death Cult",
+        "cave art Tennessee"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Defining caving and spelunking",
+      "summary": "The hosts discuss that entering any cave counts as caving, the term spelunking, and Chuck's trip with a caver friend who led him through a small hole in the ground.",
+      "topics": [
+        "caving",
+        "spelunking",
+        "cave definition"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "How caves form",
+      "summary": "Caves are openings below ground, often part of karst landscapes. Limestone caves form when carbonic acid in rainwater dissolves rock; sea caves form from waves; extremophile bacteria producing sulfuric acid also erode caves; lava tubes form when a lava surface crusts over and the interior drains.",
+      "topics": [
+        "cave formation",
+        "karst landscape",
+        "limestone caves",
+        "carbonic acid",
+        "extremophile bacteria",
+        "sulfuric acid cave erosion",
+        "sea caves",
+        "lava tubes"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Horror movie tangent",
+      "summary": "The hosts briefly digress into recommendations of scary movies, including The Orphanage.",
+      "topics": [
+        "horror movies",
+        "The Orphanage"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Stalactites and stalagmites",
+      "summary": "A mnemonic is given for stalactites (hang from the ceiling, with a C for ceiling) and stalagmites (rise from the ground). Speleothems form as dripping calcite-laden water deposits minerals slowly, at roughly a quarter inch to an inch per century. The hosts describe formations nicknamed fried eggs and bacon.",
+      "topics": [
+        "stalactites",
+        "stalagmites",
+        "speleothems",
+        "calcite formations",
+        "cave formations nicknames"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Cave animals and cave temperature",
+      "summary": "Cave creatures are classified as troglophiles, troglobites and trogloxenes, with examples such as the Ozark blind salamander and Tooth Cave spider. Cave temperatures are stable, though not exactly the surface annual average, and actual weather-like changes occur inside caves. Caves can be wet or dry.",
+      "topics": [
+        "cave animals",
+        "troglobites",
+        "troglophiles",
+        "trogloxenes",
+        "blind cave creatures",
+        "cave temperature",
+        "cave climate"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Cave art and cave archaeology",
+      "summary": "Caves preserve artifacts and art well. The hosts discuss the painted caves in France, including the 1940 discovery of Lascaux with over 2,000 figures, Chauvet Cave, and Werner Herzog's documentary Cave of Forgotten Dreams, which mentions bison drawings that appear to move under torchlight.",
+      "topics": [
+        "cave art",
+        "Lascaux",
+        "Chauvet Cave",
+        "Paleolithic cave painting",
+        "Cave of Forgotten Dreams",
+        "cave archaeology"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Motivation for caving and conservation ethics",
+      "summary": "People go caving for the thrill of discovery. Serious cavers emphasize conservation and preservation and volunteer for cave rescue. Urban exploration follows similar rules: don't cut fences, take nothing, and leave places as found. Fort Pickens battery in Pensacola is mentioned.",
+      "topics": [
+        "thrill of discovery",
+        "cave conservation",
+        "cave rescue volunteers",
+        "urban exploration",
+        "Fort Pickens"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Getting started: show caves and a cave concert",
+      "summary": "Show caves like Ruby Falls and Carlsbad Caverns are well lit, paved, and guided, and are good for families. Chuck describes a bluegrass concert held in a Tennessee cave.",
+      "topics": [
+        "show caves",
+        "Ruby Falls",
+        "Carlsbad Caverns",
+        "guided cave tours",
+        "cave concerts"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Cave diving and Bonne Terre Mine",
+      "summary": "Cave diving is described as very dangerous, with about twelve deaths cited, three in Florida over consecutive days. Divers should not go below half a tank of air. Bonne Terre Mine in Missouri, a flooded former lead mine, is a guided dive site.",
+      "topics": [
+        "cave diving",
+        "cave diving deaths",
+        "Bonne Terre Mine",
+        "flooded mine diving"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Gear, clothing, and safety for caving",
+      "summary": "Cavers should bring at least three light sources with spare batteries, helmets, knee and elbow pads, and synthetic clothing rather than cotton. Carbide lamps are discussed. Trips should have four to six people, the slowest person in front, and a cave map left at home. Never cave alone; if lost, stay put; if someone is injured, keep someone with them and bring the car keys. Grottos and the National Speleological Society are mentioned. Chuck describes squeezing through a tight passage and wet conditions on his trip.",
+      "topics": [
+        "caving gear",
+        "cave safety",
+        "carbide lamp",
+        "grottos",
+        "National Speleological Society",
+        "caving clothing",
+        "lost in cave",
+        "cave rescue"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Closing remarks",
+      "summary": "Hosts close with a note on caving and urban exploration and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17066,
+    "output_tokens": 3007
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-12-27_Can_you_live_without_a_bank_account_50min.txt",
+  "title": "Can you live without a bank account?",
+  "date": "2016-12-27",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-you-live-without-a-bank-account",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3f24b3b4-6ef1-4141-b7ae-ae28007d430c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3f24b3b4-6ef1-4141-b7ae-ae28007d430c/transcript?format=TextWithTimestamps&t=1700543818",
+  "summary": "Hosts Josh Clark and Chuck Bryant explore whether modern life is possible without a bank account. They open with a Sketch Fest promo and banter about Home Alone and John Hughes, then trace banking history from ancient temple grain and gold storage through Genoa's Bank of St. George (1407/1408) and the Holy Roman Empire's usury rules. They discuss bank reserve requirements and bank runs, the unbanked and underbanked US households (about 9 million unbanked in 2015), overdraft fees and high-to-low check clearing, payday lenders and their fee structure, prepaid debit cards and fraud, and alternatives: local currencies like BerkShares, Kenya's M-Pesa mobile money, time banking, and the moneyless living experiment of Mark Boyle. The episode closes with a listener email from Ryan Gunt Siowski asking for a two-part episode on type one and type two diabetes, and the sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "bank accounts",
+    "living without a bank account",
+    "unbanked households",
+    "underbanked",
+    "history of banking",
+    "Bank of St. George",
+    "Genoa banking history",
+    "usury",
+    "bank reserve requirements",
+    "bank runs",
+    "overdraft fees",
+    "high-to-low check clearing",
+    "payday lending",
+    "prepaid debit cards",
+    "prepaid card fraud",
+    "CFPB prepaid card rules",
+    "BerkShares local currency",
+    "alternative currencies",
+    "M-Pesa mobile money",
+    "time banking",
+    "Mark Boyle moneyless man",
+    "Wells Fargo fake accounts scandal",
+    "FDIC unbanked survey",
+    "cash safety"
+  ],
+  "entities": [
+    {
+      "name": "Bank of St. George",
+      "type": "organization"
+    },
+    {
+      "name": "Genoa",
+      "type": "place"
+    },
+    {
+      "name": "Holy Roman Empire",
+      "type": "organization"
+    },
+    {
+      "name": "BerkShares",
+      "type": "other"
+    },
+    {
+      "name": "M-Pesa",
+      "type": "other"
+    },
+    {
+      "name": "Kenya",
+      "type": "place"
+    },
+    {
+      "name": "Mark Boyle",
+      "type": "person"
+    },
+    {
+      "name": "Wells Fargo",
+      "type": "organization"
+    },
+    {
+      "name": "Elizabeth Warren",
+      "type": "person"
+    },
+    {
+      "name": "Federal Trade Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Consumer Financial Protection Bureau",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Deposit Insurance Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "A.J. Jacobs",
+      "type": "person"
+    },
+    {
+      "name": "John Hughes",
+      "type": "person"
+    },
+    {
+      "name": "Ryan Gunt Siowski",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Sketch Fest promo and opening banter",
+      "summary": "Josh promotes a San Francisco Sketch Fest show in January, then the hosts chat about Home Alone and John Hughes before introducing the topic of living without a bank account.",
+      "topics": [
+        "Sketch Fest",
+        "John Hughes",
+        "Home Alone"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "History of banking",
+      "summary": "The hosts explain that banking predates banks, starting with grain and gold stored in Mesopotamian and Egyptian temples, then book transactions in Greece and Rome, the Christian ban on usury, and the Jewish role in banking.",
+      "topics": [
+        "history of banking",
+        "ancient temple banking",
+        "usury",
+        "book transfers",
+        "Holy Roman Empire banking"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Bank of St. George in Genoa",
+      "summary": "The Bank of St. George is founded in 1408 in Genoa, Italy, to finance war debts after the war with Venice. Its treasurers had to invest heavily, and it collected city taxes and customs. It operated for about four hundred years.",
+      "topics": [
+        "Bank of St. George",
+        "Genoa",
+        "Venice war debt",
+        "early modern banks"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Reserve requirements, bank runs, and Wells Fargo",
+      "summary": "The hosts explain fractional reserve requirements and how a panic can cause a bank run. They briefly discuss the Wells Fargo fake accounts scandal and Elizabeth Warren's criticism of the CEO.",
+      "topics": [
+        "reserve requirements",
+        "bank runs",
+        "Wells Fargo scandal",
+        "Elizabeth Warren"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Short break before the main discussion resumes.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Unbanked and underbanked Americans",
+      "summary": "About seven percent of US households, roughly nine million, had no bank account in 2015, per FDIC data, and about twenty-five million more were underbanked. Most are poor, and reasons include distrust of banks and fear of overdraft fees.",
+      "topics": [
+        "unbanked households",
+        "underbanked",
+        "FDIC survey",
+        "distrust of banks"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Overdraft fees and high-to-low check clearing",
+      "summary": "Overdraft fees are explained, including banks clearing checks from largest to smallest so one overdraft can create several fees. The hosts discuss how the rule changed to opt-in overdraft protection and how the burden falls on the poor.",
+      "topics": [
+        "overdraft fees",
+        "high-to-low check clearing",
+        "overdraft protection opt-in",
+        "bank fees"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Payday lenders",
+      "summary": "Payday lenders offer quick short-term cash with high effective rates. Using an example of a one-hundred-dollar loan with a fifteen-dollar fee, the hosts discuss the debate over whether payday lending preys on the poor and the proposal for banks to offer cheaper small loans.",
+      "topics": [
+        "payday lending",
+        "payday loan fees",
+        "APR",
+        "small loans from banks"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Prepaid debit cards",
+      "summary": "Prepaid debit cards have grown rapidly and are easy to scam, with FTC complaints in 2013. Hidden fees led the Consumer Financial Protection Bureau to adopt new rules in October 2016 requiring upfront disclosure, free balance checks, and opt-in overdraft protection.",
+      "topics": [
+        "prepaid debit cards",
+        "prepaid card fraud",
+        "FTC complaints",
+        "CFPB prepaid card rules"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Short break before the alternatives discussion.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Alternative currencies: BerkShares, M-Pesa, time banking",
+      "summary": "The hosts describe BerkShares in western Massachusetts, a local currency with a five percent discount, and note historical local currencies. They cover Kenya's M-Pesa mobile money system, which spread to other countries, and time banking, which they found mostly inactive.",
+      "topics": [
+        "BerkShares",
+        "local currency",
+        "M-Pesa",
+        "mobile money",
+        "time banking",
+        "alternative currencies"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Mark Boyle and listener email",
+      "summary": "The hosts discuss Mark Boyle, who lived without money for a year, and A.J. Jacobs' stunt writing. Then a listener, Ryan Gunt Siowski, asks for an episode on type one versus type two diabetes.",
+      "topics": [
+        "Mark Boyle",
+        "moneyless living",
+        "listener mail",
+        "type one diabetes",
+        "type two diabetes"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:54:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts give their social media and contact information and close the episode.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15756,
+    "output_tokens": 2968
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-01-28_How_Hydropower_Works_52min.txt",
+  "title": "How Hydropower Works",
+  "date": "2021-01-28",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-hydropower-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7e905246-2431-4d7f-8fb8-ae280022ba71/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7e905246-2431-4d7f-8fb8-ae280022ba71/transcript?format=TextWithTimestamps&t=1700543600",
+  "summary": "Josh and Chuck explain how hydropower works, starting with the ancient water wheel (Philo of Byzantium's description, grist mills) and its evolution into hydroelectric generation, including the 1880s Craigside lamp in Rothbury, Northumberland (William Armstrong) and Grand Rapids, Michigan's street lights at the Wolverine Chair Company. They cover turbine types (Francis mixed-flow turbine, axial, bulb turbines), how a generator turns flowing water into electricity, the four main plant categories (impoundment, diversion/run-of-river, pumped storage, marine hydrokinetics), hydraulic head, and the decline of hydro's share of US and world power. They then discuss advantages (renewable, no emissions, fast ramp-up, long lifespan) and drawbacks (habitat flooding, fish passage barriers, displacement of communities, dam failure risk, and industry lobbying), plus newer ideas like movable dams, ultra-low head systems, and low-velocity turbines. A listener mail segment about Spotify listening stats closes the episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "hydropower",
+    "hydroelectric power",
+    "water wheel history",
+    "Francis turbine",
+    "turbine types",
+    "pumped storage hydropower",
+    "impoundment dam",
+    "run-of-river diversion hydropower",
+    "marine hydrokinetics",
+    "hydraulic head",
+    "dam environmental impact",
+    "fish ladders and fish passage",
+    "dam displacement and eminent domain",
+    "dam failure hazard",
+    "renewable energy",
+    "Grand Rapids street lights hydro",
+    "Craigside Rothbury William Armstrong",
+    "thermal vs hydro power cost",
+    "hydropower decline",
+    "low head turbines",
+    "movable dam",
+    "Hoover Dam reference",
+    "world hydropower production ranking"
+  ],
+  "entities": [
+    {
+      "name": "Craigside",
+      "type": "place"
+    },
+    {
+      "name": "Rothbury",
+      "type": "place"
+    },
+    {
+      "name": "William Armstrong",
+      "type": "person"
+    },
+    {
+      "name": "Grand Rapids, Michigan",
+      "type": "place"
+    },
+    {
+      "name": "Wolverine Chair Company",
+      "type": "organization"
+    },
+    {
+      "name": "James Francis",
+      "type": "person"
+    },
+    {
+      "name": "Philo of Byzantium",
+      "type": "person"
+    },
+    {
+      "name": "Hoover Dam",
+      "type": "place"
+    },
+    {
+      "name": "Lake Sinclair",
+      "type": "place"
+    },
+    {
+      "name": "Tigris River",
+      "type": "place"
+    },
+    {
+      "name": "Euphrates River",
+      "type": "place"
+    },
+    {
+      "name": "World Commission on Dams",
+      "type": "organization"
+    },
+    {
+      "name": "American Society of Civil Engineers",
+      "type": "organization"
+    },
+    {
+      "name": "Paraguay",
+      "type": "place"
+    },
+    {
+      "name": "Norway",
+      "type": "place"
+    },
+    {
+      "name": "Stone Mountain Park",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and hydropower introduction",
+      "summary": "Josh and Chuck open with banter about a song parody and group decision-making, then introduce hydropower's declining share of US and world electricity and the dam-removal trend.",
+      "topics": [
+        "hydropower",
+        "dam removal",
+        "hydropower decline"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Hydropower by country and the shift to thermal power",
+      "summary": "The hosts discuss hydropower's share by country (Paraguay, Norway, Nepal, Tajikistan, China, Brazil, US) and why new hydro projects have declined in favor of cheaper fossil-fuel thermal plants.",
+      "topics": [
+        "world hydropower production ranking",
+        "thermal vs hydro power cost",
+        "hydropower decline"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Origins of water power and the water wheel",
+      "summary": "The hosts cover early uses of water power, including a claimed description by Philo of Byzantium and Han dynasty speculation, and the mechanical water wheel used for grinding grain and other tasks for centuries.",
+      "topics": [
+        "water wheel history",
+        "water power origins",
+        "mechanical energy"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Early hydroelectricity: Craigside and Grand Rapids",
+      "summary": "The hosts describe the first hydroelectric power at Craigside in Rothbury, Northumberland, powered by William Armstrong, and Grand Rapids, Michigan's hydro-powered street lights, which correct an earlier mistaken claim about Niagara Falls.",
+      "topics": [
+        "Craigside Rothbury William Armstrong",
+        "Grand Rapids street lights hydro",
+        "hydroelectric history"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:21:30",
+      "kind": "intro",
+      "title": "Tangent on comedy and Max Fun",
+      "summary": "Josh and Chuck chat about a 1970s comedy documentary and a Max Fun convention anecdote before a break.",
+      "topics": [
+        "comedy tangent"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Energy of flowing water and turbine designs",
+      "summary": "The hosts cite stats on water's force at different speeds and describe how turbines evolved from the water wheel, including bulb turbines and the Francis mixed-flow turbine invented by James Francis.",
+      "topics": [
+        "turbine types",
+        "Francis turbine",
+        "James Francis",
+        "axial flow turbine",
+        "bulb turbine"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "How a generator produces electricity from a turbine",
+      "summary": "The turbine spins magnets inside copper coils, inducing electron flow that becomes alternating current, which can be sent long distances over the grid.",
+      "topics": [
+        "electric generator",
+        "alternating current",
+        "electrical grid"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Four categories of hydro plants: impoundment, diversion, conduit, pumped storage",
+      "summary": "The hosts explain impoundment dams using reservoirs and penstocks, the importance of hydraulic head, run-of-river diversion, conduit/canal plants, and pumped storage that acts like a rechargeable battery, with a Lake Sinclair anecdote.",
+      "topics": [
+        "impoundment dam",
+        "hydraulic head",
+        "run-of-river diversion hydropower",
+        "pumped storage hydropower",
+        "conduit hydropower"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Pumped storage with renewables and marine hydrokinetics",
+      "summary": "The hosts note pumped storage can use excess wind and solar power, then cover marine hydrokinetic plants using waves and tides, referencing a University of Florida estimate for Florida and a previous episode.",
+      "topics": [
+        "marine hydrokinetics",
+        "tidal power",
+        "wave power",
+        "renewable energy"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:30",
+      "kind": "intro",
+      "title": "Music tangent and break",
+      "summary": "Hosts chat about musicians from Gainesville and Florida and then pause for a break.",
+      "topics": [
+        "tangent"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Advantages of hydropower",
+      "summary": "The hosts praise hydro as renewable, emission-free, simple, long-lasting and cost-effective over time, and able to ramp up to full output in seconds to minutes compared with thermal plants.",
+      "topics": [
+        "renewable energy",
+        "no emissions hydropower",
+        "ramp up time",
+        "plant lifespan"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Environmental and social drawbacks of dams",
+      "summary": "The hosts discuss reservoir ecosystem loss, methane release from flooded vegetation, downstream silt and nutrient loss, fish passage barriers and fish ladders, displacement of communities, and dam failure risk, with an ASCE estimate of 15,600 high-hazard US dams, and Turkey's Tigris and Euphrates projects.",
+      "topics": [
+        "dam environmental impact",
+        "fish ladders and fish passage",
+        "dam displacement and eminent domain",
+        "dam failure hazard",
+        "Tigris River",
+        "Euphrates River"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:52:30",
+      "kind": "outro",
+      "title": "Future of hydro and sign-off",
+      "summary": "The hosts close with a note on movable dams, low-head and low-velocity turbines, and industry priorities, then sign off.",
+      "topics": [
+        "movable dam",
+        "low head turbines",
+        "low velocity turbines"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16541,
+    "output_tokens": 2921
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-07-23_Phone_Phreaking_The_Advent_of_Hacking_48min.txt",
+  "title": "Phone Phreaking: The Advent of Hacking",
+  "date": "2024-07-23",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/phone-phreaking-the-advent-of-hacking",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee1ea323-61cb-4d70-bb95-b1b1011c0153/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ee1ea323-61cb-4d70-bb95-b1b1011c0153/transcript?format=TextWithTimestamps&t=1721725445",
+  "summary": "Josh and Chuck (with new writer Kyle Hookstra's article) explain phone phreaking, the 1950s-1980s practice of hijacking the telephone network by replicating its control tones. They cover the switchboard-to-automatic-switch shift, multi-frequency tones and the 2600 Hz signal, trunk lines, the Captain Crunch whistle and John Draper, blue, red and black boxes, beep lines, the mafia's use of blue boxes for bookmaking, the 1971 Esquire article, Steve Wozniak and Steve Jobs' blue boxes, the 1974 Santa Barbara fake nuclear attack prank, the film WarGames and the Computer Fraud and Abuse Act, AT&T's Green Star wiretap operation, and the transition to computer hacking and modern cell-tower spoofing. The episode closes with listener mail about a forgotten word and a question about warm-season turf grass.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "phone phreaking",
+    "phone freaking",
+    "hacking history",
+    "blue box",
+    "red box",
+    "black box",
+    "Captain Crunch whistle",
+    "2600 Hz tone",
+    "multi-frequency tones",
+    "John Draper",
+    "Captain Crunch",
+    "trunk lines",
+    "beep lines",
+    "AT&T",
+    "Ma Bell",
+    "Esquire Secrets of the Little Blue Box",
+    "Steve Wozniak",
+    "Steve Jobs",
+    "WarGames",
+    "Computer Fraud and Abuse Act",
+    "Green Star wiretap",
+    "Santa Barbara 1974 prank",
+    "mafia phone phreaking",
+    "long distance costs",
+    "acoustic coupler",
+    "cell tower spoofing",
+    "switchboard automation"
+  ],
+  "entities": [
+    {
+      "name": "John Draper",
+      "type": "person"
+    },
+    {
+      "name": "Joe Engressia",
+      "type": "person"
+    },
+    {
+      "name": "Ron Rosenbaum",
+      "type": "person"
+    },
+    {
+      "name": "Steve Wozniak",
+      "type": "person"
+    },
+    {
+      "name": "Steve Jobs",
+      "type": "person"
+    },
+    {
+      "name": "Mark Bernet",
+      "type": "person"
+    },
+    {
+      "name": "Kenneth Hannah",
+      "type": "person"
+    },
+    {
+      "name": "John Vessey",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "AT&T",
+      "type": "organization"
+    },
+    {
+      "name": "Esquire",
+      "type": "organization"
+    },
+    {
+      "name": "Apple",
+      "type": "organization"
+    },
+    {
+      "name": "WarGames",
+      "type": "work"
+    },
+    {
+      "name": "Dark Territory",
+      "type": "work"
+    },
+    {
+      "name": "Computer Fraud and Abuse Act",
+      "type": "work"
+    },
+    {
+      "name": "Green Star",
+      "type": "event"
+    },
+    {
+      "name": "Santa Barbara nuclear hoax prank call, 1974",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Welcome and new writer Kyle Hookstra",
+      "summary": "The hosts welcome writer Kyle Hookstra, a Brighton-based Brit, and introduce the episode's origin in a sidebar from the whistling episode about Captain Crunch whistles hacking the phone system.",
+      "topics": [
+        "show intro",
+        "Kyle Hookstra"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:41",
+      "kind": "content",
+      "title": "What phone phreaking is",
+      "summary": "Phone phreaking is defined as replicating the tones the automated telephone system used to route calls. Switchboard operators were replaced by automatic switches in the 1950s and 1960s, and the system's tone-based design was exploitable.",
+      "topics": [
+        "phone phreaking",
+        "automatic switching",
+        "telephone system history",
+        "switchboard operators"
+      ]
+    },
+    {
+      "start": "00:03:41",
+      "end": "00:07:25",
+      "kind": "content",
+      "title": "Automatic switches and multi-frequency tones",
+      "summary": "The automatic switch was invented by a nineteenth-century mortician. Automated switching adopted multi-frequency tones that told equipment what to do. Dial tones were not used with switchboards. The hosts also describe how rotary dialing worked through electrical pulses.",
+      "topics": [
+        "Strowger switch",
+        "multi-frequency tones",
+        "rotary phone pulses",
+        "dial tones"
+      ]
+    },
+    {
+      "start": "00:07:25",
+      "end": "00:12:47",
+      "kind": "content",
+      "title": "The 2600 Hz tone and trunk lines",
+      "summary": "The 2600 Hz tone signaled that a line was on hook. Freakers could mimic it, dial a toll-free 800 number, and then send the tone again to keep the line open for free long-distance calls. Trunk lines carried single calls between offices, and thousands were needed.",
+      "topics": [
+        "2600 Hz tone",
+        "toll-free 800 numbers",
+        "free long distance",
+        "trunk lines"
+      ]
+    },
+    {
+      "start": "00:12:47",
+      "end": "00:15:20",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:15:20",
+      "end": "00:20:13",
+      "kind": "content",
+      "title": "Early freakers, Captain Crunch whistle and blue boxes",
+      "summary": "Joe Engressia, a blind man with perfect pitch, whistled tones himself. The Captain Crunch whistle produced 2600 Hz when one hole was covered, and it was credited to John Draper, whose handle was Captain Crunch. Homemade blue boxes generated tones. A 1950s AT&T engineer's technical journal article published the master tones, which spread the practice.",
+      "topics": [
+        "Joe Engressia",
+        "John Draper",
+        "Captain Crunch whistle",
+        "blue box",
+        "multi-frequency master tones",
+        "AT&T engineer article"
+      ]
+    },
+    {
+      "start": "00:20:13",
+      "end": "00:24:05",
+      "kind": "content",
+      "title": "Red and black boxes, pranks, and mafia long-distance theft",
+      "summary": "Red boxes mimicked coin-deposit tones for payphones and black boxes interrupted the line to avoid billing. A 1974 Santa Barbara prank used simultaneous seizure to route calls to a fake nuclear attack message. The mafia used blue boxes for bookmaking calls. In 1965 long distance cost about twelve dollars for three minutes.",
+      "topics": [
+        "red box",
+        "black box",
+        "payphone coin tones",
+        "simultaneous seizure",
+        "Santa Barbara 1974 prank",
+        "mafia bookmaking",
+        "long distance costs"
+      ]
+    },
+    {
+      "start": "00:24:05",
+      "end": "00:28:23",
+      "kind": "content",
+      "title": "WarGames, Reagan, and the Computer Fraud and Abuse Act",
+      "summary": "The hosts discuss the film WarGames, including war dialing and an inaccurate payphone hack. Reagan reportedly asked the Joint Chiefs about the threat, and General John Vessey reported the problem was worse. Congress passed the Computer Fraud and Abuse Act three years later.",
+      "topics": [
+        "WarGames",
+        "war dialing",
+        "Computer Fraud and Abuse Act",
+        "Reagan",
+        "John Vessey",
+        "Dark Territory"
+      ]
+    },
+    {
+      "start": "00:28:23",
+      "end": "00:31:19",
+      "kind": "content",
+      "title": "Esquire article, Draper's later controversy, and Apple's founders",
+      "summary": "Ron Rosenbaum's 1971 Esquire article Secrets of the Little Blue Box spread the practice. Draper was later banned from conferences after sexual assault allegations. Steve Wozniak and Steve Jobs built and sold digital blue boxes, and Jobs reportedly said there would be no Apple without them.",
+      "topics": [
+        "Esquire 1971",
+        "Ron Rosenbaum",
+        "Steve Wozniak",
+        "Steve Jobs",
+        "digital blue box",
+        "Apple origins"
+      ]
+    },
+    {
+      "start": "00:31:19",
+      "end": "00:35:57",
+      "kind": "content",
+      "title": "Beep lines and personal phone memories",
+      "summary": "Beep lines let callers who got a busy signal talk to other callers on the same line, becoming popular in the 1960s and 1970s, with radio stations as hubs. The hosts swap memories of early cordless phones and Sports Illustrated subscriptions.",
+      "topics": [
+        "beep lines",
+        "busy signal",
+        "party lines",
+        "radio station call-ins"
+      ]
+    },
+    {
+      "start": "00:35:57",
+      "end": "00:36:10",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:36:10",
+      "end": "00:40:58",
+      "kind": "content",
+      "title": "Golden age of freaking, Mark Bernet, and AT&T's Green Star wiretaps",
+      "summary": "The golden age of phreaking ran from the mid-1960s to mid-1970s. Mark Bernet put up stickers on the West Coast to recruit freakers, and blind teenagers were an important community. AT&T responded by separating lines and upgrading switches. The 1966 Kenneth Hannah prosecution set precedent, and AT&T's Green Star operation tapped about thirty-three million calls between 1964 and 1970.",
+      "topics": [
+        "golden age of phreaking",
+        "Mark Bernet",
+        "blind teenagers",
+        "Kenneth Hannah",
+        "Green Star",
+        "AT&T wiretapping",
+        "fraud by wire"
+      ]
+    },
+    {
+      "start": "00:40:58",
+      "end": "00:44:07",
+      "kind": "content",
+      "title": "AT&T's losses and the move to computer and cell hacking",
+      "summary": "AT&T estimated losses of about thirty million dollars a year in the mid-1970s from phreaking. The hosts note that the last blue-boxable circuit was disconnected in 2006 in rural Minnesota. Phreaking moved to computers through acoustic couplers, and modern cell-tower spoofing and eavesdropping continue.",
+      "topics": [
+        "AT&T losses",
+        "acoustic coupler",
+        "last blue box circuit",
+        "cell tower spoofing",
+        "modern phone hacking"
+      ]
+    },
+    {
+      "start": "00:44:07",
+      "end": "00:46:04",
+      "kind": "content",
+      "title": "Phone scams and spoofed calls",
+      "summary": "The hosts discuss modern spoofed calls that pretend to be from American Express and are used to steal credit information.",
+      "topics": [
+        "spoofed calls",
+        "phone scams",
+        "social engineering",
+        "American Express scam calls"
+      ]
+    },
+    {
+      "start": "00:46:04",
+      "end": "00:47:49",
+      "kind": "listener_mail",
+      "title": "Listener mail: forgotten words and turf grass",
+      "summary": "Listener Joel Dawson writes about struggling to remember a word, and Chuck asks about the name of a warm-season grass he has.",
+      "topics": [
+        "listener mail",
+        "forgotten words",
+        "warm season grass"
+      ]
+    },
+    {
+      "start": "00:47:49",
+      "end": "00:48:05",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank Joel and Kyle and invite listener email. Closing credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17379,
+    "output_tokens": 3818
+  }
+}

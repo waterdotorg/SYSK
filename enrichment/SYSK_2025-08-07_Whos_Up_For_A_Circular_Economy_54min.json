@@ -1,0 +1,382 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-08-07_Whos_Up_For_A_Circular_Economy_54min.txt",
+  "title": "Who's Up For A Circular Economy",
+  "date": "2025-08-07",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whos-up-for-a-circular-economy",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0bb76097-5b75-486f-99f2-b32f0144ecdb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0bb76097-5b75-486f-99f2-b32f0144ecdb/transcript?format=TextWithTimestamps&t=1754337314",
+  "summary": "Josh and Chuck explain the circular economy, a model proposed largely through the Ellen MacArthur Foundation as an alternative to the linear take-make-waste economy. They cover design for longevity and repairability, planned obsolescence, recycling as a last resort, and examples including aluminum can recycling, Unilever refill programs, the Dutch companies Niaga (mattresses and carpets) and Bundles (appliance rental), food waste and the nutrient cycle, cascading food byproducts (Peel Pioneers), fast fashion's environmental impact, Patagonia and Infinna textile recycling, returns going to landfill, and right to repair. They end with a discussion of policy prospects in the US, the EU, and China, followed by listener mail correcting the Alexander Graham Bell birthplace and a shout-out to a listener.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "circular economy",
+    "linear economy",
+    "take make waste",
+    "Ellen MacArthur Foundation",
+    "recycling hierarchy",
+    "planned obsolescence",
+    "right to repair",
+    "design for longevity",
+    "product repairability",
+    "product-as-a-service",
+    "leasing vs owning",
+    "aluminum can recycling",
+    "Unilever refill",
+    "Niaga mattresses",
+    "Bundles appliance rental",
+    "food waste",
+    "nutrient cycle",
+    "cascading food byproducts",
+    "Peel Pioneers",
+    "fast fashion",
+    "textile recycling",
+    "Infinna fiber",
+    "Patagonia",
+    "clothing returns landfill",
+    "mattress and carpet waste",
+    "biosolids Milorganite",
+    "China circular economy",
+    "EU circular economy policy",
+    "sustainability"
+  ],
+  "entities": [
+    {
+      "name": "Ellen MacArthur Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Ellen MacArthur",
+      "type": "person"
+    },
+    {
+      "name": "Unilever",
+      "type": "organization"
+    },
+    {
+      "name": "Niaga",
+      "type": "organization"
+    },
+    {
+      "name": "Bundles",
+      "type": "organization"
+    },
+    {
+      "name": "Peel Pioneers",
+      "type": "organization"
+    },
+    {
+      "name": "Patagonia",
+      "type": "organization"
+    },
+    {
+      "name": "Infinna",
+      "type": "organization"
+    },
+    {
+      "name": "Milorganite",
+      "type": "other"
+    },
+    {
+      "name": "Shark Tank",
+      "type": "work"
+    },
+    {
+      "name": "Deep Water",
+      "type": "work"
+    },
+    {
+      "name": "Donald Crowhurst",
+      "type": "person"
+    },
+    {
+      "name": "Charles Chips",
+      "type": "organization"
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck joke about Jerry's lateness and about Stuff You Should Know not being on a Time magazine podcast list.",
+      "topics": [
+        "podcast banter",
+        "Time magazine podcast list"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:05:05",
+      "kind": "content",
+      "title": "Origins of the circular economy",
+      "summary": "Chuck explains the circular economy as a fairly new idea promoted by the Ellen MacArthur Foundation, with Ellen MacArthur's record solo sail around the world used as an aside. Outputs are meant to be reused as inputs, and recycling is considered among the least desirable options. A Deep Water documentary about Donald Crowhurst comes up in passing.",
+      "topics": [
+        "circular economy origins",
+        "Ellen MacArthur Foundation",
+        "Deep Water documentary",
+        "recycling hierarchy"
+      ]
+    },
+    {
+      "start": "00:05:05",
+      "end": "00:07:40",
+      "kind": "content",
+      "title": "The linear economy and its challenges",
+      "summary": "Josh describes the linear take-make-waste economy. Chuck explains that the linear model is profitable and has funded science and raised living standards, which makes shifting away from it difficult.",
+      "topics": [
+        "linear economy",
+        "take make waste",
+        "economic inertia",
+        "industrial revolution economy"
+      ]
+    },
+    {
+      "start": "00:07:40",
+      "end": "00:11:10",
+      "kind": "content",
+      "title": "Worst sectors and construction waste",
+      "summary": "The hosts name food, electronics, consumer goods, and construction as the worst sectors. They discuss planned obsolescence in electronics and clothing, and Josh recounts salvaging building materials from a renovation dumpster.",
+      "topics": [
+        "planned obsolescence",
+        "construction waste",
+        "salvaging building materials",
+        "electronics waste"
+      ]
+    },
+    {
+      "start": "00:11:10",
+      "end": "00:12:50",
+      "kind": "content",
+      "title": "What a circular economy aims to fix",
+      "summary": "Chuck says the circular model is conceptual and not a complete solution. Josh describes planned permanence, repairability, sharing and renting instead of owning, and recycling components at end of life. Chuck notes that reducing consumption is not emphasized.",
+      "topics": [
+        "planned permanence",
+        "sharing economy",
+        "product lifespan",
+        "reduce consumption"
+      ]
+    },
+    {
+      "start": "00:12:50",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Repairing hammers and reuse",
+      "summary": "Using a hammer as an example, Chuck explains that reuse is better than recycling. Josh describes repair videos showing broken wooden hammer handles being fixed. Chuck issues a playful challenge to mail him broken hammers.",
+      "topics": [
+        "product reuse",
+        "repair culture",
+        "hammer repair",
+        "reuse over recycling"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:16:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:21:10",
+      "kind": "content",
+      "title": "Aluminum cans and consumer behavior",
+      "summary": "Josh notes aluminum is highly recyclable, with about 71 percent recycled content in US cans. Chuck says about 35 percent of cans are still thrown away, so consumer behavior must change. They discuss corporate partnerships such as Unilever refill programs and small companies featured on Shark Tank with similar ideas.",
+      "topics": [
+        "aluminum can recycling",
+        "consumer behavior",
+        "Unilever refill programs",
+        "Shark Tank sustainable companies",
+        "refill stations"
+      ]
+    },
+    {
+      "start": "00:21:10",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Niaga and medium-life bulky products",
+      "summary": "Chuck describes Dutch company Niaga, which targets carpets and mattresses as hard-to-recycle medium-life bulky products. Stats cited include about 20 million mattresses discarded in the US, 2 billion pounds of carpet landfilled, and only 5 percent of carpet recycled. Niaga makes mattresses from recyclable materials with replaceable parts.",
+      "topics": [
+        "Niaga",
+        "mattress waste",
+        "carpet recycling",
+        "medium-life bulky products",
+        "replaceable components",
+        "design for disassembly"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Design as the key to circularity",
+      "summary": "Josh argues that design is central, since linear products are purposefully made obsolete. Chuck adds that recycling infrastructure must be designed for products and that waste is a design choice, using packaging of potato chips as an example. Companies focused on the end user versus the broader environment are discussed.",
+      "topics": [
+        "product design",
+        "packaging design",
+        "waste as design choice",
+        "recycling infrastructure"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Milk-style delivery and energy inputs",
+      "summary": "Josh recalls Charles Chips reusable tin delivery service. Chuck notes that renewable energy alone cannot cover all needs, so industrial smoke stacks and power plants need to capture and reuse emissions.",
+      "topics": [
+        "Charles Chips reusable tins",
+        "energy transition",
+        "carbon capture",
+        "renewables"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Product-as-a-service and Bundles appliance rental",
+      "summary": "Chuck describes Dutch company Bundles, which rents high-end appliances, installs and maintains them, and takes them back to refurbish. Customers pay per wash, tracked via Wi-Fi. Josh and Chuck discuss the American stigma of renting appliances and the cultural value of owning them.",
+      "topics": [
+        "Bundles",
+        "appliance rental",
+        "pay per use",
+        "product-as-a-service",
+        "right to own"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:20",
+      "kind": "content",
+      "title": "Laundry stain removers and tangent",
+      "summary": "The hosts joke about washing clothes and stain removers, including Shout and Zout. This section is mostly banter about laundry.",
+      "topics": [
+        "laundry",
+        "stain removal",
+        "Zout",
+        "Shout"
+      ]
+    },
+    {
+      "start": "00:36:20",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Food waste and the nutrient cycle",
+      "summary": "Chuck says about a third of world food is wasted each year, worth about a trillion dollars. Josh explains that wasting food disrupts the natural nutrient cycle. Chuck notes that landfilling food removes nutrients from the cycle, and that composting is better.",
+      "topics": [
+        "food waste",
+        "nutrient cycle",
+        "composting",
+        "landfill methane and nutrients"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:41:10",
+      "kind": "content",
+      "title": "Biosolids and Milorganite",
+      "summary": "Chuck describes Milorganite, a fertilizer made from treated sewage biosolids from Milwaukee's municipal sewerage system, as a nitrogen-rich lawn fertilizer. Josh and Chuck joke about it and mention the Emily Sheep connection.",
+      "topics": [
+        "biosolids",
+        "Milorganite",
+        "sewage recycling",
+        "fertilizer"
+      ]
+    },
+    {
+      "start": "00:41:10",
+      "end": "00:43:10",
+      "kind": "content",
+      "title": "Cascading food waste and anaerobic digesters",
+      "summary": "Josh describes cascading, reusing food byproducts, with Peel Pioneers in the Netherlands extracting essential oils from citrus peels. Converting waste to biofuel and anaerobic digesters with microbes that break down waste are also discussed.",
+      "topics": [
+        "cascading",
+        "Peel Pioneers",
+        "citrus essential oils",
+        "biofuel",
+        "anaerobic digesters",
+        "microbes breaking down plastic"
+      ]
+    },
+    {
+      "start": "00:43:10",
+      "end": "00:47:30",
+      "kind": "content",
+      "title": "Fast fashion and textile recycling",
+      "summary": "The hosts describe fast fashion's labor, material, water, and emissions problems. Fashion is said to produce ten percent of global CO2 emissions, with 85 percent of clothing ending in landfills. Microplastics from washing are discussed. Patagonia's repair and resale programs and its partnership with Infinna, which recycles textile waste into a new fiber, are described. Clothing returns sent to landfill are also discussed.",
+      "topics": [
+        "fast fashion",
+        "textile recycling",
+        "Infinna",
+        "Patagonia repair program",
+        "microplastics from clothing",
+        "clothing returns landfill",
+        "fashion emissions"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:50:10",
+      "kind": "content",
+      "title": "Right to repair and policy outlook",
+      "summary": "Josh explains the right to repair movement, including manufacturers' claims that repair manuals create hacking risks. Chuck describes his laptop battery that cannot be replaced. They doubt US implementation soon, note the EU's progress, and say global recycling is declining.",
+      "topics": [
+        "right to repair",
+        "planned obsolescence",
+        "EU circular economy policy",
+        "US policy outlook",
+        "global recycling decline"
+      ]
+    },
+    {
+      "start": "00:50:10",
+      "end": "00:51:50",
+      "kind": "content",
+      "title": "Consumption growth and China's circular economy",
+      "summary": "Chuck cites data showing 500 gigatons of material consumed from 2018 to 2024 and that consumption keeps rising. He says China committed to a circular economy in the 2000s and currently focuses on automotive remanufacturing.",
+      "topics": [
+        "material consumption growth",
+        "China circular economy",
+        "automotive remanufacturing"
+      ]
+    },
+    {
+      "start": "00:51:50",
+      "end": "00:53:20",
+      "kind": "listener_mail",
+      "title": "Listener mail",
+      "summary": "Listener Joel corrects an earlier claim that Alexander Graham Bell was born in Branford, noting he was born in Scotland and only lived in Branford. The hosts also shout out listener Nick from Which Bolt.",
+      "topics": [
+        "listener mail",
+        "Alexander Graham Bell",
+        "corrections"
+      ]
+    },
+    {
+      "start": "00:53:20",
+      "end": "00:53:55",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck gives the email address for contacting the show, and Josh closes with the iHeartRadio credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19954,
+    "output_tokens": 4488
+  }
+}

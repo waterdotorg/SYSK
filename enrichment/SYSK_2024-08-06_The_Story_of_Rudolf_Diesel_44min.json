@@ -1,0 +1,375 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-08-06_The_Story_of_Rudolf_Diesel_44min.txt",
+  "title": "The Story of Rudolf Diesel",
+  "date": "2024-08-06",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-story-of-rudolf-diesel",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ff810562-625c-4f03-85bf-b1c3011074a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ff810562-625c-4f03-85bf-b1c3011074a2/transcript?format=TextWithTimestamps&t=1722934978",
+  "summary": "Hosts Josh Clark and Chuck Bryant (sitting in for Jerry) profile Rudolf Diesel, the German engineer who invented the diesel engine. They cover his childhood fascination with internal combustion after seeing Nicolaus Otto's engine at the 1867 Paris World's Fair, his education in Munich and work with Carl von Linde, the ice machine and ice cube patent, the inefficiency of steam engines, his compression-ignition design, the 1897 public test running on kerosene, licensing deals, his Munich mansion and family life, his finances, and his mysterious disappearance from the SS Dresden in September 1913, with a body later found in the Netherlands. Also covered: the submarine connection to World War I, diesel's modern role, and a listener mail about Harvard Divinity School.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Rudolf Diesel",
+    "diesel engine",
+    "diesel engine invention",
+    "compression ignition",
+    "internal combustion engine",
+    "steam engine efficiency",
+    "Carl von Linde",
+    "ice cube patent",
+    "Nicolaus Otto engine",
+    "1897 public test diesel engine",
+    "diesel engine licensing",
+    "Rudolf Diesel disappearance",
+    "SS Dresden",
+    "Rudolf Diesel death theories",
+    "submarine diesel engines World War I",
+    "Consolidated Diesel Engine Company",
+    "Douglas Brunt biography",
+    "biodiesel history",
+    "Carnot cycle",
+    "Krupp investment",
+    "Harvard Divinity School",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Rudolf Diesel",
+      "type": "person"
+    },
+    {
+      "name": "Carl von Linde",
+      "type": "person"
+    },
+    {
+      "name": "Nicolaus Otto",
+      "type": "person"
+    },
+    {
+      "name": "Sadi Carnot",
+      "type": "person"
+    },
+    {
+      "name": "Nicholas Otto",
+      "type": "person"
+    },
+    {
+      "name": "Friedrich Krupp",
+      "type": "person"
+    },
+    {
+      "name": "Heinrich von Buz",
+      "type": "person"
+    },
+    {
+      "name": "George Carels",
+      "type": "person"
+    },
+    {
+      "name": "Alfred Lauchen",
+      "type": "person"
+    },
+    {
+      "name": "Douglas Brunt",
+      "type": "person"
+    },
+    {
+      "name": "John Frederick Moon",
+      "type": "person"
+    },
+    {
+      "name": "Winston Churchill",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "John D. Rockefeller",
+      "type": "person"
+    },
+    {
+      "name": "Kaiser Wilhelm",
+      "type": "person"
+    },
+    {
+      "name": "SS Dresden",
+      "type": "work"
+    },
+    {
+      "name": "Maschinenfabrik Augsburg",
+      "type": "organization"
+    },
+    {
+      "name": "Consolidated Diesel Engine Company",
+      "type": "organization"
+    },
+    {
+      "name": "Technische Hochschule München",
+      "type": "organization"
+    },
+    {
+      "name": "Paris World's Fair 1867",
+      "type": "event"
+    },
+    {
+      "name": "Franco-Prussian War",
+      "type": "event"
+    },
+    {
+      "name": "World War I",
+      "type": "event"
+    },
+    {
+      "name": "Harvard Divinity School",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Opening and episode setup",
+      "summary": "Josh and Chuck introduce the episode on Rudolf Diesel, written by Anna Green, and credit the listeners who suggested the topic.",
+      "topics": [
+        "Rudolf Diesel",
+        "listener suggestions"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:03:00",
+      "kind": "content",
+      "title": "Diesel's early life and first engine encounter",
+      "summary": "Diesel's birth in Paris and his tinkering as a child. At the 1867 Paris World's Fair he saw Nicolaus Otto's internal combustion engine. The family moved to London after the Franco-Prussian War.",
+      "topics": [
+        "Rudolf Diesel childhood",
+        "Nicolaus Otto engine",
+        "Paris World's Fair 1867",
+        "Franco-Prussian War"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Education and meeting Carl von Linde",
+      "summary": "Diesel went to school in Augsburg and then Munich, defying his father's request that he work. He met Carl von Linde, who became his employer and mentor. He became fascinated with Sadi Carnot's theoretical cycle.",
+      "topics": [
+        "Carl von Linde",
+        "Carnot cycle",
+        "Technische Hochschule München",
+        "Diesel education"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:56",
+      "kind": "content",
+      "title": "Ice machines, the ice cube patent, and early engine work",
+      "summary": "Diesel worked for Linde on ice machines and reportedly patented the ice cube. He spent years on an ammonia heat engine that proved too volatile, then turned to the internal combustion engine and filed a patent in 1892.",
+      "topics": [
+        "ice cube patent",
+        "ice machine",
+        "ammonia heat engine",
+        "Diesel patent 1892"
+      ]
+    },
+    {
+      "start": "00:11:14",
+      "end": "00:13:25",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode iHeart ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:13:25",
+      "end": "00:16:27",
+      "kind": "content",
+      "title": "Horses, coal, and the case for a new engine",
+      "summary": "Context of urban horse waste and the coal problem, with Stanley Jevons's book on coal warning of depletion. Diesel adapted the idea of sparkless ignition from a tinderbox, using compressed air to ignite fuel. Steam engines were about ten percent efficient.",
+      "topics": [
+        "steam engine inefficiency",
+        "coal depletion",
+        "Jevons The Coal Question",
+        "compression ignition",
+        "horse-drawn cities"
+      ]
+    },
+    {
+      "start": "00:16:27",
+      "end": "00:18:08",
+      "kind": "content",
+      "title": "Diesel's goal of helping rural artisans",
+      "summary": "Diesel wanted a small, cheap-fuel engine for craftsmen and rural areas, and envisioned running it on vegetable oil, which later became the basis of biodiesel.",
+      "topics": [
+        "rural engines",
+        "vegetable oil fuel",
+        "biodiesel history",
+        "artisan power"
+      ]
+    },
+    {
+      "start": "00:18:08",
+      "end": "00:23:16",
+      "kind": "content",
+      "title": "Funding, prototypes, and the 1897 public test",
+      "summary": "Investors Heinrich von Buz and Friedrich Krupp backed the work at Maschinenfabrik Augsburg. An early prototype exploded. A later engine ran on kerosene and was publicly tested on February 17, 1897, achieving about 26.2 percent efficiency.",
+      "topics": [
+        "1897 public test diesel engine",
+        "Friedrich Krupp",
+        "Heinrich von Buz",
+        "diesel engine prototype",
+        "engine efficiency"
+      ]
+    },
+    {
+      "start": "00:23:16",
+      "end": "00:25:01",
+      "kind": "content",
+      "title": "Licensing deals and fortune",
+      "summary": "Diesel sold numerous licenses, including the US and Canadian rights to Augustus Busch. The hosts disagree on the conversion of 3.5 million marks to dollars.",
+      "topics": [
+        "diesel engine licensing",
+        "Augustus Busch",
+        "patent sales",
+        "fortune"
+      ]
+    },
+    {
+      "start": "00:25:01",
+      "end": "00:27:31",
+      "kind": "content",
+      "title": "Shared development, WWI, and submarines",
+      "summary": "Licensees were meant to share improvements. The engine became part of an arms race between Britain and Germany. Diesel moved to Britain and co-founded the Consolidated Diesel Engine Company with George Carels, and diesel engines powered submarines.",
+      "topics": [
+        "submarine diesel engines",
+        "World War I arms race",
+        "Consolidated Diesel Engine Company",
+        "George Carels"
+      ]
+    },
+    {
+      "start": "00:27:31",
+      "end": "00:28:05",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode iHeart ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:28:05",
+      "end": "00:31:08",
+      "kind": "content",
+      "title": "Munich mansion, family, and health",
+      "summary": "Diesel reunited with his family and built a mansion in Munich designed with architect Max Littmann, featuring an indoor bike track and five bathrooms. He suffered from migraines and gout, and his early engines were unreliable.",
+      "topics": [
+        "Munich mansion",
+        "Rudolf Diesel family",
+        "migraines and gout",
+        "early engine failures"
+      ]
+    },
+    {
+      "start": "00:31:08",
+      "end": "00:33:10",
+      "kind": "content",
+      "title": "Finances debate and 1903 book",
+      "summary": "Biographers disagree on Diesel's finances: John Frederick Moon described him as destitute, while Douglas Brunt argued he was financially sound after 1900. Diesel published a 1903 book on social reform and claimed to have solved the social question.",
+      "topics": [
+        "Rudolf Diesel finances",
+        "Douglas Brunt biography",
+        "John Frederick Moon",
+        "Solidarity book 1903"
+      ]
+    },
+    {
+      "start": "00:33:10",
+      "end": "00:35:39",
+      "kind": "content",
+      "title": "Disappearance from the SS Dresden",
+      "summary": "In September 1913, Diesel boarded the SS Dresden at Antwerp (Ghent per the transcript) for a trip to London for a company groundbreaking. He went missing overnight; his bed was unslept, his nightclothes laid out, and his coat was folded at the railing. A bag contained 20,000 marks, and records showed the family was broke.",
+      "topics": [
+        "Rudolf Diesel disappearance",
+        "SS Dresden",
+        "September 1913",
+        "mysterious death"
+      ]
+    },
+    {
+      "start": "00:35:39",
+      "end": "00:38:03",
+      "kind": "content",
+      "title": "Suicide, murder, and death theories",
+      "summary": "Theories included murder by the Germans or Rockefeller, and a faked death. Most people think suicide. Eleven days later a body washed up in the Netherlands and was identified by a son as likely Diesel though decomposed.",
+      "topics": [
+        "Rudolf Diesel death theories",
+        "suicide theory",
+        "body found Netherlands",
+        "Rockefeller enemies"
+      ]
+    },
+    {
+      "start": "00:38:03",
+      "end": "00:40:23",
+      "kind": "content",
+      "title": "Identification details and body disposal",
+      "summary": "Hosts discuss the recovered belongings, which the family identified. They recount the disputed reports that the body was returned to the sea.",
+      "topics": [
+        "body identification",
+        "Rudolf Diesel belongings",
+        "disputed accounts"
+      ]
+    },
+    {
+      "start": "00:40:23",
+      "end": "00:41:40",
+      "kind": "content",
+      "title": "Modern diesel use and emissions",
+      "summary": "About 96 percent of EU trucks ran on diesel in 2022 and about 23 percent of US fuel is diesel. Diesel burns more efficiently than gas but still pollutes.",
+      "topics": [
+        "diesel emissions",
+        "diesel fuel usage",
+        "CO2 and diesel",
+        "diesel trucks"
+      ]
+    },
+    {
+      "start": "00:41:40",
+      "end": "00:43:21",
+      "kind": "listener_mail",
+      "title": "Listener mail: Harvard Divinity School",
+      "summary": "Listener Eric Wickstrom shares a story about Harvard Divinity School nearly being sold in the 1960s, and the hosts respond with a Simpsons reference.",
+      "topics": [
+        "listener mail",
+        "Harvard Divinity School",
+        "Harvard charter"
+      ]
+    },
+    {
+      "start": "00:43:21",
+      "end": "00:43:40",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh invites listener feedback at the show email address and Chuck signs off.",
+      "topics": [
+        "outro",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15784,
+    "output_tokens": 4099
+  }
+}

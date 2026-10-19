@@ -1,0 +1,216 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-11-12_How_Population_Works_29min.txt",
+  "title": "How Population Works",
+  "date": "2009-11-12",
+  "duration": "29 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-population-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a52f26d8-516f-4ece-a005-ae2800bbca3d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a52f26d8-516f-4ece-a005-ae2800bbca3d/transcript?format=TextWithTimestamps&t=1700543976",
+  "summary": "Josh and Chuck open with a plug for the Science Channel's Road to Punkin Chunkin, then turn to \"How Population Works,\" an article by Ed Grabianowski. They cover why humans congregate, demographers and population studies, complete enumeration (the census) versus sampling, and the census secrecy rule. They discuss population attributes such as age, socioeconomic data, and race, then population history: Columbus-era genocide and smallpox in the Americas, growth from 10,000 BC onward, Malthusian growth, replacement rate, bulges and bottlenecks, the Plague of Justinian and Black Death, founder effect, population density (Kowloon Walled City), population control (China's one-child policy), population decline and incentive programs in Russia, Japan and Australia. The episode closes with listener mail about Toledo, Ohio and a car with ants.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "population",
+    "demographics",
+    "demographers",
+    "census",
+    "complete enumeration",
+    "sampling",
+    "random sample",
+    "population growth",
+    "Malthusian growth model",
+    "Thomas Malthus",
+    "replacement rate",
+    "population bulge",
+    "population bottleneck",
+    "genocide",
+    "Columbus and Native American population decline",
+    "Black Death",
+    "Plague of Justinian",
+    "founder effect",
+    "population density",
+    "Kowloon Walled City",
+    "population control",
+    "China one-child policy",
+    "population decline",
+    "birth control",
+    "Russia baby incentives",
+    "Charles C. Mann",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Kowloon Walled City",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "Hispaniola",
+      "type": "place"
+    },
+    {
+      "name": "Columbus",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Malthus",
+      "type": "person"
+    },
+    {
+      "name": "Charles C. Mann",
+      "type": "person"
+    },
+    {
+      "name": "Ed Grabianowski",
+      "type": "person"
+    },
+    {
+      "name": "Toledo",
+      "type": "place"
+    },
+    {
+      "name": "Science Channel",
+      "type": "organization"
+    },
+    {
+      "name": "Road to Punkin Chunkin",
+      "type": "event"
+    },
+    {
+      "name": "Plague of Justinian",
+      "type": "event"
+    },
+    {
+      "name": "Black Death",
+      "type": "event"
+    },
+    {
+      "name": "Kentucky census taker death",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Punkin Chunkin plug",
+      "summary": "Josh and Chuck open with a plug for the Science Channel's Road to Punkin Chunkin and Thanksgiving broadcast, then introduce the population article.",
+      "topics": [
+        "Punkin Chunkin",
+        "Science Channel",
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Why humans congregate",
+      "summary": "Early humans lived in bands of about thirty, and groups gained safety, cooperation and trade benefits. Demographers study natural and other populations.",
+      "topics": [
+        "human congregation",
+        "hunter gatherers",
+        "cooperation and trade",
+        "demographers",
+        "population studies"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Counting people: complete enumeration and the census",
+      "summary": "Populations are measured by complete enumeration, a full count by census enumerators taken every ten years. The census is used to apportion House seats, and census data is kept secret for seventy-two years. A Kentucky census taker's death is mentioned.",
+      "topics": [
+        "census",
+        "complete enumeration",
+        "enumerators",
+        "census secrecy",
+        "House apportionment"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Sampling and random samples",
+      "summary": "Statisticians use formulas to determine a minimum sample size and extrapolate to the full population, with a margin of error. Random sampling is required, and phone-book sampling is criticized as biased.",
+      "topics": [
+        "sampling",
+        "random sample",
+        "margin of error",
+        "phone book sampling bias"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Ways to define populations: age, socioeconomics, race",
+      "summary": "Populations can be grouped by geography, age, continent, demographic or socioeconomic status. Baby boom effects on spending and Social Security are discussed, along with how socioeconomic and racial data can reveal medical problems, with caution about race.",
+      "topics": [
+        "age demographics",
+        "baby boom",
+        "socioeconomic data",
+        "race and medicine",
+        "demographic groups"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Population history: Columbus, smallpox and genocide",
+      "summary": "Charles C. Mann's estimate that the Americas held far more people before European contact, due to smallpox. The Taino of Hispaniola were decimated after Columbus's second voyage, and genocide is noted as a cause of rapid population change.",
+      "topics": [
+        "pre-Columbian population",
+        "smallpox",
+        "Taino",
+        "Hispaniola",
+        "genocide",
+        "Charles C. Mann"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Population growth, Malthus, bulges and bottlenecks",
+      "summary": "Estimated world population growth from 10,000 BC through the 20th century and into the present, with the Malthusian exponential growth model, the replacement rate of 2.33, and population bulges and bottlenecks including the Plague of Justinian, Black Death, and genetic founder effect.",
+      "topics": [
+        "world population history",
+        "Malthusian growth",
+        "replacement rate",
+        "bottleneck",
+        "Plague of Justinian",
+        "Black Death",
+        "founder effect"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Density, population control and decline",
+      "summary": "Kowloon Walled City is cited as the densest place ever. Population control such as China's one-child policy is discussed alongside the problems of population decline and incentive programs in Russia, Japan and Australia. The hosts close with a note on birth control and the article search.",
+      "topics": [
+        "population density",
+        "Kowloon Walled City",
+        "China one-child policy",
+        "population decline",
+        "baby incentives",
+        "birth control"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9925,
+    "output_tokens": 2215
+  }
+}

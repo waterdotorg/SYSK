@@ -1,0 +1,207 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-09-04_Can_you_test_a_nuclear_weapon_without_a_fallout_30min.txt",
+  "title": "Can you test a nuclear weapon without a fallout?",
+  "date": "2012-09-04",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-you-test-a-nuclear-weapon-without-a-fallout",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62cd89d2-270c-4280-a9a1-ae2800a5d839/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/62cd89d2-270c-4280-a9a1-ae2800a5d839/transcript?format=TextWithTimestamps&t=1700543922",
+  "summary": "Josh and Chuck explore whether a nuclear weapon can be tested without fallout, framing it as part of their ongoing nuclear series. They cover basic nuclear fission and isotopes, critical mass and chain reactions, and the four test types: atmospheric, underwater, underground, and high-altitude/space. Key cases include the Castle Bravo test at Bikini Atoll (fifteen megaton yield, far above the estimated six, fallout hitting the Japanese fishing boat Lucky Dragon), the Starfish Prime high-altitude test and its electromagnetic pulse effects, and the claim that deep underground tests (around 800 feet or more) can contain fallout. They also cite test-count statistics by country, the Atomic Cafe documentary, and a listener letter about night farming in New Mexico that mentions the Trinity test anniversary.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "nuclear weapons testing",
+    "nuclear fallout",
+    "underground nuclear test",
+    "atmospheric nuclear test",
+    "underwater nuclear test",
+    "high altitude nuclear test",
+    "Castle Bravo test",
+    "Bikini Atoll",
+    "Lucky Dragon fishing boat",
+    "Starfish Prime",
+    "electromagnetic pulse",
+    "nuclear fission",
+    "critical mass",
+    "chain reaction",
+    "isotopes",
+    "subsidence crater",
+    "North Korea nuclear test",
+    "Trinity test",
+    "Atomic Cafe documentary",
+    "bikini swimsuit origin",
+    "Van Allen belt",
+    "nuclear history",
+    "Cold War"
+  ],
+  "entities": [
+    {
+      "name": "Castle Bravo",
+      "type": "event"
+    },
+    {
+      "name": "Bikini Atoll",
+      "type": "place"
+    },
+    {
+      "name": "Lucky Dragon",
+      "type": "other"
+    },
+    {
+      "name": "Starfish Prime",
+      "type": "event"
+    },
+    {
+      "name": "Trinity test",
+      "type": "event"
+    },
+    {
+      "name": "North Korea",
+      "type": "place"
+    },
+    {
+      "name": "Atomic Cafe",
+      "type": "work"
+    },
+    {
+      "name": "Fukushima",
+      "type": "event"
+    },
+    {
+      "name": "Van Allen belt",
+      "type": "place"
+    },
+    {
+      "name": "Alamogordo, New Mexico",
+      "type": "place"
+    },
+    {
+      "name": "Radiolab",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and nuclear series",
+      "summary": "Hosts open with banter, introduce the topic as part of their nuclear series, and note the total of 2,053 nuclear tests by eight countries, with the US conducting the most.",
+      "topics": [
+        "nuclear series",
+        "nuclear weapons testing statistics"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Fallout-free testing and North Korea's claim",
+      "summary": "They discuss a North Korean press release claiming its 2006 test had no fallout, and whether a test can be fully contained. They suggest it is theoretically possible depending on test type and conditions.",
+      "topics": [
+        "North Korea nuclear test",
+        "nuclear fallout",
+        "containment"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Isotopes, fission, and critical mass",
+      "summary": "Chuck and Josh define isotopes, explain fission and mass defect, and describe how a chain reaction and critical mass lead to rapid energy release. They name uranium-235 and plutonium-239 as the fissionable isotopes and note that bombs keep subcritical masses separate until detonation.",
+      "topics": [
+        "isotopes",
+        "nuclear fission",
+        "critical mass",
+        "chain reaction",
+        "plutonium-239",
+        "uranium-235"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Atmospheric tests and the Air Force video",
+      "summary": "They describe atmospheric tests, including aerial detonations and a viral video of men standing under a detonation. They note fallout risk and that areas are only partly cleared before tests. They define atmospheric tests as anything above ground, with high altitude starting around 250 miles.",
+      "topics": [
+        "atmospheric nuclear test",
+        "aerial detonation",
+        "fallout",
+        "test site clearing"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Castle Bravo and the Lucky Dragon",
+      "summary": "They recount the 1954 Castle Bravo test at Bikini Atoll, which yielded about fifteen megatons instead of the estimated six. Fallout hit the Japanese fishing boat Lucky Dragon, whose crew suffered radiation sickness, and one crewmember died. They also mention the bikini swimsuit name and the Atomic Cafe documentary.",
+      "topics": [
+        "Castle Bravo test",
+        "Bikini Atoll",
+        "Lucky Dragon",
+        "Atomic Cafe",
+        "bikini swimsuit origin",
+        "radiation sickness"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Underwater nuclear tests",
+      "summary": "They discuss underwater tests, which reduce fallout but destroy marine life, coral reefs, and fishing livelihoods, and they mention the economic and public-perception impact linked to Fukushima seafood concerns.",
+      "topics": [
+        "underwater nuclear test",
+        "marine life impact",
+        "Fukushima seafood concerns"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Underground tests and subsidence",
+      "summary": "They present underground testing as the best way to contain fallout. A device placed about 800 feet down, backfilled with gravel and gypsum, vaporizes surrounding rock and then collapses, creating a subsidence crater. The BBC article is cited as the source, with caveats that results are unpredictable.",
+      "topics": [
+        "underground nuclear test",
+        "subsidence crater",
+        "fallout containment",
+        "BBC article"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Starfish Prime and space tests",
+      "summary": "They cover the Starfish Prime high-altitude test over the Pacific, which was publicized as a fireworks show. It created an electromagnetic pulse that damaged satellites and electrical systems on Earth, and the hosts note that radiation in space is also a concern.",
+      "topics": [
+        "Starfish Prime",
+        "high altitude nuclear test",
+        "electromagnetic pulse",
+        "Van Allen belt"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:30:00",
+      "kind": "outro",
+      "title": "Listener mail and sign-off",
+      "summary": "A listener letter from Garrett Massey describes night farming in New Mexico, and the hosts note the Trinity test anniversary. They close with contact information and the sign-off.",
+      "topics": [
+        "listener mail",
+        "Trinity test",
+        "Alamogordo"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10400,
+    "output_tokens": 2443
+  }
+}

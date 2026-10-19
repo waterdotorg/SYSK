@@ -1,0 +1,244 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-05-06_How_Uranium_Mining_Works_50min.txt",
+  "title": "How Uranium Mining Works",
+  "date": "2021-05-06",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-uranium-mining-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0c51b483-8da4-4c10-8e2f-ae28001a401b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0c51b483-8da4-4c10-8e2f-ae28001a401b/transcript?format=TextWithTimestamps&t=1700543593",
+  "summary": "Josh and Chuck explain how uranium mining works, from exploration with Geiger counters and scintillometers, through permitting (often 3 to 15 years), open pit, strip, underground, in situ leach and heap leach mining, milling into yellow cake, enrichment to uranium-235 and hexafluoride gas, and fuel pellet fabrication. They cover uranium's history (Martin Klaproth, 1789, named after Uranus; glazes like Fiestaware and Vaseline glass; Manhattan Project and Little Boy), the uranium-235 and uranium-238 isotopes, and leading uranium producers (Australia, Kazakhstan, Russia, Canada's Cigar Lake mine). They discuss the Grand Canyon uranium mining ban, health risks from radon, radium, and depleted uranium (including Gulf War veterans), environmental harm from tailings, and the 1979 Church Rock uranium mill dam failure on Navajo land. The episode ends with listener mail from a teacher.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "uranium mining",
+    "how uranium mining works",
+    "uranium exploration",
+    "Geiger counter uranium prospecting",
+    "open pit mining",
+    "in situ leach mining",
+    "heap leaching",
+    "underground uranium mining",
+    "yellow cake",
+    "uranium milling",
+    "uranium enrichment",
+    "uranium-235",
+    "uranium-238",
+    "hexafluoride gas",
+    "nuclear fuel cycle front end",
+    "depleted uranium",
+    "radon lung cancer",
+    "Church Rock uranium mill spill",
+    "Grand Canyon uranium mining ban",
+    "uranium tailings",
+    "uranium history",
+    "Navajo Nation uranium contamination",
+    "nuclear fuel pellets",
+    "Mo-99 medical isotope",
+    "reclamation bond mining"
+  ],
+  "entities": [
+    {
+      "name": "Grand Canyon",
+      "type": "place"
+    },
+    {
+      "name": "Church Rock uranium mill",
+      "type": "place"
+    },
+    {
+      "name": "Navajo Nation",
+      "type": "place"
+    },
+    {
+      "name": "Cigar Lake mine",
+      "type": "place"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "Kazakhstan",
+      "type": "place"
+    },
+    {
+      "name": "Russia",
+      "type": "place"
+    },
+    {
+      "name": "Canada",
+      "type": "place"
+    },
+    {
+      "name": "Hiroshima",
+      "type": "place"
+    },
+    {
+      "name": "Martin Klaproth",
+      "type": "person"
+    },
+    {
+      "name": "Uranus",
+      "type": "other"
+    },
+    {
+      "name": "Little Boy",
+      "type": "other"
+    },
+    {
+      "name": "Manhattan Project",
+      "type": "event"
+    },
+    {
+      "name": "Three Mile Island",
+      "type": "event"
+    },
+    {
+      "name": "Fiestaware",
+      "type": "work"
+    },
+    {
+      "name": "Vaseline glass",
+      "type": "work"
+    },
+    {
+      "name": "United Nuclear Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Grand Canyon Protection Act",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:15:30",
+      "kind": "intro",
+      "title": "Opening banter and uranium's history",
+      "summary": "Hosts introduce uranium mining as heavily regulated and discuss uranium's energy punch compared with coal and oil, how nuclear fission produces heat for turbines, uses of weapons-grade and reactor fuel, Mo-99 for medical imaging, uranium glazes like Fiestaware and Vaseline glass, its 1789 discovery by Martin Klaproth named after Uranus, isotopes, primordial origins, leading producing countries, the Grand Canyon mining ban debate, and uranium's public debut via the atomic bomb.",
+      "topics": [
+        "uranium history",
+        "nuclear energy",
+        "uranium isotopes",
+        "Grand Canyon uranium ban",
+        "Fiestaware uranium glaze",
+        "Martin Klaproth"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:22:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Sponsor break.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Exploration and permitting",
+      "summary": "Finding uranium deposits with scintillometers and Geiger counters, deciding whether a site is economically viable, distinguishing uranium from its daughter elements radon and radium, and the 3 to 15 year path from prospecting to production through permitting.",
+      "topics": [
+        "uranium exploration",
+        "Geiger counter",
+        "scintillometer",
+        "ore bodies",
+        "mine permitting",
+        "radon and radium daughter elements"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Mining methods",
+      "summary": "Open pit and strip mining, underground mining through shafts and adits, in situ leaching using injected solutions through wells below an aquifer, and heap leaching of crushed ore with chemicals. Small crew sizes are noted.",
+      "topics": [
+        "open pit mining",
+        "strip mining",
+        "underground uranium mining",
+        "in situ leach",
+        "heap leaching",
+        "mining crew size"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Milling, yellow cake, and enrichment",
+      "summary": "Uranium is milled into yellow cake, which is mostly uranium-238 with about 0.7 percent uranium-235. Enrichment concentrates uranium-235 and produces hexafluoride gas and depleted uranium as a byproduct, which is then pressed into fuel pellets.",
+      "topics": [
+        "yellow cake",
+        "uranium milling",
+        "uranium enrichment",
+        "hexafluoride gas",
+        "fuel pellets",
+        "depleted uranium byproduct",
+        "nuclear fuel cycle front end"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:50:00",
+      "kind": "ad",
+      "title": "Break and transition",
+      "summary": "Break, then transition to health and environmental effects and some banter about Jerry.",
+      "topics": [
+        "transition",
+        "back end of nuclear fuel cycle"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Health risks, depleted uranium, and Church Rock spill",
+      "summary": "Radon as the second leading cause of lung cancer and top cause among non-smokers, uranium toxicity to kidneys, depleted uranium used in shielding and munitions with Gulf War veteran exposure concerns, abandoned mine tailings, the 1979 Church Rock dam failure releasing 93 million gallons of radioactive sludge into the Puerco River near Navajo land, and reclamation bonds and regulatory enforcement.",
+      "topics": [
+        "radon health risk",
+        "depleted uranium health",
+        "Church Rock 1979 spill",
+        "uranium tailings",
+        "Navajo uranium contamination",
+        "reclamation bond",
+        "uranium regulation"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:03:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from a teacher",
+      "summary": "Listener Emily Gunch, a high school teacher from Grand Rapids, Michigan, thanks the show for providing joy during the pandemic.",
+      "topics": [
+        "listener mail",
+        "pandemic teachers"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:03:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off, mention the email address for feedback, and suggest a future episode on nuclear releases.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16170,
+    "output_tokens": 2661
+  }
+}

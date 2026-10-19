@@ -1,0 +1,245 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-06-10_SYSK_Selects_How_Maps_Work_39min.txt",
+  "title": "SYSK Selects: How Maps Work",
+  "date": "2017-06-10",
+  "duration": "39 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-maps-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/12209653-b372-4e0f-a2fc-ae280076e3d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/12209653-b372-4e0f-a2fc-ae280076e3d7/transcript?format=TextWithTimestamps&t=1700543808",
+  "summary": "Rerun of the classic episode \"How Maps Work,\" introduced by Chuck as a Saturday Selects pick. The hosts cover the basics of maps: the Earth's shape and why flat maps distort it, common map conventions (water blue, north up, legends and scales, coordinate grids), physical, political and thematic maps, topographic contour lines, and map projections. Projections are explained through the Mercator projection (Gerardus Mercator, 1569, designed for sailors using rhumb lines), a balloon-and-cylinder thought experiment, Tissot's indicatrix, equal-area, equidistant and Robinson projections, and gores and the Winkel tripel-style \"good\" (Goode) homolosine projection used by the UN. Also covered: the history of mapmaking from ancient maps and surveying to aerial and satellite photography after World War Two, the four color theorem (Francis Guthrie), GIS and GPS, the 2008-2009 Costa Rica and Nicaragua dispute sparked by Google Maps, and cartographer Rad Smith's work. The episode ends with listener mail from Cameron about the Davis Is Burning drag show.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Maps Work",
+  "topics": [
+    "how maps work",
+    "map projections",
+    "Mercator projection",
+    "map distortion",
+    "cartography",
+    "cartographers",
+    "map conventions",
+    "map legends and scale",
+    "topographic maps",
+    "contour lines",
+    "thematic maps",
+    "physical maps",
+    "political maps",
+    "rhumb lines",
+    "Tissot's indicatrix",
+    "Four color theorem",
+    "aerial photography mapmaking",
+    "GIS mapping",
+    "Google Maps border dispute",
+    "Gerardus Mercator",
+    "orienteering",
+    "history of maps",
+    "Goode homolosine projection",
+    "globe gores"
+  ],
+  "entities": [
+    {
+      "name": "Mercator projection",
+      "type": "other"
+    },
+    {
+      "name": "Gerardus Mercator",
+      "type": "person"
+    },
+    {
+      "name": "Rad Smith",
+      "type": "person"
+    },
+    {
+      "name": "Francis Guthrie",
+      "type": "person"
+    },
+    {
+      "name": "Tissot's indicatrix",
+      "type": "other"
+    },
+    {
+      "name": "Google Maps",
+      "type": "organization"
+    },
+    {
+      "name": "Nicaragua",
+      "type": "place"
+    },
+    {
+      "name": "Costa Rica",
+      "type": "place"
+    },
+    {
+      "name": "Davis Is Burning",
+      "type": "event"
+    },
+    {
+      "name": "Trevor Project",
+      "type": "organization"
+    },
+    {
+      "name": "Thomas Guide",
+      "type": "work"
+    },
+    {
+      "name": "United Nations",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Selects intro and opening banter",
+      "summary": "Chuck introduces this Selects rerun of How Maps Work, explaining he picked it because he loves maps and wants to promote his friend Rad's cartography. The hosts banter about R.E.M. and about Chuck's poor sense of direction.",
+      "topics": [
+        "SYSK Selects",
+        "rerun intro",
+        "Chuck sense of direction"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Earth's shape and map distortion",
+      "summary": "The hosts explain that the Earth is not flat, so flat maps are distorted. A pumpkin and newsprint experiment illustrates the problem. They note the Mercator projection's distortions and that distortion is often hidden in the oceans.",
+      "topics": [
+        "map distortion",
+        "Earth shape",
+        "Mercator projection",
+        "map projections"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Basics and types of maps",
+      "summary": "Maps represent data points on Earth and can show many attributes, made by cartographers. Physical maps show terrain using hypsometric tints; political and thematic maps show cultural or statistical data. The hosts discuss Chuck's desk map and the value of owning maps and globes.",
+      "topics": [
+        "physical maps",
+        "political maps",
+        "thematic maps",
+        "hypsometric tints",
+        "cartographers"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Map conventions and legends",
+      "summary": "Common conventions include blue water, land in green, tan or brown, north at the top, legends and scale ratios, and coordinate grids such as the Thomas Guide. Topographic maps use contour lines, where closer lines mean steeper elevation change.",
+      "topics": [
+        "map conventions",
+        "map legends",
+        "map scale",
+        "coordinate grid",
+        "contour lines",
+        "topographic maps",
+        "orienteering"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Message break",
+      "summary": "Sponsor message break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Map projections and the Mercator projection",
+      "summary": "The hosts explain the central conundrum of mapping a sphere onto a plane, rhumb lines versus accurate shape and area, and Tissot's indicatrix. Gerardus Mercator's 1569 map for sailors is explained using a balloon-in-a-cylinder thought experiment, with distortion least at the tangent line and greatest toward the edges.",
+      "topics": [
+        "map projections",
+        "Mercator projection",
+        "rhumb lines",
+        "Tissot's indicatrix",
+        "Gerardus Mercator",
+        "balloon analogy"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Projection types, gores and the Goode projection",
+      "summary": "Equal-area, equidistant, and Robinson projections are compared, with tradeoffs for area, distance, and direction. Cartographers choose a center point. Globe gores are cut sections, and the Goode homolosine projection, used by the UN, cuts through the oceans.",
+      "topics": [
+        "equal area projection",
+        "equidistant projection",
+        "Robinson projection",
+        "gores",
+        "Goode homolosine projection",
+        "map centering"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "History of mapmaking and modern mapping tools",
+      "summary": "Ancient maps from Babylonians are debated by anthropologists. Surveying, GPS, remote sensing, and aerial photography (first used in the 1800s and advanced in World War Two) changed mapmaking. The four color theorem by Francis Guthrie is mentioned, along with GIS and the role of skilled artists.",
+      "topics": [
+        "history of maps",
+        "surveying",
+        "aerial photography",
+        "World War Two reconnaissance",
+        "four color theorem",
+        "GIS",
+        "GPS"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Google Maps, Costa Rica-Nicaragua dispute and cartographer Rad Smith",
+      "summary": "The hosts discuss how the Internet has changed mapmaking and cite a 2008-2009 Nicaragua and Costa Rica skirmish over disputed land after a lieutenant relied on Google Maps. They discuss how map centering shapes perceptions of nations. They then interview Rad Smith's career answers about patience, data sourcing, math skills, and a 170-hour moonlight map.",
+      "topics": [
+        "Google Maps dispute",
+        "Nicaragua Costa Rica border",
+        "Rad Smith cartographer",
+        "cartography career",
+        "map psychology"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Davis Is Burning",
+      "summary": "Cameron, president of a UC Davis fraternity chapter, describes the Davis Is Burning drag show, which raises money for the Trevor Project. The hosts respond and mention the PS in his email.",
+      "topics": [
+        "listener mail",
+        "drag shows",
+        "Davis Is Burning",
+        "Trevor Project"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "The hosts invite listeners to search for maps on the website and to send mail through the show's usual channels.",
+      "topics": [
+        "outro",
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13236,
+    "output_tokens": 2717
+  }
+}

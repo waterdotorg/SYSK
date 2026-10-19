@@ -1,0 +1,317 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-09-15_How_Boredom_Works_44min.txt",
+  "title": "How Boredom Works",
+  "date": "2026-09-15",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-boredom-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/71366f25-c214-4f28-81fd-b4c501163bc9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/71366f25-c214-4f28-81fd-b4c501163bc9/transcript?format=TextWithTimestamps&t=1789405305",
+  "summary": "Josh and Chuck explore boredom: how philosophers (Schopenhauer, Nietzsche, Thoreau) and science define it as an adaptive state that prompts novel action; the brain's prediction and dopamine-driven learning; sensory deprivation studies (McGill, 1950s); evolutionary benefits; the Heather Lynch and Shane Bench study on boredom-driven seeking of opposite experiences; the 2014 electric shock button study; trait boredom and personality; boredom across childhood and adolescence and in school; smartphones and social media as a maladaptive escape from existential boredom; animal boredom in mink and rats; boredom's links to creativity (Sandy Mann), default mode network, ADHD, and risky behavior; and a listener mail about irony and Alanis Morissette's song \"Ironic.\" Includes ad-free host banter recommending a podcast by Mangesh Hadakadur.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "boredom",
+    "psychology of boredom",
+    "state boredom vs trait boredom",
+    "philosophy of boredom",
+    "Schopenhauer",
+    "Nietzsche",
+    "Thoreau",
+    "evolution of boredom",
+    "sensory deprivation",
+    "McGill sensory deprivation study",
+    "dopamine and prediction error",
+    "boredom and creativity",
+    "default mode network",
+    "boredom and risky behavior",
+    "smartphones and boredom",
+    "social media escape",
+    "adolescent boredom",
+    "boredom in school",
+    "animal boredom",
+    "dumb phone",
+    "procrastination and boredom",
+    "ADHD and boredom",
+    "electric shock boredom study",
+    "listener mail",
+    "Alanis Morissette Ironic"
+  ],
+  "entities": [
+    {
+      "name": "Arthur Schopenhauer",
+      "type": "person"
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "type": "person"
+    },
+    {
+      "name": "Henry David Thoreau",
+      "type": "person"
+    },
+    {
+      "name": "Heather Lynch",
+      "type": "person"
+    },
+    {
+      "name": "Shane Bench",
+      "type": "person"
+    },
+    {
+      "name": "John Eastwood",
+      "type": "person"
+    },
+    {
+      "name": "Sandy Mann",
+      "type": "person"
+    },
+    {
+      "name": "McGill University",
+      "type": "organization"
+    },
+    {
+      "name": "Mangesh Hadakadur",
+      "type": "person"
+    },
+    {
+      "name": "How to Live Forever",
+      "type": "work"
+    },
+    {
+      "name": "Alanis Morissette",
+      "type": "person"
+    },
+    {
+      "name": "Ironic",
+      "type": "work"
+    },
+    {
+      "name": "Mental Floss",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and podcast recommendation",
+      "summary": "Hosts introduce the boredom episode and recommend Mangesh Hadakadur's podcast How to Live Forever, noting his past work co-founding Mental Floss.",
+      "topics": [
+        "podcast recommendation",
+        "How to Live Forever"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:45",
+      "kind": "content",
+      "title": "Defining boredom and philosophers' views",
+      "summary": "Boredom is defined as wanting to engage in something satisfying but being unable to, an adaptive state that urges new action. Schopenhauer saw boredom and pain as twin poles of life; Nietzsche thought boredom could spur creativity. Philosophers considered boredom important.",
+      "topics": [
+        "boredom definition",
+        "Schopenhauer",
+        "Nietzsche",
+        "philosophy of boredom",
+        "boredom and creativity"
+      ]
+    },
+    {
+      "start": "00:06:45",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Brain prediction, novelty seeking and dopamine",
+      "summary": "Boredom is linked to the brain's constant seeking of novel stimuli and sensory prediction. Learning from slightly wrong predictions gives a dopamine dose. Boredom arises from too little stimulation or from too much information one cannot parse.",
+      "topics": [
+        "brain prediction",
+        "dopamine and prediction error",
+        "novel stimuli",
+        "understimulation",
+        "overstimulation"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Sensory deprivation and the McGill study",
+      "summary": "Sensory deprivation studies, including a 1950s McGill University experiment paying participants to stay in isolation, showed severe cognitive effects such as hallucinations and poor arithmetic. The hosts link this to solitary confinement.",
+      "topics": [
+        "sensory deprivation",
+        "McGill sensory deprivation study",
+        "solitary confinement",
+        "hallucinations"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:14:27",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the next segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:14:27",
+      "end": "00:19:20",
+      "kind": "content",
+      "title": "Evolutionary purpose of boredom and risk-taking",
+      "summary": "Researchers propose boredom persists because it prompts people to seek alternatives, even risky ones. A Lynch and Bench study found bored people chose unfamiliar or opposite experiences; a 2014 study showed people self-administering shocks when bored. The hosts speculate on evolutionary benefits and survival-show examples.",
+      "topics": [
+        "evolution of boredom",
+        "boredom and risk taking",
+        "Heather Lynch and Shane Bench study",
+        "electric shock boredom study",
+        "survival TV"
+      ]
+    },
+    {
+      "start": "00:19:20",
+      "end": "00:22:10",
+      "kind": "content",
+      "title": "Trait boredom, intelligence and age",
+      "summary": "Studies do not support Thoreau's claim that smart people are less bored. Trait boredom is linked to impulsiveness and under-stimulation (John Eastwood) and to pain sensitivity and fear. Boredom peaks between ages 10 and 17 and dips in middle age before rising again.",
+      "topics": [
+        "trait boredom",
+        "John Eastwood",
+        "boredom and intelligence",
+        "adolescent boredom",
+        "boredom by age"
+      ]
+    },
+    {
+      "start": "00:22:10",
+      "end": "00:24:58",
+      "kind": "content",
+      "title": "Boredom in school and lack of control",
+      "summary": "Eight precursors for school boredom include under- or over-challenge, monotony, poor teacher relationships, and lack of meaning. Lack of control over one's life, especially in adolescence, correlates with boredom. The hosts share personal driving-freedom anecdotes.",
+      "topics": [
+        "boredom in school",
+        "lack of control and boredom",
+        "adolescent agency"
+      ]
+    },
+    {
+      "start": "00:24:58",
+      "end": "00:31:16",
+      "kind": "content",
+      "title": "Smartphones, social media and existential escape",
+      "summary": "Phone scrolling is described as a maladaptive response to boredom that lowers cognitive engagement and offers existential escape. The hosts discuss dumb phones, SIM duplication, lawsuits against social media companies, and Australia's under-16 social media ban.",
+      "topics": [
+        "smartphones and boredom",
+        "social media escape",
+        "dumb phone",
+        "SIM card",
+        "Australia social media ban for children",
+        "social media lawsuits"
+      ]
+    },
+    {
+      "start": "00:31:16",
+      "end": "00:31:50",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Dumb phone price tangent",
+      "summary": "Brief banter about a hypothetical dumb phone from Apple and its price.",
+      "topics": [
+        "dumb phone",
+        "Apple"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:34:45",
+      "kind": "content",
+      "title": "Animal boredom: mink and rats",
+      "summary": "Mink in non-enriching environments approached novel stimuli, even predator cues, showing boredom-driven curiosity. Rats given the same foraging material repeatedly tried to escape their cages. Animal welfare advocates argue owners must stimulate pets.",
+      "topics": [
+        "animal boredom",
+        "mink study",
+        "rat foraging study",
+        "animal welfare",
+        "pet enrichment"
+      ]
+    },
+    {
+      "start": "00:34:45",
+      "end": "00:36:05",
+      "kind": "content",
+      "title": "Dog sniff walks and slowing down",
+      "summary": "Chuck describes his hound dog's sniffing walks as stimulating and shares a golf anecdote about slowing down to stay present.",
+      "topics": [
+        "dog walks",
+        "sniffing and enrichment",
+        "mindfulness"
+      ]
+    },
+    {
+      "start": "00:36:05",
+      "end": "00:38:25",
+      "kind": "content",
+      "title": "Coping strategies and creativity",
+      "summary": "Advice for handling boredom includes identifying personally meaningful activities in advance. Sandy Mann's study had people copy phone numbers, then generate creative uses for plastic cups. The default mode network is discussed as a source of creativity.",
+      "topics": [
+        "coping with boredom",
+        "Sandy Mann",
+        "creativity",
+        "default mode network",
+        "plastic cups study"
+      ]
+    },
+    {
+      "start": "00:38:25",
+      "end": "00:42:20",
+      "kind": "content",
+      "title": "Boredom linked to risky behavior, procrastination and ADHD",
+      "summary": "Boredom is linked to gambling, substance abuse, low-nutrition snacking, and procrastination. ADHD may involve boredom. The hosts discuss giving children choice and the idea that meaningful activity is personal.",
+      "topics": [
+        "boredom and substance abuse",
+        "boredom and gambling",
+        "procrastination",
+        "ADHD",
+        "children and choice"
+      ]
+    },
+    {
+      "start": "00:42:20",
+      "end": "00:43:05",
+      "kind": "content",
+      "title": "Closing thoughts on meaningful activity",
+      "summary": "Hosts conclude that activities need not be grand to be meaningful, and that scrolling social media is not meaningful for most people.",
+      "topics": [
+        "meaningful activity",
+        "social media"
+      ]
+    },
+    {
+      "start": "00:43:05",
+      "end": "00:44:12",
+      "kind": "listener_mail",
+      "title": "Listener mail: Ironic and irony",
+      "summary": "Listener Nick argues Alanis Morissette's song Ironic is ironic because it is called Ironic yet contains no irony. He mentions using playlists for AP students.",
+      "topics": [
+        "listener mail",
+        "Alanis Morissette",
+        "Ironic",
+        "irony"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17722,
+    "output_tokens": 3558
+  }
+}

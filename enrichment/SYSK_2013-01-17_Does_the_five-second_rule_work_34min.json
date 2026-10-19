@@ -1,0 +1,262 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-01-17_Does_the_five-second_rule_work_34min.txt",
+  "title": "Does the five-second rule work?",
+  "date": "2013-01-17",
+  "duration": "34 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/does-the-five-second-rule-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fb915203-8e1a-456a-9883-ae2800a30cff/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fb915203-8e1a-456a-9883-ae2800a30cff/transcript?format=TextWithTimestamps&t=1700543908",
+  "summary": "Josh and Chuck examine whether the five-second rule (eating food dropped on the floor if picked up quickly) holds up. They discuss personal attitudes toward germs and the hygiene hypothesis, then cover research: Jillian Clark's 2003 University of Illinois study (E. coli on tiles, cookies and gummy bears), the Clemson University follow-up using Salmonella broth on tile, wood, carpet and bread/bologna (transfer within five seconds, survival up to a month, moisture increases transfer), University of Colorado metagenomic study of bacteria on hands, Charles Gerba's findings on shoes, kitchen floors, sponges, pet bowls, desks and purses, and the biofilm concept. They close with a Kiva fundraising shout-out, a Science channel TV show premiere promo, a listener email from Ben, and a call for nasty eating stories.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "five-second rule",
+    "food dropped on floor",
+    "bacteria transfer",
+    "Salmonella",
+    "E. coli",
+    "Clemson University study",
+    "Jillian Clark Ignoble Prize",
+    "hygiene hypothesis",
+    "germs",
+    "hand bacteria",
+    "metagenomics",
+    "University of Colorado Boulder",
+    "Charles Gerba",
+    "desk bacteria",
+    "kitchen sponge",
+    "biofilm",
+    "moisture and bacterial transfer",
+    "hand drying",
+    "shoes and germs",
+    "Kiva",
+    "listener mail",
+    "presenteeism",
+    "stomach acid and bacteria"
+  ],
+  "entities": [
+    {
+      "name": "five-second rule",
+      "type": "other"
+    },
+    {
+      "name": "Jillian Clark",
+      "type": "person"
+    },
+    {
+      "name": "Clemson University",
+      "type": "organization"
+    },
+    {
+      "name": "University of Illinois",
+      "type": "organization"
+    },
+    {
+      "name": "University of Colorado at Boulder",
+      "type": "organization"
+    },
+    {
+      "name": "Charles Gerba",
+      "type": "person"
+    },
+    {
+      "name": "University of Arizona",
+      "type": "organization"
+    },
+    {
+      "name": "Salmonella",
+      "type": "other"
+    },
+    {
+      "name": "E. coli",
+      "type": "other"
+    },
+    {
+      "name": "Ignoble Prize",
+      "type": "event"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Molly Edmunds",
+      "type": "person"
+    },
+    {
+      "name": "Clorox",
+      "type": "organization"
+    },
+    {
+      "name": "Stuff Mom Never Told You",
+      "type": "work"
+    },
+    {
+      "name": "hygiene hypothesis",
+      "type": "other"
+    },
+    {
+      "name": "biofilm",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter on germs and germophobia",
+      "summary": "Josh and Chuck chat about germ consciousness, the gym, the hygiene hypothesis and allergies, and their personal willingness to eat food dropped on the floor.",
+      "topics": [
+        "germophobia",
+        "hygiene hypothesis",
+        "germs",
+        "five-second rule personal habits"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "What is the five-second rule",
+      "summary": "The hosts discuss the five-second rule as a sliding scale depending on the food and the place it fell, and raise the question of whether it is valid.",
+      "topics": [
+        "five-second rule",
+        "food dropped on floor",
+        "sliding scale of cleanliness"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Jillian Clark's 2003 E. coli study",
+      "summary": "A high school intern, Jillian Clark, at the University of Illinois coated tiles with E. coli and dropped cookies and gummy bears on them; bacteria transferred within five seconds, and longer contact meant more transfer. She received the 2004 Ignoble Prize for Public Health.",
+      "topics": [
+        "Jillian Clark",
+        "E. coli",
+        "Ignoble Prize",
+        "bacteria transfer timing"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Clemson study on surfaces and food",
+      "summary": "Clemson University researchers built on Clark's work using a Salmonella broth on tile, wood, and carpet with bread and bologna. Transfer occurred in under five seconds, between 150 and 8,000 bacteria, and an infectious dose for Salmonella is about ten bacteria.",
+      "topics": [
+        "Clemson University",
+        "Salmonella",
+        "infectious dose",
+        "surface type and bacteria transfer"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Carpet, moisture, and bacterial survival",
+      "summary": "Carpet had the least transfer but bacteria survived there longer; bacteria remained viable on all three surfaces for up to a month. Moisture increases transfer, which is why drying hands matters after washing.",
+      "topics": [
+        "carpet bacteria survival",
+        "moisture and transfer",
+        "hand drying",
+        "bacteria survival one month"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Hand bacteria study and hand dryers",
+      "summary": "A University of Colorado at Boulder study using metagenomics on 51 participants found only five percent of bacterial species were shared by everyone, and left and right palms shared only 17 percent. Women showed higher diversity. The hosts also discuss hand dryer types.",
+      "topics": [
+        "hand bacteria",
+        "metagenomics",
+        "University of Colorado Boulder",
+        "hand dryers",
+        "bacterial diversity"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Gerba's findings on floors, shoes, and stomach acid",
+      "summary": "Charles Gerba of the University of Arizona says stomach acid does not kill most bacteria. Fecal matter was found on many shoes he analyzed, and the area in front of the kitchen sink has more bacteria than a trash can. Hosts discuss shoes-off customs and the 2003 claim about women and the five-second rule, which they consider dubious.",
+      "topics": [
+        "Charles Gerba",
+        "stomach acid",
+        "shoes and germs",
+        "kitchen floor bacteria",
+        "women and five-second rule"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Kitchen sponges, desks, and purses",
+      "summary": "Sponges hold far more bacteria than pet bowls and toilet seats. The average desk has far more bacteria than a kitchen table or toilet; a Clorox-funded study showed wiping reduced desk bacteria. One woman's purse contained up to 6.7 million bacteria. Presenteeism and biofilm are also discussed.",
+      "topics": [
+        "kitchen sponge",
+        "desk bacteria",
+        "purse bacteria",
+        "biofilm",
+        "presenteeism",
+        "Clorox study"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Kiva shout-out",
+      "summary": "The hosts celebrate the Kiva team reaching 1.5 million dollars in microloans and set a goal of 2 million by June 21, inviting listeners to join the team.",
+      "topics": [
+        "Kiva",
+        "microlending"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "TV show premiere promo",
+      "summary": "The hosts promote the Science channel premiere of their Stuff You Should Know TV show, airing after Idiot Abroad, with iTunes availability.",
+      "topics": [
+        "Stuff You Should Know TV show",
+        "Science channel"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:33:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Ben",
+      "summary": "Ben, a thirty-year-old father, writes that the podcast helped him after the loss of his infant son Logan and improved him as a husband and father.",
+      "topics": [
+        "listener mail",
+        "podcast testimonial"
+      ]
+    },
+    {
+      "start": "00:33:30",
+      "end": "00:34:00",
+      "kind": "outro",
+      "title": "Call for nasty eating stories and sign-off",
+      "summary": "The hosts invite listeners to share their nastiest eating stories via Twitter, Facebook, or email, and sign off.",
+      "topics": [
+        "listener feedback",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11980,
+    "output_tokens": 2913
+  }
+}

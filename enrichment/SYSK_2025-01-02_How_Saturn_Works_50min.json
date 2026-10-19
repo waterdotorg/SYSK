@@ -1,0 +1,404 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-01-02_How_Saturn_Works_50min.txt",
+  "title": "How Saturn Works",
+  "date": "2025-01-02",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-saturn-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7062b733-8c65-4b8a-a639-b25701020c38/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7062b733-8c65-4b8a-a639-b25701020c38/transcript?format=TextWithTimestamps&t=1735660045",
+  "summary": "Hosts Josh and Chuck (with iHeart Intro speaker Chuck) explore the planet Saturn: its size compared to Earth, the ancient Suryasiddhanta diameter estimate, gas giant composition and internal layers (liquid and metallic hydrogen, possible core), the internal heat source, the core accretion versus disk instability formation debate, the hexagonal jet stream and storms, the rings (composition, Cassini Division, naming, theories of origin including ring rain, a lost moon named Chrysalis, and moon collisions), the new ring found in 2009, Saturn's moons (including Mimas, Enceladus, Titan with its seas and atmosphere), the Cassini mission's end, the Dragonfly mission, and Saturn's visibility in September 2025. The episode closes with a listener mail from Rockney about getting his girlfriend to hum the show's theme song.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Saturn",
+    "planet Saturn facts",
+    "Saturn size and diameter",
+    "Suryasiddhanta",
+    "gas giant",
+    "Saturn atmosphere",
+    "liquid metallic hydrogen",
+    "Saturn internal heat",
+    "Saturn core",
+    "planet formation",
+    "core accretion model",
+    "disk instability model",
+    "Saturn storms",
+    "hexagon jet stream",
+    "Saturn rings",
+    "Cassini Division",
+    "ring rain",
+    "Saturn ring origin theories",
+    "Chrysalis moon",
+    "Saturn moons",
+    "Mimas",
+    "Enceladus",
+    "Titan",
+    "Titan atmosphere and seas",
+    "E ring",
+    "Phoebe ring",
+    "Cassini mission",
+    "Dragonfly mission",
+    "Saturn visibility 2025",
+    "Galileo",
+    "Christiaan Huygens",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Saturn",
+      "type": "other"
+    },
+    {
+      "name": "Saturnus",
+      "type": "other"
+    },
+    {
+      "name": "Sun",
+      "type": "other"
+    },
+    {
+      "name": "Suryasiddhanta",
+      "type": "work"
+    },
+    {
+      "name": "Sumerians",
+      "type": "organization"
+    },
+    {
+      "name": "Jack Connerney",
+      "type": "person"
+    },
+    {
+      "name": "Alan Boss",
+      "type": "person"
+    },
+    {
+      "name": "Galileo",
+      "type": "person"
+    },
+    {
+      "name": "Christiaan Huygens",
+      "type": "person"
+    },
+    {
+      "name": "Cassini",
+      "type": "event"
+    },
+    {
+      "name": "Cassini Division",
+      "type": "other"
+    },
+    {
+      "name": "Voyager 2",
+      "type": "event"
+    },
+    {
+      "name": "Titan",
+      "type": "other"
+    },
+    {
+      "name": "Enceladus",
+      "type": "other"
+    },
+    {
+      "name": "Mimas",
+      "type": "other"
+    },
+    {
+      "name": "Chrysalis",
+      "type": "other"
+    },
+    {
+      "name": "Phoebe",
+      "type": "other"
+    },
+    {
+      "name": "Dragonfly",
+      "type": "event"
+    },
+    {
+      "name": "Spitzer space telescope",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and Saturn introduction",
+      "summary": "Hosts introduce the Far out edition about Saturn, joke about Emily and a comedy bet, and note Saturn is the sixth planet and the farthest planet visible to the naked eye.",
+      "topics": [
+        "Saturn",
+        "show intro",
+        "naked eye visibility"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:20",
+      "kind": "content",
+      "title": "Ancient size estimate and Saturn's name",
+      "summary": "The Suryasiddhanta, an ancient Indian astronomy text, estimated Saturn's diameter within about 1,000 miles of the modern figure. The planet is named for the Roman god Saturnus, and the Saturday connection is noted.",
+      "topics": [
+        "Suryasiddhanta",
+        "Saturn diameter",
+        "Saturn name origin",
+        "Saturday"
+      ]
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:07:05",
+      "kind": "content",
+      "title": "Size comparison and gas giant nature",
+      "summary": "Saturn is compared to Earth in size, with its equator about ten times Earth's circumference. Saturn is a gas giant with no true surface and low density.",
+      "topics": [
+        "gas giant",
+        "Saturn size compared to Earth",
+        "Saturn density"
+      ]
+    },
+    {
+      "start": "00:07:05",
+      "end": "00:09:10",
+      "kind": "content",
+      "title": "Distance from the Sun, temperature and day length",
+      "summary": "Saturn is about 886 million miles from the Sun and receives about 1.2 percent of Earth's sunlight, with cold upper atmosphere temperatures. Its internal heat explains why it is warmer than expected. Sunlight takes about 80 minutes to arrive, the year is about 30 Earth years, and the day is about 10.7 hours.",
+      "topics": [
+        "Saturn temperature",
+        "Saturn internal heat",
+        "Saturn year",
+        "Saturn day length",
+        "Saturn rotation"
+      ]
+    },
+    {
+      "start": "00:09:10",
+      "end": "00:11:15",
+      "kind": "content",
+      "title": "Atmosphere and liquid hydrogen layers",
+      "summary": "Saturn's atmosphere is mostly hydrogen and helium and roughly 37 miles thick. Beneath it, pressure turns hydrogen into a liquid.",
+      "topics": [
+        "Saturn atmosphere",
+        "hydrogen",
+        "helium",
+        "liquid hydrogen",
+        "Saturn layers"
+      ]
+    },
+    {
+      "start": "00:11:15",
+      "end": "00:13:55",
+      "kind": "content",
+      "title": "Metallic hydrogen, core and internal heat",
+      "summary": "Further in, liquid hydrogen becomes liquid metallic hydrogen that conducts electricity, which the hosts link to Saturn's internal heat. The core is believed to be molten iron about the size of 55 Earths, with a claimed slushy structure containing ice, rock and gas.",
+      "topics": [
+        "liquid metallic hydrogen",
+        "Saturn core",
+        "Saturn internal heat",
+        "Saturn interior"
+      ]
+    },
+    {
+      "start": "00:13:55",
+      "end": "00:14:55",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:14:55",
+      "end": "00:17:55",
+      "kind": "content",
+      "title": "Core accretion versus disk instability",
+      "summary": "Astrophysicists debate how gas giants like Saturn form. The core accretion model builds planets from rocky core material, while the disk instability model, led by Alan Boss, says a dense swirling disk can collapse directly into a gas giant.",
+      "topics": [
+        "planet formation",
+        "core accretion model",
+        "disk instability model",
+        "Alan Boss",
+        "gas giant formation"
+      ]
+    },
+    {
+      "start": "00:17:55",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Saturn storms and the hexagon jet stream",
+      "summary": "Saturn has large, erratic storms, with winds near 1,000 miles per hour at the equator, and a storm photographed by Cassini in 2010 that wrapped around the planet. A persistent hexagon-shaped jet stream around the north pole, first photographed by Voyager 2 in 1981, is attributed to fast rotation.",
+      "topics": [
+        "Saturn storms",
+        "hexagon jet stream",
+        "Saturn winds",
+        "Voyager 2",
+        "Cassini storm",
+        "temperature gradient"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:10",
+      "kind": "content",
+      "title": "Discovery of the rings and Saturn's tilt",
+      "summary": "Galileo first glimpsed the rings in 1610 but thought they were handles or moons. Christiaan Huygens later identified them as rings. Saturn is tilted about 27 degrees, which the hosts link to seasons lasting about seven Earth years.",
+      "topics": [
+        "Saturn rings discovery",
+        "Galileo",
+        "Christiaan Huygens",
+        "axial tilt",
+        "Saturn seasons"
+      ]
+    },
+    {
+      "start": "00:25:10",
+      "end": "00:25:20",
+      "kind": "ad",
+      "title": "Brief aside",
+      "summary": "Brief transition and aside about an orthodontist and the Indigo Girls.",
+      "topics": [
+        "aside"
+      ]
+    },
+    {
+      "start": "00:25:20",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Ring composition, size and naming",
+      "summary": "The rings are about 95 percent ice, with particles from sand grains to boulders. The outermost ring is very wide but thin. The rings were named A through G in discovery order, not positional order, with a mnemonic offered.",
+      "topics": [
+        "Saturn ring composition",
+        "ring particles",
+        "ring naming",
+        "ring letters",
+        "mnemonic"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:31:50",
+      "kind": "content",
+      "title": "Cassini Division and Mimas",
+      "summary": "The Cassini Division, a gap about 3,000 miles wide between the A and B rings, is described. The gravitational influence of the moon Mimas keeps particles from drifting into it. Mimas is nicknamed the Death Star.",
+      "topics": [
+        "Cassini Division",
+        "Mimas",
+        "ring gaps",
+        "gravitational resonance",
+        "Death Star moon"
+      ]
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:32:10",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break before the discussion of how the rings formed.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:32:10",
+      "end": "00:36:20",
+      "kind": "content",
+      "title": "Ring formation theories and ring rain",
+      "summary": "Scientists are not certain how the rings formed. Jack Connerney's 1986 calculation of ring rain, where charged particles fall into Saturn, suggests the rings may be around 100 million years old. A theory holds that a moon named Chrysalis was torn apart by Saturn's gravity after a tug-of-war with Titan.",
+      "topics": [
+        "ring rain",
+        "Jack Connerney",
+        "Saturn ring age",
+        "Chrysalis moon",
+        "ring origin theories"
+      ]
+    },
+    {
+      "start": "00:36:20",
+      "end": "00:39:10",
+      "kind": "content",
+      "title": "Moon collision theory, E ring and Phoebe ring",
+      "summary": "A competing theory holds that several moons collided to produce the rings. The E ring comes from ice from Enceladus. A faint ring following the orbit of Phoebe was found in 2009 using the Spitzer space telescope.",
+      "topics": [
+        "moon collision theory",
+        "E ring",
+        "Enceladus geysers",
+        "Phoebe ring",
+        "Spitzer space telescope"
+      ]
+    },
+    {
+      "start": "00:39:10",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Number of Saturn's moons",
+      "summary": "Saturn has 146 known moons, after the IAU added 62 moons in 2023. The moons orbit outside the rings, and Mimas is the nearest, orbiting in about 22 hours.",
+      "topics": [
+        "Saturn moons count",
+        "International Astronomical Union",
+        "Mimas orbit"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:46:10",
+      "kind": "content",
+      "title": "Titan, Enceladus and hydrothermal vent life",
+      "summary": "Titan has a thick nitrogen atmosphere, methane and ethane seas, and a possible salt water ocean about 50 miles below the surface. Enceladus has a salt water ocean, geysers, and possibly hydrothermal vents, and the Cassini probe sampled its water.",
+      "topics": [
+        "Titan",
+        "Titan atmosphere",
+        "Titan methane lakes",
+        "Enceladus ocean",
+        "Enceladus geysers",
+        "hydrothermal vents",
+        "Cassini probe sampling",
+        "life beyond Earth"
+      ]
+    },
+    {
+      "start": "00:46:10",
+      "end": "00:47:20",
+      "kind": "content",
+      "title": "Cassini ending, Dragonfly and 2025 viewing",
+      "summary": "Cassini ended its mission in 2017 with the Grand Finale dive into Saturn. The Dragonfly mission to Titan is set to launch in 2028 and arrive by 2034. Saturn will be best viewed from the northern hemisphere in September 2025.",
+      "topics": [
+        "Cassini Grand Finale",
+        "Dragonfly mission",
+        "Titan exploration",
+        "Saturn viewing 2025"
+      ]
+    },
+    {
+      "start": "00:47:20",
+      "end": "00:49:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Rockney",
+      "summary": "Rockney writes that he hummed the show's theme song around his girlfriend Anna until she hummed it back unprompted, and that they now call it his podcast.",
+      "topics": [
+        "listener mail",
+        "theme song",
+        "earworm"
+      ]
+    },
+    {
+      "start": "00:49:30",
+      "end": "00:49:50",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh asks listeners to send in their stories and gives the show's contact information and credits.",
+      "topics": [
+        "outro",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19067,
+    "output_tokens": 4443
+  }
+}

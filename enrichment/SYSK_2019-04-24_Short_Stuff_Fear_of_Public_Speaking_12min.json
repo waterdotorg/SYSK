@@ -1,0 +1,152 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-04-24_Short_Stuff_Fear_of_Public_Speaking_12min.txt",
+  "title": "Short Stuff: Fear of Public Speaking",
+  "date": "2019-04-24",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-fear-of-public-speaking",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/42c235d2-1b73-4355-b37f-ae28004e44e3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/42c235d2-1b73-4355-b37f-ae28004e44e3/transcript?format=TextWithTimestamps&t=1700543697",
+  "summary": "Short Stuff episode on the fear of public speaking (glossophobia). The hosts open with banter about their own stage fright and how they overcame it through exposure. They cover the popular poll claim that public speaking ranks above death as a fear, and note glossophobia is a form of social anxiety disorder rooted in fear of judgment and failure, and the fear of the fear that drives avoidance. They describe physical symptoms, explain the amygdala and fight-or-flight response, discuss how fear may start in childhood and how parents should encourage kids without traumatizing them. They close with advice: start small, seek cognitive behavioral therapy if severe, join groups like Toastmasters, and know material well rather than memorizing it. A brief ad break for a sponsor appears mid-episode.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "fear of public speaking",
+    "glossophobia",
+    "social anxiety disorder",
+    "stage fright",
+    "performance anxiety",
+    "amygdala",
+    "fight or flight response",
+    "exposure therapy",
+    "cognitive behavioral therapy",
+    "Toastmasters",
+    "avoidance behavior",
+    "fear of judgment",
+    "public speaking tips",
+    "overcoming stage fright",
+    "childhood shyness",
+    "speech preparation",
+    "Jerry Seinfeld eulogy joke"
+  ],
+  "entities": [
+    {
+      "name": "Glossophobia",
+      "type": "other"
+    },
+    {
+      "name": "Social anxiety disorder",
+      "type": "other"
+    },
+    {
+      "name": "Amygdala",
+      "type": "other"
+    },
+    {
+      "name": "Toastmasters",
+      "type": "organization"
+    },
+    {
+      "name": "Jerry Seinfeld",
+      "type": "person"
+    },
+    {
+      "name": "Cognitive behavioral therapy",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and stage fright",
+      "summary": "The hosts joke about their show changes and recall their own stage fright, noting they overcame it mostly through exposure. They introduce the topic of fear of public speaking.",
+      "topics": [
+        "stage fright",
+        "exposure therapy",
+        "fear of public speaking"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Prevalence, poll myth, and glossophobia",
+      "summary": "They question how common the fear is, mention the popular claim that public speaking beats death as the top American fear and the Jerry Seinfeld eulogy joke, and name the fear glossophobia. They note it is a legitimate social anxiety disorder.",
+      "topics": [
+        "glossophobia",
+        "public speaking fear poll",
+        "Jerry Seinfeld eulogy joke",
+        "social anxiety disorder"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:40",
+      "kind": "content",
+      "title": "Fear of judgment and avoidance",
+      "summary": "The hosts explain that the core of social anxiety is fear of judgment and failure, that people fear the fear itself, and that avoidance is the main coping behavior, sometimes shaping careers and lives.",
+      "topics": [
+        "fear of judgment",
+        "avoidance behavior",
+        "fear of the fear",
+        "social anxiety disorder"
+      ]
+    },
+    {
+      "start": "00:06:40",
+      "end": "00:07:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Short break before returning to the discussion, with a teaser from the hosts.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Physical symptoms and the amygdala",
+      "summary": "They describe physical symptoms such as racing heart, sweating, trembling, dizziness and sleeplessness, then explain that the amygdala associates performance with fear and triggers a fight-or-flight stress response, possibly starting in childhood.",
+      "topics": [
+        "amygdala",
+        "fight or flight response",
+        "physical symptoms of stage fright",
+        "childhood shyness"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:20",
+      "kind": "content",
+      "title": "Parenting and encouraging kids",
+      "summary": "The hosts discuss how parents can help children face fears without forcing them or traumatizing them, using a roller coaster anecdote as an example of the older, harsher approach.",
+      "topics": [
+        "parenting fears",
+        "childhood anxiety",
+        "encouraging kids"
+      ]
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Treatment, practice tips, and sign-off",
+      "summary": "They recommend starting small, seeking cognitive behavioral therapy for severe cases, and progressing through practice audiences and Toastmasters. They advise knowing material rather than memorizing it, then sign off.",
+      "topics": [
+        "cognitive behavioral therapy",
+        "Toastmasters",
+        "public speaking tips",
+        "knowing your material",
+        "hecklers"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5101,
+    "output_tokens": 1730
+  }
+}

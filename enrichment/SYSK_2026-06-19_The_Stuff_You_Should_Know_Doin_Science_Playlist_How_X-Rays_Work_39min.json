@@ -1,0 +1,314 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-06-19_The_Stuff_You_Should_Know_Doin_Science_Playlist_How_X-Rays_Work_39min.txt",
+  "title": "The Stuff You Should Know Doin’ Science Playlist: How X-Rays Work",
+  "date": "2026-06-19",
+  "duration": "39 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-x-rays-work-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18c8405f-07ab-48b5-a157-b46e00fde7dd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/18c8405f-07ab-48b5-a157-b46e00fde7dd/transcript?format=TextWithTimestamps&t=1781883215",
+  "summary": "Science playlist rerun of the Stuff You Should Know episode on how X-rays work. The hosts open with banter, then cover the 1895 discovery of X-rays by Wilhelm Röntgen (who named them X-rays, received the first physics Nobel Prize, and whose wife's hand was imaged), the electromagnetic spectrum, how electrons and photons produce X-rays in atoms, the X-ray tube (cathode, anode, tungsten, rotating anode, oil cooling), how X-ray images form as negatives through differential absorption by bone versus soft tissue, lead shielding, and contrast media for imaging blood vessels and the GI tract. Other topics include CT, mammography, and fluoroscopy, plus the ionizing radiation risks, measured in millisieverts, of medical and everyday exposure, and other uses of X-rays (security, geology, astronomy). The episode closes with a listener mail segment about a Vancouver acupuncturist's neurotrophic stimulation therapy for PTSD.",
+  "episode_kind": "rerun",
+  "rerun_of": "How X-Rays Work",
+  "topics": [
+    "X-rays",
+    "how X-rays work",
+    "Wilhelm Röntgen",
+    "X-ray discovery 1895",
+    "electromagnetic spectrum",
+    "photons",
+    "electron orbitals",
+    "X-ray tube",
+    "cathode and anode",
+    "tungsten anode",
+    "radiography",
+    "X-ray negative image",
+    "bone vs soft tissue absorption",
+    "lead shielding",
+    "contrast media",
+    "barium",
+    "CT scan",
+    "mammography",
+    "fluoroscopy",
+    "ionizing radiation",
+    "radiation exposure",
+    "millisieverts",
+    "radiation risk",
+    "X-ray astronomy",
+    "science playlist",
+    "listener mail",
+    "neurotrophic stimulation therapy",
+    "PTSD acupuncture"
+  ],
+  "entities": [
+    {
+      "name": "Wilhelm Röntgen",
+      "type": "person"
+    },
+    {
+      "name": "X-rays",
+      "type": "other"
+    },
+    {
+      "name": "electromagnetic spectrum",
+      "type": "other"
+    },
+    {
+      "name": "CT scan",
+      "type": "other"
+    },
+    {
+      "name": "mammography",
+      "type": "other"
+    },
+    {
+      "name": "fluoroscopy",
+      "type": "other"
+    },
+    {
+      "name": "Balkan War",
+      "type": "event"
+    },
+    {
+      "name": "Siemens",
+      "type": "organization"
+    },
+    {
+      "name": "Lastdoor Recovery Society",
+      "type": "organization"
+    },
+    {
+      "name": "Neurotrophic Stimulation Therapy",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:20",
+      "kind": "intro",
+      "title": "Science playlist introduction",
+      "summary": "Josh introduces the science playlist episode on X-rays.",
+      "topics": [
+        "science playlist"
+      ]
+    },
+    {
+      "start": "00:00:20",
+      "end": "00:03:23",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts chat about movies, biopics, and a Charlie Sheen-era sighting before turning to X-rays.",
+      "topics": [
+        "banter"
+      ]
+    },
+    {
+      "start": "00:03:23",
+      "end": "00:06:15",
+      "kind": "content",
+      "title": "Personal X-ray experience and early X-ray videos",
+      "summary": "Hosts discuss their own injuries and X-ray history, and a Siemens video about X-rays they found dry.",
+      "topics": [
+        "X-rays",
+        "Siemens video"
+      ]
+    },
+    {
+      "start": "00:06:15",
+      "end": "00:08:43",
+      "kind": "content",
+      "title": "Discovery of X-rays by Röntgen",
+      "summary": "Wilhelm Röntgen discovered X-rays in 1895 while testing cathode rays, noticing a glowing screen and imaging bones in his wife's hand. He named them X-rays, won the first physics Nobel Prize, did not patent them, and X-rays were used in the Balkan War a couple of years later.",
+      "topics": [
+        "Wilhelm Röntgen",
+        "X-ray discovery 1895",
+        "Balkan War",
+        "Nobel Prize"
+      ]
+    },
+    {
+      "start": "00:08:43",
+      "end": "00:11:19",
+      "kind": "content",
+      "title": "X-rays on the electromagnetic spectrum",
+      "summary": "X-rays are a form of electromagnetic radiation between gamma rays and ultraviolet, carried by photons, with frequency and wavelength setting their place on the spectrum.",
+      "topics": [
+        "electromagnetic spectrum",
+        "photons",
+        "gamma rays",
+        "ultraviolet"
+      ]
+    },
+    {
+      "start": "00:11:19",
+      "end": "00:14:47",
+      "kind": "content",
+      "title": "Electron orbitals and photon energy absorption",
+      "summary": "Electrons drop between orbitals releasing photons whose energy depends on the drop. Photons are absorbed only when their energy matches the orbital energy difference, and radio waves lack the energy to move electrons while X-rays have enough to pass through the body.",
+      "topics": [
+        "electron orbitals",
+        "photon energy",
+        "photon absorption",
+        "radio waves vs X-rays"
+      ]
+    },
+    {
+      "start": "00:14:47",
+      "end": "00:17:25",
+      "kind": "content",
+      "title": "How X-ray images form",
+      "summary": "Denser atoms like calcium in bone absorb X-rays while softer tissue lets them pass, so the X-ray plate records a negative silhouette of the bones. The hosts compare this to a prehistoric cave handprint stencil.",
+      "topics": [
+        "radiography",
+        "X-ray negative image",
+        "bone vs soft tissue absorption",
+        "calcium"
+      ]
+    },
+    {
+      "start": "00:17:25",
+      "end": "00:19:02",
+      "kind": "content",
+      "title": "Focused beams and lead shielding",
+      "summary": "X-ray machines use a lead shield with a small window and filters to produce a narrow beam, and lead is used because of its high density and atomic number.",
+      "topics": [
+        "lead shielding",
+        "lead apron",
+        "X-ray beam"
+      ]
+    },
+    {
+      "start": "00:19:02",
+      "end": "00:23:17",
+      "kind": "content",
+      "title": "How X-ray tubes produce X-rays",
+      "summary": "A heated cathode emits electrons that accelerate across a vacuum tube to a tungsten anode, where collisions generate X-rays in a chain reaction. Humans generate a significant share of Earth's X-rays, unlike natural sources from space.",
+      "topics": [
+        "X-ray tube",
+        "cathode",
+        "anode",
+        "tungsten",
+        "vacuum tube",
+        "X-ray astronomy"
+      ]
+    },
+    {
+      "start": "00:23:17",
+      "end": "00:25:18",
+      "kind": "content",
+      "title": "Bremsstrahlung-style energy transfer, anode cooling, and imaging types",
+      "summary": "Electrons near a nucleus lose energy and emit photons. The anode rotates and sits in an oil bath to dissipate heat. The camera records the pattern, and computers enable CT slices.",
+      "topics": [
+        "anode cooling",
+        "oil bath",
+        "CT scan",
+        "rotating anode"
+      ]
+    },
+    {
+      "start": "00:25:18",
+      "end": "00:27:41",
+      "kind": "content",
+      "title": "Mammography, fluoroscopy, and contrast media",
+      "summary": "Mammography and fluoroscopy, the X-ray moving picture, are described. Contrast agents such as barium are used to make blood vessels and the GI tract visible.",
+      "topics": [
+        "mammography",
+        "fluoroscopy",
+        "contrast media",
+        "barium",
+        "GI tract imaging"
+      ]
+    },
+    {
+      "start": "00:27:41",
+      "end": "00:28:20",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Ad break before the discussion of X-ray safety.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:28:20",
+      "end": "00:30:17",
+      "kind": "content",
+      "title": "Radiation dangers and ionization",
+      "summary": "Excess X-ray exposure can cause damage. X-rays ionize atoms, which can cause cell death, mutation, cancer, and birth defects if exposure occurs in utero, which is why pregnant women should avoid them. Historical overexposure in shoe-fitting fluoroscopes is mentioned.",
+      "topics": [
+        "ionizing radiation",
+        "radiation sickness",
+        "cancer risk",
+        "birth defects",
+        "shoe-fitting X-ray machines"
+      ]
+    },
+    {
+      "start": "00:30:17",
+      "end": "00:33:34",
+      "kind": "content",
+      "title": "Radiation dose levels and medical use",
+      "summary": "Average annual background exposure is one to four millisieverts, with altitude affecting it. Dental, chest, pelvis, and CT doses are compared. Doctors aim for the minimum dose needed, and exposure accumulates over a year.",
+      "topics": [
+        "millisieverts",
+        "radiation dose",
+        "background radiation",
+        "CT scan dose",
+        "dental X-ray"
+      ]
+    },
+    {
+      "start": "00:33:34",
+      "end": "00:35:11",
+      "kind": "content",
+      "title": "Other uses of X-rays and safer alternatives",
+      "summary": "X-rays are used for baggage screening, food inspection, geology, and X-ray telescopes in space. The hosts advise asking whether an alternative exists, and note X-rays replaced exploratory surgery.",
+      "topics": [
+        "airport baggage X-ray",
+        "X-ray telescopes",
+        "geology",
+        "exploratory surgery"
+      ]
+    },
+    {
+      "start": "00:35:11",
+      "end": "00:36:04",
+      "kind": "outro",
+      "title": "Wrap-up and promo",
+      "summary": "Hosts wrap up and point to the HowStuffWorks X-ray article.",
+      "topics": [
+        "HowStuffWorks article"
+      ]
+    },
+    {
+      "start": "00:36:04",
+      "end": "00:38:04",
+      "kind": "listener_mail",
+      "title": "Listener mail: acupuncture for PTSD",
+      "summary": "Listener Poppy, a registered acupuncturist in Vancouver, describes Neurotrophic Stimulation Therapy using ear acupuncture and electro-acupuncture to treat trauma and PTSD, with a link to donate for a brain scanner.",
+      "topics": [
+        "listener mail",
+        "PTSD",
+        "acupuncture",
+        "neuroplasticity",
+        "Neurotrophic Stimulation Therapy"
+      ]
+    },
+    {
+      "start": "00:38:04",
+      "end": "00:39:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Contact information and closing.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16337,
+    "output_tokens": 3525
+  }
+}

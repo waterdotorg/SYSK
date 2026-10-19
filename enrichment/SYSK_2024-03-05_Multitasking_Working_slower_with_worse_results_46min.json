@@ -1,0 +1,325 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-03-05_Multitasking_Working_slower_with_worse_results_46min.txt",
+  "title": "Multitasking: Working slower with worse results",
+  "date": "2024-03-05",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/mulititasking-working-slower-with-worse-results",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/10fff09e-9519-494d-957c-b1250122343d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/10fff09e-9519-494d-957c-b1250122343d/transcript?format=TextWithTimestamps&t=1713559865",
+  "summary": "Josh and Chuck explain why multitasking is largely a myth: the brain task-switches rapidly rather than truly doing things in parallel, incurring a switching cost that slows work and increases errors. They trace the term to a 1965 IBM computer ad, cover the psychological refractory period and processing bottleneck theories (including French fMRI work from 2010 and David Meyer's University of Michigan research), George Miller's seven-item working memory limit, ADHD and multitasking, productivity losses at work, dangers of distracted and eating-while-driving, media multitasking and academic performance, dubious studies on gender differences in multitasking, rare \"super taskers\" identified by University of Utah researchers, and tips like turning off notifications and using the Pomodoro technique. The episode closes with a listener email from Bob Giorsi, a former Spruce Elementary School student in the Pygmalion in the classroom experiment.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "multitasking",
+    "task switching",
+    "switching cost",
+    "myth of multitasking",
+    "psychological refractory period",
+    "processing bottleneck",
+    "response selection bottleneck",
+    "IBM System/360 ad 1965",
+    "working memory",
+    "George Miller seven digits",
+    "super taskers",
+    "ADHD and multitasking",
+    "distracted driving",
+    "eating while driving",
+    "media multitasking",
+    "academic performance and multitasking",
+    "gender differences in multitasking",
+    "Pomodoro technique",
+    "turning off notifications",
+    "productivity loss",
+    "prefrontal cortex",
+    "attention",
+    "Pygmalion in the classroom listener mail"
+  ],
+  "entities": [
+    {
+      "name": "IBM System/360",
+      "type": "other"
+    },
+    {
+      "name": "George Miller",
+      "type": "person"
+    },
+    {
+      "name": "David Meyer",
+      "type": "person"
+    },
+    {
+      "name": "University of Michigan",
+      "type": "organization"
+    },
+    {
+      "name": "Vanderbilt University",
+      "type": "organization"
+    },
+    {
+      "name": "Harvard University",
+      "type": "organization"
+    },
+    {
+      "name": "University of Utah",
+      "type": "organization"
+    },
+    {
+      "name": "Francesco Cirillo",
+      "type": "person"
+    },
+    {
+      "name": "Pomodoro technique",
+      "type": "other"
+    },
+    {
+      "name": "Nicholas Carr",
+      "type": "person"
+    },
+    {
+      "name": "Tom Petty",
+      "type": "person"
+    },
+    {
+      "name": "Luke Ryan",
+      "type": "person"
+    },
+    {
+      "name": "Bob Giorsi",
+      "type": "person"
+    },
+    {
+      "name": "Leonore Jacobson",
+      "type": "person"
+    },
+    {
+      "name": "Spruce Elementary School",
+      "type": "organization"
+    },
+    {
+      "name": "NHTSA",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and definition of multitasking",
+      "summary": "The hosts joke about the episode and introduce the idea that multitasking is really rapid task switching, which makes people worse at tasks. They note the term comes from a 1965 IBM computer ad.",
+      "topics": [
+        "multitasking",
+        "task switching",
+        "IBM System/360 ad 1965"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Origins of multitasking and computers vs. brains",
+      "summary": "Chuck explains that early single-CPU computers also task-switched rather than truly multitasking until multi-core processors arrived, and that humans face a processing bottleneck.",
+      "topics": [
+        "multitasking origin",
+        "processing bottleneck",
+        "multi-core processors",
+        "human brain as computer analogy"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Switching costs and the psychological refractory period",
+      "summary": "The hosts describe switching costs, the time lag when moving between tasks, and the psychological refractory period, in which response to a second task is delayed while the first is still processed.",
+      "topics": [
+        "switching cost",
+        "psychological refractory period",
+        "refractory period paradigm",
+        "reaction time"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Brain hemispheres, French fMRI study, and response selection bottleneck",
+      "summary": "The hosts discuss a 2010 French fMRI study on prefrontal cortex splitting across hemispheres, the idea that two tasks are manageable but three are not, and David Meyer's University of Michigan work on response selection bottleneck and prioritization.",
+      "topics": [
+        "prefrontal cortex",
+        "fMRI study",
+        "response selection bottleneck",
+        "David Meyer",
+        "adaptive executive control"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "George Miller's seven and working memory",
+      "summary": "The hosts cover George Miller's finding that average recall is about seven items, and how people chunk numbers like phone and Social Security numbers into smaller pieces to ease working memory. Multitasking relies heavily on working memory.",
+      "topics": [
+        "George Miller seven digits",
+        "working memory",
+        "chunking",
+        "memory recall"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "ADHD and multitasking",
+      "summary": "Chuck explains that multitasking is hard for people with ADHD because it draws on memory, attention, self-regulation, and goal direction; people with ADHD have longer switching gaps and higher arousal and stress.",
+      "topics": [
+        "ADHD and multitasking",
+        "switching cost",
+        "hyperarousal",
+        "executive function"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Productivity and performance losses",
+      "summary": "Josh says studies show multitasking lowers work quality and increases errors, with up to a forty percent productivity loss from checking social media and email at work. Chuck gives a joking example of making a paper airplane and shaving a bunny.",
+      "topics": [
+        "productivity loss",
+        "multitasking at work",
+        "errors",
+        "time cost of multitasking"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Distracted driving and eating behind the wheel",
+      "summary": "The hosts discuss smartphone distraction and crash data from a 2022 study, and NHTSA findings that eating or drinking while driving raises accident risk; coffee, soups, chili, fried chicken, and jelly donuts were named as risky foods.",
+      "topics": [
+        "distracted driving",
+        "smartphones and crashes",
+        "eating while driving",
+        "NHTSA",
+        "dangerous foods while driving"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Multitasking and academic performance",
+      "summary": "A study found Facebook and texting linked to poorer grades while online searching and emailing were less related. The hosts note studies conflate distraction with multitasking.",
+      "topics": [
+        "academic performance",
+        "students multitasking",
+        "distraction vs multitasking",
+        "texting and grades"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Notifications, focus, and reading habits",
+      "summary": "Josh recommends turning off phone notifications and describes struggles with admin days. Chuck describes superficial reading online, referencing Nicholas Carr's article, and both describe returning to reading novels and fiction.",
+      "topics": [
+        "turning off notifications",
+        "focus",
+        "superficial reading",
+        "Nicholas Carr",
+        "reading for pleasure"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Break",
+      "summary": "Brief break before returning to the segment on the quality of multitasking research.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Gender differences in multitasking studies",
+      "summary": "The hosts question studies claiming men or women are better at multitasking. They critique a study using a blank-paper key-finding task and a Penn Medicine connectome study that the media overextended to memory and social cognition claims.",
+      "topics": [
+        "gender differences multitasking",
+        "flawed studies",
+        "connectome",
+        "media misreporting"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Media multitasking trends and super taskers",
+      "summary": "Media multitasking rose from about 16 percent of media time in the late nineties to 26 percent in 2005 and 30 percent by 2011. Chuck describes University of Utah researchers finding rare super taskers, about two and a half percent of 400 people, unaffected by switching.",
+      "topics": [
+        "media multitasking",
+        "super taskers",
+        "University of Utah",
+        "multiple screens"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:44:30",
+      "kind": "content",
+      "title": "Pomodoro technique for focus",
+      "summary": "Josh describes the Pomodoro technique by Francesco Cirillo: 25-minute focused work blocks with five-minute breaks, and a longer break after four cycles, with notifications off.",
+      "topics": [
+        "Pomodoro technique",
+        "time management",
+        "focus techniques"
+      ]
+    },
+    {
+      "start": "00:44:30",
+      "end": "00:46:10",
+      "kind": "listener_mail",
+      "title": "Listener mail from Bob Giorsi on Pygmalion experiment",
+      "summary": "A listener who attended Spruce Elementary School in the 1960s writes that he was part of the Pygmalion in the classroom experiment and that principal Leonore Jacobson is still living at 101.",
+      "topics": [
+        "listener mail",
+        "Pygmalion in the classroom",
+        "Spruce Elementary School",
+        "Leonore Jacobson"
+      ]
+    },
+    {
+      "start": "00:46:10",
+      "end": "00:46:20",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck invites listener mail and the hosts sign off.",
+      "topics": [
+        "outro",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15729,
+    "output_tokens": 3465
+  }
+}

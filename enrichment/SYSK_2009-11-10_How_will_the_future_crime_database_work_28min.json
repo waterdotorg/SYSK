@@ -1,0 +1,254 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-11-10_How_will_the_future_crime_database_work_28min.txt",
+  "title": "How will the future crime database work?",
+  "date": "2009-11-10",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-will-the-future-crime-database-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b362334b-d65f-4a4e-83e0-ae2800bbe9de/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b362334b-d65f-4a4e-83e0-ae2800bbe9de/transcript?format=TextWithTimestamps&t=1700543976",
+  "summary": "Josh and Chuck discuss predictive crime databases and the privacy, civil liberties, and accuracy concerns they raise. They begin with Minority Report and the idea of precognitive pre-crime officers, then survey existing databases: fingerprinting, the National Crime Information Center, the iPhone sex offender locator, and the UK and US national DNA databases (including England's 2003 expansion to arrestees, California's Prop 69, and a 2008 report of half a million wrong names in England's database). They cover DNA ancestry tools like DNAWitness, the London Homicide Prevention Unit's forecasting, Richard Berk's University of Pennsylvania lethality-score algorithm, census data use in Japanese American internment, and the Future Attribute Screening Technologies project. The episode closes with listener mail from a US expat listening club in South Korea that drinks soju during the show, and a plug for a related article by Shanna Freeman.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "predictive policing",
+    "crime prediction database",
+    "future crime database",
+    "Minority Report",
+    "pre-crime",
+    "DNA database",
+    "National DNA Database UK",
+    "National DNA Index System CODIS",
+    "DNA profiling privacy",
+    "National Crime Information Center",
+    "fingerprint database",
+    "sex offender registry app",
+    "Prop 69 California DNA",
+    "arrestee DNA collection",
+    "DNA Witness ancestry markers",
+    "London Homicide Prevention Unit",
+    "Richard Berk lethality score algorithm",
+    "criminology sociology forecasting",
+    "census records privacy",
+    "Japanese American internment census",
+    "Future Attribute Screening Technologies",
+    "security theater",
+    "civil liberties surveillance",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Minority Report",
+      "type": "work"
+    },
+    {
+      "name": "Philip K. Dick",
+      "type": "person"
+    },
+    {
+      "name": "National Crime Information Center",
+      "type": "organization"
+    },
+    {
+      "name": "National DNA Database",
+      "type": "other"
+    },
+    {
+      "name": "National DNA Index System",
+      "type": "organization"
+    },
+    {
+      "name": "FBI",
+      "type": "organization"
+    },
+    {
+      "name": "Prop 69",
+      "type": "event"
+    },
+    {
+      "name": "DNA Witness",
+      "type": "work"
+    },
+    {
+      "name": "DNA Print Genomics",
+      "type": "organization"
+    },
+    {
+      "name": "Homicide Prevention Unit",
+      "type": "organization"
+    },
+    {
+      "name": "Laura Richards",
+      "type": "person"
+    },
+    {
+      "name": "Richard Berk",
+      "type": "person"
+    },
+    {
+      "name": "University of Pennsylvania",
+      "type": "organization"
+    },
+    {
+      "name": "Future Attribute Screening Technologies",
+      "type": "other"
+    },
+    {
+      "name": "Project Hostile Intent",
+      "type": "other"
+    },
+    {
+      "name": "MS-13",
+      "type": "organization"
+    },
+    {
+      "name": "John Wayne Gacy",
+      "type": "person"
+    },
+    {
+      "name": "The First 48",
+      "type": "work"
+    },
+    {
+      "name": "England",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Japanese American internment",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Halloween puns",
+      "summary": "Josh and Chuck open with banter about Halloween episodes, a Discovery/Science Channel special promotion, and a brief lead-in about Minority Report.",
+      "topics": [
+        "podcast intro",
+        "Discovery Channel promo",
+        "punkin chunkin"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Minority Report and the idea of pre-crime",
+      "summary": "They discuss the film Minority Report, based on a Philip K. Dick short story, and its pre-crime unit of precognitive officers, then introduce the idea of crime databases.",
+      "topics": [
+        "Minority Report",
+        "pre-crime",
+        "precognition",
+        "predictive policing"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Fingerprinting, NCIC, and sex offender locator",
+      "summary": "Chuck and Josh describe fingerprinting as a basic database, the National Crime Information Center which holds records on offenders and gang members, and an iPhone app for locating sex offenders.",
+      "topics": [
+        "fingerprint database",
+        "National Crime Information Center",
+        "sex offender registry app",
+        "The First 48"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "UK and US national DNA databases",
+      "summary": "The UK's National DNA Database began with convicted offenders and expanded in 2003 to arrestees, and by 2007 held about four million entries, the second largest in the world. The US National DNA Index System, maintained by the FBI, had about 4.5 million profiles that year. California's Prop 69 in 2004 allowed DNA collection from felony arrestees, including some misdemeanors and immigrants.",
+      "topics": [
+        "National DNA Database UK",
+        "DNA database expansion",
+        "arrestee DNA collection",
+        "National DNA Index System",
+        "Prop 69 California",
+        "DNA sampling"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Database errors, ancestry markers, and privacy concerns",
+      "summary": "They cover the 2008 report that half a million UK database entries were wrong, DNAWitness ancestry inference, racial profiling concerns, and the lack of public debate about DNA profiling.",
+      "topics": [
+        "DNA database errors",
+        "DNA Witness ancestry markers",
+        "racial profiling",
+        "DNA privacy",
+        "civil liberties"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Forecasting crime, lethality scores, and surveillance",
+      "summary": "They discuss the London Homicide Prevention Unit and Laura Richards' goal of identifying the most violent people, psychological profiling, Richard Berk's algorithm with a lethality score and crime regimes, the risks of surveillance and vigilantism, and census data use in the Japanese American internment.",
+      "topics": [
+        "London Homicide Prevention Unit",
+        "Richard Berk lethality score",
+        "crime forecasting",
+        "census records",
+        "Japanese American internment",
+        "surveillance",
+        "self-fulfilling prophecy"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Future Attribute Screening Technologies",
+      "summary": "They describe the US Project Hostile Intent, later renamed Future Attribute Screening Technologies, a mobile screening unit that reads pulse, breathing, and pupil dilation to predict hostile intent, and the concept of security theater.",
+      "topics": [
+        "Future Attribute Screening Technologies",
+        "Project Hostile Intent",
+        "security theater",
+        "airport screening",
+        "terrorism detection"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Korean listening club",
+      "summary": "Richard writes about a group of US expatriates in South Korea who listen to the show and drink soju with a drinking game tied to statistics, producer Jerry's name, and Josh's self-corrections.",
+      "topics": [
+        "listener mail",
+        "listening club",
+        "drinking game",
+        "soju"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off and related article",
+      "summary": "Chuck and Josh point listeners to a related article by Shanna Freeman on future crime databases and sign off with the reminder to send mail to the show address.",
+      "topics": [
+        "outro",
+        "future crime database article",
+        "stuff podcast email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10311,
+    "output_tokens": 2671
+  }
+}

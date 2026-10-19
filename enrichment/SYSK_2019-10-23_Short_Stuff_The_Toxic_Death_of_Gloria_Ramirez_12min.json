@@ -1,0 +1,168 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-10-23_Short_Stuff_The_Toxic_Death_of_Gloria_Ramirez_12min.txt",
+  "title": "Short Stuff: The Toxic Death of Gloria Ramirez",
+  "date": "2019-10-23",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-toxic-death-of-gloria-ramirez",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2b68edae-4bb5-4543-8668-ae280043c938/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2b68edae-4bb5-4543-8668-ae280043c938/transcript?format=TextWithTimestamps&t=1700543676",
+  "summary": "Short Stuff episode recounting the 1980s-era (February, Riverside, California) death of Gloria Ramirez, a 31-year-old woman with cervical cancer brought to a hospital with a racing heart. Within an hour of resuscitation efforts she was pronounced dead, and staff who handled her or her blood fainted or fell ill; the emergency room was evacuated. Twenty-three of 37 staff reported odd symptoms. Hazmat found no toxic gas, no viruses or bacteria. Lawrence Livermore researchers found unusual dimethyl sulfone and proposed a theory that she used DMSO as a pain reliever which oxidized into toxic dimethyl sulfate gas after oxygen was given. The theory is unproven, the symptoms and family's account don't fully fit, and alternative explanations such as mass hysteria and a meth-ingredients urban legend are discussed. The episode ends with the case remaining unsolved.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Gloria Ramirez",
+    "Riverside California hospital mystery",
+    "unexplained illness",
+    "dimethyl sulfate",
+    "dimethyl sulfoxide DMSO",
+    "dimethyl sulfone",
+    "Lawrence Livermore National Laboratory",
+    "hospital emergency room evacuation",
+    "toxic corpse",
+    "mass hysteria",
+    "medical mystery",
+    "unsolved mystery",
+    "cervical cancer",
+    "nurses fainting",
+    "urban legend meth ingredients IV bags",
+    "short stuff"
+  ],
+  "entities": [
+    {
+      "name": "Gloria Ramirez",
+      "type": "person"
+    },
+    {
+      "name": "Riverside, California",
+      "type": "place"
+    },
+    {
+      "name": "Lawrence Livermore National Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "dimethyl sulfoxide",
+      "type": "other"
+    },
+    {
+      "name": "dimethyl sulfate",
+      "type": "other"
+    },
+    {
+      "name": "dimethyl sulfone",
+      "type": "other"
+    },
+    {
+      "name": "Hazmat",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening and case introduction",
+      "summary": "Josh introduces the short stuff and begins the story of Gloria Ramirez, a 31-year-old woman with cervical cancer brought to a Riverside hospital with a racing heart; she is pronounced dead within an hour.",
+      "topics": [
+        "Gloria Ramirez",
+        "Riverside California hospital",
+        "cervical cancer",
+        "atrial fibrillation"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Emergency room evacuation and staff illnesses",
+      "summary": "The ER evacuates after Ramirez dies because staff fall ill. Blood smells like ammonia, a nurse and others faint, and 23 of 37 staff have odd symptoms, including one nurse with hepatitis, pancreatitis and vascular necrosis.",
+      "topics": [
+        "hospital emergency room evacuation",
+        "nurses fainting",
+        "unexplained illness",
+        "vascular necrosis"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Hazmat investigation finds no toxic source",
+      "summary": "Hazmat arrives expecting toxic gas but finds nothing on her body, in the bag, box, or room, and no viruses or bacteria. The death is initially attributed to heart and kidney failure from cancer.",
+      "topics": [
+        "Hazmat investigation",
+        "toxic gas",
+        "medical mystery",
+        "cause of death"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:05:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a short break before resuming the story.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Lawrence Livermore tissue analysis",
+      "summary": "Researchers from Lawrence Livermore National Laboratory test tissue and blood and find ammonia metabolites, niacinamide, and unusually high dimethyl sulfone. The ammonia byproduct is attributed to drugs given, and PCP is suggested but not found.",
+      "topics": [
+        "Lawrence Livermore National Laboratory",
+        "dimethyl sulfone",
+        "toxicology",
+        "niacinamide"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Dimethyl sulfate theory",
+      "summary": "Dimethyl sulfone is traced back through DMSO, a topical pain reliever, and oxidized to dimethyl sulfate, a gas that can kill in minutes. The proposed theory is that oxygen given during resuscitation converted her DMSO into the gas. It is unproven, and the symptoms and family's denial of DMSO use don't fully fit.",
+      "topics": [
+        "dimethyl sulfate",
+        "dimethyl sulfoxide DMSO",
+        "toxic gas theory",
+        "oxygen therapy",
+        "unproven theory"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Alternative explanations: mass hysteria and urban legend",
+      "summary": "Other explanations are discussed: mass hysteria, which the hosts call sexist given the mostly female staff, and a meth-ingredients smuggling urban legend involving IV bags, which is considered untrue.",
+      "topics": [
+        "mass hysteria",
+        "urban legend",
+        "meth ingredients IV bags",
+        "unsolved mystery"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Closing and sign-off",
+      "summary": "Josh closes the case as still unsolved and signs off the short stuff episode.",
+      "topics": [
+        "sign-off",
+        "unsolved mystery"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5252,
+    "output_tokens": 2076
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-04-22_How_Mars_Works_51min.txt",
+  "title": "How Mars Works",
+  "date": "2014-04-22",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-mars-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e0dcf1f4-9012-43ad-ac88-ae280098ed90/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e0dcf1f4-9012-43ad-ac88-ae280098ed90/transcript?format=TextWithTimestamps&t=1700543883",
+  "summary": "Josh and Chuck open with a morning-edition banter about Ash Wednesday, a NPR listener email, and a recent Alan Hills Martian meteorite (ALH84001) fossil claim. They then survey Mars: early fascination via Schiaparelli's canals and Percival Lowell's writings, the myth of the War of the Worlds radio panic, and NASA's Mars focus after the Shuttle program. The main segment covers how Mars formed and evolved (accretion, volcanism, atmosphere loss, the Great Desiccation), its surface features (Southern Highlands, northern plains, Tharsis, Elysium, Olympus Mons, Valles Marineris), the polar caps and water ice found by Phoenix, perchlorate toxicity, and the interior compared with Earth's (core, mantle, lack of plate tectonics). Further discussion covers the thin CO2 atmosphere, terraforming, seasons and dust storms, the search for water and life (methane findings, Greenland bacteria, contamination risks), the Face on Mars photo, Mars in pop culture, and a listener email on food cravings and processed food engineering.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Mars",
+    "how Mars formed",
+    "Mars geology",
+    "Olympus Mons",
+    "Valles Marineris",
+    "Tharsis",
+    "Elysium Planitia",
+    "Southern Highlands",
+    "Mars polar ice caps",
+    "Mars water ice",
+    "Phoenix lander",
+    "perchlorate",
+    "Mars atmosphere",
+    "Mars dust storms",
+    "terraforming Mars",
+    "Great Desiccation event",
+    "Mars interior and core",
+    "plate tectonics",
+    "Mars life search",
+    "Martian meteorite ALH84001",
+    "Schiaparelli canals",
+    "Percival Lowell",
+    "Face on Mars",
+    "War of the Worlds radio broadcast panic",
+    "NASA Mars exploration",
+    "Curiosity rover",
+    "Mars methane",
+    "Mars pop culture",
+    "food cravings",
+    "junk food engineering"
+  ],
+  "entities": [
+    {
+      "name": "Mars",
+      "type": "place"
+    },
+    {
+      "name": "Olympus Mons",
+      "type": "place"
+    },
+    {
+      "name": "Valles Marineris",
+      "type": "place"
+    },
+    {
+      "name": "Tharsis",
+      "type": "place"
+    },
+    {
+      "name": "Elysium",
+      "type": "place"
+    },
+    {
+      "name": "Giovanni Schiaparelli",
+      "type": "person"
+    },
+    {
+      "name": "Percival Lowell",
+      "type": "person"
+    },
+    {
+      "name": "Orson Welles",
+      "type": "person"
+    },
+    {
+      "name": "Elon Musk",
+      "type": "person"
+    },
+    {
+      "name": "Curiosity rover",
+      "type": "other"
+    },
+    {
+      "name": "Phoenix lander",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Mariana Trench",
+      "type": "place"
+    },
+    {
+      "name": "Mauna Loa",
+      "type": "place"
+    },
+    {
+      "name": "Viking 1",
+      "type": "other"
+    },
+    {
+      "name": "War of the Worlds",
+      "type": "work"
+    },
+    {
+      "name": "Mission to Mars",
+      "type": "work"
+    },
+    {
+      "name": "Life on Mars",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Martian meteorite news",
+      "summary": "Hosts discuss Ash Wednesday coincidences, a listener email from NPR, and new claims that the Alan Hills Martian meteorite shows fossilized nanobacteria.",
+      "topics": [
+        "Alan Hills meteorite",
+        "Martian meteorite",
+        "origin of life from Mars"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Early fascination with Mars",
+      "summary": "Schiaparelli's canal map and Lowell's civilization claims shaped popular ideas of Mars; the War of the Worlds panic is described as largely a newspaper-driven myth; NASA's post-Shuttle Mars focus and budget hearing are mentioned.",
+      "topics": [
+        "Schiaparelli canals",
+        "Percival Lowell",
+        "War of the Worlds panic myth",
+        "NASA Mars focus",
+        "Mars in science fiction"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "How Mars formed",
+      "summary": "Mars formed by accretion like Earth, was struck by meteors, had volcanism and a period of water and rain, then cooled and lost its atmosphere. Its smaller size is cited as the reason it cooled faster.",
+      "topics": [
+        "planet formation",
+        "accretion",
+        "Mars volcanism",
+        "Great Desiccation event",
+        "Mars size vs Earth"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Olympus Mons and Mars volcanoes",
+      "summary": "Volcanic activity thickened the atmosphere and the volcanoes went dormant about three billion years ago, cutting off heat and gas. Olympus Mons is compared with Mauna Loa and Everest.",
+      "topics": [
+        "Olympus Mons",
+        "Mauna Loa",
+        "dormant volcanoes",
+        "tallest mountain in solar system"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Mars surface regions and canyons",
+      "summary": "The surface is divided into Southern Highlands, northern plains and polar regions; Tharsis and Elysium are crustal upwarps; Valles Marineris is a canyon system larger than the Grand Canyon.",
+      "topics": [
+        "Southern Highlands",
+        "northern plains",
+        "Tharsis",
+        "Elysium",
+        "crustal upwarps",
+        "Valles Marineris",
+        "Grand Canyon comparison"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Polar caps, water ice, and perchlorate",
+      "summary": "Polar caps have CO2 dry ice over water ice; Phoenix found water in soil and perchlorate, a toxic compound that poses a challenge for human missions. Elon Musk's Mars ambitions are mentioned.",
+      "topics": [
+        "polar ice caps",
+        "Phoenix water discovery",
+        "perchlorate toxicity",
+        "Elon Musk Mars plans"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Mars interior compared with Earth",
+      "summary": "Mars's core is smaller and probably iron with sulfur, possibly not molten, which explains its weak magnetic field. Mars lacks moving plates, so it has no active volcanoes or earthquakes like Earth's fault lines. Mars's surface is rusty due to iron oxide.",
+      "topics": [
+        "Mars core",
+        "Mars mantle",
+        "plate tectonics",
+        "Mars magnetic field",
+        "iron oxide rust color"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Mars atmosphere, seasons, and dust storms",
+      "summary": "Mars has a thin CO2 atmosphere, large daily temperature swings, a day about 40 minutes longer than Earth's, and a year nearly twice as long. Spring dust storms can envelop the planet for months. Terraforming is proposed as a long-term idea.",
+      "topics": [
+        "Mars atmosphere composition",
+        "Mars seasons",
+        "dust storms",
+        "terraforming",
+        "Mars day length"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Water, methane, and the search for life",
+      "summary": "Water is essential to life, NASA's follow-the-water strategy is described, methane findings were revised downward, and extremophile bacteria and contamination risks are discussed. The Face on Mars and Mars in pop culture close the segment.",
+      "topics": [
+        "Mars life search",
+        "methane on Mars",
+        "extremophile bacteria",
+        "contamination risk",
+        "Face on Mars",
+        "Mars pop culture",
+        "Mission to Mars film"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:51:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give website and social media contact information.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16827,
+    "output_tokens": 2867
+  }
+}

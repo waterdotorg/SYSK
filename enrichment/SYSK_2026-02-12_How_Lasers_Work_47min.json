@@ -1,0 +1,376 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-02-12_How_Lasers_Work_47min.txt",
+  "title": "How Lasers Work",
+  "date": "2026-02-12",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-lasers-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18d27363-b99d-4b1b-a1b6-b3ef00d56edb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/18d27363-b99d-4b1b-a1b6-b3ef00d56edb/transcript?format=TextWithTimestamps&t=1770901284",
+  "summary": "Josh and Chuck give a traditional \"how X works\" overview of lasers. They explain how laser light differs from regular light (monochromatic, coherent, collimated), the role of Einstein's theory and stimulated emission, the early history from Charles Townes' maser to Theodore Maiman's 1960 ruby laser, and the main laser types: solid state, gas, fiber, dye, and diode (laser pointers). They cover pulsed lasers and their power, and real-world uses including barcode scanners, fiber internet, medicine (surgery, tumor treatment, dermatology, tattoo removal, LASIK), military directed-energy weapons, laser cooling and atomic clocks, and fusion research. The episode ends with a listener email about purple at a church and the sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "how lasers work",
+    "laser physics",
+    "stimulated emission",
+    "spontaneous emission",
+    "coherent light",
+    "monochromatic light",
+    "collimated beam",
+    "Einstein photon theory",
+    "maser",
+    "Charles Townes",
+    "Theodore Maiman",
+    "ruby laser",
+    "solid state laser",
+    "gas laser",
+    "fiber laser",
+    "dye laser",
+    "diode laser",
+    "laser pointers",
+    "pulsed lasers",
+    "laser power",
+    "barcode scanner",
+    "fiber optic internet",
+    "laser surgery",
+    "LASIK",
+    "tattoo removal",
+    "directed energy weapons",
+    "laser cooling",
+    "atomic clocks",
+    "laser fusion",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "Charles Townes",
+      "type": "person"
+    },
+    {
+      "name": "Theodore Maiman",
+      "type": "person"
+    },
+    {
+      "name": "Percy Spencer",
+      "type": "person"
+    },
+    {
+      "name": "Arthur Schawlow",
+      "type": "person"
+    },
+    {
+      "name": "Max Planck",
+      "type": "person"
+    },
+    {
+      "name": "Bell Labs",
+      "type": "organization"
+    },
+    {
+      "name": "Lawrence Livermore Lab",
+      "type": "organization"
+    },
+    {
+      "name": "Vulcan Laser",
+      "type": "other"
+    },
+    {
+      "name": "Zeus laser",
+      "type": "other"
+    },
+    {
+      "name": "Striker armored fighting vehicle",
+      "type": "other"
+    },
+    {
+      "name": "The Pitt",
+      "type": "work"
+    },
+    {
+      "name": "Dark Side of the Moon",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts joke around and introduce the topic of lasers as a traditional how-it-works episode.",
+      "topics": [
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:00",
+      "kind": "content",
+      "title": "What a laser is and where lasers show up",
+      "summary": "The laser acronym is explained and everyday examples such as supermarket UPC scanners are introduced.",
+      "topics": [
+        "laser acronym",
+        "barcode scanner",
+        "how lasers work"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Regular light and the visible spectrum",
+      "summary": "White light is described as a mix of visible wavelengths, and the spectrum of colors is explained with nanometer ranges.",
+      "topics": [
+        "visible spectrum",
+        "white light",
+        "wavelength",
+        "electromagnetic radiation"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Three differences of laser light",
+      "summary": "Laser light is described as monochromatic, coherent (in phase), and collimated (same direction).",
+      "topics": [
+        "monochromatic light",
+        "coherent light",
+        "collimated beam",
+        "laser light properties"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Einstein, photons, and the Planck relation",
+      "summary": "Einstein's proposal that light comes in discrete packets called photons is covered, along with the energy relation E=hf and how electrons absorb and emit photons.",
+      "topics": [
+        "Einstein photon theory",
+        "photons",
+        "Planck constant",
+        "quantum energy"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:50",
+      "kind": "content",
+      "title": "Spontaneous vs stimulated emission",
+      "summary": "Spontaneous emission is described, followed by stimulated emission, where one photon triggers an identical photon, creating the cascade needed for lasers.",
+      "topics": [
+        "stimulated emission",
+        "spontaneous emission",
+        "photon cascade",
+        "Einstein 1917"
+      ]
+    },
+    {
+      "start": "00:14:50",
+      "end": "00:15:05",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short mid-episode break is announced.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:15:05",
+      "end": "00:19:20",
+      "kind": "content",
+      "title": "Charles Townes' maser and Maiman's first ruby laser",
+      "summary": "Charles Townes builds a microwave maser at Bell Labs, Arthur Schawlow proposes an optical version, and Theodore Maiman builds the first working laser in 1960 using a pink ruby crystal, flash coil, and silvered ends.",
+      "topics": [
+        "maser",
+        "Charles Townes",
+        "Bell Labs",
+        "Theodore Maiman",
+        "ruby laser",
+        "first laser history",
+        "Arthur Schawlow"
+      ]
+    },
+    {
+      "start": "00:19:20",
+      "end": "00:22:15",
+      "kind": "content",
+      "title": "Solid state lasers and gain media",
+      "summary": "Solid state lasers use doped crystals or glass as the gain medium, with examples including neodymium YAG and ytterbium; the gain medium is chosen for the intended application, including tattoo removal and skin treatment.",
+      "topics": [
+        "solid state laser",
+        "gain medium",
+        "Nd:YAG laser",
+        "tattoo removal",
+        "rare earth doping"
+      ]
+    },
+    {
+      "start": "00:22:15",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Gas lasers",
+      "summary": "Gas lasers use gases such as carbon dioxide, argon, or krypton as the gain medium. Carbon dioxide lasers can weld and cut metal, and excimer lasers use UV light for tissue work without heat.",
+      "topics": [
+        "gas laser",
+        "CO2 laser",
+        "excimer laser",
+        "laser cutting",
+        "laser welding"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Fiber lasers, fiber internet, and laser communication",
+      "summary": "Fiber lasers are described with high electricity-to-light efficiency, and laser-based fiber internet is explained. Hosts mention possible Earth-Moon laser communication.",
+      "topics": [
+        "fiber laser",
+        "fiber optic internet",
+        "laser communication",
+        "laser efficiency"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Dye lasers and diode laser pointers",
+      "summary": "Dye lasers use organic dyes as the gain medium and can be tuned to different wavelengths. Diode laser pointers are cheap and weak, and shining them at airline pilots is dangerous.",
+      "topics": [
+        "dye laser",
+        "tunable laser",
+        "diode laser",
+        "laser pointers",
+        "aircraft laser strikes"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:32:20",
+      "kind": "content",
+      "title": "Pulsed lasers and laser power",
+      "summary": "Laser power is measured in watts. Pulsing a laser concentrates energy into short bursts, which was first demonstrated in 1961 with the ruby laser.",
+      "topics": [
+        "pulsed laser",
+        "laser power",
+        "watts",
+        "giant pulses",
+        "Q-switching"
+      ]
+    },
+    {
+      "start": "00:32:20",
+      "end": "00:33:40",
+      "kind": "content",
+      "title": "Pulse energy comparison",
+      "summary": "Giant pulses are described as building energy in very short bursts, and the discussion moves toward real-world uses.",
+      "topics": [
+        "giant pulse",
+        "pulse energy"
+      ]
+    },
+    {
+      "start": "00:33:40",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "High-powered research lasers and laser fusion",
+      "summary": "The Zeus laser at the University of Michigan and the Vulcan Laser in the UK are described. Lasers are used to study extreme conditions, and Lawrence Livermore Lab achieved a net energy gain in fusion in 2022 using 192 lasers.",
+      "topics": [
+        "Zeus laser",
+        "Vulcan Laser",
+        "high-power lasers",
+        "laser fusion",
+        "National Ignition Facility",
+        "Lawrence Livermore",
+        "nuclear fusion"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Lasers in general uses",
+      "summary": "Hosts note lasers appear in many applications wherever light can be reflected or absorbed.",
+      "topics": [
+        "laser applications"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:20",
+      "kind": "content",
+      "title": "Medical lasers: surgery, endoscopes, dermatology, LASIK",
+      "summary": "Lasers are used in surgery as an alternative to scalpels, including a brain tumor procedure through a small skull hole, endoscopic tumor shrinking, cosmetic dermatology, and LASIK eye surgery, which was approved in the US in 1999.",
+      "topics": [
+        "laser surgery",
+        "endoscope laser",
+        "LASIK",
+        "dermatology laser",
+        "brain tumor laser",
+        "The Pitt"
+      ]
+    },
+    {
+      "start": "00:42:20",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Military laser weapons",
+      "summary": "The Army, Navy, and Air Force are developing directed energy laser weapons, including ship turrets that can take down drones and an Army vehicle-mounted system.",
+      "topics": [
+        "directed energy weapons",
+        "military lasers",
+        "laser weapons",
+        "drone defense"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Laser cooling and atomic clocks",
+      "summary": "Laser cooling uses lasers to slow and trap atoms in place, which could improve atomic clocks. The hosts link this to Heisenberg's uncertainty principle.",
+      "topics": [
+        "laser cooling",
+        "optical trapping",
+        "atomic clocks",
+        "Heisenberg uncertainty principle"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:46:15",
+      "kind": "listener_mail",
+      "title": "Listener mail: purple at a church",
+      "summary": "A listener explains that purple at African American church funerals may reflect royalty, Jesus Christ, or the deceased's favorite color.",
+      "topics": [
+        "listener mail",
+        "church colors",
+        "purple symbolism"
+      ]
+    },
+    {
+      "start": "00:46:15",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "Hosts invite listener email and close the episode with iHeartRadio credits.",
+      "topics": [
+        "sign-off",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18492,
+    "output_tokens": 3789
+  }
+}

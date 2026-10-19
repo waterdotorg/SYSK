@@ -1,0 +1,280 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-02-23_What_Will_Farming_40_Look_Like_49min.txt",
+  "title": "What Will Farming 4.0 Look Like?",
+  "date": "2021-02-23",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-will-farming-4-0-look-like",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7a8cd965-322c-4eaf-8019-ae280020ba1a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7a8cd965-322c-4eaf-8019-ae280020ba1a/transcript?format=TextWithTimestamps&t=1700543599",
+  "summary": "Josh and Chuck explore the future of farming, framed as \"Agriculture 4.0\" (the hosts' \"4.0\" and \"3.0\" references), covering population-driven food demand, the Green Revolution and Norman Borlaug, farm consolidation and an aging farmer population, robotics and robot tractors (the LettuceBot), harvesting robots, nanobots and precision farming, LIDAR and big data, GMOs and their controversies, seawater farming, vertical farming, the agroecology counter-movement (The Biggest Little Farm, Emily's backyard soil work), regenerative grazing at White Oak Pastures, and food waste. The episode closes with a listener mail from hydrology professor Dr. Pete Whittington on water being a renewable resource only if used sustainably, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "future of farming",
+    "agriculture 4.0",
+    "precision farming",
+    "Green Revolution",
+    "Norman Borlaug",
+    "farm robots",
+    "LettuceBot",
+    "robot harvesters",
+    "nanobots in agriculture",
+    "LIDAR",
+    "big data in agriculture",
+    "GMOs",
+    "seawater farming",
+    "vertical farming",
+    "agroecology",
+    "regenerative grazing",
+    "White Oak Pastures",
+    "food waste",
+    "fertilizer runoff",
+    "farm consolidation",
+    "aging farmers",
+    "livestock emissions",
+    "food demand population growth",
+    "water as renewable resource",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Norman Borlaug",
+      "type": "person"
+    },
+    {
+      "name": "Green Revolution",
+      "type": "event"
+    },
+    {
+      "name": "LettuceBot",
+      "type": "other"
+    },
+    {
+      "name": "White Oak Pastures",
+      "type": "organization"
+    },
+    {
+      "name": "The Biggest Little Farm",
+      "type": "work"
+    },
+    {
+      "name": "Dr. Pete Whittington",
+      "type": "person"
+    },
+    {
+      "name": "Brandon University",
+      "type": "organization"
+    },
+    {
+      "name": "The Lost City of the Monkey God",
+      "type": "work"
+    },
+    {
+      "name": "Douglas Preston",
+      "type": "person"
+    },
+    {
+      "name": "Food and Agriculture Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Cobra Kai",
+      "type": "work"
+    },
+    {
+      "name": "The End of the World with Josh Clark",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and farming misconceptions",
+      "summary": "The hosts joke about overalls, hay in teeth, and Josh's childhood photo, then note that the popular image of farming is a misconception and introduce the idea of agriculture's future.",
+      "topics": [
+        "farming misconceptions",
+        "hosts banter"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Population growth and food demand",
+      "summary": "Projected population of nine to ten billion and rising incomes, especially in developing countries, drive higher meat and protein demand, which requires more agriculture to feed livestock. The FAO study on increasing food production by 2050 is mentioned.",
+      "topics": [
+        "food demand population growth",
+        "meat consumption",
+        "FAO food production projections",
+        "livestock feed"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Green Revolution and agriculture's iterations",
+      "summary": "The Green Revolution, hastened by Norman Borlaug, is recalled as averting predicted famine but as environmentally harmful. Greenhouse gases from food production, including livestock and deforestation, are noted. Agriculture is described in numbered iterations: 1.0 through 3.0, with 4.0 as the next step.",
+      "topics": [
+        "Green Revolution",
+        "Norman Borlaug",
+        "agriculture greenhouse emissions",
+        "agriculture 3.0",
+        "agriculture 4.0"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Aging farmers and farm consolidation",
+      "summary": "Farmers over sixty-five outnumber those under forty-five roughly two to one. One expected response is consolidation into fewer, larger farms run by younger farmers.",
+      "topics": [
+        "aging farmers",
+        "farm consolidation",
+        "farm labor"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Robots, robot tractors, and LettuceBot",
+      "summary": "Robots could specialize in tasks and give tailored care, such as applying fertilizer only where needed. The LettuceBot is a tractor pulling many small robots that can do custom fertilizing and weeding. The hosts discuss cost of large tractors versus robot fleets and the advantage that one robot failure does not halt all work.",
+      "topics": [
+        "farm robots",
+        "LettuceBot",
+        "robot tractors",
+        "precision weeding",
+        "farm equipment costs"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Robot harvesting and nanobots",
+      "summary": "Robot harvesters could pick strawberries when ripe, reducing wasted fruit. Hypothetical nanobots might someday deliver nutrients directly to plant roots, guided by sensors and computers, an approach called precision farming. Fertilizer runoff and its emissions are discussed, with a reference to the End of the World episode on AI.",
+      "topics": [
+        "robot harvesters",
+        "strawberries harvesting",
+        "nanobots in agriculture",
+        "precision farming",
+        "fertilizer runoff",
+        "nitrous oxide emissions"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:27:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before the big data discussion.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Big data, drones, satellites, and LIDAR",
+      "summary": "Drones and satellites provide aerial farm imagery. LIDAR, used to map overgrown jungle ruins as described in The Lost City of the Monkey God by Douglas Preston, could map crop understory, such as in corn. Machine learning and the Internet of Things could let AI make farm decisions, possibly one AI overseeing all farms.",
+      "topics": [
+        "big data agriculture",
+        "LIDAR",
+        "machine learning farming",
+        "Internet of Things",
+        "drones and satellites in farming",
+        "AI farm management"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "GMOs and desert farming",
+      "summary": "Desert agriculture through genomic research is discussed. GMOs are described as safe to eat per science, but have a bad reputation due to patented seeds that do not produce viable seed and pesticide-linked seeds sold by the same company. The hosts note that GMOs have not yet delivered drought tolerance or doubled yields.",
+      "topics": [
+        "GMOs",
+        "genetically modified crops",
+        "desert farming",
+        "patented seeds",
+        "public trust in science",
+        "drought-resistant crops"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Seawater farming and vertical farming",
+      "summary": "Seawater farming includes shrimp farming and greenhouses that evaporate seawater to yield fresh irrigation water and sellable salt. Vertical indoor farming is proposed to save land; a friend's work on NASA space lettuce lighting is mentioned.",
+      "topics": [
+        "seawater farming",
+        "shrimp farming",
+        "desalination greenhouses",
+        "vertical farming",
+        "indoor farming",
+        "NASA space lettuce"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:00",
+      "kind": "ad",
+      "title": "Scallop sponsor read",
+      "summary": "The hosts thank a scallop company (Downeast day boat out of Maine) for fresh scallops and recommend it.",
+      "topics": [
+        "sponsor read",
+        "scallops"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Agroecology vs. high-tech farming, regenerative grazing",
+      "summary": "Agroecology proponents, illustrated by The Biggest Little Farm, want small harmonious farms that feed locals. They criticize the Green Revolution's manipulation of ecosystems and the one-way cycle of using up land. Emily's backyard soil restoration is described. White Oak Pastures' regenerative grazing study found beef raising sequesters carbon, unlike industrial beef's 33 pounds of CO2 per pound. Regenerative grazing needs about 2.5 times the land and is more expensive. Food waste is raised as a major issue, with the hosts suggesting a blend of precision and agroecological farming.",
+      "topics": [
+        "agroecology",
+        "regenerative grazing",
+        "White Oak Pastures",
+        "soil health",
+        "carbon sequestration beef",
+        "food waste",
+        "The Biggest Little Farm"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: water as a renewable resource",
+      "summary": "Dr. Pete Whittington, hydrology professor at Brandon University, explains that water is renewable only if used sustainably, using an inheritance-interest analogy. The hosts thank him.",
+      "topics": [
+        "water renewable resource",
+        "hydrology",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts recap the future-of-farming topic, invite listener email, and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15130,
+    "output_tokens": 3340
+  }
+}

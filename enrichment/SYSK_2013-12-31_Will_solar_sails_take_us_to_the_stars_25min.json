@@ -1,0 +1,191 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-12-31_Will_solar_sails_take_us_to_the_stars_25min.txt",
+  "title": "Will solar sails take us to the stars?",
+  "date": "2013-12-31",
+  "duration": "25 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/will-solar-sails-take-us-to-the-stars",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/eaf4f8dd-e9e2-4136-b2bb-ae28009b8973/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eaf4f8dd-e9e2-4136-b2bb-ae28009b8973/transcript?format=TextWithTimestamps&t=1700543890",
+  "summary": "Josh and Chuck explain solar sailing, the idea of using sunlight pressure (photon momentum) on a large thin reflective sail to propel spacecraft without rocket fuel. They trace the idea from Johannes Kepler's solar wind notion, through Voyager 2 attitude adjustment with solar arrays and early solar sail proofs (Japan's 2010 IKAROS-style flight, NASA's NanoSail-D), to the planned Sunjammer demonstrator for 2015. They compare sails with rockets on thrust, fuel, and sustained acceleration, discuss materials (CP1, Mylar), laser and microwave propulsion, sail deorbiting of debris, and the film Gravity. Closing segments include a New Year's wish and listener mail about black metal evoking Christmas feelings.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "solar sailing",
+    "solar sails",
+    "solar sail spacecraft",
+    "light sail",
+    "photon propulsion",
+    "radiation pressure",
+    "space travel",
+    "interstellar travel",
+    "Kepler solar wind",
+    "Voyager 2 attitude adjustment",
+    "Sunjammer",
+    "NanoSail-D",
+    "CP1 material",
+    "Mylar sail",
+    "laser propulsion",
+    "microwave propulsion",
+    "deorbiting space debris",
+    "rocket vs solar sail",
+    "Gravity movie",
+    "Arthur C. Clarke",
+    "Halley's Comet",
+    "listener mail",
+    "black metal"
+  ],
+  "entities": [
+    {
+      "name": "Johannes Kepler",
+      "type": "person"
+    },
+    {
+      "name": "Arthur C. Clarke",
+      "type": "person"
+    },
+    {
+      "name": "Voyager 2",
+      "type": "other"
+    },
+    {
+      "name": "Voyager 1",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Sunjammer",
+      "type": "other"
+    },
+    {
+      "name": "NanoSail-D",
+      "type": "other"
+    },
+    {
+      "name": "Halley's Comet",
+      "type": "other"
+    },
+    {
+      "name": "Gravity",
+      "type": "work"
+    },
+    {
+      "name": "Dark Thrones Transylvanian Hunger",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Kepler's solar wind idea",
+      "summary": "Josh and Chuck open the New Year's Eve episode with small talk, then Josh introduces Johannes Kepler, who believed comet tails showed a solar wind and proposed sails to sail through space.",
+      "topics": [
+        "Johannes Kepler",
+        "solar wind",
+        "comet tails",
+        "solar sails history"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Early solar sail uses and proofs",
+      "summary": "The hosts describe recent solar sail demonstrations, including a Japanese flight in 2010 and NASA's Nanosail, and earlier uses in the 1970s when controllers used Voyager 2's solar arrays to correct its attitude. They also mention a NASA rendezvous plan with Halley's Comet.",
+      "topics": [
+        "solar sail demonstrations",
+        "Voyager 2 attitude adjustment",
+        "NanoSail",
+        "Halley's Comet"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Sails versus rockets",
+      "summary": "The hosts explain that rockets need heavy fuel and burn out, while a solar sail needs no fuel once deployed and can accelerate constantly. They note it can also return to Earth and that a sail launched now could catch Voyager 1 in about eight years.",
+      "topics": [
+        "rocket fuel constraints",
+        "constant acceleration",
+        "deorbiting",
+        "Voyager 1 comparison"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "How photon pressure works and force numbers",
+      "summary": "Chuck and Josh explain that photons carry momentum and push on a reflective surface, with sunlight exerting roughly nine newtons of force, far too little for liftoff from Earth, which needs about 1.67 million newtons. They compare rocket thrust and describe speeds: a sail starts at one millimeter per second and reaches thousands of kilometers per hour in days.",
+      "topics": [
+        "photon momentum",
+        "radiation pressure",
+        "thrust comparison",
+        "sail acceleration speeds"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Materials, laser and microwave propulsion, and Sunjammer",
+      "summary": "The hosts discuss thin reflective materials such as CP1 and aluminized Mylar, the potential of laser or microwave beams to speed sails up toward a tenth of light speed, and the Sunjammer demonstrator named after an Arthur C. Clarke story, which folds to dishwasher size and weighs about 110 pounds.",
+      "topics": [
+        "CP1 material",
+        "Mylar sail",
+        "laser propulsion",
+        "microwave propulsion",
+        "Sunjammer",
+        "Arthur C. Clarke"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Sail limitations, debris cleanup, and the movie Gravity",
+      "summary": "The hosts discuss sailing toward the Sun versus away from it, whether crewed sails are possible, using sails to deorbit space debris, and whether a thin sail could survive debris, leading to a brief digression on the film Gravity and its science.",
+      "topics": [
+        "sailing toward the sun",
+        "space debris deorbiting",
+        "Gravity movie science",
+        "crewed solar sails"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:23:30",
+      "kind": "outro",
+      "title": "New Year's wishes and follow-up plans",
+      "summary": "Josh and Chuck wrap up the solar sailing discussion, plan a follow-up on Sunjammer's 2015 launch, wish listeners a happy New Year, and mention a birthday.",
+      "topics": [
+        "New Year's Eve episode",
+        "Sunjammer follow-up"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:25:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: black metal and Christmas feelings",
+      "summary": "Listener Patrick Hagar of Roanoke, Virginia, writes that black metal such as Dark Throne's Transylvanian Hunger evoked the feeling of Christmas for him. The hosts also discuss listener reactions to the show's sleepiness comments and invite more mail.",
+      "topics": [
+        "listener mail",
+        "black metal",
+        "music and emotion",
+        "Dark Throne"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 8832,
+    "output_tokens": 2336
+  }
+}

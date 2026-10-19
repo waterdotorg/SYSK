@@ -1,0 +1,166 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-02-16_Short_Stuff_Cassowary_12min.txt",
+  "title": "Short Stuff: Cassowary",
+  "date": "2022-02-16",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-cassowary",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0681da10-fdcd-446f-b919-ae3e00bba0fe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0681da10-fdcd-446f-b919-ae3e00bba0fe/transcript?format=TextWithTimestamps&t=1700551598",
+  "summary": "Short Stuff episode on the cassowary, a large flightless bird native to Australia and New Guinea (Southeast Asia). The hosts cover its resemblance to dinosaurs, its dangerous 3-to-5-inch claws and kicks, its casque helmet and blue face and wattles, why it is flightless, its role as a keystone seed-disperser through fruit eating, its very low-pitched call, size and sex-role details (males raise chicks), conservation status, and wildlife overpasses. A brief mention is made of cassowaries kept as pets in Florida, where a man was killed by one.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "cassowary",
+    "flightless birds",
+    "dangerous birds",
+    "cassowary attacks",
+    "cassowary claws",
+    "cassowary casque",
+    "keystone species",
+    "seed dispersal",
+    "birds and dinosaurs",
+    "velociraptor comparison",
+    "cassowary wattle",
+    "cassowary conservation",
+    "endangered birds",
+    "wildlife crossings",
+    "wildlife overpasses",
+    "Florida exotic pets",
+    "Australian wildlife",
+    "cassowary sex roles",
+    "cassowary call",
+    "largest birds"
+  ],
+  "entities": [
+    {
+      "name": "Cassowary",
+      "type": "other"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Velociraptor",
+      "type": "other"
+    },
+    {
+      "name": "Triceratops",
+      "type": "other"
+    },
+    {
+      "name": "Crocodile Dundee",
+      "type": "work"
+    },
+    {
+      "name": "Jurassic Park",
+      "type": "work"
+    },
+    {
+      "name": "The Last of Us",
+      "type": "work"
+    },
+    {
+      "name": "Station Eleven",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Opening banter and introduction to the cassowary",
+      "summary": "Hosts introduce the cassowary as a flightless, dangerous bird from Australia, note its resemblance to dinosaurs and velociraptors, and describe its size and relation to emus and ostriches.",
+      "topics": [
+        "cassowary",
+        "flightless birds",
+        "birds and dinosaurs",
+        "velociraptor comparison"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Cassowary appearance and Florida pet deaths",
+      "summary": "The hosts describe the cassowary's casque, blue face, wattles and bristly feathers, and its Class two status in Florida, where a pet cassowary killed a 75-year-old man.",
+      "topics": [
+        "cassowary casque",
+        "cassowary wattle",
+        "Florida exotic pets",
+        "cassowary attacks"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Deadly claws, flightlessness and forest adaptations",
+      "summary": "The hosts explain that the danger comes from the three-to-five-inch claws and powerful kicks, why the wings are too small to fly, and how the casque and dense feathers help it move through thorny forest.",
+      "topics": [
+        "cassowary claws",
+        "flightless birds",
+        "cassowary attacks",
+        "cassowary casque"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:08:20",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break before returning to the cassowary topic.",
+      "topics": [
+        "podcast break"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Threat level, wattle theories and keystone seed dispersal",
+      "summary": "The hosts say cassowaries are rarely aggressive toward people, discuss theories about the wattle as a mood or fitness signal, and explain their role as a keystone species that spreads seeds in their droppings.",
+      "topics": [
+        "cassowary attacks",
+        "cassowary wattle",
+        "keystone species",
+        "seed dispersal"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:20",
+      "kind": "content",
+      "title": "Size, sex roles, conservation and wildlife overpasses",
+      "summary": "The hosts give size figures, note that males raise the chicks, discuss declining populations and threats from habitat loss, cars and dogs, and mention conservation efforts and wildlife overpasses.",
+      "topics": [
+        "cassowary sex roles",
+        "cassowary conservation",
+        "endangered birds",
+        "wildlife overpasses",
+        "largest birds"
+      ]
+    },
+    {
+      "start": "00:11:20",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up the short stuff episode and the show's production credit is read.",
+      "topics": [
+        "podcast outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4927,
+    "output_tokens": 1672
+  }
+}

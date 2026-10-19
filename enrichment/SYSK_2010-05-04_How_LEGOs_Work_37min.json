@@ -1,0 +1,240 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-05-04_How_LEGOs_Work_37min.txt",
+  "title": "How LEGOs Work",
+  "date": "2010-05-04",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-legos-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9594ca92-55c4-4b43-81f5-ae2800b7897d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9594ca92-55c4-4b43-81f5-ae2800b7897d/transcript?format=TextWithTimestamps&t=1700543965",
+  "summary": "Josh and Chuck explain how LEGO bricks work and cover the company's history. They start with housekeeping (Facebook and Twitter plugs) and LEGO's licensed-brand sets, including the first gender-specific figure, a nurse. They then trace the company from Ole Kirk Christensen's wooden toys through the 1960 warehouse fire and the shift to plastic, the 1958 stud-and-tube coupling design, and the Technic, Mindstorms and Certified Professional milestones. The manufacturing segment covers ABS plastic granules, injection molding, the interference fit, robotic bagging, and safety testing, including the choke-tester. Later segments cover the production move to the Czech Republic, building tips and software (Lego Digital Designer, LDraw, BrickSmith), fan-built artwork by Nathan Sawaya and Sean Kenny, LEGO fun facts, the 2000s sales slump blamed partly on Mega Bloks and electronics, and a listener mail from a mother whose son went off to college.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "LEGO",
+    "how LEGO bricks work",
+    "LEGO history",
+    "Ole Kirk Christensen",
+    "stud and tube coupling",
+    "interference fit",
+    "ABS plastic",
+    "injection molding",
+    "LEGO manufacturing",
+    "LEGO safety testing",
+    "LEGO Czech Republic factory",
+    "LEGO building software",
+    "LEGO Digital Designer",
+    "LEGO fan art",
+    "Nathan Sawaya",
+    "LEGO Mini figures",
+    "LEGO licensed sets",
+    "LEGO sales decline",
+    "Mega Bloks",
+    "Lego Land"
+  ],
+  "entities": [
+    {
+      "name": "LEGO",
+      "type": "organization"
+    },
+    {
+      "name": "Ole Kirk Christensen",
+      "type": "person"
+    },
+    {
+      "name": "Nathan Sawaya",
+      "type": "person"
+    },
+    {
+      "name": "Sean Kenny",
+      "type": "person"
+    },
+    {
+      "name": "Chris Doyle",
+      "type": "person"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "type": "person"
+    },
+    {
+      "name": "Mega Bloks",
+      "type": "organization"
+    },
+    {
+      "name": "Lego Land",
+      "type": "place"
+    },
+    {
+      "name": "Billund, Denmark",
+      "type": "place"
+    },
+    {
+      "name": "Czech Republic",
+      "type": "place"
+    },
+    {
+      "name": "Prince of Persia: The Sands of Time",
+      "type": "work"
+    },
+    {
+      "name": "Lego Digital Designer",
+      "type": "work"
+    },
+    {
+      "name": "Lego Architecture series",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter, social media plugs, and LEGO licensing",
+      "summary": "The hosts plug Facebook and Twitter, then discuss the Jake Gyllenhaal Lego minifigure and LEGO's shift to licensed brands like Star Wars, Indiana Jones and Harry Potter. They note the first gender-specific figure was a nurse.",
+      "topics": [
+        "Facebook and Twitter plugs",
+        "LEGO licensed sets",
+        "LEGO minifigures",
+        "Jake Gyllenhaal Lego figure"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "LEGO company history",
+      "summary": "Ole Kirk Christensen started making wooden toys in Denmark. The 1960 warehouse fire pushed the company toward plastic, and his son took over in 1947 and led the move to plastic. The modern brick and stud-and-tube design followed. The name Lego comes from two Danish words meaning play well.",
+      "topics": [
+        "LEGO history",
+        "Ole Kirk Christensen",
+        "LEGO name origin",
+        "stud and tube coupling",
+        "Technic",
+        "Mindstorms"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Designers and LEGO milestones",
+      "summary": "LEGO hires designers based on hands-on work and face-to-face interviews rather than art or engineering backgrounds. Legos were named Toy of the Century by Fortune in 2000. The hosts also mention LEGO's global availability.",
+      "topics": [
+        "LEGO designers hiring",
+        "Toy of the Century",
+        "LEGO global sales"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "How LEGO bricks are manufactured",
+      "summary": "LEGO uses ABS plastic granules stored in silos at a factory and molds them by injection molding at high temperature and pressure. Each piece takes about seven seconds, and the molds are machined to very tight tolerances.",
+      "topics": [
+        "ABS plastic",
+        "injection molding",
+        "LEGO manufacturing",
+        "LEGO molds"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Interference fit and the stud-and-tube system",
+      "summary": "The hosts explain that the stud fits into a slightly larger tube, creating friction that holds bricks together without fasteners. This design dates from 1958, and bricks made then still fit with modern ones.",
+      "topics": [
+        "interference fit",
+        "stud and tube coupling",
+        "LEGO friction fit",
+        "LEGO brick design"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Packaging, robots, and safety testing",
+      "summary": "Robots bag the parts for sets and weigh them. Machines run drop, torque, tension, compression and impact tests, and humans use a beaker-sized choke tester. About 18 out of every million pieces fail these tests.",
+      "topics": [
+        "LEGO packaging robots",
+        "LEGO safety testing",
+        "choke tester",
+        "LEGO quality control"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Production moves and building tips",
+      "summary": "Some manufacturing moved to the Czech Republic after the mid-nineties. The factory makes about 37,000 sets an hour. The hosts then turn to planning large LEGO projects and building software: Lego Digital Designer, LDraw and BrickSmith.",
+      "topics": [
+        "LEGO Czech Republic factory",
+        "LEGO building tips",
+        "LEGO Digital Designer",
+        "LDraw",
+        "BrickSmith"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "LEGO fan artists and architecture",
+      "summary": "Nathan Sawaya and Sean Kenny are discussed as professional LEGO artists, both claiming 1.5 million bricks. The hosts also cover the Lego Architecture series and the Certified Professionals program. They describe the Chris Doyle Flying Spaghetti Monster build, automated book scanners, and domino stackers.",
+      "topics": [
+        "Nathan Sawaya",
+        "Sean Kenny",
+        "LEGO Certified Professionals",
+        "LEGO Architecture series",
+        "LEGO fan art",
+        "LEGO robotics"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "LEGO fun facts, sales slump, and optimism",
+      "summary": "Fun facts include 400 million people playing with LEGO yearly, 62 bricks per person on Earth, and LEGO as the largest tire maker. The 2004 restructuring, the sale of Lego Land, and competition from Mega Bloks and electronics are covered, and LEGO states it remains optimistic.",
+      "topics": [
+        "LEGO fun facts",
+        "LEGO sales decline",
+        "Mega Bloks",
+        "Lego Land sale",
+        "LEGO restructuring",
+        "minifigure facial expressions"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:36:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Nora",
+      "summary": "A Missouri mother writes that a podcast on the drive to college with her son sparked conversation, and that she now listens while running.",
+      "topics": [
+        "listener mail",
+        "podcast feedback"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close with the how stuff works search tip and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13143,
+    "output_tokens": 2887
+  }
+}

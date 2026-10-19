@@ -1,0 +1,140 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-06-02_Short_Stuff_Runners_High_13min.txt",
+  "title": "Short Stuff: Runner's High",
+  "date": "2021-06-02",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-runners-high",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8b285615-3901-44d7-9d7c-ae280017e3fd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8b285615-3901-44d7-9d7c-ae280017e3fd/transcript?format=TextWithTimestamps&t=1700543592",
+  "summary": "Short Stuff episode on the runner's high. Josh and Chuck open with banter about feeling euphoric while running and Chuck's emotional reactions while watching The Price Is Right. They introduce flow state, a concept from psychologist Mihaly Csikszentmihalyi, described as a focused mental state where performers feel effortless, channeled, and joyful. They note most athletes never experience a runner's high. The hosts then discuss the scientific debate: the 1970s running boom led researchers to credit endorphins, but endorphins apparently do not cross the blood-brain barrier, and the early claims were not checked until later, when they were found to be unsupported. A German study suggested running stimulates the endocannabinoid system, which does cross the blood-brain barrier and affects mood and anxiety, making it a plausible candidate. They conclude the runner's high may be real, a placebo or self-fulfilling effect, or simply not fully identified yet. The episode is an intro-and-content piece without a rerun designation.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "runner's high",
+    "runners high",
+    "endorphins",
+    "endocannabinoids",
+    "endocannabinoid system",
+    "flow state",
+    "Mihaly Csikszentmihalyi",
+    "running and mood",
+    "exercise euphoria",
+    "blood-brain barrier",
+    "placebo effect",
+    "running boom 1970s",
+    "opioid receptors",
+    "anxiety and cannabinoids",
+    "The Price Is Right",
+    "marathon running",
+    "Stuff You Should Know short"
+  ],
+  "entities": [
+    {
+      "name": "Mihaly Csikszentmihalyi",
+      "type": "person"
+    },
+    {
+      "name": "The Price Is Right",
+      "type": "work"
+    },
+    {
+      "name": "Runner's high",
+      "type": "other"
+    },
+    {
+      "name": "Flow state",
+      "type": "other"
+    },
+    {
+      "name": "Endorphins",
+      "type": "other"
+    },
+    {
+      "name": "Endocannabinoids",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and runner's high description",
+      "summary": "The hosts joke about feeling euphoric on a long run and describe the runner's high: feeling light, floating, and sometimes weeping with joy. Chuck says he has not had one but gets emotional watching The Price Is Right while running on a treadmill.",
+      "topics": [
+        "runner's high",
+        "The Price Is Right",
+        "running on treadmill"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Flow state",
+      "summary": "The hosts introduce flow state, a term coined by Hungarian-American psychologist Mihaly Csikszentmihalyi after interviewing athletes, musicians, and artists. It describes a focused mental state where performance feels effortless. They note most athletes have not experienced a runner's high and that flow state may be linked to it.",
+      "topics": [
+        "flow state",
+        "Mihaly Csikszentmihalyi",
+        "peak performance",
+        "effortless focus"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Endorphin explanation and its problems",
+      "summary": "Researchers starting in the 1970s running boom proposed endorphins as the cause, since they act on opiate receptors to numb pain and produce morphine-like euphoria. The hosts say the endorphin idea was unchecked for decades and that endorphins apparently do not cross the blood-brain barrier, so the claim is doubtful.",
+      "topics": [
+        "endorphins",
+        "1970s running boom",
+        "blood-brain barrier",
+        "opioid receptors",
+        "runner's high science"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A sponsor message interrupts the episode.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Endocannabinoids as a possible explanation",
+      "summary": "A German study suggested running stimulates the endocannabinoid system. Endocannabinoids can cross the blood-brain barrier and affect mood and anxiety, so they may explain the euphoric feeling in flow state. The hosts discuss marijuana's effect on anxiety, which varies by person.",
+      "topics": [
+        "endocannabinoids",
+        "endocannabinoid system",
+        "German study running",
+        "anxiety and cannabinoids",
+        "marijuana and anxiety"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Conclusion and sign-off",
+      "summary": "The hosts conclude the runner's high may be real, a placebo or self-fulfilling effect, or not yet fully identified. They say listeners will likely write in to defend it, then sign off.",
+      "topics": [
+        "placebo effect",
+        "self-fulfilling prophecy",
+        "runner's high unresolved"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5220,
+    "output_tokens": 1743
+  }
+}

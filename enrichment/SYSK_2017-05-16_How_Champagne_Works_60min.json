@@ -1,0 +1,309 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-05-16_How_Champagne_Works_60min.txt",
+  "title": "How Champagne Works",
+  "date": "2017-05-16",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-champagne-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8fd9d6d4-6a26-4856-a6d5-ae2800785e94/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8fd9d6d4-6a26-4856-a6d5-ae2800785e94/transcript?format=TextWithTimestamps&t=1700543809",
+  "summary": "Josh and Chuck explain how Champagne works: the Champagne region of France and its AOC protections, the three permitted grapes (Pinot Noir, Pinot Meunier, Chardonnay), the history of accidental carbonation and Dom Pérignon, the cuvée and seller master blending process, vintage versus non-vintage, grand cru, rosé, the méthode champenoise second fermentation in the bottle, riddling, disgorgement, dosage and sweetness levels, Madame Clicquot's disgorging innovation, storage and aging, and how to open and serve it (including sabrage). The episode also includes casual talk about gin and bitter lemon and a listener email about avoiding the phrase \"commit suicide.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Champagne",
+    "sparkling wine",
+    "Champagne region France",
+    "AOC appellation rules",
+    "méthode champenoise",
+    "second fermentation",
+    "riddling",
+    "disgorgement",
+    "dosage",
+    "Dom Pérignon",
+    "Madame Clicquot",
+    "cuvée",
+    "seller master",
+    "vintage Champagne",
+    "non-vintage Champagne",
+    "grand cru",
+    "rosé Champagne",
+    "Pinot Noir",
+    "Pinot Meunier",
+    "Chardonnay",
+    "sabrage",
+    "Champagne aging and storage",
+    "Champagne sweetness levels brut",
+    "mimosa",
+    "listener mail suicide language"
+  ],
+  "entities": [
+    {
+      "name": "Champagne",
+      "type": "place"
+    },
+    {
+      "name": "Dom Pérignon",
+      "type": "person"
+    },
+    {
+      "name": "Madame Clicquot",
+      "type": "person"
+    },
+    {
+      "name": "Antoine Baumé",
+      "type": "person"
+    },
+    {
+      "name": "Winston Churchill",
+      "type": "person"
+    },
+    {
+      "name": "Napoleon",
+      "type": "person"
+    },
+    {
+      "name": "Chandon",
+      "type": "organization"
+    },
+    {
+      "name": "Moët",
+      "type": "organization"
+    },
+    {
+      "name": "Épernay",
+      "type": "place"
+    },
+    {
+      "name": "Reims",
+      "type": "place"
+    },
+    {
+      "name": "Burgundy",
+      "type": "place"
+    },
+    {
+      "name": "American Foundation for Suicide Prevention",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:08:30",
+      "kind": "intro",
+      "title": "Opening banter and personal champagne tastes",
+      "summary": "Josh and Chuck joke about the episode's difficulty and pronunciation worries, then trade opinions on champagne and sparkling wine, including Chuck's dislike and Josh's fondness for Chandon.",
+      "topics": [
+        "champagne banter",
+        "sparkling wine opinions",
+        "Chandon"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Champagne vs. sparkling wine and the AOC",
+      "summary": "Champagne is a region in northeast France, and only sparkling wine made there under strict AOC rules may be called Champagne. The hosts compare this to bourbon rules in the United States. They also name the main cities, Reims and Épernay.",
+      "topics": [
+        "Champagne region France",
+        "AOC appellation rules",
+        "sparkling wine vs Champagne",
+        "bourbon comparison",
+        "Reims",
+        "Épernay"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Grapes used in Champagne",
+      "summary": "Champagne is made from three grapes: Pinot Meunier, Pinot Noir, and Chardonnay. Chardonnay is the only white grape. The hosts explain that black grapes can yield clear juice if pressed before the skins color it.",
+      "topics": [
+        "Pinot Noir",
+        "Pinot Meunier",
+        "Chardonnay",
+        "black grapes yield white juice",
+        "wine terminology"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "History of Champagne and accidental carbonation",
+      "summary": "The region has made wine since Roman times, with chalk quarries used for storage. Carbonation that occurred naturally after cold winters was seen as a flaw until producers turned it into a feature in the 1600s and 1700s. The chalk soil and climate are also discussed.",
+      "topics": [
+        "history of Champagne",
+        "accidental carbonation",
+        "chalk soil",
+        "Romans in Champagne",
+        "cold climate winemaking"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Dom Pérignon and early bottling problems",
+      "summary": "Dom Pérignon was a Benedictine monk and cellar master who disliked the bubbles and called them mad wine. Early sparkling wine bottles often burst, and stoppers flew across cellars. He helped introduce thicker bottles and cork stoppers held with wire muzzles, and he pioneered blending wines from the region.",
+      "topics": [
+        "Dom Pérignon",
+        "Benedictine monk",
+        "cellar master",
+        "early bottle explosions",
+        "cork stoppers",
+        "blending wines"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Méthode champenoise and harvesting by foot",
+      "summary": "The méthode champenoise is the traditional Champagne method. Grapes are still pressed by foot in some cases, and the hosts recall a viral video of a woman injured while stomping grapes in Georgia. They explain that wine is made in stainless steel or sometimes wood for the first fermentation.",
+      "topics": [
+        "méthode champenoise",
+        "traditional method",
+        "grape stomping",
+        "first fermentation",
+        "winemaking by hand"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Seller master, cuvée, vintage, grand cru, and rosé",
+      "summary": "The seller master blends still wines into a cuvée, considering vintage year, varietal, and cru (vineyard). Grand cru status applies to vineyards in villages that are about nine percent of Champagne land. Blanc de blancs, blanc de noirs, and rosé are explained, with rosé made by adding red wine or leaving skins on briefly.",
+      "topics": [
+        "cuvée",
+        "seller master",
+        "vintage Champagne",
+        "non-vintage Champagne",
+        "grand cru",
+        "blanc de blancs",
+        "blanc de noirs",
+        "rosé Champagne"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:54:00",
+      "kind": "content",
+      "title": "Bottle aging, second fermentation, riddling, and disgorgement",
+      "summary": "After blending, Champagne is bottled and aged at least 12 months (non-vintage) or 3 years (vintage). Sugar and yeast are added for a second fermentation in the bottle, which creates the bubbles and sediment. Riddlers turn bottles over several weeks to move the sediment to the neck, which is then frozen and removed in disgorgement. Madame Clicquot is credited with the disgorging technique.",
+      "topics": [
+        "second fermentation",
+        "riddling",
+        "disgorgement",
+        "sediment",
+        "lees",
+        "Madame Clicquot",
+        "aging in bottle",
+        "liqueur de tirage"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Dosage, sweetness levels, and Champagne history",
+      "summary": "After disgorgement, a dosage of sugar and wine is added to replace lost liquid and set sweetness. Brut, extra brut, and doux levels are described. Antoine Baumé's hydrometer helped measure sugar. Champagne pressure is around five or six atmospheres. Napoleon and Churchill are mentioned in connection with Champagne's popularity.",
+      "topics": [
+        "dosage",
+        "brut",
+        "extra brut",
+        "doux",
+        "sweetness levels",
+        "Antoine Baumé",
+        "pressure in bottle",
+        "Napoleon Champagne",
+        "Winston Churchill Champagne"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "Gin and bitter lemon tangent",
+      "summary": "The hosts shift briefly into a casual conversation about gin and bitter lemon as a drink pairing, including St. George terroir and dry rye varieties.",
+      "topics": [
+        "gin and bitter lemon",
+        "St. George gin",
+        "cocktails"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Champagne prices, pop culture, and storage",
+      "summary": "Champagne costs more because of its small region and hand processes. Hip hop lyrics and an Andy Samberg short are mentioned as boosting its status. Good bottles can be found around twenty dollars. Champagne ages best stored on its side at a stable temperature, and older Champagne develops dried fruit and nutty notes.",
+      "topics": [
+        "Champagne prices",
+        "pop culture Champagne",
+        "aging Champagne",
+        "storage temperature",
+        "old Champagne flavor"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:16:00",
+      "kind": "content",
+      "title": "Serving, opening, and sabrage",
+      "summary": "The hosts explain how to chill, open, and pour Champagne safely by twisting the cork rather than popping it. Sabrage uses a blunt saber to strike the bottle neck, which is thinnest near the lip. They describe pouring about three-quarters of a flute and the tulip glass as an option for bubbles.",
+      "topics": [
+        "serving Champagne",
+        "opening Champagne",
+        "sabrage",
+        "saber",
+        "champagne glass",
+        "flute",
+        "tulip glass",
+        "mousse"
+      ]
+    },
+    {
+      "start": "01:16:00",
+      "end": "01:18:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on suicide language",
+      "summary": "A listener who works in suicide prevention asks the hosts to use 'died by suicide' or 'completed suicide' instead of 'commit suicide.' The hosts agree to try.",
+      "topics": [
+        "suicide language",
+        "listener mail",
+        "suicide prevention terminology"
+      ]
+    },
+    {
+      "start": "01:18:00",
+      "end": "01:19:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts give contact information for listener feedback and invite listeners to search the topic on the show's website.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19047,
+    "output_tokens": 3586
+  }
+}

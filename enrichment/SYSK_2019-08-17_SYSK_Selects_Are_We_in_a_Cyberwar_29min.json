@@ -1,0 +1,212 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-08-17_SYSK_Selects_Are_We_in_a_Cyberwar_29min.txt",
+  "title": "SYSK Selects: Are We in a Cyberwar?",
+  "date": "2019-08-17",
+  "duration": "29 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-are-we-in-a-cyberwar",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7da06953-3b26-46f8-a07f-ae280047cbe0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7da06953-3b26-46f8-a07f-ae280047cbe0/transcript?format=TextWithTimestamps&t=1700543684",
+  "summary": "SYSK Selects rerun of a classic episode on cyber war. Josh introduces it as Sam's pick (Summer of Sam) and mentions Chuck dislikes the word Stuxnet. The hosts cover the 2000 Olympic Pipeline explosion in Bellingham, Washington, which was an accident but illustrated cyber attack risk; US reliance on Windows and SCADA systems; Operation Eligible Receiver, the Pentagon red-team exercise; Moonlight Maze, a Russia-traced espionage campaign; US offensive cyber use against Serbian air defenses; types of attacks (Pearl Harbor-style, DDoS, viruses like Code Red, Slammer, Nimda); Stuxnet and Operation Olympic Games against Iran's centrifuges; defensive challenges and blame on software companies; and a listener mail segment about the Great Chicago Fire and beer history.",
+  "episode_kind": "rerun",
+  "rerun_of": "Are We in a Cyberwar?",
+  "topics": [
+    "cyber war",
+    "cyberwarfare",
+    "cyber attack",
+    "Stuxnet",
+    "Operation Olympic Games",
+    "Iran nuclear program",
+    "centrifuges",
+    "Operation Eligible Receiver",
+    "Moonlight Maze",
+    "Olympic Pipeline explosion",
+    "SCADA",
+    "Pearl Harbor attack strategy",
+    "distributed denial of service",
+    "DDoS",
+    "computer viruses",
+    "Code Red",
+    "Slammer",
+    "Nimda",
+    "Pentagon red team",
+    "cyber security",
+    "critical infrastructure",
+    "Microsoft security criticism",
+    "Serbian air defenses",
+    "Chicago Fire beer history",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "Stuxnet",
+      "type": "other"
+    },
+    {
+      "name": "Operation Olympic Games",
+      "type": "event"
+    },
+    {
+      "name": "Operation Eligible Receiver",
+      "type": "event"
+    },
+    {
+      "name": "Moonlight Maze",
+      "type": "event"
+    },
+    {
+      "name": "Olympic Pipeline Company",
+      "type": "organization"
+    },
+    {
+      "name": "Bellingham, Washington",
+      "type": "place"
+    },
+    {
+      "name": "Iran",
+      "type": "place"
+    },
+    {
+      "name": "Serbia",
+      "type": "place"
+    },
+    {
+      "name": "Microsoft",
+      "type": "organization"
+    },
+    {
+      "name": "Department of Defense",
+      "type": "organization"
+    },
+    {
+      "name": "Richard Clarke",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Strickland",
+      "type": "person"
+    },
+    {
+      "name": "Great Chicago Fire",
+      "type": "event"
+    },
+    {
+      "name": "Joseph Schlitz",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Sam's pick",
+      "summary": "Josh and Chuck chat about a celebrity listener, Kristen Bell, and introduce the Summer of Sam topic picked by teenage fan Sam. Josh says Chuck hates the word Stuxnet.",
+      "topics": [
+        "SYSK Selects",
+        "listener fan mail",
+        "Summer of Sam"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Olympic Pipeline explosion and Windows-run infrastructure",
+      "summary": "The 2000 Olympic Pipeline Company leak and fireball in Bellingham, Washington, which killed three, is described as a likely accident that nonetheless shows what a cyber attack could do. Many US systems run on Windows and SCADA control software, and the hosts note the US lags behind China and Russia in defensive knowledge.",
+      "topics": [
+        "Olympic Pipeline explosion",
+        "SCADA",
+        "critical infrastructure",
+        "Windows vulnerabilities"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Operation Eligible Receiver and Moonlight Maze",
+      "summary": "The Pentagon hired a red team, Operation Eligible Receiver, which breached Pentagon systems within days. A year later, the Moonlight Maze espionage campaign was discovered after roughly two years, traced to Russia, and exposed strategic maps and troop data.",
+      "topics": [
+        "Operation Eligible Receiver",
+        "Pentagon red team",
+        "Moonlight Maze",
+        "cyber espionage"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "US offensive cyber operations and types of attacks",
+      "summary": "The US used computer attacks against Serbian air defenses during a war, and the hosts discuss why Clinton and Bush were reluctant to use cyber weapons like bank-draining viruses. They then describe attack styles: a Pearl Harbor-style sabotage attack, distributed denial of service (DDoS) floods, and viruses such as Code Red, Slammer, and Nimda, including delayed or triggered release.",
+      "topics": [
+        "offensive cyber operations",
+        "Serbian air defenses",
+        "Pearl Harbor attack strategy",
+        "DDoS",
+        "computer viruses",
+        "Code Red",
+        "Slammer",
+        "Nimda"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Stuxnet and Operation Olympic Games",
+      "summary": "Stuxnet, a 2010 offensive cyber attack reportedly by the US and Israel, sabotaged Iran's uranium enrichment centrifuges. It was built from centrifuges the CIA obtained, with a companion program called Flame that mapped Iran's systems, arriving via thumb drive, and was reportedly a setback of at least a year for Iran's program.",
+      "topics": [
+        "Stuxnet",
+        "Operation Olympic Games",
+        "Iran nuclear program",
+        "centrifuges",
+        "Flame malware",
+        "Robins Air Force Base cyber unit"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Defending against cyber war",
+      "summary": "The hosts discuss infrastructure vulnerability from internet connectivity, education as a first defense, and security expert Richard Clarke's argument that software companies like Microsoft rush products to market. They warn of a combined cyber and physical attack.",
+      "topics": [
+        "cyber defense",
+        "software security",
+        "Richard Clarke",
+        "cyber war prevention"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:28:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Chicago Fire and beer",
+      "summary": "A history professor writes that the Great Chicago Fire destroyed about eighteen breweries and spurred Milwaukee's beer industry, with Joseph Schlitz donating beer and opening distribution in Chicago.",
+      "topics": [
+        "Great Chicago Fire",
+        "beer history",
+        "Schlitz",
+        "Milwaukee brewing"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:29:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give contact info and sign off.",
+      "topics": [
+        "podcast contact",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10138,
+    "output_tokens": 2487
+  }
+}

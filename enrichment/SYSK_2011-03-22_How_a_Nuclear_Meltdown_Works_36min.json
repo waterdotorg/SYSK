@@ -1,0 +1,243 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-03-22_How_a_Nuclear_Meltdown_Works_36min.txt",
+  "title": "How a Nuclear Meltdown Works",
+  "date": "2011-03-22",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-a-nuclear-meltdown-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c3254ada-6b59-450f-8b1c-ae2800b1032e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c3254ada-6b59-450f-8b1c-ae2800b1032e/transcript?format=TextWithTimestamps&t=1700543945",
+  "summary": "Special news-driven episode explaining how a nuclear meltdown works, prompted by the March 2011 Fukushima Daiichi crisis in Japan. The hosts cover catastrophe modeling and why plants were built for a 250-year quake, how a boiling water reactor produces steam power, control rods and scramming, decay heat, the loss of cooling after the tsunami knocked out pumps and diesel generators, hydrogen gas explosions and seawater flooding, the Mark I reactor design criticisms, comparisons to Three Mile Island and Chernobyl, radiation units (millisieverts and microsieverts), and iodine-131 and potassium iodide tablets. The episode closes with a listener mail about the Small Change Fund and a Canadian First Nations culture program, and asks listeners how to help Japan.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "nuclear meltdown",
+    "Fukushima Daiichi",
+    "Japan nuclear crisis 2011",
+    "boiling water reactor",
+    "Mark I reactor",
+    "control rods",
+    "scram",
+    "decay heat",
+    "tsunami nuclear plant failure",
+    "hydrogen gas explosion",
+    "seawater cooling",
+    "catastrophe modeling",
+    "radiation exposure",
+    "millisievert",
+    "iodine-131",
+    "potassium iodide tablets",
+    "Three Mile Island",
+    "Chernobyl",
+    "nuclear power safety",
+    "Tokyo Electric Power Company",
+    "Small Change Fund",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Fukushima Daiichi nuclear power plant",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Tokyo Electric Power Company",
+      "type": "organization"
+    },
+    {
+      "name": "General Electric",
+      "type": "organization"
+    },
+    {
+      "name": "Mark I boiling water reactor",
+      "type": "other"
+    },
+    {
+      "name": "Three Mile Island",
+      "type": "event"
+    },
+    {
+      "name": "Chernobyl",
+      "type": "event"
+    },
+    {
+      "name": "Oyster Creek",
+      "type": "place"
+    },
+    {
+      "name": "Small Change Fund",
+      "type": "organization"
+    },
+    {
+      "name": "Ronald Reagan (nuclear submarine)",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening and framing the Japan crisis",
+      "summary": "Hosts introduce a special episode on nuclear meltdowns in response to the crisis in Japan, saying they will explain it in simple terms.",
+      "topics": [
+        "Japan nuclear crisis 2011",
+        "nuclear meltdown"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Catastrophe modeling and plant earthquake design",
+      "summary": "Explanation of catastrophe risk modeling and how the Fukushima plants were built to withstand a 250-year earthquake, which they did, but the tsunami was not accounted for.",
+      "topics": [
+        "catastrophe modeling",
+        "earthquake design",
+        "250-year quake",
+        "tsunami nuclear plant failure",
+        "Tokyo Electric Power Company"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "How a nuclear plant makes power",
+      "summary": "Describes how a boiling water reactor uses uranium fission to boil water into steam that drives turbines, and how control rods modulate the reaction.",
+      "topics": [
+        "boiling water reactor",
+        "nuclear fission",
+        "steam turbine",
+        "control rods",
+        "enriched uranium"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Scramming, decay heat and loss of cooling",
+      "summary": "Explains scramming the reactor, why decay heat continues after shutdown, and how cooling pumps depend on electricity. The tsunami knocked out the grid, diesel generators, and then batteries ran only for a limited time.",
+      "topics": [
+        "scram",
+        "decay heat",
+        "cooling pumps",
+        "diesel generators",
+        "backup power failure",
+        "battery backup"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Hydrogen explosions and seawater flooding",
+      "summary": "Describes how exposed fuel overheated, hydrogen gas built up and exploded inside reactor buildings, and how operators flooded reactors with seawater. Explains that these were chemical explosions, not nuclear bombs.",
+      "topics": [
+        "hydrogen gas explosion",
+        "seawater cooling",
+        "fuel melt",
+        "nuclear bomb vs reactor",
+        "containment vessel"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Meltdown risks, Mark I criticisms and Three Mile Island",
+      "summary": "Discusses the risk of fuel melting through containment, spent fuel fire at reactor four, the Mark I design criticized in 1972 and modifications made in the US, GE's role, and comparisons to Three Mile Island and Chernobyl.",
+      "topics": [
+        "Mark I reactor criticism",
+        "General Electric",
+        "Three Mile Island",
+        "Chernobyl",
+        "INES disaster level",
+        "spent fuel fire"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Radiation units and health risks",
+      "summary": "Explains millisieverts and sieverts, average annual radiation dose, and why radiation exposure is cumulative. Discusses how absorbed radioactive material is harmful.",
+      "topics": [
+        "radiation exposure",
+        "millisievert",
+        "sievert",
+        "background radiation",
+        "radiation dose"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Iodine-131 and potassium iodide tablets",
+      "summary": "Explains iodine-131 as a radioactive byproduct that concentrates in the thyroid, and how taking iodide saturates the thyroid. Notes shortages and fake iodide warnings. Discusses the radioactive plume reaching the US and perspective about Denver.",
+      "topics": [
+        "iodine-131",
+        "potassium iodide tablets",
+        "thyroid cancer",
+        "radioactive plume",
+        "radiation perspective"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Radiation in Sacramento and perspective on everyday radiation",
+      "summary": "Reports small amounts of radioactive material detected in Sacramento that are not harmful, and notes radiation from granite at Grand Central Station and the US Capitol. Advises calm.",
+      "topics": [
+        "Sacramento radiation",
+        "background radiation",
+        "Grand Central Station granite",
+        "radiation hysteria"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "How to help Japan",
+      "summary": "Hosts suggest donating to the Red Cross and sending help, and point listeners to an online overview of the crisis.",
+      "topics": [
+        "Japan relief donations",
+        "Red Cross"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:35:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Small Change Fund and Litchko Summer Culture Education Program",
+      "summary": "Listener Paul C from Canada asks the show to promote the Small Change Fund, which funds small startup projects, including a First Nations summer culture program.",
+      "topics": [
+        "Small Change Fund",
+        "listener mail",
+        "First Nations culture program"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:36:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to share ideas on social media and email, and close the episode.",
+      "topics": [
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12293,
+    "output_tokens": 2706
+  }
+}

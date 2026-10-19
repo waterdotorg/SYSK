@@ -1,0 +1,259 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-04-08_Muzak_Easy_Listening_Goodness_52min.txt",
+  "title": "Muzak: Easy Listening Goodness",
+  "date": "2021-04-08",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/muzak-easy-listening-goodness",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ba19c7a-6f87-4fce-b9bd-ae28001ce25c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0ba19c7a-6f87-4fce-b9bd-ae28001ce25c/transcript?format=TextWithTimestamps&t=1700543595",
+  "summary": "Josh and Chuck explore Muzak, the company and brand name for instrumental cover versions of songs played as background music. They cover its origins with inventor George Square (multiplexing over electrical wires, a Cleveland-area wired radio pilot, and the pivot to business markets), the 1940s Stimulus Progression productivity model and its pseudoscience status, the contrast with Brian Eno's ambient music, the backlash of the late 1960s and 1970s, corporate ownership changes (Teleprompter, Westinghouse, Yesco, Fields Company, Mood Media), the shift to \"quantum modulation\" brand playlists, and early technology adoption. The episode ends with recommendations and a listener mail segment that includes an apology over a whispering ad in the Titanic episode and a question about editing.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Muzak",
+    "Muzak history",
+    "George Square",
+    "elevator music",
+    "potted plant music",
+    "background music",
+    "stimulus progression",
+    "workplace music productivity",
+    "Brian Eno ambient music",
+    "wired radio",
+    "multiplexing",
+    "Yesco",
+    "quantum modulation",
+    "brand playlists",
+    "foreground music",
+    "easy listening",
+    "instrumental cover versions",
+    "Muzak ownership history",
+    "Mood Media",
+    "The Well music catalog",
+    "Girl from Ipanema",
+    "listener mail",
+    "mesophonia apology",
+    "Christopher Cross sailing"
+  ],
+  "entities": [
+    {
+      "name": "Muzak",
+      "type": "organization"
+    },
+    {
+      "name": "George Square",
+      "type": "person"
+    },
+    {
+      "name": "Brian Eno",
+      "type": "person"
+    },
+    {
+      "name": "Yesco",
+      "type": "organization"
+    },
+    {
+      "name": "Mood Media",
+      "type": "organization"
+    },
+    {
+      "name": "Westinghouse",
+      "type": "organization"
+    },
+    {
+      "name": "Teleprompter",
+      "type": "organization"
+    },
+    {
+      "name": "Frank Sinatra",
+      "type": "person"
+    },
+    {
+      "name": "Joao Gilberto",
+      "type": "person"
+    },
+    {
+      "name": "Christopher Cross",
+      "type": "person"
+    },
+    {
+      "name": "Future Sound of London",
+      "type": "organization"
+    },
+    {
+      "name": "Cleveland",
+      "type": "place"
+    },
+    {
+      "name": "Stimulus progression",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter on favorite music genres",
+      "summary": "Josh and Chuck chat about their favorite music genres, art rock, easy listening, and Brian Eno's ambient work, and defend music as technically skilled and creative.",
+      "topics": [
+        "music genres",
+        "easy listening",
+        "Brian Eno",
+        "ambient music"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Myths about elevator music and its name",
+      "summary": "The hosts clear up myths that elevator music was used to calm people or hide clanking noise, and discuss music in movies and TV as a trope.",
+      "topics": [
+        "elevator music",
+        "Muzak name",
+        "music in movies",
+        "potted plant music"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:16:30",
+      "kind": "content",
+      "title": "George Square and multiplexing",
+      "summary": "George Square, an army engineer and inventor, developed multiplexing for telephone lines and a tree telephone. He also was an early airplane passenger and his wired radio service was piloted in the Cleveland area.",
+      "topics": [
+        "George Square",
+        "multiplexing",
+        "wired radio",
+        "Cleveland",
+        "telecommunications history"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Musak's launch as a music subscription service and business pivot",
+      "summary": "Square sold music over electrical lines for a monthly fee, then the service pivoted to businesses such as hotels, restaurants and clubs after wireless radio spread.",
+      "topics": [
+        "music subscription service",
+        "business music",
+        "Muzak founding",
+        "Kodak name story"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:21:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the next segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "What Muzak music is: instrumental re-recordings",
+      "summary": "Muzak versions are instrumental re-recordings of songs by professional musicians, not karaoke-style vocal removals, with vocal lines replaced by saxophone or strings. The hosts mention the Hundred and One Strings and Girl from Ipanema.",
+      "topics": [
+        "instrumental cover versions",
+        "Hundred and One Strings",
+        "Girl from Ipanema",
+        "easy listening arrangements"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Stimulus progression and workplace productivity",
+      "summary": "In the 1940s Muzak hired researchers to create Stimulus Progression, a model that set playlists in fifteen-minute increments with stimulus values from one to six to counter mid-morning and mid-afternoon slumps. The hosts say the claims were never scientifically proven, though early studies reported productivity gains; the U.S. Army adopted it.",
+      "topics": [
+        "stimulus progression",
+        "workplace music productivity",
+        "pseudoscience",
+        "World War Two music adoption",
+        "industrial psychology"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Brian Eno, ambient music and the resentment of manipulation",
+      "summary": "Brian Eno's ambient music was framed as an antidote to functional music that stimulates, and Future Sound of London's Life Forms is recommended. The hosts note that people came to resent music's intent to manipulate mood.",
+      "topics": [
+        "Brian Eno",
+        "ambient music",
+        "Airport music",
+        "Future Sound of London",
+        "functional music criticism"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Backlash in the 1960s and 1970s and Muzak's cultural presence",
+      "summary": "Music and pop became separate as lyrics grew important in the sixties, and Muzak kept covering hits without lyrics. Songwriters like Joan Baez and Bruce Springsteen refused covers, while Paul Simon was pleased by one. The hosts discuss the 1970s decline and the company's ubiquity, including Gary Gumpert's quote on it as amniotic fluid.",
+      "topics": [
+        "music backlash",
+        "1960s lyrics",
+        "songwriters refuse covers",
+        "Muzak decline",
+        "Gary Gumpert"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Corporate ownership, Yesco, and quantum modulation",
+      "summary": "Muzak changed hands through Teleprompter and Westinghouse, faced competition from Yesco's foreground music, merged with Yesco, moved to Seattle, and rebranded with quantum modulation brand playlists. The Well catalog of about five million songs was retained, and the company was later sold to Mood Music and then named Mood Media.",
+      "topics": [
+        "Muzak ownership",
+        "Yesco",
+        "quantum modulation",
+        "brand playlists",
+        "Mood Media",
+        "The Well catalog",
+        "foreground music"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Tech adoption and recommended records",
+      "summary": "Muzak was an early technology adopter, using a reel-to-reel playlist system and a satellite and database in the 1970s. The hosts recommend Muzak-style albums such as More Than Music Period and The Blue Album, as well as jazz and lounge artists.",
+      "topics": [
+        "Muzak technology history",
+        "music recommendations",
+        "lounge music",
+        "West Coast cool jazz"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:52:00",
+      "kind": "listener_mail",
+      "title": "Mesophonia apology and listener mail on editing",
+      "summary": "The hosts apologize for a whispering ad in the Titanic Part Two episode that upset listeners with misophonia, then answer a listener question from Lauren about how much is edited out of the show.",
+      "topics": [
+        "misophonia apology",
+        "listener mail",
+        "podcast editing"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16471,
+    "output_tokens": 2874
+  }
+}

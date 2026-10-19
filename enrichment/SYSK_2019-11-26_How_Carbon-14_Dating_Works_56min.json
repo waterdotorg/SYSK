@@ -1,0 +1,267 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-11-26_How_Carbon-14_Dating_Works_56min.txt",
+  "title": "How Carbon-14 Dating Works",
+  "date": "2019-11-26",
+  "duration": "56 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-carbon-14-dating-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6acdb292-ec92-43ef-a908-ae280041d14e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6acdb292-ec92-43ef-a908-ae280041d14e/transcript?format=TextWithTimestamps&t=1700543674",
+  "summary": "Josh and Chuck explain carbon-14 (radiocarbon) dating: how cosmic rays create carbon-14 in the upper atmosphere, how living things take it in and stop when they die, the half-life used to estimate age, and the wild-man scientist Willard Libby who developed the method at the University of Chicago and won a Nobel Prize in 1960. They cover the year-zero convention (1950, \"BP\"), sample cleaning, accelerator mass spectrometry versus older beta counting, calibration with tree rings (dendrochronology), the Holocene tree record, cave speleothems, Japanese lake sediments, and the INTCAL calibration curve. They discuss known problems: the half-life error, fluctuating atmospheric carbon-14, hemisphere differences, coral offsets, and the Hallstatt plateau. Applications include Stonehenge, Ötzi the Iceman, the Shroud of Turin, the Clovis people and early American settlement dates, forensic dating from insect larva casings, and the effect of fossil fuel emissions and 1950s nuclear tests. The episode closes with listener mail about Campbell's and Progresso soup.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "carbon-14 dating",
+    "radiocarbon dating",
+    "carbon dating",
+    "half-life",
+    "cosmic rays",
+    "nitrogen-14 to carbon-14 conversion",
+    "Willard Libby",
+    "radiocarbon revolution",
+    "year zero 1950 BP",
+    "accelerator mass spectrometry",
+    "beta counting",
+    "dendrochronology",
+    "tree ring dating",
+    "Holocene tree record",
+    "INTCAL calibration curve",
+    "speleothems",
+    "Hallstatt plateau",
+    "atmospheric carbon-14 fluctuations",
+    "Clovis people",
+    "Stonehenge dating",
+    "Ötzi the Iceman",
+    "Shroud of Turin dating",
+    "forensic entomology carbon dating",
+    "fossil fuel effect on carbon dating",
+    "listener mail",
+    "Campbell's soup"
+  ],
+  "entities": [
+    {
+      "name": "Willard Libby",
+      "type": "person"
+    },
+    {
+      "name": "University of Chicago",
+      "type": "organization"
+    },
+    {
+      "name": "Stonehenge",
+      "type": "place"
+    },
+    {
+      "name": "Ötzi the Iceman",
+      "type": "person"
+    },
+    {
+      "name": "Shroud of Turin",
+      "type": "work"
+    },
+    {
+      "name": "Clovis people",
+      "type": "other"
+    },
+    {
+      "name": "Holocene tree record",
+      "type": "other"
+    },
+    {
+      "name": "INTCAL",
+      "type": "other"
+    },
+    {
+      "name": "Hallstatt plateau",
+      "type": "event"
+    },
+    {
+      "name": "Pando",
+      "type": "place"
+    },
+    {
+      "name": "Campbell Soup",
+      "type": "organization"
+    },
+    {
+      "name": "Progresso",
+      "type": "organization"
+    },
+    {
+      "name": "Mycenaean civilization",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Opening banter and Sketch Fest plug",
+      "summary": "Josh and Chuck open with a plug for their January Sketch Fest show at the Castro Theater in San Francisco, then banter about the episode topic and Jerry's button pressing.",
+      "topics": [
+        "Sketch Fest",
+        "Castro Theater",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "What carbon-14 is and how it forms",
+      "summary": "The hosts define carbon-14 as a radioactive form of carbon that is everywhere, including in living things through the food chain. They explain how cosmic rays create high-energy neutrons in the atmosphere that turn nitrogen-14 into carbon-14, and that carbon-14 is extremely rare compared with carbon-12.",
+      "topics": [
+        "carbon-14",
+        "cosmic rays",
+        "nitrogen-14",
+        "carbon cycle",
+        "radioactive decay",
+        "relative dating"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Half-life and the basic principle of radiocarbon dating",
+      "summary": "Living things take in carbon-14 and stop when they die, so carbon-14 decays over time. The half-life of carbon-14 is about 5,730 years, and dating works by comparing the ratio of carbon-14 to carbon-12 in a sample against a living sample. Dating is useful up to roughly 50,000 to 60,000 years.",
+      "topics": [
+        "half-life",
+        "radioactive decay",
+        "carbon-14 to carbon-12 ratio",
+        "age estimation",
+        "range of radiocarbon dating"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Willard Libby and the history of the method",
+      "summary": "The hosts introduce Willard Libby of the University of Chicago, who developed the method in the 1940s shortly after cosmic rays were discovered, and who won a Nobel Prize in chemistry in 1960. They note he chose 1950 as year zero and that he got some things wrong.",
+      "topics": [
+        "Willard Libby",
+        "Nobel Prize chemistry 1960",
+        "history of radiocarbon dating",
+        "year zero 1950"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Sample preparation, measurement methods and what can be dated",
+      "summary": "Most organic materials can be dated, since carbon is in nearly all living things. Early labs had trouble getting samples, and sample cleaning is critical to avoid contamination. The modern method converts the sample to graphite and uses an accelerator and mass spectrometer, replacing older beta counting. The UK's developer rules helped drive more dating.",
+      "topics": [
+        "sample preparation",
+        "accelerator mass spectrometry",
+        "mass spectrometer",
+        "beta counting",
+        "contamination",
+        "archaeological dating UK"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Reading radiocarbon dates: BP, ranges and confidence",
+      "summary": "Radiocarbon dates are reported as years before present with a plus or minus range, rather than a precise calendar date. Narrower ranges mean less confidence. Calibration is needed to convert these results into calendar dates.",
+      "topics": [
+        "BP years before present",
+        "date ranges",
+        "confidence intervals",
+        "calibration"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Interpreting dates and known problems",
+      "summary": "The hosts discuss assumptions in archaeology, such as a leather shield's cow skin being older than the battle. They cover the half-life error Libby made, and the bigger problem that atmospheric carbon-14 production has fluctuated over time due to ocean currents, volcanoes, solar flares and the Earth's magnetic field.",
+      "topics": [
+        "archaeological assumptions",
+        "half-life correction",
+        "atmospheric carbon-14 fluctuation",
+        "radiocarbon error sources"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Calibration with tree rings, cave formations, lake sediments and coral",
+      "summary": "Dendrochronology counts tree rings, which stop absorbing carbon-14 once complete, to create a calibration record such as the Holocene tree record going back about 14,500 years. Other calibration sources include speleothems from China going back about 54,000 years, a Japanese lake with annual sediment layers, and the INTCAL library. Coral is a poor calibrator because ocean carbon differs from atmospheric carbon, and the southern and northern hemispheres differ. The Hallstatt plateau is a period of flat carbon-14 production.",
+      "topics": [
+        "dendrochronology",
+        "tree ring calibration",
+        "Holocene tree record",
+        "speleothems",
+        "INTCAL",
+        "coral calibration problems",
+        "hemisphere differences",
+        "Hallstatt plateau"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Impact on archaeology, first Americans and modern complications",
+      "summary": "Radiocarbon dating changed understanding of Stonehenge, Ötzi the Iceman, and the Shroud of Turin. It also helped date early American settlements, including a site in Idaho, suggesting people arrived by boat. Fossil fuel emissions and 1950s nuclear testing have changed atmospheric carbon-14 levels, complicating future dating, and forensic uses include dating insect larva casings.",
+      "topics": [
+        "Stonehenge",
+        "Ötzi the Iceman",
+        "Shroud of Turin",
+        "Clovis people",
+        "first Americans",
+        "Idaho settlement",
+        "fossil fuels effect",
+        "nuclear tests carbon-14",
+        "forensic dating"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:53:30",
+      "kind": "content",
+      "title": "Wrap-up and Chuck's teeth",
+      "summary": "The hosts recap the basic principle and joke about how their own remains might be dated in a million years, mentioning titanium screws in Chuck's fake teeth.",
+      "topics": [
+        "recap",
+        "dating remains"
+      ]
+    },
+    {
+      "start": "00:53:30",
+      "end": "00:55:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Campbell's and Progresso soup",
+      "summary": "A listener who works in soup sales at General Mills and Campbell Soup responds to the earlier Campbell's soup discussion, and the hosts chat about their favorite soups and a gluten-free chicken pot pie.",
+      "topics": [
+        "listener mail",
+        "Campbell's soup",
+        "Progresso",
+        "soup"
+      ]
+    },
+    {
+      "start": "00:55:30",
+      "end": "00:56:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh thanks listeners and gives contact information for stuff podcasts email and social links.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17997,
+    "output_tokens": 3423
+  }
+}

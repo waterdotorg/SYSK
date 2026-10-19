@@ -1,0 +1,245 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-10-03_How_Police_Body_Cameras_Work_45min.txt",
+  "title": "How Police Body Cameras Work",
+  "date": "2017-10-03",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-police-body-cameras-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f46e398c-ad56-4ca3-9004-ae2800705e7c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f46e398c-ad56-4ca3-9004-ae2800705e7c/transcript?format=TextWithTimestamps&t=1700543791",
+  "summary": "Josh and Chuck explore police body-worn cameras: the 2012 Rialto, California pilot study and its results (less force, fewer complaints, self-awareness and spillover effects), how the technology works (chest mount, wide-angle lens, timestamps, GPS, buffering pre-record), the 2014 Eric Garner and Michael Brown cases that spurred national attention and a Department of Justice grant program, debates about whether cameras build or erode trust, camera policies on when to record, costs, data storage and retention and cloud systems (including Taser's system), access and disclosure laws, the Tyler Stewart shooting footage in Arizona, the Utah nurse arrest footage, video manipulation and facial recognition concerns, and peer-reviewed study limits. The episode closes with listener mail from a five-year-old fan in Scotland named Noah.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "police body cameras",
+    "body-worn cameras",
+    "Rialto California study",
+    "police use of force",
+    "police accountability",
+    "Eric Garner",
+    "Michael Brown",
+    "Department of Justice body camera grants",
+    "police camera recording policy",
+    "video storage and retention",
+    "Taser body camera system",
+    "facial recognition",
+    "pre-record buffer",
+    "disclosure and FOIA of police video",
+    "police trust and distrust",
+    "Tyler Stewart Arizona shooting",
+    "Utah nurse blood draw arrest",
+    "Baltimore police camera coordination",
+    "Wolf Com civilian camera",
+    "video editing and evidence",
+    "police surveillance state",
+    "dashboard camera",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Rialto, California",
+      "type": "place"
+    },
+    {
+      "name": "Eric Garner",
+      "type": "person"
+    },
+    {
+      "name": "Michael Brown",
+      "type": "person"
+    },
+    {
+      "name": "Darren Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Tyler Stewart",
+      "type": "person"
+    },
+    {
+      "name": "Robert Smith",
+      "type": "person"
+    },
+    {
+      "name": "Taser",
+      "type": "organization"
+    },
+    {
+      "name": "Wolf Com",
+      "type": "organization"
+    },
+    {
+      "name": "ACLU",
+      "type": "organization"
+    },
+    {
+      "name": "Oakland",
+      "type": "place"
+    },
+    {
+      "name": "Baltimore",
+      "type": "place"
+    },
+    {
+      "name": "Department of Justice",
+      "type": "organization"
+    },
+    {
+      "name": "Utah nurse arrest",
+      "type": "event"
+    },
+    {
+      "name": "Jeff Payne",
+      "type": "person"
+    },
+    {
+      "name": "Duluth, Minnesota",
+      "type": "place"
+    },
+    {
+      "name": "Laurel, Maryland",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck introduce the episode on body cameras and joke about the show's recent law enforcement episodes.",
+      "topics": [
+        "podcast intro",
+        "police body cameras"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Rialto pilot study",
+      "summary": "The 2012 Rialto, California pilot gave half the police force body cameras; officers using them used force less and complaints dropped about nine percent. Researchers described self-awareness and spillover effects.",
+      "topics": [
+        "Rialto California study",
+        "police use of force",
+        "self-awareness effect",
+        "spillover effect",
+        "police complaints"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Ferguson, Eric Garner and the national push",
+      "summary": "Eric Garner's 2014 death, captured on cell phone video, and Michael Brown's shooting by Darren Wilson sparked national debate. Rialto's results spurred cities to adopt cameras and the Department of Justice offered forty-three million dollars in grants.",
+      "topics": [
+        "Eric Garner",
+        "Michael Brown",
+        "Darren Wilson",
+        "Department of Justice body camera grants",
+        "police brutality",
+        "distrust of police"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Do cameras solve distrust?",
+      "summary": "The hosts debate whether cameras fix the trust problem or underscore mutual distrust, and whether they risk lulling people into complacency. They note cameras are a tool, not a magic pill.",
+      "topics": [
+        "police trust",
+        "police accountability",
+        "camera as a tool",
+        "government oversight of police"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "How the cameras work and recording policies",
+      "summary": "Cameras are typically chest-mounted and have timestamps, badge numbers, GPS, still photos, and streaming. Recording policies vary by department; one survey found only three percent of officers recorded seven or more hours per day. Facial recognition and a pre-record buffer are described.",
+      "topics": [
+        "body camera features",
+        "recording policy",
+        "wide angle lens",
+        "facial recognition",
+        "pre-record buffer",
+        "Baltimore evidence tampering"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Costs, data storage and access",
+      "summary": "Costs range from about four to nine dollars per camera. Oakland's six hundred cameras generate about seven terabytes monthly. Retention periods vary by city, and Taser offers a cloud system that logs access. Disclosure laws let media request footage.",
+      "topics": [
+        "camera costs",
+        "video storage and retention",
+        "cloud storage",
+        "Taser system",
+        "access logging",
+        "public records disclosure"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Footage release, privacy and the Tyler Stewart shooting",
+      "summary": "Officer Tyler Stewart's body camera recorded his killing by Robert Smith in Arizona, raising questions about release of footage and family privacy. The hosts discuss the competing privacy interests of citizens and officers.",
+      "topics": [
+        "Tyler Stewart",
+        "Arizona police shooting",
+        "footage release",
+        "privacy",
+        "Robert Smith"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Limits of single-angle video and new risks",
+      "summary": "A single body camera gives a biased view; the Utah nurse arrest showed a second officer's camera changed the picture. Video editing, multiple viewpoints, civilian cameras from Wolf Com, and private facial recognition in stores are discussed, plus limited peer-reviewed research.",
+      "topics": [
+        "single camera bias",
+        "Utah nurse arrest",
+        "video manipulation",
+        "Wolf Com",
+        "store facial recognition",
+        "peer-reviewed research",
+        "verbal abuse of police"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Noah",
+      "summary": "A five-year-old listener in Scotland, Noah, writes in asking for an episode on bridges, and his mother notes her three-year-old daughter does not like the show.",
+      "topics": [
+        "listener mail",
+        "Noah"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:46:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give contact information and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13731,
+    "output_tokens": 2545
+  }
+}

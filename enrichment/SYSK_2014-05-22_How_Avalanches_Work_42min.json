@@ -1,0 +1,292 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-05-22_How_Avalanches_Work_42min.txt",
+  "title": "How Avalanches Work",
+  "date": "2014-05-22",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-avalanches-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8abc02dd-af18-4b50-8e71-ae280097bc65/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8abc02dd-af18-4b50-8e71-ae280097bc65/transcript?format=TextWithTimestamps&t=1700543882",
+  "summary": "Josh and Chuck explain how avalanches work, starting from the Everest avalanche that killed Sherpas and the shape of snow crystals. They cover snowpack metamorphosis (rounding, faceting, depth hoar, graupel, fascination-style transformation), the three factors needed for an avalanche (snow, slope, trigger), slough versus slab avalanches, slope angles, the R and D avalanche size scale, natural and human triggers, avalanche anatomy (crown, track, runout), avalanche forecasting and mitigation such as artillery and ski checking, and safety gear and procedures (beacons, probes, shovels, airbags, avalanche cords, quick pits, self-rescue and companion rescue). The episode closes with St. Bernard myths and a listener mail about a hollowed-out book.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "avalanches",
+    "how avalanches work",
+    "snowpack",
+    "slab avalanche",
+    "slough",
+    "depth hoar",
+    "temperature gradient",
+    "snow metamorphosis",
+    "avalanche triggers",
+    "avalanche size scale",
+    "avalanche safety",
+    "avalanche beacon",
+    "avalanche probe",
+    "airbag backpack",
+    "avalanche forecasting",
+    "ski checking",
+    "avalanche rescue",
+    "backcountry skiing safety",
+    "snow crystal shape",
+    "cornice collapse",
+    "St. Bernard dogs myth",
+    "Everest avalanche",
+    "avalanche runout zone",
+    "snowpack stability",
+    "graupel",
+    "rime"
+  ],
+  "entities": [
+    {
+      "name": "Mount Everest",
+      "type": "place"
+    },
+    {
+      "name": "Sherpa",
+      "type": "other"
+    },
+    {
+      "name": "Estonia",
+      "type": "place"
+    },
+    {
+      "name": "U.S. Forest Service",
+      "type": "organization"
+    },
+    {
+      "name": "St. Bernard dog",
+      "type": "other"
+    },
+    {
+      "name": "Epic of America",
+      "type": "work"
+    },
+    {
+      "name": "James Truslow Adams",
+      "type": "person"
+    },
+    {
+      "name": "Rick and Morty",
+      "type": "work"
+    },
+    {
+      "name": "Don't Be Dumb",
+      "type": "work"
+    },
+    {
+      "name": "Landslides episode",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Everest avalanche",
+      "summary": "Hosts open with banter about the show and mention the deadly Everest avalanche that killed Sherpas, recalling a previous episode about Sherpas. They discuss whether snowflakes are identical and how many snowflakes fall in a year.",
+      "topics": [
+        "Everest avalanche",
+        "Sherpa",
+        "snowflakes identical",
+        "snow crystal shape"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "What an avalanche is and its scale",
+      "summary": "An avalanche is snow failing to stay in place and sliding downhill all at once, overcoming friction. North American avalanches can reach about 230,000 cubic meters and speeds over 100 miles per hour.",
+      "topics": [
+        "avalanche definition",
+        "avalanche speed",
+        "avalanche size",
+        "friction"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Snowpack formation and snow crystal shape",
+      "summary": "Three factors are needed for an avalanche: snow, a slope, and a trigger. Crystal shape affects how snow bonds in the snowpack, and rounded crystals are more stable than needle shapes.",
+      "topics": [
+        "snowpack",
+        "avalanche factors",
+        "snow crystal bonding",
+        "snow stability"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Temperature gradient and snow metamorphosis",
+      "summary": "A large temperature gradient moves water vapor, turning rounded snow grains into faceted angular crystals. Depth hoar is a layer of faceted crystals that is unstable. Rime, graupel, and rounding are described, and the snowpack undergoes metamorphosis after falling.",
+      "topics": [
+        "temperature gradient",
+        "depth hoar",
+        "faceted crystals",
+        "rime",
+        "graupel",
+        "snow metamorphosis",
+        "rounding"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Failure layers, slough, and slab avalanches",
+      "summary": "The failure layer is the weak layer inside the snowpack. Slough is surface snow moving in an inverted V and is usually less dangerous, while slab avalanches release from a deeper failure layer as large cohesive chunks and are most dangerous. Wet slabs move slower but with more force.",
+      "topics": [
+        "failure layer",
+        "slough",
+        "slab avalanche",
+        "wet slab",
+        "avalanche types"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Slope angle, aspect, and sun versus shade",
+      "summary": "Avalanches generally occur on slopes between about 25 and 60 degrees, most commonly around 30 to 45 degrees. Sunny slopes can become more stable through settling, while wind loads leeward and windward slopes are discussed with some confusion.",
+      "topics": [
+        "slope angle",
+        "avalanche-prone terrain",
+        "sun exposure",
+        "leeward windward",
+        "wind slab"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Avalanche size rating scale (R and D ratings)",
+      "summary": "Avalanches are rated R1 to R5 for relative size and D1 to D5 for destructive force. An R5 D5 can gouge the earth and travel nearly two miles.",
+      "topics": [
+        "avalanche size scale",
+        "R and D rating",
+        "destructive force",
+        "avalanche classification"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A message break occurs between the content segments.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Avalanche triggers and anatomy",
+      "summary": "Most avalanches are triggered by people, but natural triggers include falling trees, weather changes, and cornice collapse. An avalanche has a starting zone or crown, a track, and a runout zone where the snow sets hard like concrete. Survival underneath is about 18 minutes at most.",
+      "topics": [
+        "avalanche triggers",
+        "cornice",
+        "crown",
+        "avalanche track",
+        "runout zone",
+        "burial survival time"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Avalanche forecasting, mitigation, and ski checking",
+      "summary": "Avalanche forecasters study snowfall and atmospheric conditions to predict avalanches, and ski patrols shoot artillery at slopes to trigger controlled avalanches. Ski checking involves skiing the fracture line to test slopes. Barriers, nets, and teens linking arms are mentioned as mitigation.",
+      "topics": [
+        "avalanche forecasting",
+        "controlled avalanche",
+        "artillery avalanche control",
+        "ski checking",
+        "avalanche mitigation",
+        "reforestation"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Backcountry safety gear and preparation",
+      "summary": "Hosts advise checking avalanche warnings, taking a avalanche course, going with a partner, and carrying a functioning beacon set to transmit. Airbag backpacks, the avalon avalanche cord, inclinometers, quick pits, and Forest Service instructions are discussed.",
+      "topics": [
+        "avalanche beacon",
+        "airbag backpack",
+        "avalanche safety gear",
+        "quick pit",
+        "inclinometer",
+        "backcountry safety",
+        "avalung"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Surviving a burial and rescuing a companion",
+      "summary": "Victims should try to swim toward the surface, protect their mouth with an air pocket, and stay calm while conserving breath and voice until rescuers are near. Witnesses should track the last point seen, search with beacons, probes, and shovels, and use lines for group searches.",
+      "topics": [
+        "avalanche survival",
+        "burial",
+        "avalanche rescue",
+        "avalanche probe",
+        "shovel",
+        "companion rescue"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Skiing anecdote and St. Bernard myth",
+      "summary": "Chuck shares a skiing anecdote from Vermont, and the hosts explain that St. Bernard dogs were not used as avalanche rescue dogs despite the brandy cask myth.",
+      "topics": [
+        "St. Bernard myth",
+        "brandy cask",
+        "skiing anecdote"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:02:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: hollowed-out book",
+      "summary": "A listener reports hollowing out a first edition of Epic of America by James Truslow Adams to hide money, and realizes it later. The hosts react and mention Rick and Morty flasks and hollowed-out book gifts.",
+      "topics": [
+        "listener mail",
+        "hollowed out book",
+        "Epic of America"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:02:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to share their stories and point to howstuffworks.com for more on avalanches.",
+      "topics": [
+        "sign-off",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13928,
+    "output_tokens": 3331
+  }
+}

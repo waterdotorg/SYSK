@@ -1,0 +1,255 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-04-10_How_Natural_Selection_Works_56min.txt",
+  "title": "How Natural Selection Works",
+  "date": "2014-04-10",
+  "duration": "56 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-natural-selection-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a7bcf48-7b9a-453d-8258-ae28009947b9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2a7bcf48-7b9a-453d-8258-ae28009947b9/transcript?format=TextWithTimestamps&t=1700543884",
+  "summary": "Josh and Chuck explain natural selection as the mechanism driving evolution: organisms best suited to their environment are more likely to survive and pass on traits. They cover variation versus evolution, DNA, genes and alleles, allele frequency, population and population pressure, mutation, sexual reproduction and genetic recombination, the struggle for survival, Darwin's tenets from On the Origin of Species, population bottlenecks (giraffe fire example, Toba eruption), the founder effect, stability via natural selection (sharks), elephants losing tusks to poaching, gradualism versus punctuated equilibrium, Dawkins' The Selfish Gene, altruism and kinship, super organisms like ant colonies, vestigial traits and atavisms (appendix, tailbone, palmar grasp reflex, plica semilunaris), cotton bollworm and clover cyanide examples, and whether humans are still subject to natural selection. The episode ends with a listener mail about a niece diagnosed with Lyme disease.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "natural selection",
+    "evolution",
+    "Charles Darwin",
+    "On the Origin of Species",
+    "survival of the fittest",
+    "alleles",
+    "allele frequency",
+    "genes",
+    "DNA",
+    "mutation",
+    "genetic recombination",
+    "sexual reproduction",
+    "population pressure",
+    "population bottleneck",
+    "founder effect",
+    "Toba eruption",
+    "punctuated equilibrium",
+    "gradualism",
+    "Richard Dawkins",
+    "The Selfish Gene",
+    "altruism",
+    "kinship",
+    "super organism",
+    "vestigial traits",
+    "atavism",
+    "shark evolution",
+    "elephant tusks poaching",
+    "bollworm cotton resistance",
+    "clover cyanide",
+    "Lyme disease listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Richard Dawkins",
+      "type": "person"
+    },
+    {
+      "name": "On the Origin of Species",
+      "type": "work"
+    },
+    {
+      "name": "The Selfish Gene",
+      "type": "work"
+    },
+    {
+      "name": "Toba eruption",
+      "type": "event"
+    },
+    {
+      "name": "Lyme disease",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to natural selection",
+      "summary": "Hosts banter, plug social channels, and say they are excited about natural selection as a topic paired with the Darwin episode. They share personal feelings about its explanatory power and note that natural selection is a mechanism driving evolution, not the same thing.",
+      "topics": [
+        "natural selection",
+        "evolution",
+        "survival of the fittest"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Defining natural selection and fitness",
+      "summary": "Natural selection is described as organisms best suited to survive having a greater chance of passing traits on. Fitness includes both surviving long enough to reproduce and reproducing successfully, illustrated with a tree's seeds and a raccoon. Variation in traits like height or eye color is distinguished from evolution.",
+      "topics": [
+        "natural selection",
+        "fitness",
+        "survival of the fittest",
+        "trait variation"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Genes, alleles, and allele frequency",
+      "summary": "DNA holds genes, which produce traits, and alleles are variations of a gene's expression. Allele frequency is how often a variant appears in a population. A population is defined as a group in one place that interbreeds. Evolution is described as a shift in allele frequency.",
+      "topics": [
+        "DNA",
+        "genes",
+        "alleles",
+        "allele frequency",
+        "population genetics",
+        "population definition"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Sources of new alleles: mutation, reproduction, recombination",
+      "summary": "New alleles arise through random mutation, through sexual reproduction mixing parental DNA, and through genetic recombination in bacteria absorbing DNA. The hosts discuss the origin of eukaryotes via mitochondria and speculate about epigenetics as a possible source of change.",
+      "topics": [
+        "mutation",
+        "sexual reproduction",
+        "genetic recombination",
+        "horizontal gene transfer",
+        "epigenetics",
+        "mitochondria origin"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Death, struggle to survive, and Darwin's basic tenets",
+      "summary": "The hosts frame evolution as driven by the struggle to survive and the desire to survive. They read through Darwin's tenets from On the Origin of Species: variation, overproduction relative to resources, struggle, advantageous traits, accumulation of successful variations, and local specificity.",
+      "topics": [
+        "Darwin tenets",
+        "On the Origin of Species",
+        "struggle for existence",
+        "variation",
+        "overproduction"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Population pressure, bottlenecks, and founder effect",
+      "summary": "Population pressure is any factor making survival difficult, such as scarcity, predators, and disasters. The giraffe fire example shows rapid change. A population bottleneck, such as the Toba eruption about 70,000 years ago reducing humans to a few thousand, concentrates traits. The founder effect occurs when a population splits off and breeds separately.",
+      "topics": [
+        "population pressure",
+        "population bottleneck",
+        "Toba eruption",
+        "founder effect",
+        "giraffe evolution"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Stability, sharks, elephants, and gradualism vs punctuated equilibrium",
+      "summary": "Sharks have stayed largely unchanged because natural selection weeds out new variations that do not improve on their existing form. Hypothetical shark finning is discussed. African elephants born without tusks due to poaching illustrate rapid evolution. The debate between gradualism and punctuated equilibrium is introduced.",
+      "topics": [
+        "shark evolution",
+        "stabilizing selection",
+        "elephant tusks poaching",
+        "gradualism",
+        "punctuated equilibrium"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Selfish gene theory, altruism, and super organisms",
+      "summary": "Richard Dawkins' The Selfish Gene reframes evolution around genes, explaining why organisms can die after reproducing, such as spiders and praying mantises. Altruism is a challenge addressed through kinship, and ant colonies are described as super organisms.",
+      "topics": [
+        "selfish gene",
+        "Richard Dawkins",
+        "altruism",
+        "kinship",
+        "super organism",
+        "ants"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Vestigial traits and atavisms",
+      "summary": "Vestigial traits like the appendix, sinuses, tailbone, goose bumps (erector pili), palmar grasp reflex, ear wiggling, and the plica semilunaris are discussed. Atavisms such as human tails are noted as rare cases.",
+      "topics": [
+        "vestigial traits",
+        "atavism",
+        "appendix",
+        "palmar grasp reflex",
+        "plica semilunaris",
+        "goose bumps"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Rapid natural selection examples: bollworm and clover",
+      "summary": "Bollworms evolved resistance to genetically engineered cotton toxin, and some clover varieties produce cyanide that makes them bitter, with cold-climate plants rupturing and dying while warm-climate plants persist.",
+      "topics": [
+        "bollworm cotton resistance",
+        "clover cyanide",
+        "rapid evolution",
+        "Bt cotton"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:54:00",
+      "kind": "content",
+      "title": "Are humans still subject to natural selection?",
+      "summary": "The hosts discuss whether modern humans, with jets, birth control, and technology, have removed themselves from natural selection, concluding that population pressure and scarcity mean humans are still under its influence.",
+      "topics": [
+        "human evolution",
+        "birth control",
+        "unnatural selection",
+        "transhumanism",
+        "population pressure"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:55:00",
+      "kind": "ad",
+      "title": "Science class shout-out and search tip",
+      "summary": "Hosts greet sixth through ninth grade science classes and suggest searching natural selection on the HowStuffWorks site.",
+      "topics": [
+        "education",
+        "HowStuffWorks"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:56:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Lyme disease diagnosis",
+      "summary": "A listener named Michelle writes that her six-year-old niece was diagnosed with Lyme disease after the hosts' tick episode prompted testing. Hosts respond and mention a possible future episode on Lyme disease, plus contact information and sign-off.",
+      "topics": [
+        "Lyme disease",
+        "listener mail",
+        "ticks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17723,
+    "output_tokens": 3170
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-05-14_How_Electroconvulsive_Therapy_Works_26min.txt",
+  "title": "How Electroconvulsive Therapy Works",
+  "date": "2013-05-14",
+  "duration": "26 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-electroconvulsive-therapy-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0c16d092-d10b-4454-882f-ae2800a078af/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0c16d092-d10b-4454-882f-ae2800a078af/transcript?format=TextWithTimestamps&t=1700543900",
+  "summary": "Josh and Chuck discuss electroconvulsive therapy (ECT), starting with its portrayal in One Flew Over the Cuckoo's Nest and its past abuse in asylums. They cover the history of convulsive shock treatments: insulin shock (Ladislaus von Meduna), metrazol (Manfred Sakel), and the move to electricity by Italian scientists in the 1930s. They describe modern ECT practice (anesthesia, muscle relaxants, pre-treatment screening, brief-pulse electrodes, typical schedule of 2-3 sessions a week for 3-4 weeks), its use for severe depression, memory loss and mortality risks, FDA device classification, theories of how it works, and a 2012 Scottish brain-scan study. The episode closes with listener mail about misheard song lyrics and a sponsor read.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "electroconvulsive therapy",
+    "ECT",
+    "electroshock therapy",
+    "shock therapy",
+    "One Flew Over the Cuckoo's Nest",
+    "insulin shock therapy",
+    "metrazol shock therapy",
+    "Ladislaus von Meduna",
+    "Manfred Sakel",
+    "history of psychiatry",
+    "depression treatment",
+    "severe depression",
+    "antidepressants",
+    "memory loss ECT",
+    "anesthesia and ECT",
+    "FDA device classification ECT",
+    "brain stimulation",
+    "Kitty Dukakis",
+    "Scotland ECT brain scan study",
+    "misheard song lyrics",
+    "Stuff You Should Know listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Electroconvulsive therapy",
+      "type": "other"
+    },
+    {
+      "name": "One Flew Over the Cuckoo's Nest",
+      "type": "work"
+    },
+    {
+      "name": "Ken Kesey",
+      "type": "person"
+    },
+    {
+      "name": "Ladislaus von Meduna",
+      "type": "person"
+    },
+    {
+      "name": "Manfred Sakel",
+      "type": "person"
+    },
+    {
+      "name": "Kitty Dukakis",
+      "type": "person"
+    },
+    {
+      "name": "Shock: The Healing Powers of Electro Convulsive Therapy",
+      "type": "work"
+    },
+    {
+      "name": "Hippocrates",
+      "type": "person"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "National Institute of Mental Health",
+      "type": "organization"
+    },
+    {
+      "name": "Scotland",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Cuckoo's Nest",
+      "summary": "Hosts open with banter about One Flew Over the Cuckoo's Nest, noting the threat of ECT used in the film and book to keep patients docile, and Ken Kesey's experience as an orderly.",
+      "topics": [
+        "One Flew Over the Cuckoo's Nest",
+        "Ken Kesey",
+        "electroconvulsive therapy",
+        "asylum abuse"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "ECT basics and shock therapy purpose",
+      "summary": "Hosts explain that ECT is a type of shock therapy meant to induce a seizure, a practice linked back to Hippocrates' observation that convulsions seemed to relieve mental illness. They speculate on parallels with catharsis.",
+      "topics": [
+        "shock therapy",
+        "induced seizures",
+        "Hippocrates",
+        "catharsis"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "History: insulin and metrazol shock",
+      "summary": "Insulin-induced coma and convulsions by Ladislaus von Meduna, and metrazol-induced seizures by Manfred Sakel, which caused spinal fractures. Meduna's theory that schizophrenia and epilepsy were mutually exclusive is noted as wrong.",
+      "topics": [
+        "insulin shock therapy",
+        "metrazol",
+        "Ladislaus von Meduna",
+        "Manfred Sakel",
+        "history of psychiatry"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Introduction of electricity and early practice",
+      "summary": "Italian scientists in the 1930s switched to electricity to induce seizures. By the 1940s ECT was used in the US for schizophrenia, depression and bipolar disorder, often without anesthesia.",
+      "topics": [
+        "electroshock history",
+        "1940s psychiatry",
+        "no anesthesia early ECT"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Modern ECT procedure and safety",
+      "summary": "Modern ECT uses anesthesia, muscle relaxants, and an ankle cuff to monitor the foot; pre-treatment screening; brief electrical pulses; and typically 2-3 sessions a week for 3-4 weeks. Post-treatment grogginess and memory loss are discussed. The FDA kept ECT devices in the strictest Class III.",
+      "topics": [
+        "modern ECT procedure",
+        "anesthesia",
+        "muscle relaxants",
+        "pulse width",
+        "FDA Class III",
+        "ECT memory loss"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Uses, effectiveness and theories of action",
+      "summary": "ECT is used mainly for major depression, often when drugs fail, and reportedly works faster than antidepressants. Use in England fell between 1985 and 2002. Theories of mechanism include changes in blood flow and chemical release, and a 2012 Scottish brain-scan study showing reduced activity in mood regions; a placebo group also improved.",
+      "topics": [
+        "depression treatment",
+        "ECT effectiveness",
+        "how ECT works",
+        "Scotland brain scan study",
+        "placebo ECT",
+        "antidepressants"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Risks of ECT",
+      "summary": "Risks include short-term and longer-term memory loss, headaches, muscle pain, and a mortality rate of about one in ten thousand, usually linked to anesthesia. The hosts note the critics are often anti-psychiatry.",
+      "topics": [
+        "ECT risks",
+        "memory loss",
+        "ECT mortality",
+        "side effects"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Closing reflections on ECT",
+      "summary": "Hosts reflect on electricity versus drugs and whether ECT will become more widespread.",
+      "topics": [
+        "ECT future",
+        "electricity versus drugs"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:25:50",
+      "kind": "ad",
+      "title": "Sponsor read",
+      "summary": "Sponsor read for Jack Threads dot com.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:25:50",
+      "end": "00:26:00",
+      "kind": "listener_mail",
+      "title": "Misheard song lyrics listener mail",
+      "summary": "Listeners share misheard lyrics, including Cheryl's Papa Don't Preach / papa dom bridge story, and the hosts discuss Springsteen's Cut Loose and Until Tuesday.",
+      "topics": [
+        "misheard song lyrics",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9382,
+    "output_tokens": 2547
+  }
+}

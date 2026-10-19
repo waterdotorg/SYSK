@@ -1,0 +1,204 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-05-27_Can_humans_start_an_earthquake_25min.txt",
+  "title": "Can humans start an earthquake?",
+  "date": "2010-05-27",
+  "duration": "25 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-humans-start-an-earthquake",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/38b4ee07-93ec-47a7-90b6-ae2800b6dbd9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/38b4ee07-93ec-47a7-90b6-ae2800b6dbd9/transcript?format=TextWithTimestamps&t=1700543961",
+  "summary": "Josh and Chuck discuss whether human activity can trigger earthquakes, focusing on reservoir-induced seismicity (RIS) caused by dams, linked to the May 2008 Sichuan earthquake near the Zipingpu Dam on the Min Jiang River. They cover how reservoir weight and water seepage into fault cracks (pore pressure) can destabilize faults, the 1963 Vajont Dam landslide and wave in Italy, a 2007 landslide at the Three Gorges Dam that buried a bus, a World Bank survey of dam geology, the 1967 Koyna India quake, wastewater injection, oil and gas extraction and injection, and the Taipei tower. They note dams need conditions such as a fault line and height (around 100 meters) to trigger quakes. The episode ends with announcements about New York meet-and-greet and trivia events, a T-shirt contest, a Guatemala textbook donation drive, and listener mail.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "reservoir induced seismicity",
+    "dam-induced earthquakes",
+    "man-made earthquakes",
+    "human-induced earthquakes",
+    "Sichuan earthquake 2008",
+    "Zipingpu Dam",
+    "Three Gorges Dam",
+    "Vajont Dam landslide",
+    "dam landslides",
+    "pore pressure",
+    "fluid injection earthquakes",
+    "wastewater injection",
+    "oil and gas extraction earthquakes",
+    "Koyna earthquake 1967",
+    "Taipei tower construction tremors",
+    "fault lines",
+    "Lake Lanier",
+    "Hoover Dam",
+    "Stuff You Should Know meet and greet",
+    "T-shirt contest",
+    "Guatemala textbook donation"
+  ],
+  "entities": [
+    {
+      "name": "Sichuan earthquake",
+      "type": "event"
+    },
+    {
+      "name": "Zipingpu Dam",
+      "type": "place"
+    },
+    {
+      "name": "Min Jiang River",
+      "type": "place"
+    },
+    {
+      "name": "Three Gorges Dam",
+      "type": "place"
+    },
+    {
+      "name": "Vajont Dam",
+      "type": "place"
+    },
+    {
+      "name": "Lake Lanier",
+      "type": "place"
+    },
+    {
+      "name": "Hoover Dam",
+      "type": "place"
+    },
+    {
+      "name": "Koyna Dam",
+      "type": "place"
+    },
+    {
+      "name": "World Bank",
+      "type": "organization"
+    },
+    {
+      "name": "Journal of Environmental Law and Litigation",
+      "type": "work"
+    },
+    {
+      "name": "The Onion",
+      "type": "organization"
+    },
+    {
+      "name": "Cooperative for Education",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "ad",
+      "title": "Opening sponsor read and banter",
+      "summary": "Opening sponsor read for GoToMeeting, then Josh and Chuck banter about the show's name and introduce the Sichuan earthquake topic.",
+      "topics": [
+        "GoToMeeting sponsor",
+        "Sichuan earthquake 2008"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Introduction to reservoir induced seismicity",
+      "summary": "The hosts introduce reservoir induced seismicity as a possible man-made cause of the 2008 Sichuan earthquake, and decide to start with dams.",
+      "topics": [
+        "reservoir induced seismicity",
+        "Sichuan earthquake 2008",
+        "man-made earthquakes"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "How dams change landscapes and cause landslides",
+      "summary": "Dams alter river hydrology and flood land around reservoirs, sometimes submerging towns such as beneath Lake Lanier. Added water weight can trigger landslides; the Hoover Dam is mentioned.",
+      "topics": [
+        "dam construction",
+        "Lake Lanier",
+        "Hoover Dam",
+        "dam landslides"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Vajont Dam landslide and Three Gorges landslides",
+      "summary": "The 1963 Vajont Dam disaster in northern Italy, where rock fell into the reservoir creating a wave over the dam and destroying a village, is described. Landslides at the Three Gorges Dam, including one in 2007 that buried a bus, are also mentioned.",
+      "topics": [
+        "Vajont Dam landslide",
+        "Three Gorges Dam",
+        "dam landslides",
+        "tidal wave from landslide"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Dam-triggered quakes, faults and pore pressure",
+      "summary": "The Zipingpu Dam's weight and possible fault lines beneath it are discussed, along with a World Bank survey finding unexpected geology at many dam projects. The hosts explain how water seeping into fault cracks raises pore pressure and lubricates faults, and how injecting or extracting fluids can change stresses.",
+      "topics": [
+        "Zipingpu Dam",
+        "fault lines",
+        "pore pressure",
+        "World Bank dam survey",
+        "fluid injection earthquakes"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Oil, gas, wastewater injection and other man-made quakes",
+      "summary": "The hosts discuss whether removing oil harms the earth, water and gas injection causing tremors, Colorado quakes in the 1990s linked to gas drilling, and wastewater injection. They mention the 1967 Koyna quake in India and the Taipei tower.",
+      "topics": [
+        "oil extraction earthquakes",
+        "wastewater injection",
+        "natural gas drilling quakes",
+        "Koyna earthquake 1967",
+        "Taipei tower tremors"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Limits on dam-triggered earthquakes",
+      "summary": "Dams cannot trigger quakes alone; they need factors such as a fault line and a height of roughly 100 meters. The hosts say they are not against dams.",
+      "topics": [
+        "dam-induced earthquakes",
+        "fault lines"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:24:30",
+      "kind": "ad",
+      "title": "Announcements: New York events and T-shirts",
+      "summary": "Announcements of a New York meet-and-greet at the Knitting Factory, a trivia night at the Bell House, the T-shirt contest, and a Guatemala textbook text donation drive.",
+      "topics": [
+        "New York meet and greet",
+        "trivia night",
+        "T-shirt contest",
+        "Guatemala textbook donation"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:25:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "The hosts close with the listener mail address and a brief sign-off.",
+      "topics": [
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9380,
+    "output_tokens": 2301
+  }
+}

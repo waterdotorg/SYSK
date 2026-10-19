@@ -1,0 +1,246 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-01-02_Could_you_live_without_a_refrigerator_36min.txt",
+  "title": "Could you live without a refrigerator?",
+  "date": "2014-01-02",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/could-you-live-without-a-refrigerator",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18c375e7-40d9-4ebe-aaf1-ae28009b7236/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/18c375e7-40d9-4ebe-aaf1-ae28009b7236/transcript?format=TextWithTimestamps&t=1700543890",
+  "summary": "Josh and Chuck explore whether people can live without a refrigerator (\"de-fridging\"), a green-living trend popularized around 2009 by a New York Times article. They compare a fridge's electricity use to other household appliances, discuss which foods can be kept out of the fridge (butter, condiments, onions, potatoes, cilantro, avocados with a banana in a paper bag), and cooling alternatives like coolers and chest freezers with frozen water bottles. The conversation then covers food waste statistics, developing-world post-harvest losses, landfill methane, Zero Waste Home blogger Bea Johnson's \"5 Rs\", edible weeds, license plate siding, a debunked \"poop burger\" story, the London fatberg made of wet wipes, toilet paper alternatives, and an Einstein no-moving-parts refrigerator. The episode ends with a listener mail segment from a St. Louis police officer about a meth lab found in a Gatorade bottle, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "refrigerator",
+    "going without a refrigerator",
+    "de-fridging",
+    "green living",
+    "eco-friendly living",
+    "energy consumption of appliances",
+    "food waste",
+    "food storage",
+    "food that doesn't need refrigeration",
+    "coolers",
+    "chest freezer",
+    "methane emissions from landfills",
+    "Zero Waste Home",
+    "Bea Johnson",
+    "reduce reuse recycle",
+    "edible weeds",
+    "Albert Einstein refrigerator",
+    "toilet paper alternatives",
+    "fatberg London",
+    "avocado ripening",
+    "meth lab",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Bea Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "New York Times",
+      "type": "organization"
+    },
+    {
+      "name": "Energy Star",
+      "type": "organization"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Zero Waste Home",
+      "type": "work"
+    },
+    {
+      "name": "London sewer fatberg",
+      "type": "event"
+    },
+    {
+      "name": "Walmart",
+      "type": "organization"
+    },
+    {
+      "name": "Sam's Club",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and green movement",
+      "summary": "Hosts joke about Jerry eating broccoli stalks, then discuss how recycling has become mainstream and how some green trends seem like fads.",
+      "topics": [
+        "green living",
+        "recycling",
+        "eco-friendly living"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Giving up refrigerators as a green trend",
+      "summary": "A 2009 New York Times article described people unplugging refrigerators to be greener. The hosts compare it to sterilization and note the New York Times article described a divide among eco-conscious people.",
+      "topics": [
+        "refrigerator",
+        "de-fridging",
+        "New York Times 2009 article",
+        "green movement fads"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Energy use of refrigerators versus other appliances",
+      "summary": "A typical post-2000 fridge uses about 450 kWh per year, less than a clothes dryer, central air, or furnace, which uses around 6,000 kWh. The hosts translate CO2 emissions into miles driven.",
+      "topics": [
+        "refrigerator energy use",
+        "Energy Star",
+        "CO2 emissions",
+        "appliance energy consumption"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Foods that don't need refrigeration",
+      "summary": "The hosts discuss keeping butter, condiments, onions, tomatoes, potatoes, cauliflower, cilantro, and avocados out of the fridge, along with tips for cutting onions and ripening avocados with a banana in a paper bag.",
+      "topics": [
+        "food storage",
+        "butter at room temperature",
+        "condiments",
+        "onions",
+        "potatoes storage",
+        "cilantro storage",
+        "avocado ripening",
+        "food that doesn't need refrigeration"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Cooling alternatives: coolers and chest freezers",
+      "summary": "Without a fridge, people use coolers and small chest freezers. The article's chest freezer uses about 2 kWh per year. Some people freeze water bottles to keep a cooler cold.",
+      "topics": [
+        "coolers",
+        "chest freezer",
+        "frozen water bottles",
+        "refrigerator alternatives"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Shopping in small amounts and packaging tradeoffs",
+      "summary": "Buying smaller quantities reduces waste but can mean more packaging and more driving to the store, which affects the environmental benefit.",
+      "topics": [
+        "grocery shopping",
+        "packaging waste",
+        "food waste reduction",
+        "driving to the store"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Food waste statistics and developing-world food losses",
+      "summary": "Developing countries have high post-harvest food grain losses, and people in developing countries waste less food. The US spends about a billion dollars a year on food waste disposal, and food leftovers are the largest part of the waste stream by weight, about 12 percent of municipal landfills. Landfill methane is discussed as a greenhouse gas, and the hosts question why it is not captured for energy.",
+      "topics": [
+        "food waste",
+        "post-harvest losses",
+        "landfill methane",
+        "EPA food waste",
+        "methane capture",
+        "greenhouse gas"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Zero Waste Home and reuse of food scraps",
+      "summary": "Bea Johnson's Zero Waste Home blog describes her family's five Rs (refuse, reduce, reuse, recycle, rot), and reuse ideas like bread pudding and reviving wilted lettuce in ice water. The hosts discuss grocery store cosmetic waste.",
+      "topics": [
+        "Zero Waste Home",
+        "Bea Johnson",
+        "five Rs zero waste",
+        "composting",
+        "food reuse",
+        "grocery store food waste"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Edible weeds, license plate siding, and odd green trends",
+      "summary": "Hosts discuss edible weeds, shoes made from tires and jeans, houses sided with license plates, and a debunked story about a Japanese scientist making burgers from feces. They also discuss the London fatberg of wet wipes and grease and alternatives to toilet paper such as cloth diapers.",
+      "topics": [
+        "edible weeds",
+        "upcycled shoes",
+        "license plate siding",
+        "poop burger hoax",
+        "London fatberg",
+        "toilet paper alternatives",
+        "bidet",
+        "flushable wipes"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Einstein refrigerator and fridge efficiency tips",
+      "summary": "The hosts discuss an absorption refrigerator with no moving parts co-developed by Einstein, and tips for an efficient fridge: clean coils yearly, keep it stocked, and avoid leaving the door open.",
+      "topics": [
+        "Einstein refrigerator",
+        "absorption refrigerator",
+        "refrigerator efficiency",
+        "cleaning refrigerator coils"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:36:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: meth lab in a Gatorade bottle",
+      "summary": "A St. Louis police officer writes that a woman arrested for shoplifting at a Walmart had a mobile meth lab in a Gatorade bottle in her purse, and that he has handled two meth labs, often with children present.",
+      "topics": [
+        "meth lab",
+        "mobile meth lab",
+        "shake and bake meth",
+        "law enforcement"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:36:36",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite mystery suggestions and mention contact methods and the website.",
+      "topics": [
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13075,
+    "output_tokens": 2888
+  }
+}

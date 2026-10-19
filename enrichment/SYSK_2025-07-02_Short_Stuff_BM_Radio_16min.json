@@ -1,0 +1,233 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-07-02_Short_Stuff_BM_Radio_16min.txt",
+  "title": "Short Stuff: BM Radio",
+  "date": "2025-07-02",
+  "duration": "16 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-bm-radio",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/000653d4-6ed0-4fd8-8a4c-b308014cb900/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/000653d4-6ed0-4fd8-8a4c-b308014cb900/transcript?format=TextWithTimestamps&t=1750969326",
+  "summary": "Short Stuff episode on \"beautiful music\" (BM radio), a soft, orchestral easy-listening radio format. The hosts explain that FM radio was initially considered square and AM was the popular band, and that FM's early programming gave rise to easy listening. They cover a 1965 FCC ruling requiring AM and FM stations in common ownership to play different programming, which pushed companies toward BM. They describe the format's targeting of housewives, its limits on ads (about six minutes per hour, quieter than the music), and syndicator Shulkey Radio Productions (SRP), which supplied prerecorded tapes and technical standards. They also cover Bonneville's automated random tape-selection system, the format's spread and decline as rock grew, and comparisons to Atlanta's 99X and WKRP in Cincinnati.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "beautiful music radio",
+    "BM radio format",
+    "easy listening music",
+    "elevator music",
+    "FM radio history",
+    "AM radio history",
+    "FCC 1965 ruling",
+    "Shulkey Radio Productions",
+    "Bonneville automated radio",
+    "syndication",
+    "radio automation",
+    "radio advertising limits",
+    "Muzak comparison",
+    "WKRP in Cincinnati",
+    "format switch to rock",
+    "99X Atlanta",
+    "Album 88 Atlanta",
+    "radio history"
+  ],
+  "entities": [
+    {
+      "name": "Beautiful music",
+      "type": "other"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Shulkey Radio Productions",
+      "type": "organization"
+    },
+    {
+      "name": "Bonneville",
+      "type": "organization"
+    },
+    {
+      "name": "Muzak",
+      "type": "organization"
+    },
+    {
+      "name": "WKRP in Cincinnati",
+      "type": "work"
+    },
+    {
+      "name": "99X",
+      "type": "organization"
+    },
+    {
+      "name": "Album 88",
+      "type": "organization"
+    },
+    {
+      "name": "WFMU",
+      "type": "organization"
+    },
+    {
+      "name": "Ray Conniff Singers",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts open the short episode and introduce the topic of radio, contrasting AM and FM reputations.",
+      "topics": [
+        "AM radio",
+        "FM radio"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:15",
+      "kind": "content",
+      "title": "AM vs FM and what beautiful music is",
+      "summary": "The hosts explain that FM started out square and AM was the popular band, and that FM gave rise to easy listening. They describe beautiful music: pop and standards rearranged for orchestra with vocals mostly removed, and occasionally covers sung by groups like the Ray Conniff Singers.",
+      "topics": [
+        "FM radio history",
+        "AM radio history",
+        "easy listening music",
+        "elevator music",
+        "beautiful music arrangements"
+      ]
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Does everyone like beautiful music?",
+      "summary": "Hosts discuss whether the genre appeals broadly, noting that some well-done covers, such as a version of 'What's New Pussycat', are good even if the format itself is not universally loved.",
+      "topics": [
+        "beautiful music reception",
+        "cover versions"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "1965 FCC ruling and the housewife audience",
+      "summary": "A 1965 FCC ruling required stations with separate AM and FM programming to play different content, which pushed companies toward beautiful music as a cheap way to differentiate. The format targeted housewives, who made household purchasing decisions.",
+      "topics": [
+        "FCC 1965 ruling",
+        "beautiful music advertising",
+        "housewife target audience"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:11",
+      "kind": "content",
+      "title": "Format's ad limits and Shulkey Radio Productions",
+      "summary": "Beautiful music kept ads limited and quiet. Shulkey Radio Productions (SRP) became the biggest syndicator, supplying prerecorded tapes with requirements for equipment, engineers, ad limits of about six minutes per hour at lower volume, and restrictions on attention-grabbing ads. Hosts note the science behind the programming was questionable.",
+      "topics": [
+        "Shulkey Radio Productions",
+        "syndication",
+        "radio advertising limits",
+        "radio programming science"
+      ]
+    },
+    {
+      "start": "00:09:11",
+      "end": "00:09:51",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Ad break between segments.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:09:51",
+      "end": "00:11:13",
+      "kind": "content",
+      "title": "Playlist looping and Bonneville's random tape player",
+      "summary": "Shulkey's playlists looped, so Bonneville offered prerecorded tapes plus an automatic random tape player that varied the sequence of songs, avoiding identical repeats.",
+      "topics": [
+        "Bonneville",
+        "radio automation",
+        "random tape selection",
+        "playlist looping"
+      ]
+    },
+    {
+      "start": "00:11:13",
+      "end": "00:13:03",
+      "kind": "content",
+      "title": "Format's spread and decline",
+      "summary": "Beautiful music was the cradle of radio standardization and automation and spread to most cities. As rock grew and younger listeners became the main audience, stations switched formats. Hosts compare this to 99X in Atlanta's switch to alternative music.",
+      "topics": [
+        "format decline",
+        "rock and roll shift",
+        "99X Atlanta",
+        "radio format changes"
+      ]
+    },
+    {
+      "start": "00:13:03",
+      "end": "00:14:43",
+      "kind": "content",
+      "title": "Atlanta left-of-dial stations",
+      "summary": "Hosts reminisce about Atlanta's Album 88 and other left-of-the-dial stations, comparing them to WFMU in New Jersey, and mention Adam Bomb's Soul Kitchen show.",
+      "topics": [
+        "Album 88 Atlanta",
+        "WFMU",
+        "college and left-of-dial radio",
+        "Soul Kitchen"
+      ]
+    },
+    {
+      "start": "00:14:43",
+      "end": "00:15:14",
+      "kind": "content",
+      "title": "WKRP in Cincinnati reference",
+      "summary": "Beautiful music stations dropping by 1990 is dramatized in WKRP in Cincinnati, where a station converts from beautiful music to rock.",
+      "topics": [
+        "WKRP in Cincinnati",
+        "format conversion"
+      ]
+    },
+    {
+      "start": "00:15:14",
+      "end": "00:15:19",
+      "kind": "content",
+      "title": "WKRP wrap-up",
+      "summary": "Hosts recall WKRP characters reacting to the rock format change.",
+      "topics": [
+        "WKRP in Cincinnati"
+      ]
+    },
+    {
+      "start": "00:15:19",
+      "end": "00:15:46",
+      "kind": "outro",
+      "title": "Sources and sign-off",
+      "summary": "Hosts thank their sources and sign off.",
+      "topics": [
+        "sources"
+      ]
+    },
+    {
+      "start": "00:15:46",
+      "end": "00:15:54",
+      "kind": "ad",
+      "title": "Production credit",
+      "summary": "Standard production and podcast-app credit read.",
+      "topics": [
+        "podcast credits"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 7187,
+    "output_tokens": 2514
+  }
+}

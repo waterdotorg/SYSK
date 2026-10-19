@@ -1,0 +1,235 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-06-17_Is_your_employer_spying_on_you_42min.txt",
+  "title": "Is your employer spying on you?",
+  "date": "2014-06-17",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-your-employer-spying-on-you",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d197b53f-3a92-4222-ab12-ae280096e5c5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d197b53f-3a92-4222-ab12-ae280096e5c5/transcript?format=TextWithTimestamps&t=1700543881",
+  "summary": "Hosts Josh and Chuck examine whether employers spy on employees. They cover the legal landscape (employers can monitor company networks and devices, and courts mostly side with employers), common surveillance methods (packet sniffers in promiscuous mode, desktop monitoring/keylogging software, log files, phone and email interception, GPS and keycard tracking, CCTV cameras), the Pillsbury case where an employee was fired over emails and lost in court, the IKEA France private investigator scandal, and how employees might detect monitoring software by checking running processes. They also discuss states requiring notice (Connecticut and Delaware), bans on demanding social media passwords, and bring-your-own-device trends. The episode ends with a listener mail from Norbert in Hungary about greetings on support calls, a digression about Budapest's hospital museum, and sign-off details.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "employee surveillance",
+    "workplace monitoring",
+    "employer spying on employees",
+    "packet sniffers",
+    "promiscuous mode",
+    "desktop monitoring software",
+    "keylogging",
+    "log files",
+    "workplace wiretapping",
+    "Electronic Communications Privacy Act",
+    "email interception privacy",
+    "CCTV workplace cameras",
+    "GPS employee tracking",
+    "employee privacy law",
+    "Pillsbury employee firing case",
+    "IKEA France private investigator",
+    "social media passwords employers",
+    "bring your own device",
+    "how to detect spyware on work computer",
+    "employee fired for social media posts",
+    "Connecticut Delaware electronic monitoring notice",
+    "listener mail",
+    "Norbert Hungary call center"
+  ],
+  "entities": [
+    {
+      "name": "Pillsbury",
+      "type": "organization"
+    },
+    {
+      "name": "IKEA",
+      "type": "organization"
+    },
+    {
+      "name": "Virginie Pauline",
+      "type": "person"
+    },
+    {
+      "name": "Forbes",
+      "type": "organization"
+    },
+    {
+      "name": "Electronic Communications Privacy Act",
+      "type": "work"
+    },
+    {
+      "name": "ACLU",
+      "type": "organization"
+    },
+    {
+      "name": "Connecticut",
+      "type": "place"
+    },
+    {
+      "name": "Delaware",
+      "type": "place"
+    },
+    {
+      "name": "Budapest",
+      "type": "place"
+    },
+    {
+      "name": "Norbert",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and premise",
+      "summary": "Hosts joke about paranoia and introduce the question of whether employers spy on workers, noting employees often implicitly consent through contracts and that Connecticut and Delaware require notice.",
+      "topics": [
+        "employee surveillance",
+        "employee consent contracts",
+        "Connecticut Delaware electronic monitoring notice"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Prevalence and statistics on employer monitoring",
+      "summary": "Hosts cite dated survey figures on firings for email misuse and internet misuse, and note that employers can monitor but generally focus on flagged employees. They discuss employees being fired for talking about the company or harassment.",
+      "topics": [
+        "employer monitoring statistics",
+        "employees fired for internet misuse",
+        "employee firings for email misuse",
+        "continuous systematic surveillance"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Pillsbury case and legal stance",
+      "summary": "The Pillsbury employee was fired over emails that criticized coworkers and mocked the company Christmas party; he sued but lost, as the court said company devices and networks can be monitored. Employers can legally lie about surveillance.",
+      "topics": [
+        "Pillsbury case",
+        "employee privacy court rulings",
+        "employer legal rights on company networks",
+        "employees fired for workplace emails"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Ways employers spy: overview",
+      "summary": "The hosts list the main methods: packet sniffers, log files, desktop monitoring programs, phones, and CCTV cameras, with GPS and keycard tracking as additional methods.",
+      "topics": [
+        "workplace surveillance methods",
+        "GPS employee tracking",
+        "keycard tracking"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Packet sniffers",
+      "summary": "Packet sniffers normally handle network diagnostics but can be set to promiscuous mode to capture all traffic, including websites visited and emails sent, when placed on a computer or company server.",
+      "topics": [
+        "packet sniffers",
+        "promiscuous mode",
+        "network traffic monitoring"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Desktop monitoring and log files",
+      "summary": "Desktop monitoring software can log keystrokes and intercept video output, often installed remotely by administrators. Deleted files and log files can still reveal activity and be used against employees.",
+      "topics": [
+        "desktop monitoring software",
+        "keylogging",
+        "deleted email and log files",
+        "screen capture monitoring"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Phone eavesdropping and email interception law",
+      "summary": "Employers may eavesdrop on work phone calls, using a loophole allowing monitoring of job-related talk after a brief check. Under the ECPA, phone calls in transit are protected but stored emails on servers are not, so emails can be copied legally.",
+      "topics": [
+        "workplace phone eavesdropping",
+        "Electronic Communications Privacy Act",
+        "email interception law",
+        "wiretapping loophole"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Bring your own device and personal accounts",
+      "summary": "Hosts discuss bring-your-own-device policies and how company networks allow monitoring even of personal accounts, while HTTPS does not protect activity on work networks.",
+      "topics": [
+        "bring your own device",
+        "personal email on work network",
+        "HTTPS privacy limits"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Detecting monitoring software",
+      "summary": "Forbes advice on checking Task Manager or Activity Monitor for unfamiliar processes and comparing with a coworker's computer. Companies keep whitelists of approved monitoring software.",
+      "topics": [
+        "detecting spyware on computer",
+        "task manager processes",
+        "whitelisting monitoring software"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Social media, cameras, and the IKEA France case",
+      "summary": "States have outlawed demands for social media passwords. Employees can be fired for personal blog posts. Office cameras may capture screens. IKEA France hired a private investigator to check on an employee on sick leave, using improperly obtained personal data.",
+      "topics": [
+        "social media passwords employers",
+        "IKEA France private investigator",
+        "office CCTV cameras",
+        "employees fired for personal blogs"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Norbert from Hungary",
+      "summary": "Norbert, an I.T. support worker in Hungary, asks why American callers don't greet him. The hosts offer theories about stress over malfunctioning computers and apologize on behalf of Americans. They then discuss Budapest's underground hospital museum.",
+      "topics": [
+        "listener mail",
+        "customer service cultural differences",
+        "Budapest underground hospital museum"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off and contact info",
+      "summary": "Hosts recap, point listeners to tech stuff and a site search, and give social media and email contact details.",
+      "topics": [
+        "show contact information",
+        "tech stuff podcast reference"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13479,
+    "output_tokens": 2734
+  }
+}

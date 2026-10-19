@@ -1,0 +1,267 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-10-12_SYSK_Selects_How_Black_Boxes_Work_37min.txt",
+  "title": "SYSK Selects: How Black Boxes Work",
+  "date": "2019-10-12",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-black-boxes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e9403002-a140-49ca-a74b-ae2800447c53/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e9403002-a140-49ca-a74b-ae2800447c53/transcript?format=TextWithTimestamps&t=1700543677",
+  "summary": "SYSK Selects rerun of the episode on how black boxes work. Josh introduces it as a fan request from young listener Cormack, then the hosts explain that \"black box\" covers the flight data recorder, cockpit voice recorder, and crash survivable memory unit. They cover the history (Finnish engineer V. A. Hoy's 1940s recorder, David Warren's cockpit audio recorder after a mysterious crash, Australian mandate in the 1960s), the move from magnetic tape to solid state memory, the flight data acquisition unit and sensors, why recorders sit at the tail, the three-layer crash-survivable housing, the certification tests (impact, puncture, crush, fire, deep-sea and saltwater immersion, fluid soak), underwater locator beacon pings, the Air France 447 recovery after two years, how investigators analyze the data, and black boxes in trains and cars. Also covers FAA recorder parameter rules and the stalled SAFE Act. The episode ends with a listener mail segment on kosher meat and a sign-off call for kids' sign-offs.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Black Boxes Work",
+  "topics": [
+    "black box",
+    "flight data recorder",
+    "cockpit voice recorder",
+    "crash survivable memory unit",
+    "black box testing",
+    "underwater locator beacon",
+    "Air France 447",
+    "aviation safety",
+    "NTSB investigation",
+    "solid state flight recorder",
+    "FAA regulations",
+    "SAFE Act",
+    "David Warren",
+    "plane crash investigation",
+    "flight data acquisition unit",
+    "vehicle event data recorder",
+    "kosher meat",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "Cormack",
+      "type": "person"
+    },
+    {
+      "name": "David Warren",
+      "type": "person"
+    },
+    {
+      "name": "V. A. Hoy",
+      "type": "person"
+    },
+    {
+      "name": "Air France flight 447",
+      "type": "event"
+    },
+    {
+      "name": "National Transportation Safety Board",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "type": "organization"
+    },
+    {
+      "name": "SAFE Act",
+      "type": "work"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "Denzel Washington",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening and fan request",
+      "summary": "Josh introduces the Selects episode as a request from listener Cormack and the hosts banter about the family and a day planner request.",
+      "topics": [
+        "fan request",
+        "SYSK Selects"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "What black boxes are and why they are orange",
+      "summary": "The hosts clear up the name: the boxes are bright orange with reflective tape for visibility, the name may come from charred wreckage or a joke, and the black box is really three components.",
+      "topics": [
+        "black box name origin",
+        "black box color",
+        "flight recorder components"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History of flight recorders",
+      "summary": "Early flight data recording traces to a 1940s Finnish engineer's device and the Wright brothers' propeller recorder. David Warren, an Australian, added cockpit audio after a mysterious crash, and Australia became the first country to mandate them in the 1960s.",
+      "topics": [
+        "history of black box",
+        "David Warren",
+        "cockpit audio recording",
+        "Australia mandate"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Magnetic tape to solid state recorders",
+      "summary": "Early recorders used magnetic tape that overwrote every thirty minutes. The FAA moved toward solid state digital memory, which holds more data and has no moving parts. Units cost ten to fifteen thousand dollars and are installed by manufacturers.",
+      "topics": [
+        "magnetic tape recorder",
+        "solid state memory",
+        "FAA mandate",
+        "recorder cost"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Sensors, flight data acquisition and cockpit microphones",
+      "summary": "Hundreds of sensors feed a flight data acquisition unit that logs flight parameters, while cockpit microphones and in some newer planes video cameras capture the cockpit sounds.",
+      "topics": [
+        "flight data acquisition unit",
+        "cockpit microphones",
+        "sensors",
+        "cockpit video"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Why recorders are placed at the rear of the plane",
+      "summary": "The recorders sit at the back of the aircraft because the front takes most of the impact force and the rear is more likely to survive.",
+      "topics": [
+        "recorder placement",
+        "plane crash survival",
+        "tail section"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Final cockpit words and crash recordings",
+      "summary": "The hosts discuss websites that post last words from black box recordings and some of the grim examples, and Josh mentions a flight he was travelling on.",
+      "topics": [
+        "cockpit voice recordings",
+        "last words",
+        "plane crash audio"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Flight data parameters and FAA rules",
+      "summary": "Up to about 700 data types can be recorded. FAA rules require a minimum number of parameters, with cost objections from the airline industry. The SAFE Act, which would add a rear-deployable second recorder, has stalled twice.",
+      "topics": [
+        "flight parameters",
+        "FAA parameter rules",
+        "SAFE Act",
+        "airline industry lobby"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Construction: housing layers",
+      "summary": "The crash survivable memory unit has a stainless steel or titanium outer shell, dry silica insulation against fire, and an aluminum housing around the memory cards. Its shape is a cylinder with a handle that doubles as a beacon.",
+      "topics": [
+        "black box construction",
+        "crash survivable memory unit",
+        "fire insulation",
+        "beacon handle"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Black box crash and durability testing",
+      "summary": "Tests include a high-g impact from an air cannon, a pin drop puncture test, a five-thousand-pound static crush, a two-thousand-degree propane fire, deep sea immersion, thirty days of saltwater submersion, and soaking in fluids such as jet fuel.",
+      "topics": [
+        "black box testing",
+        "impact test",
+        "fire test",
+        "deep sea immersion",
+        "saltwater submersion"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Underwater beacon pings and finding wreckage",
+      "summary": "A water-activated beacon pings for about thirty days. The Air France 447 recorders were found after two years in the Atlantic, at about twelve thousand feet, and the data was recovered.",
+      "topics": [
+        "underwater locator beacon",
+        "Air France 447",
+        "wreckage recovery",
+        "ocean search"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Data retrieval and crash investigation analysis",
+      "summary": "Recorders are transported in salt water to an investigation lab, usually run by the NTSB for US flights. Data can be read directly or pulled from memory chips, then used for simulations. Cockpit audio is analyzed by trained specialists, and wreckage may be reassembled.",
+      "topics": [
+        "data recovery",
+        "NTSB investigation",
+        "crash simulation",
+        "cockpit audio analysis",
+        "wreckage reconstruction"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Black boxes in trains and cars",
+      "summary": "Recorders are used on trains and some cars. Insurance programs track driving behavior, and some carmakers record vehicle data. The goal is to learn from tragedy and improve safety.",
+      "topics": [
+        "vehicle event data recorder",
+        "trains",
+        "car black box",
+        "insurance telematics"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:52:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: kosher meat and kid sign-offs",
+      "summary": "Josh and Chuck read a listener email correcting the salt episode on kosher meat, covering kosher animals, shechita slaughter, and salting. They also invite listeners to send recordings of kids doing the sign-off.",
+      "topics": [
+        "kosher meat",
+        "shechita",
+        "listener mail",
+        "kid sign-off"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off with contact information.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12634,
+    "output_tokens": 3091
+  }
+}

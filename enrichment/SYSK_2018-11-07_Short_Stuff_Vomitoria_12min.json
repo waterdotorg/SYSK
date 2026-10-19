@@ -1,0 +1,156 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-11-07_Short_Stuff_Vomitoria_12min.txt",
+  "title": "Short Stuff: Vomitoria",
+  "date": "2018-11-07",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-vomitoria",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d55eeb43-909a-4110-9eef-ae28005940c4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d55eeb43-909a-4110-9eef-ae28005940c4/transcript?format=TextWithTimestamps&t=1700543720",
+  "summary": "Short Stuff episode debunking the myth that ancient Romans routinely binged and purged in designated vomitoria. The hosts explain that a vomitorium was really an architectural passageway in the Colosseum (Macrobius used the term in the fourth century CE) for moving crowds in and out of seats. The myth traces to Aldous Huxley's comic novel Antic Hay (1923), and Lewis Mumford repeated it in The City in History. The hosts then discuss real modern vomitoriums in Ho Chi Minh City, Vietnam, and a beer hall in Munich, Germany, and the unsourced \"puke pants\" claim from a HowStuffWorks article. The episode closes with a Trainspotting tangent and the sign-off.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "vomitorium",
+    "vomitoria",
+    "ancient Rome",
+    "Colosseum",
+    "binge and purge myth",
+    "Aldous Huxley",
+    "Antic Hay",
+    "Lewis Mumford",
+    "Macrobius",
+    "Ho Chi Minh City vomitoriums",
+    "Munich beer hall vomitorium",
+    "puke pants",
+    "stadium design",
+    "food myths",
+    "Trainspotting"
+  ],
+  "entities": [
+    {
+      "name": "Aldous Huxley",
+      "type": "person"
+    },
+    {
+      "name": "Lewis Mumford",
+      "type": "person"
+    },
+    {
+      "name": "Macrobius",
+      "type": "person"
+    },
+    {
+      "name": "Antic Hay",
+      "type": "work"
+    },
+    {
+      "name": "The City in History",
+      "type": "work"
+    },
+    {
+      "name": "Colosseum",
+      "type": "place"
+    },
+    {
+      "name": "ancient Rome",
+      "type": "place"
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "type": "place"
+    },
+    {
+      "name": "Hofbräuhaus",
+      "type": "place"
+    },
+    {
+      "name": "Munich",
+      "type": "place"
+    },
+    {
+      "name": "Trainspotting",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and the peanut butter myth",
+      "summary": "The hosts open with banter and introduce the claim that ancient Romans ate huge amounts and vomited in a designated public area to keep eating. Josh says it is not true and admits he had repeated the myth on the show before.",
+      "topics": [
+        "vomitorium myth",
+        "binge and purge myth",
+        "ancient Rome food myths"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "What a vomitorium really was",
+      "summary": "Macrobius used the term in the fourth century CE for passageways into and out of amphitheaters like the Colosseum. The hosts describe the Colosseum's 76 entrances, which let about 50,000 people reach their seats in roughly 15 minutes.",
+      "topics": [
+        "vomitorium meaning",
+        "Macrobius",
+        "Colosseum design",
+        "ancient Roman crowd movement",
+        "stadium architecture"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Aldous Huxley and Lewis Mumford spread the myth",
+      "summary": "Aldous Huxley's 1923 novel Antic Hay mentions a goth entering a vomitorium, which appears to be the first use of the term for vomiting. Lewis Mumford later cited it as fact in The City in History.",
+      "topics": [
+        "Aldous Huxley",
+        "Antic Hay",
+        "Lewis Mumford",
+        "origin of the myth"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Real vomitoriums in Vietnam and Germany",
+      "summary": "Real vomitoriums exist in Ho Chi Minh City, where some have Roman imagery. A beer hall in Munich, the Hofbräuhaus, has one. The hosts question a HowStuffWorks claim that German frat houses call them puke pants, which they could not verify.",
+      "topics": [
+        "Ho Chi Minh City vomitorium",
+        "Munich beer hall",
+        "puke pants",
+        "public vomiting places"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:45",
+      "kind": "content",
+      "title": "Trainspotting tangent",
+      "summary": "The hosts joke about bathroom vomit and discuss the Trainspotting toilet scene before moving on.",
+      "topics": [
+        "Trainspotting",
+        "bathroom humor"
+      ]
+    },
+    {
+      "start": "00:11:45",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off and contact info",
+      "summary": "The hosts tell listeners how to get in touch through the website and the email address.",
+      "topics": [
+        "listener contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5087,
+    "output_tokens": 1665
+  }
+}

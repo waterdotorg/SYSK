@@ -1,0 +1,343 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-03-20_Composting_Natures_Most_Interesting_Process_51min.txt",
+  "title": "Composting: Nature's Most Interesting Process",
+  "date": "2026-03-20",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/composting-natures-most-interesting-process-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b7db4774-da9c-4caa-9b35-b41300d5e47b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b7db4774-da9c-4caa-9b35-b41300d5e47b/transcript?format=TextWithTimestamps&t=1774019311",
+  "summary": "Josh and Chuck (with guest producer Nola) present a playlist-style episode on composting, framed as part of a spring playlist. They cover why food waste in landfills is a problem (anaerobic decomposition produces methane, which is far more potent than carbon dioxide), and how composting avoids that while producing fertilizer. Topics include choosing a site (away from the house, downwind, under a deciduous tree, good drainage, check local rules), single-bin versus three-bin systems and tumbler bins, and what to compost (kitchen scraps, coffee grounds, paper, yard waste, chopped material, seaweed rinsed of salt) versus what to avoid (meat and dairy, diseased plants, invasive weeds like quack grass, buttercup and morning glory, pesticide-treated plants, and wood ash in quantity). They explain the carbon-to-nitrogen ratio of about 30:1, oxygen levels and turning or aerating, moisture, and the decomposition stages (mesophilic, thermophilic, curing), the role of microbes, fungi, worms, and other organisms in the food web, and how to tell when compost is finished. The episode closes with listener mail about child life specialists.",
+  "episode_kind": "rerun",
+  "rerun_of": "Composting: Nature's Most Interesting Process",
+  "topics": [
+    "composting",
+    "home composting",
+    "compost pile",
+    "methane from landfills",
+    "anaerobic decomposition",
+    "food waste",
+    "compost bin",
+    "three-bin compost system",
+    "carbon to nitrogen ratio",
+    "compost microbes",
+    "thermophilic phase",
+    "mesophilic phase",
+    "humus",
+    "decomposition food web",
+    "what not to compost",
+    "curbside composting",
+    "Seattle composting mandate",
+    "earthworms in compost",
+    "compost curing",
+    "wood ash in compost",
+    "child life specialists",
+    "listener mail",
+    "pain scales"
+  ],
+  "entities": [
+    {
+      "name": "Seattle",
+      "type": "place"
+    },
+    {
+      "name": "Cornell",
+      "type": "organization"
+    },
+    {
+      "name": "Charles C. Mann",
+      "type": "person"
+    },
+    {
+      "name": "1491",
+      "type": "work"
+    },
+    {
+      "name": "Amazon basin",
+      "type": "place"
+    },
+    {
+      "name": "Gardens Alive",
+      "type": "organization"
+    },
+    {
+      "name": "Chris the anal retentive chef",
+      "type": "person"
+    },
+    {
+      "name": "Childlife specialist",
+      "type": "other"
+    },
+    {
+      "name": "Shroud of Turin",
+      "type": "work"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:32",
+      "kind": "intro",
+      "title": "Playlist intro",
+      "summary": "Chuck introduces the spring playlist episode on composting.",
+      "topics": [
+        "composting",
+        "playlist"
+      ]
+    },
+    {
+      "start": "00:00:32",
+      "end": "00:07:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts and guest producer Nola chat about a Simpsons joke, Seattle, and food waste statistics, leading into the composting topic.",
+      "topics": [
+        "food waste",
+        "Seattle",
+        "Simpsons joke"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Food waste and methane in landfills",
+      "summary": "Forty percent of landfilled trash is food waste. In anaerobic landfills, decomposition makes methane, which is about seventy percent more potent than carbon dioxide. Composting mostly yields carbon dioxide and fertilizer. Recycling rates and Seattle's composting mandate are mentioned.",
+      "topics": [
+        "food waste",
+        "methane from landfills",
+        "greenhouse gases",
+        "Seattle composting mandate",
+        "landfill diversion"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:09:40",
+      "kind": "content",
+      "title": "Basic composting ingredients",
+      "summary": "Composting needs organic material, soil as a microbe starter, water kept moist, and oxygen. Turning or hosing the pile adds oxygen and prevents anaerobic methane production.",
+      "topics": [
+        "compost basics",
+        "soil microbes",
+        "aerobic composting",
+        "moisture in compost"
+      ]
+    },
+    {
+      "start": "00:09:40",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Humus and passive versus active piles",
+      "summary": "Finished compost is called humus. Passive piles can be left alone but produce methane; occasional turning makes them slightly active.",
+      "topics": [
+        "humus",
+        "passive compost pile",
+        "active compost management"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Choosing a composting site",
+      "summary": "Pick a spot away from the house but close enough to tend, downwind, under a deciduous tree for shade in summer and sun in winter, with good drainage and dirt rather than concrete. Check local HOA or municipal rules.",
+      "topics": [
+        "compost site selection",
+        "deciduous tree",
+        "drainage",
+        "HOA rules"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Compost bin structures",
+      "summary": "Options include store-bought or homemade bins. Single-bin systems add new material on top and finished compost collects at the bottom. Three-bin systems separate starter, intermediate, and finished material. A tumbler bin with a crank avoids a pitchfork. Hosts discuss their own backyard plans.",
+      "topics": [
+        "compost bin",
+        "single bin system",
+        "three bin system",
+        "tumbler compost bin",
+        "DIY compost structure"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Bingo tangent and ad break",
+      "summary": "Hosts digress on bingo at retirement homes before a break.",
+      "topics": [
+        "bingo"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "What to compost",
+      "summary": "Kitchen scraps such as banana peels, apple cores, orange rinds, coffee grounds and filters, napkins, newspaper, corn cobs, and asparagus ends are suitable. Yard waste like leaves and trimmings works. Chop materials into small pieces to increase surface area.",
+      "topics": [
+        "compostable materials",
+        "kitchen scraps",
+        "yard waste",
+        "chopping compost material"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:10",
+      "kind": "content",
+      "title": "Seaweed, sawdust and cooked-food caveats",
+      "summary": "Rinsed seaweed and kelp are nutrient rich. Sawdust can be added. Night soil and human waste should not be composted.",
+      "topics": [
+        "seaweed compost",
+        "sawdust compost",
+        "night soil",
+        "human waste"
+      ]
+    },
+    {
+      "start": "00:26:10",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "What not to compost",
+      "summary": "Avoid diseased plants and invasive weeds such as buttercup, morning glory, and quack grass. Meat and dairy are controversial; hosts lean against composting them because fats putrefy and can carry pathogens. Pesticide-treated plants should be kept out. Charcoal ashes are debated, with a note that wood ash is strongly alkaline and should be used only in small amounts.",
+      "topics": [
+        "what not to compost",
+        "invasive weeds",
+        "quack grass",
+        "meat and dairy in compost",
+        "wood ash",
+        "pesticides in compost",
+        "charcoal ashes"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:32:20",
+      "kind": "content",
+      "title": "Compost chemistry and pH",
+      "summary": "Compost is a chemistry and biology experiment. The hosts introduce the importance of pH and alkalinity.",
+      "topics": [
+        "compost chemistry",
+        "pH",
+        "alkalinity"
+      ]
+    },
+    {
+      "start": "00:32:20",
+      "end": "00:35:05",
+      "kind": "content",
+      "title": "Carbon to nitrogen ratio and rhyme",
+      "summary": "The ideal carbon to nitrogen ratio is about 30 to 1. Green, moist material is high in nitrogen; brown, dry material is high in carbon. Grass clippings are too high in nitrogen and can produce ammonia. Too much carbon breaks down slowly. The hosts riff on a rhyme for green and brown.",
+      "topics": [
+        "carbon to nitrogen ratio",
+        "green and brown materials",
+        "grass clippings",
+        "ammonia in compost"
+      ]
+    },
+    {
+      "start": "00:35:05",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Oxygen and turning the pile",
+      "summary": "Aerobic microbes need oxygen, down to about five percent, ideally around ten percent. Turn the pile every day or two with a pitchfork or crank. Perforated PVC pipes can help aerate. Keep it damp, not soaking wet.",
+      "topics": [
+        "oxygen in compost",
+        "aeration",
+        "turning compost",
+        "PVC pipes",
+        "moisture"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:20",
+      "kind": "content",
+      "title": "Worms and the compost food web",
+      "summary": "Earthworms and nematodes aerate and eat organic waste. Bacteria break down food waste using oxygen and produce carbon dioxide. Fungi, nematodes, mites, slugs, and millipedes are primary consumers; predators form secondary and tertiary levels in a food web.",
+      "topics": [
+        "earthworms",
+        "compost food web",
+        "bacteria in compost",
+        "primary consumers",
+        "predators in compost"
+      ]
+    },
+    {
+      "start": "00:40:20",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Compost temperature phases",
+      "summary": "A compost pile heats up in stages: mesophilic (about 40 degrees Celsius), then thermophilic (50 to 60 Celsius), which kills pathogens and weed seeds. Then a curing phase with actinomycetes returns mesophiles. Keep temperatures below about 65 Celsius to avoid killing microbes.",
+      "topics": [
+        "mesophilic phase",
+        "thermophilic phase",
+        "curing phase",
+        "actinomycetes",
+        "pathogen kill-off",
+        "compost temperature"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Knowing when compost is finished",
+      "summary": "Finished compost is cooler than about 100 Fahrenheit, roughly 50 to 75 percent decomposed, dark, crumbly, and earthy smelling. Finished humus is spread on gardens and trees to improve soil. Curbside composting programs are growing.",
+      "topics": [
+        "finished compost",
+        "compost maturity",
+        "soil improvement",
+        "curbside composting"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Where to learn more",
+      "summary": "Hosts point listeners to the HowStuffWorks search and a Cornell composting site.",
+      "topics": [
+        "compost resources",
+        "Cornell composting"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:50:40",
+      "kind": "listener_mail",
+      "title": "Child life specialists listener mail",
+      "summary": "Listeners write in about child life specialists, who help hospitalized children cope. Hosts had mentioned the profession in a pain scales episode. The listener explains the education and certification requirements.",
+      "topics": [
+        "child life specialists",
+        "listener mail",
+        "pain scales",
+        "hospitalized children"
+      ]
+    },
+    {
+      "start": "00:50:40",
+      "end": "00:51:20",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts ask listeners to get in touch via social media and email and mention the website.",
+      "topics": [
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20806,
+    "output_tokens": 3961
+  }
+}

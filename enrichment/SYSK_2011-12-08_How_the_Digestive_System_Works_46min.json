@@ -1,0 +1,265 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-12-08_How_the_Digestive_System_Works_46min.txt",
+  "title": "How the Digestive System Works",
+  "date": "2011-12-08",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-digestive-system-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/003d847a-78ba-4a81-96bc-ae2800ab80e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/003d847a-78ba-4a81-96bc-ae2800ab80e7/transcript?format=TextWithTimestamps&t=1700543930",
+  "summary": "Josh and Chuck open with a bathroom-stall anecdote, then walk through how the digestive system works by following a ham sandwich from mouth to anus: saliva and amylase, swallowing and the epiglottis, peristalsis and the esophageal sphincters, stomach acid and mucus, chyme and the duodenum, jejunum and ileum absorption via villi and microvilli, the large intestine and gut bacteria, and the liver, gallbladder, and pancreas. They cover hormones (gastrin, CCK, PYY, ghrelin), nerves, how carbs, proteins, and vitamins are processed, and common problems: heartburn/GERD, ulcers and H. pylori, lactose intolerance, IBD and IBS, constipation, diarrhea, and gas. The episode ends with Kiva listener mail and a call for listeners to join the Stuff You Should Know Kiva team.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "digestive system",
+    "digestion",
+    "how digestion works",
+    "peristalsis",
+    "esophagus",
+    "epiglottis",
+    "stomach acid",
+    "small intestine",
+    "large intestine",
+    "villi and microvilli",
+    "nutrient absorption",
+    "liver and bile",
+    "pancreas enzymes",
+    "gut bacteria",
+    "hormones of digestion",
+    "gastrin",
+    "CCK",
+    "PYY",
+    "heartburn and GERD",
+    "peptic ulcers",
+    "H. pylori",
+    "lactose intolerance",
+    "IBD Crohn's disease colitis",
+    "IBS irritable bowel syndrome",
+    "constipation",
+    "diarrhea",
+    "flatulence and gas",
+    "burping",
+    "vomiting",
+    "Bristol stool scale",
+    "fecal transplant",
+    "Kiva microloans"
+  ],
+  "entities": [
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Barry Marshall",
+      "type": "person"
+    },
+    {
+      "name": "Helicobacter pylori",
+      "type": "other"
+    },
+    {
+      "name": "Bristol stool scale",
+      "type": "work"
+    },
+    {
+      "name": "Melissa Jeffreys",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Bathroom stall etiquette and episode intro",
+      "summary": "Josh and Chuck open with banter about people sitting in the stall next to an occupied stall, then introduce the digestive system topic and a HowStuffWorks article.",
+      "topics": [
+        "bathroom etiquette",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Digestive system overview and ham sandwich journey begins",
+      "summary": "The hosts note the digestive tract is about thirty feet long and the small intestine's surface area is the size of a tennis court. They begin following a ham sandwich, from smelling it to salivation and amylase in saliva.",
+      "topics": [
+        "digestive system length",
+        "small intestine surface area",
+        "saliva",
+        "amylase",
+        "salivation"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Swallowing, epiglottis, and the esophagus",
+      "summary": "Chewed food becomes bolus. The epiglottis guides food into the esophagus rather than the trachea. Peristalsis moves food down through the esophagus, past the upper and lower esophageal sphincters into the stomach. Heartburn and GERD are linked to a lazy lower esophageal sphincter.",
+      "topics": [
+        "epiglottis",
+        "bolus",
+        "esophagus",
+        "peristalsis",
+        "esophageal sphincter",
+        "GERD",
+        "heartburn"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Stomach, mucus, and stomach growling",
+      "summary": "The stomach produces enzymes and acid and protective mucus; without mucus, acid can cause ulcers. Stomach growling is digestive contraction, triggered by hunger signals from the brain.",
+      "topics": [
+        "stomach acid",
+        "stomach mucus",
+        "stomach growling",
+        "chyme",
+        "ulcers"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Chyme, emptying the stomach, and the duodenum",
+      "summary": "Liquefied food, called chyme, leaves the stomach in about twenty minutes, while more solid material takes about an hour. The small intestine is divided into the duodenum, jejunum, and ileum, with the duodenum receiving enzymes from the pancreas and liver.",
+      "topics": [
+        "chyme",
+        "duodenum",
+        "jejunum",
+        "ileum",
+        "small intestine"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Nutrient absorption through villi and microvilli",
+      "summary": "The hosts describe how the small intestine's folds, villi, and microvilli absorb specific nutrients into the bloodstream, after enzymes from the liver and pancreas break food down.",
+      "topics": [
+        "villi",
+        "microvilli",
+        "nutrient absorption",
+        "enzymes"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Large intestine, water absorption, and gut bacteria",
+      "summary": "The large intestine absorbs fluid and salts and prepares solid waste. Gut bacteria ferment fiber. Fecal transplants are mentioned as a treatment for those who lose healthy bacteria. Waste moves about a centimeter per hour.",
+      "topics": [
+        "large intestine",
+        "colon",
+        "gut bacteria",
+        "fiber fermentation",
+        "fecal transplant",
+        "colon transit"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Liver, gallbladder, pancreas, and hormones",
+      "summary": "The liver makes bile, stored in the gallbladder, and the pancreas makes enzymes. The hosts describe hormones gastrin, CCK, and the hunger and fullness hormones ghrelin and PYY, and the roles of nerves, including the vagus-related acetylcholine and adrenaline effects.",
+      "topics": [
+        "liver",
+        "bile",
+        "gallbladder",
+        "pancreas",
+        "hormones",
+        "gastrin",
+        "CCK",
+        "PYY",
+        "ghrelin",
+        "enteric nerves"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Carbs, protein, and vitamins",
+      "summary": "Carbohydrates break down into glucose for energy, proteins into amino acids, and vitamins are water soluble (B and C) or fat soluble (A, D, K), with fat-soluble vitamins stored in fat cells.",
+      "topics": [
+        "carbohydrates",
+        "glucose",
+        "protein",
+        "amino acids",
+        "vitamins",
+        "fat soluble vitamins",
+        "water soluble vitamins"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Burping, vomiting, ulcers, H. pylori, and lactose intolerance",
+      "summary": "Normal burping is three or four times after a meal. Vomiting is discussed. Peptic ulcers are linked to H. pylori bacteria, and Barry Marshall drank a culture to prove it. The hosts discuss lactose intolerance and their earlier casein mistake.",
+      "topics": [
+        "burping",
+        "vomiting",
+        "peptic ulcers",
+        "H. pylori",
+        "Barry Marshall",
+        "lactose intolerance",
+        "casein"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "IBD, IBS, and Crohn's disease",
+      "summary": "Inflammatory bowel disease includes colitis and Crohn's disease and is structural. IBS is functional, with cramps and gas, and responds to stress, hormonal changes, and antibiotics. A proposed law about bathroom access for Crohn's patients is mentioned.",
+      "topics": [
+        "IBD",
+        "Crohn's disease",
+        "colitis",
+        "IBS",
+        "bathroom access legislation"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Gas, constipation, diarrhea, and the Bristol stool scale",
+      "summary": "Gas is mostly methane, hydrogen, and carbon dioxide, with normal gas release ten to twenty-five times a day. Constipation and diarrhea are described, and the Bristol stool scale is mentioned as a stool-type chart.",
+      "topics": [
+        "flatulence",
+        "gas",
+        "constipation",
+        "diarrhea",
+        "Bristol stool scale"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Kiva listener mail and team call",
+      "summary": "The hosts discuss Kiva microloans, the Stuff You Should Know Kiva team's loan total of over $750,000, and a goal of one million dollars. They invite listeners to join the team and provide contact information.",
+      "topics": [
+        "Kiva",
+        "microloans",
+        "listener mail",
+        "Stuff You Should Know Kiva team"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14705,
+    "output_tokens": 3149
+  }
+}

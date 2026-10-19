@@ -1,0 +1,237 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-06-11_Whats_the_gig_economy_43min.txt",
+  "title": "What's the gig economy?",
+  "date": "2019-06-11",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-gig-economy",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/94d179ac-08c8-4b90-9c25-ae28004b735d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/94d179ac-08c8-4b90-9c25-ae28004b735d/transcript?format=TextWithTimestamps&t=1700543692",
+  "summary": "Josh and Chuck (with guest producer Dylan) explain the gig economy: its history as independent contractor work, the rise of tech platforms like Uber, Lyft, TaskRabbit and Airbnb that connect workers with consumers in real time, and the labor, tax, and benefits problems that follow from classifying workers as independent contractors. They cover statistics on gig work growth and worker finances, proposals such as portable benefits and dependent contractor status, New York City's minimum pay law for ride-hailing drivers, California's ABC test (the Dynamex decision), the Uber driver lawsuit and arbitration clauses, and examples of gig platforms like Hello Alfred and My Clean. The episode ends with a Kiva update and listener mail about the Tin Pan Alley episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "gig economy",
+    "gig work",
+    "independent contractors",
+    "misclassification",
+    "ride-hailing apps",
+    "Uber",
+    "Lyft",
+    "TaskRabbit",
+    "portable benefits",
+    "dependent contractor",
+    "New York minimum wage for ride-hailing drivers",
+    "California AB5 dynamics test",
+    "Uber driver lawsuit",
+    "arbitration clause",
+    "platform economy",
+    "side hustle",
+    "taxi medallions",
+    "Hello Alfred",
+    "My Clean",
+    "Kiva",
+    "Tin Pan Alley listener mail"
+  ],
+  "entities": [
+    {
+      "name": "gig economy",
+      "type": "other"
+    },
+    {
+      "name": "Uber",
+      "type": "organization"
+    },
+    {
+      "name": "Lyft",
+      "type": "organization"
+    },
+    {
+      "name": "TaskRabbit",
+      "type": "organization"
+    },
+    {
+      "name": "Airbnb",
+      "type": "organization"
+    },
+    {
+      "name": "Upwork",
+      "type": "organization"
+    },
+    {
+      "name": "Fiverr",
+      "type": "organization"
+    },
+    {
+      "name": "Hello Alfred",
+      "type": "organization"
+    },
+    {
+      "name": "My Clean",
+      "type": "organization"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Reserve",
+      "type": "organization"
+    },
+    {
+      "name": "New York City",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Tin Pan Alley",
+      "type": "place"
+    },
+    {
+      "name": "Fast Company",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Minneapolis tour plug and opening banter",
+      "summary": "Josh promotes his solo show dates in Minneapolis and Washington, D.C., then introduces the topic: the hosts say the country is living in a gig economy, partly blamed on the recession.",
+      "topics": [
+        "Josh Clark solo show",
+        "gig economy introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "History of gig work and the modern gig economy",
+      "summary": "The hosts note that independent contractor work predates the Industrial Revolution, contrast it with the mid-century company job model, and describe how gig work now means tech platforms connecting workers to consumers. They discuss the 2005 and later statistics on gig workers and the three parts of the platform model.",
+      "topics": [
+        "history of independent contractors",
+        "gig work history",
+        "platform economy",
+        "real-time demand matching"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Highest paying gig jobs and gig worker pay",
+      "summary": "The hosts discuss a list of the highest-paying gig rates, including deep learning, blockchain, robotics, and penetration testing, and note that average driver earnings are about twelve dollars an hour after expenses.",
+      "topics": [
+        "highest paying gig jobs",
+        "penetration testing",
+        "gig worker pay",
+        "rideshare driver earnings"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Taxes, licensing, and government catching up",
+      "summary": "The hosts explain that gig workers still owe taxes, self-employment tax, and sometimes business licenses, and that many local, state, and federal governments have been slow to adapt, with counties starting to get involved.",
+      "topics": [
+        "gig worker taxes",
+        "self-employment tax",
+        "business license",
+        "government regulation of gig economy"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Labor laws, benefits, and portable benefits proposal",
+      "summary": "The hosts argue that platform profits rely on avoiding labor laws such as overtime, unpaid vacation, and health insurance, shifting costs to local governments. They describe portable benefits and the idea of dependent contractor status as proposed solutions.",
+      "topics": [
+        "labor law avoidance",
+        "health insurance for gig workers",
+        "portable benefits",
+        "dependent contractor",
+        "lobbying for federal law"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Gig worker hardship and statistics",
+      "summary": "The hosts discuss gig workers relying on public assistance, a Federal Reserve survey finding that 58 percent of full-time gig workers would struggle with a $400 emergency bill, and projections for growth in gig employment. They note that side hustles are not a new concept.",
+      "topics": [
+        "gig worker poverty",
+        "Federal Reserve survey",
+        "side hustle",
+        "gig employment growth projections",
+        "public assistance"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Personal anecdotes about errand and task apps",
+      "summary": "The hosts share anecdotes about grocery shopping apps, a celebrity's delivery experience, and using TaskRabbit for heavy lifting. They also mention Fiverr-style five-dollar task marketplaces.",
+      "topics": [
+        "grocery delivery apps",
+        "TaskRabbit",
+        "Fiverr",
+        "task marketplaces"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Uber and Lyft strikes, lawsuit, and arbitration",
+      "summary": "The hosts describe a strike by thousands of Uber and Lyft drivers, Uber's stock drop, and a lawsuit that settled for about twenty million dollars shared among roughly 13,600 drivers, while other drivers who signed arbitration clauses received nothing.",
+      "topics": [
+        "Uber strike",
+        "Uber driver lawsuit",
+        "arbitration clause",
+        "driver settlement",
+        "Uber stock drop"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "New York minimum pay, California dynamics test, and gig economy trade-offs",
+      "summary": "The hosts describe New York City's first minimum pay law for ride-hailing drivers, roughly 17.22 dollars an hour after expenses, and California's ABC-style test from the Dynamex decision and legislation. They also discuss the benefits and downsides of gig work, taxi medallion suicides, and businesses like Hello Alfred and My Clean.",
+      "topics": [
+        "New York minimum wage for ride-hailing drivers",
+        "California dynamics test",
+        "taxi medallions",
+        "Hello Alfred",
+        "My Clean",
+        "gig work benefits and drawbacks"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:45:00",
+      "kind": "outro",
+      "title": "Kiva update and listener mail",
+      "summary": "Chuck and Josh celebrate the show's Kiva team nearing six million dollars in total loans, then read listener mail praising the Tin Pan Alley episode, and sign off.",
+      "topics": [
+        "Kiva",
+        "listener mail",
+        "Tin Pan Alley"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13616,
+    "output_tokens": 2675
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-09-07_Short_Stuff_RIP_Man_of_the_Hole_12min.txt",
+  "title": "Short Stuff: RIP Man of the Hole",
+  "date": "2022-09-07",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-rip-man-of-the-hole",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ba4d13d8-735d-4c2b-8a9c-af0400eb6b0c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ba4d13d8-735d-4c2b-8a9c-af0400eb6b0c/transcript?format=TextWithTimestamps&t=1700557176",
+  "summary": "Short Stuff recap honoring the Man of the Hole, an uncontacted indigenous man who lived alone for about 26 years in the Tanaru indigenous land in the Brazilian Amazon and who died in August (no signs of struggle, believed natural causes). Covers how FUNAI discovered and tracked him, the holes he dug, his hut and farming, the 2011 footage released in 2018, the decision not to contact him after a visit left him terrified, the likely killing of his tribe by invaders and ranchers, and concerns about Brazil's protections for uncontacted tribes under President Bolsonaro.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Man of the Hole",
+    "uncontacted tribes",
+    "Amazon rainforest",
+    "Tanaru indigenous land",
+    "FUNAI",
+    "Brazil indigenous protection",
+    "isolated indigenous people",
+    "Survival International",
+    "Bolsonaro indigenous policy",
+    "deforestation Amazon",
+    "indigenous genocide",
+    "first contact ethics",
+    "death of uncontacted man",
+    "McCaw feathers hammock death"
+  ],
+  "entities": [
+    {
+      "name": "Man of the Hole",
+      "type": "person"
+    },
+    {
+      "name": "FUNAI",
+      "type": "organization"
+    },
+    {
+      "name": "Survival International",
+      "type": "organization"
+    },
+    {
+      "name": "Tanaru indigenous land",
+      "type": "place"
+    },
+    {
+      "name": "Amazon rainforest",
+      "type": "place"
+    },
+    {
+      "name": "Brazil",
+      "type": "place"
+    },
+    {
+      "name": "Jair Bolsonaro",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Intro and overview of the Man of the Hole",
+      "summary": "Josh introduces the episode as a recap and tribute to the Man of the Hole, who lived alone for 26 years on Tanaru indigenous land and recently died. He notes the man was discovered by FUNAI, dug holes, and that his name was never known.",
+      "topics": [
+        "Man of the Hole",
+        "death of uncontacted man",
+        "Tanaru indigenous land"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Death, feathers, and the 2018 video",
+      "summary": "The hosts describe his death in his hammock, reportedly covered in macaw feathers, with no sign of struggle and likely natural causes, and a planned forensic examination. They recall the July 2018 Survival International video, filmed in 2011, showing him chopping a tree.",
+      "topics": [
+        "McCaw feathers hammock death",
+        "Survival International",
+        "forensic examination",
+        "2018 video of Man of the Hole"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Life alone: huts, farming, hunting",
+      "summary": "Footage and abandoned campsites revealed clues about his life, including 53 thatch huts built over 26 years. He farmed corn, manioc, papaya, and bananas, hunted with a bow and arrow, and used holes with stakes to catch wild boar.",
+      "topics": [
+        "Man of the Hole lifestyle",
+        "uncontacted tribe farming",
+        "hunting with bow and arrow",
+        "pit traps"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Ethics of contact and protection law",
+      "summary": "After FUNAI visited him with gifts and he reacted with terror and aggression, they decided not to contact him again and only track him from a distance to protect him from disease. Brazil requires sightings to protect uncontacted tribes, and the hosts discuss the moral questions of observing them.",
+      "topics": [
+        "first contact ethics",
+        "uncontacted tribes protection",
+        "FUNAI tracking",
+        "disease risk to isolated peoples"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Violence against his people and current threats",
+      "summary": "Local accounts suggest his tribe was poisoned with sugar in the 1970s by ranching interests, and most of the survivors were later killed; he was alone after six others were shot in the early 2000s. The hosts describe threats from drug dealers, poachers, and Bolsonaro-era rollbacks of Indigenous land protections.",
+      "topics": [
+        "indigenous genocide",
+        "Bolsonaro indigenous policy",
+        "deforestation Amazon",
+        "poisoned sugar ranchers"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:10",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts pay tribute to the Man of the Hole, note the preserve's protection may lapse without action, and close the short episode.",
+      "topics": [
+        "Man of the Hole",
+        "land protection"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4994,
+    "output_tokens": 1705
+  }
+}

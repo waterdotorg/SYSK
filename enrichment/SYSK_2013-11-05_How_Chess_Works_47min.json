@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-11-05_How_Chess_Works_47min.txt",
+  "title": "How Chess Works",
+  "date": "2013-11-05",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-chess-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bb0a066f-6b17-4dbc-943c-ae28009cb9cf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bb0a066f-6b17-4dbc-943c-ae28009cb9cf/transcript?format=TextWithTimestamps&t=1700543892",
+  "summary": "Josh and Chuck explain how chess works: its origins in the Indian game chaturanga (around 300 AD), spread along the Silk Road to Persia, the Arab world, and Europe, and variants such as xiangqi (Chinese) and shogi (Japanese). They cover the board layout (ranks, files, center squares), setup, the value and movement of each piece, the king and checkmate, pawn promotion, castling, en passant, the chess clock, basic strategy tips, and the Deep Blue vs. Garry Kasparov match. The episode ends with listener mail about Maori pronunciation and Kiwi listeners.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "chess",
+    "how to play chess",
+    "chess rules",
+    "chess history",
+    "chaturanga",
+    "origins of chess",
+    "chess pieces",
+    "checkmate",
+    "castling",
+    "en passant",
+    "pawn promotion",
+    "stalemate",
+    "chess clock",
+    "chess strategy",
+    "xiangqi",
+    "shogi",
+    "Deep Blue",
+    "Kasparov",
+    "Silk Road",
+    "Maori pronunciation"
+  ],
+  "entities": [
+    {
+      "name": "Chess",
+      "type": "work"
+    },
+    {
+      "name": "Chaturanga",
+      "type": "event"
+    },
+    {
+      "name": "Kataranga",
+      "type": "work"
+    },
+    {
+      "name": "Irving Finkel",
+      "type": "person"
+    },
+    {
+      "name": "British Museum",
+      "type": "organization"
+    },
+    {
+      "name": "Xiangqi",
+      "type": "work"
+    },
+    {
+      "name": "Shogi",
+      "type": "work"
+    },
+    {
+      "name": "Deep Blue",
+      "type": "other"
+    },
+    {
+      "name": "Garry Kasparov",
+      "type": "person"
+    },
+    {
+      "name": "Silk Road",
+      "type": "place"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "Persia",
+      "type": "place"
+    },
+    {
+      "name": "Jacques of London",
+      "type": "person"
+    },
+    {
+      "name": "Washington Square Park",
+      "type": "place"
+    },
+    {
+      "name": "Maori language",
+      "type": "other"
+    },
+    {
+      "name": "Peter Jackson",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and chess beginnings",
+      "summary": "The hosts joke around, including a tangent about Murray Head and the musical Chess, then discuss their own experience learning chess as kids and why chess is an equalizer across ages and backgrounds.",
+      "topics": [
+        "chess",
+        "Murray Head",
+        "chess as equalizer"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Origins of chess in India and spread",
+      "summary": "Chess traces to the Indian game chaturanga (kataranga) around 300 AD, a four-player game on a 64-square board. Irving Finkel of the British Museum is mentioned as a game historian. The game spread via Persia and the Silk Road to Arabia, the Moors, Spain, and Europe.",
+      "topics": [
+        "chess history",
+        "chaturanga",
+        "origins of chess",
+        "Silk Road",
+        "Irving Finkel"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Chess variants around the world",
+      "summary": "Regional versions include Chinese xiangqi (sankai, with a river moat on a nine-by-ten grid), Japanese shogi (nine-by-nine board with same-colored pieces), and German and Byzantine variants. The hosts note the queen became the most powerful piece in the fifteenth and sixteenth centuries.",
+      "topics": [
+        "xiangqi",
+        "shogi",
+        "chess variants",
+        "queen power history"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Chess piece design and famous matches",
+      "summary": "Historic piece differences, the mid-nineteenth-century Jacques of London design with pedestal symbols, and the Deep Blue victory over Garry Kasparov.",
+      "topics": [
+        "Jacques of London",
+        "chess piece design",
+        "Deep Blue",
+        "Kasparov"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Basic goal and checkmate",
+      "summary": "The goal is to checkmate the opponent's king. The king is never actually captured; the game ends when checkmate is inevitable. Check and stalemate are explained, and the board's half-white, half-black layout is introduced.",
+      "topics": [
+        "checkmate",
+        "check",
+        "king in chess",
+        "game objective"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A message break occurs at this point in the episode.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Board layout and setup",
+      "summary": "The board has 64 alternating squares, ranks numbered one to eight and files lettered A to H. The center squares E4, E5, D4, and D5 matter most. Setup rules include a white square on the right, rooks in the corners, the queen on her own color, and the king on the remaining square.",
+      "topics": [
+        "chess board",
+        "ranks and files",
+        "chess setup",
+        "center control"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Piece values and movement",
+      "summary": "Each piece has a point value: pawn 1, knight 3, bishop 3, rook 5, queen 9. Rooks move straight, bishops diagonally, queens in any direction, knights in an L-shape that can jump, kings one square in any direction, and pawns forward only, capturing diagonally, with a two-square first move.",
+      "topics": [
+        "chess pieces",
+        "piece movement",
+        "piece value",
+        "rook",
+        "knight",
+        "bishop",
+        "queen",
+        "king",
+        "pawn"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Chess clock and special rules",
+      "summary": "Players share a set total time on a two-faced clock. Castling, pawn promotion, and en passant are explained, along with the rule that a king cannot be moved into check.",
+      "topics": [
+        "chess clock",
+        "castling",
+        "pawn promotion",
+        "en passant",
+        "chess rules"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Basic chess strategy",
+      "summary": "Tips include thinking several moves ahead, castling early, controlling the center, developing all pieces, protecting the king, and not trading a higher-value piece for a lower one. Learning named openings and having fun are also encouraged.",
+      "topics": [
+        "chess strategy",
+        "beginner tips",
+        "opening strategy",
+        "chess tips"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Maori pronunciation",
+      "summary": "A listener from New Zealand comments on the hosts' pronunciation of Maori words from an earlier episode, including the W-as-F sound. Tom is thanked and the outro gives contact info.",
+      "topics": [
+        "Maori pronunciation",
+        "listener mail",
+        "New Zealand"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15424,
+    "output_tokens": 2485
+  }
+}

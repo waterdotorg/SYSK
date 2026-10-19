@@ -1,0 +1,197 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-06-01_How_do_you_clean_up_an_oil_spill_25min.txt",
+  "title": "How do you clean up an oil spill?",
+  "date": "2010-06-01",
+  "duration": "25 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-do-you-clean-up-an-oil-spill",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2c052972-1a77-491b-8e46-ae2800b6da37/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2c052972-1a77-491b-8e46-ae2800b6da37/transcript?format=TextWithTimestamps&t=1700543961",
+  "summary": "Josh and Chuck discuss how oil spills are cleaned up, prompted by the 2010 Deepwater Horizon spill in the Gulf of Mexico. They cover the spill's size and comparisons to the Exxon Valdez and the Persian Gulf War spill, then methods including hair sorbents, booms and skimmers, burning, natural evaporation and photodegradation, microbial bioremediation with nutrients, chemical dispersants and their harms, tar balls, beach cleanup with high-pressure hoses, and wildlife deterrence. The episode closes with listener mail, thanks to sponsors, New York live event announcements, and a donation plug for CoEd in Guatemala.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "oil spill cleanup",
+    "Deepwater Horizon oil spill",
+    "Gulf of Mexico oil spill 2010",
+    "Exxon Valdez oil spill",
+    "Persian Gulf War oil spill",
+    "sorbents",
+    "hair sorbent booms",
+    "oil booms and skimmers",
+    "in-situ burning",
+    "bioremediation",
+    "oil-eating microbes",
+    "chemical dispersants",
+    "tar balls",
+    "beach cleanup high-pressure hoses",
+    "wildlife oil contamination",
+    "offshore drilling safety",
+    "blowout preventer",
+    "oil spill statistics",
+    "Minerals Management Service",
+    "CoEd Guatemala"
+  ],
+  "entities": [
+    {
+      "name": "Deepwater Horizon",
+      "type": "event"
+    },
+    {
+      "name": "Gulf of Mexico",
+      "type": "place"
+    },
+    {
+      "name": "BP",
+      "type": "organization"
+    },
+    {
+      "name": "Exxon Valdez oil spill",
+      "type": "event"
+    },
+    {
+      "name": "Persian Gulf War oil spill",
+      "type": "event"
+    },
+    {
+      "name": "Prince William Sound",
+      "type": "place"
+    },
+    {
+      "name": "Minerals Management Service",
+      "type": "organization"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization"
+    },
+    {
+      "name": "CoEd",
+      "type": "organization"
+    },
+    {
+      "name": "Guatemala",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and oil spill introduction",
+      "summary": "Josh and Chuck open with banter about the show and the Gulf oil spill, and Chuck mentions having written an article on oil spill cleanup in 2006 after a San Francisco Bay spill.",
+      "topics": [
+        "oil spill cleanup",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Deepwater Horizon spill and its size",
+      "summary": "The hosts describe the Deepwater Horizon explosion during well capping, which killed eleven people and sank the rig, and the uncertain estimates of the leaking oil, which may be far above the official 5,000 barrels a day. They compare the spill to the Exxon Valdez and the Persian Gulf War spill, and give statistics on US oil use and spill rates.",
+      "topics": [
+        "Deepwater Horizon oil spill",
+        "Gulf of Mexico oil spill 2010",
+        "oil spill statistics",
+        "Exxon Valdez oil spill",
+        "Persian Gulf War oil spill",
+        "Ixtoc spill"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Hair sorbents and tanker regulations",
+      "summary": "The hosts discuss the idea of using donated hair to soak up oil, noting BP judged it not feasible for the large spill though hair is used on smaller spills. They also mention post-Exxon Valdez tanker design rules and a reported drop in spillage.",
+      "topics": [
+        "hair sorbent",
+        "oil spill hair donation",
+        "tanker regulations",
+        "Exxon Valdez aftermath"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Blowout preventer requirements and energy policy",
+      "summary": "Chuck relays that other countries use a subsea shut-off process that seals a well automatically, which the US dropped for cost reasons, and they note the MMS relationship with energy companies and the effect of the West Virginia mine explosion on energy policy.",
+      "topics": [
+        "blowout preventer",
+        "offshore drilling safety",
+        "Minerals Management Service",
+        "energy policy"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Sorbents, booms, and skimmers",
+      "summary": "The hosts explain sorbents as materials that soak up oil, how oil forms a thin layer on water, and how booms with skirts contain slicks while skimmers, including centripetal and conveyor-belt types, remove oil. They note natural sorbents such as pine bark and banana fibers, and that the oil soaked up can be squeezed out and reused.",
+      "topics": [
+        "sorbents",
+        "oil booms",
+        "skimmers",
+        "centripetal skimmer",
+        "natural sorbents",
+        "pine bark",
+        "banana fibers"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Burning, evaporation, and natural breakdown",
+      "summary": "The hosts describe in-situ burning as efficient when a slick is far from shore and coral, but producing noxious fumes. They discuss leaving distant slicks to evaporate and photodegrade, with volatile compounds mostly gone within about 24 to 48 hours, though continuous new leakage complicates this.",
+      "topics": [
+        "in-situ burning",
+        "oil evaporation",
+        "photodegradation",
+        "volatile organic compounds",
+        "natural oil breakdown"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Bioremediation and chemical dispersants",
+      "summary": "The hosts explain adding nitrogen and phosphorus to encourage oil-eating microbes, with the risk of algae blooms and dead zones offshore. They then describe chemical dispersants that break oil into droplets and an Israeli study finding dispersant-treated oil more harmful to coral than crude oil.",
+      "topics": [
+        "bioremediation",
+        "oil-eating microbes",
+        "chemical dispersants",
+        "algae bloom dead zone",
+        "coral ecosystem harm"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Wildlife impacts, tar balls, beach cleanup, and wrap-up",
+      "summary": "The hosts discuss how broken-down oil enters the seafood chain, forms tar balls, and harms birds and mammals. They describe high-pressure hose beach cleanup in Prince William Sound that pushed oil into sand, and deterrents like scarecrows used around cleanup boats. The episode then moves to listener mail, New York event announcements, and a CoEd donation plug.",
+      "topics": [
+        "tar balls",
+        "wildlife oil contamination",
+        "beach cleanup",
+        "high-pressure hoses",
+        "wildlife deterrents",
+        "seafood chain",
+        "listener mail",
+        "CoEd Guatemala"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9178,
+    "output_tokens": 2481
+  }
+}

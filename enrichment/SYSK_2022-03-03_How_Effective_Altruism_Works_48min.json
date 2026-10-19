@@ -1,0 +1,315 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-03-03_How_Effective_Altruism_Works_48min.txt",
+  "title": "How Effective Altruism Works",
+  "date": "2022-03-03",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-effective-altruism-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/feaa0310-ce24-42eb-80ee-ae4d00f17291/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/feaa0310-ce24-42eb-80ee-ae4d00f17291/transcript?format=TextWithTimestamps&t=1700551603",
+  "summary": "Josh and Chuck explain effective altruism (EA), a philosophy-rooted movement that emphasizes using evidence and measurable outcomes (such as quality-adjusted life years) to direct charitable giving to the interventions that save or improve the most lives, with impartial weight given to every life regardless of location, and including animals. They cover the movement's origins around 2010, the Center for Effective Altruism, Giving What We Can, 80,000 Hours, GiveWell, Open Philanthropy, pledges, earning to give, the four core commitments per Will MacAskill, utilitarianism and Peter Singer's drowning-child thought experiment, criticisms (overhead of measurement, unquantifiable value, emotional giving, extremism), longtermism and existential risk, and the animal welfare focus on factory farming. The episode opens with a plug for Dick Town and closes with a listener mail from Brett about albinism.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "effective altruism",
+    "charitable giving",
+    "utilitarianism",
+    "Peter Singer",
+    "Famine, Affluence and Morality",
+    "longtermism",
+    "existential risk",
+    "Giving What We Can",
+    "80,000 Hours",
+    "GiveWell",
+    "Open Philanthropy",
+    "earning to give",
+    "quality adjusted life years",
+    "randomized controlled trials",
+    "animal welfare factory farming",
+    "philanthropy criticism",
+    "Will MacAskill",
+    "Toby Ord",
+    "Center for Effective Altruism",
+    "malaria nets",
+    "giving pledges",
+    "albinism listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Effective altruism",
+      "type": "other"
+    },
+    {
+      "name": "Utilitarianism",
+      "type": "other"
+    },
+    {
+      "name": "Peter Singer",
+      "type": "person"
+    },
+    {
+      "name": "Will MacAskill",
+      "type": "person"
+    },
+    {
+      "name": "Toby Ord",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin Todd",
+      "type": "person"
+    },
+    {
+      "name": "Jeremy Bentham",
+      "type": "person"
+    },
+    {
+      "name": "John Stuart Mill",
+      "type": "person"
+    },
+    {
+      "name": "Dustin Moskovitz",
+      "type": "person"
+    },
+    {
+      "name": "Cari Tuna",
+      "type": "person"
+    },
+    {
+      "name": "Sam Bankman-Fried",
+      "type": "person"
+    },
+    {
+      "name": "Brian Ottens",
+      "type": "person"
+    },
+    {
+      "name": "Center for Effective Altruism",
+      "type": "organization"
+    },
+    {
+      "name": "Giving What We Can",
+      "type": "organization"
+    },
+    {
+      "name": "80,000 Hours",
+      "type": "organization"
+    },
+    {
+      "name": "GiveWell",
+      "type": "organization"
+    },
+    {
+      "name": "Open Philanthropy",
+      "type": "organization"
+    },
+    {
+      "name": "Animal Charity Evaluators",
+      "type": "organization"
+    },
+    {
+      "name": "The Life You Can Save",
+      "type": "organization"
+    },
+    {
+      "name": "Founders Pledge",
+      "type": "organization"
+    },
+    {
+      "name": "TryGiving",
+      "type": "organization"
+    },
+    {
+      "name": "Famine, Affluence and Morality",
+      "type": "work"
+    },
+    {
+      "name": "The End of the World with Josh Clark",
+      "type": "work"
+    },
+    {
+      "name": "Dick Town",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Dick Town plug",
+      "summary": "Josh and Chuck plug the animated show Dick Town (Hodgman and Reese) and introduce the episode topic of effective altruism, noting its link to the earlier short stuff on charitable giving.",
+      "topics": [
+        "Dick Town",
+        "intro banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "What effective altruism is and its polarizing reputation",
+      "summary": "EA is a relatively new movement, roughly from 2010, rooted in utilitarianism. Hosts say criticism often focuses on extremes, and the middle-ground practice is more sensible. They describe the basic idea of calculating giving to save the most lives and the wealth comparison showing even modest donors in the US are rich globally.",
+      "topics": [
+        "effective altruism",
+        "utilitarianism",
+        "charitable giving",
+        "global wealth comparison",
+        "quality adjusted life years"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "History and key organizations",
+      "summary": "Origins of the Center for Effective Altruism umbrella, Giving What We Can founded by Toby Ord and Will MacAskill, and 80,000 Hours founded by MacAskill and Benjamin Todd. Other groups mentioned include The Life You Can Save and Animal Charity Evaluators.",
+      "topics": [
+        "Center for Effective Altruism",
+        "Giving What We Can",
+        "80,000 Hours",
+        "Toby Ord",
+        "Will MacAskill",
+        "Animal Charity Evaluators"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Core commitments and impartiality",
+      "summary": "Will MacAskill's 2018 paper lays out four core commitments: maximizing the good, aligning with science and evidence, welfare, and impartiality. Impartiality means every person's life counts equally, implying donations abroad can do more than local ones, which draws critics' objections about local charities.",
+      "topics": [
+        "core commitments",
+        "impartiality",
+        "maximizing good",
+        "evidence-based giving",
+        "local versus international charity"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "GiveWell, open philanthropy, and Peter Singer",
+      "summary": "GiveWell (founded 2007) and Open Philanthropy, backed by Dustin Moskovitz and Cari Tuna, are introduced. Utilitarian roots (Bentham, Mill) are noted. Peter Singer's drowning child and new shoes thought experiment from Famine, Affluence and Morality is explained, along with his extreme positions, which the hosts say are not central to EA.",
+      "topics": [
+        "GiveWell",
+        "Open Philanthropy",
+        "Peter Singer",
+        "drowning child thought experiment",
+        "utilitarianism",
+        "Famine, Affluence and Morality"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Giving statistics, pledges, and earning to give",
+      "summary": "US charitable giving figures are discussed, with individuals giving most. EA-endorsed pledges include Giving What We Can (10 percent), Founders Pledge, and TryGiving. The 80,000 Hours idea of career choice is explained, including earning to give and choosing impactful work, with examples of an engineer and an Australian epidemiologist.",
+      "topics": [
+        "giving pledges",
+        "Giving What We Can pledge",
+        "Founders Pledge",
+        "earning to give",
+        "80,000 Hours career advice",
+        "charitable giving statistics"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Evidence, randomized controlled trials, and criticisms",
+      "summary": "EA favors measurable outcomes over overhead ratios, using randomized controlled trials such as a malaria net study. Criticisms include that some value cannot be quantified, using the example of the 1963 March on Washington, and that trial results may not reproduce across time and place. Emotional giving and the cost of trials are also discussed.",
+      "topics": [
+        "randomized controlled trials",
+        "evidence-based philanthropy",
+        "malaria nets",
+        "criticism of effective altruism",
+        "charity overhead"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Animal welfare and factory farming",
+      "summary": "EA directs attention to factory-farmed animals, which receive about one percent of US charitable spending, compared with donations to companion animal causes. The hosts discuss the utilitarian case based on sheer numbers and note the tension with human causes.",
+      "topics": [
+        "animal welfare",
+        "factory farming",
+        "effective altruism animals",
+        "charitable spending"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:39:30",
+      "kind": "content",
+      "title": "Defending EA against extremist associations",
+      "summary": "Hosts read a Will MacAskill statement that EA does not claim all helping is permissible, has norms against harm, and does not require sacrificing one's own interests. They conclude common sense applies and that giving can be both local and effective.",
+      "topics": [
+        "Will MacAskill defense",
+        "effective altruism criticism",
+        "common sense giving"
+      ]
+    },
+    {
+      "start": "00:39:30",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Longtermism and existential risk",
+      "summary": "Longtermism is explained as prioritizing the vast number of future humans, leading some EA thinkers to focus on existential risks such as climate change and AI. Hosts mention the End of the World podcast and money committed to EA, around 46 billion dollars per Benjamin Todd.",
+      "topics": [
+        "longtermism",
+        "existential risk",
+        "AI risk",
+        "EA funding",
+        "future generations"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Personal reflections on giving",
+      "summary": "Chuck discusses family giving and supporting Compassion International-style child sponsorship (referred to as CoED in the transcript), arguing that local and effective giving can coexist. Josh summarizes EA as anti-sentimentalism in service of saving the most lives.",
+      "topics": [
+        "personal giving",
+        "child sponsorship",
+        "anti-sentimentalism",
+        "giving philosophy"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Brett on albinism",
+      "summary": "Brett, a listener with albinism, writes in about terminology (albinism versus albino), childhood teasing, light sensitivity, low vision, and how TV portrayals of albino characters, such as hitmen, are unrealistic. Follow-up to an earlier episode.",
+      "topics": [
+        "albinism",
+        "listener mail",
+        "disability portrayal in media"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener mail at the show's email address and close the episode.",
+      "topics": [
+        "listener mail",
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15126,
+    "output_tokens": 3561
+  }
+}

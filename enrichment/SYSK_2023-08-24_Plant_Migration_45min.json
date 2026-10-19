@@ -1,0 +1,380 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-08-24_Plant_Migration_45min.txt",
+  "title": "Plant Migration",
+  "date": "2023-08-24",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/plant-migration",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a1eb7e1e-1457-4785-881b-b06800342786/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a1eb7e1e-1457-4785-881b-b06800342786/transcript?format=TextWithTimestamps&t=1713855036",
+  "summary": "Josh and Chuck (labeled as iHeart Intro in the transcript) discuss plant migration: how plants spread via spores and seeds (wind, animal, and water dispersal), fern spore travel, Clement's paradox of rapid plant migration (1899), studying migration through fossil pollen, permanent vegetation plots, and Alexander von Humboldt's Chimborazo records revisited by a 2012 Danish team. They cover the Green Sahara periods, post-glacial migration in North America after the Laurentide Glacier, climate change pushing trees poleward and upslope (University of Vermont red oak study, Purdue study of 86 eastern US tree species), community breakup, soil constraints, sugar maples in Quebec, boreal forest albedo feedback, tropical zones expanding northward, and assisted migration (assisted range expansion vs. assisted species migration, Monterey pine in Australia). The episode ends with a listener mail about the NATO phonetic alphabet and numbers, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "plant migration",
+    "climate change and plants",
+    "seed dispersal",
+    "fern spores",
+    "Clement's paradox of rapid plant migration",
+    "fossil pollen record",
+    "permanent vegetation plots",
+    "Alexander von Humboldt Chimborazo",
+    "Green Sahara",
+    "Laurentide Glacier",
+    "post-glacial recolonization",
+    "tree range shift",
+    "poleward migration",
+    "altitudinal migration",
+    "zoochory",
+    "anemochory",
+    "hydrochory",
+    "University of Vermont red oak study",
+    "sugar maple Quebec",
+    "boreal forest albedo feedback",
+    "tropical expansion Florida",
+    "kill frost",
+    "assisted migration",
+    "assisted range expansion",
+    "assisted species migration",
+    "Monterey pine Australia",
+    "invasive species",
+    "NATO phonetic alphabet",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Tasmanian tree fern",
+      "type": "other"
+    },
+    {
+      "name": "Clement",
+      "type": "person"
+    },
+    {
+      "name": "Anders Sandberg",
+      "type": "person"
+    },
+    {
+      "name": "Alexander von Humboldt",
+      "type": "person"
+    },
+    {
+      "name": "Chimborazo Volcano",
+      "type": "place"
+    },
+    {
+      "name": "Laurentide Glacier",
+      "type": "other"
+    },
+    {
+      "name": "Green Sahara",
+      "type": "place"
+    },
+    {
+      "name": "Sugar maple",
+      "type": "other"
+    },
+    {
+      "name": "Monterey pine",
+      "type": "other"
+    },
+    {
+      "name": "Quebec",
+      "type": "place"
+    },
+    {
+      "name": "University of Vermont",
+      "type": "organization"
+    },
+    {
+      "name": "Purdue University",
+      "type": "organization"
+    },
+    {
+      "name": "Danish research team",
+      "type": "organization"
+    },
+    {
+      "name": "NATO phonetic alphabet",
+      "type": "work"
+    },
+    {
+      "name": "Kill frost",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:05",
+      "kind": "intro",
+      "title": "Opening banter about ferns",
+      "summary": "The hosts open with banter about ferns, joking about a fern forest and where ferns come from.",
+      "topics": [
+        "fern",
+        "opening banter"
+      ]
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:02:55",
+      "kind": "content",
+      "title": "Fern spore travel and plant mobility",
+      "summary": "Josh gives stats on how far Tasmanian tree fern spores can travel (500 to 800 km) and how many spores a frond produces. He explains ferns as pioneer plants and that plant species can migrate even though individual plants are sessile.",
+      "topics": [
+        "fern spores",
+        "seed dispersal",
+        "pioneer plants",
+        "sessile organisms"
+      ]
+    },
+    {
+      "start": "00:02:55",
+      "end": "00:05:12",
+      "kind": "content",
+      "title": "Oak migration and fast-spreading plants",
+      "summary": "The hosts discuss how fast-migrating plants produce spores or seeds young and disperse them far. Oaks spread slowly by gravity, but fossil records show faster movement.",
+      "topics": [
+        "oak migration",
+        "fast migrating plants",
+        "fossil record migration speed"
+      ]
+    },
+    {
+      "start": "00:05:12",
+      "end": "00:06:24",
+      "kind": "intro",
+      "title": "Detour on celebrity trivia",
+      "summary": "A digression about Anders Sandberg and Andy Samberg and their marriages, a tangent unrelated to plants.",
+      "topics": [
+        "tangent",
+        "banter"
+      ]
+    },
+    {
+      "start": "00:06:24",
+      "end": "00:09:34",
+      "kind": "content",
+      "title": "Clement's paradox of rapid plant migration",
+      "summary": "Clement's 1899 paradox describes trees migrating much faster than expected, such as after the last glacial period. Explanations include unusual weather or animals carrying seeds. The hosts name zoochory, anemochory, and hydrochory as dispersal modes.",
+      "topics": [
+        "Clement's paradox",
+        "rapid plant migration",
+        "zoochory",
+        "anemochory",
+        "hydrochory",
+        "long-distance seed dispersal"
+      ]
+    },
+    {
+      "start": "00:09:34",
+      "end": "00:13:20",
+      "kind": "content",
+      "title": "Studying plant migration: fossils, vegetation plots, and Humboldt",
+      "summary": "Methods include fossil records, permanent vegetation plots dating to about 1920, and historical journals. In 2012 a Danish team retraced Humboldt's Chimborazo trip and found species had moved up the mountain by about 500 meters on average.",
+      "topics": [
+        "permanent vegetation plots",
+        "Humboldt Chimborazo resurvey",
+        "altitudinal migration",
+        "fossil pollen"
+      ]
+    },
+    {
+      "start": "00:13:20",
+      "end": "00:14:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the next segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:14",
+      "kind": "content",
+      "title": "Satellite imagery and the Green Sahara",
+      "summary": "Satellite images are another short-term study method. Green Sahara periods allowed humans and wildlife to move and created mixed biomes, recurring about every 23,000 years.",
+      "topics": [
+        "satellite imagery vegetation study",
+        "Green Sahara",
+        "human migration out of Africa"
+      ]
+    },
+    {
+      "start": "00:15:14",
+      "end": "00:17:22",
+      "kind": "content",
+      "title": "Post-glacial migration in North America",
+      "summary": "After the Laurentide Glacier retreated, it left bare ground that plants colonized. Southern trees trapped below the glacier later moved north as climate changed.",
+      "topics": [
+        "Laurentide Glacier",
+        "post-glacial recolonization",
+        "pine trees New Jersey"
+      ]
+    },
+    {
+      "start": "00:17:22",
+      "end": "00:20:06",
+      "kind": "content",
+      "title": "Climate change rate versus plant migration",
+      "summary": "The hosts compare the rate of warming to the rate of plant migration. Earth warmed about 1.8 degrees Fahrenheit in 200 years, far faster than the roughly one degree per 1,400 years after the last glacial period.",
+      "topics": [
+        "climate change rate",
+        "warming pace",
+        "plant migration lag"
+      ]
+    },
+    {
+      "start": "00:20:06",
+      "end": "00:21:46",
+      "kind": "content",
+      "title": "Who is faster: trees or climate",
+      "summary": "University of Vermont red oaks move about 0.1 to 0.3 miles per year while climate moves about 4 to 6 miles per year. A Purdue study of 86 eastern US tree species found hardwoods moving west and softwoods moving north.",
+      "topics": [
+        "University of Vermont red oak study",
+        "Purdue tree migration study",
+        "hardwood and softwood migration direction"
+      ]
+    },
+    {
+      "start": "00:21:46",
+      "end": "00:23:43",
+      "kind": "content",
+      "title": "Community breakup and changing forest networks",
+      "summary": "Species move at different rates, breaking apart plant communities. Beech and hemlock are given as examples, and fossil pollen scientists say communities have always been unstable.",
+      "topics": [
+        "plant communities",
+        "forest community disruption",
+        "palynology"
+      ]
+    },
+    {
+      "start": "00:23:43",
+      "end": "00:25:14",
+      "kind": "content",
+      "title": "Trapped trees and invasive species",
+      "summary": "Trees moving upslope can get squeezed into narrow bands when soils are poor. Gaps in community formation can let invasive species in.",
+      "topics": [
+        "upslope migration",
+        "soil constraints",
+        "invasive species"
+      ]
+    },
+    {
+      "start": "00:25:14",
+      "end": "00:28:44",
+      "kind": "content",
+      "title": "Sugar maples, boreal forests, and albedo feedback",
+      "summary": "Sugar maples are migrating north into Canada but struggle in Quebec's boreal soil. Replacement by grasses or weeds reduces carbon capture. Boreal forests are darker than ice and absorb more heat, creating a positive feedback loop.",
+      "topics": [
+        "sugar maple migration",
+        "Quebec boreal soil",
+        "carbon capture",
+        "albedo feedback",
+        "boreal forest"
+      ]
+    },
+    {
+      "start": "00:28:44",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Tropical zones moving north and kill frost",
+      "summary": "Warming lets tropical zones expand; Florida and the southern US may become tropical by the end of the century. Fewer kill frosts means tropical plants can move north. Hosts discuss the term kill frost and a Dungeon Synth band named Kill Frost.",
+      "topics": [
+        "tropical expansion",
+        "kill frost",
+        "hardiness zones",
+        "Florida tropical climate"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:33",
+      "kind": "intro",
+      "title": "Music tangent",
+      "summary": "The hosts talk about the band Destroyer, the New Pornographers, and the dungeon synth genre.",
+      "topics": [
+        "music tangent",
+        "Destroyer",
+        "New Pornographers",
+        "dungeon synth"
+      ]
+    },
+    {
+      "start": "00:33:33",
+      "end": "00:34:43",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break before the assisted migration discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:34:43",
+      "end": "00:38:34",
+      "kind": "content",
+      "title": "Assisted migration and its three types",
+      "summary": "Humans helping plants migrate is called assisted migration. Its supporters argue doing nothing is worse. The three types are forest-assisted migration, assisted range expansion (within a plausible range), and assisted species migration (outside the range, considered riskiest).",
+      "topics": [
+        "assisted migration",
+        "assisted range expansion",
+        "assisted species migration",
+        "forest assisted migration",
+        "ecological intervention"
+      ]
+    },
+    {
+      "start": "00:38:34",
+      "end": "00:39:03",
+      "kind": "content",
+      "title": "Monterey pine in Australia",
+      "summary": "The Monterey pine is native to California and endangered there but is an invasive weed in Australia, where it is pulled out in New South Wales and Victoria.",
+      "topics": [
+        "Monterey pine",
+        "invasive species Australia"
+      ]
+    },
+    {
+      "start": "00:39:03",
+      "end": "00:42:00",
+      "kind": "intro",
+      "title": "Off-topic banter about accents and ringtones",
+      "summary": "The hosts talk about a New Zealand GPS voice saying rye, digital sounds, and ringtones. They close the topic with a joke about palm trees in New Mexico.",
+      "topics": [
+        "banter",
+        "GPS voice",
+        "ringtones"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:44:08",
+      "kind": "listener_mail",
+      "title": "Listener mail: NATO phonetic alphabet numbers",
+      "summary": "Listener William Lloyd (signed Tailwinds Decker), a pilot and former Air Force member, notes that the NATO alphabet includes number pronunciations like niner, tree, fower, and fife, which the hosts respond to.",
+      "topics": [
+        "NATO phonetic alphabet",
+        "niner pronunciation",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:44:08",
+      "end": "00:45:03",
+      "kind": "outro",
+      "title": "Sign-off and mail address",
+      "summary": "Hosts discuss a friend's email sign-off and invite listeners to send mail to the show's address.",
+      "topics": [
+        "sign-off",
+        "listener mail address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17580,
+    "output_tokens": 4176
+  }
+}

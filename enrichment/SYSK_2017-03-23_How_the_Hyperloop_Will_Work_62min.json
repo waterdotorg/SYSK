@@ -1,0 +1,288 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-03-23_How_the_Hyperloop_Will_Work_62min.txt",
+  "title": "How the Hyperloop Will Work",
+  "date": "2017-03-23",
+  "duration": "62 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-hyperloop-will-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f00d69e7-e30e-467e-973a-ae28007a88f5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f00d69e7-e30e-467e-973a-ae28007a88f5/transcript?format=TextWithTimestamps&t=1700543814",
+  "summary": "Hosts Josh Clark and Chuck Bryant open with banter about Tripod month, caffeine, and Elon Musk, then explain Musk's Hyperloop concept: a near-vacuum tube carrying air-levitated pods between Los Angeles and San Francisco in about 35 minutes. They cover the open-source white paper, the choice to route along I-5, pylon design and earthquake dampers, Mach 1 and sonic boom concerns, pneumatic tube and maglev alternatives, air-bearing skis, linear induction motors, pod capacity and fares, energy use with solar arrays, safety features, the Hyperloop One test track in Nevada and Abu Dhabi-Dubai interest, Musk's Boring Company tunnel, and a 1960s comic strip that predicted the idea. The episode closes with listener mail in the Administrative Details segment and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Hyperloop",
+    "Elon Musk",
+    "high-speed transport",
+    "vacuum tube train",
+    "Los Angeles to San Francisco travel",
+    "air bearing skis",
+    "linear induction motor",
+    "maglev",
+    "pneumatic tube transport",
+    "Mach 1 sonic boom",
+    "Hyperloop One",
+    "Boring Company",
+    "solar arrays energy",
+    "California high-speed rail",
+    "Crystal Palace pneumatic railway",
+    "Athelston Spillhouse comic strip",
+    "administrative details listener mail",
+    "Chuck Yeager sound barrier"
+  ],
+  "entities": [
+    {
+      "name": "Elon Musk",
+      "type": "person"
+    },
+    {
+      "name": "Hyperloop",
+      "type": "other"
+    },
+    {
+      "name": "Hyperloop One",
+      "type": "organization"
+    },
+    {
+      "name": "Boring Company",
+      "type": "organization"
+    },
+    {
+      "name": "Jim Powell",
+      "type": "person"
+    },
+    {
+      "name": "Chuck Yeager",
+      "type": "person"
+    },
+    {
+      "name": "Crystal Palace pneumatic railway",
+      "type": "work"
+    },
+    {
+      "name": "Athelston Spillhouse",
+      "type": "person"
+    },
+    {
+      "name": "Our New Age",
+      "type": "work"
+    },
+    {
+      "name": "Los Angeles",
+      "type": "place"
+    },
+    {
+      "name": "San Francisco",
+      "type": "place"
+    },
+    {
+      "name": "Interstate 5",
+      "type": "place"
+    },
+    {
+      "name": "California high-speed rail",
+      "type": "work"
+    },
+    {
+      "name": "Devloop test track",
+      "type": "place"
+    },
+    {
+      "name": "Abu Dhabi",
+      "type": "place"
+    },
+    {
+      "name": "Dubai",
+      "type": "place"
+    },
+    {
+      "name": "SpaceX",
+      "type": "organization"
+    },
+    {
+      "name": "Richard Branson",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Tripod month and opening banter",
+      "summary": "Josh and Chuck open with a Tripod month plug, then banter about low energy, espresso, and their admiration for Elon Musk, including the dog-seat tweet for their dog Momo.",
+      "topics": [
+        "Tripod month",
+        "Elon Musk",
+        "podcast promotion"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Origins of the Hyperloop white paper",
+      "summary": "Musk proposed the Hyperloop in a white paper and open-sourced it rather than keeping it proprietary. They describe the Los Angeles to San Francisco route of about 350 miles in roughly 35 minutes, and the plan's roughly six-billion-dollar cost estimate.",
+      "topics": [
+        "Hyperloop",
+        "open source white paper",
+        "Elon Musk",
+        "Los Angeles to San Francisco travel",
+        "high-speed transport cost"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Mach 1, sonic booms, and speed limits",
+      "summary": "The hosts discuss why the Hyperloop would not go supersonic, citing shock waves near the speed of sound and Chuck Yeager's experience. They explain that Mach 1 varies with temperature and air pressure.",
+      "topics": [
+        "Mach 1",
+        "sonic boom",
+        "Chuck Yeager",
+        "speed of sound"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Route, pylons, and earthquake design",
+      "summary": "The tube sits on reinforced concrete pylons along Interstate 5's median, avoiding buying out homes and businesses. Dampers in the pylons are meant to handle earthquakes. The route departs from I-5 where curves are too tight.",
+      "topics": [
+        "Interstate 5 route",
+        "pylons",
+        "earthquake dampers",
+        "route curves",
+        "g-forces"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Pneumatic tubes, Crystal Palace railway, and drag",
+      "summary": "Early team members suggested giant fans and pneumatic tubes, but the hosts note that pushing air over that distance would create too much friction. They mention the 1864 Crystal Palace pneumatic railway in London, which ran for a year.",
+      "topics": [
+        "pneumatic tube transport",
+        "Crystal Palace pneumatic railway",
+        "air drag",
+        "friction",
+        "pneumatic railway history"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Exploding cars tangent",
+      "summary": "The hosts digress into whether cars explode like in movies, concluding that gasoline cars typically catch fire but do not explode dramatically.",
+      "topics": [
+        "car fires",
+        "gasoline explosions",
+        "car safety myths"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Maglev, vacuum, and low-pressure tube design",
+      "summary": "The hosts explain why a maglev train in a full vacuum would be too expensive to pump down and maintain. Musk instead chose a low-pressure tube around 100 pascals, roughly a thousandth of sea-level pressure, which reduces drag and tolerates small leaks.",
+      "topics": [
+        "maglev",
+        "vacuum tube",
+        "low pressure air",
+        "pascals",
+        "drag reduction"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Air bearing skis and linear induction motors",
+      "summary": "Pods float on a thin air cushion on skis, like air hockey, with a compressor at the front. Magnets give the initial push, and linear induction motors accelerate and maintain speed, with the pod coasting for most of the trip.",
+      "topics": [
+        "air bearing skis",
+        "air cushion levitation",
+        "linear induction motor",
+        "electromagnetic propulsion",
+        "compressor"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Pod design, capacity, fares, and departures",
+      "summary": "Each pod seats 28 people in fourteen rows of two, with luggage space and possibly car transport. Departures would be about every thirty seconds at peak, with estimated fares around twenty dollars each way. The hosts speculate about loading and boarding in a future station.",
+      "topics": [
+        "Hyperloop pod capacity",
+        "ticket price",
+        "departure frequency",
+        "boarding process",
+        "luggage pods"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Hyperloop experience, safety, and Jim Powell's critique",
+      "summary": "The hosts discuss the ride experience including no bathroom and height limits, a streetcar anecdote, and maglev designer Jim Powell's concerns about achieving speeds and curves. They describe G-forces on curves and safety features like air pressure sensors that trigger brakes.",
+      "topics": [
+        "Jim Powell",
+        "Hyperloop safety",
+        "emergency braking",
+        "g-forces",
+        "passenger experience"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Energy use, solar, and Hyperloop One test track",
+      "summary": "Most of the trip is coasting, so energy use is mainly the compressor and onboard systems, with solar arrays on the tube meant to offset use. Hyperloop One is ahead of the race, with a test track in the Nevada desert and interest from Abu Dhabi and Dubai.",
+      "topics": [
+        "Hyperloop energy consumption",
+        "solar arrays",
+        "Hyperloop One",
+        "Nevada test track",
+        "Abu Dhabi Dubai transport"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Boring Company, comic strip prediction, and sign-off",
+      "summary": "Musk's Boring Company began after he tweeted about traffic and started a tunnel test trench under SpaceX. The hosts mention a 1960s comic strip by Athelston Spillhouse that predicted a Hyperloop-like pod.",
+      "topics": [
+        "Boring Company tunnel",
+        "Athelston Spillhouse",
+        "Our New Age comic",
+        "traffic tunnels"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:02:00",
+      "kind": "listener_mail",
+      "title": "Administrative Details listener mail",
+      "summary": "Josh and Chuck read listener gifts and notes, including books, distillery bottles, socks, cards, candy, and a note about the Donner Party book.",
+      "topics": [
+        "administrative details",
+        "listener mail",
+        "fan gifts"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19255,
+    "output_tokens": 3275
+  }
+}

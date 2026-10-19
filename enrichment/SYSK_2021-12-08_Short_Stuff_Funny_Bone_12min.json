@@ -1,0 +1,139 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-12-08_Short_Stuff_Funny_Bone_12min.txt",
+  "title": "Short Stuff: Funny Bone",
+  "date": "2021-12-08",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-funny-bone",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1b57d2dd-4d0b-447a-a14c-ae270189597a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1b57d2dd-4d0b-447a-a14c-ae270189597a/transcript?format=TextWithTimestamps&t=1700539648",
+  "summary": "Short Stuff episode on the funny bone. Josh and Chuck open with banter about doing short episodes, then explain that the funny bone is not a bone but the ulnar nerve, which runs from the spine and neck down the arm to the ring and pinky fingers and passes through the cubital tunnel at the elbow, where it is pressed between the medial epicondyle and skin. They explain why hitting it produces a singular tingling sensation, contrast nerve pain with nociceptive pain, share an anecdote about a massage that triggered a grip reflex, and mention cubital tunnel syndrome. The episode closes with an off-topic exchange about selling Pulp Fiction scenes as NFTs and a sign-off.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "funny bone",
+    "ulnar nerve",
+    "cubital tunnel",
+    "elbow nerve",
+    "cubital tunnel syndrome",
+    "medial epicondyle",
+    "nociception vs nerve pain",
+    "funny bone name origin",
+    "humerus joke humorous bone",
+    "nerve pain",
+    "tingling sensation in pinky and ring finger",
+    "massage grip reflex",
+    "shin nerve damage",
+    "NFT Pulp Fiction",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "funny bone",
+      "type": "other"
+    },
+    {
+      "name": "ulnar nerve",
+      "type": "other"
+    },
+    {
+      "name": "cubital tunnel",
+      "type": "other"
+    },
+    {
+      "name": "medial epicondyle",
+      "type": "other"
+    },
+    {
+      "name": "cubital tunnel syndrome",
+      "type": "other"
+    },
+    {
+      "name": "Pulp Fiction",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and funny bone introduction",
+      "summary": "Josh and Chuck open with banter about doing a short episode, then introduce the funny bone sensation and joke that the name comes from the humerus or 'humorous bone'.",
+      "topics": [
+        "funny bone",
+        "humorous bone name joke",
+        "Short Stuff"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "The ulnar nerve and its role",
+      "summary": "The funny bone is a nerve, the ulnar nerve, which runs from the spine and neck down the arm to the ring and pinky fingers and helps control hand coordination and grip. Chuck describes a massage where pressure on the forearm caused his hand to clench.",
+      "topics": [
+        "ulnar nerve",
+        "funny bone",
+        "grip and hand coordination",
+        "massage grip reflex"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Cubital tunnel and why the elbow is vulnerable",
+      "summary": "The ulnar nerve passes through the cubital tunnel at the elbow, about four millimeters long, where it sits between the medial epicondyle bone and the skin, making it easy to hit when the elbow is bent.",
+      "topics": [
+        "cubital tunnel",
+        "medial epicondyle",
+        "elbow anatomy",
+        "ulnar nerve compression"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Nerve pain versus nociceptive pain",
+      "summary": "The hosts distinguish nociception, the perception of pain signaled by nerves, from actual nerve pain caused by a nerve being hurt. They discuss a shin injury that caused numbness and an unusual crying reaction, and note that funny bone pain fades and shoots into the pinky and ring fingers.",
+      "topics": [
+        "nerve pain",
+        "nociception",
+        "pain perception",
+        "numbness after injury",
+        "pain signals"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Cubital tunnel syndrome and tennis elbow",
+      "summary": "The hosts mention cubital tunnel syndrome as a chronic condition that can result from a strained ulnar nerve, and briefly wonder why it is not called tennis elbow.",
+      "topics": [
+        "cubital tunnel syndrome",
+        "chronic nerve pain",
+        "tennis elbow"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Off-topic banter and sign-off",
+      "summary": "The hosts joke about selling Pulp Fiction scenes as NFTs and then sign off with the standard closing.",
+      "topics": [
+        "NFT",
+        "Pulp Fiction",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5082,
+    "output_tokens": 1621
+  }
+}

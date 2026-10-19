@@ -1,0 +1,230 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-22_SYSK_Selects_How_the_Sun_Works_27min.txt",
+  "title": "SYSK Selects: How the Sun Works",
+  "date": "2017-07-22",
+  "duration": "27 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-the-sun-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8a9b6cfa-7c5d-4fa3-becd-ae28007446c6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8a9b6cfa-7c5d-4fa3-becd-ae28007446c6/transcript?format=TextWithTimestamps&t=1700543801",
+  "summary": "SYSK Selects rerun of the 2010 episode \"How the Sun Works.\" Chuck introduces it as the hosts' self-described worst episode, chosen for its difficulty and errors. The hosts cover the Sun's size and distance compared with Earth, its age and classification as a G2 \"population one\" star, and its composition as a ball of gas in a fourth state of matter, plasma. They explain the core and fusion of hydrogen into helium-4, energy transport through the radiative and convective zones via photons, and the photosphere, chromosphere, and corona. They discuss sunspots, solar prominences, coronal mass ejections, the roughly eleven-year solar cycle and its effects on Earth, the Sun's color, differential rotation, solar vibrations, and the Sun's eventual evolution into a red giant and white dwarf. The episode closes with a listener email from a former NASA bed-rest test subject about human experimentation.",
+  "episode_kind": "rerun",
+  "rerun_of": "How the Sun Works",
+  "topics": [
+    "How the Sun Works",
+    "the Sun",
+    "solar structure",
+    "nuclear fusion in the Sun",
+    "helium-4 fusion",
+    "photons energy transport",
+    "radiative zone",
+    "convective zone",
+    "photosphere",
+    "chromosphere",
+    "corona",
+    "sunspots",
+    "solar prominences",
+    "coronal mass ejections",
+    "solar cycle",
+    "solar maximum",
+    "aurora borealis",
+    "plasma state of matter",
+    "Sun's color",
+    "solar rotation",
+    "solar vibrations",
+    "red giant",
+    "white dwarf",
+    "human experimentation",
+    "NASA bed rest study",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "The Sun",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Milky Way",
+      "type": "place"
+    },
+    {
+      "name": "Earth",
+      "type": "place"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "Rebecca",
+      "type": "person"
+    },
+    {
+      "name": "Avatar",
+      "type": "work"
+    },
+    {
+      "name": "Dark Side of the Moon",
+      "type": "work"
+    },
+    {
+      "name": "Pink Floyd",
+      "type": "organization"
+    },
+    {
+      "name": "Large Hadron Collider",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Selects introduction by Chuck",
+      "summary": "Chuck introduces this SYSK Selects pick of the 2010 How the Sun Works episode, calling it the hosts' worst episode because it was hard and they got things wrong.",
+      "topics": [
+        "SYSK Selects",
+        "rerun introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Size, distance, and age of the Sun",
+      "summary": "The hosts compare the Sun's radius to Earth's (about 109 times), use NASA's paper clip and desk analogy, and note its distance of about eight light minutes. They describe its position in the Milky Way, its G2 classification, and its age of about 4.5 billion years as a population one star.",
+      "topics": [
+        "Sun size",
+        "Sun distance",
+        "G2 star",
+        "population one star",
+        "Milky Way orbit",
+        "age of the Sun"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Composition and fusion in the core",
+      "summary": "The Sun is described as a ball of gas that behaves as plasma, held together by gravity. The core, containing about half the Sun's density, fuses hydrogen into helium-4, and the mass lost in that reaction becomes energy by Einstein's E=mc^2.",
+      "topics": [
+        "solar core",
+        "nuclear fusion",
+        "plasma",
+        "hydrogen to helium",
+        "mass-energy equivalence"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Energy travel through the radiative and convective zones",
+      "summary": "Energy from fusion travels outward as photons, which are absorbed and re-emitted through the radiative zone over about a million years. The photons then pass through the convective zone, taking another 100,000 to 200,000 years to reach the surface, followed by eight minutes to reach Earth.",
+      "topics": [
+        "radiative zone",
+        "convective zone",
+        "photons",
+        "solar energy travel time",
+        "convection cells"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Solar atmosphere: photosphere, chromosphere, corona",
+      "summary": "The hosts describe the Sun's atmosphere in three layers. The photosphere is the visible surface at about 5,800 kelvin, the chromosphere sits above it and can reach about 10,000 kelvin, and the corona extends millions of miles and reaches about two million degrees kelvin, with its heating not fully understood.",
+      "topics": [
+        "photosphere",
+        "chromosphere",
+        "corona",
+        "solar atmosphere",
+        "coronal heating",
+        "solar eclipse"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Sunspots, prominences, and the solar cycle",
+      "summary": "Sunspots are cooler magnetic areas on the photosphere, usually in pairs. Solar prominences can last months, and eruptions produce coronal mass ejections. The roughly eleven-year solar cycle, with a predicted maximum around 2012, can disrupt Earth's electrical systems and causes auroras.",
+      "topics": [
+        "sunspots",
+        "solar prominences",
+        "coronal mass ejections",
+        "solar cycle",
+        "solar maximum 2012",
+        "aurora",
+        "geomagnetic effects"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Sun's color, rotation, vibrations, and stellar comparisons",
+      "summary": "Sunlight is white because it contains the full spectrum, as shown by a prism and the Dark Side of the Moon album cover. The Sun rotates differentially, taking about 25 days at the equator and longer toward the poles. Its vibrations are too low for humans to hear. Under 5 percent of Milky Way stars are brighter or more massive.",
+      "topics": [
+        "Sun color",
+        "white sunlight",
+        "differential rotation",
+        "solar vibrations",
+        "solar oscillations",
+        "stars brighter than the Sun"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "The Sun's future: red giant and white dwarf",
+      "summary": "In about five billion years the Sun will run out of hydrogen, expand into a red giant that may vaporize Earth, then cool into a white dwarf and eventually a black dwarf.",
+      "topics": [
+        "red giant",
+        "white dwarf",
+        "black dwarf",
+        "end of the Sun",
+        "stellar evolution",
+        "hydrogen fuel depletion"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:44:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: NASA bed rest study",
+      "summary": "A listener named Rebecca writes that she was a NASA human test subject in 2006, spending three months in bed at a negative six degree tilt, with some days on a treadmill to prevent muscle atrophy, to help plan astronaut exercise for long spaceflights.",
+      "topics": [
+        "NASA bed rest study",
+        "human experimentation",
+        "microgravity simulation",
+        "muscle atrophy",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:45:00",
+      "kind": "outro",
+      "title": "Closing",
+      "summary": "The hosts thank the listener and mention the email address for submitting similar stories, then close the episode.",
+      "topics": [
+        "listener mail",
+        "closing"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9689,
+    "output_tokens": 2671
+  }
+}

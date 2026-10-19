@@ -1,0 +1,155 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-01-01_Short_Stuff_Watch_Night_9min.txt",
+  "title": "Short Stuff: Watch Night",
+  "date": "2025-01-01",
+  "duration": "9 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-watch-night",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2d18ac7e-ec7c-491f-8d4e-b23700ca2040/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2d18ac7e-ec7c-491f-8d4e-b23700ca2040/transcript?format=TextWithTimestamps&t=1735725840",
+  "summary": "Short Stuff New Year's edition on Watch Night, a tradition of late-New Year's Eve church services in the African American Methodist community. The hosts trace it to the first Watch Night on December 31, 1862, the night before the Emancipation Proclamation took effect, and to earlier Methodist Watch Night vigils that John Wesley brought from the Moravians. They describe the modern services (variable start and end times, the \"watchman\" call-and-response), the Covenant Renewal reflection tradition, and the Emancipation Proclamation's legal limits and wording. They close with a light aside about Times Square and New Year's traditions.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Watch Night",
+    "Watch Night service",
+    "African American Methodist tradition",
+    "Emancipation Proclamation",
+    "Freedom Eve",
+    "first Watch Night 1862",
+    "John Wesley",
+    "Moravians",
+    "Methodist Covenant Renewal Service",
+    "New Year's Eve church service",
+    "Abraham Lincoln",
+    "Juneteenth and emancipation history",
+    "Times Square New Year's Eve",
+    "watchman call and response",
+    "New Year's Day Southern cuisine"
+  ],
+  "entities": [
+    {
+      "name": "Watch Night",
+      "type": "event"
+    },
+    {
+      "name": "Emancipation Proclamation",
+      "type": "work"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "type": "person"
+    },
+    {
+      "name": "John Wesley",
+      "type": "person"
+    },
+    {
+      "name": "Moravians",
+      "type": "organization"
+    },
+    {
+      "name": "Methodist Church",
+      "type": "organization"
+    },
+    {
+      "name": "Old Saint George's Church",
+      "type": "place"
+    },
+    {
+      "name": "Philadelphia",
+      "type": "place"
+    },
+    {
+      "name": "Times Square",
+      "type": "place"
+    },
+    {
+      "name": "Confederacy",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:21",
+      "kind": "intro",
+      "title": "Happy New Year and Watch Night introduction",
+      "summary": "Hosts open the New Year's edition and introduce Watch Night as an African American Methodist New Year's Eve service that began with the first Watch Night on December 31, 1862, the night before the Emancipation Proclamation took effect. They describe the watchman call-and-response and the meaning of freedom and perseverance.",
+      "topics": [
+        "Watch Night",
+        "first Watch Night 1862",
+        "Emancipation Proclamation",
+        "watchman call and response",
+        "Freedom Eve"
+      ]
+    },
+    {
+      "start": "00:02:42",
+      "end": "00:04:37",
+      "kind": "content",
+      "title": "Methodist roots and Moravian origins",
+      "summary": "The hosts explain that Watch Night predated 1862 as a Methodist tradition, with the enslaved congregants observing a regular service with added meaning. Chuck traces the vigil to the Moravians, John Wesley's adoption of it around 1740, and the first U.S. service in Philadelphia in 1770 at Old Saint George's Church, which continues as Covenant Renewal Services.",
+      "topics": [
+        "Methodist Watch Night",
+        "Moravians",
+        "John Wesley",
+        "Covenant Renewal Service",
+        "Old Saint George's Church",
+        "Philadelphia"
+      ]
+    },
+    {
+      "start": "00:04:37",
+      "end": "00:06:35",
+      "kind": "content",
+      "title": "Covenant renewal reflection and the Emancipation Proclamation",
+      "summary": "The hosts discuss the original purpose of Watch Night as a monthly reflection on how one is living, and how the 1862 event overshadowed that meaning. They explain that the Emancipation Proclamation, issued September 22, 1862, took legal effect January 1, 1863, but the Confederacy did not comply, and they read part of its wording.",
+      "topics": [
+        "Covenant Renewal reflection",
+        "Emancipation Proclamation",
+        "Abraham Lincoln",
+        "Confederacy",
+        "January 1 1863",
+        "executive order"
+      ]
+    },
+    {
+      "start": "00:06:35",
+      "end": "00:08:11",
+      "kind": "content",
+      "title": "Modern Watch Night services and Times Square",
+      "summary": "The hosts describe how modern Watch Night services vary by congregation, with some ending around ten and others running to midnight and some emphasizing the Emancipation Proclamation more than others. They joke about attendees leaving for Times Square and the rule that you cannot leave and re-enter the pen there.",
+      "topics": [
+        "modern Watch Night services",
+        "Times Square New Year's Eve",
+        "New Year's Eve traditions"
+      ]
+    },
+    {
+      "start": "00:08:11",
+      "end": "00:08:22",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Brief closing banter wishing listeners a Happy New Year.",
+      "topics": [
+        "Short Stuff sign-off"
+      ]
+    },
+    {
+      "start": "00:08:22",
+      "end": "00:08:22",
+      "kind": "ad",
+      "title": "Production credit",
+      "summary": "Closing credit noting the show is an iHeartRadio production and promoting the iHeartRadio app and podcasts.",
+      "topics": [
+        "iHeartRadio"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4220,
+    "output_tokens": 1785
+  }
+}

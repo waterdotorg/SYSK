@@ -1,0 +1,160 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-02-20_Short_Stuff_Turbulence_12min.txt",
+  "title": "Short Stuff: Turbulence",
+  "date": "2019-02-20",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-turbulence",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0851a6e3-7d4c-4e43-bd16-ae28005170b8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0851a6e3-7d4c-4e43-bd16-ae28005170b8/transcript?format=TextWithTimestamps&t=1700543705",
+  "summary": "A Short Stuff episode on airplane turbulence. The hosts open with a description of the three turbulence intensity levels (light, moderate, severe) and a reported Delta flight incident where a drink cart and flight attendant ended up on the ceiling. They discuss how rare turbulence injuries and deaths are, citing FAA figures (44 injuries in 2016 among more than nine million passengers, 13 in 2013, 17 in 2017, and three deaths between 1980 and 2008). They explain why planes are built to flex, the three main types of turbulence (convective, mountain wave, clear air), and how pilots avoid turbulence through flight planning, weather instruments, rerouting with air traffic control, and warnings from other pilots and ground networks. They close with advice to keep seatbelts fastened, a note that planes can create wake turbulence when following too closely, and a joke comparing it to tailgating.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "airplane turbulence",
+    "turbulence types",
+    "clear air turbulence",
+    "convective turbulence",
+    "mountain wave turbulence",
+    "turbulence injuries statistics",
+    "FAA turbulence injuries",
+    "pilot turbulence avoidance",
+    "flight planning",
+    "lenticular clouds",
+    "jet streams",
+    "air traffic control rerouting",
+    "wake turbulence",
+    "seatbelt safety on planes",
+    "aircraft wing flex",
+    "severe turbulence",
+    "pilot weather warnings",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Delta",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Southwest",
+      "type": "organization"
+    },
+    {
+      "name": "NASCAR",
+      "type": "organization"
+    },
+    {
+      "name": "Santa Ana",
+      "type": "place"
+    },
+    {
+      "name": "Seattle",
+      "type": "place"
+    },
+    {
+      "name": "Rocky Mountains",
+      "type": "place"
+    },
+    {
+      "name": "Andes",
+      "type": "place"
+    },
+    {
+      "name": "lenticular clouds",
+      "type": "other"
+    },
+    {
+      "name": "jet stream",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and turbulence intensity levels",
+      "summary": "The hosts introduce the episode on airplane turbulence, describe light, moderate, and severe categories, and recount a reported Delta flight where a drink cart and flight attendant ended up on the ceiling.",
+      "topics": [
+        "airplane turbulence",
+        "turbulence types",
+        "severe turbulence",
+        "Delta turbulence incident"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:40",
+      "kind": "content",
+      "title": "Rarity of turbulence injuries and aircraft design",
+      "summary": "The hosts cite FAA injury figures and historical deaths, saying turbulence is rare. They explain that wings are designed to flex, comparing it to cars designed to crumple in crashes.",
+      "topics": [
+        "turbulence injuries statistics",
+        "FAA turbulence injuries",
+        "aircraft wing flex",
+        "turbulence deaths"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Three types of turbulence",
+      "summary": "The hosts describe convective turbulence from thunderstorms, mountain wave turbulence from air cresting over mountains, and clear air turbulence at jet streams where air masses of different temperatures and speeds meet.",
+      "topics": [
+        "convective turbulence",
+        "mountain wave turbulence",
+        "clear air turbulence",
+        "jet streams"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "How pilots avoid turbulence",
+      "summary": "The hosts explain that pilots plan routes in advance, use weather instruments to choose among storms, and request course changes or altitude changes from air traffic control.",
+      "topics": [
+        "pilot turbulence avoidance",
+        "flight planning",
+        "air traffic control rerouting",
+        "pilot weather instruments"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Mountain and clear air turbulence prediction and pilot communication",
+      "summary": "The hosts note mountains and lenticular clouds can help pilots predict turbulence, while clear air turbulence is hard to see. Pilots share information with each other and ground networks, giving warnings several minutes ahead, and passengers are told to sit down.",
+      "topics": [
+        "lenticular clouds",
+        "pilot warnings",
+        "clear air turbulence prediction",
+        "pilot communication"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:10",
+      "kind": "outro",
+      "title": "Seatbelt advice, wake turbulence, and sign-off",
+      "summary": "The hosts advise keeping seatbelts fastened, warn that planes following too closely create wake turbulence, make a tailgating joke, and sign off.",
+      "topics": [
+        "seatbelt safety on planes",
+        "wake turbulence",
+        "tailgating",
+        "NASCAR"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5188,
+    "output_tokens": 1788
+  }
+}

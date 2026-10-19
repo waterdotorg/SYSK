@@ -1,0 +1,256 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-05-16_How_Bonsai_Works_55min.txt",
+  "title": "How Bonsai Works",
+  "date": "2016-05-16",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-bonsai-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ad98baa-b56f-4e3d-bc97-ae280083ba9a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0ad98baa-b56f-4e3d-bc97-ae280083ba9a/transcript?format=TextWithTimestamps&t=1700543833",
+  "summary": "Josh and Chuck open with banter about listeners who dislike their tangents, a sponsor thank-you to Sam from Chicago's Liqueur brand, and the spelling of bonsai. They then cover bonsai's history from ancient China (penjing, Tang dynasty tomb paintings, a legend of a Qin-era emperor) to Japan, the Kamakura-era scroll quote, the spread to the West through the 1878 Paris and 1909 London exhibitions, and Japan's opening to the West under Perry. They walk through bonsai styles (formal upright/chokkan, informal upright/moyogi, slanting/shakan, semi-cascade, cascade, literati/bunjin, broom/hokidachi, landscape/saikei, root-over-rock, multi-trunk/sokan), the pot-tree harmony, and the 400-year-old white pine at the National Bonsai and Penjing Museum in D.C. They cover choosing plants (any tree or shrub can be dwarfed; junipers recommended for beginners), buying and root trimming, potting with drainage and wire, soil mixes, acclimating outdoors, watering, pests, fertilizing weekly, repotting, and advanced techniques like deadwood (jin, shari) and sabamiki. Near the end they discuss Sofia Coppola's Lost in Translation and her films, then read listener mail from Scooter Sheldon, a civil engineer, about skyscraper shape and wind resistance after the 2008 Atlanta tornado.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "bonsai",
+    "bonsai history",
+    "bonsai styles",
+    "penjing",
+    "bonsai care",
+    "bonsai tutorial",
+    "how to start a bonsai",
+    "repotting bonsai",
+    "pruning and wiring bonsai",
+    "dwarf trees",
+    "Japanese bonsai",
+    "Chinese origins of bonsai",
+    "bonsai juniper",
+    "root trimming",
+    "Lost in Translation",
+    "Sofia Coppola",
+    "skyscraper wind resistance",
+    "listener mail",
+    "Matthew Perry and opening of Japan"
+  ],
+  "entities": [
+    {
+      "name": "Bonsai",
+      "type": "other"
+    },
+    {
+      "name": "Penjing",
+      "type": "other"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "National Bonsai and Penjing Museum",
+      "type": "place"
+    },
+    {
+      "name": "Matthew Perry",
+      "type": "person"
+    },
+    {
+      "name": "Millard Fillmore",
+      "type": "person"
+    },
+    {
+      "name": "Sofia Coppola",
+      "type": "person"
+    },
+    {
+      "name": "Lost in Translation",
+      "type": "work"
+    },
+    {
+      "name": "Paris World Exhibition of 1878",
+      "type": "event"
+    },
+    {
+      "name": "London exhibition of 1909",
+      "type": "event"
+    },
+    {
+      "name": "Peachtree Plaza",
+      "type": "place"
+    },
+    {
+      "name": "Bonsai for Beginners",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and tangents",
+      "summary": "Josh and Chuck joke about listeners who complain about tangents, then thank Sam from Chicago's Liqueur brand for a sponsor-style mention. They discuss the spelling of bonsai and its meaning as a plant in a tiny container.",
+      "topics": [
+        "podcast tangents",
+        "Chicago's Liqueur",
+        "bonsai pronunciation",
+        "near beer"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Bonsai as living art and criticism",
+      "summary": "They discuss criticism of bonsai as manipulating nature, the idea of living sculpture versus painting, and a brief aside on the Cracked magazine revival.",
+      "topics": [
+        "bonsai criticism",
+        "living art",
+        "Cracked magazine"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Origins of bonsai in China and Japan",
+      "summary": "Bonsai began as penjing in China, shown in Tang dynasty tomb paintings, with a legend of an emperor around 206 BC. The practice passed to Japan, where a Kamakura-era scroll praised loving curved, potted trees and the art spread among monks, then elites, then commoners.",
+      "topics": [
+        "penjing",
+        "Tang dynasty",
+        "Japanese bonsai history",
+        "Kamakura period",
+        "bonsai origins"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Bonsai's arrival in the West",
+      "summary": "Japan's isolation in the 1600s ended when Commodore Matthew Perry was sent by Millard Fillmore, as the hosts describe it. Bonsai then reached Western audiences at the Paris exhibition of 1878 and the London exhibition of 1909.",
+      "topics": [
+        "Japan isolation",
+        "Matthew Perry",
+        "Paris 1878 exhibition",
+        "London 1909 exhibition",
+        "bonsai in the West"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Hosts' interest and styles: upright, slanting, semi-cascade",
+      "summary": "The hosts say they are drawn to bonsai as a hobby and compare styles. They cover the formal upright (chokkan), informal upright (moyogi), slanting (shakan), and the semi-cascade and cascade styles, and discuss pot balance.",
+      "topics": [
+        "bonsai styles",
+        "chokkan",
+        "moyogi",
+        "shakan",
+        "semi-cascade",
+        "cascade bonsai",
+        "pot balance"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Literati, broom, landscape, root-over-rock, and multi-trunk styles",
+      "summary": "The hosts describe the literati (bunjin), broom (hokidachi), landscape (saikei), root-over-rock, and multi-trunk (sokan) styles, along with the idea that bonsai imitates old trees and the perspective used to create them.",
+      "topics": [
+        "literati bonsai",
+        "broom style",
+        "landscape bonsai",
+        "saikei",
+        "root over rock",
+        "multi-trunk bonsai",
+        "bonsai perspective"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Ages of bonsai and the National Bonsai Museum tree",
+      "summary": "Bonsai can be very old, and heirloom trees are passed in families. The white pine at the National Bonsai and Penjing Museum in D.C. is almost 400 years old, survived the bombing of Hiroshima, and was given to the US by Japan. Other very old examples are mentioned in Spain and elsewhere.",
+      "topics": [
+        "ancient bonsai",
+        "National Bonsai and Penjing Museum",
+        "white pine bonsai",
+        "bonsai heirlooms"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Choosing plants and starting a bonsai",
+      "summary": "Any tree or shrub can be dwarfed by root trimming and container growing. Indoor and outdoor varieties are described, with outdoor trees needing winter protection. Juniper is recommended for beginners. The hosts cover buying a plant, exposing the crown, tools, and trimming about two-thirds of the roots.",
+      "topics": [
+        "choosing bonsai plant",
+        "juniper bonsai",
+        "beginner bonsai",
+        "crown",
+        "root trimming",
+        "bonsai tools",
+        "indoor bonsai",
+        "winter protection"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Potting, wiring, and acclimating bonsai",
+      "summary": "Steps include using a deep pot with drainage holes and gravel, selecting soil suited to the species, anchoring the tree with wire, wiring branches without cutting into them, and acclimating the tree to sun gradually. The first watering is done by submerging the pot.",
+      "topics": [
+        "repotting bonsai",
+        "bonsai soil",
+        "bonsai wiring",
+        "drainage",
+        "acclimating bonsai",
+        "first watering"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Branch placement, watering, pests, fertilizing, and advanced techniques",
+      "summary": "Branches are placed in alternating positions to create depth. The hosts cover daily watering, pests such as spittlebugs and mites, weekly fertilizing, periodic repotting and root trimming, and advanced techniques like jin, shari, and sabamiki. They mention the film Lost in Translation and Sofia Coppola's other films.",
+      "topics": [
+        "bonsai pests",
+        "watering bonsai",
+        "fertilizing bonsai",
+        "jin deadwood",
+        "shari",
+        "sabamiki",
+        "Lost in Translation",
+        "Sofia Coppola"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:55:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: skyscraper wind design",
+      "summary": "Listener Scooter Sheldon, a Georgia Tech civil engineering student, writes about why skyscrapers are not perfect cylinders, referencing the 2008 Atlanta tornado and Peachtree Plaza, and the hosts sign off by plugging their website and social channels.",
+      "topics": [
+        "skyscraper design",
+        "wind resistance",
+        "2008 Atlanta tornado",
+        "Peachtree Plaza",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18731,
+    "output_tokens": 3154
+  }
+}

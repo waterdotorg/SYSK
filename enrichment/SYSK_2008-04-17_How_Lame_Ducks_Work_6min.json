@@ -1,0 +1,152 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-04-17_How_Lame_Ducks_Work_6min.txt",
+  "title": "How Lame Ducks Work",
+  "date": "2008-04-17",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-lame-ducks-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5b6262a8-7e8d-420c-af65-ae2800c49922/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5b6262a8-7e8d-420c-af65-ae2800c49922/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chuck Bryant explain the term \"lame duck\" in politics, starting with its origin as a financial term for someone who couldn't pay debts. They describe a lame duck president as one who has lost re-election or finished two terms and is waiting out the rest of office. They cover the Twentieth Amendment (the \"Lame Duck Amendment\"), which shortened the period between an election and the start of the new term, and note that it was ratified in 1933 under Hoover, cutting the old thirteen-month gap for defeated members of Congress. They then discuss George W. Bush as a lame duck, including his push for economic stimulus and a permanent extension of surveillance powers, a quoted claim by former speechwriter David Frum that he could advance nothing acceptable to both parties, and Nancy Pelosi's 2007 trip to Syria as a sign of his diminished standing. The episode ends with a brief sign-off and a sponsor read.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "lame duck",
+    "lame duck president",
+    "lame duck amendment",
+    "Twentieth Amendment",
+    "presidential term",
+    "George W. Bush",
+    "Congress lame duck period",
+    "1933 Hoover administration",
+    "Nancy Pelosi Syria trip",
+    "electoral college tie",
+    "surveillance extension",
+    "economic stimulus package",
+    "political power",
+    "US Constitution amendments"
+  ],
+  "entities": [
+    {
+      "name": "George W. Bush",
+      "type": "person"
+    },
+    {
+      "name": "Nancy Pelosi",
+      "type": "person"
+    },
+    {
+      "name": "Hoover",
+      "type": "person"
+    },
+    {
+      "name": "Lame Duck Amendment",
+      "type": "work"
+    },
+    {
+      "name": "Twentieth Amendment",
+      "type": "work"
+    },
+    {
+      "name": "Syria",
+      "type": "place"
+    },
+    {
+      "name": "David Frum",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:20",
+      "kind": "ad",
+      "title": "Opening sponsor read",
+      "summary": "Opening sponsor read for a Camry car ad before the show starts.",
+      "topics": [
+        "sponsor read",
+        "Camry"
+      ]
+    },
+    {
+      "start": "00:00:20",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Welcome and topic introduction",
+      "summary": "Josh welcomes listeners and introduces the topic of lame duck presidents with co-host Chuck.",
+      "topics": [
+        "lame duck",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:40",
+      "kind": "content",
+      "title": "Definition and origin of lame duck",
+      "summary": "Josh defines a lame duck president and explains the term originally referred to a financial situation of someone unable to pay debts.",
+      "topics": [
+        "lame duck",
+        "lame duck president",
+        "term origin"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:03:40",
+      "kind": "content",
+      "title": "Lame Duck Amendment and Congress",
+      "summary": "The hosts describe the Twentieth Amendment, the Lame Duck Amendment, ratified in 1933 under Hoover, which cut the thirteen-month gap between defeat and leaving office for members of Congress, and mention the electoral college tie provision.",
+      "topics": [
+        "Twentieth Amendment",
+        "lame duck amendment",
+        "1933 Hoover administration",
+        "electoral college tie"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:05:10",
+      "kind": "content",
+      "title": "George W. Bush as lame duck",
+      "summary": "The hosts discuss George W. Bush's lame duck status, his economic stimulus package and push for permanent surveillance extension, and a quoted claim by David Frum that he could advance nothing acceptable to both parties.",
+      "topics": [
+        "George W. Bush",
+        "lame duck president",
+        "economic stimulus package",
+        "surveillance extension",
+        "David Frum"
+      ]
+    },
+    {
+      "start": "00:05:10",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Pelosi's Syria trip as sign of lame duck status",
+      "summary": "Chuck notes that presidential power depends on Congress passing bills, and Josh cites Nancy Pelosi's July 2007 trip to Syria, made while Bush was not engaging with Syria, as a sign of his lame duck status.",
+      "topics": [
+        "Nancy Pelosi",
+        "Syria",
+        "presidential power",
+        "lame duck status"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:06:10",
+      "kind": "outro",
+      "title": "Sign-off and sponsor read",
+      "summary": "Closing plug for the website, listener email address, and a repeated Camry sponsor read.",
+      "topics": [
+        "sign-off",
+        "sponsor read",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3227,
+    "output_tokens": 1662
+  }
+}

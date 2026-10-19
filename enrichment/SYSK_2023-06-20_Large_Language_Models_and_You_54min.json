@@ -1,0 +1,425 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-06-20_Large_Language_Models_and_You_54min.txt",
+  "title": "Large Language Models and You",
+  "date": "2023-06-20",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/large-language-models-and-you",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1f82800b-4be5-4da8-b156-b02700ba6163/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1f82800b-4be5-4da8-b156-b02700ba6163/transcript?format=TextWithTimestamps&t=1714002316",
+  "summary": "Josh and Chuck (with iHeart Intro voice) explain large language models (LLMs) such as ChatGPT, Bard, and Llama: neural networks trained on massive text that predict likely next words using embeddings and transformers. They cover GPT-4's gains over GPT-3.5 on tests, prompting to improve math, hallucinations (fake legal cases, the elephant-egg error, a fabricated science formula, the eating disorder helpline incident), image-input capabilities, the DALL-E and Getty Images copyright dispute, corporate data privacy concerns, job displacement of white-collar workers, productivity and GDP projections, IBM's hiring pause, the Hollywood writers' strike and AI concerns, and the singularity. The episode closes with a listener mail story about a conception-related podcast listen and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "large language models",
+    "LLM",
+    "ChatGPT",
+    "GPT-4",
+    "generative pre-trained transformer",
+    "neural networks",
+    "transformers architecture",
+    "embeddings",
+    "AI hallucinations",
+    "prompting",
+    "reinforcement learning from human feedback",
+    "AI copyright infringement",
+    "Getty Images lawsuit",
+    "DALL-E",
+    "AI job displacement",
+    "white collar automation",
+    "productivity and GDP",
+    "AI and Hollywood writers strike",
+    "singularity",
+    "AI data privacy",
+    "chatbots in business",
+    "AI in the workplace",
+    "Google Bard",
+    "Meta Llama",
+    "IBM hiring pause"
+  ],
+  "entities": [
+    {
+      "name": "ChatGPT",
+      "type": "work"
+    },
+    {
+      "name": "GPT-4",
+      "type": "work"
+    },
+    {
+      "name": "OpenAI",
+      "type": "organization"
+    },
+    {
+      "name": "Google",
+      "type": "organization"
+    },
+    {
+      "name": "Microsoft",
+      "type": "organization"
+    },
+    {
+      "name": "Meta",
+      "type": "organization"
+    },
+    {
+      "name": "Llama",
+      "type": "work"
+    },
+    {
+      "name": "Alpaca",
+      "type": "work"
+    },
+    {
+      "name": "DALL-E",
+      "type": "work"
+    },
+    {
+      "name": "Getty Images",
+      "type": "organization"
+    },
+    {
+      "name": "National Eating Disorder Association",
+      "type": "organization"
+    },
+    {
+      "name": "IBM",
+      "type": "organization"
+    },
+    {
+      "name": "Dropbox",
+      "type": "organization"
+    },
+    {
+      "name": "Fishbowl",
+      "type": "organization"
+    },
+    {
+      "name": "Goldman Sachs",
+      "type": "organization"
+    },
+    {
+      "name": "Writers Guild of America",
+      "type": "organization"
+    },
+    {
+      "name": "Justine Bateman",
+      "type": "person"
+    },
+    {
+      "name": "Marvin Minsky",
+      "type": "person"
+    },
+    {
+      "name": "The End of the World with Josh Clark",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "The hosts joke about whether the episode is really them or AI-generated, and tease the topic of large language models.",
+      "topics": [
+        "AI-generated hosts joke",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:04:20",
+      "kind": "content",
+      "title": "What large language models are",
+      "summary": "Josh defines large language models as AI algorithms trained on huge amounts of English text that recognize patterns and simulate conversation. They discuss the End of the World series episode on AI and how the field has moved quickly since 2018.",
+      "topics": [
+        "large language models",
+        "LLM",
+        "neural networks",
+        "ChatGPT",
+        "Bard",
+        "The End of the World with Josh Clark"
+      ]
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:06:10",
+      "kind": "content",
+      "title": "Brain analogy and autocomplete",
+      "summary": "The hosts compare neural networks to the human brain and explain that LLMs work like autocomplete, predicting likely next words based on probability.",
+      "topics": [
+        "neural networks",
+        "autocomplete analogy",
+        "probability prediction"
+      ]
+    },
+    {
+      "start": "00:06:10",
+      "end": "00:08:05",
+      "kind": "content",
+      "title": "Connections and weights in word prediction",
+      "summary": "Josh explains how word inputs and outputs form huge numbers of connections, with weights emphasizing some associations (such as John Coltrane and A Love Supreme) over others.",
+      "topics": [
+        "word connections",
+        "weights",
+        "John Coltrane example",
+        "token prediction"
+      ]
+    },
+    {
+      "start": "00:08:05",
+      "end": "00:11:45",
+      "kind": "content",
+      "title": "Word clustering, embeddings, and lack of understanding",
+      "summary": "Words cluster by how often they appear together, which the models use to create meaning numerically via embeddings. Josh stresses that LLMs do not understand meaning, and that this underlies hallucinations.",
+      "topics": [
+        "embeddings",
+        "word clustering",
+        "lack of understanding in AI",
+        "lemon example"
+      ]
+    },
+    {
+      "start": "00:11:45",
+      "end": "00:15:15",
+      "kind": "content",
+      "title": "Self-learning, human feedback, and the transformer",
+      "summary": "The hosts discuss how models learn on their own and improve via reinforcement learning from human feedback. Josh covers the 2017 Google transformer paper, which lets models analyze all text at once, and the black-box problem. Iheart Intro notes the GPT name meaning generative pre-trained transformer.",
+      "topics": [
+        "reinforcement learning from human feedback",
+        "transformer architecture",
+        "Google 2017 paper",
+        "black box AI",
+        "GPT name",
+        "Marvin Minsky sock example"
+      ]
+    },
+    {
+      "start": "00:15:15",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:18:15",
+      "kind": "content",
+      "title": "Rapid timeline and specialized models",
+      "summary": "They trace the rapid timeline from ChatGPT's November 2022 launch to GPT-4 in March 2023, and note companies building specialized models by adding software or training on domain data.",
+      "topics": [
+        "ChatGPT launch timeline",
+        "GPT-4 release",
+        "specialized AI models",
+        "industry arms race"
+      ]
+    },
+    {
+      "start": "00:18:15",
+      "end": "00:19:02",
+      "kind": "content",
+      "title": "Multimodal image input and arms race",
+      "summary": "Josh describes GPT-4 accepting images, with a demo of a sketched website turned into working code. He argues the race among private companies makes slowing AI unlikely.",
+      "topics": [
+        "multimodal AI",
+        "image input",
+        "AI arms race",
+        "website from sketch demo"
+      ]
+    },
+    {
+      "start": "00:19:02",
+      "end": "00:21:05",
+      "kind": "content",
+      "title": "Test scores and math performance",
+      "summary": "The hosts cite GPT-4's bar exam and AP exam results, improving from GPT-3.5, and note weaker math performance that prompting and add-on tools aim to fix.",
+      "topics": [
+        "AI test scores",
+        "bar exam",
+        "AP exams",
+        "math weakness",
+        "prompting"
+      ]
+    },
+    {
+      "start": "00:21:05",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Hallucinations explained",
+      "summary": "The hosts define hallucinations as confident but false outputs and give the example of the model claiming elephants lay the largest mammal eggs. Josh explains the model lacks fact-checking and truth concepts.",
+      "topics": [
+        "AI hallucinations",
+        "elephant eggs example",
+        "factual errors",
+        "confident wrong answers"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:20",
+      "kind": "content",
+      "title": "Real-world AI errors",
+      "summary": "Examples include a lawyer who submitted fake case citations generated by ChatGPT, a Meta science model that invented formulas, and an AI-written article on compound interest with errors and plagiarism.",
+      "topics": [
+        "fake legal cases",
+        "ChatGPT lawyer sanctions",
+        "Meta science model",
+        "AI-written articles errors",
+        "plagiarism"
+      ]
+    },
+    {
+      "start": "00:27:20",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Eating disorder helpline chatbot",
+      "summary": "The National Eating Disorder Association replaced its human hotline with a chatbot that gave weight-loss advice to people with eating disorders, and it was taken offline. The hosts note newer models score better on accuracy.",
+      "topics": [
+        "National Eating Disorder Association chatbot",
+        "eating disorder advice",
+        "AI in healthcare",
+        "union dispute"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:30:17",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break before discussing economics and jobs.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:30:17",
+      "end": "00:31:20",
+      "kind": "content",
+      "title": "Jobs at risk from AI",
+      "summary": "Josh notes that unlike earlier automation that hit manual labor, LLMs threaten white-collar knowledge jobs and artists. The hosts joke about farmers being safe.",
+      "topics": [
+        "AI job displacement",
+        "white collar jobs",
+        "automation history",
+        "artists at risk"
+      ]
+    },
+    {
+      "start": "00:31:20",
+      "end": "00:33:42",
+      "kind": "content",
+      "title": "AI art, copyright, and corporate data concerns",
+      "summary": "The hosts discuss DALL-E image generation and Getty Images suing for infringement, arguing mashups do not count as transformative use. They also discuss companies restricting employee chatbot use over data exposure and Meta's Llama and Alpaca models.",
+      "topics": [
+        "DALL-E",
+        "Getty Images lawsuit",
+        "AI copyright",
+        "transformative use",
+        "corporate data privacy",
+        "Meta Llama",
+        "Alpaca"
+      ]
+    },
+    {
+      "start": "00:33:42",
+      "end": "00:36:21",
+      "kind": "content",
+      "title": "Workplace AI use and productivity",
+      "summary": "Examples include real estate listings and medical symptom lists. A Fishbowl survey found 40 percent of working professionals use AI tools at work, and nearly 70 percent of them hide it from bosses.",
+      "topics": [
+        "AI at work",
+        "Fishbowl survey",
+        "real estate listings AI",
+        "AI in medicine",
+        "hidden AI use"
+      ]
+    },
+    {
+      "start": "00:36:21",
+      "end": "00:40:50",
+      "kind": "content",
+      "title": "Productivity, GDP, and the economic outlook",
+      "summary": "Goldman Sachs estimated about a 7 percent GDP increase over ten years from productivity gains. The hosts doubt displaced workers will find new jobs and debate universal basic income versus widening wealth gaps. They note middle management may be most at risk.",
+      "topics": [
+        "Goldman Sachs GDP estimate",
+        "productivity gains",
+        "universal basic income",
+        "wealth inequality",
+        "middle management layoffs"
+      ]
+    },
+    {
+      "start": "00:40:50",
+      "end": "00:44:22",
+      "kind": "content",
+      "title": "Historical technology and the Hollywood writers' strike",
+      "summary": "The hosts note technology's mixed history and discuss the WGA strike, where writers oppose AI replacement and studios proposed assessing AI on a year-to-year basis. They worry about AI-generated clickbait and scripts.",
+      "topics": [
+        "WGA strike",
+        "Hollywood writers strike",
+        "AI scriptwriting",
+        "technology history",
+        "clickbait writing jobs"
+      ]
+    },
+    {
+      "start": "00:44:22",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Human-created content and digital likeness",
+      "summary": "Josh predicts demand for human-written work and notes that AI-written web content may later train other models. Iheart Intro cites Justine Bateman on actors scanned for digital likenesses used in perpetuity, and IBM's CEO Arvind Krishna saying 30 percent of back-office jobs could be replaced; IBM paused hiring for about 8,000 roles, and Dropbox announced layoffs citing AI.",
+      "topics": [
+        "human-made content demand",
+        "AI training on AI-written content",
+        "digital likeness of actors",
+        "Justine Bateman",
+        "IBM hiring pause",
+        "Dropbox layoffs"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:51:20",
+      "kind": "content",
+      "title": "Coding AI and the singularity",
+      "summary": "The hosts discuss AI writing code so that it could create new AI models, and define the singularity as when AI understands itself. They say the outcome is unknown and express unease.",
+      "topics": [
+        "AI writing code",
+        "singularity",
+        "AI risk",
+        "uncertainty about AI future"
+      ]
+    },
+    {
+      "start": "00:51:20",
+      "end": "00:53:55",
+      "kind": "listener_mail",
+      "title": "Listener mail: Conception",
+      "summary": "A listener reports that his wife and he conceived a child while playing the episode How Coal Works in the background, and that they named their son Cole. Josh and Chuck read the email and invite listeners to write in.",
+      "topics": [
+        "listener mail",
+        "How Coal Works",
+        "listener story"
+      ]
+    },
+    {
+      "start": "00:53:55",
+      "end": "00:54:10",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Iheart Intro reminds listeners that Stuff You Should Know is a production of iHeartRadio and gives the email address.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17990,
+    "output_tokens": 4497
+  }
+}

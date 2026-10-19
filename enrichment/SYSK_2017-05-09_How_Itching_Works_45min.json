@@ -1,0 +1,257 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-05-09_How_Itching_Works_45min.txt",
+  "title": "How Itching Works",
+  "date": "2017-05-09",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-itching-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c8e5d06d-0c9e-4db8-aa20-ae2800789262/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c8e5d06d-0c9e-4db8-aa20-ae2800789262/transcript?format=TextWithTimestamps&t=1700543809",
+  "summary": "Josh and Chuck explore why we itch: the definition of itch (Samuel Hoffenreffer, 1660), the evolutionary hypothesis that itching evolved to remove insects and parasites, and itch as fish and animal behavior. They cover Hans Wörner's 1980s histamine experiments that showed itch is distinct from pain, the neural pathway from skin to spinal cord to brain (C fibers, gastrin-releasing peptide receptors, natriuretic polypeptide B), brain imaging showing the itch signature, and the itch-scratch cycle where scratching triggers serotonin that worsens itch. They discuss why scratching location matters, why others can't scratch for you, and chronic itch. A long section covers Atul Gawande's New Yorker article about a Massachusetts patient (called \"M\") with HIV-related shingles and chronic scalp itch that led her to scratch through her skull, the types of itch (histaminergic, neuropathic, neurogenic, psychogenic), and delusional parasitosis (Morgellons). Chuck recounts getting contact dermatitis from cement and how he treated it. The episode ends with listener mail from Emily Allen about how teaching kindergarten changed her vocabulary, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "itching",
+    "itch",
+    "pruritus",
+    "itch-scratch cycle",
+    "histamine",
+    "chronic itch",
+    "neuropathic itch",
+    "neurogenic itch",
+    "psychogenic itch",
+    "delusional parasitosis",
+    "Morgellons disease",
+    "C fibers",
+    "itch neuroscience",
+    "Hans Wörner histamine experiment",
+    "Samuel Hoffenreffer",
+    "Atul Gawande",
+    "New Yorker",
+    "shingles and HIV",
+    "contact dermatitis",
+    "cement dermatitis",
+    "serotonin and itch",
+    "why we scratch",
+    "itch brain imaging",
+    "evolution of itch",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Samuel Hoffenreffer",
+      "type": "person"
+    },
+    {
+      "name": "Hans Wörner",
+      "type": "person"
+    },
+    {
+      "name": "Atul Gawande",
+      "type": "person"
+    },
+    {
+      "name": "New Yorker",
+      "type": "organization"
+    },
+    {
+      "name": "Tom Petty",
+      "type": "person"
+    },
+    {
+      "name": "Emily Allen",
+      "type": "person"
+    },
+    {
+      "name": "Morgellons disease",
+      "type": "other"
+    },
+    {
+      "name": "Dante's Inferno",
+      "type": "work"
+    },
+    {
+      "name": "Todd Haynes",
+      "type": "person"
+    },
+    {
+      "name": "Safe",
+      "type": "work"
+    },
+    {
+      "name": "STAT",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and setup",
+      "summary": "Hosts introduce the topic of itching, joke about the brain stuff video they watched, and mention the New Yorker article by Atul Gawande as a source.",
+      "topics": [
+        "itching",
+        "mirror neurons",
+        "New Yorker article"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Definition of itch and evolutionary purpose",
+      "summary": "Samuel Hoffenreffer's 1660 definition of an itch as an unpleasant sensation that provokes the desire to scratch; the hypothesis that itching evolved to make humans remove insects and parasites; itch behavior in animals and fish; Dante's Inferno punishment for falsifiers.",
+      "topics": [
+        "itch definition",
+        "Samuel Hoffenreffer",
+        "evolution of itch",
+        "Dante's Inferno",
+        "animal scratching",
+        "pruritus"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Hans Wörner's histamine experiments",
+      "summary": "In the 1980s German researcher Hans Wörner tested histamine-induced itch in participants, finding itch was distinct from low-grade pain, which opened up itch research.",
+      "topics": [
+        "Hans Wörner",
+        "histamine",
+        "itch versus pain",
+        "itch research history",
+        "electrical stimulation experiments"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Chronic itch and the need for research",
+      "summary": "Chronic itch has a large impact on patients' lives comparable to chronic pain; itch research is newer and less developed than pain research. Discussion of performers and officials dealing with contact dermatitis on camera.",
+      "topics": [
+        "chronic itch",
+        "itch research",
+        "contact dermatitis",
+        "poison ivy"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Chuck's cement contact dermatitis",
+      "summary": "Chuck describes developing contact dermatitis on his arm after working with cement building a gate, treatment with steroids, and relief from hot water showers.",
+      "topics": [
+        "cement dermatitis",
+        "contact dermatitis",
+        "steroid treatment",
+        "personal anecdote"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Neural pathway and brain imaging of itch",
+      "summary": "Histamine signals travel through C fibers to the spinal cord, via gastrin-releasing peptide receptor, up to the brain; brain imaging shows the itch signature in sensory cortex, emotional regions, and motor/urge areas.",
+      "topics": [
+        "C fibers",
+        "itch neural pathway",
+        "spinal cord itch",
+        "brain imaging itch",
+        "gastrin-releasing peptide receptor",
+        "natriuretic polypeptide B"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "The itch-scratch cycle",
+      "summary": "Itch and the urge to scratch form a cycle: scratching activates pain receptors, releasing serotonin that worsens itch. Itch receptors sense stimuli from a few inches away and act slowly. Scratching a different spot can help, but others scratching for you does not work as well; back scratches are rewarding.",
+      "topics": [
+        "itch-scratch cycle",
+        "serotonin and itch",
+        "itch receptors",
+        "why we scratch",
+        "back scratching"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Atul Gawande's patient case: chronic scalp itch after shingles",
+      "summary": "Gawande's New Yorker article describes an anonymous Massachusetts patient ('M') with HIV-related shingles who had chronic itch, scratched through her skull, was restrained in an asylum, and had a nerve cut that did not help. Her case was linked to neurogenic itch, and doctors discussed the four types of itch and the limits of treatment.",
+      "topics": [
+        "Atul Gawande",
+        "chronic itch case",
+        "shingles",
+        "HIV complications",
+        "neurogenic itch",
+        "psychogenic itch",
+        "neuropathic itch",
+        "histaminergic itch",
+        "antihistamines"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:04:00",
+      "kind": "content",
+      "title": "Delusional parasitosis and Morgellons",
+      "summary": "Discussion of delusional parasitosis, where people believe parasites are on their skin, and of entomologists at extension services who see such patients; the hosts question how current understanding of psychogenic itch will be viewed later. Tangent on the film Safe.",
+      "topics": [
+        "delusional parasitosis",
+        "Morgellons disease",
+        "psychogenic itch",
+        "extension services",
+        "entomologists",
+        "Todd Haynes Safe"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:10:00",
+      "kind": "content",
+      "title": "Closing discussion and unanswered questions",
+      "summary": "Hosts note that scratching by others doesn't work as well, joke about back scratchers and bear claw pastries, and wrap up unsolved questions such as why feathers sometimes tickle.",
+      "topics": [
+        "unanswered itch questions",
+        "feather tickle",
+        "back scratcher"
+      ]
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:13:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Emily Allen on teacher vocabulary",
+      "summary": "Listener Emily Allen writes that teaching kindergarten through second grade changed how she speaks, such as saying 'silly' instead of 'dumb', and the hosts respond.",
+      "topics": [
+        "listener mail",
+        "swearing episode",
+        "teacher vocabulary"
+      ]
+    },
+    {
+      "start": "01:13:00",
+      "end": "01:14:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and website contact info and sign off.",
+      "topics": [
+        "sign-off",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14295,
+    "output_tokens": 3019
+  }
+}

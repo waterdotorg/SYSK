@@ -1,0 +1,134 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-12-26_Short_Stuff_The_Brain-Bladder_Connection_14min.txt",
+  "title": "Short Stuff: The Brain-Bladder Connection",
+  "date": "2018-12-26",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-brain-bladder-connection",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/831e1785-8909-478d-b002-ae280055c367/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/831e1785-8909-478d-b002-ae280055c367/transcript?format=TextWithTimestamps&t=1700543713",
+  "summary": "Short Stuff episode on the brain-bladder connection. The hosts open with a bit about \"key in lock syndrome,\" the urge to urinate when arriving home and reaching the door. They explain that it is a real condition, also called urge urinary incontinence, that affects more women than men, and that about a quarter to a third of Americans have some incontinence problem. They describe the pelvic floor as a muscular trampoline supporting the abdominal organs, with openings for the urethra, vagina and rectum, which weakens with age, pregnancy and childbirth (including C-sections). Other causes mentioned include infection, bladder cancer, bladder stones, and prostate problems in men, plus certain medications. They discuss the prostate and Skene's gland, the brain-bladder signaling model, vasopressin's role in nighttime bladder control, and mixturition syncope (fainting after urinating). Treatment advice covers Kegel exercises and timed voiding every three hours, with gradually holding longer, and they criticize relying only on Kegels or pads. The episode ends with a tangent on college bars with free beer until someone urinates and a plug for the show's website and email.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "brain-bladder connection",
+    "key in lock syndrome",
+    "urge urinary incontinence",
+    "overactive bladder",
+    "pelvic floor",
+    "Kegel exercises",
+    "timed voiding",
+    "pregnancy and incontinence",
+    "vasopressin",
+    "mixturition syncope",
+    "prostate",
+    "Skene's gland",
+    "bladder health",
+    "bladder training",
+    "stress incontinence",
+    "urinary incontinence treatment"
+  ],
+  "entities": [
+    {
+      "name": "Dr Philip P. Smith",
+      "type": "person"
+    },
+    {
+      "name": "Randy Newman",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and key in lock syndrome",
+      "summary": "The hosts open with jokes about being short and a Randy Newman tangent, then describe the experience of needing to pee upon reaching the front door, which they identify as key in lock syndrome.",
+      "topics": [
+        "key in lock syndrome",
+        "urge to urinate"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Urge incontinence and pelvic floor",
+      "summary": "They explain that urge urinary incontinence affects more women, that a quarter to a third of Americans have some incontinence, and describe the pelvic floor muscles that support the abdominal organs and weaken with age and childbirth.",
+      "topics": [
+        "urge urinary incontinence",
+        "pelvic floor",
+        "pregnancy and incontinence",
+        "childbirth and C-section"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Other causes: prostate, Skene's gland, medications",
+      "summary": "They list less common causes such as infection, bladder cancer, bladder stones and prostate problems, discuss the prostate and Skene's gland, and mention that some medications can cause incontinence.",
+      "topics": [
+        "prostate",
+        "Skene's gland",
+        "bladder cancer",
+        "bladder stones",
+        "incontinence medications"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Brain-bladder signaling and vasopressin",
+      "summary": "The hosts discuss the brain-bladder connection, the bladder signaling the brain when full, the brain's ability to delay urination, and vasopressin's role in nighttime bladder control and childhood bedwetting.",
+      "topics": [
+        "brain-bladder connection",
+        "vasopressin",
+        "bladder signaling",
+        "bedwetting"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Mixturition syncope and treatment advice",
+      "summary": "They describe mixturition syncope, fainting after urinating, and discuss treatment: Kegels, a doctor who recommends timed voiding, and Dr Philip P. Smith's view that Kegels or pads alone are not an adequate answer.",
+      "topics": [
+        "mixturition syncope",
+        "Kegel exercises",
+        "Dr Philip P. Smith",
+        "treatment for incontinence"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Timed voiding and bladder training",
+      "summary": "The hosts recommend urinating every three hours on a schedule and gradually holding it longer to train the bladder, with a side discussion about college bars offering free beer until someone urinates.",
+      "topics": [
+        "timed voiding",
+        "bladder training",
+        "holding urine longer"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:14:00",
+      "kind": "outro",
+      "title": "Sign-off and contact info",
+      "summary": "The hosts close by directing listeners to the show website and email address.",
+      "topics": [
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5452,
+    "output_tokens": 1741
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-07-13_Short_Stuff_Catatumbo_Lightning_11min.txt",
+  "title": "Short Stuff: Catatumbo Lightning",
+  "date": "2022-07-13",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-catatumbo-lightning",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/56e5d741-5753-4d49-ac23-aed0014aa226/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/56e5d741-5753-4d49-ac23-aed0014aa226/transcript?format=TextWithTimestamps&t=1700553436",
+  "summary": "Short Stuff episode on the Catatumbo lightning, a nearly nightly lightning phenomenon over Lake Maracaibo in Venezuela. The hosts describe its frequency (about 300 nights a year, roughly nine hours a night, very frequent strikes), its historical role as a beacon for sailors and a landmark during Francis Drake's raid on Maracaibo, and NASA's description of it as a lightning hot spot. They explain the mechanism: warm humid Caribbean air rising into colder air with ice particles generates static electricity, and a nocturnal low-level wind jet (named by researcher Anhel Muñoz, transcribed as \"Unheld\" / \"Munio\") funneled through a narrow gap and pushed up against surrounding mountains drives the storms. They note a 2010 six-week gap tied to El Niño dry winds, and close with a fact about the name Venezuela, attributed to Amerigo Vespucci and meaning \"little Venice.\"",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Catatumbo lightning",
+    "Lake Maracaibo",
+    "Venezuela lightning",
+    "lightning hot spot",
+    "Maracaibo Basin nocturnal low level jet",
+    "nocturnal wind jet",
+    "Francis Drake raid Maracaibo",
+    "Beacon of Maracaibo",
+    "El Niño 2010 lightning gap",
+    "static electricity in storms",
+    "lightning mechanism",
+    "Venezuela name origin",
+    "Amerigo Vespucci",
+    "weather phenomena",
+    "Futility Closet",
+    "Atlas Obscura"
+  ],
+  "entities": [
+    {
+      "name": "Catatumbo lightning",
+      "type": "event"
+    },
+    {
+      "name": "Lake Maracaibo",
+      "type": "place"
+    },
+    {
+      "name": "Venezuela",
+      "type": "place"
+    },
+    {
+      "name": "Maracaibo",
+      "type": "place"
+    },
+    {
+      "name": "Francis Drake",
+      "type": "person"
+    },
+    {
+      "name": "Amerigo Vespucci",
+      "type": "person"
+    },
+    {
+      "name": "Anhel Muñoz",
+      "type": "person"
+    },
+    {
+      "name": "Gulf of Venezuela",
+      "type": "place"
+    },
+    {
+      "name": "Futility Closet",
+      "type": "work"
+    },
+    {
+      "name": "Atlas Obscura",
+      "type": "work"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:40",
+      "kind": "intro",
+      "title": "Introduction and overview of Catatumbo lightning",
+      "summary": "Josh introduces the Catatumbo lightning over Lake Maracaibo in Venezuela, its near-nightly occurrence, its long duration, and its history as a sailor's beacon and in Francis Drake's raid on Maracaibo. Sources are credited.",
+      "topics": [
+        "Catatumbo lightning",
+        "Lake Maracaibo",
+        "Beacon of Maracaibo",
+        "Francis Drake raid Maracaibo",
+        "lightning hot spot"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "How the lightning forms",
+      "summary": "The hosts explain that warm humid Caribbean air rising into colder air with ice particles creates static electricity, and that the lake's geography, with mountains on three sides and a narrow channel to the Gulf of Venezuela, keeps the area warm and stormy.",
+      "topics": [
+        "static electricity in storms",
+        "lightning mechanism",
+        "Lake Maracaibo geography",
+        "Gulf of Venezuela",
+        "warm air convection"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Nocturnal wind jet and research",
+      "summary": "Researcher Anhel Muñoz traced a nightly low-level wind jet, the Maracaibo Basin nocturnal low level jet, that funnels through the narrow channel and pushes warm moist air up against the mountains. Earlier theories about uranium or methane deposits are noted as unsupported. A 2010 six-week gap is linked to El Niño dry winds.",
+      "topics": [
+        "Maracaibo Basin nocturnal low level jet",
+        "Anhel Muñoz",
+        "El Niño 2010 lightning gap",
+        "uranium and methane theories",
+        "nocturnal wind jet"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:00",
+      "kind": "outro",
+      "title": "Venezuela name origin and sign-off",
+      "summary": "The hosts share a Futility Closet fact that Amerigo Vespucci named Venezuela, meaning 'little Venice', after seeing stilt houses near Lake Maracaibo. They credit sources and sign off.",
+      "topics": [
+        "Venezuela name origin",
+        "Amerigo Vespucci",
+        "Futility Closet",
+        "little Venice"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4831,
+    "output_tokens": 1707
+  }
+}

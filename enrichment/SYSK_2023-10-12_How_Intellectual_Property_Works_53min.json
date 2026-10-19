@@ -1,0 +1,376 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-10-12_How_Intellectual_Property_Works_53min.txt",
+  "title": "How Intellectual Property Works",
+  "date": "2023-10-12",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-intellectual-property-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/425898ab-bf9c-44f2-ac00-b099001b4b82/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/425898ab-bf9c-44f2-ac00-b099001b4b82/transcript?format=TextWithTimestamps&t=1713805066",
+  "summary": "Josh and Chuck (with iHeart Intro sidekick voice) explain intellectual property (IP): what it covers (patents, trademarks, copyrights, trade secrets), how each is protected and how long it lasts, and the philosophical justifications (Hegel, Locke, utilitarian incentives). The episode traces IP history from the 1421 Florence patent for Filippo Brunelleschi, the Venetian Patent Statute of 1474, England's Statute of Monopolies, and the US Patent and Copyright Clause and first patent in 1790. It covers criticisms of IP as a term, pharmaceutical monopolies and the roughly trillion-dollar annual cost estimate, Stiglitz's prize idea, Chinese IP theft and China's history of copying, US copyright term extensions including the Sonny Bono Act and the Mickey Mouse debate, the DMCA, paywalls and Canada's news law, Aaron Schwartz and JSTOR, and the decline of music sales after Napster and the link to concert ticket prices. The episode ends with a listener mail about Manhattan's Broadway.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "intellectual property",
+    "IP law",
+    "patents",
+    "trademarks",
+    "copyright",
+    "trade secrets",
+    "patent history",
+    "Florence patent 1421",
+    "Venetian Patent Statute",
+    "Statute of Monopolies",
+    "US Patent and Copyright Clause",
+    "Hegel property theory",
+    "Locke intellectual property",
+    "copyright term extension",
+    "Sonny Bono Copyright Term Extension Act",
+    "Mickey Mouse copyright",
+    "DMCA",
+    "pharmaceutical patents",
+    "drug prices",
+    "China intellectual property theft",
+    "paywalls",
+    "Aaron Schwartz",
+    "JSTOR",
+    "Napster",
+    "music sales decline",
+    "concert ticket prices",
+    "public domain"
+  ],
+  "entities": [
+    {
+      "name": "Filippo Brunelleschi",
+      "type": "person"
+    },
+    {
+      "name": "Samuel Hopkins",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Stiglitz",
+      "type": "person"
+    },
+    {
+      "name": "Dean Baker",
+      "type": "person"
+    },
+    {
+      "name": "Samir Chopra",
+      "type": "person"
+    },
+    {
+      "name": "Aaron Schwartz",
+      "type": "person"
+    },
+    {
+      "name": "Jennifer Jenkins",
+      "type": "person"
+    },
+    {
+      "name": "Hegel",
+      "type": "person"
+    },
+    {
+      "name": "John Locke",
+      "type": "person"
+    },
+    {
+      "name": "Napster",
+      "type": "organization"
+    },
+    {
+      "name": "JSTOR",
+      "type": "organization"
+    },
+    {
+      "name": "Disney",
+      "type": "organization"
+    },
+    {
+      "name": "Google",
+      "type": "organization"
+    },
+    {
+      "name": "Facebook",
+      "type": "organization"
+    },
+    {
+      "name": "Ticketmaster",
+      "type": "organization"
+    },
+    {
+      "name": "Republic of Florence",
+      "type": "place"
+    },
+    {
+      "name": "Venice",
+      "type": "place"
+    },
+    {
+      "name": "England",
+      "type": "place"
+    },
+    {
+      "name": "Canada",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "Sonny Bono Copyright Term Extension Act",
+      "type": "work"
+    },
+    {
+      "name": "Digital Millennium Copyright Act",
+      "type": "work"
+    },
+    {
+      "name": "Steamboat Willie",
+      "type": "work"
+    },
+    {
+      "name": "Digital Millennium Copyright Act (DMCA)",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter and sponsor-free welcome",
+      "summary": "Josh and the iHeart intro voice welcome listeners to an episode on intellectual property and tease the topic.",
+      "topics": [
+        "intellectual property"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:05:20",
+      "kind": "content",
+      "title": "What intellectual property is and why it is protected",
+      "summary": "Josh defines intellectual property as the fruit of mental labor, including inventions, slogans, screenplays, algorithms and business methods. He argues that protection incentivizes creativity and that IP is treated as property despite being intangible. The hosts note the IP industries share of US GDP and employment.",
+      "topics": [
+        "intellectual property definition",
+        "IP incentives",
+        "IP and GDP"
+      ]
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:10:50",
+      "kind": "content",
+      "title": "Four kinds of IP: patents, trademarks, copyrights, trade secrets",
+      "summary": "The hosts explain patents (novel, useful, non-obvious, about twenty years, costly to obtain), trademarks (brand names and slogans, TM vs registered mark, can last indefinitely while used), copyrights (creative works, roughly life of creator plus seventy years), and trade secrets (kept secret indefinitely, no registration, such as KFC's recipe).",
+      "topics": [
+        "patents",
+        "trademarks",
+        "copyright",
+        "trade secrets",
+        "TM symbol",
+        "patent term",
+        "copyright term"
+      ]
+    },
+    {
+      "start": "00:10:50",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "History of IP and philosophical justifications",
+      "summary": "The hosts trace IP from the 1421 Florence grant to Filippo Brunelleschi for a marble-moving barge technique, the 1474 Venetian Patent Statute, England's Statute of Monopolies, and the first US patent in 1790 to Samuel Hopkins. They discuss Hegel's and Locke's labor-based justifications and the utilitarian incentive argument.",
+      "topics": [
+        "patent history",
+        "Florence 1421",
+        "Venetian Patent Statute 1474",
+        "Statute of Monopolies",
+        "first US patent",
+        "Hegel",
+        "Locke",
+        "utilitarian IP theory"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:18:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break in the episode.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Criticism of the term intellectual property and limits on protection",
+      "summary": "Samir Chopra's critique that lumping IP together diminishes each category and that calling it property makes infringement sound like theft is discussed. The hosts cover time limits and fair use, including parody and the difficulty of using clips in their own show.",
+      "topics": [
+        "IP criticism",
+        "Samir Chopra",
+        "fair use",
+        "time limits on IP",
+        "term limits"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:24:45",
+      "kind": "content",
+      "title": "Pharmaceutical patents and the cost to consumers",
+      "summary": "Dean Baker's estimate that IP costs consumers about a trillion dollars a year is discussed, with pharmaceuticals as the main example, including NIH funding, marketing spending versus research spending, and stock buybacks.",
+      "topics": [
+        "pharmaceutical patents",
+        "drug prices",
+        "Dean Baker",
+        "trillion dollar IP cost",
+        "NIH funding",
+        "drug marketing spending"
+      ]
+    },
+    {
+      "start": "00:24:45",
+      "end": "00:27:40",
+      "kind": "content",
+      "title": "Stiglitz's prize idea for medical innovation",
+      "summary": "Joseph Stiglitz's proposal of large cash prizes for breakthroughs, such as a cure for malaria or cancer, in place of monopolies is discussed. Josh raises the free-rider problem if the US funded a global open-source prize.",
+      "topics": [
+        "Joseph Stiglitz",
+        "innovation prizes",
+        "malaria",
+        "open source drugs",
+        "free riders"
+      ]
+    },
+    {
+      "start": "00:27:40",
+      "end": "00:31:20",
+      "kind": "content",
+      "title": "Global IP theft and China",
+      "summary": "The hosts discuss countries not respecting foreign IP, forced technology partnerships in China, a 2019 to 2022 state-supported hacking operation that stole IP from thirty companies, and the history of Japan copying Gibson and Fender guitars. They note the US also exempted foreign works from copyright early on.",
+      "topics": [
+        "China IP theft",
+        "hacking IP theft",
+        "technology transfer",
+        "Japanese guitar copies",
+        "international IP enforcement"
+      ]
+    },
+    {
+      "start": "00:31:20",
+      "end": "00:31:46",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break in the episode.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:31:46",
+      "end": "00:36:10",
+      "kind": "content",
+      "title": "Copyright term extension and the Mickey Mouse debate",
+      "summary": "The hosts describe copyright term growth from fourteen years in 1790 to the 1998 Sonny Bono Copyright Term Extension Act, nicknamed the Mickey Mouse Protection Act, and Disney's interest in Steamboat Willie entering the public domain. They discuss how Mickey's trademark status keeps him protected.",
+      "topics": [
+        "copyright term extension",
+        "Sonny Bono Act",
+        "Mickey Mouse Protection Act",
+        "Steamboat Willie",
+        "Disney copyright",
+        "public domain"
+      ]
+    },
+    {
+      "start": "00:36:10",
+      "end": "00:39:05",
+      "kind": "content",
+      "title": "DMCA, public domain and remixing creative works",
+      "summary": "The hosts discuss the 1998 Digital Millennium Copyright Act's takedown system and its role in Internet growth, the costs of long terms for building on older works, Jennifer Jenkins's argument about Shakespeare adaptations, and the idea that there are few basic plots.",
+      "topics": [
+        "DMCA",
+        "takedown notices",
+        "public domain remix",
+        "Shakespeare adaptations",
+        "plot archetypes"
+      ]
+    },
+    {
+      "start": "00:39:05",
+      "end": "00:42:10",
+      "kind": "content",
+      "title": "Paywalls, news aggregation and Canada",
+      "summary": "The hosts discuss the tension between paywalled journalism and the free-information ethos of the Internet, and Canada's law requiring aggregators to compensate news creators, to which Google and Facebook responded by withdrawing from Canada.",
+      "topics": [
+        "paywalls",
+        "news aggregation",
+        "Canada news law",
+        "Google Canada",
+        "journalism funding"
+      ]
+    },
+    {
+      "start": "00:42:10",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Aaron Schwartz and JSTOR",
+      "summary": "Aaron Schwartz's 2011 indictment for downloading academic articles from JSTOR, his Open Access Manifesto, and his death in 2013 at age twenty-six are discussed. Alex Mayassi's article on science behind paywalls is recommended.",
+      "topics": [
+        "Aaron Schwartz",
+        "JSTOR",
+        "open access",
+        "academic paywalls",
+        "Open Access Manifesto"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:50:40",
+      "kind": "content",
+      "title": "Napster, music sales decline and concert ticket prices",
+      "summary": "Napster and file-sharing are described as shutting down in 2001, followed by streaming services. Recorded music revenue fell from about twenty-six billion in 1999 (inflation adjusted) to roughly eight billion in 2014 before recovering to about sixteen billion. The hosts link this to labels shifting revenue to live events and high ticket fees and warn about scalper sites.",
+      "topics": [
+        "Napster",
+        "music piracy",
+        "music sales decline",
+        "streaming",
+        "concert ticket prices",
+        "ticket scalping",
+        "Ticketmaster fees"
+      ]
+    },
+    {
+      "start": "00:50:40",
+      "end": "00:51:50",
+      "kind": "listener_mail",
+      "title": "Listener mail: Broadway's diagonal path in Manhattan",
+      "summary": "Listener Nicole Adreon writes that Broadway's diagonal path follows a deer run used by Indigenous people before Dutch colonization, and asks for an episode on the High Line.",
+      "topics": [
+        "listener mail",
+        "Broadway Manhattan",
+        "Manhattan grid",
+        "High Line"
+      ]
+    },
+    {
+      "start": "00:51:50",
+      "end": "00:53:00",
+      "kind": "outro",
+      "title": "Outro and contact information",
+      "summary": "The hosts thank the listener, invite email to Stuff Podcasts at iHeartRadio dot com, and sign off.",
+      "topics": [
+        "outro",
+        "contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18073,
+    "output_tokens": 4189
+  }
+}

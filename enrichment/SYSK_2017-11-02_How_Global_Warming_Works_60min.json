@@ -1,0 +1,292 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-11-02_How_Global_Warming_Works_60min.txt",
+  "title": "How Global Warming Works",
+  "date": "2017-11-02",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-global-warming-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1ba03cea-cc53-4fc5-b4cc-ae28006eb503/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1ba03cea-cc53-4fc5-b4cc-ae28006eb503/transcript?format=TextWithTimestamps&t=1700543789",
+  "summary": "Josh and Chuck explain global warming and how it differs from climate change, covering the natural glacial/interglacial cycle, IPCC findings on rising temperatures, oceans, precipitation and carbon dioxide, the greenhouse effect (with a hot-car analogy), greenhouse gases (CO2, nitrous oxide, methane, water vapor, short-lived climate pollutants), sea level rise and the water-density effect, impacts on agriculture, ecosystems, and humans, scientific certainty and consensus, the 2014 Paris Accord and US withdrawal, and personal steps to reduce carbon footprint. The episode opens with a promo for Josh's movie interview show, Movie Crush, and closes with a listener mail about why reading makes people sleepy.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "global warming",
+    "climate change",
+    "greenhouse effect",
+    "greenhouse gases",
+    "carbon dioxide",
+    "methane",
+    "nitrous oxide",
+    "water vapor",
+    "short-lived climate pollutants",
+    "sea level rise",
+    "IPCC",
+    "Paris Accord",
+    "glacial and interglacial periods",
+    "ice age",
+    "crop loss and agriculture",
+    "ecosystems and extinction",
+    "scientific consensus",
+    "scientific uncertainty",
+    "carbon footprint",
+    "fossil fuels",
+    "extreme weather and hurricanes",
+    "drought and desertification",
+    "Arctic sea ice",
+    "ocean temperature and density",
+    "reducing carbon emissions"
+  ],
+  "entities": [
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "type": "organization"
+    },
+    {
+      "name": "Paris Accord",
+      "type": "event"
+    },
+    {
+      "name": "Carnegie Institution",
+      "type": "organization"
+    },
+    {
+      "name": "Peter Cigaris",
+      "type": "person"
+    },
+    {
+      "name": "Hurricane Harvey",
+      "type": "event"
+    },
+    {
+      "name": "Movie Crush",
+      "type": "work"
+    },
+    {
+      "name": "Merchants of Doubt",
+      "type": "work"
+    },
+    {
+      "name": "Greenland",
+      "type": "place"
+    },
+    {
+      "name": "Antarctica",
+      "type": "place"
+    },
+    {
+      "name": "Miami Beach",
+      "type": "place"
+    },
+    {
+      "name": "Houston",
+      "type": "place"
+    },
+    {
+      "name": "Green Bay, Wisconsin",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Movie Crush promo",
+      "summary": "Josh introduces the episode and promotes his new movie interview show Movie Crush, whose first two episodes are being dropped into the feed; he mentions the guests Janet Varney and Tig Notaro.",
+      "topics": [
+        "Movie Crush",
+        "podcast feed announcement",
+        "Janet Varney",
+        "Tig Notaro"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Global warming vs. climate change and weather vs. climate",
+      "summary": "The hosts distinguish global warming, a symptom of climate change, from climate change as a whole, and define climate as long-term average weather in a region versus short-term weather. They give the science community's definition of global warming as a significant rise in temperature over a relatively short period due to human activity.",
+      "topics": [
+        "global warming definition",
+        "climate change definition",
+        "weather vs climate",
+        "global warming vs climate change"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Natural glacial cycles and ice ages",
+      "summary": "The hosts explain that Earth naturally swings between glacial and interglacial periods, and that an ice age requires only about a five-degree Celsius average drop, with changes in migration, habitat, extinction and sea level. Natural transitions take tens of thousands of years.",
+      "topics": [
+        "ice age",
+        "glacial periods",
+        "interglacial periods",
+        "natural climate cycles"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "IPCC observations on warming",
+      "summary": "The hosts describe the Intergovernmental Panel on Climate Change and cite its findings: about 0.74 degrees of warming from 1906 to 2006, warming of the oceans to depths near ten thousand feet, stronger westerly winds, more intense and longer droughts, shifting precipitation, a faster warming rate over the last fifty years, and 2016 as the hottest year on record.",
+      "topics": [
+        "IPCC",
+        "temperature rise",
+        "ocean warming",
+        "droughts",
+        "precipitation changes",
+        "2016 hottest year"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Carbon dioxide and the Industrial Revolution",
+      "summary": "The hosts discuss how CO2 levels have risen sharply since the Industrial Revolution, from about 280 to about 400 parts per million, and that fossil-fuel-derived carbon has a detectable signature correlated with rising temperatures.",
+      "topics": [
+        "carbon dioxide levels",
+        "Industrial Revolution",
+        "parts per million",
+        "fossil fuel emissions"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "The greenhouse effect explained",
+      "summary": "Using the analogy of a car sitting in the sun, the hosts explain that sunlight is absorbed and re-emitted as infrared heat, trapping energy. About 70 percent of incoming solar energy stays on Earth, and the greenhouse effect keeps the planet habitable and supports the water cycle.",
+      "topics": [
+        "greenhouse effect",
+        "infrared radiation",
+        "atmosphere heat trapping",
+        "hot car analogy"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Greenhouse gases: CO2, nitrous oxide, methane",
+      "summary": "The hosts describe carbon dioxide as a small share of the atmosphere whose human-caused increase comes from burning fossil fuels and clearing forests, nitrous oxide as a potent gas with about 270 times the heat absorption of CO2 and a lifetime of about 114 years, and methane, which is about twenty times more heat-absorbing than CO2, is released from coal, livestock and landfills, and converts to CO2.",
+      "topics": [
+        "carbon dioxide",
+        "nitrous oxide",
+        "methane",
+        "landfill emissions",
+        "livestock methane",
+        "carbon cycle"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Short-lived climate pollutants",
+      "summary": "The hosts describe short-lived climate pollutants, including black carbon, methane and hydrochlorofluorocarbons, which persist from days to tens of years and could produce quick results if reduced.",
+      "topics": [
+        "short-lived climate pollutants",
+        "black carbon",
+        "hydrochlorofluorocarbons",
+        "methane reduction"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Melting ice, sea level rise and water density",
+      "summary": "The hosts explain that melting Arctic sea ice that floats adds little to sea level, while land-based ice in Antarctica and Greenland would raise it. The IPCC estimates about 6.5 inches of sea level rise in the twentieth century, with up to nearly two feet possible. Water expands as it warms above four degrees Celsius, adding to rising seas, and stronger storms draw energy from warmer ocean surfaces.",
+      "topics": [
+        "sea level rise",
+        "Arctic sea ice",
+        "Antarctica",
+        "Greenland",
+        "water density",
+        "hurricanes and warm oceans",
+        "coastal flooding"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Effects on humans: crops, drought, flooding and health",
+      "summary": "The hosts discuss how warming shifts rainfall and evaporation, causing droughts, desertification and later severe flooding. They note crop losses estimated by the Carnegie Institution at about five billion dollars a year, with poorer nations hit hardest, and cite Houston's waterborne illnesses after Hurricane Harvey.",
+      "topics": [
+        "droughts",
+        "desertification",
+        "crop losses",
+        "food security",
+        "Hurricane Harvey",
+        "flooding",
+        "climate impacts on humans"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Ecosystems and salmon as nutrient carriers",
+      "summary": "The hosts discuss how interconnected ecosystems are, so changes in one can cascade. Coral reefs are dying, forests are turning to grassland, and some species may adapt, move or go extinct. They use salmon, which carry nutrients from the ocean back to their home streams, as an example.",
+      "topics": [
+        "ecosystems",
+        "coral reef decline",
+        "salmon nutrient cycle",
+        "extinction",
+        "forest to grassland"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Scientific consensus, certainty and the Paris Accord",
+      "summary": "The hosts explain that scientists use uncertainty differently than the public and that the IPCC uses confidence levels, and they cite a near-certain consensus on human-caused warming. They discuss Peter Cigaris's 2007 cost-benefit argument, industry-funded doubt campaigns, and the 2014 Paris Accord, in which 109 countries pledged decentralized plans, 168 ratified, and the US withdrew in 2017.",
+      "topics": [
+        "scientific consensus",
+        "scientific uncertainty",
+        "IPCC confidence levels",
+        "Paris Accord",
+        "US withdrawal from Paris Agreement",
+        "climate denial and doubt"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "00:59:30",
+      "kind": "content",
+      "title": "Personal steps to reduce carbon footprint",
+      "summary": "The hosts suggest reducing carbon footprints through less energy use, less waste, recycling, cycling instead of driving, shorter showers, and voting for politicians who support climate regulation. They note that electric and hybrid cars have a smaller footprint than combustion engines overall, and that a future episode on carbon offsets is planned.",
+      "topics": [
+        "carbon footprint",
+        "reducing emissions",
+        "recycling",
+        "electric cars and hybrids",
+        "voting on climate policy"
+      ]
+    },
+    {
+      "start": "00:59:30",
+      "end": "01:00:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: why reading makes you sleepy",
+      "summary": "A listener shares a chiropractor's explanation for why reading makes people sleepy, involving eye movement and the nervous system dampening the sympathetic response. The sign-off encourages listeners to get in touch.",
+      "topics": [
+        "listener mail",
+        "reading and sleepiness",
+        "eye movement and nervous system"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18376,
+    "output_tokens": 3735
+  }
+}

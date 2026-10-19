@@ -1,0 +1,265 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-10-13_How_the_Census_Works_44min.txt",
+  "title": "How the Census Works",
+  "date": "2016-10-13",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-census-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7a4a62aa-67aa-4c61-8c1c-ae28007f7592/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7a4a62aa-67aa-4c61-8c1c-ae28007f7592/transcript?format=TextWithTimestamps&t=1700543824",
+  "summary": "Josh and Chuck explain how the U.S. census works, from its constitutional origins and the three-fifths compromise through early counts, the 1880s shift to trained workers, punch-card tabulation and Univac, and the modern mail-first process with enumerators following up on non-responders. They cover what census data is used for (House apportionment, roughly $400 billion in state and local aid, planning and emergency services), the residence rule for non-traditional living situations, the 72-year confidentiality rule, the census timeline (Alaska first, forms mailed in March, April 1 reference date, December apportionment report), how census workers are hired and the hazards they face, and a brief comparison with censuses in Australia and the UK. The episode ends with a listener mail about anxiety.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "census",
+    "U.S. census",
+    "census history",
+    "Census Bureau",
+    "apportionment",
+    "three-fifths compromise",
+    "House of Representatives seats",
+    "census enumerators",
+    "census form",
+    "census confidentiality",
+    "residence rule",
+    "punch card tabulation",
+    "Univac",
+    "census 2010",
+    "census 2020",
+    "non-response follow-up",
+    "census workers dangers",
+    "1790 census",
+    "Alaska census",
+    "census data uses",
+    "demographers",
+    "Australia census",
+    "UK census",
+    "listener mail anxiety"
+  ],
+  "entities": [
+    {
+      "name": "U.S. Census Bureau",
+      "type": "organization"
+    },
+    {
+      "name": "Univac",
+      "type": "other"
+    },
+    {
+      "name": "three-fifths compromise",
+      "type": "event"
+    },
+    {
+      "name": "1790 census",
+      "type": "event"
+    },
+    {
+      "name": "1880 census",
+      "type": "event"
+    },
+    {
+      "name": "1960 census",
+      "type": "event"
+    },
+    {
+      "name": "2010 census",
+      "type": "event"
+    },
+    {
+      "name": "Marion, Ohio",
+      "type": "place"
+    },
+    {
+      "name": "Alaska",
+      "type": "place"
+    },
+    {
+      "name": "Philip II of Spain",
+      "type": "person"
+    },
+    {
+      "name": "Deadwood",
+      "type": "work"
+    },
+    {
+      "name": "Seattle Times",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and census overview",
+      "summary": "Hosts introduce the episode, note that the census is more interesting than expected, and say the U.S. census happens every ten years in years ending in zero, while other countries vary (the UK uses years ending in one).",
+      "topics": [
+        "census",
+        "census schedule",
+        "census 2020"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Constitutional origins and the three-fifths compromise",
+      "summary": "The census is mandated in the U.S. Constitution, and its original purposes were military fitness and counting people for House representation. The three-fifths compromise counted slaves as three-fifths of a person for apportionment.",
+      "topics": [
+        "three-fifths compromise",
+        "apportionment",
+        "House of Representatives seats",
+        "census history"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Early censuses: Bible, 1576 Spanish claim, Canada and Mexico claims",
+      "summary": "The hosts mention censuses in the Bible, a disputed 1576 Native American census of towns in what is now Mexico sent to Philip II of Spain, a 1666 Canadian count in New France, and the view that the U.S. census was the first true modern census.",
+      "topics": [
+        "early censuses",
+        "Philip II of Spain",
+        "New France census",
+        "census history"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "The 1790 census and early questions",
+      "summary": "The first U.S. census in 1790 was conducted by U.S. marshals on horseback with quill pens and cost about forty-five thousand dollars. It asked about free white males and females, other free persons, and slaves. The hosts also note the census questionnaires shrank from a long form in 2000 to a ten-question short form in 2010.",
+      "topics": [
+        "1790 census",
+        "census questions",
+        "census form",
+        "census cost"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Mid-episode ad break",
+      "summary": "Sponsor break between segments.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Trained workers, punch cards and Univac",
+      "summary": "Starting in 1880 the census used trained workers, and in the 1890s they punched holes in cards read by a tabulating machine. The Census Bureau ordered a Univac in 1950. In 2010 GPS devices reduced assignment errors from about five percent to a point-zero-five percent error rate.",
+      "topics": [
+        "1880 census",
+        "punch card tabulation",
+        "Univac",
+        "GPS census mapping",
+        "census technology"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Modern data processing and mail-in forms",
+      "summary": "Forms are imaged and read by optical mark and intelligent character recognition, with human checks for unclear handwriting. Until 1960 the census was door to door; then it moved to mailed forms, with enumerators following up on non-responders (about 26 percent in 2010).",
+      "topics": [
+        "optical mark recognition",
+        "intelligent character recognition",
+        "1960 census",
+        "mail-in census",
+        "non-response follow-up",
+        "census enumerators"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Uses of census data and privacy protections",
+      "summary": "Census data determines House seats, distributes about four hundred billion dollars in state and local aid, informs planning like roads and schools, and helps emergency services. Individual responses are confidential for seventy-two years, and census workers face prison and fines for disclosure. Former census records can be requested to prove age or residence.",
+      "topics": [
+        "census data uses",
+        "census confidentiality",
+        "seventy-two year rule",
+        "state and local aid",
+        "census records requests"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:31:30",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Brief break between segments.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Census timeline and residence rule",
+      "summary": "The count starts in Alaska around January, with forms delivered by hand to rural areas in February and letters in March before forms are mailed in mid-March. Completed forms are due by April 1, follow-up runs May through July, analysis July through December, and apportionment numbers go to the President by December 31. The residence rule counts people where they sleep most, including prisons, college dorms, boats, and overpasses.",
+      "topics": [
+        "census timeline",
+        "residence rule",
+        "census Alaska",
+        "homeless census",
+        "college students census",
+        "census mailing"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:30",
+      "kind": "content",
+      "title": "Reaching hard-to-count people and form questions",
+      "summary": "The Census Bureau partners with local agencies to reach transient, migrant, undocumented, and homeless people, offers forms in many languages with telephone and in-person help, and enlists schoolchildren. The form asks household count, additional people, names, gender, age, race, Hispanic origin, and relationship; Alaska Native tribes have objected to a tribal membership question. Australia's 2016 census made identifying data mandatory and drew criticism.",
+      "topics": [
+        "hard-to-count populations",
+        "census languages",
+        "census race question",
+        "Alaska Native tribes census question",
+        "Australia census 2016",
+        "gender identity census"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Census taker jobs and hazards",
+      "summary": "Census taker work is described as flexible and paid, but some workers faced threats and attacks, including the Marion, Ohio crossbow incident and a 2010 incident in which a census taker had a patio table thrown at her.",
+      "topics": [
+        "census taker jobs",
+        "census workers dangers",
+        "Marion Ohio crossbow incident",
+        "2010 census hostility"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:44:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: anxiety",
+      "summary": "A listener named Jared writes that the hosts' voices help calm his panic attacks. The hosts thank him and invite listener mail.",
+      "topics": [
+        "listener mail",
+        "anxiety",
+        "panic attacks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13941,
+    "output_tokens": 2937
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-06-12_Short_Stuff_Smoke_Signals_15min.txt",
+  "title": "Short Stuff: Smoke Signals",
+  "date": "2019-06-12",
+  "duration": "15 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-smoke-signals",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3983bdf6-d0f0-49b7-8a9c-ae28004b5a56/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3983bdf6-d0f0-49b7-8a9c-ae28004b5a56/transcript?format=TextWithTimestamps&t=1700543692",
+  "summary": "Short Stuff episode on smoke signals. The hosts say smoke signals were real and were used independently by Native Americans (Southwest and Plains) and by Chinese soldiers along the Great Wall, with the Chinese reportedly burning saltpeter, sulfur, and wolf dung for dense smoke. They discuss that signals were broad, pre-agreed messages; that tribes also used mirrors and body positions; the technique of building a hot fire, adding green material for thick white smoke, and using a wet blanket to puff smoke; the Apache meanings of one puff (attention or arrival) and two puffs (camp established, all safe); the Boy Scouts' one-puff \"I am here\" and three-puff distress signal; the Texas Carrizo tribe's spirals and zigzags; and a joking reference to the \"puff pass.\" They also briefly discuss an email about avoiding the word \"settlers.\"",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "smoke signals",
+    "smoke signal history",
+    "Native American smoke signals",
+    "Apache smoke signals",
+    "Great Wall of China signaling",
+    "ancient communication methods",
+    "wet blanket smoke signal technique",
+    "Boy Scouts smoke signaling",
+    "distress signal",
+    "three puffs distress",
+    "signal mirrors",
+    "Carrizo smoke signals",
+    "wilderness survival signaling",
+    "nonverbal communication history",
+    "Chuck and Josh short stuff"
+  ],
+  "entities": [
+    {
+      "name": "Native Americans",
+      "type": "other"
+    },
+    {
+      "name": "Apache",
+      "type": "organization"
+    },
+    {
+      "name": "Great Wall of China",
+      "type": "place"
+    },
+    {
+      "name": "Chinese soldiers",
+      "type": "other"
+    },
+    {
+      "name": "Boy Scouts of America",
+      "type": "organization"
+    },
+    {
+      "name": "Carrizo",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and origins of smoke signals",
+      "summary": "The hosts open the short episode and note that smoke signals were real, not a Hollywood invention. They explain they carried broad, pre-agreed meanings, and that Native Americans and Chinese soldiers on the Great Wall used them independently, with the Chinese reportedly burning saltpeter, sulfur, and wolf dung.",
+      "topics": [
+        "smoke signals",
+        "Great Wall of China signaling",
+        "Native American smoke signals",
+        "ancient communication methods"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Mirrors, body signals, and an email about 'settlers'",
+      "summary": "The hosts describe North American tribes using polished mica mirrors and body positions to signal over distance. They briefly discuss a listener email about not using the word 'settlers' for European colonists, and speculate whether Europeans adopted the signaling methods.",
+      "topics": [
+        "signal mirrors",
+        "nonverbal communication history",
+        "Native American smoke signals"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "How to make a smoke signal",
+      "summary": "The hosts explain the process: build a strong fire, add green wood, leaves, or wet material for thick white smoke, then smother the fire with a wet blanket and pull it off to release a puff. They note that a dry blanket could work for a single signal but a wet one is more reliable.",
+      "topics": [
+        "wet blanket smoke signal technique",
+        "wilderness survival signaling",
+        "smoke signal how-to"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Meanings of puffs: Apache, Boy Scouts, and distress",
+      "summary": "The hosts discuss meanings of puff counts. One puff can mean attention or arrival; for the Apache, two puffs meant the camp was established and everyone was safe. The Boy Scouts of America still teach smoke signaling, where one puff means 'I am here' and three puffs signal someone needs help. The hosts also note three gunshots or car horn honks as parallel distress signals.",
+      "topics": [
+        "Apache smoke signals",
+        "Boy Scouts smoke signaling",
+        "three puffs distress",
+        "distress signal"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Carrizo spirals and closing jokes",
+      "summary": "The hosts mention a Texas tribe, which they name as the Carrakawa (the Carrizo), that used spirals and zigzags in smoke signals. They joke about a 'puff pass' and close the episode.",
+      "topics": [
+        "Carrizo smoke signals",
+        "smoke signal patterns"
+      ]
+    },
+    {
+      "start": "14:30:00",
+      "end": "15:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts say goodbye and credit the show's production company.",
+      "topics": [
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5878,
+    "output_tokens": 1745
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-09-02_Criminal_Records_No_Thanks_49min.txt",
+  "title": "Criminal Records: No Thanks!",
+  "date": "2021-09-02",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/criminal-records-no-thanks",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4dc5d8a7-d4d9-4003-85ac-ae28000c29b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4dc5d8a7-d4d9-4003-85ac-ae28000c29b1/transcript?format=TextWithTimestamps&t=1700539656",
+  "summary": "Josh and Chuck explain criminal records in the United States: what a criminal record contains, how records are stored across local, state and federal databases, and how expungement and sealing work. They cover juvenile records being sealed at eighteen, sex offender registry and recidivism, employer background checks and \"ban the box\" laws, and fidelity bonding. They then discuss research on when a former offender stops being statistically distinguishable from the general public (desistance), mass incarceration and racial disparities, and economic costs of barring people with records from work. The episode closes with listener mail about MRI physics from a radiographer in Sydney, Australia. The hosts note this episode updates their 2012 episode \"Why You Probably Have a Criminal Record.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "criminal records",
+    "criminal record expungement",
+    "record sealing",
+    "expunction vs sealing",
+    "criminal background checks",
+    "employer background checks",
+    "ban the box laws",
+    "fair chance legislation",
+    "juvenile criminal records",
+    "juvenile court",
+    "sex offender registry",
+    "recidivism",
+    "desistance",
+    "fidelity bonding",
+    "National Driver Register",
+    "Interstate Identification Index",
+    "mass incarceration",
+    "criminal records and employment",
+    "mug shots",
+    "racial disparities in incarceration",
+    "occupational licensing and criminal records",
+    "MRI physics",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Stuff You Should Know",
+      "type": "work"
+    },
+    {
+      "name": "Interstate Identification Index",
+      "type": "other"
+    },
+    {
+      "name": "National Driver Register",
+      "type": "other"
+    },
+    {
+      "name": "Alfred Blumstein",
+      "type": "person"
+    },
+    {
+      "name": "Kiminori Nakamura",
+      "type": "person"
+    },
+    {
+      "name": "Center for Economic Policy and Research",
+      "type": "organization"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "type": "person"
+    },
+    {
+      "name": "Nick Nolte",
+      "type": "person"
+    },
+    {
+      "name": "Riff Trax",
+      "type": "work"
+    },
+    {
+      "name": "Mystery Science Theater 3000",
+      "type": "work"
+    },
+    {
+      "name": "Why You Probably Have a Criminal Record",
+      "type": "work"
+    },
+    {
+      "name": "New York State",
+      "type": "place"
+    },
+    {
+      "name": "MRI",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to criminal records",
+      "summary": "The hosts joke about cameras and cussing, then introduce the topic, noting they covered it in 2012 and that about one in three or one in four Americans have a criminal record. They define a criminal record and mention mug shots.",
+      "topics": [
+        "criminal records",
+        "mug shots",
+        "2012 episode update"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Expungement and sealing of records",
+      "summary": "The hosts explain that records are not destroyed by default. Expungement can destroy a case file, while sealing keeps records that are accessible only by court order. Traffic violations are generally not part of a criminal record, though some serious driving offenses appear on the National Driver Register.",
+      "topics": [
+        "expungement",
+        "record sealing",
+        "expunction vs sealing",
+        "court order to unseal",
+        "National Driver Register"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Juvenile records and sex offender registry",
+      "summary": "Juvenile records are typically sealed at eighteen if the offense was minor or non-violent and the youth stayed clean. Juveniles convicted of sex offenses can end up on the sex offender registry. Sex offenders have high recidivism rates.",
+      "topics": [
+        "juvenile criminal records",
+        "juvenile court",
+        "sex offender registry",
+        "recidivism"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "How criminal records are stored and shared",
+      "summary": "Records historically sat in local police stations. Today they live in state and local databases, with some uploaded to state repositories and the FBI's Interstate Identification Index, and uploading is not uniformly required. Only law enforcement and courts can access the federal index; states decide public access.",
+      "topics": [
+        "Interstate Identification Index",
+        "state criminal repositories",
+        "criminal record databases",
+        "public records access"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Employer background checks and disclosure",
+      "summary": "Many employers run background checks and need applicant permission. Applicants should be honest about records, since lying can get them rejected. Employers may ask whether applicants were arrested versus convicted. Some employers say they would move on after a record, though many would not disqualify the candidate.",
+      "topics": [
+        "employer background checks",
+        "job applications",
+        "arrest vs conviction disclosure",
+        "hiring with criminal records"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Discrimination, housing, and fidelity bonding",
+      "summary": "People with arrest or conviction records can be refused jobs and public housing. Some felony drug convictions are protected from discrimination in certain cases. Fidelity bonding, often provided free by the federal government, insures employers against losses caused by hiring workers with records.",
+      "topics": [
+        "discrimination against people with records",
+        "public housing",
+        "fidelity bonding",
+        "Robert Downey Jr. film insurance"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Pros and cons, and desistance research",
+      "summary": "Criminal records support recidivism research. Researchers Alfred Blumstein and Kiminori Nakamura studied about 88,000 New York State records over 25 years and found that people with a serious first offense became statistically no more likely than the general public to be arrested after about eight years, and about three years for less serious crimes.",
+      "topics": [
+        "desistance",
+        "redemption research",
+        "Blumstein and Nakamura study",
+        "recidivism research",
+        "criminal record paradox"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Mass incarceration, racial disparities, and economic costs",
+      "summary": "The hosts discuss roughly 2.2 million people incarcerated in the US, with incarceration rising sharply from the 1980s. Black men are about six times and Hispanic men about two and a half times more likely than white men to be incarcerated. Unemployment after release and lost economic output from exclusion from work are discussed, citing a Center for Economic Policy and Research study.",
+      "topics": [
+        "mass incarceration",
+        "racial disparities in incarceration",
+        "post-release unemployment",
+        "economic cost of criminal records",
+        "GDP loss"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Ban the box, licensing, and reform ideas",
+      "summary": "Reform ideas include automatic sealing after a period of clean record, ban the box or fair chance laws limiting when employers can ask about records, and time limits on background digs. Exceptions exist for jobs involving vulnerable populations. Occupational licenses such as barbering often bar people with records.",
+      "topics": [
+        "ban the box",
+        "fair chance legislation",
+        "occupational licensing barriers",
+        "criminal record reform",
+        "automatic record sealing"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: MRI follow-up from a radiographer",
+      "summary": "A listener from Sydney, Australia, Russell, who works as an MRI radiographer, praises the show's MRI episode and adds that lower-strength magnets need longer scan times, that three Tesla is the highest strength widely used clinically, that seven Tesla machines are FDA-approved for clinical use, and that higher research magnets have interesting effects.",
+      "topics": [
+        "MRI",
+        "magnet strength",
+        "listener mail",
+        "Tesla"
+      ]
+    },
+    {
+      "start": "00:48:30",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode and give the email address for listener mail.",
+      "topics": [
+        "listener mail contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15546,
+    "output_tokens": 2825
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-07-07_Whats_with_this_Internet_of_Things_62min.txt",
+  "title": "What's with this \"Internet of Things\"?",
+  "date": "2016-07-07",
+  "duration": "62 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-with-this-internet-of-things",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a889248b-4200-4f87-98d8-ae28008257ca/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a889248b-4200-4f87-98d8-ae28008257ca/transcript?format=TextWithTimestamps&t=1700543831",
+  "summary": "Hosts Josh Clark and Chuck Bryant explain the Internet of Things: a network of connected devices with sensors that communicate with servers, usually in the cloud. They trace the term to Kevin Ashton's late-1990s idea of RFID tags on lipstick at Procter and Gamble, its predecessor ubiquitous computing, and older telemetry. They cover examples (smart thermostats, auto-ordering filters, smart toothbrushes, Waze-style traffic data, smart cities), hurdles such as incompatible protocols and the IPv4 address shortage leading to IPv6 and NAT, security and privacy concerns (Target's pregnancy-prediction ads, smart TV voice recognition terms, hacking of medical devices), economic impact and job displacement (ATMs and bank tellers). The episode ends with listener mail thanks and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Internet of Things",
+    "IoT",
+    "smart devices",
+    "machine to machine communication",
+    "Kevin Ashton",
+    "RFID",
+    "ubiquitous computing",
+    "telemetry",
+    "cloud computing",
+    "smart cities",
+    "IPv4 IPv6 address exhaustion",
+    "network address translation",
+    "IoT security and privacy",
+    "Target pregnancy ads",
+    "smart TV voice recognition",
+    "automation and jobs",
+    "Waze traffic app",
+    "Square payments"
+  ],
+  "entities": [
+    {
+      "name": "Kevin Ashton",
+      "type": "person"
+    },
+    {
+      "name": "Procter and Gamble",
+      "type": "organization"
+    },
+    {
+      "name": "Target",
+      "type": "organization"
+    },
+    {
+      "name": "Samsung",
+      "type": "organization"
+    },
+    {
+      "name": "Waze",
+      "type": "organization"
+    },
+    {
+      "name": "Square",
+      "type": "organization"
+    },
+    {
+      "name": "Qualcomm",
+      "type": "organization"
+    },
+    {
+      "name": "Tim Berners-Lee",
+      "type": "person"
+    },
+    {
+      "name": "Edward Snowden",
+      "type": "person"
+    },
+    {
+      "name": "Internet of Things",
+      "type": "event"
+    },
+    {
+      "name": "Decatur",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and smart gadget jokes",
+      "summary": "Hosts joke about a Jerome/Jerry nickname and banter about connected gadgets such as an app-controlled vaporizer and an auto-feeding cat machine, plus the concern that convenience erodes privacy.",
+      "topics": [
+        "smart gadgets",
+        "connected devices",
+        "privacy concerns"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Defining the Internet of Things",
+      "summary": "The hosts define the Internet of Things as interconnected devices with sensors that communicate with central servers in the cloud, and give everyday examples such as smart thermostats, smoke detectors and exercise trackers.",
+      "topics": [
+        "Internet of Things definition",
+        "smart thermostat",
+        "wearables",
+        "cloud"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Convenience versus complication and auto-ordering",
+      "summary": "The hosts debate whether automation makes life simpler or more fragile, and discuss automatic delivery of filters and formula and whether devices could prompt reorders, with a joke about fridges ordering milk.",
+      "topics": [
+        "automatic reordering",
+        "smart refrigerator",
+        "planned obsolescence",
+        "convenience tradeoffs"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Kevin Ashton and the origin of the term",
+      "summary": "Kevin Ashton is credited with coining the term Internet of Things in the late 1990s while at Procter and Gamble, proposing RFID tags on lipstick to automatically signal low stock. The hosts also discuss ubiquitous computing as a predecessor.",
+      "topics": [
+        "Kevin Ashton",
+        "origin of Internet of Things",
+        "RFID tags",
+        "ubiquitous computing",
+        "inventory tracking"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Smart everyday objects and smart toothpaste",
+      "summary": "The hosts joke about smart toothpaste tubes and toothbrushes that track brushing, and a relative's shaving log, while noting that connected products now exist.",
+      "topics": [
+        "smart toothbrush",
+        "connected household products",
+        "Internet of Things examples"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break with banter about brushing teeth timing, and a short sponsor/break transition.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Telemetry and the building blocks of connected devices",
+      "summary": "The hosts trace telemetry to remote measurement sent over telephone lines, credit the World Wide Web and WiFi for enabling the Internet of Things, and describe the cheap components needed: computing, sensors, communication hardware and power.",
+      "topics": [
+        "telemetry",
+        "WiFi ubiquity",
+        "World Wide Web",
+        "device components",
+        "machine to machine communication"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Smart cities and traffic apps",
+      "summary": "The hosts discuss connected traffic data, including Waze relying on user phone data and reports, and smart traffic lights and sidewalks with embedded sensors.",
+      "topics": [
+        "smart cities",
+        "Waze",
+        "traffic data",
+        "smart traffic lights",
+        "embedded sensors"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Hurdles: incompatible platforms and IP address shortage",
+      "summary": "The hosts discuss fragmented, non-integrated smart home systems and platforms such as Qualcomm's AllSeen Alliance, Apple HomeKit, Google, Samsung, and Wink. They then cover the IPv4 address shortage, NAT as a workaround, and the move to IPv6.",
+      "topics": [
+        "smart home platforms",
+        "AllSeen Alliance",
+        "IPv4",
+        "IPv6",
+        "network address translation",
+        "IP address exhaustion"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Security, privacy, Target ads and smart TV eavesdropping",
+      "summary": "The hosts discuss privacy and security risks of connected sensors, Target's use of credit card purchase data to predict pregnancy and target ads, Samsung's smart TV voice recognition terms, and the danger of hacked medical devices and baby monitors.",
+      "topics": [
+        "IoT security",
+        "privacy",
+        "Target pregnancy prediction ads",
+        "smart TV eavesdropping",
+        "hacking medical devices",
+        "baby monitor hacking",
+        "data regulation"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:02:30",
+      "kind": "content",
+      "title": "Economics, Square, and job displacement",
+      "summary": "The hosts cite an estimated economic value for the Internet of Things, discuss Square as an example of democratized payments, and debate whether automation like ATMs costs or creates jobs, ending with a call for government retraining.",
+      "topics": [
+        "economic impact",
+        "Square payments",
+        "automation and jobs",
+        "ATM and bank tellers"
+      ]
+    },
+    {
+      "start": "01:02:30",
+      "end": "01:03:30",
+      "kind": "listener_mail",
+      "title": "Listener mail thanks",
+      "summary": "The hosts thank listeners who sent gifts including candied pecans, whiskey, cheese, cards, and a longboard, and mention social media and contact details.",
+      "topics": [
+        "listener mail",
+        "fan gifts"
+      ]
+    },
+    {
+      "start": "01:03:30",
+      "end": "01:03:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing reminder of how to find more information and the show website.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20322,
+    "output_tokens": 2811
+  }
+}

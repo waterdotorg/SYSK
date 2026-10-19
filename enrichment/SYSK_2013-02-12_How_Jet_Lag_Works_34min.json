@@ -1,0 +1,240 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-02-12_How_Jet_Lag_Works_34min.txt",
+  "title": "How Jet Lag Works",
+  "date": "2013-02-12",
+  "duration": "34 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-jet-lag-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ed6ee57b-e807-4402-b77f-ae2800a27009/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ed6ee57b-e807-4402-b77f-ae2800a27009/transcript?format=TextWithTimestamps&t=1700543907",
+  "summary": "Josh and Chuck explain jet lag: its other name desynchronosis, how the body's circadian rhythm and suprachiasmatic nucleus (SCN) keep time, and how melatonin, adenosine-type sleep pressure, and light affect sleep. They cover health effects cited from studies (rat aging study, neuron growth study, heart disease and diabetes risk), the difference between east-to-west phase delay and west-to-east phase advance, and remedies such as light boxes, melatonin with a caution about drug interactions, gradual schedule shifting, avoiding light and alcohol, movement to prevent blood clots, and the Valkee light device. The episode also covers the Concorde's retirement and the jet age, and includes a listener mail segment from Wendy and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "jet lag",
+    "desynchronosis",
+    "circadian rhythm",
+    "biological clock",
+    "suprachiasmatic nucleus",
+    "melatonin",
+    "sleep pressure",
+    "adenosine",
+    "phase advance",
+    "phase delay",
+    "light therapy",
+    "light box",
+    "Valkee light device",
+    "time zone travel",
+    "Concorde",
+    "jet age",
+    "blood clots during flights",
+    "body temperature and sleep",
+    "jet lag remedies",
+    "sleep and health"
+  ],
+  "entities": [
+    {
+      "name": "Concorde",
+      "type": "other"
+    },
+    {
+      "name": "Valkee",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "Rush University Medical Center",
+      "type": "organization"
+    },
+    {
+      "name": "University of Virginia",
+      "type": "organization"
+    },
+    {
+      "name": "Planes, Trains, and Automobiles",
+      "type": "work"
+    },
+    {
+      "name": "Die Hard",
+      "type": "work"
+    },
+    {
+      "name": "Major League Baseball",
+      "type": "organization"
+    },
+    {
+      "name": "Band Aid",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the Concorde",
+      "summary": "Josh and Chuck open with chat about Chuck's trip and a museum visit, then discuss why the Concorde was grounded, including the US ban on supersonic overland flight and the 2003 crash, and Phil Collins flying the Concorde for Live Aid.",
+      "topics": [
+        "Concorde",
+        "supersonic travel",
+        "Live Aid",
+        "jet age"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "The jet age and defining jet lag",
+      "summary": "Josh describes the jet age beginning in the late 1950s, when jets became preferred and opened air travel to more people. They define jet lag, also called desynchronosis, as the body getting out of sync with its environment after crossing time zones.",
+      "topics": [
+        "jet age",
+        "desynchronosis",
+        "jet lag definition",
+        "commercial air travel"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Health effects of jet lag",
+      "summary": "They list symptoms such as fatigue, irritability, disorientation, depression, and gas. They cite a 2006 University of Virginia study in which rats exposed to simulated jet lag died sooner, and a 2010 study finding reduced neuron growth in rats exposed to jet lag. They mention links to menstrual problems, heart disease, and diabetes.",
+      "topics": [
+        "jet lag symptoms",
+        "health effects",
+        "University of Virginia rat study",
+        "neurogenesis",
+        "stress hormones"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Flying etiquette tangent",
+      "summary": "Josh and Chuck joke about airplane manners, passengers' clothing, taking off shoes, and the movie Planes, Trains, and Automobiles.",
+      "topics": [
+        "flying etiquette",
+        "airplane manners"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Prevalence and who is affected",
+      "summary": "They discuss the statistic that about six percent of Americans get jet lag, with speculation about why, and note that militaries and executives worry about its effects on performance.",
+      "topics": [
+        "jet lag prevalence",
+        "jet lag in the military",
+        "performance impairment"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "The biological clock and the suprachiasmatic nucleus",
+      "summary": "They explain the body's biological clock, the suprachiasmatic nucleus (SCN) of about twenty thousand nerve cells near the optic nerve, and the roughly 24.65-hour circadian cycle that light resets. They describe the pineal gland and melatonin.",
+      "topics": [
+        "biological clock",
+        "suprachiasmatic nucleus",
+        "circadian rhythm",
+        "pineal gland",
+        "melatonin",
+        "natural light and sleep"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Sleep pressure and adenosine",
+      "summary": "Chuck describes sleep pressure, which builds through the day and is linked to a chemical that accumulates in the brain. Josh mentions a family holiday tradition of falling asleep after big meals.",
+      "topics": [
+        "sleep pressure",
+        "adenosine",
+        "melatonin",
+        "sleep cycle"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Eastward versus westward travel and food",
+      "summary": "They explain phase delay (traveling east to west) and phase advance (traveling west to east), and why the eastward direction is harder. They share their Japan trip experiences and discuss how time changes affect hunger, with a tangent on food and fish.",
+      "topics": [
+        "phase advance",
+        "phase delay",
+        "eastward travel",
+        "westward travel",
+        "hunger and jet lag"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Body temperature and why adjustment is hard",
+      "summary": "They discuss the body's minimum temperature occurring about three hours before waking as the point where jet lag is worst, a NASA finding, and the idea that the body's rhythm is not exactly 24 hours, making westward adjustment easier.",
+      "topics": [
+        "body temperature rhythm",
+        "minimum temperature",
+        "jet lag adjustment",
+        "NASA"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Jet lag remedies",
+      "summary": "They cover remedies including melatonin, with a disclaimer about drug interactions, sleeping on red-eye flights, the blood clot risk from long flights, a light box schedule from Rush University Medical Center, the MLB travel study, the New York Times battle plan, CDC advice, and the Valkee light device.",
+      "topics": [
+        "jet lag remedies",
+        "melatonin dosage",
+        "light box",
+        "blood clots",
+        "Valkee",
+        "gradual schedule shift",
+        "CDC advice"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:36:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Wendy",
+      "summary": "Josh reads a listener email from Wendy, who thanks the hosts for their support through moves and a pregnancy and describes the zombie apocalypse weapons she'd choose.",
+      "topics": [
+        "listener mail",
+        "Wendy"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck mention the website, social media accounts, and invite jet lag remedies from listeners.",
+      "topics": [
+        "show information",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12345,
+    "output_tokens": 2698
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-05-12_How_Herd_Immunity_Works_63min.txt",
+  "title": "How Herd Immunity Works",
+  "date": "2020-05-12",
+  "duration": "63 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-herd-immunity-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c5c274f-805f-4b5a-8132-ae2800367d84/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9c5c274f-805f-4b5a-8132-ae2800367d84/transcript?format=TextWithTimestamps&t=1700543628",
+  "summary": "Josh and Chuck explain herd immunity: how a threshold of immune people (via natural infection or vaccination) protects the rest of the population, using a bowling-lane analogy. They cover the history from natural herd immunity to mass-produced vaccines in the 1940s, Edward Jenner and smallpox, A.W. Hedrich's 1923 measles paper, the reproduction number (R0) and the MMR/mumps example, vaccine waning (Russia diphtheria outbreak), vaccine hesitancy and US vaccination rate disparities, the 2008 San Diego measles outbreak, and then the COVID-19 debate: Sweden's and India's strategies, New Zealand's elimination approach, the death-toll estimates of herd immunity without a vaccine, reinfection and antigenic drift, and economic costs versus lives. The episode closes with a listener email from Ben Cleaver in England thanking NHS staff.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "herd immunity",
+    "herd immunity threshold",
+    "vaccination",
+    "vaccines",
+    "reproduction number",
+    "R0",
+    "basic reproduction number",
+    "measles",
+    "mumps",
+    "chicken pox",
+    "flu",
+    "vaccine hesitancy",
+    "vaccine exemptions",
+    "smallpox",
+    "Edward Jenner",
+    "history of vaccines",
+    "endemic disease",
+    "COVID-19",
+    "coronavirus",
+    "Sweden herd immunity strategy",
+    "New Zealand elimination strategy",
+    "flattening the curve",
+    "antigenic drift",
+    "reinfection",
+    "waning immunity",
+    "diphtheria Russia outbreak",
+    "San Diego measles outbreak 2008",
+    "pandemic economics",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Herd immunity",
+      "type": "other"
+    },
+    {
+      "name": "Edward Jenner",
+      "type": "person"
+    },
+    {
+      "name": "A. W. Hedrich",
+      "type": "person"
+    },
+    {
+      "name": "W. W. C. Topley",
+      "type": "person"
+    },
+    {
+      "name": "G. S. Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Sweden",
+      "type": "place"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "New Zealand",
+      "type": "place"
+    },
+    {
+      "name": "Belarus",
+      "type": "place"
+    },
+    {
+      "name": "Norway",
+      "type": "place"
+    },
+    {
+      "name": "Denmark",
+      "type": "place"
+    },
+    {
+      "name": "Finland",
+      "type": "place"
+    },
+    {
+      "name": "Russia",
+      "type": "place"
+    },
+    {
+      "name": "San Diego",
+      "type": "place"
+    },
+    {
+      "name": "Switzerland",
+      "type": "place"
+    },
+    {
+      "name": "COVID-19",
+      "type": "event"
+    },
+    {
+      "name": "Spanish flu",
+      "type": "event"
+    },
+    {
+      "name": "Measles",
+      "type": "other"
+    },
+    {
+      "name": "Mumps",
+      "type": "other"
+    },
+    {
+      "name": "Chicken pox",
+      "type": "other"
+    },
+    {
+      "name": "Polio",
+      "type": "other"
+    },
+    {
+      "name": "Smallpox",
+      "type": "other"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "Hofstede Insights",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and frontloaded caveat",
+      "summary": "Josh and Chuck open with banter about the hot studio and Chuck's upcoming Movie Crush appearance, then Josh says the episode will present hard facts for anti-vaxxers and conspiracy believers who may not want to listen.",
+      "topics": [
+        "podcast intro",
+        "herd immunity introduction"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "What herd immunity is and the bowling lane analogy",
+      "summary": "Herd immunity is explained as a threshold of immune people, through vaccination or prior infection, that protects those not immune. A bowling-lane analogy shows how a single immune person can stop transmission to the people beyond her.",
+      "topics": [
+        "herd immunity",
+        "bowling analogy",
+        "immunity threshold",
+        "transmission"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Natural herd immunity and the history of vaccines",
+      "summary": "Before vaccines, populations reached herd immunity through natural exposure and losses of life. Mass-produced vaccines from the 1940s made it possible to create herd immunity by vaccination. Edward Jenner's smallpox work and early researchers Topley and Wilson, who coined the term, are mentioned, along with A. W. Hedrich's measles paper.",
+      "topics": [
+        "history of herd immunity",
+        "Edward Jenner smallpox",
+        "mass vaccine production 1940s",
+        "Hedrich measles paper",
+        "endemic disease"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Protecting the vulnerable and disease differences by age",
+      "summary": "Herd immunity protects infants, the elderly, and people who cannot be vaccinated. Chicken pox and flu are discussed as more severe in adults and older people, and the hosts note that most flu deaths occur in people over 65.",
+      "topics": [
+        "protecting infants and elderly",
+        "chicken pox",
+        "influenza in older adults",
+        "immunocompromised people"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Reproduction number and herd immunity threshold",
+      "summary": "The reproduction number (R0) is defined as the expected number of people one contagious person infects. Mumps is used as an example of a highly contagious disease, and the herd immunity threshold is the share of the population that must be immune to stop spread.",
+      "topics": [
+        "reproduction number",
+        "R0",
+        "herd immunity threshold",
+        "mumps",
+        "modeling"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Waning immunity, vaccine hesitancy, and vaccination disparities",
+      "summary": "Immunity from vaccines can wane, as in a Russian diphtheria outbreak among adults who lacked boosters. Measles, mumps, and rubella vaccines are described as conferring lifetime immunity. The hosts discuss vaccine hesitancy, noting that financial barriers and rural or uninsured status drive many unvaccinated children, with CDC survey figures cited.",
+      "topics": [
+        "waning immunity",
+        "diphtheria Russia",
+        "vaccine hesitancy",
+        "vaccine exemptions",
+        "uninsured children vaccination",
+        "CDC vaccination survey"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Freeloading, vaccine success as its own problem, and the 2008 San Diego measles outbreak",
+      "summary": "Unvaccinated families are described as freeloaders on the herd. Hosts discuss how disease rarity fuels complacency. The 2008 San Diego measles outbreak began with a boy infected in Switzerland, spread to eleven people at a school with low vaccination rates, and shows how travel and pockets of unvaccinated people threaten herd immunity.",
+      "topics": [
+        "freeloading on herd immunity",
+        "vaccine complacency",
+        "San Diego measles outbreak 2008",
+        "travel and disease spread",
+        "measles vaccine efficacy"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Herd immunity and COVID-19: Sweden and India strategies",
+      "summary": "The hosts describe Sweden's approach of keeping bars and restaurants open with social distancing guidance and relying on herd immunity while shielding the elderly. Sweden's death rate is said to be three to six times that of Norway, Denmark, and Finland, which pursued elimination. India is described as pursuing a similar strategy with limited hospital beds and ventilators. Belarus and England are mentioned briefly.",
+      "topics": [
+        "Sweden COVID-19 strategy",
+        "India COVID-19 strategy",
+        "COVID-19 herd immunity",
+        "Nordic countries comparison",
+        "Belarus COVID-19"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:59:00",
+      "kind": "content",
+      "title": "COVID-19 death toll estimates, reinfection, and elimination versus herd immunity",
+      "summary": "With an estimated reproduction number of about 2.8 to 3 and a fatality rate of 0.5 to 1 percent, the hosts estimate tens of thousands to millions of deaths for herd immunity without a vaccine, and up to tens of millions worldwide. They discuss antigenic drift and reinfection, New Zealand's elimination approach and its case numbers, cultural individualism, and the economic costs of lockdowns versus lives lost.",
+      "topics": [
+        "COVID-19 death estimates",
+        "reinfection and antigenic drift",
+        "New Zealand elimination",
+        "flattening the curve",
+        "lockdown economic costs",
+        "Hofstede individualism scores",
+        "1918 Spanish flu comparison"
+      ]
+    },
+    {
+      "start": "00:59:00",
+      "end": "01:03:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from England and NHS thanks",
+      "summary": "Listener Ben Cleaver of Harrogate, England, thanks the hosts and asks them to shout out UK NHS staff and medical workers. The hosts agree and give their listener mail contact information.",
+      "topics": [
+        "listener mail",
+        "NHS thanks",
+        "healthcare workers"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:03:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck close the episode and provide the listener email address.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19076,
+    "output_tokens": 3357
+  }
+}

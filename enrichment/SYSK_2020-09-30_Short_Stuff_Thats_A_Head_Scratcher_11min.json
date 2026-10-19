@@ -1,0 +1,149 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-09-30_Short_Stuff_Thats_A_Head_Scratcher_11min.txt",
+  "title": "Short Stuff: That's A Head Scratcher",
+  "date": "2020-09-30",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-thats-a-head-scratcher",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f387799f-838a-4fea-a1fd-ae28002d358c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f387799f-838a-4fea-a1fd-ae28002d358c/transcript?format=TextWithTimestamps&t=1700543613",
+  "summary": "Short Stuff installment on why people scratch their heads when thinking or puzzled. The hosts go through several explanations: a vestigial remnant of an aggressive arm-raising reflex when angry, self-soothing through touch (citing former FBI counterintelligence agent Joe Navarro's 2009 Psychology Today article and a 2017 Scientific Reports study of rhesus macaques, where stressed monkeys that scratched were attacked less), displacement activity (animals and people redirecting stress into unrelated behavior), and a dominant learning mode explanation where tactile or visual learners touch their heads or look up. The episode ends with a brief sign-off and an ad read.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "head scratching",
+    "scratching your head when thinking",
+    "body language",
+    "self-soothing",
+    "displacement activity",
+    "stress behavior",
+    "rhesus macaques",
+    "animal behavior",
+    "evolution of behavior",
+    "learning modes",
+    "visual learners",
+    "tactile learners",
+    "Joe Navarro",
+    "nonverbal communication",
+    "thinking gestures",
+    "fight or flight remnant",
+    "why we do things",
+    "psychology"
+  ],
+  "entities": [
+    {
+      "name": "Joe Navarro",
+      "type": "person"
+    },
+    {
+      "name": "Psychology Today",
+      "type": "organization"
+    },
+    {
+      "name": "Scientific Reports",
+      "type": "work"
+    },
+    {
+      "name": "Rhesus macaque",
+      "type": "other"
+    },
+    {
+      "name": "Seinfeld",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and setting up head scratching",
+      "summary": "The hosts introduce the Short Stuff episode and joke about the producer. They frame the topic: scratching your head when thinking is a cultural idiom with no definitive explanation.",
+      "topics": [
+        "head scratching",
+        "short stuff intro"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:40",
+      "kind": "content",
+      "title": "Evolutionary remnant explanation",
+      "summary": "One explanation is that head scratching is a remnant of an ancestral anger response, where the arm rises to strike and is stopped, leaving a rubbing of the head or neck. The hosts note it seems thin but link it to rubbing the forehead or neck when furious.",
+      "topics": [
+        "evolutionary remnant",
+        "anger response",
+        "head scratching origins",
+        "fight or flight remnant"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:04:40",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Break before returning to the topic.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Self-soothing and Joe Navarro",
+      "summary": "Former FBI counterintelligence agent Joe Navarro, in a 2009 Psychology Today article, said stress prompts hand-to-body touching as self-soothing. The hosts say the head is touched because the brain is there.",
+      "topics": [
+        "self-soothing",
+        "Joe Navarro",
+        "Psychology Today",
+        "stress and touch"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Rhesus macaque stress study",
+      "summary": "A 2017 Scientific Reports study found that higher-ranking rhesus macaques that scratched or itched when stressed were left alone by other macaques more than those that did not. The hosts connect this to a Seinfeld bit about looking stressed to avoid people.",
+      "topics": [
+        "rhesus macaques",
+        "2017 study",
+        "Scientific Reports",
+        "stress signaling",
+        "Seinfeld"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:10",
+      "kind": "content",
+      "title": "Displacement activity",
+      "summary": "Displacement activity is when an animal facing conflicting options performs an unrelated behavior, such as preening or pecking the ground. The hosts give a bike-crash anecdote from Athens as an example of a human doing the same.",
+      "topics": [
+        "displacement activity",
+        "animal behavior",
+        "preening",
+        "stress behavior"
+      ]
+    },
+    {
+      "start": "00:10:10",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Learning modes and wrap-up",
+      "summary": "A final explanation holds that head touching or looking up reflects a dominant learning mode, with tactile and visual learners reverting to their preferred sense. Josh says he is a strong visual learner. The episode closes with a sign-off and an ad read.",
+      "topics": [
+        "learning modes",
+        "visual learners",
+        "tactile learners",
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4666,
+    "output_tokens": 1642
+  }
+}

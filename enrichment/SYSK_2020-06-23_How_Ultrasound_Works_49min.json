@@ -1,0 +1,283 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-06-23_How_Ultrasound_Works_49min.txt",
+  "title": "How Ultrasound Works",
+  "date": "2020-06-23",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ultrasound-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/56312f08-c645-4340-a2a4-ae280033b735/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/56312f08-c645-4340-a2a4-ae280033b735/transcript?format=TextWithTimestamps&t=1700543621",
+  "summary": "Josh and Chuck explain how ultrasound works, starting with the book announcement and a banter-heavy intro. They cover sonograms, piezoelectric transducer probes squeezing crystals to produce high-frequency sound, echolocation comparisons with sonar and bats, the history (Karl Dussik's 1942 brain work, Ian Donald's 1950s obstetric use), and the Curie brothers' piezoelectric effect. They describe the machine's components, the transducer array evolution, 2D, 3D, M-mode and Doppler imaging, and clinical uses in obstetrics, cardiology, kidney stones, prostate, and emergency rooms. They discuss safety concerns, including a 2017 study on DNA breakage and heating in animals. The episode closes with a joking walkthrough of an ultrasound exam, future applications (acoustic levitation, drug delivery across the blood-brain barrier, ultrasound liposuction, wound healing), and a listener mail segment plugging a child's podcast.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ultrasound",
+    "how ultrasound works",
+    "sonogram",
+    "transducer probe",
+    "piezoelectric effect",
+    "Curie brothers",
+    "echolocation",
+    "sonar",
+    "3D ultrasound",
+    "M-mode ultrasound",
+    "Doppler ultrasound",
+    "obstetric ultrasound",
+    "prenatal ultrasound",
+    "echocardiography",
+    "kidney stone imaging",
+    "ultrasound safety",
+    "medical imaging history",
+    "Karl Dussik",
+    "Ian Donald",
+    "acoustic levitation",
+    "focused ultrasound drug delivery",
+    "blood brain barrier",
+    "ultrasound liposuction",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Karl Dussik",
+      "type": "person"
+    },
+    {
+      "name": "Ian Donald",
+      "type": "person"
+    },
+    {
+      "name": "Pierre Curie",
+      "type": "person"
+    },
+    {
+      "name": "Jacques Curie",
+      "type": "person"
+    },
+    {
+      "name": "Marie Curie",
+      "type": "person"
+    },
+    {
+      "name": "Siemens Sequoia",
+      "type": "other"
+    },
+    {
+      "name": "Doppler ultrasound",
+      "type": "other"
+    },
+    {
+      "name": "piezoelectric effect",
+      "type": "other"
+    },
+    {
+      "name": "sonogram",
+      "type": "other"
+    },
+    {
+      "name": "Franz Kafka",
+      "type": "person"
+    },
+    {
+      "name": "Werner Herzog",
+      "type": "person"
+    },
+    {
+      "name": "Dagan Hofeld",
+      "type": "person"
+    },
+    {
+      "name": "A Child's Perspective of Current Events",
+      "type": "work"
+    },
+    {
+      "name": "Happy Days",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "kind": "ad",
+      "title": "Book announcement and show open",
+      "summary": "The hosts promote their upcoming book, Stuff You Should Know: An Incomplete Compendium of Mostly Interesting Things, available for pre-order, then open the show.",
+      "topics": [
+        "book announcement",
+        "pre-order"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck riff on Happy Days episodes, then introduce ultrasound and mention the sonogram article they are working from.",
+      "topics": [
+        "banter",
+        "Happy Days"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "What ultrasound is and the crystal principle",
+      "summary": "Ultrasound is introduced as used for babies and many other things. A transducer probe's crystals are squeezed to produce very high-frequency sound vibrations, and the returning echoes hit the crystals to produce electrical impulses that become images.",
+      "topics": [
+        "ultrasound",
+        "transducer probe",
+        "sonogram",
+        "crystal vibration",
+        "ultrasound frequency"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Echoes, electricity, and history",
+      "summary": "The hosts describe how echoes bounce back and are converted to electrical impulses and images. They discuss the surprise that crystals are involved, then cover Karl Dussik's 1942 brain tumor search and Ian Donald's 1950s sonogram work.",
+      "topics": [
+        "echo imaging",
+        "Karl Dussik",
+        "Ian Donald",
+        "ultrasound history",
+        "ultrasound vs X-ray radiation"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Sonar, echolocation, and image resolution",
+      "summary": "Ultrasound is compared to military sonar and bat echolocation. The hosts note early bat-based experiments and discuss how higher frequency gives finer resolution but reflects more easily, and how 3D imaging combines frequencies.",
+      "topics": [
+        "sonar",
+        "echolocation",
+        "bats",
+        "ultrasound resolution",
+        "frequency and penetration"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Brief break before returning to the machine.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Parts of the ultrasound machine",
+      "summary": "The hosts walk through the components from an older article: transducer probe types including the internal probe, the CPU and power supply, controls, display, keyboard, disk storage, and printer. They note machines have changed little beyond getting smaller and more powerful.",
+      "topics": [
+        "ultrasound machine components",
+        "transducer probe types",
+        "ultrasound equipment",
+        "ultrasound printer"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Transducer arrays and the piezoelectric effect",
+      "summary": "The hosts explain how early probes used a single crystal and how arrays of crystals improved resolution. They credit Pierre and Jacques Curie with discovering the piezoelectric effect in the 1880s and discuss how echo intensity maps tissue density.",
+      "topics": [
+        "crystal arrays",
+        "piezoelectric effect",
+        "Curie brothers",
+        "image mapping",
+        "real-time imaging"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "2D, 3D, M-mode, and Doppler imaging",
+      "summary": "The hosts describe 2D snapshots, 3D imaging from crystal arrays, M-mode for motion, and Doppler ultrasound for blood flow, comparing Doppler color maps to weather radar.",
+      "topics": [
+        "2D ultrasound",
+        "3D ultrasound",
+        "M-mode",
+        "Doppler ultrasound",
+        "blood flow measurement"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Brief break before the clinical uses discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Clinical uses of ultrasound",
+      "summary": "Obstetric uses include checking size, position, placenta, number of fetuses, ectopic pregnancy, and amniotic fluid, plus guiding amniotic sampling. Other uses include cardiology valve checks, kidney stones, prostate lumps, and emergency room triage.",
+      "topics": [
+        "obstetric ultrasound",
+        "ectopic pregnancy",
+        "amniotic fluid",
+        "echocardiography",
+        "kidney stones",
+        "prostate ultrasound",
+        "emergency room ultrasound"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Ultrasound safety",
+      "summary": "The hosts say ultrasound is generally considered safe with no radiation, though heat and bubble formation are concerns. They mention a 2017 study finding DNA strand breaks and animal heating from some continuous-wave and rapid pulsed ultrasound.",
+      "topics": [
+        "ultrasound safety",
+        "heating effects",
+        "DNA damage study",
+        "prenatal ultrasound risks"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:30",
+      "kind": "content",
+      "title": "Joking exam walkthrough and future applications",
+      "summary": "Josh and Chuck read a tongue-in-cheek Franz Kafka guide to getting an ultrasound, then discuss acoustic levitation, ultrasound-boosted chemotherapy across the blood-brain barrier, ultrasound liposuction, and wound healing.",
+      "topics": [
+        "ultrasound exam procedure",
+        "acoustic levitation",
+        "focused ultrasound drug delivery",
+        "ultrasound wound healing",
+        "ultrasound liposuction"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "A listener mail from eleven-year-old Dagan Hofeld promotes his podcast A Child's Perspective of Current Events. The hosts give a plug and sign off.",
+      "topics": [
+        "listener mail",
+        "podcast promotion"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15643,
+    "output_tokens": 3168
+  }
+}

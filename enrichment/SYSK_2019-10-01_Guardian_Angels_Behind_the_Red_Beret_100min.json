@@ -1,0 +1,362 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-10-01_Guardian_Angels_Behind_the_Red_Beret_100min.txt",
+  "title": "Guardian Angels: Behind the Red Beret",
+  "date": "2019-10-01",
+  "duration": "100 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/guardian-angels-behind-the-red-beret",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f6eae220-42d0-47d0-bce3-ae280045267e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f6eae220-42d0-47d0-bce3-ae280045267e/transcript?format=TextWithTimestamps&t=1700543678",
+  "summary": "Josh and Chuck profile the Guardian Angels, the citizen anti-crime group founded by Curtis Sliwa (spelled Sliwa in the transcript's later references) out of a Bronx McDonald's in the 1970s. They cover 1970s New York crime and subway fear, the Magnificent Thirteen origins, the red beret and satin jacket uniform, rules and patrol tactics, the controversies (publicity stunts, the Bernie Goetz praise, the Frank Melvin shooting by police, the New Yorker article and police union criticism), the 1980s peak and Mayor Koch's support, expansion to other cities, and Sliwa's later run-ins. The episode closes with a long guest segment with John Hodgman about his book Medallion Status, a hockey logo tangent, Breaking Bad and Blind Spot anecdotes, and a Yale secret society story.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Guardian Angels",
+    "Curtis Sliwa",
+    "citizen patrols",
+    "vigilantism",
+    "1970s New York crime",
+    "New York subway crime",
+    "red beret",
+    "Magnificent Thirteen",
+    "McDonald's night manager",
+    "Bernie Goetz",
+    "Frank Melvin shooting",
+    "Death Wish films",
+    "Ed Koch",
+    "New Yorker Nicholas Pileggi article",
+    "Black Spades",
+    "Curtis Sliwa",
+    "John Hodgman",
+    "Medallion Status",
+    "citizen's arrest",
+    "Atlanta child murders"
+  ],
+  "entities": [
+    {
+      "name": "Guardian Angels",
+      "type": "organization"
+    },
+    {
+      "name": "Curtis Sliwa",
+      "type": "person"
+    },
+    {
+      "name": "Bernie Goetz",
+      "type": "person"
+    },
+    {
+      "name": "Frank Melvin",
+      "type": "person"
+    },
+    {
+      "name": "Ed Koch",
+      "type": "person"
+    },
+    {
+      "name": "John Hodgman",
+      "type": "person"
+    },
+    {
+      "name": "Black Spades",
+      "type": "organization"
+    },
+    {
+      "name": "Death Wish",
+      "type": "work"
+    },
+    {
+      "name": "Escape from New York",
+      "type": "work"
+    },
+    {
+      "name": "Taxi Driver",
+      "type": "work"
+    },
+    {
+      "name": "Medallion Status",
+      "type": "work"
+    },
+    {
+      "name": "New York City subway",
+      "type": "place"
+    },
+    {
+      "name": "Bronx",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta child murders",
+      "type": "event"
+    },
+    {
+      "name": "Nicholas Pileggi",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and guest tease",
+      "summary": "Hosts joke around, introduce the Guardian Angels episode, and tease that John Hodgman is in the office promoting his book Medallion Status.",
+      "topics": [
+        "Guardian Angels",
+        "John Hodgman",
+        "Medallion Status"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Introducing the Guardian Angels and Curtis Sliwa",
+      "summary": "The Guardian Angels are described as a citizen anti-crime group formed as a nonprofit under Curtis Sliwa, now in many cities and countries. Sliwa's early publicity-seeking life is covered, including Romper Room, a newsboy award, and recycling work.",
+      "topics": [
+        "Guardian Angels",
+        "Curtis Sliwa",
+        "vigilantism",
+        "publicity"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Death Wish films and 1970s New York crime",
+      "summary": "The hosts discuss the Death Wish films and Escape from New York as reflections of the crime anxiety of the era, then cite homicide and subway felony statistics from the 1970s.",
+      "topics": [
+        "Death Wish",
+        "Escape from New York",
+        "1970s New York crime",
+        "New York subway crime",
+        "homicide statistics"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Subway fear and transit police cuts",
+      "summary": "The hosts describe subway lawlessness and fear in the 1970s, and budget cuts that laid off transit police and ended night patrols, setting the context for Sliwa's decision to act.",
+      "topics": [
+        "transit police cuts",
+        "subway fear",
+        "New York fiscal crisis",
+        "1970s crime"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:25:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Sliwa's early life and McDonald's night shift",
+      "summary": "Sliwa's background in Brooklyn, his dropping out or expulsion from high school, and his job as a night manager at a Bronx McDonald's, where staff kept nunchucks by the fryer and fought a gang. Sliwa's account is noted as possibly embellished.",
+      "topics": [
+        "Curtis Sliwa biography",
+        "McDonald's Bronx",
+        "gang confrontation",
+        "nunchucks"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Magnificent Thirteen, red beret, and origins of the uniform",
+      "summary": "After the McDonald's incident, the night crew became the Magnificent Thirteen and took patrols to the subway's F/4 train line. The red beret, satin jacket, and winged eye logo were developed, and the group became the Guardian Angels. Police initially opposed them, partly because of the Black Spades history.",
+      "topics": [
+        "Magnificent Thirteen",
+        "red beret",
+        "Guardian Angels uniform",
+        "Black Spades",
+        "police opposition"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Membership rules, racial politics, and patrol tactics",
+      "summary": "Membership rules included age sixteen minimum and no serious criminal record, with a second-chance approach for former petty criminals. Members patrolled in groups, were patted down for weapons, and were dispatched by Sliwa. Subway patrols involved standing at attention and hand signals at each stop. The hosts compare them to costumed superheroes.",
+      "topics": [
+        "Guardian Angels rules",
+        "membership",
+        "subway patrols",
+        "citizen patrol tactics",
+        "racial politics"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Entrapment, use of force, and the McDonald's-style origin tactics",
+      "summary": "The hosts discuss the legal limits of citizen's arrest and force, and the early tactic of Sliwa and Don Chin acting as a plant to lure muggers, which a police commissioner said was dangerously close to entrapment. The group then moved to minimal force.",
+      "topics": [
+        "citizen's arrest",
+        "entrapment",
+        "use of force",
+        "Don Chin"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "01:04:00",
+      "kind": "content",
+      "title": "Money, media coverage, and the New Yorker article",
+      "summary": "The hosts discuss whether Sliwa got rich from the group, and the New Yorker article by Nicholas Pileggi that portrayed the group unfavorably, followed by letters supporting the Angels. Police union leaders called the group vigilantes, and Governor Cuomo offered support.",
+      "topics": [
+        "New Yorker article",
+        "Nicholas Pileggi",
+        "police union criticism",
+        "Mario Cuomo",
+        "media coverage"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:12:00",
+      "kind": "content",
+      "title": "Clashes with police, Penn Station assault, and the Frank Melvin shooting",
+      "summary": "Sliwa claims he was arrested many times and was kidnapped by police in New York and Washington, D.C., where he says he was beaten and thrown into the Potomac. He was punched in Penn Station and lost a front tooth. Guardian Frank Melvin was shot and killed by a police officer, which the hosts describe as a low point in relations.",
+      "topics": [
+        "Frank Melvin shooting",
+        "police harassment",
+        "Potomac kidnapping allegation",
+        "Penn Station assault"
+      ]
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:20:00",
+      "kind": "content",
+      "title": "1980s peak, Ed Koch, and expansion to other cities",
+      "summary": "The group peaked in the early-to-mid 1980s, reportedly reaching over a thousand members, with Mayor Ed Koch embracing them as budget cuts and crime persisted. Sliwa set up an ID card system, kept distance from police, and franchised chapters in cities like Sacramento, Los Angeles, Buffalo, and Cleveland. The hosts recall 1980s cartoon and TV appearances.",
+      "topics": [
+        "Ed Koch",
+        "Guardian Angels expansion",
+        "1980s",
+        "chapters",
+        "TV appearances"
+      ]
+    },
+    {
+      "start": "01:20:00",
+      "end": "01:27:00",
+      "kind": "content",
+      "title": "Atlanta child murders, Bernie Goetz, and faked stunts",
+      "summary": "The Guardian Angels came to Atlanta during the child murders and reportedly helped break the KKK suspicion story via Spin magazine. The hosts discuss the Bernie Goetz subway shooting and the group's support for him, and admitted staged stunts like the returned wallet and gasoline and bleeding bruises.",
+      "topics": [
+        "Atlanta child murders",
+        "Bernie Goetz",
+        "staged publicity stunts",
+        "vigilantism subway shooting"
+      ]
+    },
+    {
+      "start": "01:27:00",
+      "end": "01:30:00",
+      "kind": "content",
+      "title": "John Gotti Jr. kidnapping allegation and 2018 return",
+      "summary": "Sliwa alleged he was kidnapped and shot in 1992 after entering a stolen taxi, blamed on John Gotti Jr., who was tried three times, with juries unable to convict. The Angels reemerged in 2018.",
+      "topics": [
+        "John Gotti Jr.",
+        "Sliwa kidnapping",
+        "trials",
+        "2018 revival"
+      ]
+    },
+    {
+      "start": "01:30:00",
+      "end": "01:33:00",
+      "kind": "content",
+      "title": "Transition to John Hodgman",
+      "summary": "The hosts wrap the Guardian Angels discussion and bring in John Hodgman for the guest segment.",
+      "topics": [
+        "John Hodgman",
+        "transition"
+      ]
+    },
+    {
+      "start": "01:33:00",
+      "end": "01:50:00",
+      "kind": "content",
+      "title": "Extinct hockey logos and Hodgman's Medallion Status",
+      "summary": "Hodgman discusses his book Medallion Status, his interest in extinct sports teams and logos such as the Quebec Nordiques and Hartford Whalers, and a Penguins game where he wore a Whalers hat. He also shows a Nippon-Ham Fighters cap.",
+      "topics": [
+        "Medallion Status",
+        "extinct hockey teams",
+        "Hartford Whalers logo",
+        "Quebec Nordiques",
+        "Nippon-Ham Fighters"
+      ]
+    },
+    {
+      "start": "01:50:00",
+      "end": "02:00:00",
+      "kind": "content",
+      "title": "Hot dog sandwich debate and Judge John Hodgman",
+      "summary": "Hodgman talks about his Judge John Hodgman podcast and column, and a debate over whether a hot dog is a sandwich, with the hosts weighing in.",
+      "topics": [
+        "hot dog sandwich debate",
+        "Judge John Hodgman",
+        "podcast"
+      ]
+    },
+    {
+      "start": "02:00:00",
+      "end": "02:12:00",
+      "kind": "content",
+      "title": "Hodgman's acting roles: Breaking Bad and Blind Spot",
+      "summary": "Hodgman describes his roles on Blind Spot, Battlestar Galactica, and his turn-down of the Gabe role on Breaking Bad, plus his views on nostalgia.",
+      "topics": [
+        "Blind Spot",
+        "Breaking Bad",
+        "Battlestar Galactica",
+        "nostalgia",
+        "John Hodgman acting"
+      ]
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:26:00",
+      "kind": "content",
+      "title": "Yale secret societies and Hodgman's tour",
+      "summary": "Hodgman tells of his experience at Book and Snake at Yale, his advice to say yes, and details of his Medallion Status tour and pre-order promotion.",
+      "topics": [
+        "Yale secret societies",
+        "Book and Snake",
+        "Medallion Status tour",
+        "book pre-order"
+      ]
+    },
+    {
+      "start": "02:26:00",
+      "end": "02:40:00",
+      "kind": "outro",
+      "title": "Sign-off and show links",
+      "summary": "The hosts thank Hodgman and wrap up with contact information and show credits.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 32790,
+    "output_tokens": 4396
+  }
+}

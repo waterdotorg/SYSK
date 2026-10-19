@@ -1,0 +1,196 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-04-30_How_do_credit_default_swaps_work_22min.txt",
+  "title": "How do credit default swaps work?",
+  "date": "2009-04-30",
+  "duration": "22 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-do-credit-default-swaps-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/389880b8-af29-4a78-8795-ae2800bf8e7b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/389880b8-af29-4a78-8795-ae2800bf8e7b/transcript?format=TextWithTimestamps&t=1700543991",
+  "summary": "Josh and Chuck explain credit default swaps (CDS), using a health insurance analogy to illustrate how the instruments work: a buyer pays premiums to a seller who pays out if a debt defaults. They cover the derivative nature of CDS, their origins in the late 1990s on municipal bonds, how they spread to cover any debt, the lack of regulation and the independent arbitration panel, credit event disputes, the role of CDS in the 2007-2008 crisis (Lehman Brothers, AIG bailout), the market's size (roughly $62 trillion in July 2007, reduced to about $20 trillion), and a closing listener mail segment about \"Josh and I\" versus \"Josh and me\" grammar.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "credit default swaps",
+    "CDS",
+    "derivatives",
+    "financial derivatives",
+    "credit default swap market",
+    "municipal bonds",
+    "credit event",
+    "unregulated derivatives",
+    "over-the-counter market",
+    "Lehman Brothers collapse",
+    "AIG bailout",
+    "subprime mortgage crisis",
+    "financial crisis 2008",
+    "credit default swap arbitration panel",
+    "insurance on debt",
+    "bond insurance",
+    "global financial regulation",
+    "SEC",
+    "grammar I vs me",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Credit default swap",
+      "type": "other"
+    },
+    {
+      "name": "Lehman Brothers",
+      "type": "organization"
+    },
+    {
+      "name": "AIG",
+      "type": "organization"
+    },
+    {
+      "name": "Goldman Sachs",
+      "type": "organization"
+    },
+    {
+      "name": "Securities and Exchange Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Detroit",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Steven Pinker",
+      "type": "person"
+    },
+    {
+      "name": "The Language Instinct",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and caveat",
+      "summary": "Josh and Chuck open with off-topic banter, then Chuck warns that credit default swaps are a difficult topic and Josh will teach him along the way.",
+      "topics": [
+        "credit default swaps",
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Health insurance analogy for credit default swaps",
+      "summary": "Josh explains CDS using an analogy: owning someone else's health insurance policy, and a chain of accidents where no one can pay. He notes health insurance is regulated, while CDS on debt are not.",
+      "topics": [
+        "credit default swap explained",
+        "insurance analogy",
+        "health insurance regulation"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "What derivatives are and CDS origins in municipal bonds",
+      "summary": "CDS are described as derivatives whose value depends on another instrument, compared to oil futures. They began in the late nineties on municipal bonds, which are considered very safe because cities can tax citizens to repay them. Banks earned steady premium income from selling them.",
+      "topics": [
+        "derivatives",
+        "municipal bonds",
+        "bond insurance",
+        "oil futures",
+        "1990s credit markets"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Buyers, sellers, and spread to any debt",
+      "summary": "Josh walks through a buyer who holds city bonds and buys a CDS from a bank. The market grew because no municipalities defaulted, and CDS came to cover any debt. Policies and their sides can be sold to anyone without notice, and there is no regulation.",
+      "topics": [
+        "CDS buyers and sellers",
+        "premiums",
+        "unregulated market",
+        "transferring CDS"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Credit events, disputes, and the arbitration panel",
+      "summary": "A CDS pays out on a credit event such as bankruptcy or a refusal to repay. Because the market is unregulated, parties can dispute whether an event occurred. An independent arbitration panel of banks, investment houses and investors was formed, with the SEC and Treasury reportedly encouraging it.",
+      "topics": [
+        "credit event",
+        "CDS disputes",
+        "arbitration panel",
+        "litigation",
+        "SEC oversight"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Market size and the 2007-2008 crisis",
+      "summary": "The CDS market was valued at about $62 trillion in July 2007, comparable to global GDP of about $69 trillion in 2008. Betting on company failure could pay out more. Lehman Brothers failed as CDS losses cascaded when subprime mortgage securities declined, and AIG received bailout money because of its CDS holdings.",
+      "topics": [
+        "CDS market size",
+        "subprime mortgage crisis",
+        "Lehman Brothers",
+        "AIG bailout",
+        "counterparty risk",
+        "financial crisis"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Regulation, greed, and the path forward",
+      "summary": "The market has shrunk to about $20 trillion. Josh and Chuck argue the crisis reflects a pattern of lack of oversight followed by new regulation, and that greed finds loopholes. They conclude that more regulation is likely but that such crises may not be fully prevented.",
+      "topics": [
+        "financial regulation",
+        "Great Depression",
+        "SEC and FDA",
+        "regulation debate",
+        "capitalism and greed"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Blog plug",
+      "summary": "Hosts plug the Stuff You Should Know blog that they write daily, linked from the homepage.",
+      "topics": [
+        "blog plug"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:22:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: I and me grammar",
+      "summary": "Listener Keith of Alton, Illinois writes that in compound objects like 'send mail to Chuck and I,' either I or me is acceptable, citing Steven Pinker's The Language Instinct. The hosts agree and say they will send Keith a T-shirt. They invite listeners to send grammar feedback by email.",
+      "topics": [
+        "grammar",
+        "I vs me",
+        "pronoun case",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 8284,
+    "output_tokens": 2259
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-11-05_ADHD_pt_1_45min.txt",
+  "title": "ADHD pt 1",
+  "date": "2024-11-05",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/adhd-pt-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/973204b1-9307-42b4-a824-b214017bf284/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/973204b1-9307-42b4-a824-b214017bf284/transcript?format=TextWithTimestamps&t=1730766486",
+  "summary": "Part one of a two-part Stuff You Should Know episode on ADHD (attention deficit hyperactivity disorder). Hosts trace the history of the diagnosis from an 1789 Scottish physician's description, through George Frederick Still's 1902 \"defect of moral control,\" 1930s amphetamine experiments by Charles Bradley, Ritalin's development, and DSM revisions up to the 1994 three-type division. They then cover brain differences, genetics, dopamine and norepinephrine, executive function (working memory, inhibition, planning, time management, task shifting, decision making), default mode network, rejection sensitive dysphoria, hyperfocus and ADHD strengths. Part two is promised for a later episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ADHD",
+    "attention deficit hyperactivity disorder",
+    "ADD",
+    "history of ADHD diagnosis",
+    "Ritalin",
+    "methylphenidate",
+    "amphetamine treatment history",
+    "Charles Bradley benzedrine",
+    "George Frederick Still",
+    "DSM diagnostic changes",
+    "ADHD brain structure",
+    "ADHD genetics",
+    "dopamine and ADHD",
+    "norepinephrine",
+    "executive function",
+    "working memory",
+    "default mode network",
+    "rejection sensitive dysphoria",
+    "ADHD hyperfocus",
+    "ADHD masking",
+    "ADHD in adults",
+    "ADHD in girls",
+    "ADHD and work",
+    "neurodiversity"
+  ],
+  "entities": [
+    {
+      "name": "ADHD",
+      "type": "other"
+    },
+    {
+      "name": "attention deficit hyperactivity disorder",
+      "type": "other"
+    },
+    {
+      "name": "Sir Alexander Crichton",
+      "type": "person"
+    },
+    {
+      "name": "George Frederick Still",
+      "type": "person"
+    },
+    {
+      "name": "Franz Kramer",
+      "type": "person"
+    },
+    {
+      "name": "Hans Pollnow",
+      "type": "person"
+    },
+    {
+      "name": "Charles Bradley",
+      "type": "person"
+    },
+    {
+      "name": "Benzedrine",
+      "type": "other"
+    },
+    {
+      "name": "Ritalin",
+      "type": "other"
+    },
+    {
+      "name": "Ciba Geigy",
+      "type": "organization"
+    },
+    {
+      "name": "Leandro Panizzon",
+      "type": "person"
+    },
+    {
+      "name": "DSM",
+      "type": "work"
+    },
+    {
+      "name": "Ned Hallowell",
+      "type": "person"
+    },
+    {
+      "name": "Rhode Island facility for children with neurological problems",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:31",
+      "kind": "intro",
+      "title": "Content warning and cold open",
+      "summary": "Josh warns that the two-part ADHD episode discusses ADHD frankly and suggests parents of kids with ADHD preview it first.",
+      "topics": [
+        "ADHD content warning"
+      ]
+    },
+    {
+      "start": "00:00:31",
+      "end": "00:02:50",
+      "kind": "intro",
+      "title": "Opening banter and what ADHD is",
+      "summary": "Hosts introduce the two-part episode and explain ADHD as attention deficit hyperactivity disorder, noting its expanded understanding across kids, girls, and adults and the confusion over how the disorder is classified.",
+      "topics": [
+        "ADHD definition",
+        "attention deficit hyperactivity disorder",
+        "ADD vs ADHD"
+      ]
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "Early descriptions of ADHD",
+      "summary": "Hosts say ADHD symptoms were described as early as 1789 by Scottish physician Sir Alexander Crichton, and that the condition is not simply a product of modern screens or sugar.",
+      "topics": [
+        "history of ADHD",
+        "Alexander Crichton",
+        "ADHD not caused by screens"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Early 1900s to 1930s discoveries",
+      "summary": "George Frederick Still in 1902 described children with a defect of moral control, linked to impulsivity. In the 1930s, Franz Kramer and Hans Pollnow described hyperactivity, and in 1937 Charles Bradley at a Rhode Island facility found that Benzedrine made about half of the children treated less restless and more focused.",
+      "topics": [
+        "George Frederick Still",
+        "impulsivity history",
+        "Charles Bradley 1937",
+        "Benzedrine",
+        "amphetamine treatment history",
+        "Franz Kramer",
+        "Hans Pollnow"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:07:58",
+      "kind": "content",
+      "title": "Ritalin and psychiatric shifts",
+      "summary": "Hosts describe a gap before drug treatment became common, the 1950s shift toward prescribing, and Ciba Geigy developing Ritalin, named after the wife of chemist Leandro Panizzon. They then note early 20th-century views that developmental issues were brain injuries and the 1960s move away from that idea.",
+      "topics": [
+        "Ritalin origin",
+        "Ciba Geigy",
+        "Leandro Panizzon",
+        "1950s psychiatric drug prescribing",
+        "brain injury theory of developmental disorders"
+      ]
+    },
+    {
+      "start": "00:07:58",
+      "end": "00:09:02",
+      "kind": "content",
+      "title": "DSM-II and diagnostic naming",
+      "summary": "The DSM-II in the late 1960s introduced hyperkinetic reaction of childhood. Within about fifteen years it became attention deficit disorder (ADD), with subtypes based on hyperactivity.",
+      "topics": [
+        "DSM-II",
+        "hyperkinetic reaction of childhood",
+        "ADD diagnosis history"
+      ]
+    },
+    {
+      "start": "00:09:02",
+      "end": "00:11:08",
+      "kind": "content",
+      "title": "Genetics, adult diagnosis, and DSM-IV types",
+      "summary": "Hosts describe the 1987 naming of undifferentiated ADD, the 1990s discovery of a genetic component and adults being diagnosed, reasons ADHD was thought to be outgrown, and the 1994 DSM division into inattentive, hyperactive-impulsive, and combined types.",
+      "topics": [
+        "ADHD genetics",
+        "adult ADHD diagnosis",
+        "ADHD subtypes",
+        "DSM-IV",
+        "undifferentiated ADD",
+        "masking symptoms"
+      ]
+    },
+    {
+      "start": "00:11:08",
+      "end": "00:12:04",
+      "kind": "intro",
+      "title": "Ad break",
+      "summary": "Sponsor break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:12:04",
+      "end": "00:13:01",
+      "kind": "content",
+      "title": "Hosts' own ADHD diagnoses",
+      "summary": "Josh reveals he and Jerry both have ADHD and were diagnosed about a week apart. Chuck is the only one of the three without it. Hosts discuss how ADHD affects families and partners.",
+      "topics": [
+        "hosts ADHD diagnosis",
+        "ADHD in relationships",
+        "ADHD empathy"
+      ]
+    },
+    {
+      "start": "00:13:01",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "ADHD brain differences and genetics",
+      "summary": "Josh says brain scans show structural differences in people with ADHD, such as smaller or differently sized regions, and that brain size does not indicate intelligence. He explains that impulses slip through because of difficulty regulating emotion and behavior. Chuck and Jerry note differences detectable as early as age four.",
+      "topics": [
+        "ADHD brain structure",
+        "brain imaging",
+        "emotional regulation",
+        "ADHD impulsivity"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:17:29",
+      "kind": "content",
+      "title": "Dopamine, norepinephrine, and motivation",
+      "summary": "Hosts explain that ADHD involves differences in dopamine and norepinephrine, with reduced reward feedback making routine tasks like cleaning less rewarding. Josh notes the current understanding is more dopamine transporters rather than less dopamine production. Fatigue and anxiety can compound this.",
+      "topics": [
+        "dopamine",
+        "norepinephrine",
+        "dopamine transporters",
+        "ADHD motivation",
+        "reward system"
+      ]
+    },
+    {
+      "start": "00:17:29",
+      "end": "00:19:43",
+      "kind": "content",
+      "title": "Executive function overview",
+      "summary": "Josh and Jerry define executive function as the frontal lobe-based skills for prioritizing, handling distractions, and controlling impulses, and introduce six components that ADHD can impair, which vary in severity by person.",
+      "topics": [
+        "executive function",
+        "frontal lobe",
+        "ADHD executive dysfunction"
+      ]
+    },
+    {
+      "start": "00:19:43",
+      "end": "00:22:14",
+      "kind": "content",
+      "title": "Working memory, inhibition, and planning",
+      "summary": "Hosts explain working memory, self-restraint and inhibitory control including saying inappropriate things, and planning and problem solving, where people with ADHD may freeze when facing big tasks.",
+      "topics": [
+        "working memory",
+        "inhibitory control",
+        "planning and organization",
+        "task initiation"
+      ]
+    },
+    {
+      "start": "00:22:14",
+      "end": "00:24:02",
+      "kind": "content",
+      "title": "Decision making, ADHD paralysis, and time management",
+      "summary": "Hosts describe decision making difficulties and ADHD paralysis, and say parents and partners can help break tasks into steps. Time management and the value of deadlines for people with ADHD are discussed.",
+      "topics": [
+        "decision making ADHD",
+        "ADHD paralysis",
+        "time management",
+        "deadlines"
+      ]
+    },
+    {
+      "start": "00:24:02",
+      "end": "00:25:33",
+      "kind": "content",
+      "title": "Forgotten deadlines and story of a missed meeting",
+      "summary": "Josh tells the story of an adult with ADHD who forgot to run a Monday meeting, which likely cost him a promotion. Hosts note forgetting deadlines is a common reason.",
+      "topics": [
+        "missed deadlines",
+        "ADHD forgetfulness",
+        "workplace ADHD"
+      ]
+    },
+    {
+      "start": "00:25:33",
+      "end": "00:28:14",
+      "kind": "content",
+      "title": "Task shifting, everyday memory lapses, and back to one",
+      "summary": "Hosts describe set shifting and rigid thinking, a list of everyday ADHD struggles including forgotten bills and false memories, and walking into rooms and forgetting why. Josh and Chuck discuss the film term 'back to one' as a tip for recovering the thought.",
+      "topics": [
+        "task shifting",
+        "set shifting",
+        "ADHD memory lapses",
+        "back to one technique"
+      ]
+    },
+    {
+      "start": "00:28:14",
+      "end": "00:31:05",
+      "kind": "content",
+      "title": "Default mode network",
+      "summary": "Hosts explain the default mode network as the brain regions active during daydreaming and idleness, and how in ADHD it may stay active during focused tasks. Josh cites Ned Hallowell describing a persistent pull toward distraction. Breathing and mindfulness are suggested.",
+      "topics": [
+        "default mode network",
+        "daydreaming ADHD",
+        "mindfulness for ADHD",
+        "Ned Hallowell"
+      ]
+    },
+    {
+      "start": "00:31:05",
+      "end": "00:31:52",
+      "kind": "intro",
+      "title": "Ad break",
+      "summary": "Sponsor break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:31:52",
+      "end": "00:36:17",
+      "kind": "content",
+      "title": "Rejection sensitive dysphoria",
+      "summary": "Hosts describe rejection sensitive dysphoria (RSD) as an intense emotional response to perceived rejection or criticism, which can be internalized or externalized and can make relationships hard. Some people with RSD become people pleasers. Studies suggest nearly all people with ADHD also have RSD, though it is not yet in the DSM.",
+      "topics": [
+        "rejection sensitive dysphoria",
+        "RSD",
+        "emotional dysregulation ADHD",
+        "people pleasing"
+      ]
+    },
+    {
+      "start": "00:36:17",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Hyperfocus and ADHD strengths",
+      "summary": "Hosts discuss hyperfocus as a possible superpower, a corporate study claiming neurodiverse workers produce 90 to 140 percent more work in engaging roles, and examples like detailing a car for an hour and a half. They also cover the view that neurodiverse people can succeed in any field if interested, dot-connecting, high energy, strong moral compass, infectious excitement, and catastrophic thinking as an asset.",
+      "topics": [
+        "hyperfocus",
+        "ADHD strengths",
+        "ADHD at work",
+        "neurodiversity in the workplace",
+        "ADHD moral compass"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:06",
+      "kind": "outro",
+      "title": "Wrap-up and sign-off",
+      "summary": "Josh says part one ends here and part two will continue the topic. The hosts note there is no listener mail for two-part episodes and sign off with the show's production credit.",
+      "topics": [
+        "episode wrap-up",
+        "part two preview"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16495,
+    "output_tokens": 4429
+  }
+}

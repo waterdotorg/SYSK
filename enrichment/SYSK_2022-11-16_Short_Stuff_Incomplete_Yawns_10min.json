@@ -1,0 +1,128 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-11-16_Short_Stuff_Incomplete_Yawns_10min.txt",
+  "title": "Short Stuff: Incomplete Yawns",
+  "date": "2022-11-16",
+  "duration": "10 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-incomplete-yawns",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aa6e90c9-b353-4b97-9292-af4e00e62709/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/aa6e90c9-b353-4b97-9292-af4e00e62709/transcript?format=TextWithTimestamps&t=1700557377",
+  "summary": "Short Stuff episode on incomplete yawns. The hosts describe the frustration of being unable to finish a yawn, which researchers call \"anhedonia\" in the transcript (rendered as \"an hardonia\"), and note it may stem from stress, anxiety, or unconscious inhibition of the relaxation at the end of a yawn. They discuss cortisol and possible central nervous system links, though researchers don't fully understand the mechanism. Tips to complete a yawn include opening the mouth wide, holding it open through the yawn, relaxing, and watching or listening to yawning content; deep breathing is said to be counterproductive because it can cause hyperventilation. They close with disappearing yawns (a possible Parkinson's indicator linked to missing dopamine reward) and excessive yawning, including a story of a woman who yawned for days or weeks.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "incomplete yawn",
+    "incomplete yawns",
+    "yawning",
+    "contagious yawning",
+    "anhedonia",
+    "yawn satisfaction",
+    "stress and yawning",
+    "anxiety and yawning",
+    "cortisol",
+    "central nervous system",
+    "how to complete a yawn",
+    "deep breathing and hyperventilation",
+    "disappearing yawn",
+    "Parkinson's disease",
+    "dopamine",
+    "excessive yawning",
+    "chronic yawning",
+    "Stuff You Should Know short stuff"
+  ],
+  "entities": [
+    {
+      "name": "Parkinson's disease",
+      "type": "other"
+    },
+    {
+      "name": "cortisol",
+      "type": "other"
+    },
+    {
+      "name": "anhedonia",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening and the frustration of incomplete yawns",
+      "summary": "The hosts introduce the episode and note that yawns are contagious and suggestible. They describe the unsatisfying experience of being unable to finish a yawn and the term used by yawning researchers for it, which the transcript spells as 'an hardonia' and describes as frustration from an incomplete yawn.",
+      "topics": [
+        "incomplete yawn",
+        "yawning",
+        "contagious yawning",
+        "anhedonia"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Causes: stress, anxiety, and cortisol",
+      "summary": "The hosts explain that stress or anxiety can prevent the facial muscles from relaxing enough to finish a yawn, and that a lack of nervous system dysfunction could be a more troubling cause. Researchers know cortisol is involved but not exactly how it affects yawning.",
+      "topics": [
+        "stress and yawning",
+        "anxiety and yawning",
+        "cortisol",
+        "central nervous system"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "How to complete a yawn",
+      "summary": "Tips include opening the mouth wide, holding it open after the yawn starts, staying patient, relaxing and letting the yawn happen, and watching or listening to yawning videos or hearing the word yawn repeatedly to trigger contagion.",
+      "topics": [
+        "how to complete a yawn",
+        "yawning tips",
+        "contagious yawning"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Why deep breathing backfires",
+      "summary": "The hosts say the common advice to take many deep breaths can be counterproductive, since it may cause hyperventilation, which signals anxiety to the body and makes completing a yawn harder.",
+      "topics": [
+        "deep breathing and hyperventilation",
+        "anxiety",
+        "how to complete a yawn"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Disappearing yawns and excessive yawning",
+      "summary": "The hosts discuss yawns that no longer feel rewarding, linked to a missing dopamine hit and possibly an indicator of Parkinson's disease, and then excessive yawning, including a story of someone yawning for days or weeks.",
+      "topics": [
+        "disappearing yawn",
+        "Parkinson's disease",
+        "dopamine",
+        "excessive yawning",
+        "chronic yawning"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:10:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up with a closing joke and the standard show credits, noting the show is a production of iHeartRadio.",
+      "topics": [
+        "Stuff You Should Know short stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4507,
+    "output_tokens": 1608
+  }
+}

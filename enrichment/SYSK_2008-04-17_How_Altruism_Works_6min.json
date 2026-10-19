@@ -1,0 +1,128 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-04-17_How_Altruism_Works_6min.txt",
+  "title": "How Altruism Works",
+  "date": "2008-04-17",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-altruism-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd491ecf-a7bb-48dc-a8a8-ae2800c4970c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd491ecf-a7bb-48dc-a8a8-ae2800c4970c/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Candice Gibson discuss whether a truly unselfish act (altruism) exists. They open with a Friends episode (\"The One Where Phoebe Hates PBS\") that tackles the question, then define altruism as self-sacrifice for another's benefit. They cover Immanuel Kant's view that an altruistic act must give the actor nothing, including intangible \"warm fuzzy\" feelings; MRI evidence that charitable giving activates the brain's reward center; evolutionary explanations using a tree shedding leaves and a mother protecting her child; the religious idea of storing up good deeds; and Émile Durkheim's view that altruism is a social construct necessary for society. The hosts conclude that feeling good from doing good is not a problem.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "altruism",
+    "unselfish acts",
+    "philosophy of altruism",
+    "Immanuel Kant",
+    "Emile Durkheim",
+    "warm fuzzy feeling",
+    "evolution of altruism",
+    "reward center brain MRI charitable giving",
+    "Friends episode Phoebe Hates PBS",
+    "self-sacrifice",
+    "social construct morality",
+    "good deeds religion afterlife",
+    "kin selection",
+    "philosophy",
+    "ethics"
+  ],
+  "entities": [
+    {
+      "name": "Immanuel Kant",
+      "type": "person"
+    },
+    {
+      "name": "Émile Durkheim",
+      "type": "person"
+    },
+    {
+      "name": "Friends",
+      "type": "work"
+    },
+    {
+      "name": "The One Where Phoebe Hates PBS",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Opening and sponsor tag",
+      "summary": "Josh introduces the show and guest co-host Candice Gibson, who sets up the question of whether a truly unselfish act exists. A short sponsor line opens the episode.",
+      "topics": [
+        "intro",
+        "unselfish acts"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "Friends episode on unselfishness",
+      "summary": "Candice recalls a Friends episode in which Phoebe searches for a wholly unselfish act; her attempts (letting a bee sting her, pledging to PBS) end up feeling good to her. Josh notes the question is a long-running philosophical debate and defines altruism as self-sacrifice for another's benefit.",
+      "topics": [
+        "Friends episode Phoebe Hates PBS",
+        "altruism definition",
+        "unselfish acts"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Kant and the warm fuzzy feeling",
+      "summary": "Kant's caveat is that an altruistic act must give the actor nothing, including intangible rewards. Brain MRI studies show charitable giving activates the reward center and releases endorphins, which suggests warm fuzzies exist and somewhat supports Kant's skeptical view.",
+      "topics": [
+        "Immanuel Kant",
+        "warm fuzzy feeling",
+        "reward center brain MRI charitable giving",
+        "endorphins"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "Evolutionary views: trees and mothers",
+      "summary": "Evolution is offered as another reason altruism may be self-serving: a tree sheds leaves to insulate its roots, and a mother protects her child, both propagating their lineage. The hosts ask about a mother who dies saving her child, which leads to religious ideas of storing up good deeds.",
+      "topics": [
+        "evolution of altruism",
+        "kin selection",
+        "good deeds religion afterlife"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:05:45",
+      "kind": "content",
+      "title": "Durkheim and altruism as social construct",
+      "summary": "Émile Durkheim is described as seeing altruism as a social necessity: society needs self-sacrifice for the greater good, so benefactors are acting for society rather than the beneficiary. Josh and Candice find this view depressing.",
+      "topics": [
+        "Emile Durkheim",
+        "social construct morality",
+        "self-sacrifice",
+        "sociology"
+      ]
+    },
+    {
+      "start": "00:05:45",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Conclusion and sign-off",
+      "summary": "The hosts conclude that feeling good from doing good is fine, recommend the How Stuff Works article on the topic, invite listener email, and end with a sponsor line.",
+      "topics": [
+        "outro",
+        "warm fuzzies",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3374,
+    "output_tokens": 1619
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-05-31_The_Scintillating_World_of_Interest_Rates_45min.txt",
+  "title": "The Scintillating World of Interest Rates",
+  "date": "2022-05-31",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-scintillating-world-of-interest-rates",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/eb60294c-6c9e-409e-95e0-aea600f68ec9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eb60294c-6c9e-409e-95e0-aea600f68ec9/transcript?format=TextWithTimestamps&t=1700551825",
+  "summary": "Josh and Chuck explain interest rates, starting with the basics of borrowing and lending and the risk premium behind interest. They cover nominal versus real interest rates, the Federal Reserve (created 1913, twelve regional banks and a seven-member board), bank panics such as Louis Remy's ride to Portland, reserve requirements, the federal funds rate and discount rate, and how Fed open-market buying and selling of Treasury securities influences bank lending, stocks, and the dollar. They discuss inflation (the Fed's roughly two percent target), demand-pull versus cost-push inflation, stagflation, the Fed's recent half-point rate hike, the risk of recession, and the soft-landing goal. The episode closes with a listener mail about a gin and tonic recipe with orange, rosemary and black pepper, and a note about the studio move.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "interest rates",
+    "Federal Reserve",
+    "federal funds rate",
+    "discount rate",
+    "reserve requirement",
+    "inflation",
+    "demand-pull inflation",
+    "cost-push inflation",
+    "stagflation",
+    "soft landing",
+    "nominal interest rate",
+    "real interest rate",
+    "bank run",
+    "bank panic",
+    "Treasury bills",
+    "open market operations",
+    "secured versus unsecured debt",
+    "recession",
+    "monetary policy",
+    "rate hike"
+  ],
+  "entities": [
+    {
+      "name": "Federal Reserve",
+      "type": "organization"
+    },
+    {
+      "name": "Louis Remy",
+      "type": "person"
+    },
+    {
+      "name": "Ben Bernanke",
+      "type": "person"
+    },
+    {
+      "name": "Sacramento",
+      "type": "place"
+    },
+    {
+      "name": "Portland, Oregon",
+      "type": "place"
+    },
+    {
+      "name": "Treasury bills",
+      "type": "other"
+    },
+    {
+      "name": "Raising Arizona",
+      "type": "work"
+    },
+    {
+      "name": "The Green Night",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Studio farewell and opening banter",
+      "summary": "Josh and Chuck note this is one of the last recordings in their studio before a move, reminisce about the space, and set up the episode on interest rates after the Fed's recent half-point hike.",
+      "topics": [
+        "studio move",
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Interest rate basics and the Fed's recent hike",
+      "summary": "The hosts explain the Fed's half-point rate increase as an attempt to cool inflation and create a soft landing. They describe interest as the price of lending and compensation for risk, and contrast secured debt like mortgages with unsecured credit card debt.",
+      "topics": [
+        "interest rates",
+        "rate hike",
+        "soft landing",
+        "secured versus unsecured debt",
+        "risk and interest"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Nominal versus real interest rates and mortgage pricing",
+      "summary": "Chuck and Josh discuss why longer loans carry higher rates, why 15-year mortgages are cheaper, and how inflation erodes repayment value, distinguishing the nominal rate from the real rate. They also describe how banks forecast inflation when setting mortgage rates.",
+      "topics": [
+        "nominal interest rate",
+        "real interest rate",
+        "mortgage rates",
+        "inflation erosion",
+        "loan term"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Chain effects of mortgage rates and the Federal Reserve's founding",
+      "summary": "The hosts trace how rising mortgage rates ripple into housing, construction, and foreclosures. They then give an overview of the Federal Reserve, created in 1913 with twelve regional banks and a seven-member board, to stabilize a banking system marked by bank runs.",
+      "topics": [
+        "housing market",
+        "Federal Reserve history",
+        "1913 Federal Reserve Act",
+        "bank runs"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Bank panics and the Louis Remy story",
+      "summary": "Josh tells the story of Louis Remy, who rode from Sacramento to Portland after his bank failed, to recover his savings. The hosts discuss how bank panics spread as a chain reaction.",
+      "topics": [
+        "bank panic",
+        "Louis Remy",
+        "bank run chain reaction",
+        "historical anecdotes"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Reserve requirements, federal funds rate, and discount rate",
+      "summary": "The hosts explain that banks must hold reserves at the Fed, averaged over two weeks. Banks borrow overnight from each other at the federal funds rate, or from the Fed at the higher discount rate, which has primary, secondary, and seasonal tiers.",
+      "topics": [
+        "reserve requirement",
+        "federal funds rate",
+        "discount rate",
+        "seasonal lending",
+        "overnight lending"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Movie tangent",
+      "summary": "The hosts digress into recent films, including The Green Night and David Lowery, and discuss Raising Arizona and other movies.",
+      "topics": [
+        "movie banter",
+        "The Green Night",
+        "Raising Arizona"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "How the Fed moves rates through Treasury securities and the dollar",
+      "summary": "The hosts explain that the Fed sets a target for the federal funds rate and nudges it through buying and selling Treasury bills with primary dealers. They describe how this affects bank lending, stock market attractiveness, and the value of the dollar.",
+      "topics": [
+        "open market operations",
+        "Treasury bills",
+        "primary dealers",
+        "stock market and interest rates",
+        "dollar exchange rate"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Inflation, demand-pull versus cost-push, and recession risk",
+      "summary": "The hosts discuss the Fed's roughly two percent inflation target, stagflation, and demand-pull and cost-push theories. They examine the balancing act of cooling prices without causing recession and offer tips for preparing for a downturn.",
+      "topics": [
+        "inflation target",
+        "demand-pull inflation",
+        "cost-push inflation",
+        "stagflation",
+        "recession preparation"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:54:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: orange rosemary gin and tonic",
+      "summary": "A listener named Meg from Australia shares a gin and tonic recipe with orange, rosemary, and cracked black pepper, and the hosts react.",
+      "topics": [
+        "listener mail",
+        "gin and tonic recipe",
+        "cocktail"
+      ]
+    },
+    {
+      "start": "00:54:30",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck invite listeners to send emails and close the show.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15190,
+    "output_tokens": 2489
+  }
+}

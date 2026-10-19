@@ -1,0 +1,391 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-11-14_The_Fascinating_History_of_Dandelions_42min.txt",
+  "title": "The Fascinating History of Dandelions",
+  "date": "2024-11-14",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/2024-11-14-sysk-dandelions-final",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a3904d92-5dc0-4182-8127-b227012e114c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a3904d92-5dc0-4182-8127-b227012e114c/transcript?format=TextWithTimestamps&t=1731579016",
+  "summary": "Josh, Chuck and iHeart Intro (a co-host voice) explore the history and biology of the dandelion: its French name dent de lion, botanical name Taraxacum, the pappus and seed dispersal (including debunking the 100-kilometer travel myth), opening and closing flowers as a shepherd's clock, dandelion clocks, medicinal uses from Arabic physicians and 16th-century herbals through modern studies, edible uses and dandelion wine, its use as a Kazakh/Russian dandelion rubber source in World War Two, and how it became a hated lawn weed alongside postwar lawn culture. The episode closes with a call to action for the Cooperative for Education (CoEd) in Guatemala.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "dandelion",
+    "dandelion history",
+    "dandelion pappus",
+    "dandelion seed dispersal",
+    "dandelion clock",
+    "shepherd's clock",
+    "dandelion medicinal uses",
+    "dandelion diuretic",
+    "dandelion edible greens",
+    "dandelion wine",
+    "Taraxacum",
+    "dent de lion etymology",
+    "dandelion rubber",
+    "Kazakh dandelion",
+    "World War Two rubber shortage",
+    "lawn culture",
+    "dandelion weed",
+    "lawn monoculture",
+    "pollinators",
+    "taproot",
+    "Lawns to Legumes",
+    "Cooperative for Education Guatemala"
+  ],
+  "entities": [
+    {
+      "name": "Dandelion",
+      "type": "other"
+    },
+    {
+      "name": "Kazakh dandelion",
+      "type": "other"
+    },
+    {
+      "name": "Taraxacum",
+      "type": "other"
+    },
+    {
+      "name": "Cooperative for Education",
+      "type": "organization"
+    },
+    {
+      "name": "Guatemala",
+      "type": "place"
+    },
+    {
+      "name": "Ray Bradbury",
+      "type": "person"
+    },
+    {
+      "name": "Dandelion Wine",
+      "type": "work"
+    },
+    {
+      "name": "Garden of Health",
+      "type": "work"
+    },
+    {
+      "name": "William Langham",
+      "type": "person"
+    },
+    {
+      "name": "John Gerard",
+      "type": "person"
+    },
+    {
+      "name": "Nicholas Culpepper",
+      "type": "person"
+    },
+    {
+      "name": "Avicenna",
+      "type": "person"
+    },
+    {
+      "name": "Lawns to Legumes",
+      "type": "event"
+    },
+    {
+      "name": "Augusta National",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter and dandelion nicknames",
+      "summary": "The hosts introduce the episode, explain the nicknames Puffball, Blowball and Monk's Head for dandelions, and credit listener Sarah Andrews from Idaho for the topic.",
+      "topics": [
+        "dandelion nicknames",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Dandelion appearance and North American introduction",
+      "summary": "The hosts describe the dandelion's native range, its yellow flowers, rosette and hollow stalks, and note that colonists brought it to North America on purpose.",
+      "topics": [
+        "dandelion appearance",
+        "dandelion introduction to North America",
+        "rosette"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:20",
+      "kind": "content",
+      "title": "Pappus and seed flight",
+      "summary": "The hosts explain that each dandelion floret has a pappus that carries the seed, creating a vortex that keeps it aloft; a puffball submerged in water does not collapse.",
+      "topics": [
+        "dandelion pappus",
+        "seed dispersal",
+        "dandelion puffball"
+      ]
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Shepherd's clock and dandelion clocks",
+      "summary": "The flowers open in the morning and close in the evening, earning the name shepherd's clock, and the seed heads are called dandelion clocks based on the wish-and-puff tradition.",
+      "topics": [
+        "shepherd's clock",
+        "dandelion clock",
+        "photonasty",
+        "dandelion flower opening and closing"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:08:50",
+      "kind": "content",
+      "title": "Debunking the 100-kilometer seed travel myth",
+      "summary": "A 2003 study found only about one in seven thousand pappuses travels more than one kilometer, and most land within about ten meters of the parent plant, so the 100-kilometer claim is false.",
+      "topics": [
+        "dandelion seed travel myth",
+        "2003 seed dispersal study",
+        "seed distance"
+      ]
+    },
+    {
+      "start": "00:08:50",
+      "end": "00:09:50",
+      "kind": "content",
+      "title": "Stalk behavior after flowering",
+      "summary": "After flowering the hollow stalk lies limp on the ground and later rises again as the seeds ripen.",
+      "topics": [
+        "dandelion stalk",
+        "seed ripening"
+      ]
+    },
+    {
+      "start": "00:09:50",
+      "end": "00:10:50",
+      "kind": "content",
+      "title": "Name origin: dent de lion and Taraxacum",
+      "summary": "The name dandelion comes from French dent de lion, lion's tooth, for the serrated leaves. The genus Taraxacum has possible Greek and Arabic origins, and the species name refers to a monastery storeroom.",
+      "topics": [
+        "dandelion name origin",
+        "dent de lion",
+        "Taraxacum etymology"
+      ]
+    },
+    {
+      "start": "00:10:50",
+      "end": "00:12:10",
+      "kind": "content",
+      "title": "Pollinators, birds and year-round flowering",
+      "summary": "Dandelions provide nectar for bees, butterflies and other pollinators, seeds for birds, and bloom across much of the year, helping sustain wildlife in lean seasons.",
+      "topics": [
+        "dandelion pollinators",
+        "dandelion nectar",
+        "birds and dandelion seeds"
+      ]
+    },
+    {
+      "start": "00:12:10",
+      "end": "00:13:20",
+      "kind": "content",
+      "title": "Foraging and teaser on dandelion food",
+      "summary": "The hosts tease that dandelions are being eaten again through the foraging movement in the culinary world, which grew during COVID.",
+      "topics": [
+        "foraging",
+        "dandelion cooking",
+        "pot herb"
+      ]
+    },
+    {
+      "start": "00:13:20",
+      "end": "00:15:20",
+      "kind": "content",
+      "title": "Medieval and Arabic medicinal use and diuretic effect",
+      "summary": "Arabic physicians Rhazes and Avicenna wrote about dandelion as a diuretic in the tenth and eleventh centuries. French and English folk names refer to its urine-inducing effect, which is attributed to potassium.",
+      "topics": [
+        "dandelion diuretic",
+        "Rhazes",
+        "Avicenna",
+        "dandelion folk names pissenlit"
+      ]
+    },
+    {
+      "start": "00:15:20",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Sixteenth-century herbals and nutrition",
+      "summary": "The hosts discuss the 1597-era Garden of Health by William Langham and John Gerard's 1630s claims, and list the nutrients in dandelions, including vitamins A and C, potassium, calcium, iron, and inulin, along with flavonoids and other compounds.",
+      "topics": [
+        "Garden of Health",
+        "William Langham",
+        "John Gerard",
+        "dandelion nutrition",
+        "inulin prebiotic",
+        "ethylene gas ripening"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:20",
+      "kind": "content",
+      "title": "Modern studies on dandelion health effects",
+      "summary": "The hosts summarize studies: a 2015 Canadian study on UVB blocking, a 2016 Danish review on insulin production, liver fibrosis protection, and a University of Windsor study on cell death in pancreatic and prostate cancer cells in test tubes.",
+      "topics": [
+        "dandelion health studies",
+        "dandelion liver protection",
+        "dandelion blood sugar",
+        "dandelion cancer study",
+        "dandelion UVB"
+      ]
+    },
+    {
+      "start": "00:19:20",
+      "end": "00:21:10",
+      "kind": "content",
+      "title": "Ancient uses and Native American use",
+      "summary": "The hosts note traditional Chinese and Culpepper uses and suggest Native Americans may have used dandelions in tonics and cooking with fatty meats, possibly arriving before Europeans.",
+      "topics": [
+        "dandelion history",
+        "Native American dandelion use",
+        "Culpepper",
+        "dandelion tonic"
+      ]
+    },
+    {
+      "start": "00:21:10",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Dandelion food, drink and wine",
+      "summary": "Dandelion root is used in cordials, beers, and as a coffee substitute. The Economical Housewife, from the 1850s, may contain the first dandelion wine recipe. Ray Bradbury wrote Dandelion Wine in 1957, and French salad dishes use the leaves.",
+      "topics": [
+        "dandelion wine",
+        "dandelion coffee substitute",
+        "dandelion salad",
+        "Ray Bradbury Dandelion Wine",
+        "The Economical Housewife"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:24:25",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the next topic.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:24:25",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Dandelion rubber in World War Two",
+      "summary": "During World War Two, the US and Britain screened plants for rubber after Japan controlled rubber supply. The Soviets suggested the Kazakh dandelion, and seeds were shared. Dandelion rubber yielded less than hoped, and synthetic rubber from petroleum took over. Interest in sustainable natural rubber has revived.",
+      "topics": [
+        "dandelion rubber",
+        "Kazakh dandelion",
+        "Russian dandelion",
+        "World War Two rubber",
+        "synthetic rubber",
+        "natural rubber sustainability"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Dandelions as weeds and lawn culture",
+      "summary": "The dandelion became a hated weed as lawns became monocultures. The hosts trace lawn culture from British aristocracy in the seventeenth century, postwar American suburbanization, chemicals, Cold War conformity, and televised golf in 1957.",
+      "topics": [
+        "lawn culture",
+        "lawn monoculture",
+        "dandelion as weed",
+        "postwar suburbs",
+        "televised golf lawns",
+        "Cold War conformity"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Weed control: regrowth and taproot",
+      "summary": "Dandelions regrow from small root sections and have deep taproots, making them hard to remove. Golf course groundskeepers must keep up with them.",
+      "topics": [
+        "dandelion taproot",
+        "dandelion removal",
+        "dandelion regrowth",
+        "groundskeeping"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:34:40",
+      "kind": "content",
+      "title": "Lawn water use and pesticides",
+      "summary": "A 2005 study found residential lawns use more irrigation than any domestic agricultural crop. The US Fish and Wildlife Service says homeowners use up to ten times more pesticides per acre than farmers. The hosts discuss neighborhood pressure to keep perfect lawns.",
+      "topics": [
+        "lawn irrigation",
+        "lawn pesticides",
+        "neighborhood lawn norms"
+      ]
+    },
+    {
+      "start": "00:34:40",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Insect decline and pollinator-friendly lawn care",
+      "summary": "A 2019 review found insect populations falling about two and a half percent per year. The hosts suggest delaying mowing and mowing higher, and mention Minnesota's Lawns to Legumes rebate program. Taller grass can shade out dandelions.",
+      "topics": [
+        "insect decline",
+        "pollinator-friendly lawns",
+        "Lawns to Legumes",
+        "mowing height",
+        "non-chemical weed control"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:38:20",
+      "kind": "content",
+      "title": "Dandelion soil benefits and wrap-up",
+      "summary": "Dandelion taproots bring up nutrients and loosen compacted soil, benefiting neighboring plants. The hosts joke about the list of uses and decide to wrap up the episode.",
+      "topics": [
+        "dandelion soil nutrients",
+        "taproot soil aeration",
+        "episode wrap-up"
+      ]
+    },
+    {
+      "start": "00:38:20",
+      "end": "00:41:40",
+      "kind": "ad",
+      "title": "Cooperative for Education call to action",
+      "summary": "The hosts promote Cooperative for Education (CoEd) in Guatemala, a 20-dollar monthly sponsorship, a virtual hangout for donors who sign up by December third, and the web address.",
+      "topics": [
+        "Cooperative for Education",
+        "Guatemala education sponsorship",
+        "charity drive"
+      ]
+    },
+    {
+      "start": "00:41:40",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close with a mailing address and the show's production credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16213,
+    "output_tokens": 4477
+  }
+}

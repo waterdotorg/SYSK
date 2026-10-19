@@ -1,0 +1,289 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-11-08_Is_yogurt_a_miracle_food_46min.txt",
+  "title": "Is yogurt a miracle food?",
+  "date": "2018-11-08",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-yogurt-a-miracle-food",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cc5ce02c-395f-42af-b69a-ae2800591b82/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cc5ce02c-395f-42af-b69a-ae2800591b82/transcript?format=TextWithTimestamps&t=1700543720",
+  "summary": "Josh and Chuck explore yogurt: its accidental origins in the Middle East and Turkey (the word comes from Turkish yogurmak, \"to thicken\"), its spread to Europe and the US through Dannon (which moved to the Bronx and introduced fruit-on-the-bottom), the FDA and National Yogurt Association live-culture standards, how yogurt is made (pasteurizing, homogenizing, adding bacteria at around 115 F), how the bacteria help lactose intolerant people digest lactose and aid protein and folate, the health claims and weak evidence behind them (including a Wisconsin inflammation study funded by the National Dairy Council), weight loss caveats, sugar in kids' yogurts, and the Dannon \"In Soviet Georgia\" ad campaign. The episode closes with a listener mail about Robin Hood and King Richard and King John history.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "yogurt",
+    "yogurt history",
+    "yogurt origins",
+    "Middle East yogurt",
+    "Turkey yogurt",
+    "Dannon",
+    "fruit on the bottom yogurt",
+    "live and active cultures",
+    "probiotics",
+    "lactobacillus bulgaricus",
+    "streptococcus thermophilus",
+    "yogurt manufacturing",
+    "pasteurization",
+    "homogenization",
+    "lactose intolerance",
+    "yogurt nutrition",
+    "yogurt health claims",
+    "inflammation and yogurt",
+    "Greek yogurt",
+    "In Soviet Georgia ad campaign",
+    "yogurt weight loss",
+    "sugar in kids yogurt",
+    "Robin Hood",
+    "King Richard and King John"
+  ],
+  "entities": [
+    {
+      "name": "Dannon",
+      "type": "organization"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "National Yogurt Association",
+      "type": "organization"
+    },
+    {
+      "name": "National Dairy Council",
+      "type": "organization"
+    },
+    {
+      "name": "University of Wisconsin-Madison",
+      "type": "organization"
+    },
+    {
+      "name": "Turkey",
+      "type": "place"
+    },
+    {
+      "name": "Middle East",
+      "type": "place"
+    },
+    {
+      "name": "Soviet Georgia",
+      "type": "place"
+    },
+    {
+      "name": "Bronx",
+      "type": "place"
+    },
+    {
+      "name": "Lactobacillus bulgaricus",
+      "type": "other"
+    },
+    {
+      "name": "Streptococcus thermophilus",
+      "type": "other"
+    },
+    {
+      "name": "Adam Maskovitch",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Gray",
+      "type": "person"
+    },
+    {
+      "name": "Robin Hood",
+      "type": "work"
+    },
+    {
+      "name": "King Richard",
+      "type": "person"
+    },
+    {
+      "name": "King John",
+      "type": "person"
+    },
+    {
+      "name": "Greek yogurt",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter about yogurt",
+      "summary": "The hosts discuss whether they like yogurt and fruit on the bottom, their yogurt habits, and honey with Greek yogurt. They preview the episode and mention a past probiotics episode.",
+      "topics": [
+        "yogurt",
+        "Greek yogurt",
+        "probiotics"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "History of yogurt origins and spread",
+      "summary": "Yogurt likely began accidentally in the Middle East thousands of years ago when milk was stored in animal containers and soured. Its tangy form was tolerated by lactose intolerant people and helped civilization grow. The word yogurt is Turkish, and Turkey likely spread yogurt to Europe and India. Turkish per-capita consumption is compared with US consumption.",
+      "topics": [
+        "yogurt history",
+        "yogurt origins",
+        "Middle East yogurt",
+        "Turkey yogurt",
+        "yogurt word origin",
+        "yogurt consumption statistics"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Yogurt arrives in America with Dannon",
+      "summary": "Yogurt spread to Europe in the late nineteenth century and reached the US in the twentieth century. Dannon moved operations from Spain to the Bronx and popularized yogurt in America, with fruit on the bottom helping it take off, and later Greek-style yogurt became popular.",
+      "topics": [
+        "Dannon",
+        "fruit on the bottom yogurt",
+        "yogurt in America",
+        "Greek yogurt"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:16:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the probiotics discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Probiotics and live cultures standards",
+      "summary": "Probiotics are beneficial bacteria that replenish gut flora. Yogurt must meet National Yogurt Association and FDA standards, including a minimum of 100 million bacteria per gram and specific strains: Lactobacillus bulgaricus and Streptococcus thermophilus. Some bacteria survive stomach acid by pumping acid out.",
+      "topics": [
+        "probiotics",
+        "live and active cultures",
+        "lactobacillus bulgaricus",
+        "streptococcus thermophilus",
+        "gut microbiome",
+        "FDA yogurt standards"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Tangent on neti pots and water boiling",
+      "summary": "Josh describes his neti pot routine and the hosts discuss how long water should be boiled to kill pathogens, including altitude adjustments. The conversation ends with a joke about the brain-eating amoeba risk.",
+      "topics": [
+        "neti pot",
+        "boiling water",
+        "water safety",
+        "amoeba"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "How yogurt is made",
+      "summary": "Milk is separated into cream and skim, thickened with milk powder or gelatin, pasteurized briefly at about 171 F, and homogenized. It is cooled to about 115 F and then bacteria are added to ferment the milk into yogurt. The hosts note an upcoming homogenization/pasteurization discussion.",
+      "topics": [
+        "yogurt manufacturing",
+        "pasteurization",
+        "homogenization",
+        "fermentation",
+        "yogurt making"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Lactose intolerance and nutrients in yogurt",
+      "summary": "Bacteria in yogurt metabolize lactose into lactic acid and release an enzyme that helps people digest lactose, so many lactose intolerant people can eat yogurt. The bacteria also make protein more bioavailable and produce folate.",
+      "topics": [
+        "lactose intolerance",
+        "lactase enzyme",
+        "lactic acid",
+        "folate in yogurt",
+        "protein bioavailability"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Fruit on the bottom and the FDA",
+      "summary": "Dannon's fruit-on-the-bottom idea was reportedly suggested by Wan Metzker, son of a Dannon co-founder, and the USDA initially objected to mixing fruit with dairy. Placing fruit on the bottom was allowed as not mixing.",
+      "topics": [
+        "fruit on the bottom yogurt",
+        "Dannon",
+        "USDA dairy regulations",
+        "yogurt marketing"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Yogurt health claims and evidence",
+      "summary": "Yogurt is linked in studies to many benefits, but evidence is mixed and inconclusive. Calcium, vitamin D, protein, potassium, and riboflavin are real benefits. Low-fat yogurt may aid weight loss through fullness, but low-fat versions often add sugar, artificial sweeteners, or sodium. A University of Wisconsin-Madison study of sixty women, funded by the National Dairy Council, found some inflammation marker improvements, but not a cure for rheumatoid arthritis. Kids' yogurts are often high in sugar.",
+      "topics": [
+        "yogurt nutrition",
+        "yogurt health claims",
+        "inflammation and yogurt",
+        "yogurt weight loss",
+        "low fat yogurt",
+        "sugar in kids yogurt",
+        "National Dairy Council study",
+        "rheumatoid arthritis"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Traditional yogurt varieties and Dannon's In Soviet Georgia ad",
+      "summary": "Greek yogurt is the closest US option to traditional yogurt, and Bulgarian yogurt is also noted. Dannon's 1997 In Soviet Georgia ad campaign featured elderly people in the Soviet republic of Georgia and is credited with boosting yogurt sales in America.",
+      "topics": [
+        "Greek yogurt",
+        "Bulgarian yogurt",
+        "In Soviet Georgia ad campaign",
+        "Dannon advertising"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:45:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up by encouraging listeners to eat yogurt and invite listener mail.",
+      "topics": [
+        "sign-off"
+      ]
+    },
+    {
+      "start": "00:45:30",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Robin Hood history",
+      "summary": "Listener Stephen Gray corrects and expands the Robin Hood episode: Richard was king for ten years but spent only six months in England, John schemed against him, and the Robin Hood stories may reflect Henry III's heavy taxation for the war in Gascony.",
+      "topics": [
+        "Robin Hood",
+        "King Richard",
+        "King John",
+        "Henry III",
+        "medieval England"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15045,
+    "output_tokens": 3439
+  }
+}

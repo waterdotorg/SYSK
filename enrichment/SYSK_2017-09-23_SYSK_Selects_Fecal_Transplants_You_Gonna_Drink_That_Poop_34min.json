@@ -1,0 +1,206 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-09-23_SYSK_Selects_Fecal_Transplants_You_Gonna_Drink_That_Poop_34min.txt",
+  "title": "SYSK Selects: Fecal Transplants: You Gonna Drink That Poop?",
+  "date": "2017-09-23",
+  "duration": "34 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-fecal-transplants-you-gonna-drink-tha",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24205a12-8553-403d-a2a6-ae280070d254/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/24205a12-8553-403d-a2a6-ae280070d254/transcript?format=TextWithTimestamps&t=1700543797",
+  "summary": "SYSK Selects rerun (originally aired January) on fecal transplants, which the hosts frame as a fringe but effective medical procedure. Josh and Chuck cover the neurovirus (norovirus) and antibiotic-resistant Clostridium difficile infections and their deaths, the human microbiome and gut bacteria, the hygiene hypothesis, how babies acquire bacteria at birth and through breast milk, and the fecal transplant procedure itself (donor screening, blending stool with milk or saline, delivery by nasogastric or nasoduodenal tube or enema, success rates, cost, FDA classification as a drug). They also discuss links to metabolic syndrome and weight loss from mouse and rat studies, and the enteric nervous system or \"gut brain.\" The episode closes with a listener mail about condoms floating in the Hudson River after sewage overflows.",
+  "episode_kind": "rerun",
+  "rerun_of": "Fecal Transplants: You Gonna Drink That Poop?",
+  "topics": [
+    "fecal transplant",
+    "fecal microbiota transplant",
+    "poop shake",
+    "C. difficile",
+    "Clostridium difficile",
+    "norovirus",
+    "neurovirus",
+    "antibiotic resistance",
+    "antibiotic overprescription",
+    "human microbiome",
+    "gut bacteria",
+    "gut flora",
+    "medical ecology",
+    "Human Microbiome Project",
+    "hygiene hypothesis",
+    "breast milk bacteria",
+    "cesarean birth and microbiome",
+    "inflammatory bowel disease",
+    "metabolic syndrome",
+    "enteric nervous system",
+    "gut brain",
+    "vagus nerve",
+    "FDA fecal transplant drug classification",
+    "Hudson River sewage overflow",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "Clostridium difficile",
+      "type": "other"
+    },
+    {
+      "name": "norovirus",
+      "type": "other"
+    },
+    {
+      "name": "Human Microbiome Project",
+      "type": "organization"
+    },
+    {
+      "name": "Ben Eiseman",
+      "type": "person"
+    },
+    {
+      "name": "Denver General Hospital",
+      "type": "organization"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "Hudson River",
+      "type": "place"
+    },
+    {
+      "name": "Nicholas Gerbis",
+      "type": "person"
+    },
+    {
+      "name": "Tig Notaro",
+      "type": "person"
+    },
+    {
+      "name": "One Mississippi",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Rerun introduction and opening banter",
+      "summary": "Josh introduces the Saturday Selects episode, a January show on fecal transplants, mentioning Tig Notaro's show One Mississippi as the reason it came to mind. The hosts banter about the topic and their source article.",
+      "topics": [
+        "SYSK Selects",
+        "fecal transplant",
+        "Tig Notaro One Mississippi"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Norovirus and antibiotic resistance",
+      "summary": "The hosts describe norovirus (neurovirus) as spread easily in dorms, prisons and cruise ships, and say antibiotic overprescription has made it harder to treat. They also discuss how antibiotic use drives resistance in C. difficile, which is hard to treat.",
+      "topics": [
+        "norovirus",
+        "neurovirus",
+        "antibiotic overprescription",
+        "antibiotic resistance",
+        "C. difficile"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "C. difficile deaths and dehydration",
+      "summary": "The hosts say gastrointestinal infections are rising, with deaths doubling since 2007. Most deaths are in people 65 and older, and about two-thirds are from C. difficile. Dehydration from vomiting and diarrhea can disrupt heart rhythm and cause death.",
+      "topics": [
+        "C. difficile deaths",
+        "gastrointestinal infections",
+        "dehydration",
+        "electrolytes",
+        "epidemic"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "The human microbiome and gut bacteria",
+      "summary": "The hosts explain the microbiome as a large community of bacteria in the body, outnumbering human cells about ten to one. They discuss the emerging field of medical ecology, the Human Microbiome Project, and the hygiene hypothesis. They also describe bacterial colonies in the mouth, lungs and gut.",
+      "topics": [
+        "human microbiome",
+        "medical ecology",
+        "Human Microbiome Project",
+        "hygiene hypothesis",
+        "gut bacteria"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Babies, breast milk and early bacteria",
+      "summary": "The hosts discuss how babies acquire bacteria from the mother, including the vaginal microbiome at birth and about six hundred species in breast milk. They note that cesarean birth may affect later digestion and risk of conditions such as inflammatory bowel disease and staph infections, though this is debated.",
+      "topics": [
+        "breast milk bacteria",
+        "cesarean birth",
+        "infant microbiome",
+        "Lactobacillus",
+        "inflammatory bowel disease"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "How fecal transplants are performed",
+      "summary": "The hosts describe the fecal transplant procedure. Donor stool is screened for hepatitis, HIV and other germs, then blended with saline or milk. It is delivered by nasogastric or nasoduodenal tube, or by a retention enema. The patient prepares as for a colonoscopy. Success is about 77 to 90 percent in a long-term follow-up, and the procedure costs about a thousand dollars, mostly for screening.",
+      "topics": [
+        "fecal transplant procedure",
+        "donor screening",
+        "nasogastric tube",
+        "nasoduodenal tube",
+        "retention enema",
+        "fecal transplant success rate",
+        "fecal transplant cost"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "FDA classification, metabolic syndrome and the gut brain",
+      "summary": "The hosts discuss the FDA's classification of feces as a drug and the effect on insurance and research funding. They describe studies in mice and rats linking gut bacteria to metabolic syndrome and weight loss, and the enteric nervous system, which they call the gut's second brain. Serotonin and neurotransmitters are also tied to the gut.",
+      "topics": [
+        "FDA drug classification",
+        "metabolic syndrome",
+        "obesity and gut bacteria",
+        "enteric nervous system",
+        "gut brain",
+        "serotonin",
+        "vagus nerve"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:34:00",
+      "kind": "listener_mail",
+      "title": "Condoms in the Hudson River",
+      "summary": "A sailboat captain on the Hudson River writes that sewage overflow after heavy rain releases untreated waste into the river. He reports seeing many condoms among the floating trash, along with other debris, and says he tells children they are Coney Island whitefish.",
+      "topics": [
+        "Hudson River pollution",
+        "New York City sewage overflow",
+        "combined sewer overflow",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11251,
+    "output_tokens": 2571
+  }
+}

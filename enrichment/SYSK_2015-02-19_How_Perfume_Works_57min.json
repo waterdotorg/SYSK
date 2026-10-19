@@ -1,0 +1,318 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-02-19_How_Perfume_Works_57min.txt",
+  "title": "How Perfume Works",
+  "date": "2015-02-19",
+  "duration": "57 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-perfume-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6433b442-f59d-418f-be77-ae280090bac6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6433b442-f59d-418f-be77-ae280090bac6/transcript?format=TextWithTimestamps&t=1700543866",
+  "summary": "Josh and Chuck discuss how perfume works and its history. They open with banter about colognes (Drekar Noir, Benetton Colors) and whether scents go bad. They trace perfume's origins from priests burning incense to cover animal sacrifice odors, to the use of animal scent glands and ambergris, and to Grasse, France, where scented leather gloves gained fame after Catherine de Medici. They explain perfume composition: perfume oil diluted in alcohol and water, the forms of perfume by concentration, and top, heart, and base notes that evaporate in sequence. They cover Channel No. 5 and Marilyn Monroe, odor categories, how fragrance houses create a perfume from a client brief (using chemists, perfumers, gas chromatography, and headspace), and the Joop-style launch example. They also discuss the psychology of smell: why people wear perfume, whether smell preference is learned (winter green example) or innate, the Army's failed stink bomb, and claims about pheromones and attraction. The episode closes with a listener mail about Nostradamus and the end-of-the-world prediction.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "perfume",
+    "how perfume works",
+    "perfume history",
+    "cologne",
+    "eau de toilette",
+    "perfume oil concentration",
+    "top notes heart notes base notes",
+    "fragrance houses",
+    "perfumers",
+    "headspace technique",
+    "gas chromatography",
+    "ambergris",
+    "animal musk and civet",
+    "Grasse France perfume",
+    "Catherine de Medici perfumed gloves",
+    "Channel No. 5",
+    "Marilyn Monroe perfume",
+    "associative learning of smell",
+    "innate versus learned scent preference",
+    "pheromones and attraction",
+    "stink bomb",
+    "scent and immune system mate selection",
+    "Nostradamus prediction listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Catherine de Medici",
+      "type": "person"
+    },
+    {
+      "name": "Marilyn Monroe",
+      "type": "person"
+    },
+    {
+      "name": "Coco Chanel",
+      "type": "person"
+    },
+    {
+      "name": "Rachel Herz",
+      "type": "person"
+    },
+    {
+      "name": "Tom Ford",
+      "type": "person"
+    },
+    {
+      "name": "Christopher Brosius",
+      "type": "person"
+    },
+    {
+      "name": "Grasse",
+      "type": "place"
+    },
+    {
+      "name": "Channel No. 5",
+      "type": "work"
+    },
+    {
+      "name": "Obsession",
+      "type": "work"
+    },
+    {
+      "name": "Giorgio",
+      "type": "work"
+    },
+    {
+      "name": "Drakkar Noir",
+      "type": "work"
+    },
+    {
+      "name": "Demeter",
+      "type": "organization"
+    },
+    {
+      "name": "Polo",
+      "type": "organization"
+    },
+    {
+      "name": "Nostradamus",
+      "type": "person"
+    },
+    {
+      "name": "Ambergris",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and cologne talk",
+      "summary": "Josh and Chuck joke around, discussing Drakkar Noir and Benetton Colors and whether colognes go bad when stored improperly.",
+      "topics": [
+        "cologne",
+        "Drakkar Noir",
+        "perfume shelf life",
+        "storing perfume"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Origins of perfume",
+      "summary": "Perfume's roots lie in priests burning incense to mask the smell of animal sacrifices. Ancient Egyptians then used animal scent glands on their bodies, and the purpose has stayed largely sexual since.",
+      "topics": [
+        "perfume history",
+        "ancient Egypt perfume",
+        "incense",
+        "animal sacrifice",
+        "perfume definition"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Animal-derived scents: musk, castoreum, civet, ambergris",
+      "summary": "Early perfume ingredients came from animal scent glands, including musk deer, beaver castoreum, civet, and ambergris from sperm whales, which forms from material in the whale's gut and floats on the ocean. The hosts note ambergris is illegal in US perfumes.",
+      "topics": [
+        "musk",
+        "castoreum",
+        "civet",
+        "ambergris",
+        "animal-derived perfume ingredients",
+        "fixatives"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Chuck's dislike of synthetic scents and natural versus synthetic perfume",
+      "summary": "Chuck explains he dislikes perfumed products, such as scented sprays, detergents, and fabric softener. The hosts discuss that most perfumed products are synthetic and that essential oils are expensive.",
+      "topics": [
+        "synthetic fragrance",
+        "natural versus synthetic scents",
+        "essential oils",
+        "scented laundry products"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Grasse and the perfumed leather gloves of Catherine de Medici",
+      "summary": "Grasse in southern France became the perfume center because of its climate, which grows jasmine, orange blossom, and lavender. Its tanners perfumed stinky leather gloves and sent a pair to Catherine de Medici, who loved them, making Grasse the perfume capital.",
+      "topics": [
+        "Grasse France",
+        "Catherine de Medici",
+        "perfumed gloves",
+        "essential oil extraction",
+        "perfume history"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "What perfume is: concentration and dilution",
+      "summary": "Perfume is mostly alcohol and water with odorant molecules. Perfume oil, parfum, eau de toilette (about ten percent), and eau de cologne (lighter) differ by how much solvent they contain. Cologne can also mean a men's scent.",
+      "topics": [
+        "perfume concentration",
+        "parfum",
+        "eau de toilette",
+        "eau de cologne",
+        "perfume oil",
+        "alcohol solvent"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Channel No. 5, cologne trends, and perfume categories",
+      "summary": "Channel No. 5, the first perfume to use synthetic ingredients, became popular after Marilyn Monroe said she wore it. Cologne was popular, then fell away, then returned. The hosts list perfume families such as floral, fruity, green, woody, oriental, animalic, and fecal notes.",
+      "topics": [
+        "Channel No. 5",
+        "Marilyn Monroe",
+        "cologne trends",
+        "fragrance categories",
+        "fragrance families",
+        "Obsession fecal notes"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Top, heart, and base notes and evaporation",
+      "summary": "Alcohol lets the different odor molecules evaporate in sequence. Top notes come first and fade within minutes, heart notes follow for up to an hour, and base notes last longest. The hosts compare this to a symphony and note that body chemistry changes how a scent smells.",
+      "topics": [
+        "top notes",
+        "heart notes",
+        "base notes",
+        "evaporation",
+        "perfume longevity",
+        "body chemistry and scent"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Applying perfume and pulse points",
+      "summary": "The hosts advise dabbing perfume on pulse points like the wrists and behind the ears, avoiding rubbing, which generates heat and breaks down top notes. Josh describes his walk-through method.",
+      "topics": [
+        "applying perfume",
+        "pulse points",
+        "perfume tips",
+        "heat and evaporation"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "How fragrance houses create a perfume",
+      "summary": "A company such as Polo writes a brief. Chemists and perfumers at fragrance houses produce dozens of formulas, use gas chromatography and headspace analysis to copy natural scents, and go through testing before a winner is chosen. Polo then produces and dilutes the perfume oil. Knockoff perfumes are legal if the formula is slightly tweaked.",
+      "topics": [
+        "fragrance houses",
+        "perfume brief",
+        "perfumers",
+        "gas chromatography mass spectrometry",
+        "headspace",
+        "Demeter",
+        "knockoff perfume",
+        "perfume product development"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Why people wear perfume and learned versus innate smell",
+      "summary": "Rachel Herz's research on why people wear perfume by age and gender is discussed. The hosts cover the associative learning hypothesis, with the winter green example, versus the innate evolutionary view. They note the Army's failed universal stink bomb.",
+      "topics": [
+        "why people wear perfume",
+        "Rachel Herz",
+        "associative learning",
+        "innate smell preference",
+        "winter green",
+        "stink bomb",
+        "US Army stink bomb"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:04:00",
+      "kind": "content",
+      "title": "Pheromones, attraction, and scent and immunity",
+      "summary": "The hosts discuss the idea that scent influences mate selection through immune system differences, and argue that cologne may deceive that signal. They say there is no scientific proof of a human aphrodisiac, and that pigs have a vomeronasal organ for pheromones which humans lack.",
+      "topics": [
+        "pheromones",
+        "aphrodisiac",
+        "mate selection",
+        "immune system and smell",
+        "vomeronasal organ",
+        "scent and attraction"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:06:00",
+      "kind": "content",
+      "title": "Giorgio ban and closing remarks",
+      "summary": "Giorgio was banned from some restaurants because of its strength, which boosted sales. Chuck mentions the Obsession smell in his building's elevator.",
+      "topics": [
+        "Giorgio",
+        "restaurant perfume bans",
+        "strong perfume"
+      ]
+    },
+    {
+      "start": "01:06:00",
+      "end": "01:08:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Nostradamus and the Gangnam Style prediction",
+      "summary": "A listener from Toronto, Julia Ka, writes about a supposed Nostradamus prediction linked to Gangnam Style and December 21 that the hosts read.",
+      "topics": [
+        "listener mail",
+        "Nostradamus",
+        "end of the world prediction",
+        "Gangnam Style"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:09:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to share favorite or hated perfumes on social media and email, and direct them to the website.",
+      "topics": [
+        "listener feedback",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18283,
+    "output_tokens": 3683
+  }
+}

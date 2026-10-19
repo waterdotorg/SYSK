@@ -1,0 +1,247 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-02-11_Optogenetics_Controlling_Your_Genes_with_Light_46min.txt",
+  "title": "Optogenetics: Controlling Your Genes with Light",
+  "date": "2020-02-11",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/optogenetics-controlling-your-genes-with-light",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/917324e4-641f-4b3b-92d7-ae28003d6257/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/917324e4-641f-4b3b-92d7-ae28003d6257/transcript?format=TextWithTimestamps&t=1700543662",
+  "summary": "Josh and Chuck explain optogenetics, the technique of controlling genetically modified neurons with light. They trace the history from Luigi Galvani's frog-leg experiments and Robert Bartholow's 1874 stimulation of Mary Rafferty's exposed brain, through the 1970s-1980s calcium-sensitive dye work by Lawrence Cohen and Roger Tsien, to the 2005 Karl Deisseroth-led paper combining algae light-sensitive channels with jellyfish fluorescent protein. They cover fruit fly escape-reflex experiments (including headless flies), later work in mice, fish and worms, potential uses such as treating depression, delivery methods like fiber optics and infrared light, and ethical and philosophical questions about happiness, free will and wireheading. The episode closes with a listener mail correction about USPS funding and tax dollars.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "optogenetics",
+    "light-controlled neurons",
+    "neuroscience",
+    "brain stimulation",
+    "channelrhodopsin",
+    "rhodopsin",
+    "opsins",
+    "calcium imaging dye",
+    "genetic modification of neurons",
+    "fruit fly escape reflex",
+    "Galvani frog experiment",
+    "Robert Bartholow experiment",
+    "Mary Rafferty",
+    "deep brain stimulation",
+    "treating depression with light",
+    "Karl Deisseroth",
+    "Francis Crick",
+    "wireheading",
+    "free will and happiness",
+    "ethics of brain experiments",
+    "listener mail",
+    "USPS funding correction"
+  ],
+  "entities": [
+    {
+      "name": "Optogenetics",
+      "type": "other"
+    },
+    {
+      "name": "Luigi Galvani",
+      "type": "person"
+    },
+    {
+      "name": "Robert Bartholow",
+      "type": "person"
+    },
+    {
+      "name": "Mary Rafferty",
+      "type": "person"
+    },
+    {
+      "name": "Lawrence Cohen",
+      "type": "person"
+    },
+    {
+      "name": "Roger Tsien",
+      "type": "person"
+    },
+    {
+      "name": "Karl Deisseroth",
+      "type": "person"
+    },
+    {
+      "name": "Francis Crick",
+      "type": "person"
+    },
+    {
+      "name": "Fruit fly",
+      "type": "other"
+    },
+    {
+      "name": "Jellyfish",
+      "type": "other"
+    },
+    {
+      "name": "Green algae",
+      "type": "other"
+    },
+    {
+      "name": "American Medical Association",
+      "type": "organization"
+    },
+    {
+      "name": "Deep brain stimulation",
+      "type": "other"
+    },
+    {
+      "name": "Postal Service",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to optogenetics",
+      "summary": "Hosts banter, then introduce optogenetics as a young technique for manipulating brain cells with light and note that human use is far off.",
+      "topics": [
+        "optogenetics",
+        "neuroscience introduction",
+        "brain complexity"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Electricity in the brain and early experiments",
+      "summary": "Neurons communicate via electrical impulses driven by ion concentrations. Galvani's frog experiments are discussed, followed by Robert Bartholow's 1874 stimulation of Mary Rafferty's exposed brain, which led to her death and AMA censure.",
+      "topics": [
+        "action potentials",
+        "Galvani frog experiment",
+        "Robert Bartholow experiment",
+        "Mary Rafferty",
+        "informed consent history",
+        "brain electrical stimulation"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Limits of electrical stimulation and the city metaphor",
+      "summary": "Electrical stimulation is imprecise because it affects neighboring neurons. The hosts use a New York City traffic analogy to explain why precise targeting is needed.",
+      "topics": [
+        "electrical stimulation imprecision",
+        "neural circuits",
+        "brain mapping",
+        "analogy"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Calcium-sensitive dyes to visualize firing neurons",
+      "summary": "Lawrence Cohen and Roger Tsien developed synthetic dyes in the 1970s and 1980s that light up when calcium concentration indicates a neuron has fired, allowing observation but not control of neurons.",
+      "topics": [
+        "calcium dye",
+        "neuron imaging",
+        "Lawrence Cohen",
+        "Roger Tsien",
+        "neuron visualization"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Gene expression and light-responsive genes from algae and jellyfish",
+      "summary": "Neurons share the same genome but differ in which genes are switched on. Light-sensitive algae proteins and jellyfish fluorescent proteins are described, and a 2005 team led by Karl Deisseroth combined them.",
+      "topics": [
+        "gene expression",
+        "algae eyespot light sensing",
+        "jellyfish fluorescent protein",
+        "Karl Deisseroth",
+        "2005 optogenetics paper",
+        "channelrhodopsin"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Fruit fly escape reflex experiments",
+      "summary": "Fruit flies are used as a model because of shared genetics and visible brains. Genetically modified flies were made to jump away with light, and headless flies still flew when light hit the thorax neurons.",
+      "topics": [
+        "fruit fly experiments",
+        "escape reflex",
+        "headless fruit flies",
+        "genetic modification",
+        "model organisms"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Applications, delivery methods, and treating depression",
+      "summary": "Optogenetics has been demonstrated in mice, fish and worms. Potential uses include treating depression by triggering dopamine release quickly. Delivery methods include fiber optics and red-shifted rhodopsins that work with infrared light. Precise timing is needed.",
+      "topics": [
+        "treating depression",
+        "fiber optic delivery",
+        "infrared light",
+        "red-shifted rhodopsin",
+        "dopamine",
+        "therapy timing"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Ethics, happiness, free will and wireheading",
+      "summary": "The hosts discuss whether a therapy based on neural patterns undermines happiness, the free will debate, Francis Crick's view of people as neurons, and wireheading.",
+      "topics": [
+        "free will",
+        "happiness and neuroscience",
+        "wireheading",
+        "Francis Crick",
+        "transhumanism",
+        "ethics of neural manipulation"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:45:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: USPS funding correction",
+      "summary": "A listener corrects an earlier episode, noting the US Postal Service receives no tax funding and operates on stamp and package revenue. Listener responses about postal work environments are mentioned.",
+      "topics": [
+        "listener mail",
+        "USPS funding",
+        "postal service"
+      ]
+    },
+    {
+      "start": "00:45:30",
+      "end": "00:46:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off and direct listeners to the email address.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15117,
+    "output_tokens": 2605
+  }
+}

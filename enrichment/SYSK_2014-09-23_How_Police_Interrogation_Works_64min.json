@@ -1,0 +1,282 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-09-23_How_Police_Interrogation_Works_64min.txt",
+  "title": "How Police Interrogation Works",
+  "date": "2014-09-23",
+  "duration": "64 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-police-interrogation-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72a22750-fc33-403c-a2d8-ae2800943cfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/72a22750-fc33-403c-a2d8-ae2800943cfc/transcript?format=TextWithTimestamps&t=1700543875",
+  "summary": "Josh and Chuck explain police interrogation in the United States, from the historical third degree and the Brown v. Mississippi (1937) ruling, through the mid-century voluntariness rules, to John Reid's nine-step Reid Technique and its critics. They cover psychological tactics (good cop/bad cop, maximization, minimization, stopping denials, theme development), the debunked eye-movement lie-detection myth (Richard Wiseman's research), false confessions and notable exonerations (Peter Reilly, Earl Washington Jr., the Central Park Five), the Nicole Frederick Detroit case, the British PEACE model, and the Mr. Big technique. The episode closes with tips for suspects and a listener mail segment about Jittery Joe's Coffee.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "police interrogation",
+    "Reid Technique",
+    "false confessions",
+    "third degree interrogation",
+    "Brown v. Mississippi",
+    "coerced confessions",
+    "psychological manipulation in interrogation",
+    "good cop bad cop",
+    "maximization and minimization",
+    "stopping denials",
+    "eye movement lie detection myth",
+    "Richard Wiseman",
+    "PEACE interrogation model",
+    "Mr. Big technique",
+    "Central Park Five",
+    "Earl Washington Jr.",
+    "Peter Reilly",
+    "Nicole Michelle Frederick case",
+    "Miranda rights and right to counsel",
+    "John E. Reid",
+    "wrongful conviction",
+    "Innocence Project",
+    "polygraph",
+    "interrogation room design",
+    "police deception ploys",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Brown v. Mississippi",
+      "type": "event"
+    },
+    {
+      "name": "John Reid",
+      "type": "person"
+    },
+    {
+      "name": "Reid Technique",
+      "type": "other"
+    },
+    {
+      "name": "Richard Wiseman",
+      "type": "person"
+    },
+    {
+      "name": "Nicole Michelle Frederick",
+      "type": "person"
+    },
+    {
+      "name": "Victor Lauria",
+      "type": "person"
+    },
+    {
+      "name": "Peter Reilly",
+      "type": "person"
+    },
+    {
+      "name": "Earl Washington Jr.",
+      "type": "person"
+    },
+    {
+      "name": "Arthur Miller",
+      "type": "person"
+    },
+    {
+      "name": "Central Park Five",
+      "type": "event"
+    },
+    {
+      "name": "Fred Inbau",
+      "type": "person"
+    },
+    {
+      "name": "PEACE model",
+      "type": "other"
+    },
+    {
+      "name": "Mr. Big technique",
+      "type": "other"
+    },
+    {
+      "name": "Innocence Project",
+      "type": "organization"
+    },
+    {
+      "name": "Jittery Joe's Coffee",
+      "type": "organization"
+    },
+    {
+      "name": "Central Park Five documentary",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and side reading",
+      "summary": "Hosts joke about their own run-ins with police, list related articles, and introduce police interrogation as a controversial subject in the police series.",
+      "topics": [
+        "police interrogation",
+        "stop and frisk"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Third degree and coerced confessions history",
+      "summary": "Early US interrogations used physical abuse and deprivation, known as the third degree. Brown v. Mississippi (1937) led the Supreme Court to reject a coerced confession. By the 1950s, coerced confessions were ruled involuntary and signed confessions became standard.",
+      "topics": [
+        "third degree interrogation",
+        "Brown v. Mississippi",
+        "coerced confessions",
+        "involuntary confessions"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Psychological manipulation and classic interrogation tactics",
+      "summary": "Police replaced physical coercion with psychological manipulation, relying on stress and human tendencies. Tactics discussed include good cop bad cop, maximization, and minimization. John Reid, a polygraph examiner, developed the Reid Technique, which is widely used and criticized.",
+      "topics": [
+        "psychological manipulation in interrogation",
+        "good cop bad cop",
+        "maximization and minimization",
+        "John Reid",
+        "Reid Technique"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Reid Technique criticism and police deception",
+      "summary": "The Reid Technique is defended by Reid but criticized as based on armchair psychology and presumption of guilt. Police may lie about evidence, and courts have upheld this. Studies suggest false confessions can follow from such deception, especially among vulnerable people.",
+      "topics": [
+        "Reid Technique criticism",
+        "police deception ploys",
+        "false confessions",
+        "presumption of guilt"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Interrogation room design and initial interview",
+      "summary": "The Reid manual describes a bare interrogation room with a one-way mirror and out-of-reach light switches to induce helplessness. The initial interview is meant to assess guilt or innocence and set a behavioral baseline through rapport-building.",
+      "topics": [
+        "interrogation room design",
+        "one-way mirror",
+        "initial interview",
+        "behavioral baseline",
+        "rapport"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Eye movement lie detection myth",
+      "summary": "The popular belief that eye movements left or right reveal lying is debunked. Richard Wiseman's study of press conferences found no correlation with lying. Anxiety is also not a reliable sign of lying.",
+      "topics": [
+        "eye movement lie detection myth",
+        "Richard Wiseman",
+        "nonverbal cues",
+        "lie detection"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Reid Technique steps: confrontation, theme development, denials",
+      "summary": "Steps of the Reid Technique include confrontation, reading nonverbal cues, theme development with a softer tone, and stopping denials. Objections are treated differently from denials and turned into justifications. The hosts discuss how a suspect who gives a lawyer-like or justified answer can be drawn in.",
+      "topics": [
+        "Reid Technique steps",
+        "confrontation",
+        "theme development",
+        "stopping denials",
+        "objections"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Right to counsel, false confessions and exonerations",
+      "summary": "Suspects often fail to ask for a lawyer because interrogators discourage it. The hosts discuss false confession rates, the Innocence Project, and cases such as Peter Reilly, Earl Washington Jr., and the Central Park Five. Guilty suspects may remain free when innocent people are convicted.",
+      "topics": [
+        "right to counsel",
+        "false confession rates",
+        "Innocence Project",
+        "Peter Reilly",
+        "Earl Washington Jr.",
+        "Central Park Five",
+        "wrongful conviction"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Nicole Frederick Detroit case and brainwashing parallels",
+      "summary": "The Nicole Michelle Frederick case in Detroit in 2003 is an example of the Reid method. Detective Victor Lauria used alternative themes until she confessed to shaking her two-year-old stepdaughter. The hosts compare the methods to brainwashing techniques.",
+      "topics": [
+        "Nicole Michelle Frederick case",
+        "Victor Lauria",
+        "Detroit interrogation",
+        "brainwashing comparison"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "01:01:00",
+      "kind": "content",
+      "title": "PEACE model and Mr. Big technique",
+      "summary": "Britain developed the PEACE model after false confessions came to light, focusing on information gathering and recorded interviews rather than accusation. The Mr. Big technique, used in Canada, involves an undercover officer building trust over months.",
+      "topics": [
+        "PEACE interrogation model",
+        "recorded interrogations",
+        "Mr. Big technique",
+        "Canada police"
+      ]
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:03:00",
+      "kind": "content",
+      "title": "Tips for suspects",
+      "summary": "Advice for people being interrogated: remain silent, ask for a lawyer, and avoid bonding with the interrogator. Invoking the right to counsel in the US should stop questioning.",
+      "topics": [
+        "suspect rights tips",
+        "Miranda rights",
+        "right to remain silent"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:04:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Jittery Joe's Coffee",
+      "summary": "A listener from Athens, Georgia, sends greetings from a honeymoon and describes a gift of Jittery Joe's Coffee.",
+      "topics": [
+        "listener mail",
+        "Jittery Joe's Coffee",
+        "Athens Georgia"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:04:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close with contact information and a plug for the website.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20817,
+    "output_tokens": 3154
+  }
+}

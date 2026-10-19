@@ -1,0 +1,146 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-05-18_Short_Stuff_Artificial_Banana_Flavor_13min.txt",
+  "title": "Short Stuff: Artificial Banana Flavor",
+  "date": "2022-05-18",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-artificial-banana-flavor",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cd2194ea-7294-402f-983f-ae9401064b0b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cd2194ea-7294-402f-983f-ae9401064b0b/transcript?format=TextWithTimestamps&t=1700551646",
+  "summary": "Short Stuff episode on artificial banana flavor. Josh and Chuck follow up on a listener-prompted discovery: artificial banana flavoring (as in banana candy like Runts, Laffy Taffy-style candies, Nik-L-Nip-style wafers) was modeled on the Gros Michel banana, not the Cavendish most people eat today. They cover the Gros Michel's dominance until Panama disease (Fusarium wilt) wiped it out in the 1950s, the Cavendish's replacement and its clonal vulnerability, and the 1912 New Jersey Fritzsche brothers' work isolating amyl acetate, which was marketed as banana or pear essence depending on the market. They note that iso-amyl acetate is more prevalent in Gros Michel and that a Hawaiian grower said Gros Michel tastes like artificial banana flavoring.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "artificial banana flavor",
+    "banana flavoring history",
+    "Gros Michel banana",
+    "Cavendish banana",
+    "Panama disease",
+    "banana wilt",
+    "Fusarium wilt",
+    "banana monoculture",
+    "amyl acetate",
+    "isoamyl acetate",
+    "banana candy",
+    "Fritzsche brothers",
+    "pear essence",
+    "banana clones",
+    "banana extinction",
+    "food flavor science"
+  ],
+  "entities": [
+    {
+      "name": "Gros Michel banana",
+      "type": "other"
+    },
+    {
+      "name": "Cavendish banana",
+      "type": "other"
+    },
+    {
+      "name": "Panama disease",
+      "type": "event"
+    },
+    {
+      "name": "Fusarium oxysporum f. sp. cubense",
+      "type": "other"
+    },
+    {
+      "name": "Nadia Rubinstein",
+      "type": "person"
+    },
+    {
+      "name": "Fritzsche brothers",
+      "type": "organization"
+    },
+    {
+      "name": "amyl acetate",
+      "type": "other"
+    },
+    {
+      "name": "Runts",
+      "type": "work"
+    },
+    {
+      "name": "Nik-L-Nip",
+      "type": "work"
+    },
+    {
+      "name": "Now and Laters",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:40",
+      "kind": "intro",
+      "title": "Intro and the Gros Michel discovery",
+      "summary": "Josh and Chuck open with banter about banana flavoring and listener mail pointing out that artificial banana flavor matches an older banana variety. Josh describes the Gros Michel's dominance, shipping advantages, and its decline.",
+      "topics": [
+        "Gros Michel banana",
+        "banana flavoring listener mail",
+        "banana history"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:06:10",
+      "kind": "content",
+      "title": "Panama disease and the Cavendish",
+      "summary": "Panama disease (banana wilt), a soil fungus, wiped out the Gros Michel in the 1950s. The Cavendish replaced it, but the hosts note it is also a monoculture of clones and vulnerable to other diseases.",
+      "topics": [
+        "Panama disease",
+        "banana wilt",
+        "Fusarium wilt",
+        "Cavendish banana",
+        "banana monoculture",
+        "banana clones"
+      ]
+    },
+    {
+      "start": "00:06:10",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Banana candy and the 1912 flavor chemistry",
+      "summary": "Banana candy like Runts and Now and Laters doesn't taste like a Cavendish but resembles the Gros Michel. Researcher Nadia Rubinstein traced the flavoring to New Jersey chemists the Fritzsche brothers in 1912, who isolated amyl acetate from banana-related essence.",
+      "topics": [
+        "banana candy",
+        "artificial banana flavor",
+        "Fritzsche brothers",
+        "amyl acetate",
+        "Nadia Rubinstein"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Pear vs. banana perception and modern analysis",
+      "summary": "Amyl acetate was marketed as banana or pear essence depending on the company and decade, and perception depends on what people are used to. Modern analysis found Gros Michel has more isoamyl acetate than the Cavendish, and a Hawaiian grower said Gros Michel tastes like artificial banana flavoring.",
+      "topics": [
+        "pear essence",
+        "isoamyl acetate",
+        "flavor perception",
+        "Gros Michel taste",
+        "Hawaii banana growers"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Wrap-up and sign-off",
+      "summary": "The hosts joke about shipping a Gros Michel to each other, thank listeners who wrote in, and sign off.",
+      "topics": [
+        "listener mail",
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5121,
+    "output_tokens": 1675
+  }
+}

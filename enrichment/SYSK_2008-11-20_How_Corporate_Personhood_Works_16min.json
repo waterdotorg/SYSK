@@ -1,0 +1,164 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-11-20_How_Corporate_Personhood_Works_16min.txt",
+  "title": "How Corporate Personhood Works",
+  "date": "2008-11-20",
+  "duration": "16 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-corporate-personhood-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1eaa8d7e-d5c4-4ca4-915f-ae2800c21fc5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1eaa8d7e-d5c4-4ca4-915f-ae2800c21fc5/transcript?format=TextWithTimestamps&t=1700543999",
+  "summary": "Josh and Chuck explain corporate personhood as a legal fiction, starting with the renunciation of a legacy example. They cover the Roman origins of corporations as artificial persons, Tom Hartman's opposition to the concept, Thomas Jefferson's failed attempt to limit corporate lifespans, and the Fourteenth Amendment and the Santa Clara County v. Southern Pacific Railroad case, including the court reporter's headnote that set precedent. They also discuss corporate Fourth Amendment protections against inspections and the Nike sweatshop lawsuit in which Nike argued free speech protected its lies, before settling for about $1.5 million.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "corporate personhood",
+    "legal fiction",
+    "renunciation of a legacy",
+    "corporations as artificial persons",
+    "Fourteenth Amendment",
+    "Santa Clara County v. Southern Pacific Railroad",
+    "court reporter headnote",
+    "Thomas Jefferson corporate lifespan",
+    "Tom Hartman",
+    "corporate charters and state taxation",
+    "Fourth Amendment corporate searches",
+    "Nike sweatshop lawsuit",
+    "corporate free speech and lying in advertising",
+    "Roman law corporations",
+    "corporate rights",
+    "Delaware corporate tax haven"
+  ],
+  "entities": [
+    {
+      "name": "Santa Clara County v. Southern Pacific Railroad",
+      "type": "event"
+    },
+    {
+      "name": "Fourteenth Amendment",
+      "type": "work"
+    },
+    {
+      "name": "Thomas Jefferson",
+      "type": "person"
+    },
+    {
+      "name": "Tom Hartman",
+      "type": "person"
+    },
+    {
+      "name": "Nike",
+      "type": "organization"
+    },
+    {
+      "name": "Union Pacific",
+      "type": "organization"
+    },
+    {
+      "name": "Southern Pacific Railroad",
+      "type": "organization"
+    },
+    {
+      "name": "Delaware",
+      "type": "place"
+    },
+    {
+      "name": "Malaysia",
+      "type": "place"
+    },
+    {
+      "name": "Fourth Amendment",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:10",
+      "kind": "intro",
+      "title": "Introduction and legal fiction",
+      "summary": "Josh and Chuck introduce the topic and define legal fiction as a court treating something as true for practical purposes, using a renunciation of a legacy example.",
+      "topics": [
+        "legal fiction",
+        "renunciation of a legacy"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Corporations as artificial persons",
+      "summary": "Corporate personhood is described as a legal custom dating to Rome, where a corporation is treated as an artificial person. Punishment deters crime, but corporations cannot be imprisoned and can live indefinitely.",
+      "topics": [
+        "corporate personhood",
+        "corporations as artificial persons",
+        "Roman law corporations",
+        "Tom Hartman"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Jefferson's failed lifespan limits",
+      "summary": "Thomas Jefferson advocated constitutional limits on corporate lifespans, and the effort failed.",
+      "topics": [
+        "Thomas Jefferson corporate lifespan",
+        "corporate charters"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Fourteenth Amendment and Santa Clara case",
+      "summary": "The word 'person' in the Fourteenth Amendment was applied to corporations in Santa Clara County v. Southern Pacific Railroad. The Court upheld state power to tax and charter corporations, and a court reporter's headnote stating corporations had equal protection was later found to conflict with the Chief Justice's note that the Court did not rule on it, yet the headnote was cited as precedent.",
+      "topics": [
+        "Fourteenth Amendment",
+        "Santa Clara County v. Southern Pacific Railroad",
+        "court reporter headnote",
+        "corporate charters and state taxation",
+        "Delaware corporate tax haven"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Corporate Fourth Amendment protections",
+      "summary": "Corporations gained Fourth Amendment protection against unreasonable searches, so inspectors generally need to arrange access with a manager or officer rather than walk in.",
+      "topics": [
+        "Fourth Amendment corporate searches",
+        "corporate rights",
+        "workplace inspections"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Nike sweatshop lawsuit and corporate free speech",
+      "summary": "Nike was sued over sweatshop claims in its overseas factories. Nike argued that corporate free speech allowed it to lie in advertising. Nike settled for about $1.5 million and later issued a report on its factory conditions.",
+      "topics": [
+        "Nike sweatshop lawsuit",
+        "corporate free speech and lying in advertising",
+        "Malaysia factory conditions",
+        "corporate settlement"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:16:10",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts summarize that corporations have constitutional protections and direct listeners to the website for more information.",
+      "topics": [
+        "corporate rights"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6363,
+    "output_tokens": 1879
+  }
+}

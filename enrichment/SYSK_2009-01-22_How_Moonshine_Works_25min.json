@@ -1,0 +1,228 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-01-22_How_Moonshine_Works_25min.txt",
+  "title": "How Moonshine Works",
+  "date": "2009-01-22",
+  "duration": "25 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-moonshine-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/97213b40-b1bb-4e86-ae24-ae2800c131aa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/97213b40-b1bb-4e86-ae24-ae2800c131aa/transcript?format=TextWithTimestamps&t=1700543994",
+  "summary": "Hosts Josh Clark and Chuck Bryant explain how moonshine works. Josh opens with a personal anecdote about his father drinking moonshine with friends and eating the peach from the jar. They trace the etymology of \"moonshine\" and \"bootlegging\" to Britain and colonial times, cover the 1940s-50s car-based bootlegging that gave rise to NASCAR (including Glenn Dunaway's disqualified first win), and walk through the corn-based process: fermenting mash with yeast, distilling in a still, cooling through a worm, and the clear unaged result compared with aged bourbon. They discuss the harsh \"kick,\" high proof, and dangers from congeners and impurities. The history covers the Whiskey Rebellion, the Temperance movement, Prohibition (1920-1933) and its aftermath, and the legality of homebrewing. The episode closes with a search-bar plug and listener mail from Molly, a Peace Corps volunteer heading to West Africa.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "moonshine",
+    "how moonshine works",
+    "moonshining",
+    "bootlegging",
+    "bootleggers",
+    "corn whiskey",
+    "moonshine distilling process",
+    "still",
+    "thump keg",
+    "worm condenser",
+    "mash fermentation",
+    "NASCAR origins",
+    "Glenn Dunaway",
+    "Whiskey Rebellion",
+    "Prohibition",
+    "Temperance movement",
+    "congeners",
+    "homebrewing legality",
+    "rum running",
+    "charred oak barrels",
+    "illegal distilling dangers"
+  ],
+  "entities": [
+    {
+      "name": "Moonshine",
+      "type": "other"
+    },
+    {
+      "name": "Bootlegging",
+      "type": "other"
+    },
+    {
+      "name": "NASCAR",
+      "type": "organization"
+    },
+    {
+      "name": "Glenn Dunaway",
+      "type": "person"
+    },
+    {
+      "name": "Whiskey Rebellion",
+      "type": "event"
+    },
+    {
+      "name": "George Washington",
+      "type": "person"
+    },
+    {
+      "name": "Prohibition",
+      "type": "event"
+    },
+    {
+      "name": "Temperance movement",
+      "type": "organization"
+    },
+    {
+      "name": "Ku Klux Klan",
+      "type": "organization"
+    },
+    {
+      "name": "Daytona, Florida",
+      "type": "place"
+    },
+    {
+      "name": "Johnson City, Tennessee",
+      "type": "place"
+    },
+    {
+      "name": "Ed Grebanowski",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Josh's father and the peach anecdote",
+      "summary": "Hosts banter about Chuck's flat cap, then Josh tells a story about a Johnson City, Tennessee party where his father, in his sixties, drank moonshine shot for shot with a young friend and then ate the peach from the jar. Chuck mentions living near Roan Mountain and the availability of homemade moonshine, and the hosts note that making it at home is illegal.",
+      "topics": [
+        "moonshine anecdote",
+        "Johnson City Tennessee",
+        "Roan Mountain moonshine",
+        "illegal home distilling"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Origins of the words moonshine and bootlegging",
+      "summary": "Chuck explains that moonshine began in England as a verb for any late-night job and came to mean illegal liquor made at night. Bootlegging refers to smuggling, with bottles hidden in tall boots. Moonshiners make the liquor, bootleggers smuggle it, and rum runners smuggle by sea.",
+      "topics": [
+        "moonshine etymology",
+        "bootlegging origin",
+        "rum runners",
+        "moonshiners vs bootleggers"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Car bootlegging and the birth of NASCAR",
+      "summary": "In the 1940s and 1950s, bootleggers in the US modified cars such as the Ford V8 for speed to outrun police. Mechanics challenged each other to races, which led to NASCAR. Glenn Dunaway won the first official NASCAR race in Daytona, Florida, on December 12 but was disqualified for an illegal wedge; he had used that car to smuggle whiskey the week before in North Carolina.",
+      "topics": [
+        "NASCAR history",
+        "bootlegger car racing",
+        "Glenn Dunaway",
+        "Daytona Florida first NASCAR race",
+        "souped-up Ford V8"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Ingredients and fermentation to make mash",
+      "summary": "Moonshine is usually made from corn in the US, though any grain or starchy material can be used. Ingredients include cornmeal, sugar, yeast, and water. Yeast ferments the mixture, producing carbon dioxide and alcohol; the fermented liquid is called mash, and distillers call it beer before distilling.",
+      "topics": [
+        "corn whiskey ingredients",
+        "mash fermentation",
+        "yeast fermentation",
+        "beer terminology in distilling"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "The still, thump keg, and worm condenser",
+      "summary": "The mash is heated to about 172 degrees Fahrenheit, and the alcohol vapor rises through the arm of the still. The vapor enters a thump keg, which separates out mash droplets, and then passes through a coiled worm cooled by water, condensing it back to a clear liquid collected in a jar, often a Mason jar.",
+      "topics": [
+        "still distillation",
+        "thump keg",
+        "worm condenser",
+        "copper arm still",
+        "distilling temperature"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Unaged clear moonshine vs aged bourbon and the kick",
+      "summary": "Moonshine is not aged, so it stays clear, unlike bourbon, which ages in charred oak barrels. Charring caramelizes starches, adding sweetness and color. Moonshine is known for its harsh 'kick' and is typically around 150 proof, compared with about 80 to 100 proof for typical whiskey.",
+      "topics": [
+        "unaged whiskey",
+        "charred oak barrels",
+        "moonshine proof",
+        "moonshine kick",
+        "bourbon aging"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Dangers of homemade moonshine and congeners",
+      "summary": "Hosts explain that home distilling is illegal and dangerous. Impurities called congeners, such as polyphenols and histamine, can end up in spirits and cause harm, and people have died from drinking moonshine. During Prohibition, rushed production sometimes added harmful substances like bleach.",
+      "topics": [
+        "congeners",
+        "moonshine health risks",
+        "bleach in moonshine",
+        "homemade spirits safety"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "US history: Whiskey Rebellion, Temperance movement, and Prohibition",
+      "summary": "After the new US government imposed liquor taxes, distillers resisted, tarring and feathering tax collectors and staging the Whiskey Rebellion, which George Washington put down with a militia. Bootleggers allied with the Klan, which turned public opinion against them and strengthened the Temperance movement. Prohibition ran from 1920 to 1933, and it fueled speakeasies, gang violence, and overproduction. Moonshining declined after it ended but later saw a revival tied to NASCAR. Hosts compare Prohibition to the War on Drugs. Homebrewing became legal in the 1970s, though the hosts are unsure about the details.",
+      "topics": [
+        "Whiskey Rebellion",
+        "George Washington",
+        "Temperance movement",
+        "Prohibition 1920 to 1933",
+        "speakeasies",
+        "Ku Klux Klan and bootleggers",
+        "tax resistance",
+        "War on drugs comparison",
+        "homebrewing 1970s"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:00",
+      "kind": "outro",
+      "title": "Search bar plug and sign-off",
+      "summary": "Hosts direct listeners to the HowStuffWorks search bar for more on moonshine, including an article by Ed Grebanowski. The episode closes with the sign-off.",
+      "topics": [
+        "HowStuffWorks search",
+        "episode wrap-up"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:36:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Molly in the Peace Corps",
+      "summary": "Chuck reads exceptional fan mail from Molly in Manchester, Connecticut, who is heading to West Africa for two years in the Peace Corps and plans to save episodes to listen to on her iPod. Hosts wish her luck and invite more listener mail.",
+      "topics": [
+        "listener mail",
+        "Peace Corps",
+        "fan mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9436,
+    "output_tokens": 3092
+  }
+}

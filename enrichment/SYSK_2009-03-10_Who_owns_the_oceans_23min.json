@@ -1,0 +1,243 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-03-10_Who_owns_the_oceans_23min.txt",
+  "title": "Who owns the oceans?",
+  "date": "2009-03-10",
+  "duration": "23 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/who-owns-the-oceans",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3163790d-fc13-4f36-bfcc-ae2800c07f82/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3163790d-fc13-4f36-bfcc-ae2800c07f82/transcript?format=TextWithTimestamps&t=1700543993",
+  "summary": "Josh and Chuck discuss who owns the oceans, starting with Somali piracy off the Horn of Africa and the high seas being international waters. They trace the history of maritime law: the Freedom of the Seas doctrine and the three-mile territorial sea, the War of 1812 and World War I (Lusitania) as conflict flashpoints, Truman's 1945 unilateral extension of US waters (the \"Great Sea Grab\"), the rise in offshore oil and fishing, Arvid Pardo's call at the UN, and the UN Convention on the Law of the Sea (proposed 1967, ratified 1982, in force 1994) which set territorial seas at twelve nautical miles, created exclusive economic zones out to 200 miles, and addressed landlocked nations' access. They also cover the Arctic resource race, straits, underwater hotels in Dubai and Fiji, the names of the five oceans, and listener mail.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "law of the sea",
+    "who owns the oceans",
+    "high seas",
+    "international waters",
+    "territorial sea",
+    "exclusive economic zone",
+    "Somali piracy",
+    "Freedom of the Seas doctrine",
+    "UN Convention on the Law of the Sea",
+    "Truman Proclamation",
+    "Great Sea Grab",
+    "landlocked countries",
+    "Arctic resource race",
+    "straits",
+    "offshore oil",
+    "overfishing",
+    "underwater hotels",
+    "five oceans",
+    "Arvid Pardo",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Somalia",
+      "type": "place"
+    },
+    {
+      "name": "Somali pirates",
+      "type": "other"
+    },
+    {
+      "name": "United Nations",
+      "type": "organization"
+    },
+    {
+      "name": "UN Convention on the Law of the Sea",
+      "type": "work"
+    },
+    {
+      "name": "Freedom of the Seas doctrine",
+      "type": "other"
+    },
+    {
+      "name": "Arvid Pardo",
+      "type": "person"
+    },
+    {
+      "name": "Harry Truman",
+      "type": "person"
+    },
+    {
+      "name": "Lusitania",
+      "type": "event"
+    },
+    {
+      "name": "War of 1812",
+      "type": "event"
+    },
+    {
+      "name": "World War I",
+      "type": "event"
+    },
+    {
+      "name": "Arctic",
+      "type": "place"
+    },
+    {
+      "name": "Dubai",
+      "type": "place"
+    },
+    {
+      "name": "Hydropolis",
+      "type": "place"
+    },
+    {
+      "name": "Poseidon Undersea Resort",
+      "type": "place"
+    },
+    {
+      "name": "Fiji",
+      "type": "place"
+    },
+    {
+      "name": "Central African Republic",
+      "type": "place"
+    },
+    {
+      "name": "Luxembourg",
+      "type": "place"
+    },
+    {
+      "name": "Southern Ocean",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Somali pirates",
+      "summary": "Hosts open with banter and introduce modern Somali piracy, including ransom captures and the British Navy's confrontation with a pirate boat, and note that piracy off Africa has a long history.",
+      "topics": [
+        "Somali piracy",
+        "modern pirates",
+        "piracy history"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Pirates and the question of jurisdiction",
+      "summary": "The hosts explain that Somali pirates are hard to prosecute because no functioning central government exists and nobody clearly has jurisdiction. They say the high seas, including waters off Somalia, are international waters that belong to everyone, referencing the UN.",
+      "topics": [
+        "jurisdiction over pirates",
+        "high seas",
+        "international waters"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Freedom of the Seas and the territorial sea",
+      "summary": "They trace early maritime law, from the Freedom of the Seas doctrine granting a three-mile buffer of exclusive waters off a coast to the modern territorial sea as an extension of national sovereignty.",
+      "topics": [
+        "Freedom of the Seas doctrine",
+        "territorial sea",
+        "three-mile limit",
+        "law of the sea history"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Wars over sea rights and the Great Sea Grab",
+      "summary": "The hosts describe how attacks in territorial and international waters contributed to the War of 1812 and World War I, then how Truman unilaterally extended US waters in 1945, with rising oil and fishing values driving the change.",
+      "topics": [
+        "War of 1812",
+        "Lusitania",
+        "World War I",
+        "Truman",
+        "Great Sea Grab",
+        "offshore oil"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Overlapping claims and the UN convention",
+      "summary": "Other countries followed the US with overlapping 200-mile claims. Overfishing rose, and Arvid Pardo of Malta raised the issue at the UN in 1967, leading to the Convention on the Law of the Sea, ratified in 1982 and in force in 1994.",
+      "topics": [
+        "overlapping claims",
+        "overfishing",
+        "Arvid Pardo",
+        "UN Convention on the Law of the Sea"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Territorial seas, exclusive economic zones, straits, and the Arctic",
+      "summary": "The convention set the territorial sea at twelve nautical miles and created exclusive economic zones out to 200 miles. Straits narrower than the limit are treated as international water. The hosts describe the Arctic race for oil and gas under melting ice.",
+      "topics": [
+        "twelve nautical mile territorial sea",
+        "exclusive economic zone",
+        "straits",
+        "Arctic resource race",
+        "climate change"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Landlocked nations and underwater hotels",
+      "summary": "The hosts explain that landlocked countries have a right of access through coastal neighbors' waters without tariffs, yet suffer economically, citing the Central African Republic shipping costs. They then discuss underwater hotels in Dubai and Fiji and how leases on seabed land might work.",
+      "topics": [
+        "landlocked developing countries",
+        "shipping costs",
+        "underwater hotels",
+        "Hydropolis",
+        "seabed leases"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Names of the five oceans",
+      "summary": "The hosts try to name the five oceans and settle on the Atlantic, Pacific, Indian, Arctic, and Southern Oceans.",
+      "topics": [
+        "five oceans",
+        "Southern Ocean"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:23:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and correction",
+      "summary": "A correction about rebreathers versus scuba buoyancy devices after a Niagara Falls episode, and a listener poem praising the show. The hosts plug the blog, website search, and email address.",
+      "topics": [
+        "listener mail",
+        "correction",
+        "rebreather",
+        "scuba"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:23:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks and sign-off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 8866,
+    "output_tokens": 2538
+  }
+}

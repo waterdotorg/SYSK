@@ -1,0 +1,378 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-09-18_SYSK_Gets_Weird_Playlist_Whats_the_deal_with_blue_people_46min.txt",
+  "title": "SYSK Gets Weird Playlist: What's the deal with blue people?",
+  "date": "2026-09-18",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-gets-weird-playlist-whats-the-deal-with-blue-people",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3dbc39c3-99b6-4ca9-9f4f-b4c8014ce34f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3dbc39c3-99b6-4ca9-9f4f-b4c8014ce34f/transcript?format=TextWithTimestamps&t=1789676731",
+  "summary": "Playlist rerun of a Stuff You Should Know episode on blue skin. The hosts cover methemoglobinemia, the blue Fugate family of Troublesome Creek in Hazard County, Kentucky, and Dr. Madison Cawein's methylene blue treatment. They then discuss argyria from colloidal silver (Paul Karasz, \"Papa Smurf\"), the FDA's stance on silver supplements, and a segment on how skin color can change over about 100 generations. The episode closes with listener mail from Mark about the COVID-19 vaccine episode. The intro identifies this as a Stuff You Should Know Gets Weird playlist entry, but the original air date is not stated, so rerun_of is left null.",
+  "episode_kind": "rerun",
+  "rerun_of": null,
+  "topics": [
+    "blue people",
+    "methemoglobinemia",
+    "blue Fugate family",
+    "Troublesome Creek Kentucky",
+    "Hazard County Kentucky",
+    "methylene blue treatment",
+    "cytochrome b5 reductase",
+    "hemoglobin and oxygen",
+    "argyria",
+    "colloidal silver",
+    "silver supplements",
+    "Papa Smurf",
+    "FDA silver supplement ruling",
+    "silver antimicrobial history",
+    "vitiligo",
+    "melanin and skin color",
+    "skin color change over generations",
+    "Madison Cawein",
+    "Stuff You Should Know Gets Weird playlist",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Fugate family",
+      "type": "other"
+    },
+    {
+      "name": "Martin Fugate",
+      "type": "person"
+    },
+    {
+      "name": "Elizabeth Smith Fugate",
+      "type": "person"
+    },
+    {
+      "name": "Troublesome Creek",
+      "type": "place"
+    },
+    {
+      "name": "Hazard County, Kentucky",
+      "type": "place"
+    },
+    {
+      "name": "Madison Cawein",
+      "type": "person"
+    },
+    {
+      "name": "Richie family",
+      "type": "other"
+    },
+    {
+      "name": "Paul Karason",
+      "type": "person"
+    },
+    {
+      "name": "Stan Jones",
+      "type": "person"
+    },
+    {
+      "name": "Rosemary Jacobs",
+      "type": "person"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "type": "person"
+    },
+    {
+      "name": "Dr. Oz",
+      "type": "person"
+    },
+    {
+      "name": "Alex Jones",
+      "type": "person"
+    },
+    {
+      "name": "Michael Jackson",
+      "type": "person"
+    },
+    {
+      "name": "Blue Man Group",
+      "type": "organization"
+    },
+    {
+      "name": "methemoglobinemia",
+      "type": "other"
+    },
+    {
+      "name": "argyria",
+      "type": "other"
+    },
+    {
+      "name": "colloidal silver",
+      "type": "other"
+    },
+    {
+      "name": "methylene blue",
+      "type": "other"
+    },
+    {
+      "name": "FDA",
+      "type": "organization"
+    },
+    {
+      "name": "Science 82",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:03",
+      "end": "00:00:29",
+      "kind": "intro",
+      "title": "Playlist teaser",
+      "summary": "Teaser for the Gets Weird playlist episode on blue people, with a Blue Man Group aside.",
+      "topics": [
+        "blue people",
+        "Blue Man Group"
+      ]
+    },
+    {
+      "start": "00:00:29",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and sources",
+      "summary": "Hosts greet listeners, joke about 2021 passing quickly, and thank their sources, including Wired, BBC, NPR, and the National Library of Medicine.",
+      "topics": [
+        "show opening",
+        "research sources"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:40",
+      "kind": "content",
+      "title": "The blue Fugate family and Martin Fugate",
+      "summary": "Martin Fugate, a French orphan, married redheaded Elizabeth Smith and settled at Troublesome Creek in Hazard County, Kentucky, in 1820. Both carried a rare genetic mutation. Inbreeding among the families spread the condition, and four of seven children were blue.",
+      "topics": [
+        "Fugate family",
+        "Martin Fugate",
+        "Troublesome Creek",
+        "Hazard County Kentucky",
+        "inbreeding and genetic mutation",
+        "blue skin genetics"
+      ]
+    },
+    {
+      "start": "00:05:40",
+      "end": "00:09:04",
+      "kind": "content",
+      "title": "Isolation and the condition's name",
+      "summary": "The family isolated itself, and intermarriage among relatives spread the blue trait through the local population. The condition is a blood disorder, not a skin disorder, called methemoglobinemia.",
+      "topics": [
+        "isolation and intermarriage",
+        "methemoglobinemia",
+        "blue families of Appalachia"
+      ]
+    },
+    {
+      "start": "00:09:04",
+      "end": "00:12:07",
+      "kind": "content",
+      "title": "Pronunciation and melanin basics",
+      "summary": "The hosts joke about pronouncing methemoglobinemia and review melanin disorders, including vitiligo and Michael Jackson's claim to have had it.",
+      "topics": [
+        "melanin",
+        "vitiligo",
+        "Michael Jackson vitiligo claim",
+        "pronunciation"
+      ]
+    },
+    {
+      "start": "00:12:07",
+      "end": "00:16:26",
+      "kind": "content",
+      "title": "Why blood is red and how methemoglobin turns skin blue",
+      "summary": "Hemoglobin's heme contains iron that binds oxygen. Methemoglobin has oxidized iron that cannot carry oxygen, so blood turns blue once it reaches about 1 percent of total hemoglobin. The 'blue blood until exposed to air' myth is debunked.",
+      "topics": [
+        "hemoglobin",
+        "heme iron",
+        "methemoglobin",
+        "why blood is red",
+        "blue blood myth",
+        "oxygen transport"
+      ]
+    },
+    {
+      "start": "00:16:26",
+      "end": "00:16:53",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Sponsor break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:16:53",
+      "end": "00:19:04",
+      "kind": "content",
+      "title": "Enzyme that clears methemoglobin",
+      "summary": "The body uses cytochrome b5 reductase to convert methemoglobin back to hemoglobin. Fugates with the double-mutation have reduced enzyme activity, so methemoglobin builds up.",
+      "topics": [
+        "cytochrome b5 reductase",
+        "enzyme deficiency",
+        "methemoglobin buildup"
+      ]
+    },
+    {
+      "start": "00:19:04",
+      "end": "00:22:09",
+      "kind": "content",
+      "title": "Dr. Madison Cawein's investigation",
+      "summary": "Madison Cawein, a University of Kentucky hematologist, was the grandson of a Kentucky poet. The hosts mention the unsolved poisoning death of his wife in the 1960s. Cawein searched for blue people and found the Richie siblings through a Hazard clinic nurse.",
+      "topics": [
+        "Madison Cawein",
+        "University of Kentucky hematologist",
+        "Richie siblings",
+        "blue patients search"
+      ]
+    },
+    {
+      "start": "00:22:09",
+      "end": "00:25:27",
+      "kind": "content",
+      "title": "Methylene blue cure",
+      "summary": "Cawein treated the Richie children with methylene blue, a malaria treatment and stain, and they lost their blue color within minutes. Today the condition is treated with a daily pill, and a 2012 member remained blue by choice.",
+      "topics": [
+        "methylene blue treatment",
+        "blue skin cure",
+        "Richie family",
+        "daily methylene blue pill"
+      ]
+    },
+    {
+      "start": "00:25:27",
+      "end": "00:28:31",
+      "kind": "content",
+      "title": "Argyria and Papa Smurf",
+      "summary": "Argyria turns skin silvery or bluish from silver overexposure. Paul Karason, nicknamed Papa Smurf, became blue after drinking and applying homemade colloidal silver. His mucous membranes were also blue.",
+      "topics": [
+        "argyria",
+        "Paul Karason",
+        "Papa Smurf",
+        "silver overexposure"
+      ]
+    },
+    {
+      "start": "00:28:31",
+      "end": "00:32:09",
+      "kind": "content",
+      "title": "Silver exposure and irreversible blue skin",
+      "summary": "Argyria can also come from silver mining and older photographic processing. Silver deposits form in the skin, and the condition is irreversible.",
+      "topics": [
+        "silver mining side effects",
+        "photographic silver dust",
+        "irreversible argyria",
+        "silver deposits in skin"
+      ]
+    },
+    {
+      "start": "00:32:09",
+      "end": "00:34:31",
+      "kind": "content",
+      "title": "Colloidal silver supplements and silver-resistant bacteria",
+      "summary": "Stan Jones and Rosemary Jacobs are discussed as argyria cases. Colloidal silver has no strong peer-reviewed evidence of benefit, and promotion by celebrities is mentioned. Overuse may build silver-resistant microbes, which matters for MRSA treatment.",
+      "topics": [
+        "colloidal silver",
+        "Stan Jones",
+        "Rosemary Jacobs",
+        "silver-resistant bacteria",
+        "MRSA",
+        "supplement claims"
+      ]
+    },
+    {
+      "start": "00:34:31",
+      "end": "00:34:58",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Sponsor break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:34:58",
+      "end": "00:37:42",
+      "kind": "content",
+      "title": "History of silver medicine and FDA supplement status",
+      "summary": "Silver was used by Pliny the Elder, Cyrus the Great, and medieval monks. Silver nitrate was used in infant eye drops until the 1960s. The FDA ruled in 1999 that colloidal silver could not be advertised as a medicine.",
+      "topics": [
+        "silver medicine history",
+        "silver nitrate eye drops",
+        "FDA 1999 colloidal silver ruling",
+        "early antibiotics"
+      ]
+    },
+    {
+      "start": "00:37:42",
+      "end": "00:39:38",
+      "kind": "content",
+      "title": "Silver's antimicrobial action and Paul Karason's later life",
+      "summary": "The hosts explain that silver's antimicrobial mechanism is not fully understood and that there is no peer-reviewed evidence it helps when taken internally. They note Gwyneth Paltrow's 2013 Dr. Oz appearance and Paul Karason's death in 2013.",
+      "topics": [
+        "silver antimicrobial mechanism",
+        "Gwyneth Paltrow",
+        "Dr. Oz",
+        "Paul Karason death"
+      ]
+    },
+    {
+      "start": "00:39:38",
+      "end": "00:42:38",
+      "kind": "content",
+      "title": "Skin color changes over generations",
+      "summary": "A study found skin color can change in as few as 100 generations, roughly 2,000 years. Adaptation to UV exposure affects melanin production, and the hosts discuss vitamin D and skin cancer tradeoffs.",
+      "topics": [
+        "skin pigmentation evolution",
+        "UV exposure and melanin",
+        "vitamin D",
+        "skin color adaptation",
+        "race as social construct"
+      ]
+    },
+    {
+      "start": "00:42:38",
+      "end": "00:43:01",
+      "kind": "content",
+      "title": "Wrap-up before listener mail",
+      "summary": "The hosts summarize and transition to listener mail.",
+      "topics": [
+        "wrap-up"
+      ]
+    },
+    {
+      "start": "00:43:01",
+      "end": "00:45:36",
+      "kind": "listener_mail",
+      "title": "Listener mail from Mark",
+      "summary": "Mark, who works in healthcare IT, writes that the Mr. Nah vaccine episode helped him through COVID-19 losses. The hosts also note that people with methemoglobinemia can blush blue.",
+      "topics": [
+        "listener mail",
+        "Mark",
+        "vaccine episode feedback",
+        "blushing blue"
+      ]
+    },
+    {
+      "start": "00:45:36",
+      "end": "00:46:05",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts ask for listener mail at the show's email address and sign off.",
+      "topics": [
+        "sign-off",
+        "listener mail address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18616,
+    "output_tokens": 4040
+  }
+}

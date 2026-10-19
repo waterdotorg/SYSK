@@ -1,0 +1,251 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-09-08_How_Police_Dogs_Work_36min.txt",
+  "title": "How Police Dogs Work",
+  "date": "2015-09-08",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-police-dogs-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2aabe9a9-6ed9-418c-bb3c-ae28008b8a07/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2aabe9a9-6ed9-418c-bb3c-ae28008b8a07/transcript?format=TextWithTimestamps&t=1700543850",
+  "summary": "Josh and Chuck explore police dogs: their history from medieval France and 1890s Ghent, Belgium, through the New York Police Department's 1907 import of dogs and later boom in demand. They cover why Belgian Malinois, German shepherds, and Labradors are used, European sourcing and training (commands in native language, obedience, towel-based scent/tug-of-war training), aggressive versus passive alerts (including the USDA Beagle Brigade), patrol and attack roles and the use-of-force continuum, and the daily work of canine units. The episode then turns to legal and reliability concerns: Supreme Court treatment of dog alerts as probable cause, high false-positive rates, the Richard Meyers critique, John Preston and wrongful convictions, and laws protecting police dogs (Aaron's Law in Tennessee). It closes with Rin Tin Tin's police/war dog history, dogs dying in hot patrol cars, and a listener mail segment about a pigeon named Ramsey's.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "police dogs",
+    "K-9 units",
+    "canine units",
+    "police dog history",
+    "Ghent Belgium police dogs",
+    "Belgian Malinois",
+    "German shepherd police dogs",
+    "drug sniffing dogs",
+    "arson sniffing dogs",
+    "bomb detection dogs",
+    "aggressive alert vs passive alert",
+    "Beagle Brigade",
+    "USDA beagle detection",
+    "dog alert probable cause",
+    "Supreme Court dog sniff",
+    "false positives drug dogs",
+    "John Preston dog handler",
+    "wrongful conviction dog evidence",
+    "Aaron's Law Tennessee police dog",
+    "Rin Tin Tin",
+    "police dogs dying in hot cars",
+    "use of force continuum police dog",
+    "dog training obedience commands",
+    "Jack the Ripper bloodhounds"
+  ],
+  "entities": [
+    {
+      "name": "Ghent",
+      "type": "place"
+    },
+    {
+      "name": "Belgium",
+      "type": "place"
+    },
+    {
+      "name": "New York Police Department",
+      "type": "organization"
+    },
+    {
+      "name": "Beagle Brigade",
+      "type": "organization"
+    },
+    {
+      "name": "USDA",
+      "type": "organization"
+    },
+    {
+      "name": "Connecticut Police Work Dog Association",
+      "type": "organization"
+    },
+    {
+      "name": "John Preston",
+      "type": "person"
+    },
+    {
+      "name": "Richard Meyers",
+      "type": "person"
+    },
+    {
+      "name": "Rin Tin Tin",
+      "type": "person"
+    },
+    {
+      "name": "Aaron's Law",
+      "type": "work"
+    },
+    {
+      "name": "Jack the Ripper",
+      "type": "event"
+    },
+    {
+      "name": "Michael Morton",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and setup",
+      "summary": "Josh and Chuck introduce the episode on police dogs, joking about previous dog episodes and beagles, and mention Hasselhoff's Jack the Ripper TV movie.",
+      "topics": [
+        "police dogs",
+        "beagles",
+        "Jack the Ripper"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History of police dogs",
+      "summary": "Early police dogs in fourteenth-century France and London's use of bloodhounds in the Jack the Ripper case. Belgium's Ghent program from 1899, and New York Police Chief George Wakefield importing five dogs from Ghent in 1907. Early programs were disbanded, there were none in the US from 1951 to 1954, and demand boomed after 2001.",
+      "topics": [
+        "police dog history",
+        "Ghent Belgium police dogs",
+        "New York Police Department",
+        "bloodhounds Jack the Ripper",
+        "post-9/11 police dog demand"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Why dogs, breeds, and the cost of European dogs",
+      "summary": "Dogs' sense of smell is far more sensitive than humans'. Drug seizures help pay for dogs. Common breeds are German shepherds, Labradors, and Belgian Malinois. European dogs are preferred for strict breeding standards, and handlers are chosen from top performers who work long hours with dogs they keep as pets.",
+      "topics": [
+        "dog sense of smell",
+        "Belgian Malinois",
+        "German shepherd police dogs",
+        "police dog breeds",
+        "buying certified dogs from Europe",
+        "canine handler selection"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Obedience and commands in foreign languages",
+      "summary": "Obedience training is the most important early training, since handlers must control patrol dogs. Dogs from Europe keep their native-language commands, which is easier than retraining, not a way to trigger attacks. Josh's friend uses German commands.",
+      "topics": [
+        "police dog obedience training",
+        "German commands for police dogs",
+        "dog training myth"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Scent detection training and alert types",
+      "summary": "Specialty training uses a washed towel that becomes a tug toy, scented with drugs, then hidden for the dog to find. Dogs are trained to detect drugs, explosives, and accelerants for arson. Aggressive alerts involve clawing; passive alerts involve sitting, as the USDA Beagle Brigade does at airports to find produce.",
+      "topics": [
+        "scent detection training",
+        "aggressive alert",
+        "passive alert",
+        "arson sniffing dogs",
+        "Beagle Brigade airport produce",
+        "drug dog training"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:27:30",
+      "kind": "ad",
+      "title": "Sponsor and product aside",
+      "summary": "Brief aside on bulletproof vests for police dogs and a product mention by Ray Allen's side business; a host reads a phone listing on air.",
+      "topics": [
+        "bulletproof vests for police dogs"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "A day in the life of a canine unit",
+      "summary": "Canine units patrol in evening shifts, do school and business sweeps, attend court, and wait for calls. Dogs sniff cars and chase suspects. A dog alert can establish probable cause for a vehicle search under Supreme Court rulings.",
+      "topics": [
+        "canine unit daily work",
+        "dog alert probable cause",
+        "vehicle searches",
+        "Supreme Court dog sniff"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "False positives, wrongful convictions, and John Preston",
+      "summary": "Drug dogs often alert when no drugs are present; one figure cited says only about forty-six percent of alerts find drugs. Richard Meyers questioned controlled testing in 2006. Wrongful convictions tied to dog evidence include Paul Yell's case, and trooper John Preston and his dog Harass Too. Documentaries about these cases were mentioned.",
+      "topics": [
+        "false positives drug dogs",
+        "Richard Meyers Bayesian critique",
+        "John Preston dog handler",
+        "wrongful conviction dog evidence",
+        "Paul Yell case",
+        "Michael Morton documentary"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Dog search efficiency and legal protections",
+      "summary": "Dogs search areas far faster than officers. Killing a police dog is treated like killing an officer; a Pittsburgh man got three and a half to seven years for stabbing one. Tennessee's Aaron's Law makes killing a police dog a felony. Use-of-force rules for dogs match those for officers, and courts often accept training certificates.",
+      "topics": [
+        "police dog legal protections",
+        "Aaron's Law Tennessee",
+        "use of force police dogs",
+        "killing police dog felony"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Rin Tin Tin, dogs dying in hot cars, and closing thoughts",
+      "summary": "Rin Tin Tin was a German military dog who became an American movie star. The Connecticut Police Work Dog Association tracks fallen police dogs; since 2007, twenty-nine died after being left in hot patrol cars. The hosts close on the complexity of the topic.",
+      "topics": [
+        "Rin Tin Tin",
+        "police dogs dying in hot cars",
+        "Connecticut Police Work Dog Association",
+        "police dog memorials"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:52:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Ramsey's the pigeon",
+      "summary": "A listener named Bree Bagnal in Columbia, South Carolina, describes adopting a pigeon from a meat-pigeon processing plant, now named Ramsey's, and sends photos.",
+      "topics": [
+        "listener mail",
+        "pet pigeon",
+        "meat pigeons"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:53:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give contact information for listener feedback and sign off.",
+      "topics": [
+        "listener feedback",
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11743,
+    "output_tokens": 3183
+  }
+}

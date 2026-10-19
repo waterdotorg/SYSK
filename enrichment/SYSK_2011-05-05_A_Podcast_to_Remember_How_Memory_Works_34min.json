@@ -1,0 +1,212 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-05-05_A_Podcast_to_Remember_How_Memory_Works_34min.txt",
+  "title": "A Podcast to Remember (How Memory Works)",
+  "date": "2011-05-05",
+  "duration": "34 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/a-podcast-to-remember-how-memory-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/45afdc6a-ae00-4eaa-88a9-ae2800b030ee/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/45afdc6a-ae00-4eaa-88a9-ae2800b030ee/transcript?format=TextWithTimestamps&t=1700543943",
+  "summary": "Josh and Chuck explore how human memory works, prompted by Nicholas Carr's 2008 Atlantic article \"Is Google Making Us Stupid?\" and the question of whether internet reading habits affect memory. They cover the case of patient H.M. (Henry Molaison) and the multiple memory systems it revealed, the complexity of everyday memories like breakfast or riding a bike, the three stages of memory (encoding, storage/retention, retrieval), the role of the hippocampus and amygdala, neurons and synapses, neuroplasticity and practice, use-it-or-lose-it effects (the kitten monocular deprivation study), short-term versus long-term memory and working memory, tips for remembering names and phone numbers, memory decline with age and the role of stimulation and acetylcholine, and sleep-dependent memory consolidation. The episode closes with a listener mail story about maggots from a meat left in the garbage.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "human memory",
+    "how memory works",
+    "memory encoding",
+    "memory retrieval",
+    "memory retention",
+    "hippocampus",
+    "amygdala",
+    "neurons",
+    "synapses",
+    "neuroplasticity",
+    "neural connections",
+    "H.M. patient",
+    "Henry Molaison",
+    "multiple memory systems",
+    "short-term memory",
+    "long-term memory",
+    "working memory",
+    "use it or lose it",
+    "memory and aging",
+    "acetylcholine",
+    "sleep and memory consolidation",
+    "Nicholas Carr",
+    "Is Google Making Us Stupid",
+    "internet and memory",
+    "memory tips"
+  ],
+  "entities": [
+    {
+      "name": "Nicholas Carr",
+      "type": "person"
+    },
+    {
+      "name": "Henry Molaison",
+      "type": "person"
+    },
+    {
+      "name": "The Atlantic",
+      "type": "organization"
+    },
+    {
+      "name": "Is Google Making Us Stupid",
+      "type": "work"
+    },
+    {
+      "name": "Idiocracy",
+      "type": "work"
+    },
+    {
+      "name": "Memento",
+      "type": "work"
+    },
+    {
+      "name": "hippocampus",
+      "type": "other"
+    },
+    {
+      "name": "amygdala",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Intro and Nicholas Carr's internet memory article",
+      "summary": "Josh and Chuck introduce the topic by discussing Nicholas Carr's 2008 Atlantic article arguing that internet reading may be reshaping memory, and mention Idiocracy.",
+      "topics": [
+        "Nicholas Carr",
+        "Is Google Making Us Stupid",
+        "internet and memory",
+        "Idiocracy"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Multiple memory systems and patient H.M.",
+      "summary": "Josh describes patient H.M., whose hippocampus was removed to treat epilepsy, which showed that memory relies on multiple systems rather than a single filing cabinet.",
+      "topics": [
+        "H.M. patient",
+        "Henry Molaison",
+        "multiple memory systems",
+        "hippocampus"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Everyday memory complexity",
+      "summary": "The hosts explain that remembering breakfast or riding a bike involves many separate memories and sensory pieces combined seamlessly, often called muscle memory.",
+      "topics": [
+        "procedural memory",
+        "riding a bike",
+        "muscle memory",
+        "memory reconstruction"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Encoding and the hippocampus",
+      "summary": "Encoding begins with sensory perception, which the hippocampus filters and routes into neural projections; the hosts use a bear-in-the-meadow example to illustrate filtering.",
+      "topics": [
+        "memory encoding",
+        "sensory perception",
+        "hippocampus",
+        "filtering information"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Neurons, synapses, and plasticity",
+      "summary": "Neurons communicate across synapses via neurotransmitters; repeated firing strengthens connections, a process called plasticity, illustrated with practice and playing music.",
+      "topics": [
+        "neurons",
+        "synapses",
+        "neurotransmitters",
+        "neuroplasticity",
+        "practice and repetition"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Use it or lose it and the kitten experiment",
+      "summary": "Unused neural connections wither, as shown by the kitten study where a sutured eye led to blindness; connections migrate to active areas. Giraffe neuron length is also mentioned.",
+      "topics": [
+        "use it or lose it",
+        "kitten experiment",
+        "neural connections",
+        "critical period"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Short-term, long-term, and working memory",
+      "summary": "Three storage stages are discussed; short-term memory holds about seven items for 20 to 30 seconds, with chunking of phone numbers, and long-term memory is dormant and reactivated. Tips for remembering names are also shared.",
+      "topics": [
+        "short-term memory",
+        "long-term memory",
+        "working memory",
+        "chunking",
+        "remembering names"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Emotion, importance, and the three stages of memory",
+      "summary": "Emotion, carried through the amygdala's connection to the hippocampus, makes memories stronger. The hosts describe awareness, retention, and retrieval as three stages, using the eyeglasses example.",
+      "topics": [
+        "emotion and memory",
+        "amygdala",
+        "awareness retention retrieval",
+        "memory tips"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Memory and aging, acetylcholine, and sleep",
+      "summary": "Memory decline with age is discussed, including the role of stimulation, acetylcholine, and lifestyle; sleep-dependent memory consolidation is described as a possible explanation for dreams.",
+      "topics": [
+        "memory and aging",
+        "acetylcholine",
+        "stimulating environment",
+        "sleep dependent memory consolidation",
+        "dreams"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:34:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: maggots in the garbage",
+      "summary": "A listener named Cat from Australia writes about finding maggots after leaving meat in the kitchen garbage bin, and the hosts read her story.",
+      "topics": [
+        "listener mail",
+        "maggots"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11561,
+    "output_tokens": 2314
+  }
+}

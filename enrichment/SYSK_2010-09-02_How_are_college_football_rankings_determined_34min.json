@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-09-02_How_are_college_football_rankings_determined_34min.txt",
+  "title": "How are college football rankings determined?",
+  "date": "2010-09-02",
+  "duration": "34 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-are-college-football-rankings-determined",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24f86793-3a76-4aa0-beef-ae2800b4ddcf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/24f86793-3a76-4aa0-beef-ae2800b4ddcf/transcript?format=TextWithTimestamps&t=1700543958",
+  "summary": "Josh and Chuck explain how college football rankings are determined, focusing on the BCS (Bowl Championship Series): its history since 1998, the five BCS bowls and payouts, the three-part ranking formula (Harris Interactive Poll, USA Today Coaches Poll, and an average of six computer rankings), how strength of schedule is calculated, how scores are normalized, the Notre Dame and service academy voting privileges, the debate over a college football playoff, and the rule removing ineligible teams such as USC from rankings. The episode opens with tour announcements and college football banter, and ends with listener mail from a former inmate (part one) describing prison commissary life, cigarettes as currency, and a question about whether Bob Barker's company makes prison toiletries (Snopes says it is not the TV host).",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "college football rankings",
+    "BCS",
+    "Bowl Championship Series",
+    "BCS computer rankings",
+    "Harris Interactive Poll",
+    "USA Today Coaches Poll",
+    "strength of schedule",
+    "college football playoff",
+    "BCS bowl payouts",
+    "Notre Dame voting privileges",
+    "NCAA Football Bowl Subdivision",
+    "USC postseason ban BCS rankings",
+    "AP poll",
+    "Billingsley report",
+    "Seattle Times computer ranking",
+    "Sugar Bowl",
+    "Rose Bowl",
+    "Orange Bowl",
+    "Fiesta Bowl",
+    "listener mail",
+    "prison commissary",
+    "Bob Barker prison toiletries"
+  ],
+  "entities": [
+    {
+      "name": "Bowl Championship Series",
+      "type": "organization"
+    },
+    {
+      "name": "Harris Interactive Poll",
+      "type": "other"
+    },
+    {
+      "name": "USA Today Coaches Poll",
+      "type": "other"
+    },
+    {
+      "name": "Associated Press poll",
+      "type": "other"
+    },
+    {
+      "name": "Notre Dame",
+      "type": "organization"
+    },
+    {
+      "name": "USC",
+      "type": "organization"
+    },
+    {
+      "name": "Boise State",
+      "type": "organization"
+    },
+    {
+      "name": "Southeastern Conference",
+      "type": "organization"
+    },
+    {
+      "name": "Billingsley Report",
+      "type": "work"
+    },
+    {
+      "name": "Seattle Times",
+      "type": "organization"
+    },
+    {
+      "name": "Sugar Bowl",
+      "type": "event"
+    },
+    {
+      "name": "Rose Bowl",
+      "type": "event"
+    },
+    {
+      "name": "Orange Bowl",
+      "type": "event"
+    },
+    {
+      "name": "Fiesta Bowl",
+      "type": "event"
+    },
+    {
+      "name": "Steve Spurrier",
+      "type": "person"
+    },
+    {
+      "name": "Bob Barker",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and tour announcements",
+      "summary": "Hosts introduce the first sportscast-style episode, announce an upcoming trivia tour starting in Atlanta in October, and tease that the topic is college football rankings.",
+      "topics": [
+        "Stuff You Should Know live tour",
+        "trivia tour",
+        "college football banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Pre-BCS era and the BCS's purpose",
+      "summary": "Chuck and Josh discuss the chaos before the BCS, when many teams claimed the national title and bowl games and writers' polls decided champions. They describe the BCS as established in 1998 to match the top two teams in a national title game, with five BCS bowls (Rose, Sugar, Orange, Fiesta and the national title game).",
+      "topics": [
+        "pre-BCS college football",
+        "BCS history",
+        "national championship controversy",
+        "BCS bowl games"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "BCS bowl payouts and conference money",
+      "summary": "The hosts explain the payout for the national title game, a participation fee to each school, and the rest split among conference members, which benefits conferences like the SEC with many bowl teams. They discuss rooting interests among SEC fans.",
+      "topics": [
+        "BCS payouts",
+        "conference revenue",
+        "SEC football",
+        "bowl money"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Who votes in the BCS system",
+      "summary": "The BCS is described as an event managed by the BCS conferences rather than a formal body. Notre Dame, Army and Navy are given voting privileges in the Harris poll, with Notre Dame receiving three nominations and Army and Navy one each, while each conference gets ten. Hosts discuss criticism that the coaches favored keeping the BCS over a playoff.",
+      "topics": [
+        "BCS voting",
+        "Notre Dame favoritism",
+        "Harris Interactive Poll nominations",
+        "BCS governance"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "The three components and computer rankings",
+      "summary": "The BCS originally used four factors and now uses three: the USA Today Coaches Poll, the Harris Interactive Poll (which replaced the AP poll before the 2004 season), and an average of six computer rankings. Examples include the Billingsley Report and the Seattle Times ranking by Jeff Anderson and Chris Hester, which weigh opponent quality, final scores and win-loss records.",
+      "topics": [
+        "BCS computer rankings",
+        "Billingsley report",
+        "Seattle Times ranking",
+        "AP poll replacement",
+        "BCS formula components"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Strength of schedule and margin of victory",
+      "summary": "Josh explains strength of schedule as two times the opponent's schedule plus the opponents' opponents' schedules, converted into wins and losses. Margin of victory was removed from the formula after coaches ran up scores, and a former penalty for running up the score was also dropped.",
+      "topics": [
+        "strength of schedule",
+        "margin of victory",
+        "running up the score",
+        "Steve Spurrier"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Coaches poll, Harris poll, and normalizing the scores",
+      "summary": "The coaches poll has about 114 potential votes, with divisors adjusted for missing votes; hosts note criticisms that coaches sometimes have assistants or kids vote. The Harris poll has 114 members including former coaches, administrators and media. Chuck and Josh work through the math: points are normalized by dividing by the maximum possible total, so a perfect score is 1.0 and lower BCS scores in the formula mean a better ranking.",
+      "topics": [
+        "coaches poll voting",
+        "Harris poll membership",
+        "BCS score normalization",
+        "BCS math"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Timing of rankings and the playoff debate",
+      "summary": "BCS rankings begin in mid-October because computer rankings need enough games for strength of schedule. Hosts debate a college football playoff, with proposals ranging from sixteen teams to eight, the revenue argument, injury and academic concerns, and the claim that non-BCS schools rarely have a chance at the title.",
+      "topics": [
+        "college football playoff",
+        "BCS rankings timing",
+        "non-BCS schools",
+        "bowl revenue",
+        "playoff proposals"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "USC postseason ban and ineligible teams",
+      "summary": "The BCS announced that teams ineligible for postseason play, such as USC on probation, are removed from the computer and human rankings, moving teams below them up a spot. Hosts note the change came about a month earlier and that the rankings may change quickly.",
+      "topics": [
+        "USC probation",
+        "postseason ineligibility",
+        "BCS rule change",
+        "ranking removal"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: former inmate on prison commissary",
+      "summary": "Hosts read part one of an anonymous listener email from a former inmate arrested in the mid-1990s in Nevada, who jumped bail and later returned to face charges. He describes paper commissary slips, state-issued toiletries, cigarettes as currency, Tailor-made cigarettes as status symbols, and paid services like ironing and custom envelope art. Chuck says Bob Barker's company is not the TV host, per Snopes.",
+      "topics": [
+        "prison commissary",
+        "inmate life",
+        "prison economy",
+        "Bob Barker prison toiletries",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts ask for listener email about Bob Barker, favorite college football teams, or home cooking, and mention the website search bar before signing off.",
+      "topics": [
+        "listener feedback",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12223,
+    "output_tokens": 3080
+  }
+}

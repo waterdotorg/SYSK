@@ -1,0 +1,237 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-07-07_How_Human_Cannonballs_Work_29min.txt",
+  "title": "How Human Cannonballs Work",
+  "date": "2011-07-07",
+  "duration": "29 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-human-cannonballs-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8d3d8346-c28e-4453-b342-ae2800aee8ba/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8d3d8346-c28e-4453-b342-ae2800aee8ba/transcript?format=TextWithTimestamps&t=1700543938",
+  "summary": "Josh and Chuck explain how human cannonball acts work, covering the history from the Farini projector and Lulu (1870s) through Zazzle (Rosa Richter, 1880) and the Zacchini family, the physics of compressed-air launch and g-forces, safety and net landings, test dummies, the Elvin Bale Hong Kong accident, Matt Cranch's fatal 2011 act, a DARPA human-launch patent idea, and a fatal-accident tally. The episode opens with banter about Kaboom cereal and Hunter S. Thompson's cannon-shot remains, and closes with a listener mail about a haunted Adirondack home with an Underground Railroad tunnel and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "human cannonball",
+    "human cannonballs",
+    "circus cannon act",
+    "Farini projector",
+    "Zazzle",
+    "Rosa Richter",
+    "Zacchini family",
+    "compressed air cannon",
+    "g-force",
+    "safety net landing",
+    "test dummy",
+    "Elvin Bale",
+    "Matt Cranch",
+    "DARPA human launch",
+    "circus accidents",
+    "Hunter S. Thompson cannon",
+    "Kaboom cereal",
+    "Underground Railroad tunnel",
+    "listener mail",
+    "P. T. Barnum",
+    "Lulu trapeze",
+    "Adirondacks haunted house"
+  ],
+  "entities": [
+    {
+      "name": "Human cannonball",
+      "type": "other"
+    },
+    {
+      "name": "Farini projector",
+      "type": "other"
+    },
+    {
+      "name": "George Farini",
+      "type": "person"
+    },
+    {
+      "name": "Lulu",
+      "type": "person"
+    },
+    {
+      "name": "Zazzle",
+      "type": "person"
+    },
+    {
+      "name": "Rosa Marie Richter",
+      "type": "person"
+    },
+    {
+      "name": "P. T. Barnum",
+      "type": "person"
+    },
+    {
+      "name": "Zacchini family",
+      "type": "organization"
+    },
+    {
+      "name": "Mario Zacchini",
+      "type": "person"
+    },
+    {
+      "name": "John Weiss",
+      "type": "person"
+    },
+    {
+      "name": "David Smith Jr.",
+      "type": "person"
+    },
+    {
+      "name": "Elvin Bale",
+      "type": "person"
+    },
+    {
+      "name": "Matt Cranch",
+      "type": "person"
+    },
+    {
+      "name": "DARPA",
+      "type": "organization"
+    },
+    {
+      "name": "Ringling Brothers",
+      "type": "organization"
+    },
+    {
+      "name": "Yankee Robinson Circus",
+      "type": "organization"
+    },
+    {
+      "name": "Hunter S. Thompson",
+      "type": "person"
+    },
+    {
+      "name": "Dodonpa",
+      "type": "other"
+    },
+    {
+      "name": "Kaboom cereal",
+      "type": "work"
+    },
+    {
+      "name": "Underground Railroad",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Hunter S. Thompson",
+      "summary": "Hosts joke about Kaboom cereal and a clown-themed cannon, then discuss Hunter S. Thompson's cremated remains being fired from a cannon and whether Josh wants his own body shot from a cannon.",
+      "topics": [
+        "Kaboom cereal",
+        "Hunter S. Thompson cannon",
+        "cannon burial",
+        "death wish"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Myth of gunpowder and early history",
+      "summary": "The hosts explain that human cannonballs are not launched with gunpowder but with a piston and fake boom and flash. They trace the history to the Farini projector (1871), Lulu's 30-foot flight caught on a trapeze, and Zazzle's 1880 cannon flight that injured her back.",
+      "topics": [
+        "Farini projector",
+        "human cannonball history",
+        "Lulu trapeze",
+        "Zazzle",
+        "P. T. Barnum",
+        "fake gunpowder effect"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Physics and forces of launch",
+      "summary": "The hosts describe the compressed-air piston launch at roughly 3,000 to 6,000 psi, the capsule inside the barrel, launch speeds up to about 70 mph and distances up to 200 feet, and the nine g launch and twelve g impact forces, compared with the Dodonpa coaster.",
+      "topics": [
+        "compressed air launch",
+        "g-force",
+        "launch physics",
+        "Dodonpa roller coaster",
+        "human cannonball speed"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Planning, test dummies and net landings",
+      "summary": "Operators account for wind, body weight, humidity and obstacles. Test dummies are fired first to dial in trajectory, and the net is best hit in its rear third to avoid bouncing backward.",
+      "topics": [
+        "test dummy",
+        "net landing",
+        "trajectory planning",
+        "human cannonball safety",
+        "weather effects"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Circus families, deaths and accidents",
+      "summary": "The Zacchini family performed from the 1920s into the 1990s, with Mario shot over two Ferris wheels. John Weiss fired about 5,000 times. Thirty of roughly fifty human cannonballs have died, per historian A. H. Cox. David Smith Jr. and his family are described, and the DARPA patent idea for shooting responders onto buildings is discussed.",
+      "topics": [
+        "Zacchini family",
+        "Mario Zacchini",
+        "John Weiss",
+        "Smith family",
+        "human cannonball deaths",
+        "DARPA",
+        "building rescue launch"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Elvin Bale accident and Matt Cranch death",
+      "summary": "Elvin Bale overshot his air bag in Hong Kong after a wet test dummy gave misleading results, leaving him paralyzed. Matt Cranch died in April after his net collapsed. The Zacchini sister and brother collided mid-air in a double-barrel stunt and she broke her back.",
+      "topics": [
+        "Elvin Bale",
+        "Matt Cranch",
+        "net collapse",
+        "air bag",
+        "g-force blackout",
+        "Zacchini double barrel accident"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:30",
+      "kind": "ad",
+      "title": "Closing pointer and promo",
+      "summary": "Hosts point listeners to the HowStuffWorks search bar for more on human cannonballs and promote a video podcast, with a sponsor line.",
+      "topics": [
+        "HowStuffWorks search",
+        "video podcast promo"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:29:00",
+      "kind": "listener_mail",
+      "title": "Underground Railroad tunnel listener mail",
+      "summary": "A listener describes a haunted Adirondack home in Johnsburg, New York, with a hidden Underground Railroad tunnel beneath a barn that exits into a strawberry patch.",
+      "topics": [
+        "Underground Railroad tunnel",
+        "Johnsburg New York",
+        "haunted house",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10188,
+    "output_tokens": 2467
+  }
+}

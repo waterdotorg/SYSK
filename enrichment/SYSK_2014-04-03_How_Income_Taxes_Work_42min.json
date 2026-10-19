@@ -1,0 +1,288 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-04-03_How_Income_Taxes_Work_42min.txt",
+  "title": "How Income Taxes Work",
+  "date": "2014-04-03",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-income-taxes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/655a826e-5b20-4acd-8d43-ae2800997df4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/655a826e-5b20-4acd-8d43-ae2800997df4/transcript?format=TextWithTimestamps&t=1700543884",
+  "summary": "Josh and Chuck explain how the US income tax works and how it developed. They trace early American taxation (excise taxes, tariffs, the 1794 luxury-style sales tax on gold, silverware, jewelry and watches), the first national income tax in 1862 under Lincoln along with the Office of Commissioner of Internal Revenue, the 1894 income tax struck down by the Supreme Court, and the Sixteenth Amendment. They cover withholding (Underwood Tariff Act of 1913, World War II pay-as-you-earn), the W-4 and W-2 forms, gross income, adjusted gross income, standard versus itemized deductions, marginal tax brackets, and the alternative minimum tax, which was not indexed to inflation until 2012. They discuss the magnetic-tape IRS systems, flat tax proposals (Steve Forbes, Dick Armey), the national sales tax and its regressive nature, corporate tax loopholes (GE, Apple, Warren Buffett), the 1990s-2000s tax protester movement built on section 861 arguments, and the NFL's tax-exempt status. The episode ends with a listener email from Zach Freeland, who credits the show's concussion episode with prompting him to seek care for an aneurysm.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "income tax",
+    "income tax history",
+    "US tax history",
+    "Sixteenth Amendment",
+    "1862 income tax",
+    "Internal Revenue Service",
+    "Abraham Lincoln income tax",
+    "withholding tax",
+    "pay as you earn",
+    "W-4 form",
+    "W-2 form",
+    "gross income",
+    "adjusted gross income",
+    "standard deduction",
+    "itemized deductions",
+    "marginal tax rate",
+    "tax brackets",
+    "alternative minimum tax",
+    "flat tax",
+    "national sales tax",
+    "regressive tax",
+    "corporate tax loopholes",
+    "tax protester movement",
+    "section 861",
+    "NFL tax exempt",
+    "tariffs",
+    "excise tax",
+    "magnetic tape IRS",
+    "tax refunds"
+  ],
+  "entities": [
+    {
+      "name": "Internal Revenue Service",
+      "type": "organization"
+    },
+    {
+      "name": "Abraham Lincoln",
+      "type": "person"
+    },
+    {
+      "name": "Sixteenth Amendment",
+      "type": "work"
+    },
+    {
+      "name": "Steve Forbes",
+      "type": "person"
+    },
+    {
+      "name": "Dick Armey",
+      "type": "person"
+    },
+    {
+      "name": "Alan Keyes",
+      "type": "person"
+    },
+    {
+      "name": "Warren Buffett",
+      "type": "person"
+    },
+    {
+      "name": "Berkshire Hathaway",
+      "type": "organization"
+    },
+    {
+      "name": "General Electric",
+      "type": "organization"
+    },
+    {
+      "name": "Apple",
+      "type": "organization"
+    },
+    {
+      "name": "Wesley Snipes",
+      "type": "person"
+    },
+    {
+      "name": "National Football League",
+      "type": "organization"
+    },
+    {
+      "name": "Underwood Tariff Act",
+      "type": "work"
+    },
+    {
+      "name": "Jeffersonian Revolution",
+      "type": "event"
+    },
+    {
+      "name": "Zach Freeland",
+      "type": "person"
+    },
+    {
+      "name": "Estonia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and tax day",
+      "summary": "The hosts open the episode with banter about Tax Day, April 15, and their dislike of paying income tax, then set up the topic.",
+      "topics": [
+        "tax day",
+        "income tax"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Early American taxes and the first income tax",
+      "summary": "Early US taxes after independence included excise taxes, tariffs and a 1791 sales tax on luxury goods. The 1862 income tax and the Office of Commissioner of Internal Revenue were created under Lincoln, and the 1863 graduated tax began at 3 percent and 5 percent. Prior tariff funding fueled a postwar economic boom and a class of wealthy industrialists.",
+      "topics": [
+        "US tax history",
+        "excise tax",
+        "tariffs",
+        "1862 income tax",
+        "Abraham Lincoln income tax",
+        "graduated tax"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "1894 income tax and the Sixteenth Amendment",
+      "summary": "A flat tax in 1867 and the 1894 income tax, which the Supreme Court struck down as unconstitutional, led Congress to pass the Sixteenth Amendment, allowing taxes on income without apportionment among the states. The amendment shifted power toward the federal government.",
+      "topics": [
+        "1894 income tax",
+        "Sixteenth Amendment",
+        "Supreme Court income tax ruling",
+        "federal power"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Withholding and pay-as-you-earn",
+      "summary": "The 1913 Underwood Tariff Act set up the modern system, and withholding began during World War II under pay-as-you-earn, giving the government steady income.",
+      "topics": [
+        "withholding tax",
+        "pay as you earn",
+        "Underwood Tariff Act",
+        "World War II taxes"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Filing example: W-4, W-2, gross income and adjustments",
+      "summary": "Using a hypothetical worker named Cyrus, the hosts walk through the W-4 withholding form, the W-2, and how gross income is reduced by adjustments such as alimony and moving expenses to reach adjusted gross income.",
+      "topics": [
+        "W-4 form",
+        "W-2 form",
+        "gross income",
+        "adjusted gross income",
+        "tax adjustments"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Deductions, tax brackets and the alternative minimum tax",
+      "summary": "Taxpayers choose between the standard deduction and itemized deductions. The hosts describe marginal tax brackets and the alternative minimum tax, created in the 1980s and not indexed to inflation until 2012, which now affects many more earners.",
+      "topics": [
+        "standard deduction",
+        "itemized deductions",
+        "marginal tax rate",
+        "tax brackets",
+        "alternative minimum tax"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Final tax calculation and filing timeline",
+      "summary": "The hosts explain that credits are subtracted from the gross tax liability to get the net tax, and that employers must send W-2s by January 31.",
+      "topics": [
+        "tax credits",
+        "net tax",
+        "W-2 deadline"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "IRS magnetic tape systems and tax refund delays",
+      "summary": "The hosts note that the IRS stores data on magnetic tape machines from the 1950s, which they link to slow refunds and weak security, and mention a proposed funding increase.",
+      "topics": [
+        "IRS technology",
+        "magnetic tape",
+        "tax refunds",
+        "IRS funding"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Flat tax and national sales tax proposals",
+      "summary": "The hosts discuss the flat tax proposals of Steve Forbes and Dick Armey, the revenue concerns, and the Baltic states' experience. They then cover the national sales tax proposal, its regressive nature, and the exemption up to the poverty line.",
+      "topics": [
+        "flat tax",
+        "Steve Forbes flat tax",
+        "Dick Armey flat tax",
+        "national sales tax",
+        "regressive tax",
+        "Baltic flat tax",
+        "value added tax"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Corporate tax loopholes and tax fairness",
+      "summary": "The hosts describe corporate tax loopholes, citing GE paying zero US taxes in 2010, Apple paying no taxes from 2009 to 2012, and Warren Buffett's comments on his tax burden, and argue that loopholes should be closed.",
+      "topics": [
+        "corporate tax loopholes",
+        "GE taxes",
+        "Apple taxes",
+        "Warren Buffett taxes",
+        "tax fairness"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Tax protester movement and section 861",
+      "summary": "The hosts recount late-1990s and early-2000s small business owners who stopped paying income and withholding taxes based on an interpretation of section 861. Many went to prison, and the argument is considered dead.",
+      "topics": [
+        "tax protester movement",
+        "section 861",
+        "tax resistance",
+        "tax prosecution"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "NFL tax-exempt status",
+      "summary": "The hosts mention the NFL's tax-exempt status, noting that individual teams pay taxes while the league as a body does not.",
+      "topics": [
+        "NFL tax exempt",
+        "league taxes"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: concussion and aneurysm",
+      "summary": "Listener Zach Freeland writes that an episode on concussions prompted him to go to the ER, where he learned he had an aneurysm, which was treated with platinum coils.",
+      "topics": [
+        "listener mail",
+        "concussion",
+        "aneurysm"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13970,
+    "output_tokens": 3261
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-07-27_MAD_Magazine_A_Tribute_60min.txt",
+  "title": "MAD Magazine: A Tribute",
+  "date": "2023-07-27",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/mad-magazine-a-tribute",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/40f7ebd7-9edb-4628-a70f-b04b011a2c0b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/40f7ebd7-9edb-4628-a70f-b04b011a2c0b/transcript?format=TextWithTimestamps&t=1713882934",
+  "summary": "A tribute to MAD Magazine. The hosts trace its origins from EC Comics and Bill Gaines through the 1954 Senate hearings on comic books and the Comics Code Authority, to the founding of MAD as a humor comic spoofing other comics under Harvey Kurtzman, its switch to magazine format, and its long run with artists like Mort Drucker, Al Jaffee, Antonio Prohias, Sergio Aragones, Don Martin and Dave Berg. They cover Alfred E. Neuman and the lawsuit over his image, the 1961 Irving Berlin parody lawsuit that helped establish parody protections, ad-free publishing, the Simpsons' Spiro Agnew joke, MAD TV, the magazine's decline and its 2019 end of original content, and a listener email about women in trucking. Includes a brief tour announcement at the start.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "MAD Magazine",
+    "MAD magazine history",
+    "Harvey Kurtzman",
+    "Bill Gaines",
+    "EC Comics",
+    "Entertaining Comics",
+    "1954 Senate comic book hearings",
+    "Frederic Wertham",
+    "Seduction of the Innocent",
+    "Comics Code Authority",
+    "Alfred E. Neuman",
+    "What, me worry",
+    "Irving Berlin parody lawsuit",
+    "parody and satire legal protection",
+    "Al Jaffee fold-in",
+    "Antonio Prohias",
+    "Spy vs Spy",
+    "Sergio Aragones",
+    "Don Martin",
+    "Dave Berg",
+    "Mort Drucker",
+    "Angelo Torres",
+    "Dick DeBartolo",
+    "Harry Spencer lawsuit",
+    "Mad TV",
+    "Cracked magazine",
+    "satire history",
+    "comic book censorship",
+    "moral panic comic books",
+    "Maxwell Gaines",
+    "Trump magazine Hugh Hefner",
+    "Humbug magazine"
+  ],
+  "entities": [
+    {
+      "name": "MAD Magazine",
+      "type": "work"
+    },
+    {
+      "name": "EC Comics",
+      "type": "organization"
+    },
+    {
+      "name": "Bill Gaines",
+      "type": "person"
+    },
+    {
+      "name": "Maxwell Gaines",
+      "type": "person"
+    },
+    {
+      "name": "Harvey Kurtzman",
+      "type": "person"
+    },
+    {
+      "name": "Al Feldstein",
+      "type": "person"
+    },
+    {
+      "name": "Frederic Wertham",
+      "type": "person"
+    },
+    {
+      "name": "Estes Kefauver",
+      "type": "person"
+    },
+    {
+      "name": "Comics Code Authority",
+      "type": "organization"
+    },
+    {
+      "name": "Senate subcommittee comic book hearings 1954",
+      "type": "event"
+    },
+    {
+      "name": "Alfred E. Neuman",
+      "type": "other"
+    },
+    {
+      "name": "Mort Drucker",
+      "type": "person"
+    },
+    {
+      "name": "Angelo Torres",
+      "type": "person"
+    },
+    {
+      "name": "Al Jaffee",
+      "type": "person"
+    },
+    {
+      "name": "Dick DeBartolo",
+      "type": "person"
+    },
+    {
+      "name": "Antonio Prohias",
+      "type": "person"
+    },
+    {
+      "name": "Spy vs Spy",
+      "type": "work"
+    },
+    {
+      "name": "Sergio Aragones",
+      "type": "person"
+    },
+    {
+      "name": "Don Martin",
+      "type": "person"
+    },
+    {
+      "name": "Dave Berg",
+      "type": "person"
+    },
+    {
+      "name": "Irving Berlin",
+      "type": "person"
+    },
+    {
+      "name": "Sing Along with Mad",
+      "type": "work"
+    },
+    {
+      "name": "Harry Spencer",
+      "type": "person"
+    },
+    {
+      "name": "Trump",
+      "type": "work"
+    },
+    {
+      "name": "Humbug",
+      "type": "work"
+    },
+    {
+      "name": "Mad TV",
+      "type": "work"
+    },
+    {
+      "name": "Cracked",
+      "type": "work"
+    },
+    {
+      "name": "Jack O'Brien",
+      "type": "person"
+    },
+    {
+      "name": "Weird Al Yankovic",
+      "type": "person"
+    },
+    {
+      "name": "Art Spiegelman",
+      "type": "person"
+    },
+    {
+      "name": "Hugh Hefner",
+      "type": "person"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    },
+    {
+      "name": "Spiro Agnew",
+      "type": "person"
+    },
+    {
+      "name": "Women in Trucking",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:05",
+      "kind": "intro",
+      "title": "Tour dates and opening banter",
+      "summary": "Hosts announce fall tour dates in Orlando, Nashville and Atlanta, then open with banter about MAD magazine's name and its early imitators.",
+      "topics": [
+        "tour announcement",
+        "MAD magazine imitators"
+      ]
+    },
+    {
+      "start": "00:01:05",
+      "end": "00:03:24",
+      "kind": "content",
+      "title": "Childhood fandom of MAD",
+      "summary": "Hosts recall reading MAD as kids, the magazine's cover price and no-advertising model, and the influence of illustrators Mort Drucker and Angelo Torres.",
+      "topics": [
+        "MAD magazine fandom",
+        "Mort Drucker",
+        "Angelo Torres",
+        "MAD magazine price"
+      ]
+    },
+    {
+      "start": "00:03:24",
+      "end": "00:07:23",
+      "kind": "content",
+      "title": "MAD's influence on satire and skepticism",
+      "summary": "Discussion of MAD's role in laying groundwork for modern satire and teaching kids skepticism, with a quote from Art Spiegelman.",
+      "topics": [
+        "satire history",
+        "media skepticism",
+        "Art Spiegelman"
+      ]
+    },
+    {
+      "start": "00:07:23",
+      "end": "00:09:04",
+      "kind": "content",
+      "title": "EC Comics origins",
+      "summary": "EC Comics founded by Maxwell Gaines, its early titles, and his son Bill Gaines taking over and turning to horror comics.",
+      "topics": [
+        "EC Comics",
+        "Maxwell Gaines",
+        "Bill Gaines",
+        "horror comics"
+      ]
+    },
+    {
+      "start": "00:09:04",
+      "end": "00:10:58",
+      "kind": "content",
+      "title": "Comics boom and horror content",
+      "summary": "Comic sales in the 1950s and the prevalence of crime and horror titles, and MAD's early themes.",
+      "topics": [
+        "comic book sales 1950s",
+        "crime and horror comics"
+      ]
+    },
+    {
+      "start": "00:10:58",
+      "end": "00:13:31",
+      "kind": "content",
+      "title": "1954 Senate hearings on comic books",
+      "summary": "Psychiatrist Frederic Wertham's claims that comics caused juvenile delinquency, the Senate subcommittee hearings, and the exchange between Bill Gaines and Senator Estes Kefauver over a bloody cover.",
+      "topics": [
+        "1954 Senate comic book hearings",
+        "Frederic Wertham",
+        "Estes Kefauver",
+        "Seduction of the Innocent"
+      ]
+    },
+    {
+      "start": "00:13:31",
+      "end": "00:15:16",
+      "kind": "content",
+      "title": "Gaines's testimony and the fallout",
+      "summary": "Gaines's defense of comics and his weaker performance under questioning, and the publishers' response forming the Comics Magazine Association of America.",
+      "topics": [
+        "Bill Gaines testimony",
+        "Comics Magazine Association of America"
+      ]
+    },
+    {
+      "start": "00:15:16",
+      "end": "00:17:26",
+      "kind": "content",
+      "title": "Comics Code Authority and birth of MAD",
+      "summary": "The Comics Code Authority's self-censorship rules, Gaines dropping horror titles, and keeping the humor comic Tales Calculated to Drive You Mad, which became MAD.",
+      "topics": [
+        "Comics Code Authority",
+        "origin of MAD magazine",
+        "Tales Calculated to Drive You Mad"
+      ]
+    },
+    {
+      "start": "00:17:26",
+      "end": "00:22:48",
+      "kind": "content",
+      "title": "Harvey Kurtzman and early parodies",
+      "summary": "Kurtzman's idea to spoof comics, early parodies like Superduperman and Starchy, and DC Comics' response to earlier spoofs.",
+      "topics": [
+        "Harvey Kurtzman",
+        "Superduperman parody",
+        "comic book parody",
+        "DC Comics cease and desist"
+      ]
+    },
+    {
+      "start": "00:22:48",
+      "end": "00:26:26",
+      "kind": "content",
+      "title": "Switch to magazine format and Kurtzman's departure",
+      "summary": "MAD switches to a glossy magazine format to escape the Code, Kurtzman's perfectionism and departure, and MAD's ad-free approach that let it spoof advertising.",
+      "topics": [
+        "MAD magazine format change",
+        "Kurtzman departure",
+        "ad-free magazine",
+        "spoof ads"
+      ]
+    },
+    {
+      "start": "00:26:26",
+      "end": "00:28:45",
+      "kind": "content",
+      "title": "Hugh Hefner's Trump and Kurtzman's later work",
+      "summary": "Kurtzman's 1956 departure leading to Hefner's Trump and Humbug, Little Annie Fanny, and Al Feldstein taking over and bringing in longtime artists.",
+      "topics": [
+        "Trump magazine",
+        "Humbug",
+        "Little Annie Fanny",
+        "Al Feldstein"
+      ]
+    },
+    {
+      "start": "00:28:45",
+      "end": "00:30:08",
+      "kind": "content",
+      "title": "Feldstein and the What, Me Worry mascot",
+      "summary": "Feldstein's role and the introduction of the Alfred E. Neuman mascot and 'What, me worry?' slogan.",
+      "topics": [
+        "Al Feldstein",
+        "Alfred E. Neuman",
+        "What me worry slogan"
+      ]
+    },
+    {
+      "start": "00:30:10",
+      "end": "00:36:14",
+      "kind": "content",
+      "title": "Alfred E. Neuman origins and copyright lawsuit",
+      "summary": "Origins of the Alfred E. Neuman face traced to an 1894 play, the 1965 Harry Spencer lawsuit, MAD's usage rules, and how the image is public domain.",
+      "topics": [
+        "Alfred E. Neuman origins",
+        "Harry Spencer lawsuit",
+        "public domain image",
+        "The New Boy play"
+      ]
+    },
+    {
+      "start": "00:36:14",
+      "end": "00:36:57",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:36:57",
+      "end": "00:39:31",
+      "kind": "content",
+      "title": "Al Jaffee and the fold-in",
+      "summary": "Al Jaffee's career and record, retirement and death, and the fold-in feature and staff quota system.",
+      "topics": [
+        "Al Jaffee",
+        "fold-in",
+        "MAD staff quotas"
+      ]
+    },
+    {
+      "start": "00:39:31",
+      "end": "00:42:10",
+      "kind": "content",
+      "title": "Dick DeBartolo, Antonio Prohias and Spy vs Spy",
+      "summary": "DeBartolo's parody writing, Prohias's Cuban exile and Spy vs Spy's Cold War message, and his hiring.",
+      "topics": [
+        "Dick DeBartolo",
+        "Antonio Prohias",
+        "Spy vs Spy"
+      ]
+    },
+    {
+      "start": "00:42:10",
+      "end": "00:44:01",
+      "kind": "content",
+      "title": "Sergio Aragones and marginals",
+      "summary": "Sergio Aragones joining MAD and the marginal one-panel cartoons, plus speculation about his bloopers illustrations.",
+      "topics": [
+        "Sergio Aragones",
+        "marginals"
+      ]
+    },
+    {
+      "start": "00:44:01",
+      "end": "00:46:14",
+      "kind": "content",
+      "title": "Dave Berg",
+      "summary": "Dave Berg's Lighter Side of... comics, a memorable panel, and his conservative persona.",
+      "topics": [
+        "Dave Berg",
+        "The Lighter Side of"
+      ]
+    },
+    {
+      "start": "00:46:14",
+      "end": "00:49:11",
+      "kind": "content",
+      "title": "Don Martin and long-running staff",
+      "summary": "Don Martin's style and comic strips, and how long-tenured staff kept MAD's voice consistent, with the Simpsons Spiro Agnew joke.",
+      "topics": [
+        "Don Martin",
+        "long-tenured staff",
+        "Simpsons MAD reference"
+      ]
+    },
+    {
+      "start": "00:49:11",
+      "end": "00:52:10",
+      "kind": "content",
+      "title": "Sing Along with Mad lawsuit and parody protections",
+      "summary": "The 1961 Irving Berlin lawsuit over a parody record and the court's statement on parody and satire, plus Weird Al Yankovic's connection and MAD's peak circulation.",
+      "topics": [
+        "Irving Berlin lawsuit",
+        "parody fair use",
+        "circulation peak"
+      ]
+    },
+    {
+      "start": "00:52:10",
+      "end": "00:55:45",
+      "kind": "content",
+      "title": "MAD's decline, LA relaunch and Cracked revival",
+      "summary": "Decline of the magazine, the later LA-based relaunch, corporate mergers, end of original content in 2019, and Jack O'Brien's revival of Cracked.",
+      "topics": [
+        "MAD decline",
+        "MAD relaunch",
+        "Cracked revival",
+        "Jack O'Brien"
+      ]
+    },
+    {
+      "start": "00:55:45",
+      "end": "00:57:36",
+      "kind": "content",
+      "title": "MAD TV and wrap-up",
+      "summary": "MAD TV's run and cast, and hosts' closing remarks on the magazine.",
+      "topics": [
+        "MAD TV",
+        "episode wrap-up"
+      ]
+    },
+    {
+      "start": "00:57:37",
+      "end": "00:59:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: women in trucking",
+      "summary": "Listener Amanda from Pittsburgh writes about her work at a third-party logistics company and Women in Trucking.",
+      "topics": [
+        "listener mail",
+        "women in trucking"
+      ]
+    },
+    {
+      "start": "00:59:00",
+      "end": "01:00:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and close the episode with the production credit.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 21046,
+    "output_tokens": 4421
+  }
+}

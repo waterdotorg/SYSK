@@ -1,0 +1,413 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-11-09_How_Scuba_Works_62min.txt",
+  "title": "How Scuba Works",
+  "date": "2023-11-09",
+  "duration": "62 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-scuba-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/81f0d1f3-5b8d-4a26-a33c-b0b5000c17f7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/81f0d1f3-5b8d-4a26-a33c-b0b5000c17f7/transcript?format=TextWithTimestamps&t=1713770072",
+  "summary": "Josh and Chuck continue their underwater series with a general overview of scuba diving: the origin of the word and early history (Benoit Rouquayrol and Auguste Denayrouze's 1860s demand regulator and helmet, Christian Lambertsen's LARU rebreather, Jacques Cousteau and Émile Gagnan's Aqua-Lung and The Silent World), types of diving (open water, night, drift, technical, wreck, deep, altitude, cavern and cave, ice), decompression sickness (\"the bends\") and decompression stops, gear (scuba tank, BCD, regulator, masks, fins, dive computers, wetsuits and drysuits, rebreathers), certification (PADI, NAUI, SSI, Discover Scuba, open water course), risk and fatality statistics, buddy systems, and the safe ascent (SSA/CESA-style controlled emergency swimming ascent). Ends with listener mail correcting kombucha information.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "scuba diving",
+    "scuba history",
+    "Aqua-Lung",
+    "demand regulator",
+    "Benoit Rouquayrol",
+    "Auguste Denayrouze",
+    "Jacques Cousteau",
+    "Emile Gagnan",
+    "The Silent World",
+    "Christian Lambertsen",
+    "LARU rebreather",
+    "rebreather diving",
+    "open water diving",
+    "night diving",
+    "drift diving",
+    "wreck diving",
+    "deep diving",
+    "altitude diving",
+    "cavern diving",
+    "cave diving",
+    "ice diving",
+    "decompression sickness",
+    "the bends",
+    "decompression stops",
+    "scuba gear",
+    "BCD buoyancy control device",
+    "dive computer",
+    "wetsuit and drysuit",
+    "scuba certification",
+    "PADI",
+    "dive buddy system",
+    "scuba diving risk and fatalities",
+    "controlled emergency swimming ascent",
+    "nitrox",
+    "kombucha"
+  ],
+  "entities": [
+    {
+      "name": "Benoit Rouquayrol",
+      "type": "person"
+    },
+    {
+      "name": "Auguste Denayrouze",
+      "type": "person"
+    },
+    {
+      "name": "Jacques Cousteau",
+      "type": "person"
+    },
+    {
+      "name": "Emile Gagnan",
+      "type": "person"
+    },
+    {
+      "name": "Christian Lambertsen",
+      "type": "person"
+    },
+    {
+      "name": "Aqua-Lung",
+      "type": "other"
+    },
+    {
+      "name": "The Silent World",
+      "type": "work"
+    },
+    {
+      "name": "LARU rebreather",
+      "type": "other"
+    },
+    {
+      "name": "PADI",
+      "type": "organization"
+    },
+    {
+      "name": "NAUI",
+      "type": "organization"
+    },
+    {
+      "name": "SSI Scuba Schools International",
+      "type": "organization"
+    },
+    {
+      "name": "Romu Quarry",
+      "type": "place"
+    },
+    {
+      "name": "Cave Diving episode",
+      "type": "work"
+    },
+    {
+      "name": "Scuba Cat",
+      "type": "work"
+    },
+    {
+      "name": "The Firm",
+      "type": "work"
+    },
+    {
+      "name": "Radiohead",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter and underwater series",
+      "summary": "Josh and Chuck open, framing this as a general episode in their underwater series after cave diving, and recall the Scuba Cat episode from the early days.",
+      "topics": [
+        "Scuba Cat",
+        "underwater series",
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Chuck's snorkeling trip and what scuba stands for",
+      "summary": "Chuck recounts a snorkeling trip in Mexico where his daughter struggled with the gear and then free-dived happily. They define SCUBA as self-contained underwater breathing apparatus and note that Josh's one open water dive left him seasick.",
+      "topics": [
+        "snorkeling",
+        "free diving",
+        "SCUBA acronym",
+        "self-contained underwater breathing apparatus"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Coral and reef observations",
+      "summary": "Chuck describes seeing live coral, tropical fish, and artificial PVC reef structures on his trip, and the hosts remark on poor coral condition.",
+      "topics": [
+        "coral reefs",
+        "artificial reefs",
+        "snorkeling Mexico"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Early history: Rouquayrol and Denayrouze's demand regulator",
+      "summary": "The hosts describe the 1860s invention by Benoit Rouquayrol and Auguste Denayrouze of a demand regulator for mine rescue workers, which they then adapted for underwater breathing with a compressed-air backpack, untethered from boats.",
+      "topics": [
+        "scuba history",
+        "demand regulator",
+        "1860s diving invention",
+        "Rouquayrol",
+        "Denayrouze",
+        "mine rescue"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Early helmets and the Aerophore",
+      "summary": "Chuck explains early equipment such as lead-soled shoes and a copper helmet with a single window, nicknamed the 'groin' for pig snout, and the Aerophore award at the 1867 World's Fair.",
+      "topics": [
+        "diving helmet history",
+        "Aerophore",
+        "1867 World's Fair",
+        "early diving equipment"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Christian Lambertsen and the LARU rebreather",
+      "summary": "The hosts discuss Christian Lambertsen's 1939 Lambertsen Amphibious Respirator Unit, a rebreather with a CO2 filter, pitched to the Navy (rejected) and used by the OSS, and later used by the US military from the 1950s to the 1980s.",
+      "topics": [
+        "Christian Lambertsen",
+        "LARU",
+        "rebreather history",
+        "OSS",
+        "US military diving"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Cousteau and Gagnan's Aqua-Lung and The Silent World",
+      "summary": "Jacques Cousteau and Emile Gagnan updated the demand regulator, drawing on Gagnan's wartime gas regulator, and called it the Aqua-Lung. Cousteau's film The Silent World (1956) popularized it, winning an Oscar and the Palme d'Or, and the Aqua Master regulator followed in 1958.",
+      "topics": [
+        "Jacques Cousteau",
+        "Emile Gagnan",
+        "Aqua-Lung",
+        "The Silent World",
+        "Oscar documentary",
+        "Aqua Master regulator",
+        "Cousteau French Resistance"
+      ],
+      "end_placeholder": null
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Transition to dive types",
+      "summary": "After a break, the hosts begin describing types of diving, starting with open water diving.",
+      "topics": [
+        "open water diving",
+        "recreational diving"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Open water, night, and drift diving",
+      "summary": "Open water diving is defined as having no ceiling overhead, and can occur in lakes or quarries. Night diving is described as more dangerous due to getting lost, so divers stay tethered. Drift diving uses currents to travel with less effort, and uses more oxygen only when working hard.",
+      "topics": [
+        "open water diving",
+        "night diving",
+        "drift diving",
+        "dive currents"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Technical, wreck, and deep diving",
+      "summary": "Technical diving is an umbrella for advanced diving. Wreck diving on sunken ships is dangerous because of entanglement and overhead ceilings. Deep diving requires certification, with a recreational limit around 130 feet (40 meters), with deeper dives possible with experience.",
+      "topics": [
+        "technical diving",
+        "wreck diving",
+        "deep diving",
+        "artificial reefs",
+        "overhead ceiling hazard"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Decompression sickness and the bends",
+      "summary": "Decompression sickness, or the bends, is caused by nitrogen bubbles forming in the blood and tissues when ascending too fast. Divers must make decompression stops. Chuck cites a record dive by Ahmed Gabr to over 1,000 feet, taking 14 minutes down and 14 hours to decompress.",
+      "topics": [
+        "decompression sickness",
+        "the bends",
+        "nitrogen bubbles",
+        "decompression stops",
+        "Ahmed Gabr record dive"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:30",
+      "kind": "content",
+      "title": "Dive planning and altitude diving",
+      "summary": "Divers must plan depth and time before entering the water using tables or dive computers. Altitude diving above 1,000 feet elevation carries different decompression considerations. The hosts digress into The Firm and Red Stripe beer, and the rule against diving and flying within 24 hours.",
+      "topics": [
+        "dive planning",
+        "altitude diving",
+        "flying after diving",
+        "The Firm"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Cavern, cave, and ice diving",
+      "summary": "Cavern diving stays within the light zone with easy surface access; cave diving has no direct surface access. Ice diving occurs under thick ice, and Romu Quarry in Estonia has a sunken prison that is popular in summer.",
+      "topics": [
+        "cavern diving",
+        "cave diving",
+        "ice diving",
+        "Romu Quarry Estonia"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Scuba gear: tanks, nitrox, BCD, regulator",
+      "summary": "Divers breathe compressed air, not pure oxygen; nitrox (32% oxygen) allows longer dives with fewer decompression stops. The BCD controls buoyancy. The regulator has a first stage attached to the tank and a second stage mouthpiece, with a backup mouthpiece for buddy air sharing.",
+      "topics": [
+        "scuba tank",
+        "compressed air",
+        "nitrox",
+        "BCD",
+        "buoyancy control",
+        "regulator",
+        "octopus backup mouthpiece"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Masks, fins, dive computers, wetsuits",
+      "summary": "Single and dual lens masks, including prescription options. Split fins are awkward. Dive computers track depth, air, and decompression status; Apple's Oceanic Plus is mentioned. Wetsuits keep divers warm, and drysuits are for water below 50 degrees Fahrenheit. Hypothermia is possible even in water near 80 degrees.",
+      "topics": [
+        "dive masks",
+        "prescription dive mask",
+        "fins",
+        "dive computer",
+        "wetsuit",
+        "drysuit",
+        "hypothermia"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Rebreathers",
+      "summary": "A rebreather recycles exhaled air by scrubbing CO2 and adding oxygen, producing no bubbles and allowing longer dives. The record for rebreather time is 145 hours.",
+      "topics": [
+        "rebreather",
+        "closed circuit diving",
+        "CO2 scrubbing",
+        "rebreather record"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Certification and how to get certified",
+      "summary": "No law requires a license, but dive operators ask for a card. Discover Scuba is a short introductory option. Open water certification takes a few days and costs around 500 dollars, requires age 10, and has agencies such as PADI, NAUI, and SSI. Four to six open water dives are needed, and classroom, confined water, and open water stages are described.",
+      "topics": [
+        "scuba certification",
+        "Discover Scuba",
+        "open water certification",
+        "PADI",
+        "NAUI",
+        "SSI",
+        "confined water dive",
+        "dive cost"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Scuba risks, medical conditions, and fatality statistics",
+      "summary": "Pre-existing heart conditions require doctor consultation. Scuba carries risk; about 100 deaths annually in North America and about 100 more internationally. Roughly 3.4 to 4.2 deaths per 100,000 divers, with most fatalities linked to being separated from or lacking a buddy, and solo diving.",
+      "topics": [
+        "scuba diving risk",
+        "scuba fatalities",
+        "buddy system",
+        "solo diving",
+        "heart condition diving",
+        "cardiac risk"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "00:59:15",
+      "kind": "content",
+      "title": "Controlled emergency swimming ascent",
+      "summary": "Panicked divers who hold their breath while ascending risk lung overexpansion and arterial gas embolism. The controlled emergency swimming ascent involves swimming up slowly while exhaling.",
+      "topics": [
+        "controlled emergency swimming ascent",
+        "lung overexpansion",
+        "arterial gas embolism",
+        "panic underwater",
+        "dive safety"
+      ]
+    },
+    {
+      "start": "00:59:15",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Radiohead banter",
+      "summary": "Chuck and Josh joke about the Radiohead album and EP titled Bends, with Chuck clarifying the difference between the EP and full-length LP.",
+      "topics": [
+        "Radiohead",
+        "The Bends album",
+        "music banter"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:02:00",
+      "kind": "listener_mail",
+      "title": "Kombucha corrections from Frederick Overbey Peterson",
+      "summary": "A listener named Frederick corrects them: store-bought kombucha can start a batch without a SCOBY, and SCOBYs form in some vinegars such as apple cider vinegar rather than kombucha. Josh and Chuck invite listeners to email Stuff Podcasts at iHeartRadio dot com.",
+      "topics": [
+        "kombucha",
+        "SCOBY",
+        "listener mail",
+        "apple cider vinegar"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 23286,
+    "output_tokens": 4893
+  }
+}

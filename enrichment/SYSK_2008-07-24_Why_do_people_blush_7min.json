@@ -1,0 +1,133 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-07-24_Why_do_people_blush_7min.txt",
+  "title": "Why do people blush?",
+  "date": "2008-07-24",
+  "duration": "7 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-do-people-blush",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ceca49ca-7a57-4870-81ae-ae2800c387cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ceca49ca-7a57-4870-81ae-ae2800c387cd/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh and Chuck open with banter (Chuck's open fly, Chuck blushing), then discuss why people blush. They cover the sympathetic nervous system and fight-or-flight link, the fact that cheek veins dilate unlike most veins, and two theories: blushing as a public apology for a social faux pas (Josh's dismissed-as-clumsy theory, compared to a dog showing its belly) and Chuck's favorite, the obscure MPA (narcissism, perfectionism, aggression) theory in which blushing is rage over affronted narcissism. They conclude no one knows for sure why we blush. The episode closes with ad reads for Visa and the Camray, and a list of popular HowStuffWorks articles (sleep, body farms, the Stanford prison experiment-style article, plane crash survival, da Vinci's car sketch).",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "blushing",
+    "why people blush",
+    "fight or flight response",
+    "sympathetic nervous system",
+    "adrenaline and blood vessels",
+    "facial blushing veins",
+    "social apology theory of blushing",
+    "MPA theory narcissism perfectionism aggression",
+    "human personality theories",
+    "HowStuffWorks podcast",
+    "Visa fraud ad",
+    "Camray ad",
+    "body farms",
+    "how the prison project worked",
+    "plane crash survival",
+    "da Vinci car sketch",
+    "sleep importance"
+  ],
+  "entities": [
+    {
+      "name": "MPA theory",
+      "type": "other"
+    },
+    {
+      "name": "Visa",
+      "type": "organization"
+    },
+    {
+      "name": "Camray",
+      "type": "other"
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and Chuck blushing",
+      "summary": "Hosts joke about Chuck's open fly and Chuck blushing on air, introduce the show and Chuck as permanent co-host.",
+      "topics": [
+        "blushing",
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "How blushing works physiologically",
+      "summary": "Blushing involves the sympathetic nervous system, the same system behind fight or flight. Blood vessels dilate, and the veins in the cheeks are unusual in flushing with adrenaline, and blushing appears to be exclusive to humans.",
+      "topics": [
+        "blushing",
+        "fight or flight response",
+        "sympathetic nervous system",
+        "adrenaline and blood vessels",
+        "facial blushing veins"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Social apology theory of blushing",
+      "summary": "Josh explains the theory that blushing on the face is a visible public apology for a faux pas, signaling contrition and submission, likened to a dog showing its belly. Chuck says he doesn't buy it.",
+      "topics": [
+        "social apology theory of blushing",
+        "why people blush",
+        "faux pas",
+        "nonverbal communication"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "MPA theory of blushing",
+      "summary": "Chuck describes his favorite theory, the obscure MPA theory of personality built on narcissism, perfectionism, and aggression. Under it, blushing is rage from affronted narcissism rather than embarrassment. The hosts find it plausible but admit no one really knows why we blush.",
+      "topics": [
+        "MPA theory narcissism perfectionism aggression",
+        "human personality theories",
+        "why people blush"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:07:00",
+      "kind": "ad",
+      "title": "Visa ad and article promotion",
+      "summary": "Visa fraud-protection sponsor read, then a promo for HowStuffWorks blushing article and Chuck's top five articles.",
+      "topics": [
+        "Visa fraud ad",
+        "HowStuffWorks podcast"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:07:00",
+      "kind": "outro",
+      "title": "Favorite articles list and sign-off",
+      "summary": "Hosts list favorite HowStuffWorks articles including sleep, body farms, the prison project, plane crash survival, and da Vinci's car sketch, then sign off with a Camray ad.",
+      "topics": [
+        "body farms",
+        "how the prison project worked",
+        "plane crash survival",
+        "da Vinci car sketch",
+        "sleep importance",
+        "Camray ad"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3998,
+    "output_tokens": 1591
+  }
+}

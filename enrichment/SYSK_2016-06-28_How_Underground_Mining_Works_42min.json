@@ -1,0 +1,232 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-06-28_How_Underground_Mining_Works_42min.txt",
+  "title": "How Underground Mining Works",
+  "date": "2016-06-28",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-underground-mining-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9d831e69-af14-4e59-a9eb-ae2800829c8f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9d831e69-af14-4e59-a9eb-ae2800829c8f/transcript?format=TextWithTimestamps&t=1700543832",
+  "summary": "Josh and Chuck explain underground mining: how it differs from surface and mountaintop removal mining, the history from ancient Egyptian, Roman and prehistoric mining (fire setting, pick axes, slave and prisoner labor) through mechanization, and the basic shaft layout of mines. They cover hard rock versus soft rock mines, and the methods room and pillar (continuous miner), cut and fill, block caving, long wall and short wall mining. They discuss mining dangers and health risks (black lung, collapses, explosions, gases), the 2010 Chilean mine rescue, 2010 disasters in West Virginia and New Zealand, environmental damage including the Centralia mine fire and wildcat gold mining in Guiana, and the canary in a coal mine, John Scott Haldane's carbon monoxide experiments, and birds' respiratory systems. The episode closes with a listener mail about a Seattle pirate radio station.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "underground mining",
+    "how mining works",
+    "room and pillar mining",
+    "continuous miner",
+    "long wall mining",
+    "short wall mining",
+    "cut and fill mining",
+    "block caving",
+    "hard rock mining",
+    "soft rock mining",
+    "coal mining",
+    "mine shafts",
+    "black lung",
+    "mining dangers",
+    "mining history",
+    "fire setting",
+    "Centralia mine fire",
+    "wildcat mining",
+    "canary in a coal mine",
+    "John Scott Haldane",
+    "Chilean mine rescue 2010",
+    "Upper Big Branch mine",
+    "Pike River Mine",
+    "mining safety",
+    "mountaintop removal",
+    "pirate radio",
+    "mine ventilation",
+    "bird respiratory system"
+  ],
+  "entities": [
+    {
+      "name": "Chile mine rescue",
+      "type": "event"
+    },
+    {
+      "name": "Centralia mine fire",
+      "type": "event"
+    },
+    {
+      "name": "Upper Big Branch mine",
+      "type": "place"
+    },
+    {
+      "name": "Pike River Mine",
+      "type": "place"
+    },
+    {
+      "name": "Centralia, Pennsylvania",
+      "type": "place"
+    },
+    {
+      "name": "Guiana",
+      "type": "place"
+    },
+    {
+      "name": "John Scott Haldane",
+      "type": "person"
+    },
+    {
+      "name": "John Henry",
+      "type": "person"
+    },
+    {
+      "name": "Julia Layton",
+      "type": "person"
+    },
+    {
+      "name": "Rock City",
+      "type": "place"
+    },
+    {
+      "name": "Evel Knievel",
+      "type": "person"
+    },
+    {
+      "name": "Richard Scarry",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Chilean mine rescue",
+      "summary": "Josh and Chuck introduce underground mining, contrast it with mountaintop removal and fracking, and discuss the 2010 Chilean mine rescue and the number of miners who die on the job.",
+      "topics": [
+        "underground mining",
+        "Chilean mine rescue 2010",
+        "mining dangers"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Black lung and surface versus underground mining",
+      "summary": "The hosts discuss black lung, its preventability, and how surface mining differs from underground mining, including the depth at which each becomes efficient.",
+      "topics": [
+        "black lung",
+        "surface mining",
+        "mountaintop removal",
+        "mine ventilation"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "History of mining from ancient times",
+      "summary": "Early mining from prehistoric and Egyptian and Roman times used pick axes and prisoner or slave labor. Fire setting was used to crack rock. Mining evolved as tools moved from flint and bone to copper, bronze and iron.",
+      "topics": [
+        "mining history",
+        "fire setting",
+        "ancient Egyptian mining",
+        "Roman mining",
+        "slave labor in mining"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break before the discussion of mechanized mining techniques.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Mine anatomy and hard rock versus soft rock",
+      "summary": "Mines have ventilation, access, exit and recovery shafts, and the ore deposit determines the mining technique. The hosts debate whether hard or soft refers to the ore or the surrounding rock; examples of hard rock and soft rock ores are listed.",
+      "topics": [
+        "mine shafts",
+        "hard rock mining",
+        "soft rock mining",
+        "ore deposits",
+        "coal mining"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Room and pillar, cut and fill, and block caving",
+      "summary": "Room and pillar mining uses a continuous miner to carve rooms and leave pillars for support. Cut and fill backfills each cut with rubble for vertical deposits. Block caving lets the roof collapse and is used for low grade ore.",
+      "topics": [
+        "room and pillar mining",
+        "continuous miner",
+        "cut and fill mining",
+        "block caving",
+        "mine roof collapse"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Long wall and short wall mining",
+      "summary": "Long wall mining uses a large shearer machine that cuts coal onto a conveyor while hydraulic supports hold up the roof, and short wall mining is a similar method for narrower deposits. The hosts express enthusiasm for these machines.",
+      "topics": [
+        "long wall mining",
+        "short wall mining",
+        "coal mechanization",
+        "hydraulic roof supports"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "John Henry and tunneling",
+      "summary": "The hosts discuss whether John Henry's railroad tunnel work counts as mining, and recall past civil engineering episodes on tunnels and bridges.",
+      "topics": [
+        "John Henry",
+        "tunneling versus mining",
+        "civil engineering episodes"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Environmental damage, Centralia fire, and wildcat mining",
+      "summary": "Mining damages the environment through air and water pollution. The Centralia, Pennsylvania underground coal fire is described, along with illegal wildcat gold mining in Guiana that uses mercury.",
+      "topics": [
+        "mining pollution",
+        "Centralia mine fire",
+        "wildcat mining",
+        "Guiana gold mining",
+        "mercury pollution"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Mining disasters, health risks, and the canary",
+      "summary": "The hosts list major 2010 disasters and mention explosions, gas, and respiratory disease. They then describe John Scott Haldane's carbon monoxide experiments, the canary in a coal mine, and how birds' respiratory systems make them sensitive to bad air.",
+      "topics": [
+        "canary in a coal mine",
+        "John Scott Haldane",
+        "carbon monoxide in mines",
+        "bird respiratory system",
+        "Upper Big Branch mine",
+        "Pike River Mine",
+        "mining explosions"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13886,
+    "output_tokens": 2516
+  }
+}

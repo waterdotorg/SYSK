@@ -1,0 +1,225 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-05-30_The_Tylenol_Murders_Part_II_46min.txt",
+  "title": "The Tylenol Murders, Part II",
+  "date": "2019-05-30",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-tylenol-murders-part-ii",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efae67da-9b06-4a6e-b250-ae28004becc0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/efae67da-9b06-4a6e-b250-ae28004becc0/transcript?format=TextWithTimestamps&t=1700543695",
+  "summary": "Part II of the Tylenol murders story covers Johnson & Johnson's public relations response to the 1982 Chicago cyanide-laced Extra Strength Tylenol deaths: the recall of about 31 million bottles, the hotline and reward, and the new tamper-resistant packaging and caplets that followed. It also covers the rise of tamper-evident packaging across consumer products, the lasting impact on American trust, and the investigation's suspects: Roger Arnold (who later killed John Stanisha by mistaken identity) and James Lewis (an alias-using extortionist who was cleared of the poisonings). It ends with the unsolved status of the case, the 1986 Yonkers death of Mary Reiner's... (Diane Elsroth) cyanide case, a self-published insider book, and a listener mail segment about synthetic fart liquid.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Tylenol murders",
+    "Tylenol murders part II",
+    "1982 Chicago Tylenol poisoning",
+    "Johnson & Johnson",
+    "Extra Strength Tylenol recall",
+    "cyanide poisoning",
+    "public relations crisis management",
+    "tamper-resistant packaging",
+    "tamper-evident packaging",
+    "Tylenol caplets",
+    "Tylenol Bill",
+    "domestic terrorism",
+    "Roger Arnold",
+    "John Stanisha",
+    "James Lewis extortion letter",
+    "unsolved murder case",
+    "Chicago cold case",
+    "Diane Elsroth cyanide death",
+    "Scott Bartos book",
+    "synthetic fart liquid"
+  ],
+  "entities": [
+    {
+      "name": "Johnson & Johnson",
+      "type": "organization"
+    },
+    {
+      "name": "Tylenol",
+      "type": "work"
+    },
+    {
+      "name": "McNeil Consumer Products",
+      "type": "organization"
+    },
+    {
+      "name": "Chicago",
+      "type": "place"
+    },
+    {
+      "name": "Roger Arnold",
+      "type": "person"
+    },
+    {
+      "name": "John Stanisha",
+      "type": "person"
+    },
+    {
+      "name": "James Lewis",
+      "type": "person"
+    },
+    {
+      "name": "Nancy Richardson",
+      "type": "person"
+    },
+    {
+      "name": "Mayor Jane Byrne",
+      "type": "person"
+    },
+    {
+      "name": "Diane Elsroth",
+      "type": "person"
+    },
+    {
+      "name": "Scott Winkleman",
+      "type": "person"
+    },
+    {
+      "name": "Ted Kaczynski",
+      "type": "person"
+    },
+    {
+      "name": "Tylenol murders",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Part I recap",
+      "summary": "Hosts recap the 1982 Tylenol poisonings and set up Part II, noting Johnson & Johnson's crisis handling is taught in PR classes. Banter includes an aside about a Detroit show's lighting crew.",
+      "topics": [
+        "Tylenol murders",
+        "Johnson & Johnson",
+        "PR crisis",
+        "Detroit live show"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Johnson & Johnson's recall and public relations response",
+      "summary": "Johnson & Johnson initially resisted a large recall until Chicago Mayor Jane Byrne called for one. The company then recalled all extra strength Tylenol nationally, about 31 million bottles, set up a hotline, offered a $100,000 reward, and positioned itself as a victim. The Public Relations Society of America honored the response with a Silver Anvil.",
+      "topics": [
+        "Johnson & Johnson recall",
+        "Mayor Jane Byrne",
+        "PR crisis management",
+        "Silver Anvil award",
+        "Tylenol reward"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Tamper-resistant packaging and caplets",
+      "summary": "Hosts describe how pre-1982 pill bottles and cotton were not tamper-proof, and how the cotton had become superfluous. Within six weeks Tylenol introduced three-part tamper-resistant packaging and caplets. Other manufacturers followed, and Congress passed the Tylenol Bill making tampering a federal offense.",
+      "topics": [
+        "tamper-resistant packaging",
+        "tamper-evident packaging",
+        "Tylenol caplets",
+        "Tylenol Bill",
+        "FDA guidelines",
+        "product tampering"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Psychological profile and the investigation",
+      "summary": "Profilers described the suspect as an ordinary-seeming man in his twenties or thirties with self-doubt. The task force narrowed thousands of tips to about 1,200 worth checking and then shrank in size over time. Lack of cameras and paper trails made the case hard to solve.",
+      "topics": [
+        "criminal profiling",
+        "Tylenol investigation",
+        "task force",
+        "unsolved case"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Suspects Roger Arnold and John Stanisha",
+      "summary": "Roger Arnold, a DIY chemist and early named suspect, had unregistered guns and a book on killing methods, but was cleared. Six months later he shot John Stanisha, a random man mistaken for a bar owner he blamed, and was sentenced to thirty years, serving fifteen.",
+      "topics": [
+        "Roger Arnold",
+        "John Stanisha",
+        "mistaken identity",
+        "Tylenol suspects"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "James Lewis and the extortion letter",
+      "summary": "A letter demanding one million dollars sent to Johnson & Johnson led police to James Lewis, who used the alias Robert Richardson. He had a criminal record, but was cleared because he could not be placed in Chicago on the day of the poisonings. He was convicted of extortion and credit card fraud and later lived in Massachusetts.",
+      "topics": [
+        "James Lewis",
+        "extortion letter",
+        "alias",
+        "Robert Richardson",
+        "Tylenol suspects"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Legacy, unsolved status, and later copycat cases",
+      "summary": "The case remains unsolved. DNA and fingerprint evidence has been held, and a police sergeant says it may be solvable. Victims' families still struggle. In a later death in New York, a Tylenol capsule with cyanide led eight states to ban capsules, and a former employee's self-published book suggested a cover-up.",
+      "topics": [
+        "unsolved Tylenol case",
+        "DNA evidence",
+        "Diane Elsroth",
+        "Tylenol capsule ban",
+        "cover-up theory",
+        "Scott Bartos"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: synthetic fart liquid",
+      "summary": "A listener recounts using a joke product, liquid butt-smelling fluid, as a college prank that backfired in a dorm radiator.",
+      "topics": [
+        "listener mail",
+        "synthetic farts",
+        "college pranks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15086,
+    "output_tokens": 2628
+  }
+}

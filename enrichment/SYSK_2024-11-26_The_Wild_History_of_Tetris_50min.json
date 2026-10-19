@@ -1,0 +1,413 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-11-26_The_Wild_History_of_Tetris_50min.txt",
+  "title": "The Wild History of Tetris",
+  "date": "2024-11-26",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/2024-11-26-sysk-tetris-final",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0c25f087-ac4c-4b5f-85a3-b22601301003/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0c25f087-ac4c-4b5f-85a3-b22601301003/transcript?format=TextWithTimestamps&t=1731442083",
+  "summary": "Josh and Chuck (with a third speaker) trace the history of Tetris: its 1984 creation by Alexey Pajitnov at the Soviet Academy of Sciences' computer center, early spread through Soviet offices and floppy disks, the rights dispute involving Robert Stein, Robert Maxwell, and the Soviet organization Elorg, Henk Rogers' deal and the Game Boy bundling that made it a hit, Cold War marketing, the game's pieces and slang names, competitive play (hyper tapping, rolling, the kill screen beaten by Willis Gibson), and psychological theories of its addictiveness (Tetris effect, Zeigarnik effect, cravings and PTSD studies). Ends with listener mail about augmented reality glasses.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Tetris",
+    "history of Tetris",
+    "Alexey Pajitnov",
+    "Tetris creation 1984",
+    "Tetris rights dispute",
+    "Robert Stein",
+    "Robert Maxwell",
+    "Elorg",
+    "Henk Rogers",
+    "Game Boy Tetris",
+    "Tetris Cold War marketing",
+    "Tetris effect",
+    "Zeigarnik effect",
+    "competitive Tetris",
+    "hyper tapping",
+    "rolling technique",
+    "Tetris kill screen",
+    "Willis Gibson",
+    "Vladimir Pokhilko",
+    "Tetris pieces names",
+    "Tetris cravings study",
+    "video game history",
+    "Pentomino"
+  ],
+  "entities": [
+    {
+      "name": "Tetris",
+      "type": "work"
+    },
+    {
+      "name": "Alexey Pajitnov",
+      "type": "person"
+    },
+    {
+      "name": "Vladimir Pokhilko",
+      "type": "person"
+    },
+    {
+      "name": "Dmitry Pavlovsky",
+      "type": "person"
+    },
+    {
+      "name": "Vadim Gerasimov",
+      "type": "person"
+    },
+    {
+      "name": "Robert Stein",
+      "type": "person"
+    },
+    {
+      "name": "Robert Maxwell",
+      "type": "person"
+    },
+    {
+      "name": "Henk Rogers",
+      "type": "person"
+    },
+    {
+      "name": "Elorg",
+      "type": "organization"
+    },
+    {
+      "name": "Andromeda Software",
+      "type": "organization"
+    },
+    {
+      "name": "Spectrum HoloByte",
+      "type": "organization"
+    },
+    {
+      "name": "Mirrorsoft",
+      "type": "organization"
+    },
+    {
+      "name": "Bullet-Proof Software",
+      "type": "organization"
+    },
+    {
+      "name": "Nintendo",
+      "type": "organization"
+    },
+    {
+      "name": "Game Boy",
+      "type": "work"
+    },
+    {
+      "name": "Pentomino",
+      "type": "work"
+    },
+    {
+      "name": "Willis Gibson",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Saley",
+      "type": "person"
+    },
+    {
+      "name": "Christopher Martinez",
+      "type": "person"
+    },
+    {
+      "name": "The Tetris Murderers",
+      "type": "work"
+    },
+    {
+      "name": "Soviet Academy of Sciences",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:22",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts open the episode with light banter about the Tetris topic and their personal Tetris experience.",
+      "topics": [
+        "Tetris"
+      ]
+    },
+    {
+      "start": "00:00:22",
+      "end": "00:03:19",
+      "kind": "intro",
+      "title": "Personal experiences and addictiveness",
+      "summary": "Hosts and a co-host discuss playing Tetris on the NES and Game Boy, the Tetris effect on dreams and perception, and the game's status as best-selling game of all time.",
+      "topics": [
+        "Tetris effect",
+        "Tetris best-selling game",
+        "Game Boy",
+        "NES"
+      ]
+    },
+    {
+      "start": "00:03:19",
+      "end": "00:06:16",
+      "kind": "content",
+      "title": "Origins: Pentomino and the name Tetris",
+      "summary": "The game's creator Alexey Pajitnov was inspired by the physical puzzle Pentomino; Tetris was named for the Greek prefix for four, with a nod to tennis. The first version was called Genetic Engineering.",
+      "topics": [
+        "Pentomino",
+        "Tetris name origin",
+        "Alexey Pajitnov",
+        "Genetic Engineering"
+      ]
+    },
+    {
+      "start": "00:06:16",
+      "end": "00:08:24",
+      "kind": "content",
+      "title": "Early versions and developers",
+      "summary": "The first digital version was rendered in text characters and was boring until made vertical with smaller pieces and line clearing. Developers included Pajitnov, Dmitry Pavlovsky, teenage intern Vadim Gerasimov and psychologist Vladimir Pokhilko.",
+      "topics": [
+        "early Tetris development",
+        "Tetris developers",
+        "text-based Tetris"
+      ]
+    },
+    {
+      "start": "00:08:24",
+      "end": "00:11:01",
+      "kind": "content",
+      "title": "Soviet spread and early copies",
+      "summary": "Tetris spread on IBM PCs across the Soviet Union, with workers playing so much that computers were cleared of it; copies went abroad on floppy disks and Robert Stein saw it in Hungary.",
+      "topics": [
+        "Soviet Union computer games",
+        "floppy disk piracy",
+        "Robert Stein"
+      ]
+    },
+    {
+      "start": "00:11:01",
+      "end": "00:14:45",
+      "kind": "content",
+      "title": "Rights dispute and licensing deals",
+      "summary": "Stein believed he had a deal and began launching Tetris, but rights were tangled: Maxwell's Mirrorsoft and Spectrum HoloByte made licensing deals without clear ownership. Elorg, the Soviet organization, objected, and a ten-year license was eventually signed in February 1988.",
+      "topics": [
+        "Tetris rights dispute",
+        "Elorg",
+        "Robert Maxwell",
+        "Mirrorsoft",
+        "Spectrum HoloByte",
+        "Tetris licensing"
+      ]
+    },
+    {
+      "start": "00:14:45",
+      "end": "00:15:13",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": []
+    },
+    {
+      "start": "00:15:13",
+      "end": "00:17:23",
+      "kind": "content",
+      "title": "Henk Rogers and the Game Boy deal",
+      "summary": "Henk Rogers of Bullet-Proof Software found Tetris at CES in 1988, traveled to Moscow, befriended Pajitnov, and secured a handshake deal with Nintendo of America to bundle Tetris with the Game Boy, selling around 35 million units.",
+      "topics": [
+        "Henk Rogers",
+        "Game Boy Tetris",
+        "Nintendo",
+        "Tetris bundle"
+      ]
+    },
+    {
+      "start": "00:17:23",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Game Boy theme and Tetris music",
+      "summary": "Discussion of the Game Boy's Tetris theme, based on the Russian folk song Korobeiniki, and a note on eBay Game Boy cartridge prices.",
+      "topics": [
+        "Korobeiniki",
+        "Tetris theme music",
+        "Game Boy cartridges"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:21:20",
+      "kind": "content",
+      "title": "Nintendo versus Atari rights and Cold War marketing",
+      "summary": "Nintendo won the rights over Atari; the game was marketed with Soviet and Cold War imagery, including Reagan and Gorbachev impersonators at trade shows.",
+      "topics": [
+        "Atari Tetris lawsuit",
+        "Tetris Cold War marketing",
+        "Reagan Gorbachev impersonators"
+      ]
+    },
+    {
+      "start": "00:21:20",
+      "end": "00:22:18",
+      "kind": "content",
+      "title": "Press reaction and royalties",
+      "summary": "A New York Times article on the Soviet software; Pajitnov eventually regained rights after ten years and received royalties.",
+      "topics": [
+        "New York Times Tetris coverage",
+        "Pajitnov royalties"
+      ]
+    },
+    {
+      "start": "00:22:18",
+      "end": "00:23:47",
+      "kind": "content",
+      "title": "Pokhilko's death",
+      "summary": "Vladimir Pokhilko, sidelined in the rights deals, was involved in a 1998 murder-suicide with his wife and son; autopsies concluded suicide, though conspiracy theories persist.",
+      "topics": [
+        "Vladimir Pokhilko",
+        "Tetris Murderers docuseries",
+        "Tetris developer death"
+      ]
+    },
+    {
+      "start": "00:23:47",
+      "end": "00:26:04",
+      "kind": "content",
+      "title": "Tetris film",
+      "summary": "Hosts discuss the Apple TV film about Tetris and actor Taron Egerton.",
+      "topics": [
+        "Tetris movie",
+        "Apple TV Tetris film"
+      ]
+    },
+    {
+      "start": "00:26:04",
+      "end": "00:26:09",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break before gameplay discussion.",
+      "topics": []
+    },
+    {
+      "start": "00:26:09",
+      "end": "00:27:34",
+      "kind": "content",
+      "title": "How to play Tetris",
+      "summary": "Basic gameplay explained: falling tetrominoes, clearing complete horizontal lines, levels getting faster, rotating pieces, and previews in some versions.",
+      "topics": [
+        "Tetris gameplay",
+        "how to play Tetris"
+      ]
+    },
+    {
+      "start": "00:27:34",
+      "end": "00:29:25",
+      "kind": "content",
+      "title": "Multiplayer and Tetris clears",
+      "summary": "Multiplayer versions send garbage lines to opponents after multi-line clears; clearing four lines at once is called a Tetris.",
+      "topics": [
+        "multiplayer Tetris",
+        "garbage lines",
+        "Tetris clear"
+      ]
+    },
+    {
+      "start": "00:29:25",
+      "end": "00:33:08",
+      "kind": "content",
+      "title": "Piece names",
+      "summary": "Hosts list the Tetris piece nicknames and the official Nintendo names from the original manual, such as blue Ricky, orange Ricky, smashboy, Rhode Island Z, and the Hero.",
+      "topics": [
+        "Tetris pieces",
+        "Tetris piece names",
+        "blue Ricky",
+        "smashboy",
+        "the Hero"
+      ]
+    },
+    {
+      "start": "00:33:08",
+      "end": "00:36:45",
+      "kind": "content",
+      "title": "Competitive play and hyper tapping",
+      "summary": "Competitive Tetris, the Classic Tetris World Championship on the original NES version, the limits of the NES D-pad, hyper tapping, and Hector Fly Rodriguez's rolling technique popularized by Christopher Martinez (Cheez).",
+      "topics": [
+        "competitive Tetris",
+        "hyper tapping",
+        "rolling technique",
+        "Christopher Martinez",
+        "Classic Tetris World Championship"
+      ]
+    },
+    {
+      "start": "00:36:45",
+      "end": "00:40:19",
+      "kind": "content",
+      "title": "Kill screen and Willis Gibson",
+      "summary": "Players reached high levels with hyper tapping (Joseph Saley reached level 35); the game has no official ending, bots suggest it runs to level 155 to the mid-200s, and thirteen-year-old Willis Gibson reached level 157 in December 2023, crashing the game. Pajitnov said the pure game can't be beaten.",
+      "topics": [
+        "Tetris kill screen",
+        "Willis Gibson",
+        "Joseph Saley",
+        "level 157",
+        "Tetris max level"
+      ]
+    },
+    {
+      "start": "00:40:19",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Psychology of Tetris addiction",
+      "summary": "Discusses the Tetris effect, Jeffrey Goldsmith's 'pharmatronic' term, the Zeigarnik effect, Richard Heyer's UCI brain study, and a 2015 study linking Tetris to reduced cravings.",
+      "topics": [
+        "Tetris effect",
+        "Zeigarnik effect",
+        "Tetris addiction psychology",
+        "Tetris cravings study",
+        "Richard Heyer brain study"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:32",
+      "kind": "content",
+      "title": "Tetris and PTSD and cognition",
+      "summary": "Studies suggest playing Tetris after trauma may reduce PTSD flashbacks, compared to EMDR; other research on brain cortex thickness and spatial cognition is discussed.",
+      "topics": [
+        "Tetris PTSD",
+        "EMDR",
+        "Tetris cognition study",
+        "spatial cognition"
+      ]
+    },
+    {
+      "start": "00:46:32",
+      "end": "00:47:05",
+      "kind": "outro",
+      "title": "Wrap-up and bet setup",
+      "summary": "Hosts wrap up topic discussion and set up listener mail after Chuck agrees to share a Game Boy photo.",
+      "topics": []
+    },
+    {
+      "start": "00:47:05",
+      "end": "00:49:41",
+      "kind": "listener_mail",
+      "title": "Listener mail: augmented reality bet",
+      "summary": "A listener from Brazil, Alisa, points out Josh and Chuck's bet about augmented reality glasses becoming commonplace by Halloween 2024; Chuck wins the bet based on a friend wearing smart glasses.",
+      "topics": [
+        "augmented reality glasses",
+        "listener mail",
+        "Meta Ray-Ban glasses"
+      ]
+    },
+    {
+      "start": "00:49:41",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Standard closing and show credits.",
+      "topics": []
+    }
+  ],
+  "usage": {
+    "input_tokens": 20072,
+    "output_tokens": 4269
+  }
+}

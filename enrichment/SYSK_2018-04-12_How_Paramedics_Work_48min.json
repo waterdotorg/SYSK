@@ -1,0 +1,243 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-04-12_How_Paramedics_Work_48min.txt",
+  "title": "How Paramedics Work",
+  "date": "2018-04-12",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-paramedics-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9f4adf5b-0f49-4b0f-b182-ae2800653e3f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9f4adf5b-0f49-4b0f-b182-ae2800653e3f/transcript?format=TextWithTimestamps&t=1700543765",
+  "summary": "Josh and Chuck explore the history and modern state of paramedicine and emergency medical services (EMS). They trace emergency care from medieval Knights Hospitaller field care and Napoleonic-era mobile ambulances, through 1960s mortician and cop \"scoop and run\" transport, Dr. J. Frank Pantridge's mobile coronary units in Belfast, the 1966 National Academy of Sciences accident report, the 1973 Emergency Medical Services Act, and the 1977 national curriculum. They explain the difference between EMTs and paramedics, training hours and costs, licensing under physicians, and why paramedics walk rather than run to scenes. They cover the dangers of ambulance driving, the TV show Emergency, Nova Scotia's community preventative-medicine programs for rural EMS, Medicare/Medicaid reimbursement problems, ER ambulance diversion, and the patchwork and privatization of U.S. ambulance services. Chuck shares a personal car-crash story, and the episode closes with listener mail about a bacon-and-eggs trivia contest win and an invitation to a possible Salt Lake City live show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "paramedics",
+    "paramedicine",
+    "EMT",
+    "emergency medical services",
+    "EMS history",
+    "ambulance history",
+    "Knights Hospitaller",
+    "mobile ambulances Napoleon",
+    "scoop and run",
+    "Dr. J. Frank Pantridge",
+    "mobile coronary care units",
+    "1966 accident report",
+    "Emergency Medical Services Act 1973",
+    "national EMS curriculum 1977",
+    "paramedic training",
+    "EMT vs paramedic",
+    "paramedic licensing physician",
+    "ambulance driving dangers",
+    "Emergency TV show",
+    "rural EMS community paramedicine Nova Scotia",
+    "Medicare Medicaid ambulance reimbursement",
+    "ER ambulance diversion",
+    "private ambulance services privatization",
+    "emergency medicine history",
+    "stretcher history",
+    "paramedic response on scene"
+  ],
+  "entities": [
+    {
+      "name": "Knights Hospitaller",
+      "type": "organization"
+    },
+    {
+      "name": "Dr. J. Frank Pantridge",
+      "type": "person"
+    },
+    {
+      "name": "Emergency",
+      "type": "work"
+    },
+    {
+      "name": "Emergency Medical Services Act",
+      "type": "event"
+    },
+    {
+      "name": "University of Pittsburgh",
+      "type": "organization"
+    },
+    {
+      "name": "University of Cincinnati",
+      "type": "organization"
+    },
+    {
+      "name": "University of California",
+      "type": "organization"
+    },
+    {
+      "name": "UCLA Center for Prehospital Care",
+      "type": "organization"
+    },
+    {
+      "name": "Nova Scotia",
+      "type": "place"
+    },
+    {
+      "name": "Belfast",
+      "type": "place"
+    },
+    {
+      "name": "Las Vegas",
+      "type": "place"
+    },
+    {
+      "name": "New York",
+      "type": "place"
+    },
+    {
+      "name": "Salt Lake City",
+      "type": "place"
+    },
+    {
+      "name": "Matthew Sweet",
+      "type": "person"
+    },
+    {
+      "name": "Emergency Medical Technician Registry Exam",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts joke around about podcast ideas, Matthew Sweet, and introduce the topic of paramedics and paramedicine.",
+      "topics": [
+        "podcast banter",
+        "paramedics introduction"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Origins of ambulances and field medicine",
+      "summary": "The word paramedic is discussed. The history runs from the fifteenth-century Spanish Inquisition field hospitals (ambulancias) to Napoleonic flying ambulances, and the Knights Hospitaller's Crusade-era battlefield care and invention of the stretcher.",
+      "topics": [
+        "ambulance etymology",
+        "flying ambulance Napoleon",
+        "Knights Hospitaller",
+        "stretcher history",
+        "battlefield medicine history"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Scoop and run and early US emergency care",
+      "summary": "Before the 1960s, cops and morticians transported injured people in hearses and patrol cars, and hospitals lacked dedicated emergency rooms until the mid-1970s. Hosts describe the shift toward trained medical staff in ambulances.",
+      "topics": [
+        "scoop and run",
+        "mortician ambulance",
+        "history of emergency rooms",
+        "early US ambulance transport"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Pantridge, the 1966 accident report, and federal EMS law",
+      "summary": "Dr. J. Frank Pantridge in Belfast published a study showing better survival when mobile units had a physician or nurse. A 1966 report on accidents led to the 1973 Emergency Medical Services Act, and the first national EMS curriculum came in 1977. Universities including Pittsburgh, Cincinnati, and California helped develop curricula and training.",
+      "topics": [
+        "Pantridge mobile coronary units",
+        "1966 accident report",
+        "Emergency Medical Services Act 1973",
+        "1977 national curriculum",
+        "university paramedic training programs"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "EMT versus paramedic training and licensing",
+      "summary": "EMTs complete roughly 120 to 150 hours of coursework and cannot break the skin. Paramedics need about ten times the coursework, prior EMT experience, and can give IVs and use defibrillators. Paramedics work under a physician's license, and during transport they can consult ER doctors. Costs and job outlook are discussed, including about ten thousand dollars in UCLA tuition and mean wages around thirty-one thousand dollars.",
+      "topics": [
+        "EMT training hours",
+        "paramedic certification",
+        "paramedic vs EMT scope of practice",
+        "physician license oversight",
+        "paramedic salary",
+        "EMS job outlook",
+        "paramedic school cost"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Chuck's car crash story and Emergency TV show",
+      "summary": "Chuck describes being in a jeep rollover as a teenager and being taken by ambulance. The hosts then discuss the 1970s TV show Emergency, its documentary style and real dispatchers, and tangents about M*A*S*H and Dragnet.",
+      "topics": [
+        "personal ambulance story",
+        "Emergency TV show 1970s",
+        "Jack Webb",
+        "M*A*S*H tangent"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Why paramedics walk, and ambulance driving danger",
+      "summary": "Paramedics walk to scenes to project calm, avoid injury, and manage heavy equipment. The ambulance ride is described as the most dangerous part of the job, with intersection crashes and unsecured crew in back. Paramedics and EMTs are both drivers, and the hosts discuss call types and shift structure.",
+      "topics": [
+        "paramedic response walking",
+        "ambulance crash risk",
+        "ambulance driver term",
+        "urban vs rural EMS shifts"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Rural community paramedicine, billing, and ER diversion",
+      "summary": "Rural EMS downtime is used for preventive programs developed in Nova Scotia. Medicare and Medicaid pay only for hospital transports, creating incentives and problems. ER diversion strains hospitals. Hosts are confused by fixed rates and private ambulance business models; privatization in Las Vegas and New York is discussed.",
+      "topics": [
+        "community paramedicine",
+        "Nova Scotia EMS",
+        "Medicare ambulance billing",
+        "ER ambulance diversion",
+        "private ambulance companies",
+        "Las Vegas ambulance privatization",
+        "New York EMS"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:48:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "A listener named John Robeson wins a meat prize by answering a bacon-and-eggs trivia question from the show. Hosts invite Utah and Salt Lake City listeners to request a live show and close the episode with social media and contact details.",
+      "topics": [
+        "listener mail",
+        "bacon and eggs history trivia",
+        "Salt Lake City live show",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15111,
+    "output_tokens": 3021
+  }
+}

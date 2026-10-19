@@ -1,0 +1,148 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-02-26_Short_Stuff_Hawaiian_Night_Marchers_10min.txt",
+  "title": "Short Stuff: Hawaiian Night Marchers",
+  "date": "2020-02-26",
+  "duration": "10 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-hawaiian-night-marchers",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8196dec7-4c31-4273-bc65-ae28003c8a04/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8196dec7-4c31-4273-bc65-ae28003c8a04/transcript?format=TextWithTimestamps&t=1700543662",
+  "summary": "Short Stuff episode on the Hawaiian night marchers, ghostly processions of chiefs and their attendants said to travel at night during the darkest lunar phases. The hosts open with banter about Josh and Chuck's Hawaii elopement, then explain the legend: anyone who gawks at the procession, especially while clothed, risks being killed. They cover the historical kapu-based origin (chiefs too sacred to be seen by commoners), the lunar phases when marchers appear, protection through a distant ancestral tie, the ti plant, lying prone and playing dead as a deference gesture, avoiding whistling at night, and signs to flee such as drums, conch shells, torches and the smell of rotting flesh. Cultural historian and kahuna Lopaka Kapanui is cited as having been protected by a relative among the marchers. The hosts close by joking about the blurred line between real and supernatural.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Hawaiian night marchers",
+    "night marchers",
+    "Hawaiian folklore",
+    "Hawaiian ghosts",
+    "Hawaiian legends",
+    "ghost procession",
+    "Hawaiian chiefs",
+    "kapu",
+    "Hawaiian lunar calendar",
+    "Hawaiian moon phases",
+    "ti plant protection",
+    "Hawaiian superstitions",
+    "whistling at night superstition",
+    "Lopaka Kapanui",
+    "Hawaiian culture",
+    "supernatural encounters",
+    "conch shell",
+    "Hawaii"
+  ],
+  "entities": [
+    {
+      "name": "Hawaii",
+      "type": "place"
+    },
+    {
+      "name": "Night marchers",
+      "type": "other"
+    },
+    {
+      "name": "Lopaka Kapanui",
+      "type": "person"
+    },
+    {
+      "name": "Hawaiian chiefs",
+      "type": "other"
+    },
+    {
+      "name": "Hawaiian lunar calendar",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and Hawaii elopement",
+      "summary": "Josh and Chuck joke about Hawaii, Josh's elopement there, and friends' reactions to the news. They introduce the night marchers topic.",
+      "topics": [
+        "Hawaii travel",
+        "elopement",
+        "short stuff intro"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "What the night marchers are",
+      "summary": "The hosts describe the night marchers as folklore: drums, chanting, conch shell horns and torches in the dark, and the danger of gawking at them, which supposedly leads to being killed by supernatural beings.",
+      "topics": [
+        "Hawaiian night marchers",
+        "Hawaiian folklore",
+        "conch shell",
+        "supernatural encounters"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Chiefs, divinity and historical origins",
+      "summary": "The marchers are described as ghosts of chiefs and their attendants. Hawaiian tradition held chiefs too divine for commoners to look upon, and historically chiefs traveled at night to avoid being seen, which the legend continues.",
+      "topics": [
+        "Hawaiian chiefs",
+        "kapu",
+        "Hawaiian ghosts",
+        "ghost procession",
+        "Hawaiian legends"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:07:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the hosts return to the topic.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Lunar phases and protection",
+      "summary": "The marchers appear during the last four Hawaiian moon phases, the darkest nights, and travel toward sacred sites. Descendants of marchers are spared, and Lopaka Kapanui says a distant relative protected him. A ti plant near the home is also said to protect.",
+      "topics": [
+        "Hawaiian lunar calendar",
+        "Hawaiian moon phases",
+        "ti plant protection",
+        "Lopaka Kapanui",
+        "ancestral protection"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Survival advice and warning signs",
+      "summary": "If caught, lie face down, eyes closed, playing dead to show deference. Avoid whistling at night. Flee at the sound of drums, conch shells, torches or the smell of rotting flesh. The hosts note an article's joke about not taking selfies.",
+      "topics": [
+        "night marchers survival",
+        "whistling at night superstition",
+        "playing dead",
+        "warning signs"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:10:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts joke about the blurred line between real and supernatural and about Chuck needing to visit Hawaii, then sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4543,
+    "output_tokens": 1740
+  }
+}

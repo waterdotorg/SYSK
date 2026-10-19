@@ -1,0 +1,233 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-06-29_How_Traffic_Works_33min.txt",
+  "title": "How Traffic Works",
+  "date": "2010-06-29",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-traffic-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4c395e49-e9c1-43bc-97aa-ae2800b65ace/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4c395e49-e9c1-43bc-97aa-ae2800b65ace/transcript?format=TextWithTimestamps&t=1700543960",
+  "summary": "Josh and Chuck discuss how traffic works: the two causes of traffic (congestion and unpredictable incidents), traffic waves and the \"breaking bubble\" analogy, economic costs of traffic, the Texas Transportation Institute's travel time index, Los Angeles and Atlanta traffic, freeway and surface street dynamics, latent demand from widening highways, ramp metering (including the Minnesota study), HOV lanes, congestion pricing in London, Singapore and Stockholm, traffic light timing, passenger car equivalents, and virtual slot ideas. The episode closes with listener Facebook questions about unusual foods, the tree-falling-in-the-forest question, the show's staff, Athens bars, celebrity fans, and pirates.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "traffic",
+    "how traffic works",
+    "traffic wave",
+    "traffic jam causes",
+    "congestion",
+    "breaking bubble",
+    "cost of traffic",
+    "travel time index",
+    "Texas Transportation Institute",
+    "Los Angeles traffic",
+    "Atlanta traffic",
+    "latent demand",
+    "highway widening",
+    "ramp metering",
+    "HOV lanes",
+    "carpool lanes",
+    "congestion pricing",
+    "road pricing",
+    "London congestion charge",
+    "Singapore congestion pricing",
+    "traffic light timing",
+    "passenger car equivalent",
+    "virtual slots",
+    "surface streets",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Texas Transportation Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Commute Solutions",
+      "type": "organization"
+    },
+    {
+      "name": "Tech Stuff",
+      "type": "work"
+    },
+    {
+      "name": "Jonathan Strickland",
+      "type": "person"
+    },
+    {
+      "name": "Alistair Darling",
+      "type": "person"
+    },
+    {
+      "name": "Lord Adonis",
+      "type": "person"
+    },
+    {
+      "name": "Los Angeles",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Singapore",
+      "type": "place"
+    },
+    {
+      "name": "Stockholm",
+      "type": "place"
+    },
+    {
+      "name": "London",
+      "type": "place"
+    },
+    {
+      "name": "Minnesota",
+      "type": "place"
+    },
+    {
+      "name": "Santa Cruz",
+      "type": "place"
+    },
+    {
+      "name": "Athens, Georgia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck trade banter about Steve Winwood and Traffic the band, their commutes, avoiding MARTA, and Chuck's sunglasses rule, before turning to the episode topic.",
+      "topics": [
+        "banter",
+        "MARTA",
+        "commuting"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Causes of traffic and the breaking bubble",
+      "summary": "Traffic arises from simple congestion or from unpredictable incidents such as a breakdown, wreck, or police stop. A braking event travels backward as a traffic wave, which Josh describes with his own 'breaking bubble' analogy.",
+      "topics": [
+        "traffic wave",
+        "traffic causes",
+        "congestion",
+        "breaking bubble",
+        "stop and go traffic"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Cost of traffic and travel time index",
+      "summary": "Estimated traffic costs of about $78 billion from fuel and wasted time, extra gasoline bought in 2007, and about seven dollars per motorist. The Texas Transportation Institute's travel time index compares rush hour to off-peak travel in the same city, with Los Angeles at 1.92.",
+      "topics": [
+        "cost of traffic",
+        "travel time index",
+        "Texas Transportation Institute",
+        "wasted fuel",
+        "Los Angeles rush hour"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Traffic rankings in US cities and driving culture",
+      "summary": "The hosts compare traffic in Los Angeles, Atlanta, Boston, Seattle, San Francisco and Washington DC, and discuss a California Highway Patrol slow-down tactic and Atlanta's fast driving culture.",
+      "topics": [
+        "worst traffic cities",
+        "Atlanta traffic",
+        "Los Angeles traffic",
+        "Boston Big Dig",
+        "driving speed"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Surface streets, latent demand and ramp metering",
+      "summary": "Surface streets also carry highway overflow. Widening highways induces latent demand, so added lanes do not ease congestion. Ramp metering, which limits entry to highways with signals, is discussed, including the Minnesota study where shutting off meters increased accidents and later raised capacity by fourteen percent.",
+      "topics": [
+        "surface streets",
+        "latent demand",
+        "highway widening",
+        "ramp metering",
+        "Minnesota ramp meters"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "HOV lanes and driver pet peeves",
+      "summary": "The hosts discuss carpool or HOV lanes, the frustration of solo drivers using them, and drivers using shoulders to skip traffic, including a near-collision story in Los Angeles.",
+      "topics": [
+        "HOV lanes",
+        "carpool lanes",
+        "driver pet peeves",
+        "shoulder driving"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Congestion pricing",
+      "summary": "Alistair Darling, then British Secretary of State for Trade and Industry, promoted road pricing. London's pilot from 2003 to 2007 reportedly cut congestion and emissions. Congestion pricing also operates in Singapore and Stockholm, and was studied in San Francisco and proposed in New York. The hosts explain how tolls are collected and the fairness debate. Lord Adonis, the Transport Secretary, is noted as the correct transport official.",
+      "topics": [
+        "congestion pricing",
+        "road pricing",
+        "London congestion charge",
+        "Singapore",
+        "Stockholm",
+        "Alistair Darling",
+        "Lord Adonis",
+        "toll tags",
+        "progressive taxation"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Traffic lights, suburban sprawl and vehicle size",
+      "summary": "Suburban sprawl adds cars to roads not built for them. Fixed-timer, sensor and mixed traffic light systems are compared, with a citywide plan reducing congestion by about one percent. Passenger car equivalents rate SUVs and buses as heavier road users. Virtual slots are proposed as a way to space traffic.",
+      "topics": [
+        "traffic lights",
+        "signal timing",
+        "sensor lights",
+        "suburban sprawl",
+        "passenger car equivalent",
+        "virtual slots"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "listener_mail",
+      "title": "Listener Facebook questions",
+      "summary": "Answers to listener questions: unusual foods (tripe, chicken hearts, beef tongue, bone marrow), the falling tree question, what happened to the show's staff, memories of Athens, Georgia bars, celebrity fans, and pirates as ninjas.",
+      "topics": [
+        "listener questions",
+        "unusual foods",
+        "Athens Georgia",
+        "celebrity listeners",
+        "tree falling in forest"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11964,
+    "output_tokens": 2613
+  }
+}

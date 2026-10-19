@@ -1,0 +1,217 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-07-09_How_Brickfilm_Works_32min.txt",
+  "title": "How Brickfilm Works",
+  "date": "2015-07-09",
+  "duration": "32 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-brickfilm-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/193270e2-2b18-41c4-be7c-ae28008d026e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/193270e2-2b18-41c4-be7c-ae28008d026e/transcript?format=TextWithTimestamps&t=1700543857",
+  "summary": "Josh Clark and Chuck Bryant explain brick films, stop-motion animation made with Lego or similar bricks and minifigures. They cover the personal experiences that prompted the topic, how stop motion works (24 frames per second, roughly 72 photos per five-minute film), and tips on filming: tripods, sliders and dollies, fixed focus, remote-trigger cameras, and optical zoom. They also cover lighting (three-point setups, controlling ambient light, diffusing with wax paper or handkerchiefs), sound recorded in post-production, minifigure facial expressions, and the importance of story. Software options such as Lego Movie Maker, onion skinning and rotoscoping are discussed. The episode closes with notable brick films (Journey to the Moon, The Magic Portal, a shot-for-shot Monty Python Holy Grail Camelot scene by Spite Your Face, a Matrix brick film), a note that The Lego Movie is CGI rather than a brick film, and a listener story about a prank war between spouses.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "brick films",
+    "stop motion animation",
+    "Lego films",
+    "stop motion filmmaking",
+    "frames per second",
+    "brick film lighting",
+    "three-point lighting",
+    "filming equipment for stop motion",
+    "camera dolly slider",
+    "onion skinning",
+    "Lego Movie Maker",
+    "rotoscoping",
+    "minifigures",
+    "Journey to the Moon brick film",
+    "The Magic Portal",
+    "Monty Python brick film",
+    "Spite Your Face",
+    "The Lego Movie",
+    "Lego history",
+    "Kirk Christiansen",
+    "Wallace and Gromit",
+    "claymation",
+    "stop motion animation tips",
+    "Lego"
+  ],
+  "entities": [
+    {
+      "name": "Lego",
+      "type": "organization"
+    },
+    {
+      "name": "Kirk Christiansen",
+      "type": "person"
+    },
+    {
+      "name": "Mega Blocks",
+      "type": "organization"
+    },
+    {
+      "name": "Journey to the Moon",
+      "type": "work"
+    },
+    {
+      "name": "The Magic Portal",
+      "type": "work"
+    },
+    {
+      "name": "Spite Your Face",
+      "type": "organization"
+    },
+    {
+      "name": "The Lego Movie",
+      "type": "work"
+    },
+    {
+      "name": "Lego Movie Maker",
+      "type": "work"
+    },
+    {
+      "name": "Monty Python and the Holy Grail",
+      "type": "work"
+    },
+    {
+      "name": "Edwood",
+      "type": "work"
+    },
+    {
+      "name": "Wallace and Gromit",
+      "type": "work"
+    },
+    {
+      "name": "Nick Park",
+      "type": "person"
+    },
+    {
+      "name": "Aardman Animations",
+      "type": "organization"
+    },
+    {
+      "name": "Lars and Einrich Hassing",
+      "type": "person"
+    },
+    {
+      "name": "Lindsay Fleay",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Lego history",
+      "summary": "Josh and Chuck open by recalling the earlier Lego episode, the founder Kirk Christiansen, and the origin of the name Lego. They introduce brick films as a topic.",
+      "topics": [
+        "Lego history",
+        "Kirk Christiansen",
+        "brick films"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "What stop motion is and personal experiences",
+      "summary": "Chuck describes stop motion animation as one of the earliest animation forms and shares his own past stop motion projects with Star Wars figures and clay. Josh and Chuck discuss how Lego sets and minifigures make stop motion filming suitable.",
+      "topics": [
+        "stop motion animation",
+        "Lego sets",
+        "minifigures",
+        "Mega Blocks"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Frames per second and recreating motion",
+      "summary": "The hosts explain that stop motion recreates motion through still photographs, with film at 24 frames per second. A five-minute film needs about 72 photos at that rate. Shooting on twos halves the photos needed at the cost of smoothness. Brick films look jerky anyway because of the figures' limited joints.",
+      "topics": [
+        "frames per second",
+        "stop motion math",
+        "animation on twos",
+        "minifigure joints"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Filming equipment and camera setup",
+      "summary": "The hosts discuss basic gear, including a tripod, work lights, and a slider or homemade skateboard-wheel dolly on PVC track. They then cover keeping the camera still, using a remote-trigger camera, fixed or manual focus, and optical rather than digital zoom.",
+      "topics": [
+        "tripod",
+        "camera dolly slider",
+        "remote capture camera",
+        "fixed focus",
+        "optical zoom",
+        "filming equipment"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Lighting techniques for brick films",
+      "summary": "Josh and Chuck explain why lighting must be fully controlled, since outdoor or changing light causes flicker. They describe a typical three-light setup with backlight, key light, and a bounce or reflector, and diffusing harsh bulbs with wax paper or a handkerchief. They also advise testing and learning by doing.",
+      "topics": [
+        "brick film lighting",
+        "three-point lighting",
+        "shadow removal",
+        "diffusing light",
+        "flicker"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Sound, expressions, and story",
+      "summary": "The hosts note that sound is usually recorded in post-production but timing must be planned. They discuss swapping minifigure heads for expressions, custom faces, and the importance of a good story. A listener-style anecdote about a neighbor-helping short film leads into the point about story.",
+      "topics": [
+        "brick film sound",
+        "post-production",
+        "minifigure facial expressions",
+        "storytelling in brick films"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Software and notable brick films",
+      "summary": "The hosts recommend stop motion software such as Lego Movie Maker, with features like onion skinning and rotoscoping. They then discuss notable brick films, including Journey to the Moon (1973), The Magic Portal, a Monty Python Holy Grail shot-for-shot by Spite Your Face, and a Matrix brick film. They note The Lego Movie is CGI rather than a brick film.",
+      "topics": [
+        "Lego Movie Maker",
+        "onion skinning",
+        "rotoscoping",
+        "Journey to the Moon",
+        "The Magic Portal",
+        "Monty Python brick film",
+        "The Lego Movie",
+        "Spite Your Face"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:00",
+      "kind": "outro",
+      "title": "Listener mail and sign-off",
+      "summary": "Josh reads listener mail from Danny DeMarco of Dallas about a prank war with his wife that ended with twins. The hosts then give the show's contact info and sign off.",
+      "topics": [
+        "listener mail",
+        "revenge pranks",
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10892,
+    "output_tokens": 2475
+  }
+}

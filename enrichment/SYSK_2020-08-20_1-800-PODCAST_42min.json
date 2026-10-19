@@ -1,0 +1,244 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-08-20_1-800-PODCAST_42min.txt",
+  "title": "1-800-PODCAST",
+  "date": "2020-08-20",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/1-800-podcast",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/45c0085b-8a06-43d3-b4a1-ae28002fcba9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/45c0085b-8a06-43d3-b4a1-ae28002fcba9/transcript?format=TextWithTimestamps&t=1700543615",
+  "summary": "Josh and Chuck open with a plug for their upcoming book \"Stuff You Should Know: An Incomplete Compendium of Mostly Interesting Things,\" then discuss toll-free (800) numbers: their history from AT&T and Mother Bell's monopoly, the 1967 start, Roy Weber's database innovation enabling national numbers, number portability in 1994, and the expansion of prefixes. They cover responsible organizations (RespOrgs) and FCC rules against profiting from numbers, hoarding and warehousing, the Mercedes-Benz 800-FOR-MERCEDES copyright case, vanity numbers and recall studies, and then the 900-number boom of the late 1980s and 1990s (Dial-A-Shuttle, celebrity lines, Santa hotline, phone sex lines, scams). A movie tangent and a listener mail about a wasp sting close the episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "toll-free numbers",
+    "800 numbers",
+    "900 numbers",
+    "vanity numbers",
+    "responsible organization",
+    "RespOrg",
+    "FCC enforcement",
+    "number hoarding",
+    "number warehousing",
+    "AT&T",
+    "Mother Bell",
+    "Roy Weber",
+    "number portability",
+    "Mercedes-Benz 800 number lawsuit",
+    "Dial-A-Shuttle",
+    "phone sex lines",
+    "pay-per-call hotlines",
+    "Santa hotline scam",
+    "800 number history",
+    "telecom deregulation",
+    "Yellow Pages advertising",
+    "Stuff You Should Know book",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "AT&T",
+      "type": "organization"
+    },
+    {
+      "name": "Roy Weber",
+      "type": "person"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "type": "organization"
+    },
+    {
+      "name": "FCC",
+      "type": "organization"
+    },
+    {
+      "name": "Dial-A-Shuttle",
+      "type": "work"
+    },
+    {
+      "name": "Bruce Kushnik",
+      "type": "person"
+    },
+    {
+      "name": "Sprint",
+      "type": "organization"
+    },
+    {
+      "name": "I T Connections",
+      "type": "organization"
+    },
+    {
+      "name": "Asphalt Sources, Inc.",
+      "type": "organization"
+    },
+    {
+      "name": "Empire Today",
+      "type": "organization"
+    },
+    {
+      "name": "Punch-Drunk Love",
+      "type": "work"
+    },
+    {
+      "name": "Uncut Gems",
+      "type": "work"
+    },
+    {
+      "name": "Shortcuts",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Book plug and opening",
+      "summary": "Hosts promote their upcoming book Stuff You Should Know, An Incomplete Compendium of Mostly Interesting Things, available for preorder, then introduce the episode on 800 numbers.",
+      "topics": [
+        "Stuff You Should Know book",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Toll-free number basics and the 800 number's persistence",
+      "summary": "Discussion of toll-free numbers in North America, the count of working numbers in 2008, the release of new prefixes (800, 888, 877, 866, 855, 844, 833), and reasons businesses still use them, including the Yellow Pages savings example and the Empire Today jingle.",
+      "topics": [
+        "toll-free numbers",
+        "800 prefix",
+        "prefix exchanges",
+        "Yellow Pages advertising"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Origins of 800 numbers and reverse-charge collect calls",
+      "summary": "The 800 service began in 1967 as a way to route long-distance charges to the receiving party, automating collect calls without an operator. The first company to offer them hosted numbers for car rental and hotel businesses; AT&T (Ma Bell) held the monopoly and charged high prices until the 1984 breakup.",
+      "topics": [
+        "collect calls",
+        "reverse charge",
+        "AT&T monopoly",
+        "Ma Bell breakup",
+        "800 number history"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Roy Weber's database innovation and number portability",
+      "summary": "Roy Weber, an AT&T engineer, patented using 800 numbers as codes translated through a database, letting one national number replace regional ones. The 1994 law allowing phone number portability between carriers is also covered.",
+      "topics": [
+        "Roy Weber",
+        "national toll-free numbers",
+        "database translation",
+        "number portability",
+        "1994 telecom law"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Expansion of prefixes and the 800 number ending",
+      "summary": "Hosts note new prefixes were introduced around 1996 and continuing, and remark on how rarely they dial numbers now. They mention the 800 numbers persisting due to marketing value and the 1-800-DATA-FOR-I sponsored data concept from around 2007 to 2014.",
+      "topics": [
+        "800 prefixes",
+        "sponsored data",
+        "toll-free marketing"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Responsible Organizations (RespOrgs) and the database",
+      "summary": "The 800 Service Management System database tracks availability of every number. Access requires FCC certification as a Responsible Organization, which can be a company or an individual. Hosts describe the concern that RespOrgs have been used to profit from numbers.",
+      "topics": [
+        "responsible organization",
+        "RespOrg",
+        "800 Service Management System",
+        "FCC certification"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "FCC rules, hoarding, warehousing and brokering",
+      "summary": "Toll-free numbers must be assigned first come, first served with no profit attached. Hosts explain hoarding, warehousing, and brokering, the eight-month use deadline, and the I T Connections fine of about 3.7 million dollars around 2010.",
+      "topics": [
+        "number hoarding",
+        "number warehousing",
+        "number brokering",
+        "FCC enforcement",
+        "I T Connections fine",
+        "first come first served"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Mercedes-Benz 800 number lawsuit and vanity numbers",
+      "summary": "A Minneapolis-St. Paul Mercedes dealer held the 800-MERCEDES number since the 1980s; Mercedes sued, and the court ruled a phone number is not copyright infringement, so Mercedes uses 800-FOR-MERCEDES. Vanity numbers are discussed, with a recall study showing an improvement over standard numbers.",
+      "topics": [
+        "Mercedes-Benz lawsuit",
+        "vanity numbers",
+        "phone number copyright",
+        "advertising recall",
+        "800-FLOWERS"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "900 number boom and abuses",
+      "summary": "900 numbers in the late 1980s and 1990s allowed paid information lines, including NASA's Dial-A-Shuttle, celebrity-hosted lines, and many scams: Santa hotlines, long delays, fake job lines, and phone sex lines. Their popularity lasted about six years.",
+      "topics": [
+        "900 numbers",
+        "pay-per-call",
+        "Dial-A-Shuttle",
+        "Santa hotline scam",
+        "phone sex lines",
+        "1990s telephone scams"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Movie tangent",
+      "summary": "Hosts discuss phone sex subplots in Punch-Drunk Love and Shortcuts, then debate the film Uncut Gems.",
+      "topics": [
+        "Punch-Drunk Love",
+        "Uncut Gems",
+        "Shortcuts",
+        "movie discussion"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: wasp sting",
+      "summary": "Listener Michael Brown of Portland, Oregon recounts being stung about thirteen times on the butt by a wasp as a child. Hosts sign off with listener mail contact info.",
+      "topics": [
+        "wasp stings",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13739,
+    "output_tokens": 2900
+  }
+}

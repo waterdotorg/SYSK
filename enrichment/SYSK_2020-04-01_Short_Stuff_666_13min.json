@@ -1,0 +1,153 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-04-01_Short_Stuff_666_13min.txt",
+  "title": "Short Stuff: 666",
+  "date": "2020-04-01",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-666",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6714ecb0-ca09-486c-9ff7-ae28003928e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6714ecb0-ca09-486c-9ff7-ae28003928e7/transcript?format=TextWithTimestamps&t=1700543631",
+  "summary": "Short Stuff episode on the number 666 (the number of the beast). The hosts discuss the Book of Revelation 13:18 verse, how it has been used in pop culture (The Omen), and the ancient Greek practice of isopsephy (assigning numeric values to letters) that makes 666 a code. They cover the leading interpretation that it encodes Nero (Caesar Nero transliterated into Hebrew, nrwnqsr, sums to 666), the objections to that reading (Revelation was written in Greek, and the beast not yet being born), and the alternative reading that 666 is a human number signaling Satan as a cheap imitation of God's seven. Light banter about Iron Maiden and a mention of a Dave Russell article on HowStuffWorks.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "666",
+    "number of the beast",
+    "Book of Revelation",
+    "Revelation 13:18",
+    "isopsephy",
+    "Greek numerology",
+    "gematria",
+    "Nero",
+    "Caesar Nero Hebrew transliteration",
+    "The Omen",
+    "Satan",
+    "Iron Maiden",
+    "biblical numerology",
+    "mark of the beast",
+    "ancient Greek letter numbers",
+    "Hebrew numerology"
+  ],
+  "entities": [
+    {
+      "name": "666",
+      "type": "other"
+    },
+    {
+      "name": "Book of Revelation",
+      "type": "work"
+    },
+    {
+      "name": "Nero",
+      "type": "person"
+    },
+    {
+      "name": "The Omen",
+      "type": "work"
+    },
+    {
+      "name": "Iron Maiden",
+      "type": "organization"
+    },
+    {
+      "name": "Damien",
+      "type": "person"
+    },
+    {
+      "name": "Satan",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and Iron Maiden",
+      "summary": "The hosts open with banter about Iron Maiden and Bruce Dickinson, and a joke about a license plate reading 666.",
+      "topics": [
+        "Iron Maiden",
+        "license plate 666"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Revelation 13:18 and the number of the beast",
+      "summary": "The hosts read Revelation 13:18 and explain that the verse describes the number of the beast as 666. They note the number's pop culture use in The Omen, where Damien has 666 on his scalp.",
+      "topics": [
+        "Revelation 13:18",
+        "number of the beast",
+        "The Omen",
+        "mark of the beast"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Isopsephy and Greek letter numbers",
+      "summary": "The hosts explain that Greek letters and Hebrew letters carried numeric values, so words and names could be summed. This practice, isopsephy, was a common word game in the first century CE.",
+      "topics": [
+        "isopsephy",
+        "Greek numerology",
+        "gematria",
+        "Greek letter numbers",
+        "Hebrew numerology"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Nero as the beast",
+      "summary": "The hosts explain the leading interpretation that 666 encodes Nero. Nero equals 1005, matching the phrase 'his mother slew', and Caesar Nero transliterated into Hebrew (nrwnqsr) sums to 666.",
+      "topics": [
+        "Nero",
+        "Caesar Nero",
+        "Hebrew transliteration",
+        "numeric code 666"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Objections and alternative interpretations",
+      "summary": "The hosts describe objections to the Nero reading: Revelation was written in Greek, the Hebrew step seems a stretch, and the beast was not yet born in Nero's time. They describe another reading in which 666 is a human number, making Satan a cheap imitation of God's seven.",
+      "topics": [
+        "Nero objections",
+        "human number interpretation",
+        "Satan as imitation of God",
+        "seven as God's number"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Wrap-up and Iron Maiden",
+      "summary": "The hosts wrap up by noting that the number is either Nero or a sign of Satan as a cheap imitation of God, and reference the 'Number of the Beast' Iron Maiden song.",
+      "topics": [
+        "Iron Maiden Number of the Beast",
+        "666 wrap-up"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts sign off, pointing listeners to the HowStuffWorks article and the show's production credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5086,
+    "output_tokens": 1681
+  }
+}

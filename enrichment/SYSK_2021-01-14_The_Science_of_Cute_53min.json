@@ -1,0 +1,263 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-01-14_The_Science_of_Cute_53min.txt",
+  "title": "The Science of Cute",
+  "date": "2021-01-14",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-science-of-cute",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cb9eeeb7-ca7c-433e-baf1-ae28002443dc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cb9eeeb7-ca7c-433e-baf1-ae28002443dc/transcript?format=TextWithTimestamps&t=1700543604",
+  "summary": "Josh and Chuck explore the science of cuteness, starting with a Mickey Mouse example of how animators exaggerated features over time. They cover Konrad Lorenz's \"Kindchenschema\" (baby schema) of traits like large head, big eyes, chubby cheeks, small nose and mouth, and plump body, and why human babies are altricial and helpless at birth. They discuss how cuteness triggers caregiving instincts across species, brain imaging showing reward-system activation (orbitofrontal cortex), the 2009 Operation game study, and how cleft palates reduce the response. They then cover \"cute aggression\" (researcher Oriana Aragon, bubble wrap study), \"cute sadness,\" marketing and commodification of cuteness, Japanese kawaii culture from student protests and bubble handwriting to Hello Kitty and burikko, a list of the cutest animals (quokka at number one), the Ugly Animal Preservation Society and its blobfish mascot, and a listener email from Ryan about describing visual references for blind listeners.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "cuteness",
+    "science of cute",
+    "baby schema",
+    "Kindchenschema",
+    "Konrad Lorenz",
+    "Mickey Mouse cartoon evolution",
+    "altricial species",
+    "precocial species",
+    "caregiving instinct",
+    "cute aggression",
+    "Oriana Aragon",
+    "cute sadness",
+    "orbitofrontal cortex",
+    "brain imaging cuteness",
+    "Operation game study",
+    "cleft palate",
+    "uncanny valley",
+    "kawaii culture",
+    "Japanese cute culture",
+    "burikko",
+    "Hello Kitty",
+    "chemo kawaii",
+    "cutest animals",
+    "quokka",
+    "blobfish",
+    "Ugly Animal Preservation Society",
+    "marketing with cute characters",
+    "anti-smoking ads cartoon",
+    "Stephen Jay Gould",
+    "listener mail blindness and pictures"
+  ],
+  "entities": [
+    {
+      "name": "Konrad Lorenz",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Jay Gould",
+      "type": "person"
+    },
+    {
+      "name": "Oriana Aragon",
+      "type": "person"
+    },
+    {
+      "name": "Gary Genosko",
+      "type": "person"
+    },
+    {
+      "name": "Mickey Mouse",
+      "type": "work"
+    },
+    {
+      "name": "Disney",
+      "type": "organization"
+    },
+    {
+      "name": "The Brave Little Tailor",
+      "type": "work"
+    },
+    {
+      "name": "Hello Kitty",
+      "type": "work"
+    },
+    {
+      "name": "Pikachu",
+      "type": "work"
+    },
+    {
+      "name": "quokka",
+      "type": "other"
+    },
+    {
+      "name": "blobfish",
+      "type": "other"
+    },
+    {
+      "name": "Ugly Animal Preservation Society",
+      "type": "organization"
+    },
+    {
+      "name": "National Geographic Magazine",
+      "type": "organization"
+    },
+    {
+      "name": "Clemson University",
+      "type": "organization"
+    },
+    {
+      "name": "Lake Head University",
+      "type": "organization"
+    },
+    {
+      "name": "kawaii",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Mickey Mouse example",
+      "summary": "Hosts introduce the episode and joke about Chuck finding babies cute. Josh describes how Mickey Mouse became rounder and cuter in early cartoons, such as The Brave Little Tailor, and how Disney animators exaggerated features.",
+      "topics": [
+        "cuteness",
+        "Mickey Mouse cartoon evolution",
+        "Disney"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Kindchenschema (baby schema)",
+      "summary": "Lorenz's baby schema is described: large head, high forehead, large eyes, chubby cheeks, small nose and mouth, short thick extremities, and plump body. Hosts note it is a guideline rather than universal, and that Lorenz was a behaviorist studying how babies elicit care.",
+      "topics": [
+        "baby schema",
+        "Kindchenschema",
+        "Konrad Lorenz",
+        "cuteness traits"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Altricial species and why human babies are cute",
+      "summary": "Hosts explain altricial versus precocial species and argue cuteness is an evolutionary trigger making caregivers protect helpless young. They discuss human babies being born underdeveloped due to large brains, and that cuter babies may have been selected over time.",
+      "topics": [
+        "altricial",
+        "precocial",
+        "evolution of cuteness",
+        "human infant development"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Animals, innate releasers, and brain response",
+      "summary": "Discussion of baby giraffes and animals triggering the same brain response as human infants, a 2009 Operation game study where viewing cute images improved performance, and the innate releaser concept. Brain imaging shows the orbitofrontal cortex reacting quickly to baby faces.",
+      "topics": [
+        "innate releasers",
+        "orbitofrontal cortex",
+        "brain imaging cuteness",
+        "Operation game study",
+        "caregiving response"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Gender, adoption, cry, smell and sounds of babies",
+      "summary": "Men and women show similar brain responses but women self-report stronger caregiving. The hosts discuss adoptive parenting, the biological siren of a baby's cry, and that babies' laughter and smell also activate the brain. They joke about babies being manipulative.",
+      "topics": [
+        "caregiving and gender",
+        "biological siren",
+        "baby cry",
+        "adoption and bonding"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Cleft palate and the limits of cuteness",
+      "summary": "A study found reduced brain activity when babies had facial disruptions like cleft palate. Hosts discuss how this affects care response, and Lawrence's view on the Kewpie doll as maximum exaggeration before an uncanny valley effect.",
+      "topics": [
+        "cleft palate",
+        "uncanny valley",
+        "Kewpie doll",
+        "cuteness limits"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Cute aggression and cute sadness",
+      "summary": "Hosts describe cute aggression, the urge to squeeze or punch cute things, with Clemson psychologist Oriana Aragon's work on dimorphous expressions and a bubble wrap popping measure. Cute sadness is also explained as frustrated caregiving desire. Hosts note the research is early and based on undergraduate samples.",
+      "topics": [
+        "cute aggression",
+        "Oriana Aragon",
+        "cute sadness",
+        "bubble wrap study",
+        "dimorphous expressions"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Marketing, toys, and the commodification of cute",
+      "summary": "Cute characters are used in ads, cartoons, and anti-smoking campaigns. Gary Genosko's argument that cuteness commodification, including National Geographic's animal imagery, can trade respect for infantilization is discussed, with Josh's dog Momo as an example.",
+      "topics": [
+        "marketing cuteness",
+        "anti-smoking ads",
+        "commodification of cute",
+        "National Geographic",
+        "Gary Genosko"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Kawaii culture in Japan and the cutest animals list",
+      "summary": "Kawaii history is traced from 1960s student protests and manga reading, to 1970s bubbly handwriting, Hello Kitty, and burikko women. A list of cutest animals is reviewed, with the quokka at number one, and the Ugly Animal Preservation Society and blobfish mascot are mentioned.",
+      "topics": [
+        "kawaii culture",
+        "burikko",
+        "Hello Kitty",
+        "bubble handwriting",
+        "cutest animals",
+        "quokka",
+        "blobfish",
+        "Ugly Animal Preservation Society"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on describing pictures",
+      "summary": "Listener Ryan from Minneapolis, who is blind, writes that the hosts' references to pictures are not helpful to him and asks them to describe things. Hosts agree and promise to do better.",
+      "topics": [
+        "listener mail",
+        "accessibility",
+        "visual descriptions"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:53:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and point listeners to podcast sources.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16553,
+    "output_tokens": 3037
+  }
+}

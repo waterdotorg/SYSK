@@ -1,0 +1,189 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-05-12_What_causes_rigor_mortis_20min.txt",
+  "title": "What causes rigor mortis?",
+  "date": "2009-05-12",
+  "duration": "20 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-causes-rigor-mortis",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b4ce4b6e-ed5d-4fb5-aa1d-ae2800bf4c06/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b4ce4b6e-ed5d-4fb5-aa1d-ae2800bf4c06/transcript?format=TextWithTimestamps&t=1700543998",
+  "summary": "Josh and Chuck explain rigor mortis: the story of Val Thomas, a West Virginia woman who reportedly came back after rigor mortis set in; the Shroud of Turin cadaver experiments and crucifixion through the wrist; the physiology of muscle contraction (calcium ions, myosin and actin, ATP) and why it stops with decay (autolysis); factors that speed or slow onset and duration (temperature, fat, age, exertion, cold); cadaveric spasm; and other postmortem clues used by forensic investigators (livor mortis, algor mortis, stomach contents, blow fly maggot development). The episode ends with a listener mail from David in Atlanta about a Ponzi-style real estate scheme he encountered while doing IT work.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "rigor mortis",
+    "stiffening of the body after death",
+    "muscle contraction",
+    "myosin and actin",
+    "calcium ions muscle",
+    "ATP muscle relaxation",
+    "autolysis",
+    "time of death estimation",
+    "forensic pathology",
+    "livor mortis",
+    "lividity",
+    "algor mortis",
+    "body temperature after death",
+    "cadaveric spasm",
+    "blue bottle fly maggots forensic entomology",
+    "Shroud of Turin cadaver experiment",
+    "Val Thomas",
+    "Ponzi scheme",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Val Thomas",
+      "type": "person"
+    },
+    {
+      "name": "Mary Roach",
+      "type": "person"
+    },
+    {
+      "name": "Stiff",
+      "type": "work"
+    },
+    {
+      "name": "Jack Nicholson",
+      "type": "person"
+    },
+    {
+      "name": "The Shining",
+      "type": "work"
+    },
+    {
+      "name": "Shroud of Turin",
+      "type": "other"
+    },
+    {
+      "name": "Euston",
+      "type": "person"
+    },
+    {
+      "name": "Jaws",
+      "type": "work"
+    },
+    {
+      "name": "Seven",
+      "type": "work"
+    },
+    {
+      "name": "Ponzi scheme",
+      "type": "other"
+    },
+    {
+      "name": "body farms",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and Val Thomas story",
+      "summary": "Hosts banter about the show opening, then tell the story of Val Thomas, who reportedly woke up after about seventeen hours dead with rigor mortis already set in.",
+      "topics": [
+        "Val Thomas",
+        "rigor mortis",
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Cadavers, Stiff, and the Shroud of Turin",
+      "summary": "Discussion of Mary Roach's book Stiff and a late nineteenth-century French physician who used cadavers to test whether Christ could have been crucified through the palms, finding the wrists would hold a body.",
+      "topics": [
+        "Stiff by Mary Roach",
+        "Shroud of Turin",
+        "crucifixion wrist vs palm",
+        "cadaver research"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Onset of rigor mortis: timing and head-to-toe pattern",
+      "summary": "Rigor mortis begins about three hours after death and proceeds from head to toe, attributed to the delicate facial muscles stiffening first; Euston is named as the discoverer.",
+      "topics": [
+        "rigor mortis onset",
+        "head to toe stiffening",
+        "Euston"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Muscle physiology and the biochemistry of stiffening",
+      "summary": "Explanation of skeletal versus smooth muscle, motor neurons, calcium ions, myosin and actin binding, and ATP's role in relaxation; after death, lack of oxygen and ATP and calcium buildup cause contraction.",
+      "topics": [
+        "muscle contraction",
+        "myosin and actin",
+        "calcium ions",
+        "ATP",
+        "skeletal muscle"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Duration of rigor mortis and factors affecting it",
+      "summary": "Rigor lasts roughly twelve to eighteen hours, depending on conditions. Warmth speeds onset and shortens duration through decay and autolysis; cold slows it and can prolong it. Cadaveric spasm, fat, and age also affect timing.",
+      "topics": [
+        "rigor mortis duration",
+        "autolysis",
+        "temperature and decomposition",
+        "cadaveric spasm",
+        "fat and age effects"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Other postmortem clues for forensic investigators",
+      "summary": "Rigor mortis is imprecise for time of death, so investigators use livor mortis (lividity), algor mortis (cooling, about 1.5 to 2 degrees per hour), stomach contents, and blue bottle fly maggot development.",
+      "topics": [
+        "livor mortis",
+        "algor mortis",
+        "stomach contents time of death",
+        "blue bottle fly forensic entomology",
+        "forensic investigation"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:19:30",
+      "kind": "outro",
+      "title": "Wrap-up and promised future episodes",
+      "summary": "Hosts agree to do future episodes on body farms and forensic pathology, then move to listener mail.",
+      "topics": [
+        "body farms",
+        "forensic pathology"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:20:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: David in Atlanta on a Ponzi-style scheme",
+      "summary": "David recounts doing IT work for a Atlanta real estate company that showed red flags such as heavy security and a ban on Georgia investors; it collapsed after about a month, leaving him unpaid.",
+      "topics": [
+        "Ponzi scheme",
+        "investment fraud red flags",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 8016,
+    "output_tokens": 2086
+  }
+}

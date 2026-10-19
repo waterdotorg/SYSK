@@ -1,0 +1,143 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-05-22_Josh_Clarks_Speech_from_Commencement_Speeches_for_the_Class_of_2020_11min.txt",
+  "title": "Josh Clark's Speech from Commencement: Speeches for the Class of 2020",
+  "date": "2020-05-22",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/josh-clarks-speech-from-commencement-speeches-for",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/332ac04c-dae6-4ad6-8896-ae280035a24b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/332ac04c-dae6-4ad6-8896-ae280035a24b/transcript?format=TextWithTimestamps&t=1700543627",
+  "summary": "This is a promotional feed episode from the commencement speech series \"Commencement Speeches for the Class of 2020,\" featuring Josh Clark's virtual commencement address to graduates during the COVID-19 pandemic. The episode opens with several sponsor reads (Cal Hope emotional support line, Metro by T-Mobile, DirecTV Stream) before the speech. Josh tells graduates that they were not told the whole truth growing up, that people often show only part of the picture, and that they should decide whether something is important enough to research, and avoid passing along incomplete pictures if not. He uses a metaphor of flowers and weeds to argue that people resist admitting error, that weeds can be recognized by harm they cause, and that the people who benefit from calling a weed a flower are usually those in power. He closes by saying each human being is special and unique, that people are generally good, and that some people don't recognize weeds.",
+  "episode_kind": "other",
+  "rerun_of": null,
+  "topics": [
+    "commencement speech",
+    "Class of 2020",
+    "graduation speech",
+    "COVID-19 graduation",
+    "finding the truth",
+    "incomplete picture",
+    "critical thinking",
+    "flowers and weeds metaphor",
+    "media literacy",
+    "misinformation",
+    "human uniqueness",
+    "Cal Hope",
+    "Metro by T-Mobile",
+    "DirecTV Stream",
+    "Commencement Podcast",
+    "iHeart Radio"
+  ],
+  "entities": [
+    {
+      "name": "Commencement Speeches for the Class of 2020",
+      "type": "work"
+    },
+    {
+      "name": "Cal Hope",
+      "type": "organization"
+    },
+    {
+      "name": "Metro by T-Mobile",
+      "type": "organization"
+    },
+    {
+      "name": "DirecTV Stream",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:40",
+      "kind": "ad",
+      "title": "Sponsor reads",
+      "summary": "Sponsor reads for Cal Hope emotional support, Metro by T-Mobile 5G plans, and DirecTV Stream.",
+      "topics": [
+        "Cal Hope",
+        "Metro by T-Mobile",
+        "DirecTV Stream",
+        "sponsor read"
+      ]
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Commencement opening",
+      "summary": "The host welcomes graduates to the virtual commencement, notes the traditional graduation day was put on hold, and introduces Josh Clark as speaker.",
+      "topics": [
+        "commencement",
+        "virtual graduation",
+        "Class of 2020"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Hidden truths and incomplete pictures",
+      "summary": "Josh tells graduates they were not told the whole truth by parents and teachers, that people show only part of the picture to sway them, and that they must learn to think for themselves and do their own research.",
+      "topics": [
+        "incomplete picture",
+        "finding the truth",
+        "critical thinking",
+        "media literacy",
+        "misinformation"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Deciding what is worth searching for",
+      "summary": "Josh advises deciding whether something is important enough to research; if not, shrug it off and avoid passing along an incomplete picture to others.",
+      "topics": [
+        "research",
+        "skepticism",
+        "responsibility in sharing information"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Flowers and weeds metaphor",
+      "summary": "Josh uses a metaphor of flowers and weeds to explain how people resist admitting error, how harm reveals a weed, and how those who benefit from the false label defend it while others who called it a weed go unheard.",
+      "topics": [
+        "flowers and weeds metaphor",
+        "resisting being wrong",
+        "power and benefit",
+        "harm"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:10:45",
+      "kind": "content",
+      "title": "Human uniqueness and goodness",
+      "summary": "Josh concludes that people are special and unique because they are human, that all life is valuable, and that human beings are generally good even if some do harm.",
+      "topics": [
+        "human uniqueness",
+        "human goodness",
+        "life is special"
+      ]
+    },
+    {
+      "start": "00:10:45",
+      "end": "00:11:00",
+      "kind": "outro",
+      "title": "Closing and podcast promotion",
+      "summary": "Closing remarks and a promotion for the Commencement Podcast on iHeart Radio.",
+      "topics": [
+        "Commencement Podcast",
+        "iHeart Radio"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4470,
+    "output_tokens": 1593
+  }
+}

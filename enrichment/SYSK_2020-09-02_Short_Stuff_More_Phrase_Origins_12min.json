@@ -1,0 +1,137 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-09-02_Short_Stuff_More_Phrase_Origins_12min.txt",
+  "title": "Short Stuff: More Phrase Origins",
+  "date": "2020-09-02",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-more-phrase-origins",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/43cd0eec-51a3-4999-b4ec-ae28002f17bd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/43cd0eec-51a3-4999-b4ec-ae28002f17bd/transcript?format=TextWithTimestamps&t=1700543614",
+  "summary": "Short Stuff episode on three phrase origins. Josh and Chuck first examine \"take it with a grain of salt,\" tracing it from Pliny the Elder's Naturalis Historia recipe (walnuts, figs, rue, salt as an antidote to poison) and John Trapp's commentary, noting that the metaphorical origin remains unclear. Next, \"close but no cigar\" is explained as a carnival ring-toss or hoop-game prize line, where a cigar was the prize. The final segment covers \"southpaw,\" with competing origins: boxing (a Millard Fillmore quote about Lewis Cass's punch, 1848 political cartoon; a New York Herald 1860 bare-knuckle report) and baseball (left-handed pitchers, a New York Atlas 1858 mention), and the ballpark-orientation theory, which the hosts find flimsy. The episode concludes with the hosts saying the southpaw origin is unresolved.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "phrase origins",
+    "take it with a grain of salt",
+    "grain of salt idiom",
+    "Pliny the Elder",
+    "Naturalis Historia",
+    "John Trapp",
+    "close but no cigar",
+    "carnival games",
+    "southpaw",
+    "southpaw origin",
+    "boxing terminology",
+    "left-handed pitchers",
+    "baseball slang",
+    "Millard Fillmore",
+    "Lewis Cass",
+    "1848 election",
+    "etymology",
+    "idioms"
+  ],
+  "entities": [
+    {
+      "name": "Pliny the Elder",
+      "type": "person"
+    },
+    {
+      "name": "John Trapp",
+      "type": "person"
+    },
+    {
+      "name": "Lewis Cass",
+      "type": "person"
+    },
+    {
+      "name": "Millard Fillmore",
+      "type": "person"
+    },
+    {
+      "name": "Zachary Taylor",
+      "type": "person"
+    },
+    {
+      "name": "David Woods",
+      "type": "person"
+    },
+    {
+      "name": "Rocky Balboa",
+      "type": "person"
+    },
+    {
+      "name": "Naturalis Historia",
+      "type": "work"
+    },
+    {
+      "name": "The Commentary on Old and New Testaments",
+      "type": "work"
+    },
+    {
+      "name": "New York Herald",
+      "type": "work"
+    },
+    {
+      "name": "New York Atlas",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:40",
+      "kind": "intro",
+      "title": "Opening and grain of salt origin",
+      "summary": "Josh opens the Short Stuff episode and introduces three phrase origins. He discusses the idiom 'take it with a grain of salt,' citing Pliny the Elder's walnut-and-fig recipe as a literal antidote, John Trapp's use in a commentary, and noting that the metaphorical origin remains unclear.",
+      "topics": [
+        "take it with a grain of salt",
+        "Pliny the Elder",
+        "John Trapp",
+        "phrase origins"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Close but no cigar",
+      "summary": "The hosts explain that 'close but no cigar' comes from early twentieth-century traveling carnival rigged games, where cigars were prizes and the barker would say the line to players who missed.",
+      "topics": [
+        "close but no cigar",
+        "carnival games",
+        "phrase origins"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Southpaw origins",
+      "summary": "The hosts examine 'southpaw,' linked to boxing and to left-handed baseball pitchers. They cite an 1848 political cartoon with a Millard Fillmore quote about Lewis Cass, an 1860 New York Herald boxing report, and 1858 New York Atlas baseball use, and dismiss the ballpark-orientation theory as flimsy.",
+      "topics": [
+        "southpaw",
+        "boxing terminology",
+        "left-handed pitchers",
+        "Millard Fillmore",
+        "Lewis Cass",
+        "baseball slang"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Wrap-up and sign-off",
+      "summary": "The hosts tally their results, note the southpaw origin remains unsolved, joke about cutting salt, and sign off with the show credits.",
+      "topics": [
+        "short stuff",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5099,
+    "output_tokens": 1514
+  }
+}

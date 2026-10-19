@@ -1,0 +1,314 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-02-23_How_Famines_Work_51min.txt",
+  "title": "How Famines Work",
+  "date": "2017-02-23",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-famines-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0f6b649c-6955-45f7-b121-ae28007b67b3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0f6b649c-6955-45f7-b121-ae28007b67b3/transcript?format=TextWithTimestamps&t=1700543815",
+  "summary": "Josh and Chuck open with a plug for the #tripod podcast recommendation campaign, then explain famine: Cormac Ó Gráda's definition (daily death rate above 1 per 10,000, wasted children, kwashiorkor/marasmus prevalence), food security, and the role of drought versus government failure. They discuss the 2008 food price spike tied to biofuels, climate change threats to food supply (UN IPCC and NASA warnings), Mao's Great Leap Forward famine in China, Ethiopian famines (1973 Wollo famine, 1984-85 famine, Band Aid and Live Aid and the government's concealed civil war), Amartya Sen's argument that authoritarian systems suffer famines, the Irish Potato Famine of 1845-49 and British response, early warning systems such as FEWS NET, and current crises in Nigeria, Yemen, South Sudan and Somalia. The episode closes with a listener mail about a former fan, Sarah Sparrow, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "famine",
+    "famine causes",
+    "food security",
+    "Cormac Ó Gráda",
+    "Great Leap Forward",
+    "Mao Zedong China famine",
+    "Ethiopian famine",
+    "Wollo famine 1973",
+    "Band Aid",
+    "Live Aid",
+    "1984 Ethiopia famine",
+    "Irish potato famine",
+    "late blight",
+    "Great Irish Famine",
+    "Amartya Sen",
+    "authoritarian government and famine",
+    "climate change and food supply",
+    "2008 food price crisis",
+    "biofuels and food prices",
+    "early warning systems",
+    "FEWS NET",
+    "malnutrition",
+    "kwashiorkor",
+    "wasting in children",
+    "humanitarian aid",
+    "Somalia drought",
+    "Yemen conflict",
+    "South Sudan conflict",
+    "Nigeria Boko Haram food crisis"
+  ],
+  "entities": [
+    {
+      "name": "Cormac Ó Gráda",
+      "type": "person"
+    },
+    {
+      "name": "Mao Zedong",
+      "type": "person"
+    },
+    {
+      "name": "Amartya Sen",
+      "type": "person"
+    },
+    {
+      "name": "Bob Geldof",
+      "type": "person"
+    },
+    {
+      "name": "Robert Peel",
+      "type": "person"
+    },
+    {
+      "name": "Lord John Russell",
+      "type": "person"
+    },
+    {
+      "name": "Meles Zenawi",
+      "type": "person"
+    },
+    {
+      "name": "Haile Selassie",
+      "type": "person"
+    },
+    {
+      "name": "Mark Joseph Stern",
+      "type": "person"
+    },
+    {
+      "name": "Sarah Sparrow",
+      "type": "person"
+    },
+    {
+      "name": "Great Leap Forward",
+      "type": "event"
+    },
+    {
+      "name": "Great Irish Famine",
+      "type": "event"
+    },
+    {
+      "name": "Wollo famine",
+      "type": "event"
+    },
+    {
+      "name": "Live Aid",
+      "type": "event"
+    },
+    {
+      "name": "Band Aid",
+      "type": "organization"
+    },
+    {
+      "name": "Ethiopia",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "Ireland",
+      "type": "place"
+    },
+    {
+      "name": "Botswana",
+      "type": "place"
+    },
+    {
+      "name": "Somalia",
+      "type": "place"
+    },
+    {
+      "name": "Yemen",
+      "type": "place"
+    },
+    {
+      "name": "South Sudan",
+      "type": "place"
+    },
+    {
+      "name": "Nigeria",
+      "type": "place"
+    },
+    {
+      "name": "Development as Freedom",
+      "type": "work"
+    },
+    {
+      "name": "Famine Early Warning Systems Network",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:10",
+      "kind": "ad",
+      "title": "Tripod podcast promotion",
+      "summary": "Hosts urge listeners to recommend podcasts to friends as part of the #tripod campaign to grow the medium.",
+      "topics": [
+        "podcast promotion",
+        "tripod campaign"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:08:00",
+      "kind": "intro",
+      "title": "Opening banter and famine introduction",
+      "summary": "Hosts banter about the episode's grim subject and preview that it will contain little humor. Chuck mentions 1980s stand-up jokes about famine.",
+      "topics": [
+        "famine",
+        "episode preview"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Definition of famine and food security",
+      "summary": "Cormac Ó Gráda's definition of famine: a daily death rate above one per ten thousand, a high proportion of wasted children, and kwashiorkor prevalence. The hosts explain that famine involves disease as well as hunger, and define food security according to the UN.",
+      "topics": [
+        "famine definition",
+        "Cormac Ó Gráda",
+        "food security",
+        "wasting",
+        "kwashiorkor"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Causes of famine: natural versus man-made",
+      "summary": "Drought, crop blight, weather and conflict can cause famine, but the hosts note that government failure often makes famines worse. They discuss the 2008 food price spike linked to biofuels and speculation, and the toll on children.",
+      "topics": [
+        "famine causes",
+        "drought",
+        "government failure",
+        "2008 food price crisis",
+        "biofuels",
+        "child mortality"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Climate change and global food supply",
+      "summary": "Discussion of Mark Joseph Stern's Slate article and reports from the UN IPCC and NASA warning that climate change threatens crop yields, and that technology may not solve the problem.",
+      "topics": [
+        "climate change",
+        "food supply",
+        "IPCC",
+        "NASA report",
+        "crop yields"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Mao's Great Leap Forward famine",
+      "summary": "Mao's Great Leap Forward pushed grain requisitions and falsified crop reports, causing a man-made famine in which millions died. The hosts note the Chinese government's official death toll of about fifteen million and that the famine is rarely discussed in China.",
+      "topics": [
+        "Great Leap Forward",
+        "Mao Zedong",
+        "China famine",
+        "man-made famine",
+        "grain requisition"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Ethiopian famines and Band Aid",
+      "summary": "The 1973 Wollo famine was covered up by the government. The 1984-85 famine is discussed alongside Band Aid and Live Aid fundraising, and the government's secret civil war that was disrupting food supply. Aid groups reportedly were expelled after raising concerns.",
+      "topics": [
+        "Ethiopia famine",
+        "Wollo famine",
+        "Band Aid",
+        "Live Aid",
+        "civil war and famine",
+        "aid diversion"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Authoritarianism, democracy and famine",
+      "summary": "Amartya Sen's research finds famines occur in autocratic or conflict-affected states. The hosts contrast Ethiopia with democratic Botswana, which has had no famine since the 1960s.",
+      "topics": [
+        "Amartya Sen",
+        "democracy and famine",
+        "authoritarian rule",
+        "Botswana",
+        "Human Rights Watch"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Irish Potato Famine",
+      "summary": "Late blight destroyed potato crops in Ireland in 1845-49. Tenant farmers depended on potatoes, British policy under Robert Peel and Lord John Russell was inadequate, evictions followed, and roughly a million died and a million or more emigrated.",
+      "topics": [
+        "Irish potato famine",
+        "late blight",
+        "British colonial rule",
+        "evictions",
+        "emigration"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Preventing famine and early warning systems",
+      "summary": "Food-for-work programs, early warning systems such as FEWS NET, and government action are discussed. The hosts review current crises in Nigeria, Yemen, South Sudan and Somalia, and urge listeners to support aid groups.",
+      "topics": [
+        "famine prevention",
+        "early warning systems",
+        "FEWS NET",
+        "food for work",
+        "Somalia",
+        "Yemen",
+        "South Sudan",
+        "Nigeria"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:03:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Sarah Sparrow",
+      "summary": "A listener email from a former young fan, Sarah Sparrow, is read. The hosts discuss her and invite listeners to get in touch.",
+      "topics": [
+        "listener mail",
+        "Sarah Sparrow"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:04:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give social media and website contact details.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15541,
+    "output_tokens": 3102
+  }
+}

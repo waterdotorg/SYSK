@@ -1,0 +1,237 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-12-20_How_Pepper_Spray_Works_35min.txt",
+  "title": "How Pepper Spray Works",
+  "date": "2011-12-20",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-pepper-spray-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1d0a7aa2-e689-4e5e-9316-ae2800ab5b7b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1d0a7aa2-e689-4e5e-9316-ae2800ab5b7b/transcript?format=TextWithTimestamps&t=1700543930",
+  "summary": "Josh and Chuck discuss how pepper spray works, prompted by the viral \"pepper spray cop\" meme after UC Davis Lieutenant John Pike pepper-sprayed seated protesters, and the use of pepper spray at Occupy Wall Street protests. They cover oleoresin capsicum (OC) and capsaicin, how it is made and dispensed (stream, mist, fog, foam), its physiological effects, the Scoville heat scale and hot peppers (ghost pepper, Trinidad scorpion), risks such as allergic reactions and asthma, first aid (soap, oil-vs-water chemistry, medicated wipes), legal considerations, and the difference from tear gas. The episode also includes listener mail about the Air Force One episode and a Christmas shout-out, plus a contest announcement.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "pepper spray",
+    "how pepper spray works",
+    "oleoresin capsicum",
+    "OC spray",
+    "capsaicin",
+    "Scoville heat units",
+    "hot peppers",
+    "ghost pepper",
+    "Trinidad scorpion pepper",
+    "UC Davis pepper spray incident",
+    "John Pike",
+    "pepper spray cop meme",
+    "Occupy Wall Street pepper spray",
+    "non-lethal weapons",
+    "tear gas vs pepper spray",
+    "pepper spray first aid",
+    "pepper spray laws",
+    "pepper spray allergic reaction",
+    "police use of force",
+    "Wilbur Scoville",
+    "bear spray",
+    "listener mail",
+    "Air Force One"
+  ],
+  "entities": [
+    {
+      "name": "John Pike",
+      "type": "person"
+    },
+    {
+      "name": "UC Davis",
+      "type": "organization"
+    },
+    {
+      "name": "Davis Police Department",
+      "type": "organization"
+    },
+    {
+      "name": "Occupy Wall Street",
+      "type": "event"
+    },
+    {
+      "name": "Wilbur Scoville",
+      "type": "person"
+    },
+    {
+      "name": "Scoville heat units",
+      "type": "other"
+    },
+    {
+      "name": "capsaicin",
+      "type": "other"
+    },
+    {
+      "name": "oleoresin capsicum",
+      "type": "other"
+    },
+    {
+      "name": "ghost pepper",
+      "type": "other"
+    },
+    {
+      "name": "Trinidad scorpion pepper",
+      "type": "other"
+    },
+    {
+      "name": "Chunky Burger",
+      "type": "organization"
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "name": "Top Chef",
+      "type": "work"
+    },
+    {
+      "name": "Air Force One",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and pepper spray cop meme",
+      "summary": "The hosts open with jokes about the 'don't tase me bro' meme and discuss the viral pepper spray cop meme inspired by the UC Davis incident involving Lieutenant John Pike, including online backlash and his personal information being posted.",
+      "topics": [
+        "pepper spray cop meme",
+        "UC Davis pepper spray incident",
+        "John Pike",
+        "internet backlash"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Why pepper spray works and its controversial use",
+      "summary": "The hosts explain that pepper spray bypasses pain sensation, causing a physical incapacitation response, and that its use against peaceful, seated protesters, including at Occupy Wall Street, is controversial. Megan Kelly's 'food product' remark is discussed.",
+      "topics": [
+        "pepper spray",
+        "non-lethal weapons",
+        "police use of force",
+        "Occupy Wall Street pepper spray",
+        "Megan Kelly remark"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Oleoresin capsicum, capsaicin, and how pepper spray is made",
+      "summary": "Pepper spray's active ingredient is oleoresin capsicum (OC), a natural pepper oil containing capsaicin, which is colorless, odorless, and flavorless yet causes blistering at very small amounts. Pepper spray mixes capsaicin with a solvent and propellant in a pressurized canister.",
+      "topics": [
+        "oleoresin capsicum",
+        "OC spray",
+        "capsaicin",
+        "how pepper spray is made",
+        "bear spray"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Spray patterns: stream, mist, fog, and foam",
+      "summary": "The hosts describe the stream, mist, fog, and foam spray patterns and their tradeoffs in range, targeting, and wind blowback. They joke about police misusing fog spray.",
+      "topics": [
+        "pepper spray spray patterns",
+        "stream mist fog foam",
+        "personal dispenser",
+        "canister size"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Hot peppers history and the Scoville scale",
+      "summary": "The hosts discuss historical uses of hot peppers as defense, including Japanese geisha and Maya smoke tactics, and modern very hot peppers like the ghost pepper (bhut jolokia), Trinidad scorpion Butch T, and a ghost-pepper burger at Chunky Burger. They explain the Scoville heat units scale, its origin with Wilbur Scoville's dilution test, and modern HPLC testing, with pepper spray rated roughly 500,000 to 5 million units.",
+      "topics": [
+        "hot peppers",
+        "ghost pepper",
+        "Trinidad scorpion pepper",
+        "Scoville heat units",
+        "Wilbur Scoville",
+        "capsaicin potency",
+        "Top Chef ghost pepper challenge",
+        "high performance liquid chromatography"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Effects of pepper spray and health risks",
+      "summary": "Pepper spray causes burning in the face, eyes, nose, mouth, and throat lasting about 45 minutes to an hour, with eye swelling and temporary blindness. The hosts discuss the risk of anaphylaxis and asthma complications, and cite an ACLU study in California finding one death in about 600 sprays.",
+      "topics": [
+        "pepper spray effects",
+        "anaphylaxis",
+        "asthma and pepper spray",
+        "ACLU California study",
+        "pepper spray deaths"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "First aid for pepper spray exposure and laws",
+      "summary": "The hosts explain why oil and water don't mix, so water is ineffective on oily capsaicin, and recommend blinking, rinsing with soap such as Dawn dish soap, and medicated wipes. They note that pepper spray laws vary by country and state, including Canada, Belgium, and Hong Kong, and that canisters should be replaced about every three years.",
+      "topics": [
+        "pepper spray first aid",
+        "oil and water polarity",
+        "medicated wipes",
+        "pepper spray laws",
+        "pepper spray replacement",
+        "tear gas vs pepper spray"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:34:00",
+      "kind": "ad",
+      "title": "Contest announcement",
+      "summary": "The hosts promote a contest offering a trip to Atlanta, a hotel stay, office tour, lunch, and prizes including a gift card and a Kindle Fire for referrals.",
+      "topics": [
+        "contest",
+        "giveaway"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:35:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and Christmas shout-out",
+      "summary": "The hosts read listener corrections about Air Force One, including that Marine One is a Sikorsky or Black Hawk rather than a Chinook, that the C-17 carries the limos, and an explanation of why Air Force One cannot fly above 40 feet on the ground. They close with a Christmas shout-out to listener Lincoln from his sister Casey.",
+      "topics": [
+        "listener mail",
+        "Air Force One",
+        "Marine One",
+        "Christmas shout-out"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:35:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners and give contact information and a sponsor message.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12400,
+    "output_tokens": 2867
+  }
+}

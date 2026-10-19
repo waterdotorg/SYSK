@@ -1,0 +1,267 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-04-19_What_Makes_Lead_So_Poisonous_49min.txt",
+  "title": "What Makes Lead So Poisonous?",
+  "date": "2016-04-19",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-makes-lead-so-poisonous",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/547bad45-ae5b-49b4-be01-ae280084b5ae/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/547bad45-ae5b-49b4-be01-ae280084b5ae/transcript?format=TextWithTimestamps&t=1700543839",
+  "summary": "Josh and Chuck explain lead as an element and why it is toxic. They cover the Flint, Michigan water crisis and how Flint's corrosive river water leached lead from old pipes. They trace lead's history from Roman plumbing and the plumbum etymology to lead paint, leaded gasoline and knocking, and tetraethyl lead's phase-out. They describe lead sources today (batteries, electronics, leaded glass, old houses), how lead is mined and smelted from galena, and its biological effects, since the body mistakes lead for calcium and it harms neurons, brain development and nearly every organ system. They discuss blood testing, chelation therapy, the controversial lead-crime hypothesis from Kevin Drum's Mother Jones article, and the Flint lawsuits and sovereign immunity issues. The episode ends with a listener letter from an American living in Finland about low corruption and high taxes.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "lead poisoning",
+    "lead",
+    "Flint water crisis",
+    "Flint Michigan lead contamination",
+    "lead pipes",
+    "lead paint",
+    "leaded gasoline",
+    "tetraethyl lead",
+    "lead smelting",
+    "galena",
+    "lead toxicity",
+    "blood lead test",
+    "chelation therapy",
+    "lead and crime hypothesis",
+    "Flint lawsuits",
+    "sovereign immunity",
+    "lead in batteries and electronics",
+    "lead history Romans",
+    "plumbum",
+    "corrosion control"
+  ],
+  "entities": [
+    {
+      "name": "Flint, Michigan",
+      "type": "place"
+    },
+    {
+      "name": "Detroit",
+      "type": "place"
+    },
+    {
+      "name": "Lake Huron",
+      "type": "place"
+    },
+    {
+      "name": "Buick City",
+      "type": "place"
+    },
+    {
+      "name": "Baltimore",
+      "type": "place"
+    },
+    {
+      "name": "Michigan Environmental Protection Division",
+      "type": "organization"
+    },
+    {
+      "name": "Mother Jones",
+      "type": "organization"
+    },
+    {
+      "name": "Kevin Drum",
+      "type": "person"
+    },
+    {
+      "name": "Scott Firestone",
+      "type": "person"
+    },
+    {
+      "name": "Noah Hall",
+      "type": "person"
+    },
+    {
+      "name": "Deepwater Horizon",
+      "type": "event"
+    },
+    {
+      "name": "Urban Dance Squad",
+      "type": "other"
+    },
+    {
+      "name": "Dora the Explorer",
+      "type": "work"
+    },
+    {
+      "name": "Sesame Street",
+      "type": "work"
+    },
+    {
+      "name": "Lead: America's Real Criminal Element",
+      "type": "work"
+    },
+    {
+      "name": "Succimer",
+      "type": "other"
+    },
+    {
+      "name": "EDTA",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and sponsor read",
+      "summary": "Hosts open with banter about frozen burritos and a Squarespace sponsor read, then introduce the episode on lead and the Flint, Michigan water scandal.",
+      "topics": [
+        "Squarespace sponsor",
+        "frozen burritos",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Flint water crisis background",
+      "summary": "Overview of Flint's switch from Detroit water to the Flint River, the corrosive water, Buick City pollution, hair loss and rashes, and the state's denials and residents' citizen-science push.",
+      "topics": [
+        "Flint water crisis",
+        "Flint River",
+        "Detroit water contract",
+        "Buick City",
+        "corrosive water",
+        "Flint residents citizen scientists"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "History of lead and lead pipes",
+      "summary": "Lead pipes used since Roman times, the etymology of plumbing from plumbum and the symbol Pb, and lead's properties such as malleability, corrosion resistance and poor conductivity that make it useful in pipes and solder.",
+      "topics": [
+        "lead pipes history",
+        "Romans lead plumbing",
+        "plumbum etymology",
+        "lead properties",
+        "solder"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Lead paint, packaging ink and toys",
+      "summary": "Lead in paint and signage, lead ink on bread bags, the 2007 Chinese product recalls including Dora the Explorer and Sesame Street toys, and the 1978 US lead paint ban. Brief digression about the band Urban Dance Squad.",
+      "topics": [
+        "lead paint",
+        "lead paint ban 1978",
+        "toy recalls 2007",
+        "lead in ink",
+        "Chinese product recalls"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Leaded glass, Baltimore ban and leaded gasoline",
+      "summary": "Leaded glass and its uses, Baltimore's early lead paint ban and federal Lead Poisoning Prevention Act, and tetraethyl lead added to gasoline to prevent knocking, phased out starting in the 1970s with catalytic converters.",
+      "topics": [
+        "leaded glass",
+        "tetraethyl lead",
+        "leaded gasoline",
+        "engine knocking",
+        "catalytic converters",
+        "Baltimore lead paint ban"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Lead in the earth, smelting and recycling",
+      "summary": "Lead occurs in compounds such as oxides and sulfides, often with silver. Ancient Roman cupellation is described, along with modern roasting and smelting of galena, slag and pig lead, and secondary extraction from car batteries.",
+      "topics": [
+        "lead ore",
+        "galena",
+        "cupellation",
+        "lead smelting",
+        "roasting",
+        "lead recycling",
+        "secondary lead extraction"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Lead health effects and blood testing",
+      "summary": "The body treats lead like calcium, disrupting neurons and brain development in children and affecting many organ systems. Blood lead thresholds, home test kits and the zinc protoporphyrin test are discussed. Treatments include succimer and chelation therapy, along with nutrition.",
+      "topics": [
+        "lead toxicity",
+        "lead mimics calcium",
+        "children brain development",
+        "blood lead test",
+        "chelation therapy",
+        "succimer",
+        "lead poisoning treatment"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Lead and crime hypothesis",
+      "summary": "Discussion of the Mother Jones article by Kevin Drum linking childhood lead exposure from leaded gasoline to later crime rates, plus scientific skepticism from Scott Firestone and the call for cohort studies.",
+      "topics": [
+        "lead and crime",
+        "Kevin Drum",
+        "Mother Jones",
+        "leaded gasoline crime link",
+        "cohort study",
+        "correlation vs causation"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:47:30",
+      "kind": "content",
+      "title": "Flint lawsuits and liability",
+      "summary": "Lawsuits over Flint water, obstacles such as sovereign immunity and proving specific causation, the corrosion control failure, and a suggested victim compensation fund modeled on Deepwater Horizon.",
+      "topics": [
+        "Flint lawsuits",
+        "sovereign immunity",
+        "specific causation",
+        "compensation fund",
+        "Deepwater Horizon",
+        "corrosion control"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Finland and low corruption",
+      "summary": "Listener Gabrielle, an American living in Helsinki, writes about low political corruption, the multiparty system and high taxes in Finland.",
+      "topics": [
+        "listener mail",
+        "Finland",
+        "political corruption",
+        "taxes in Scandinavia"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16290,
+    "output_tokens": 2792
+  }
+}

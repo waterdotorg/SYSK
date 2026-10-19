@@ -1,0 +1,371 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-05-02_Atomic_Clocks_Ahoy_52min.txt",
+  "title": "Atomic Clocks, Ahoy!",
+  "date": "2024-05-02",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/atomic-clocks-ahoy",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b9dbfc5d-ec0c-4627-88c4-b164001d7780/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b9dbfc5d-ec0c-4627-88c4-b164001d7780/transcript?format=TextWithTimestamps&t=1714641035",
+  "summary": "Josh and Chuck explain atomic clocks: how quartz crystal oscillators work (piezoelectric effect, about 32,768 pulses per second), why stability and accuracy matter for GPS, lunar landings and networks, and the history from Isidor Rabi's atomic beam work and the first ammonia clock, through the cesium standard (redefining the second in 1967), the cesium fountain, and strontium lattice clocks. They cover how cesium resonance corrects quartz, International Atomic Time and UTC, WWVB radio time signals, the US Naval Observatory time line, GPS timing and relativity experiments (Hafele-Keating), and NASA's Deep Space Atomic Clock. The episode also includes tour announcements, off-topic banter, and a listener email about a Peanuts mural in Colorado Springs.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "atomic clock",
+    "quartz crystal oscillator",
+    "cesium 133",
+    "caesium atomic clock",
+    "definition of the second",
+    "International Atomic Time",
+    "UTC coordinated universal time",
+    "GPS timing",
+    "Isidor Rabi",
+    "atomic beam magnetic resonance",
+    "strontium lattice clock",
+    "cesium fountain clock",
+    "WWVB radio time signal",
+    "US Naval Observatory time service",
+    "Hafele-Keating experiment",
+    "gravitational time dilation",
+    "Deep Space Atomic Clock",
+    "mercury ion clock",
+    "piezoelectric effect",
+    "timekeeping accuracy",
+    "frequency standard",
+    "listener mail",
+    "Peanuts mural"
+  ],
+  "entities": [
+    {
+      "name": "Isidor Rabi",
+      "type": "person"
+    },
+    {
+      "name": "Hafele-Keating experiment",
+      "type": "event"
+    },
+    {
+      "name": "National Institute of Standards and Technology",
+      "type": "organization"
+    },
+    {
+      "name": "US Naval Observatory",
+      "type": "organization"
+    },
+    {
+      "name": "WWVB",
+      "type": "other"
+    },
+    {
+      "name": "Fort Collins, Colorado",
+      "type": "place"
+    },
+    {
+      "name": "Deep Space Atomic Clock",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "GPS",
+      "type": "other"
+    },
+    {
+      "name": "Charles Schulz",
+      "type": "person"
+    },
+    {
+      "name": "Schulz Museum",
+      "type": "organization"
+    },
+    {
+      "name": "Colorado Springs",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:15",
+      "kind": "intro",
+      "title": "Tour dates and opening",
+      "summary": "Hosts announce spring and August tour dates, including Boston area, Washington DC, New York Town Hall, and later Chicago, Minneapolis, Indianapolis, Durham, and Atlanta, then welcome listeners back.",
+      "topics": [
+        "tour dates",
+        "live shows"
+      ]
+    },
+    {
+      "start": "00:01:15",
+      "end": "00:03:15",
+      "kind": "intro",
+      "title": "Opening banter and atomic clock introduction",
+      "summary": "Josh and Chuck banter about spring break, then introduce atomic clocks as the most accurate timepieces, using quartz crystals corrected by cesium-133.",
+      "topics": [
+        "atomic clock",
+        "timekeeping",
+        "synchronization"
+      ]
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Why clocks drift and how quartz works",
+      "summary": "Discussion of mechanical clocks drifting, how quartz crystals emit electrical pulses when stressed (piezoelectric effect), and the roughly 32,768 pulses per second used in quartz timekeeping.",
+      "topics": [
+        "quartz crystal oscillator",
+        "piezoelectric effect",
+        "clock drift",
+        "quartz watch"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:10",
+      "kind": "content",
+      "title": "Stability and the need for precision",
+      "summary": "Explanation that more ticks per second means greater precision and stability; environmental factors affect quartz; examples of lunar landing and GPS needing millisecond and microsecond accuracy.",
+      "topics": [
+        "clock stability",
+        "timing precision",
+        "lunar lander timing",
+        "GPS accuracy"
+      ]
+    },
+    {
+      "start": "00:09:10",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Applications of precise timing",
+      "summary": "The hosts note that precise timing matters for navigation, satellite communication, and heavy formulas used in space missions.",
+      "topics": [
+        "precision timing applications",
+        "navigation",
+        "satellite communication"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Isidor Rabi and early atomic clocks",
+      "summary": "Isidor Rabi's atomic beam magnetic resonance work and the explanation of ground and excited atomic states. The first atomic clock built by the National Bureau of Standards used ammonia and was accurate to about a second every four months.",
+      "topics": [
+        "Isidor Rabi",
+        "atomic beam magnetic resonance",
+        "ammonia atomic clock",
+        "National Bureau of Standards"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:18:20",
+      "kind": "content",
+      "title": "Choosing cesium and the 1952 clock",
+      "summary": "Why cesium-133 was chosen as a natural and consistent frequency reference, and the first cesium atomic clock in 1952 (described as built in 1955 in the transcript).",
+      "topics": [
+        "cesium 133",
+        "frequency reference",
+        "oscillation"
+      ]
+    },
+    {
+      "start": "00:18:20",
+      "end": "00:21:05",
+      "kind": "content",
+      "title": "Cesium frequency and the 1967 redefinition of the second",
+      "summary": "Cesium-133 oscillates about 9.19 billion times per second. The international community redefined the second in 1967 based on it, replacing the solar day definition.",
+      "topics": [
+        "cesium frequency",
+        "definition of the second",
+        "1967 redefinition",
+        "solar day"
+      ]
+    },
+    {
+      "start": "00:21:05",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Accuracy history: cesium fountain and strontium lattice",
+      "summary": "Timeline of improving accuracy from the 1950s-1960s cesium clocks to the 1999 cesium fountain and the 2013 strontium lattice clock, with the method of comparing clocks to estimate error.",
+      "topics": [
+        "cesium fountain clock",
+        "strontium lattice clock",
+        "clock accuracy timeline",
+        "clock comparison"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Atomic structure and cesium's outer electron",
+      "summary": "Explanation that cesium's 55th outer electron is excited at the specific frequency, and how the atomic clock compares quartz output to the cesium resonance to correct the quartz oscillator, with the hosts admitting uncertainty about the detector step.",
+      "topics": [
+        "electron excitation",
+        "feedback loop",
+        "quartz correction",
+        "atomic structure"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:27:50",
+      "kind": "content",
+      "title": "Digression on movies and TV",
+      "summary": "Banter about the Albert Brooks film Mother, Northern Exposure, and The Office.",
+      "topics": [
+        "Albert Brooks",
+        "Northern Exposure",
+        "pop culture banter"
+      ]
+    },
+    {
+      "start": "00:27:50",
+      "end": "00:29:20",
+      "kind": "content",
+      "title": "Feedback loop and quartz correction discussion",
+      "summary": "Josh and Chuck work through how the comparison between the quartz and the cesium frequency is used to adjust the quartz oscillator, and admit they are unsure of the detector mechanics.",
+      "topics": [
+        "feedback loop",
+        "quartz correction",
+        "frequency comparison"
+      ]
+    },
+    {
+      "start": "00:29:20",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Official definition of the second",
+      "summary": "Josh reads the official SI definition of the second tied to the cesium-133 hyperfine transition at zero kelvin, and explains why it provides an international standard.",
+      "topics": [
+        "SI second",
+        "definition of the second",
+        "hyperfine transition",
+        "international standard"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:35:30",
+      "kind": "content",
+      "title": "International Atomic Time, UTC, and Earth's rotation",
+      "summary": "International Atomic Time (TAI) is computed by averaging hundreds of atomic clocks in over seventy labs; UTC runs about thirty seconds behind TAI; the Earth is slowing down slightly.",
+      "topics": [
+        "International Atomic Time",
+        "UTC",
+        "Earth rotation",
+        "leap seconds"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Time distribution: WWVB, Naval Observatory, and phone time",
+      "summary": "Atomic clocks are weighted and averaged into a single time scale, broadcast from WWVB in Fort Collins, Colorado to radio-controlled clocks, while the US Naval Observatory and NIST maintain time services; the Naval Observatory phone time service is still used.",
+      "topics": [
+        "WWVB",
+        "radio-controlled clocks",
+        "US Naval Observatory",
+        "NIST time",
+        "speaking clock"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Telephone time service and movie phone",
+      "summary": "Discussion of the Naval Observatory phone number, the recorded voice of Fred Goldsmith, and call volume increasing in 2009, with a Seinfeld movie phone reference.",
+      "topics": [
+        "speaking clock phone",
+        "Fred Goldsmith",
+        "Naval Observatory time service",
+        "movie phone"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "How GPS uses atomic clocks",
+      "summary": "Satellites carry atomic clocks and broadcast timestamps; receivers use the speed of light and signals from several satellites to triangulate position. Geocaching is mentioned.",
+      "topics": [
+        "GPS",
+        "satellite clocks",
+        "triangulation",
+        "geocaching"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:40",
+      "kind": "content",
+      "title": "Physics experiments and relativity",
+      "summary": "Atomic clocks used in particle decay experiments and to test gravitational time dilation, including the Hafele-Keating airliner experiment in 1971 and an elevation experiment.",
+      "topics": [
+        "relativity",
+        "gravitational time dilation",
+        "Hafele-Keating experiment",
+        "particle physics timing"
+      ]
+    },
+    {
+      "start": "00:46:40",
+      "end": "00:48:20",
+      "kind": "content",
+      "title": "Space clocks and Deep Space Atomic Clock",
+      "summary": "GPS satellite clocks get updates twice a day; future space clocks must keep time without Earth updates. NASA launched the Deep Space Atomic Clock in 2019 using mercury ions trapped in electromagnetic fields.",
+      "topics": [
+        "Deep Space Atomic Clock",
+        "mercury ion clock",
+        "space timekeeping",
+        "NASA"
+      ]
+    },
+    {
+      "start": "00:48:20",
+      "end": "00:48:50",
+      "kind": "content",
+      "title": "Concert chat and transition",
+      "summary": "Brief off-topic chat about punk concerts (Circle Jerks and Descendants) before the listener mail segment.",
+      "topics": [
+        "concerts",
+        "punk music"
+      ]
+    },
+    {
+      "start": "00:48:50",
+      "end": "00:51:45",
+      "kind": "listener_mail",
+      "title": "Listener mail: Peanuts mural in Colorado Springs",
+      "summary": "A listener, Mike Dion, writes that his grandparents Stan and Polly Travnicek restored a Peanuts mural painted by Charles Schulz in their Colorado Springs house and it was donated to the Schulz Museum.",
+      "topics": [
+        "listener mail",
+        "Peanuts",
+        "Charles Schulz mural",
+        "Schulz Museum"
+      ]
+    },
+    {
+      "start": "00:51:45",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "Closing reminder to contact the show by email and sign-off credit to iHeartRadio.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19530,
+    "output_tokens": 4180
+  }
+}

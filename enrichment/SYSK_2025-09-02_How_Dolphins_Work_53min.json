@@ -1,0 +1,572 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-09-02_How_Dolphins_Work_53min.txt",
+  "title": "How Dolphins Work!",
+  "date": "2025-09-02",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-dolphins-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de7e0484-34a1-48c0-a7bd-b34c0111f384/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/de7e0484-34a1-48c0-a7bd-b34c0111f384/transcript?format=TextWithTimestamps&t=1756834010",
+  "summary": "Josh and Chuck explore dolphins, focusing on bottlenose dolphins: their classification as cetaceans, evolutionary origins from pakicetus, placental reproduction and nursing, anatomy (blowhole, melon, pectoral fins, flukes, vestigial ears, earwax layers), eyesight, echolocation, sound production, intelligence and tool use, social pods and behavior including altruism and non-conceptive sexual behavior, the Peter and Margaret Howe Lovatt experiment with John C. Lilly, captivity and dolphin entertainment, US Navy marine mammal program, dolphin deaths and hunts in Taiji and the Faroe Islands, bycatch and tuna labeling, and US Marine Mammal Protection Act. Episode ends with listener mail about a VW Lemon ad and a correction to the Zizians episode concerning Eliezer Yudkowsky and the Machine Intelligence Research Institute.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "dolphins",
+    "bottlenose dolphin",
+    "cetaceans",
+    "dolphin evolution",
+    "pakicetus",
+    "dolphin echolocation",
+    "dolphin intelligence",
+    "dolphin sleep unihemispheric",
+    "dolphin pods",
+    "dolphin captivity",
+    "dolphin entertainment",
+    "Peter the dolphin",
+    "John C. Lilly",
+    "Margaret Howe Lovatt",
+    "US Navy marine mammal program",
+    "Taiji dolphin hunt",
+    "Faroe Islands grind",
+    "dolphin bycatch",
+    "dolphin safe tuna",
+    "Marine Mammal Protection Act",
+    "dolphin tool use sponge",
+    "dolphin nursing",
+    "dolphin vision",
+    "dolphin signature whistles",
+    "Tiaw dolphin",
+    "Volkswagen Lemon ad",
+    "Zizians correction"
+  ],
+  "entities": [
+    {
+      "name": "Dolphin",
+      "type": "other"
+    },
+    {
+      "name": "Bottlenose dolphin",
+      "type": "other"
+    },
+    {
+      "name": "Pakicetus",
+      "type": "other"
+    },
+    {
+      "name": "John C. Lilly",
+      "type": "person"
+    },
+    {
+      "name": "Peter",
+      "type": "other"
+    },
+    {
+      "name": "Margaret Howe Lovatt",
+      "type": "person"
+    },
+    {
+      "name": "Lilian Eichelberger",
+      "type": "person"
+    },
+    {
+      "name": "Flipper",
+      "type": "work"
+    },
+    {
+      "name": "SeaWorld",
+      "type": "organization"
+    },
+    {
+      "name": "Blackfish",
+      "type": "work"
+    },
+    {
+      "name": "The Cove",
+      "type": "work"
+    },
+    {
+      "name": "Sea Spiracy",
+      "type": "work"
+    },
+    {
+      "name": "Taiji, Japan",
+      "type": "place"
+    },
+    {
+      "name": "Faroe Islands",
+      "type": "place"
+    },
+    {
+      "name": "Tiaw",
+      "type": "other"
+    },
+    {
+      "name": "Sél Power",
+      "type": "place"
+    },
+    {
+      "name": "Marine Mammal Protection Act",
+      "type": "work"
+    },
+    {
+      "name": "Volkswagen Beetle Lemon ad",
+      "type": "work"
+    },
+    {
+      "name": "Eliezer Yudkowsky",
+      "type": "person"
+    },
+    {
+      "name": "Machine Intelligence Research Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Zizians",
+      "type": "event"
+    },
+    {
+      "name": "Arabian Sea naval exercise 2009",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:12",
+      "end": "00:01:37",
+      "kind": "intro",
+      "title": "Opening banter and chassis correction",
+      "summary": "Josh and Chuck open the show with banter, including a pronunciation correction about the word chassis.",
+      "topics": [
+        "podcast intro",
+        "chassis correction"
+      ]
+    },
+    {
+      "start": "00:01:37",
+      "end": "00:04:10",
+      "kind": "content",
+      "title": "What dolphins are and which ones are discussed",
+      "summary": "Dolphins are cetaceans, a marine mammal group with about eighty related species including whales and porpoises. There are over forty dolphin species in the oceanic family and four river dolphin species. The episode focuses mainly on bottlenose dolphins.",
+      "topics": [
+        "cetaceans",
+        "dolphin classification",
+        "river dolphins",
+        "bottlenose dolphin"
+      ]
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:06:20",
+      "kind": "content",
+      "title": "Lifespan and dolphins near shore",
+      "summary": "Bottlenose dolphins live about 45 to 50 years in the wild, with a disputed shorter captive lifespan discussed later. Common dolphins tend to stay closer to shore, and the hosts discuss dolphins they saw near a lagoon.",
+      "topics": [
+        "dolphin lifespan",
+        "common dolphin",
+        "dolphins near shore"
+      ]
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:08:40",
+      "kind": "content",
+      "title": "Evolution from land mammals to dolphins",
+      "summary": "Dolphins descended from Pakicetus, a wolf-sized four-legged land mammal about fifty million years ago. Dolphins are more closely related to hippos than to sea lions or otters. Embryonic dolphins briefly develop limbs.",
+      "topics": [
+        "dolphin evolution",
+        "Pakicetus",
+        "whale and dolphin origins",
+        "vestigial limbs"
+      ]
+    },
+    {
+      "start": "00:08:40",
+      "end": "00:10:20",
+      "kind": "content",
+      "title": "Reproduction and nursing",
+      "summary": "Dolphins are placental mammals that bear live young after pregnancies of about ten to eighteen months. Orcas, which are dolphins, have the longest gestation at about eighteen months. Calves nurse for up to two years and stay with mothers for years. Dolphins nurse underwater by rolling the tongue into a straw shape.",
+      "topics": [
+        "dolphin reproduction",
+        "dolphin nursing",
+        "orca gestation",
+        "dolphin milk"
+      ]
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:12:10",
+      "kind": "content",
+      "title": "Dolphin milk taste",
+      "summary": "Lilian Eichelberger reportedly tasted dolphin milk in 1940 and described it as fishy, oily, and lacking sweetness.",
+      "topics": [
+        "dolphin milk",
+        "Lilian Eichelberger"
+      ]
+    },
+    {
+      "start": "00:12:10",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Swimming, fins, blubber and tail anatomy",
+      "summary": "Dolphins are streamlined and swim often. Pectoral fins made of cartilage steer, the dorsal fin provides stability, and horizontal flukes move the tail up and down. Blubber provides buoyancy, insulation, and an energy reserve.",
+      "topics": [
+        "dolphin anatomy",
+        "pectoral fins",
+        "dolphin flukes",
+        "blubber",
+        "dolphin vs shark"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:20",
+      "kind": "content",
+      "title": "Porpoising and the Weapons movie tangent",
+      "summary": "Dolphins leap in and out of the water, a behavior called porpoising, which penguins also do. The hosts briefly discuss the movie Weapons.",
+      "topics": [
+        "porpoising",
+        "penguins swimming",
+        "Weapons movie"
+      ]
+    },
+    {
+      "start": "00:15:20",
+      "end": "00:17:10",
+      "kind": "content",
+      "title": "Blowhole, breathing and spout",
+      "summary": "The blowhole connects directly to the lungs and can be opened and closed with a nasal plug. Dolphins breathe five or six times a minute and can hold their breath for a few minutes. They are air-breathing mammals and cannot drown in the usual sense. The spout forms as warm breath condenses in cold air.",
+      "topics": [
+        "dolphin blowhole",
+        "dolphin breathing",
+        "dolphin spout",
+        "dolphin breath holding"
+      ]
+    },
+    {
+      "start": "00:17:10",
+      "end": "00:18:20",
+      "kind": "content",
+      "title": "Unihemispheric sleep",
+      "summary": "Dolphins sleep with one brain hemisphere at a time, keeping the other alert to avoid predators and keep swimming. The hosts link this to the Zizians episode.",
+      "topics": [
+        "unihemispheric sleep",
+        "dolphin sleep",
+        "sleeping with one eye open"
+      ]
+    },
+    {
+      "start": "00:18:20",
+      "end": "00:18:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:20:20",
+      "kind": "content",
+      "title": "Dolphin eyesight",
+      "summary": "Dolphins have two eyes on the sides of the head giving nearly 300-degree panoramic vision with a blind spot above. Their double-slit pupils adjust to light, and they can see up to about 150 feet.",
+      "topics": [
+        "dolphin eyesight",
+        "dolphin vision",
+        "dolphin pupils"
+      ]
+    },
+    {
+      "start": "00:20:20",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Teeth, diet and feeding",
+      "summary": "Dolphins have cone-shaped teeth and eat fish, crustaceans, and squid. They swallow prey headfirst and can bite off spiny heads of fish like catfish.",
+      "topics": [
+        "dolphin diet",
+        "dolphin teeth",
+        "dolphin feeding"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:23:05",
+      "kind": "content",
+      "title": "Hearing, earwax layers and echolocation hearing",
+      "summary": "Dolphins have vestigial ear canals plugged with earwax. Earwax layers can be examined like tree rings to estimate age and reveal pollutants and hormone changes. Dolphins hear high-frequency sound through their lower jaw and acoustic fats.",
+      "topics": [
+        "dolphin hearing",
+        "dolphin earwax",
+        "acoustic fats",
+        "dolphin jaw hearing"
+      ]
+    },
+    {
+      "start": "00:23:05",
+      "end": "00:24:10",
+      "kind": "content",
+      "title": "Sonar harm and Arabian Sea strandings",
+      "summary": "Naval sonar harms dolphins. In 2009, about two hundred dolphins stranded during a multinational naval exercise in the Arabian Sea.",
+      "topics": [
+        "naval sonar dolphins",
+        "dolphin strandings",
+        "Arabian Sea 2009"
+      ]
+    },
+    {
+      "start": "00:24:10",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Vocalizations, phonic lips, larynx and melon",
+      "summary": "Dolphins make whistles, pops, and brays using phonic lips near the blowhole and a larynx. The melon, a fatty forehead structure, focuses sound like a lens.",
+      "topics": [
+        "dolphin vocalizations",
+        "phonic lips",
+        "melon",
+        "dolphin sounds"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:26:10",
+      "kind": "content",
+      "title": "Signature whistles and baby talk",
+      "summary": "Dolphins use signature whistles to identify themselves and locate each other. Mothers use higher-frequency baby talk with calves.",
+      "topics": [
+        "signature whistles",
+        "dolphin baby talk",
+        "dolphin communication"
+      ]
+    },
+    {
+      "start": "00:26:10",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Echolocation",
+      "summary": "Dolphins use echolocation, convergent with bats, producing clicks focused by the melon and building a mental map from returning echoes. Studies show they distinguish disc sizes differing by one tenth of a centimeter. They can reportedly see internal organs of other animals.",
+      "topics": [
+        "dolphin echolocation",
+        "convergent evolution",
+        "bats and dolphins",
+        "dolphin sonar"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:28:50",
+      "kind": "content",
+      "title": "Predator movie tangent",
+      "summary": "Brief tangent about the Predator movies and the Alien universe after the mention of heat-based vision.",
+      "topics": [
+        "Predator movie",
+        "Alien franchise"
+      ]
+    },
+    {
+      "start": "00:28:50",
+      "end": "00:30:05",
+      "kind": "content",
+      "title": "Dolphin pods and social structure",
+      "summary": "Dolphin pods range from two to a thousand, usually forty to sixty. Pod types include juvenile pods, bachelor pods, and family pods, with advantages for hunting, defense, and passing knowledge.",
+      "topics": [
+        "dolphin pods",
+        "bachelor pods",
+        "dolphin social structure",
+        "dolphin social behavior"
+      ]
+    },
+    {
+      "start": "00:30:05",
+      "end": "00:31:10",
+      "kind": "content",
+      "title": "Male coalitions, abduction of females, and altruism",
+      "summary": "Males sometimes team up to steal and keep a female from another pod, since females are unavailable to breed during long gestation and lactation. Dolphins also show altruism, such as a group of eleven dolphins supporting an injured companion in the mid-2000s.",
+      "topics": [
+        "dolphin mating competition",
+        "dolphin abduction of females",
+        "dolphin altruism",
+        "dolphin raft rescue"
+      ]
+    },
+    {
+      "start": "00:31:10",
+      "end": "00:32:19",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Second break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:32:19",
+      "end": "00:34:20",
+      "kind": "content",
+      "title": "Play, teasing, and sexual behavior",
+      "summary": "Dolphins play, tease fish, and porpoise in ship wakes for thrills. Male bachelor pods form lifelong friendships and show non-conceptive sexual behavior. Captive dolphins are reported to engage in masturbation, including using objects.",
+      "topics": [
+        "dolphin play",
+        "non-conceptive sexual behavior",
+        "dolphin behavior",
+        "captive dolphin behavior"
+      ]
+    },
+    {
+      "start": "00:34:20",
+      "end": "00:37:10",
+      "kind": "content",
+      "title": "Dolphin intelligence, John C. Lilly, and Peter and Margaret Howe Lovatt",
+      "summary": "John C. Lilly in the 1960s argued dolphins were nearly as intelligent as humans, and conducted invasive experiments. In 1963 he paired a woman, Margaret Howe Lovatt, with a dolphin named Peter in a flooded apartment. The project ended when funding dried up, Peter was separated from Margaret, and he died by sinking to the bottom and not breathing.",
+      "topics": [
+        "John C. Lilly",
+        "Peter dolphin",
+        "Margaret Howe Lovatt",
+        "dolphin language experiments",
+        "dolphin intelligence"
+      ]
+    },
+    {
+      "start": "00:37:10",
+      "end": "00:38:40",
+      "kind": "content",
+      "title": "Dolphin intelligence debate and tool use",
+      "summary": "Hosts argue against comparing animal intelligence to humans. Some bottlenose dolphins use sponges as tools while foraging, learned within pods, which fits criteria for culture.",
+      "topics": [
+        "dolphin tool use",
+        "dolphin sponge tool",
+        "animal culture",
+        "dolphin intelligence"
+      ]
+    },
+    {
+      "start": "00:38:40",
+      "end": "00:41:20",
+      "kind": "content",
+      "title": "Captivity, dolphin entertainment and mortality",
+      "summary": "Dolphin entertainment dates to the 1800s and grew after the TV show Flipper in the 1960s. Mortality rates in captivity are disputed between SeaWorld research and former employees. A 1988 study found about half of captive dolphins die within ninety days of capture. SeaWorld stopped breeding orcas in 2016 after Blackfish. Critics say captive research distorts behavior.",
+      "topics": [
+        "dolphin captivity",
+        "Flipper TV show",
+        "SeaWorld",
+        "Blackfish",
+        "captive dolphin mortality",
+        "dolphin shows"
+      ]
+    },
+    {
+      "start": "00:41:20",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "US Navy marine mammal program and Tiaw",
+      "summary": "The US Navy started its Marine Mammal Program in 1959 and uses dolphins to find mines and track swimmers. A dolphin named Tiaw killed a man in Brazil in 1994.",
+      "topics": [
+        "US Navy marine mammal program",
+        "military dolphins",
+        "mine detection dolphins",
+        "Tiaw dolphin"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:44:50",
+      "kind": "content",
+      "title": "Dolphin watching and boat impacts",
+      "summary": "Dolphin watching can disturb dolphins, especially with feeding, too many boats, and collisions. Responsible operators follow time and distance limits.",
+      "topics": [
+        "dolphin watching",
+        "boat disturbance dolphins",
+        "dolphin feeding"
+      ]
+    },
+    {
+      "start": "00:44:50",
+      "end": "00:46:15",
+      "kind": "content",
+      "title": "US laws and dolphin-safe tuna",
+      "summary": "The Marine Mammal Protection Act of 1972 bans eating dolphin in the US. Dolphin-safe tuna labels such as pole caught and troll caught reduce bycatch risk.",
+      "topics": [
+        "Marine Mammal Protection Act",
+        "dolphin-safe tuna",
+        "tuna bycatch",
+        "dolphin protection laws"
+      ]
+    },
+    {
+      "start": "00:46:15",
+      "end": "00:47:26",
+      "kind": "content",
+      "title": "Chicken of the Sea tangent",
+      "summary": "Light conversation about Chicken of the Sea tuna and a reality TV show, with Chuck and Josh talking about past viewing.",
+      "topics": [
+        "Chicken of the Sea",
+        "tangent"
+      ]
+    },
+    {
+      "start": "00:47:26",
+      "end": "00:49:05",
+      "kind": "content",
+      "title": "Dolphin drive hunts and bycatch statistics",
+      "summary": "Drive hunts in Taiji, Japan and the Faroe Islands kill dolphins; The Cove and Sea Spiracy document them. A 2020 study estimated large bycatch in the Indian Ocean. Ghost fishing gear also kills marine life.",
+      "topics": [
+        "Taiji dolphin hunt",
+        "The Cove",
+        "Faroe Islands grind",
+        "Sea Spiracy",
+        "dolphin bycatch",
+        "ghost fishing"
+      ]
+    },
+    {
+      "start": "00:49:05",
+      "end": "00:49:42",
+      "kind": "outro",
+      "title": "Closing thoughts on dolphins",
+      "summary": "Josh recaps dolphin mothers using whistles for baby talk and dolphins playing, then transitions to listener mail.",
+      "topics": [
+        "dolphin recap"
+      ]
+    },
+    {
+      "start": "00:49:42",
+      "end": "00:51:50",
+      "kind": "listener_mail",
+      "title": "Listener mail: VW Lemon ad",
+      "summary": "A listener named Lori, an advertising copywriter, explains the VW Lemon ad: the car had a scratch on the glove compartment and fine print explained that. The insight for the VW Beetle is that you don't buy a Beetle, you adopt it.",
+      "topics": [
+        "Volkswagen Lemon ad",
+        "advertising",
+        "VW Beetle"
+      ]
+    },
+    {
+      "start": "00:50:58",
+      "end": "00:52:18",
+      "kind": "listener_mail",
+      "title": "Correction: Zizians episode and Eliezer Yudkowsky",
+      "summary": "Josh corrects the Zizians episode: Eliezer Yudkowsky did not throw in the towel. His forthcoming book If Anyone Builds It, Everyone Dies argues there is still time to build friendly AI. The correction came from Malo Borgan, CEO of the Machine Intelligence Research Institute.",
+      "topics": [
+        "Zizians correction",
+        "Eliezer Yudkowsky",
+        "Machine Intelligence Research Institute",
+        "AI alignment"
+      ]
+    },
+    {
+      "start": "00:52:18",
+      "end": "00:53:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck and Josh close with contact information and the show's credits.",
+      "topics": [
+        "outro",
+        "contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20890,
+    "output_tokens": 6737
+  }
+}

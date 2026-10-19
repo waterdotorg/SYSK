@@ -1,0 +1,143 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-05-12_Short_Stuff_Garter_Snakes_11min.txt",
+  "title": "Short Stuff: Garter Snakes",
+  "date": "2021-05-12",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-garter-snakes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5acb8587-8727-456c-a02c-ae280019e0b2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5acb8587-8727-456c-a02c-ae280019e0b2/transcript?format=TextWithTimestamps&t=1700543593",
+  "summary": "Short Stuff episode on the garter snake. The hosts describe garter snakes as harmless to humans despite mild neurotoxic venom, shy, and helpful in gardens because they eat pests like slugs, snails, insects and rodents. They discuss the name origin (the sock-garter explanation from biologist Doug Wexler versus the German word \"garten\" for garden, with \"garden snake\" as an alternate name), the state reptile of Massachusetts, the range across North America, size and appearance (three stripes, about 35 species), the single garter snake found in Alaska in 2005 and the Journal of Herpetology study, defensive behavior like biting and musk, and how to tell venomous snakes by head shape and rattling. They advise against taking wild garter snakes home, noting captive breeding for pets.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "garter snake",
+    "garter snakes",
+    "garter snake venom",
+    "neurotoxic venom",
+    "harmless snakes",
+    "garden snake",
+    "gardener's friend",
+    "garter snake name origin",
+    "sock garter theory",
+    "Doug Wexler",
+    "Massachusetts state reptile",
+    "garter snake range North America",
+    "garter snake diet pests",
+    "garter snake defense musk",
+    "snake head shape venomous",
+    "Alaska snakes",
+    "Journal of Herpetology Alaska garter snake",
+    "snakes as pets",
+    "garter snake as pets",
+    "pest control in gardens"
+  ],
+  "entities": [
+    {
+      "name": "Garter snake",
+      "type": "other"
+    },
+    {
+      "name": "Doug Wexler",
+      "type": "person"
+    },
+    {
+      "name": "Massachusetts",
+      "type": "place"
+    },
+    {
+      "name": "Alaska",
+      "type": "place"
+    },
+    {
+      "name": "Journal of Herpetology",
+      "type": "work"
+    },
+    {
+      "name": "Academy of Natural Sciences at Drexel University",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and garter snake harmlessness",
+      "summary": "The hosts open with banter, then say garter snakes are harmless to humans and helpful in gardens. They note the snakes have mild neurotoxic venom that does not affect people, and that they are shy.",
+      "topics": [
+        "garter snake",
+        "harmless snakes",
+        "neurotoxic venom",
+        "garter snake venom"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Name origin: garter snake vs. garden snake",
+      "summary": "The hosts discuss why the snake is called a garter snake. They dispute biologist Doug Wexler's sock garter explanation and favor the idea that the name comes from the German word for garden. They note the alternate name garden or gardener's snake.",
+      "topics": [
+        "garter snake name origin",
+        "sock garter theory",
+        "garden snake",
+        "Doug Wexler"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "07:00",
+      "kind": "content",
+      "title": "Range, appearance, and the Alaska snake",
+      "summary": "The hosts cover the garter snake's status as Massachusetts's state reptile and its wide range across North America. They describe its size, weight, and three-stripe look, and note there are about 35 species. They then discuss a garter snake found dead on an Alaska road in 2005 and the Journal of Herpetology DNA study on its origin.",
+      "topics": [
+        "Massachusetts state reptile",
+        "garter snake range",
+        "garter snake size and appearance",
+        "Alaska snakes",
+        "Journal of Herpetology"
+      ]
+    },
+    {
+      "start": "07:00",
+      "end": "09:30",
+      "kind": "content",
+      "title": "Garden helpers, handling, and pets",
+      "summary": "The hosts explain that garter snakes eat slugs, snails, insects and rodents, making them useful in gardens. They say the snakes are good for introducing kids to snakes. They advise against taking wild ones home, though captive-bred garter snakes are sold as pets.",
+      "topics": [
+        "garter snake diet pests",
+        "pest control in gardens",
+        "snakes as pets",
+        "garter snake as pets"
+      ]
+    },
+    {
+      "start": "09:30",
+      "end": "10:40",
+      "kind": "content",
+      "title": "Defensive behavior and identifying venomous snakes",
+      "summary": "The hosts describe garter snakes' defenses: biting, and releasing a foul musk and feces when handled. They give a rule of thumb that a head about the same size as the body suggests a non-venomous snake, and warn about diamond-shaped heads and rattling tails.",
+      "topics": [
+        "garter snake defense musk",
+        "snake head shape venomous",
+        "rattlesnake warning signs"
+      ]
+    },
+    {
+      "start": "10:40",
+      "end": "11:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck has nothing more to add. Josh closes the short stuff segment and asks listeners to be kind to garter snakes.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4926,
+    "output_tokens": 1726
+  }
+}

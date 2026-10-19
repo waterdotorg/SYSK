@@ -1,0 +1,217 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-05-05_How_Therapeutic_Hypothermia_Works_49min.txt",
+  "title": "How Therapeutic Hypothermia Works",
+  "date": "2015-05-05",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-therapeutic-hypothermia-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f9a5339d-7b93-49e0-9b3f-ae28008ea1a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f9a5339d-7b93-49e0-9b3f-ae28008ea1a2/transcript?format=TextWithTimestamps&t=1700543860",
+  "summary": "Josh and Chuck explain therapeutic hypothermia (also called medically induced hypothermia or targeted temperature management): its history from Napoleonic-era battlefield observations through Dr. Temple Fay, Dr. Peter Safar, NASA-era suspended animation work, and the Nazi hypothermia experiments and their ethical legacy. They cover the physiology of why cooling slows metabolism and protects the brain after cardiac arrest, stroke, or infant encephalopathy, including the reperfusion injury cascade. The episode describes the three phases (induction, maintenance, rewarming), risks such as shivering, arrhythmia, blood clots, and ice crystal formation, and the rewarming rate. It also covers hibernation (torpor, lemurs, animals' red blood cell and white blood cell cycling), Mitsutaka Uchikoshi's 24-day hypothermic survival, battlefield and trauma uses, Dr. Sam Tisherman's emergency preservation work, and the heart-lung machine. The episode ends with a listener mail segment about satire and social change.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "therapeutic hypothermia",
+    "medically induced hypothermia",
+    "targeted temperature management",
+    "suspended animation",
+    "cardiac arrest",
+    "brain damage prevention",
+    "hypothermia history",
+    "Temple Fay",
+    "Peter Safar",
+    "NASA hypothermia research",
+    "Nazi hypothermia experiments",
+    "hibernation",
+    "torpor",
+    "heart-lung machine",
+    "reperfusion injury",
+    "rewarming",
+    "emergency preservation and resuscitation",
+    "Sam Tisherman",
+    "neonatal encephalopathy",
+    "cold water survival",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Temple Fay",
+      "type": "person"
+    },
+    {
+      "name": "Peter Safar",
+      "type": "person"
+    },
+    {
+      "name": "James Lovelock",
+      "type": "person"
+    },
+    {
+      "name": "Sam Tisherman",
+      "type": "person"
+    },
+    {
+      "name": "Mitsutaka Uchikoshi",
+      "type": "person"
+    },
+    {
+      "name": "Dachau",
+      "type": "place"
+    },
+    {
+      "name": "University of Maryland",
+      "type": "organization"
+    },
+    {
+      "name": "University of Pittsburgh",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "U.S. Army",
+      "type": "organization"
+    },
+    {
+      "name": "heart-lung machine",
+      "type": "other"
+    },
+    {
+      "name": "Napoleonic Wars",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "Josh and Chuck joke about cold puns in the source article, office illness, and a live blood type episode bonus. Josh introduces therapeutic hypothermia and mentions the Mosaic article that first introduced him to it.",
+      "topics": [
+        "therapeutic hypothermia",
+        "live show bonus",
+        "Mosaic article"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "History of cooling for medical use",
+      "summary": "Early observations of wounded soldiers on battlefields in the Napoleonic era who did better when left in the cold. Dr. Temple Fay's early work in the 1930s using ice baths and open windows on traumatic brain injury patients, and Dr. Peter Safar's 1950s-60s work on stroke, cardiac arrest, and infant encephalopathy.",
+      "topics": [
+        "Napoleonic Wars battlefield cold",
+        "Temple Fay",
+        "Peter Safar",
+        "traumatic brain injury hypothermia",
+        "neonatal encephalopathy"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Nazi experiments and hypothermia's bad reputation",
+      "summary": "Hypothermia research was tainted by Nazi experiments, including at Dachau, on unwilling subjects. Debate over whether the recorded data could be ethically used, and the finding that it was poorly kept. Japanese wartime experiments are also mentioned briefly.",
+      "topics": [
+        "Nazi hypothermia experiments",
+        "Dachau",
+        "research ethics",
+        "wartime experiments"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "NASA, suspended animation, and Lovelock's hamsters",
+      "summary": "Space Race-era NASA interest in suspended animation for cosmic ray protection and long space travel. James Lovelock froze and revived hamsters. The hosts distinguish modern cooling from suspended animation.",
+      "topics": [
+        "NASA suspended animation",
+        "James Lovelock hamsters",
+        "space travel hypothermia",
+        "suspended animation"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Cold survival cases and the 'warm and dead' principle",
+      "summary": "The Norwegian skier who was submerged under ice for 80 minutes and recovered fully. The hosts explain that danger lies in warming too rapidly in the wrong way, not in cold exposure itself, and that there is no such thing as a cold dead body.",
+      "topics": [
+        "cold water survival",
+        "hypothermia survival cases",
+        "rewarming danger",
+        "no such thing as a cold dead body"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "How cooling slows metabolism",
+      "summary": "Explanation of normal core body temperature and how therapeutic hypothermia lowers metabolic rate, reducing oxygen and energy demand so the body works at a slower pace without being altered otherwise. Methods range from ice packs to chilled saline.",
+      "topics": [
+        "metabolic rate",
+        "core body temperature",
+        "cooling methods",
+        "chilled saline"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Applications: heart-lung machine, cardiac arrest, and brain damage",
+      "summary": "Hypothermia can be used as an intervention or prevention. It can extend operating time, as an alternative to the heart-lung machine, whose blood-contact problems are mentioned. It is also used after cardiac arrest when circulation returns but consciousness does not, to limit brain damage from glutamate release, free radicals, and inflammatory swelling during reperfusion.",
+      "topics": [
+        "heart-lung machine",
+        "cardiac arrest",
+        "return of spontaneous circulation",
+        "reperfusion injury",
+        "glutamate excitotoxicity",
+        "brain swelling"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Induction, maintenance, rewarming, and risks",
+      "summary": "The three phases of therapeutic hypothermia: induction (sedation and paralytics to stop shivering, ice packs or chilled saline, fast cooling to avoid ice crystals), maintenance, and slow rewarming around 0.15 to 0.5 degrees Celsius per hour. Risks include arrhythmia, electrolyte loss, pneumonia, hyperthermia, and blood clots, with hibernating animals' blood cell behavior noted as a possible research lead.",
+      "topics": [
+        "induction maintenance rewarming",
+        "shivering",
+        "ice crystal formation",
+        "rewarming rate",
+        "blood clotting risk",
+        "arrhythmia"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Hibernation, torpor, and closing listener mail",
+      "summary": "Hibernation and torpor in animals, including a lemur found to hibernate in 2004, and the Uchikoshi case of a man who survived 24 days in hypothermic suspended state. The episode then covers Sam Tisherman's emergency preservation work, and a listener mail reply about satire and social change, with sign-off.",
+      "topics": [
+        "hibernation",
+        "torpor",
+        "lemur hibernation",
+        "Mitsutaka Uchikoshi",
+        "Sam Tisherman",
+        "listener mail",
+        "satire"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15969,
+    "output_tokens": 2814
+  }
+}

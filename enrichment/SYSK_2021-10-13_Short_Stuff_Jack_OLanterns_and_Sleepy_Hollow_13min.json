@@ -1,0 +1,116 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-10-13_Short_Stuff_Jack_OLanterns_and_Sleepy_Hollow_13min.txt",
+  "title": "Short Stuff: Jack O'Lanterns and Sleepy Hollow",
+  "date": "2021-10-13",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-jack-olanterns-and-sleepy-hollow",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/91c4b000-fa6a-49e2-b0f0-ae2800071689/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/91c4b000-fa6a-49e2-b0f0-ae2800071689/transcript?format=TextWithTimestamps&t=1700539654",
+  "summary": "Short Stuff episode for Halloween that covers two linked topics. First, the Irish legend of Stingy Jack, the drinking companion who tricked the devil into a coin and then into a tree, and who was left wandering with a burning coal in a carved turnip, giving rise to the Jack-o'-lantern (with the hosts noting the turnip, potato, beet, and American pumpkin variations). Second, Washington Irving's \"The Legend of Sleepy Hollow,\" covering the Headless Horseman, Ichabod Crane, the real Sleepy Hollow in Westchester County, New York, real local landmarks Irving wove in, the possible real Colonel Ichabod Crane, and the Hessian mercenary who lost his head to a cannonball at the Battle of White Plains in 1776, plus influences like the Grimm Brothers, Sir Walter Scott's \"The Chase,\" and Gottfried Bürger's \"The Wild Huntsman.\"",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Jack-o'-lantern",
+    "Stingy Jack",
+    "Irish legend",
+    "Halloween folklore",
+    "pumpkin carving",
+    "The Legend of Sleepy Hollow",
+    "Washington Irving",
+    "Headless Horseman",
+    "Ichabod Crane",
+    "Sleepy Hollow New York",
+    "Battle of White Plains",
+    "Hessian mercenaries",
+    "American ghost stories",
+    "Grimm Brothers",
+    "Sir Walter Scott",
+    "The Chase",
+    "Wild Huntsman",
+    "Gottfried Bürger",
+    "Halloween"
+  ],
+  "entities": [
+    {
+      "name": "Stingy Jack",
+      "type": "person"
+    },
+    "Washington Irving",
+    "Ichabod Crane",
+    "Katrina van Tassel",
+    "Headless Horseman",
+    "Sleepy Hollow",
+    "Westchester County",
+    "Battle of White Plains",
+    "Hessian mercenaries",
+    "Grimm Brothers",
+    "Sir Walter Scott",
+    "Gottfried Bürger",
+    "The Legend of Sleepy Hollow",
+    "The Chase",
+    "The Wild Huntsman",
+    "Colonel Ichabod B. Crane",
+    "Fort Pitt"
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:40",
+      "kind": "intro",
+      "title": "Opening banter and the Stingy Jack legend",
+      "summary": "The hosts open the Halloween-themed short episode and recount the Irish legend of Stingy Jack, who tricked the devil into becoming a coin and later into climbing a tree, then was refused entry to both heaven and hell and wandered with a burning coal in a carved turnip, which became the Jack-o'-lantern.",
+      "topics": [
+        "Stingy Jack",
+        "Jack-o'-lantern",
+        "Irish legend",
+        "devil bargain",
+        "Halloween folklore"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "The Legend of Sleepy Hollow and the Headless Horseman",
+      "summary": "The hosts describe Washington Irving's story set in Sleepy Hollow, New York, where schoolmaster Ichabod Crane is rebuffed by Katrina van Tassel and chased by the Headless Horseman, who throws a pumpkin that knocks Crane off his horse. Crane is never heard from again.",
+      "topics": [
+        "The Legend of Sleepy Hollow",
+        "Headless Horseman",
+        "Ichabod Crane",
+        "Washington Irving",
+        "Sleepy Hollow New York"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:40",
+      "kind": "content",
+      "title": "Real history and folklore behind the story",
+      "summary": "The hosts discuss real places Irving used, a possible real Colonel Ichabod Crane, the Hessian mercenary who lost his head to a cannonball at the Battle of White Plains in 1776, and earlier headless horseman tales from the Grimm Brothers, Sir Walter Scott's The Chase, and Gottfried Bürger's The Wild Huntsman.",
+      "topics": [
+        "Battle of White Plains",
+        "Hessian mercenaries",
+        "Grimm Brothers",
+        "Sir Walter Scott",
+        "The Wild Huntsman",
+        "headless horseman folklore"
+      ]
+    },
+    {
+      "start": "00:12:40",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts recommend listeners read Irving's story and close the episode with a plug for the show.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5463,
+    "output_tokens": 1616
+  }
+}

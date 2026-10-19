@@ -1,0 +1,240 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-04-09_Whats_the_deal_with_blood_types_60min.txt",
+  "title": "What's the deal with blood types?",
+  "date": "2015-04-09",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-blood-types",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fec040af-4509-4f3a-824b-ae28008f8507/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fec040af-4509-4f3a-824b-ae28008f8507/transcript?format=TextWithTimestamps&t=1700543861",
+  "summary": "Josh and Chuck explore blood types, starting with the failed history of blood transfusions (animal blood, Jean-Baptiste Denis, James Blundell's human transfusions, milk injections) and Karl Landsteiner's discovery of the A, B, O blood groups. They explain antigens and antibodies, universal donors and recipients, the Rh factor and its link to mother-fetus incompatibility, other blood group systems, secretor status, and the Bombay phenotype. They cover how blood types vary across populations and may relate to disease resistance, blood types in animals, a documented case of a blood type change, Peter D'Adamo's Blood Type Diet, Japanese blood type personality theory, and a listener mail story about Rudolph Diesel.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "blood types",
+    "ABO blood group",
+    "Karl Landsteiner",
+    "blood transfusion history",
+    "James Blundell",
+    "Rh factor",
+    "universal donor",
+    "universal recipient",
+    "antigens and antibodies",
+    "hemolytic anemia",
+    "mother-fetus incompatibility",
+    "secretor non-secretor",
+    "Bombay phenotype",
+    "blood type diet",
+    "Peter D'Adamo",
+    "Japanese blood type personality theory",
+    "blood types and disease susceptibility",
+    "animal blood types",
+    "Rudolph Diesel",
+    "milk transfusion"
+  ],
+  "entities": [
+    {
+      "name": "Karl Landsteiner",
+      "type": "person"
+    },
+    {
+      "name": "James Blundell",
+      "type": "person"
+    },
+    {
+      "name": "Jean-Baptiste Denis",
+      "type": "person"
+    },
+    {
+      "name": "Carl Zimmer",
+      "type": "person"
+    },
+    {
+      "name": "Peter D'Adamo",
+      "type": "person"
+    },
+    {
+      "name": "Furukawa",
+      "type": "person"
+    },
+    {
+      "name": "Rudolph Diesel",
+      "type": "person"
+    },
+    {
+      "name": "Bombay phenotype",
+      "type": "other"
+    },
+    {
+      "name": "Rh factor",
+      "type": "other"
+    },
+    {
+      "name": "ABO blood group system",
+      "type": "other"
+    },
+    {
+      "name": "Eat Right for Your Type",
+      "type": "work"
+    },
+    {
+      "name": "American Red Cross",
+      "type": "organization"
+    },
+    {
+      "name": "Decree of Chantilly",
+      "type": "event"
+    },
+    {
+      "name": "Mosaic",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and blood type small talk",
+      "summary": "Josh and Chuck joke about Jerry's blood type, share that they don't know their blood types, and banter about birthdays and famous deaths before introducing the topic.",
+      "topics": [
+        "blood types",
+        "dog tags"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Early blood transfusion history",
+      "summary": "Early beliefs about blood as a vital life force led to bloodletting and attempts at transfusion using animal blood. Jean-Baptiste Denis's animal-blood transfusions ended badly, leading to a French decree banning transfusions.",
+      "topics": [
+        "blood transfusion history",
+        "Jean-Baptiste Denis",
+        "Decree of Chantilly",
+        "animal blood transfusion",
+        "bloodletting"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "James Blundell and human transfusions",
+      "summary": "British physician James Blundell invented a transfusion device and tried human-to-human transfusions, with four of ten patients surviving. The hosts note he lacked a way to prevent reactions.",
+      "topics": [
+        "James Blundell",
+        "human blood transfusion",
+        "transfusion device",
+        "early transfusion success rate"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Milk transfusions detour",
+      "summary": "In the mid-nineteenth century, doctors in North America tried injecting milk (cow, goat, human) into patients, with dangerous results. Patients were also given morphine and whiskey.",
+      "topics": [
+        "milk transfusion",
+        "nineteenth century medicine",
+        "transfusion reactions"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Karl Landsteiner discovers ABO groups",
+      "summary": "Landsteiner mixed blood samples from healthy people and observed clumping, identifying the A, B and O groups; he initially labeled them A, B and C. The hosts describe plasma and his modest quote about the findings.",
+      "topics": [
+        "Karl Landsteiner",
+        "ABO blood group",
+        "agglutination",
+        "plasma"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Antigens, antibodies and compatibility",
+      "summary": "Blood types are defined by antigens on red blood cells. A has A antigens and anti-B antibodies, B the reverse, AB has both, and O has neither. O is the universal donor and AB the universal recipient. The hosts cover the Red Cross donation chart and immune hemolytic anemia.",
+      "topics": [
+        "antigens",
+        "antibodies",
+        "universal donor",
+        "universal recipient",
+        "blood type compatibility",
+        "immune hemolytic anemia"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Rh factor and mother-fetus incompatibility",
+      "summary": "The Rh factor is a protein antigen named after the rhesus monkey. Rh-negative mothers carrying Rh-positive babies can develop immune responses, a risk that is now treatable. Rh-positive is more common than negative.",
+      "topics": [
+        "Rh factor",
+        "Rh negative",
+        "Rh positive",
+        "mother-fetus incompatibility",
+        "rhesus monkey"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Other blood groups, secretors and blood type frequency",
+      "summary": "At least twenty-two blood group systems exist, including Diego, Kell and Duffy. Blood types were used in early paternity testing and are heritable. Secretor status and ABO frequencies by population are discussed.",
+      "topics": [
+        "blood group systems",
+        "secretor status",
+        "paternity testing",
+        "blood type frequency",
+        "ABO gene inheritance"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:59:00",
+      "kind": "content",
+      "title": "Blood types and disease, Bombay phenotype, and blood type changes",
+      "summary": "Blood types are linked to differing disease susceptibility, possibly due to historical epidemics. The Bombay phenotype is a rare type lacking H antigen. Researchers have explored enzymes that convert blood types, and a girl's blood type changed after a liver transplant.",
+      "topics": [
+        "blood types and disease susceptibility",
+        "Bombay phenotype",
+        "blood type conversion",
+        "epigenetics",
+        "liver transplant"
+      ]
+    },
+    {
+      "start": "00:59:00",
+      "end": "01:02:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off, mention the website and social channels.",
+      "topics": [
+        "podcast sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19353,
+    "output_tokens": 2555
+  }
+}

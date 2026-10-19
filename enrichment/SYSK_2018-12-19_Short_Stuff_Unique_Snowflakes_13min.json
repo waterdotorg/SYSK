@@ -1,0 +1,131 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-12-19_Short_Stuff_Unique_Snowflakes_13min.txt",
+  "title": "Short Stuff: Unique Snowflakes",
+  "date": "2018-12-19",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-unique-snowflakes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/15468f1f-fb9d-4a96-b7c0-ae2800566860/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/15468f1f-fb9d-4a96-b7c0-ae2800566860/transcript?format=TextWithTimestamps&t=1700543714",
+  "summary": "Short Stuff episode on whether snowflakes are unique. The hosts explain that snowflakes begin as small hexagonal ice plates formed when water vapor condenses and freezes around a nucleus like a dust particle, then grow through deposition as vapor freezes onto arms. Temperature and humidity shape the crystal (colder and more humid yields more intricate, fern-like flakes; drier air yields flatter ones). Collisions, broken arms, and local variations in air make each flake's path unique. They cite an estimate of combinations exceeding the number of atoms in the universe and conclude that no two snowflakes are alike. They close with contact information for the show.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "snowflakes",
+    "unique snowflakes",
+    "snowflake formation",
+    "snow crystals",
+    "water vapor deposition",
+    "dew point",
+    "nucleation",
+    "hexagonal ice crystals",
+    "snowflake shape and temperature",
+    "humidity and snowflake shape",
+    "atoms in the universe comparison",
+    "snow physics",
+    "short stuff"
+  ],
+  "entities": [
+    {
+      "name": "snowflake",
+      "type": "other"
+    },
+    {
+      "name": "National Geographic",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter on snowflakes being unique",
+      "summary": "Hosts introduce the short episode on the saying that every snowflake is unique and joke about the term snowflake.",
+      "topics": [
+        "snowflakes",
+        "unique snowflakes",
+        "snowflake insult slang"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "How snowflakes start: water vapor and the template",
+      "summary": "Water evaporates, rises as vapor, and condenses around dust or a nucleus, then freezes into a small six-sided hexagonal plate, the template all snowflakes start from.",
+      "topics": [
+        "water cycle",
+        "dew point",
+        "nucleation",
+        "hexagonal ice plate",
+        "water vapor condensation"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before the discussion of later formation.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Deposition and growing arms",
+      "summary": "Water vapor goes straight to ice through deposition and attaches to the plate, forming arms and detailed structure layer by layer.",
+      "topics": [
+        "deposition",
+        "snowflake growth",
+        "snow crystal arms",
+        "ice crystal layers"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Temperature and humidity shape snowflakes",
+      "summary": "Jagged edges attract more vapor and build intricate fern-like arms. Colder temperatures and higher humidity produce the most detailed flakes, while lower humidity yields flatter flakes and higher humidity fatter ones.",
+      "topics": [
+        "snowflake shape and temperature",
+        "humidity and snowflake shape",
+        "fern-like snow crystals",
+        "snow crystal growth"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Variables and the odds of two identical snowflakes",
+      "summary": "Collisions, broken arms, and differing air conditions at each small location add variables. Hosts cite an estimate of combinations exceeding the number of atoms in the universe and argue identical snowflakes are effectively impossible.",
+      "topics": [
+        "snowflake variables",
+        "atoms in the universe comparison",
+        "collisions between snowflakes",
+        "probability of identical snowflakes"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Closing and contact information",
+      "summary": "Hosts summarize that no two snowflakes are alike and give the website and email for listener contact.",
+      "topics": [
+        "show contact information",
+        "snowflakes"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5092,
+    "output_tokens": 1456
+  }
+}

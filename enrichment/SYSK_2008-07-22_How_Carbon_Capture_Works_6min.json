@@ -1,0 +1,132 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-07-22_How_Carbon_Capture_Works_6min.txt",
+  "title": "How Carbon Capture Works",
+  "date": "2008-07-22",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-carbon-capture-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b0f22cb1-a9d0-4c79-95f5-ae2800c39fd7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0f22cb1-a9d0-4c79-95f5-ae2800c39fd7/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh Clark and Chuck Bryant discuss carbon capture and storage. They explain that carbon dioxide is a natural part of the carbon cycle and that the problem is the rapid release of CO2 from digging up and burning fossil fuels. They describe three capture methods: pre-combustion, post-combustion, and oxy-fuel combustion, and claim a power plant with a self-sustaining capture system can run with 8 percent or less CO2 emissions. For storage they cover the abyssal plane, the deep, cold, high-pressure seafloor about two and a half miles down, where liquefied CO2 would be negatively buoyant and sink to the bottom. They mention a late-1990s group whose beaker experiment produced a lava-lamp-like gloss, and Dr. David Keith's idea of storing CO2 in giant bags on the seafloor, which he estimated could hold two days' worth of anthropogenic emissions. They close by suggesting captured carbon might someday be used to synthesize fossil fuel, and plug HowStuffWorks articles on CO2 capture and storage.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "carbon capture",
+    "carbon capture and storage",
+    "CO2 capture",
+    "carbon dioxide storage",
+    "carbon sequestration",
+    "abyssal plane",
+    "deep ocean CO2 storage",
+    "pre-combustion capture",
+    "post-combustion capture",
+    "oxy-fuel combustion",
+    "carbon cycle",
+    "anthropogenic carbon dioxide emissions",
+    "fossil fuel emissions",
+    "liquefied carbon dioxide",
+    "David Keith",
+    "climate change",
+    "greenhouse gas",
+    "synthetic fossil fuel",
+    "power plant emissions"
+  ],
+  "entities": [
+    {
+      "name": "Dr. David Keith",
+      "type": "person"
+    },
+    {
+      "name": "abyssal plane",
+      "type": "place"
+    },
+    {
+      "name": "Titanic",
+      "type": "work"
+    },
+    {
+      "name": "carbon dioxide",
+      "type": "other"
+    },
+    {
+      "name": "carbon capture and storage",
+      "type": "other"
+    },
+    {
+      "name": "carbon cycle",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter and carbon dioxide reputation",
+      "summary": "Hosts introduce the show and joke that carbon dioxide gets a bad rap. They say the problem is human-made CO2 emissions, distinguished from the natural carbon cycle.",
+      "topics": [
+        "carbon dioxide",
+        "carbon cycle",
+        "anthropogenic emissions",
+        "fossil fuel emissions"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "Three methods of carbon capture",
+      "summary": "They describe capturing carbon before burning (pre-combustion), after burning (post-combustion), and oxy-fuel combustion using nearly pure oxygen. They say a power plant with a self-sustaining capture system can run with 8 percent or less CO2 emissions.",
+      "topics": [
+        "carbon capture",
+        "pre-combustion capture",
+        "post-combustion capture",
+        "oxy-fuel combustion",
+        "power plant emissions"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:15",
+      "kind": "content",
+      "title": "Storing CO2 on the abyssal plane",
+      "summary": "The hosts describe the abyssal plane, about two and a half miles deep, as a dark, cold, high-pressure setting suited to storage. They explain that liquefied CO2 there should be negatively buoyant and sink to the seafloor.",
+      "topics": [
+        "abyssal plane",
+        "deep ocean CO2 storage",
+        "liquefied carbon dioxide",
+        "carbon sequestration"
+      ]
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Experiments and bag-storage proposal",
+      "summary": "A late-1990s group's beaker test of liquefied CO2 produced a lava-lamp-like gloss. Dr. David Keith proposed storing CO2 in giant bags on the seafloor, which he estimated could hold two days of anthropogenic emissions. The bags would connect via existing CO2 pipeline technology.",
+      "topics": [
+        "David Keith",
+        "CO2 storage bags",
+        "CO2 pipeline",
+        "carbon capture and storage"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Synthetic fuel idea and sign-off",
+      "summary": "The hosts speculate captured carbon could one day be used to synthesize fossil fuel. They point listeners to HowStuffWorks articles on CO2 capture and storage.",
+      "topics": [
+        "synthetic fossil fuel",
+        "CO2 capture and storage",
+        "HowStuffWorks articles"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3405,
+    "output_tokens": 1710
+  }
+}

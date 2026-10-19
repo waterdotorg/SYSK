@@ -1,0 +1,191 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-02-24_Can_people_really_die_of_fright_18min.txt",
+  "title": "Can people really die of fright?",
+  "date": "2009-02-24",
+  "duration": "18 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-people-really-die-of-fright",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bfb97713-8a76-42d8-8b14-ae2800c0b9f9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bfb97713-8a76-42d8-8b14-ae2800c0b9f9/transcript?format=TextWithTimestamps&t=1700543993",
+  "summary": "Josh and Chuck explore whether people can die of fright. They open with Jerry's near-death scares and a brief overview of fight-or-flight and adrenaline. They discuss sudden death, neurocardiology and Dr. Martin Samuels's work on contraction bands in the heart, plus the Baskerville Effect named after Conan Doyle's Hound of the Baskervilles. They cover a study of unlucky-fourth-of-the-month deaths in China and Japan, the 1994 Northridge earthquake spike in sudden deaths, and Walter Cannon's 1942 voodoo death paper. They debunk the idea that fear turns hair white overnight, and close with listener mail corrections (Diving Bell and Butterfly, hypoallergenic cats as a breed not a species, yeast as a fungus).",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "scared to death",
+    "sudden death",
+    "fight or flight",
+    "adrenaline",
+    "neurocardiology",
+    "Martin Samuels",
+    "contraction bands",
+    "Baskerville Effect",
+    "Hound of the Baskervilles",
+    "unlucky number four",
+    "Northridge earthquake",
+    "voodoo death",
+    "Walter Cannon",
+    "hair turning white from fear",
+    "alopecia areata",
+    "listener mail",
+    "Diving Bell and Butterfly",
+    "hypoallergenic cats",
+    "yeast fungus"
+  ],
+  "entities": [
+    {
+      "name": "Martin Samuels",
+      "type": "person"
+    },
+    {
+      "name": "Walter Cannon",
+      "type": "person"
+    },
+    {
+      "name": "Arthur Conan Doyle",
+      "type": "person"
+    },
+    {
+      "name": "Molly Edmonds",
+      "type": "person"
+    },
+    {
+      "name": "Northridge earthquake",
+      "type": "event"
+    },
+    {
+      "name": "The Hound of the Baskervilles",
+      "type": "work"
+    },
+    {
+      "name": "Diving Bell and Butterfly",
+      "type": "work"
+    },
+    {
+      "name": "China and Japan",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Jerry's near-death scares",
+      "summary": "Josh and Chuck introduce the episode, recounting producer Jerry's frightening experiences, including an elevator drop in Atlanta. They give a brief overview of fight-or-flight and adrenaline and introduce the idea of sudden death.",
+      "topics": [
+        "fight or flight",
+        "adrenaline",
+        "scared to death"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Sudden death and neurocardiology",
+      "summary": "They define sudden death and discuss neurocardiology and Dr. Martin Samuels, who studies the link between fear and the heart. Because animal and experimental testing is unethical, he relies on anecdotal evidence from hearts of people who died suddenly. He found contraction bands, red stripes of heart lesions caused by adrenaline, which also appear in cocaine users.",
+      "topics": [
+        "sudden death",
+        "neurocardiology",
+        "Martin Samuels",
+        "contraction bands",
+        "adrenaline and heart damage"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Contraction bands and the Baskerville Effect",
+      "summary": "They discuss how contraction bands grow more severe the longer time passes between an accident and death, and how adrenaline links to them. They introduce the Baskerville Effect, named after the heart attack in Conan Doyle's The Hound of the Baskervilles.",
+      "topics": [
+        "contraction bands",
+        "Baskerville Effect",
+        "Arthur Conan Doyle",
+        "The Hound of the Baskervilles"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Unlucky fourth of the month in China and Japan",
+      "summary": "A study of death certificates in China and Japan found higher mortality on the fourth of the month, since the number four sounds like the word for death. Those with heart disease, especially hospitalized patients, showed increased deaths compared with a white control group.",
+      "topics": [
+        "unlucky number four",
+        "superstition and mortality",
+        "China and Japan",
+        "heart disease"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Northridge earthquake sudden death spike",
+      "summary": "On the day of the Northridge earthquake, Los Angeles saw twenty-four sudden deaths, against a normal of about five. Most were attributed to fright rather than physical exertion, though the victims were on the older side and few had prior heart disease.",
+      "topics": [
+        "Northridge earthquake",
+        "sudden death spike",
+        "fright and heart"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Voodoo death and Walter Cannon",
+      "summary": "They describe Walter Cannon's 1942 paper arguing that sudden death was more common where voodoo was practiced, and that belief in being hexed could lead people to die. Cannon, a Harvard physiologist, is credited with starting the modern study of sudden death.",
+      "topics": [
+        "voodoo death",
+        "Walter Cannon",
+        "belief and death",
+        "sudden death research"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Fear and hair turning white",
+      "summary": "They debunk the idea that hair can turn white overnight from fear. Stress may affect hair color through metabolic change, but not overnight. Sudden graying-looking hair loss comes from alopecia areata, and dead hair cells cannot change color.",
+      "topics": [
+        "hair turning white",
+        "fear and hair color",
+        "alopecia areata",
+        "urban myth"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:17:30",
+      "kind": "listener_mail",
+      "title": "Listener mail and corrections",
+      "summary": "Corrections cover the Diving Bell and Butterfly memoir, which was blinked letter by letter to a transcriber rather than typed on a computer. Also covered are hypoallergenic cats, which are a new breed rather than a new species, and yeast, which is a fungus.",
+      "topics": [
+        "listener mail",
+        "corrections",
+        "Diving Bell and Butterfly",
+        "hypoallergenic cats",
+        "yeast fungus"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:18:00",
+      "kind": "outro",
+      "title": "Sign-off and related articles",
+      "summary": "The hosts point listeners to the Molly Edmonds article this episode is based on, the stuff Mom Never Told You podcast, and related Friday the 13th and urban legend content on the website.",
+      "topics": [
+        "website search",
+        "podcast promotion",
+        "Friday the 13th"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6987,
+    "output_tokens": 2344
+  }
+}

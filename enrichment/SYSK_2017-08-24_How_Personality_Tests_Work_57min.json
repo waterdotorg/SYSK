@@ -1,0 +1,257 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-08-24_How_Personality_Tests_Work_57min.txt",
+  "title": "How Personality Tests Work",
+  "date": "2017-08-24",
+  "duration": "57 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-personality-tests-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fb11d459-b5a7-4e81-a5cd-ae2800726bf5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fb11d459-b5a7-4e81-a5cd-ae2800726bf5/transcript?format=TextWithTimestamps&t=1700543799",
+  "summary": "Josh and Chuck examine personality tests, focusing on the Myers-Briggs Type Indicator (MBTI). They trace personality typing from the ancient four humors through Carl Jung's psychological types, the Briggs mother-daughter development of the MBTI during and after World War Two, and the CPP publishing and certification model. They contrast projective tests (Rorschach) with objective inventories, cover the Big Five traits, psychometrics and validity/reliability, the MMPI and its norming criticism, the Barnum/Forer effect, and criticisms of using these tests for hiring. A listener email about anxiety, TV, and relaxation closes the episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "personality tests",
+    "Myers-Briggs Type Indicator",
+    "MBTI",
+    "Myers-Briggs criticism",
+    "Carl Jung psychological types",
+    "four humors",
+    "Katherine Cook Briggs",
+    "Isabelle Briggs Myers",
+    "Big Five personality traits",
+    "projective tests",
+    "objective personality tests",
+    "Rorschach inkblot test",
+    "MMPI Minnesota Multiphasic Personality Inventory",
+    "psychometrics",
+    "validity and reliability in testing",
+    "Barnum effect",
+    "Forer effect",
+    "type A and type B personality",
+    "personality test in hiring",
+    "CPP certification",
+    "John Exner comprehensive system",
+    "introversion and extroversion",
+    "pseudoscience",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Myers-Briggs Type Indicator",
+      "type": "work"
+    },
+    {
+      "name": "Carl Jung",
+      "type": "person"
+    },
+    {
+      "name": "Katherine Cook Briggs",
+      "type": "person"
+    },
+    {
+      "name": "Isabelle Briggs Myers",
+      "type": "person"
+    },
+    {
+      "name": "Rorschach test",
+      "type": "work"
+    },
+    {
+      "name": "Minnesota Multiphasic Personality Inventory",
+      "type": "work"
+    },
+    {
+      "name": "Consulting Psychologists Press",
+      "type": "organization"
+    },
+    {
+      "name": "John Exner",
+      "type": "person"
+    },
+    {
+      "name": "Hippocrates",
+      "type": "person"
+    },
+    {
+      "name": "Alfred Binet",
+      "type": "person"
+    },
+    {
+      "name": "Bertram Forer",
+      "type": "person"
+    },
+    {
+      "name": "Howard Garb",
+      "type": "person"
+    },
+    {
+      "name": "Big Five personality traits",
+      "type": "other"
+    },
+    {
+      "name": "Psychological Types",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening and Myers-Briggs introduction",
+      "summary": "The hosts recall taking the Myers-Briggs test at work and introduce the MBTI as a widespread corporate personality inventory, with personality categorization framed as an old idea.",
+      "topics": [
+        "Myers-Briggs Type Indicator",
+        "personality tests",
+        "corporate personality testing"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Four humors and early personality types",
+      "summary": "The hosts describe the ancient four humors (black bile, yellow bile, phlegm, blood) and their linked temperaments: melancholic, phlegmatic, sanguine, choleric. They criticize the idea that people fit one type.",
+      "topics": [
+        "four humors",
+        "temperament theory",
+        "Hippocrates",
+        "melancholic personality"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Carl Jung and the origins of introversion",
+      "summary": "Carl Jung's book Psychological Types introduced the four functions of sensation, intuition, thinking, and feeling and the introvert and extrovert concepts. The hosts note Jung's relationship with Freud and the parallel movement to quantify psychology.",
+      "topics": [
+        "Carl Jung",
+        "Psychological Types",
+        "introversion and extroversion",
+        "psychoanalysis",
+        "quantifying psychology"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Briggs mother and daughter develop the MBTI",
+      "summary": "Katherine Cook Briggs and her daughter Isabelle Briggs Myers developed a type indicator building on Jung, aiming to match women entering the workforce after World War Two with suitable jobs. Publishing shifted to CPP over time.",
+      "topics": [
+        "Katherine Cook Briggs",
+        "Isabelle Briggs Myers",
+        "MBTI history",
+        "World War Two workforce",
+        "Consulting Psychologists Press"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Types of personality tests and the Big Five",
+      "summary": "Personality assessments are divided into projective tests (Rorschach) and objective standardized inventories. The Big Five traits are extraversion, agreeableness, openness, conscientiousness, and neuroticism, with the hosts noting a sketch of personality needs more than these traits.",
+      "topics": [
+        "projective tests",
+        "objective tests",
+        "Big Five personality traits",
+        "neuroticism",
+        "agreeableness"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Psychometrics, validity, reliability, and faking",
+      "summary": "Psychometric tests use many questions and spectrum scoring to produce bell-curve distributions. Validity and reliability are key measures, and the MMPI is said to detect faking.",
+      "topics": [
+        "psychometrics",
+        "validity and reliability",
+        "faking detection",
+        "bell curve scoring"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "How the MBTI works and its certification",
+      "summary": "The MBTI sorts people into sixteen types across four dichotomies: introversion/extraversion, sensing/intuition, thinking/feeling, judging/perceiving. Test questions and word pairs are described, and CPP certification costs and training are covered. The hosts discuss their own results and the type A/type B origin.",
+      "topics": [
+        "sixteen personality types",
+        "MBTI dichotomies",
+        "CPP certification",
+        "type A and type B personality",
+        "MBTI test questions"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Criticisms of MBTI and corporate use",
+      "summary": "Critics say MBTI lacks scientific basis, that its dichotomies are spectrums forced into categories, and that its scales are entangled. Corporate use for hiring and firing is criticized, though the MBTI makers discourage it. Rorschach and the Exner comprehensive system are also covered.",
+      "topics": [
+        "MBTI criticism",
+        "pseudoscience",
+        "hiring and firing with personality tests",
+        "Rorschach criticism",
+        "John Exner comprehensive system"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "MMPI and the Barnum effect",
+      "summary": "The MMPI was built on a control group of sane family and staff, and critics call it invasive and culturally narrow. The Barnum (Forer) effect shows people accept generic positive personality descriptions as accurate.",
+      "topics": [
+        "MMPI",
+        "Barnum effect",
+        "Forer effect",
+        "horoscopes and personality tests"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:56:30",
+      "kind": "listener_mail",
+      "title": "Listener mail on anxiety and TV",
+      "summary": "A listener from the UK describes reducing anxiety by abandoning television and suggests an episode on TV's effects on society.",
+      "topics": [
+        "listener mail",
+        "anxiety",
+        "television effects"
+      ]
+    },
+    {
+      "start": "00:56:30",
+      "end": "00:57:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "The hosts thank listeners and give social media and website contact information.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17190,
+    "output_tokens": 2786
+  }
+}

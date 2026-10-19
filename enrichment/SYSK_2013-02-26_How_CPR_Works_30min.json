@@ -1,0 +1,213 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-02-26_How_CPR_Works_30min.txt",
+  "title": "How CPR Works",
+  "date": "2013-02-26",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-cpr-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/83587c04-972c-42ba-8a02-ae2800a1f80a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/83587c04-972c-42ba-8a02-ae2800a1f80a/transcript?format=TextWithTimestamps&t=1700543906",
+  "summary": "Josh and Chuck explain the basics of CPR, starting with an urging to take a certified CPR class (American Heart Association, heart.org). They distinguish sudden cardiac arrest from heart attack, explain the sinoatrial node's role in heart rhythm, and describe how defibrillators work (they stop the heart so it can reset). They cover the history of resuscitation (Elisha in the Bible, 1740 Paris Academy recommendation of mouth-to-mouth for drowning, 1891 chest compressions by Dr. Frederick Maass, Dr. George Crile's 1904 report, Peter Safar and James Elam, 1960s CPR development). They walk through checking responsiveness, the 2010 switch from ABC to CAB, hands-only CPR for untrained rescuers, compression depth and rate (one to two inches, about 100 per minute, hummed to \"Staying Alive\"), infant CPR, moving a victim safely, Good Samaritan laws, and the low rate of bystander CPR in low-income neighborhoods. A listener mail from Dan in Austin describes his 16-year-old daughter's sudden cardiac arrest and recommends cardiac screening for children, citing Championship Hearts Foundation.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "CPR",
+    "cardiopulmonary resuscitation",
+    "hands-only CPR",
+    "sudden cardiac arrest",
+    "heart attack vs cardiac arrest",
+    "defibrillator",
+    "AED",
+    "chest compressions",
+    "rescue breathing",
+    "CAB method",
+    "ABC method change 2010",
+    "Good Samaritan laws",
+    "infant CPR",
+    "sinoatrial node",
+    "history of CPR",
+    "American Heart Association",
+    "cardiac screening for children",
+    "bystander CPR disparities",
+    "Staying Alive CPR rhythm",
+    "resuscitation"
+  ],
+  "entities": [
+    {
+      "name": "American Heart Association",
+      "type": "organization"
+    },
+    {
+      "name": "American Red Cross",
+      "type": "organization"
+    },
+    {
+      "name": "Mayo Clinic",
+      "type": "organization"
+    },
+    {
+      "name": "Championship Hearts Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Paris Academy of Sciences",
+      "type": "organization"
+    },
+    {
+      "name": "Peter Safar",
+      "type": "person"
+    },
+    {
+      "name": "James Elam",
+      "type": "person"
+    },
+    {
+      "name": "Frederick Maass",
+      "type": "person"
+    },
+    {
+      "name": "George Crile",
+      "type": "person"
+    },
+    {
+      "name": "Staying Alive",
+      "type": "work"
+    },
+    {
+      "name": "Seinfeld",
+      "type": "work"
+    },
+    {
+      "name": "Freakonomics",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and CPR class plug",
+      "summary": "The hosts open the show and urge listeners to get certified in CPR through the American Heart Association's heart.org, noting this episode is not a substitute for a real class.",
+      "topics": [
+        "CPR class",
+        "American Heart Association",
+        "CPR certification"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Sudden cardiac arrest vs. heart attack",
+      "summary": "The sinoatrial node sets the heart's rhythm. When it goes haywire, the heart stops pumping effectively, causing sudden cardiac arrest, which differs from a heart attack that develops slowly. Survival odds for sudden cardiac arrest are about five percent.",
+      "topics": [
+        "sudden cardiac arrest",
+        "heart attack vs cardiac arrest",
+        "sinoatrial node",
+        "heart rhythm",
+        "survival rate"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "How defibrillators work",
+      "summary": "A defibrillator delivers a shock that turns the heart off so it can reset to a normal rhythm, rather than restarting it. Users should be trained before using one.",
+      "topics": [
+        "defibrillator",
+        "AED",
+        "defibrillation",
+        "shock"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "History of CPR",
+      "summary": "Early resuscitation history: the Elisha Bible account, the 1740 Paris Academy recommendation of mouth-to-mouth for drowning, 1891 chest compressions by Dr. Frederick Maass, Dr. George Crile's 1904 report, and Peter Safar and James Elam's modern CPR in the 1950s and 1960s.",
+      "topics": [
+        "history of CPR",
+        "mouth-to-mouth",
+        "resuscitation history",
+        "Peter Safar",
+        "James Elam"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Checking a victim and choosing CPR type",
+      "summary": "Check responsiveness and breathing, and roll a victim onto a firm surface while protecting the neck. Untrained rescuers should do hands-only CPR; trained but rusty rescuers should still lean toward hands-only; trained and confident rescuers can do full CPR with breaths. The 2010 change moved from ABC to CAB, and pulse checks were dropped for rescuers.",
+      "topics": [
+        "checking responsiveness",
+        "hands-only CPR",
+        "ABC to CAB",
+        "pulse check",
+        "moving a victim",
+        "neck injury"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Chest compression technique and infant CPR",
+      "summary": "Adults: heel of hand in center of chest between nipples, elbows locked, compress one to two inches at about 100 per minute, with 'Staying Alive' suggested as a tempo guide. Infants: two fingers, about one and a half inches, same rate, supporting the head. Compressions circulate oxygenated blood rather than restart the heart; rescue breathing adds oxygen.",
+      "topics": [
+        "chest compressions",
+        "compression rate",
+        "Staying Alive tempo",
+        "infant CPR",
+        "rescue breathing",
+        "oxygenated blood"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Good Samaritan laws, disease risk, and CPR disparities",
+      "summary": "Good Samaritan laws protect voluntary rescuers, with some states extending protection to untrained helpers. Disease transmission from mouth-to-mouth is considered rare. Freakonomics data show bystander CPR is less common in low-income and some Black neighborhoods. Hosts discuss fear and panic as barriers.",
+      "topics": [
+        "Good Samaritan laws",
+        "lawsuit fears",
+        "disease transmission",
+        "bystander CPR rates",
+        "panic during emergencies"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:41:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Dan in Austin on pediatric sudden cardiac arrest",
+      "summary": "Dan writes that his healthy sixteen-year-old daughter died of sudden cardiac arrest while playing in their backyard. He urges screening for children and recommends Championship Hearts Foundation, which offers low-cost cardiac screening in Central Texas.",
+      "topics": [
+        "listener mail",
+        "pediatric sudden cardiac arrest",
+        "child cardiac screening",
+        "Championship Hearts Foundation"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts point listeners to heart.org for CPR courses and give contact info for submitting stories.",
+      "topics": [
+        "show contact",
+        "CPR course"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10554,
+    "output_tokens": 2657
+  }
+}

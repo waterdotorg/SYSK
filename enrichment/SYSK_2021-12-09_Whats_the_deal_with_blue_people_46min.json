@@ -1,0 +1,255 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-12-09_Whats_the_deal_with_blue_people_46min.txt",
+  "title": "What's the deal with blue people?",
+  "date": "2021-12-09",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-blue-people",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd2c5dbc-26e0-4ed6-a215-ae270188cdef/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd2c5dbc-26e0-4ed6-a215-ae270188cdef/transcript?format=TextWithTimestamps&t=1700539648",
+  "summary": "Josh and Chuck explore blue people: the Fugate family of Troublesome Creek, Kentucky, whose inherited methemoglobinemia (a blood disorder, not a skin condition) turned them blue; how Dr. Madison Cawein identified the condition and treated it with methylene blue; the mechanics of methemoglobin and the NADH cytochrome b5 reductase enzyme; argyria from colloidal silver (Paul Karason, Stan Jones, Rosemary Jacobs) and the lack of evidence for colloidal silver; and a brief look at how skin color changes over generations with UV exposure. The episode closes with a listener mail from Mark praising the show's Mr. Nobody/vaccine episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "blue people",
+    "methemoglobinemia",
+    "Fugate family",
+    "Troublesome Creek Kentucky",
+    "blue skin",
+    "argyria",
+    "colloidal silver",
+    "silver poisoning",
+    "methylene blue",
+    "Madison Cawein",
+    "cytochrome b5 reductase",
+    "hemoglobin vs methemoglobin",
+    "why blood is red",
+    "melanin",
+    "vitiligo",
+    "skin color and UV exposure",
+    "silver as antibiotic",
+    "Paul Karason",
+    "Stan Jones",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Fugate family",
+      "type": "organization"
+    },
+    {
+      "name": "Martin Fugate",
+      "type": "person"
+    },
+    {
+      "name": "Elizabeth Smith Fugate",
+      "type": "person"
+    },
+    {
+      "name": "Troublesome Creek",
+      "type": "place"
+    },
+    {
+      "name": "Hazard County",
+      "type": "place"
+    },
+    {
+      "name": "Madison Cawein",
+      "type": "person"
+    },
+    {
+      "name": "Ritchie family",
+      "type": "organization"
+    },
+    {
+      "name": "methemoglobinemia",
+      "type": "other"
+    },
+    {
+      "name": "argyria",
+      "type": "other"
+    },
+    {
+      "name": "colloidal silver",
+      "type": "other"
+    },
+    {
+      "name": "Paul Karason",
+      "type": "person"
+    },
+    {
+      "name": "Stan Jones",
+      "type": "person"
+    },
+    {
+      "name": "Rosemary Jacobs",
+      "type": "person"
+    },
+    {
+      "name": "methylene blue",
+      "type": "other"
+    },
+    {
+      "name": "Michael Jackson",
+      "type": "person"
+    },
+    {
+      "name": "vitiligo",
+      "type": "other"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "type": "person"
+    },
+    {
+      "name": "Alex Jones",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and live show plug",
+      "summary": "Josh plugs an upcoming live show at SF Sketch Fest and the hosts chat about the year's pace before naming sources.",
+      "topics": [
+        "SF Sketch Fest",
+        "live show",
+        "sources"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:02:10",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "The Fugate family and blue skin",
+      "summary": "The hosts introduce the Fugate family of Troublesome Creek, Kentucky. Martin Fugate, from France, married Elizabeth Smith, and their descendants, through intermarriage, had blue skin. The hosts discuss the genetics and the isolation of the family.",
+      "topics": [
+        "Fugate family",
+        "blue people",
+        "Troublesome Creek",
+        "inbreeding",
+        "Kentucky Appalachia"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:08:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Methemoglobinemia and melanin",
+      "summary": "The condition is named as methemoglobinemia, a blood disorder rather than a skin condition. The hosts contrast it with melanin-related disorders such as vitiligo and touch on Michael Jackson's claim. They explain why blood is red through hemoglobin and heme.",
+      "topics": [
+        "methemoglobinemia",
+        "melanin",
+        "vitiligo",
+        "why blood is red",
+        "hemoglobin"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:14:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Methemoglobin and the reductase enzyme",
+      "summary": "Methemoglobin has oxidized iron that cannot bind oxygen, so blood can turn blue. The body uses NADH cytochrome b5 reductase to convert it back to hemoglobin; the Fugates have reduced levels of this enzyme, and a blue tint appears at roughly one percent methemoglobin.",
+      "topics": [
+        "methemoglobin",
+        "cytochrome b5 reductase",
+        "oxygen transport",
+        "iron oxidation"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:19:30",
+      "end": "00:20:30",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:20:30",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Dr. Madison Cawein and the cure",
+      "summary": "Cawein, a hematologist at the University of Kentucky, searched out the blue families near Troublesome Creek and Hazard County, met the Ritchie siblings, and found the condition in an Inuit population in Alaska. He treated the Ritchie kids with methylene blue, and their color returned within minutes. Today a daily methylene blue pill can treat it.",
+      "topics": [
+        "Madison Cawein",
+        "methylene blue",
+        "Ritchie family",
+        "treatment",
+        "Hazard County",
+        "hematologist"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:27:30",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Argyria and colloidal silver",
+      "summary": "Argyria turns skin silvery or blue from excess silver. Paul Karason, who drank and applied homemade colloidal silver, became a well-known case, as did Stan Jones and Rosemary Jacobs. Silver deposits are irreversible. The hosts note the lack of evidence that colloidal silver works and the risk of silver-resistant microbes.",
+      "topics": [
+        "argyria",
+        "colloidal silver",
+        "Paul Karason",
+        "silver poisoning",
+        "silver resistance",
+        "supplements"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:36:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "History of silver as medicine",
+      "summary": "Silver was used historically as an antimicrobial, including by Cyrus the Great and monks treating ulcers and burns. Silver nitrate was used in infant eye drops until the sixties, then was reclassified as a supplement after the FDA stopped it being marketed as medicine.",
+      "topics": [
+        "silver medicine history",
+        "silver nitrate",
+        "antimicrobial",
+        "FDA supplements"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:41:00",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "Skin color changes over generations",
+      "summary": "Research shows that skin color can shift within as few as about a hundred generations, driven by UV exposure and melanin production. The hosts say this supports that race is a social construct.",
+      "topics": [
+        "skin pigmentation evolution",
+        "UV exposure",
+        "melanin",
+        "race social construct"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:43:30",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Mark",
+      "summary": "Mark, who works in healthcare IT, writes about the Mr. Nobody vaccine episode and how it helped him. The hosts thank him and note that people with methemoglobinemia can blush blue.",
+      "topics": [
+        "listener mail",
+        "vaccine episode feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15071,
+    "output_tokens": 2645
+  }
+}

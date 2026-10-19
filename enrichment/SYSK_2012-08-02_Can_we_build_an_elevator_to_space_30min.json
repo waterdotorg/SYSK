@@ -1,0 +1,228 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-08-02_Can_we_build_an_elevator_to_space_30min.txt",
+  "title": "Can we build an elevator to space?",
+  "date": "2012-08-02",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-we-build-an-elevator-to-space-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cbab5f78-2d6e-4bbc-b818-ae2800a66fb0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cbab5f78-2d6e-4bbc-b818-ae2800a66fb0/transcript?format=TextWithTimestamps&t=1700543915",
+  "summary": "Hosts Josh Clark and Chuck Bryant open with banter about celebrity news (Snoop Dogg's son and P. Diddy's son football scholarships) and the end of the Space Shuttle program in 2011. They then discuss the space elevator concept: a carbon nanotube ribbon anchored to an offshore platform in the Pacific with a counterweight in space, cost per pound compared to the shuttle, carbon nanotube manufacturing limits, power via lasers and photovoltaic cells, space debris and active avoidance, LiftPort and a lunar version, and the history from Tsiolkovsky to Arthur C. Clarke's Fountains of Paradise. The episode closes with a listener mail follow-up about the Dead Sea and the Great Salt Lake, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "space elevator",
+    "carbon nanotubes",
+    "graphene",
+    "space shuttle program",
+    "space shuttle retirement",
+    "cost per pound to orbit",
+    "space debris",
+    "orbital debris tracking",
+    "active avoidance",
+    "LiftPort",
+    "lunar space elevator",
+    "Arthur C. Clarke",
+    "Fountains of Paradise",
+    "Konstantin Tsiolkovsky",
+    "laser power beaming",
+    "counterweight",
+    "geostationary orbit",
+    "private space exploration",
+    "Dead Sea",
+    "Great Salt Lake",
+    "listener mail",
+    "Snoop Dogg",
+    "P. Diddy"
+  ],
+  "entities": [
+    {
+      "name": "Space Shuttle",
+      "type": "other"
+    },
+    {
+      "name": "Columbia",
+      "type": "other"
+    },
+    {
+      "name": "Challenger",
+      "type": "event"
+    },
+    {
+      "name": "LiftPort",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Konstantin Tsiolkovsky",
+      "type": "person"
+    },
+    {
+      "name": "Arthur C. Clarke",
+      "type": "person"
+    },
+    {
+      "name": "Fountains of Paradise",
+      "type": "work"
+    },
+    {
+      "name": "Michio Kaku",
+      "type": "person"
+    },
+    {
+      "name": "Pacific Ocean",
+      "type": "place"
+    },
+    {
+      "name": "International Space Station",
+      "type": "other"
+    },
+    {
+      "name": "Dead Sea",
+      "type": "place"
+    },
+    {
+      "name": "Great Salt Lake",
+      "type": "place"
+    },
+    {
+      "name": "Nova",
+      "type": "work"
+    },
+    {
+      "name": "Jeff Bezos",
+      "type": "person"
+    },
+    {
+      "name": "Elon Musk",
+      "type": "person"
+    },
+    {
+      "name": "James Cameron",
+      "type": "person"
+    },
+    {
+      "name": "Snoop Dogg",
+      "type": "person"
+    },
+    {
+      "name": "P. Diddy",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter: celebrity scholarships and Snoop Dogg",
+      "summary": "Hosts chat about news that Snoop Dogg's son and P. Diddy's son received football scholarships, and trade anecdotes about a celebrity house visit. Transition to the space elevator topic.",
+      "topics": [
+        "Snoop Dogg",
+        "P. Diddy",
+        "athletic scholarships"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "End of the Space Shuttle program",
+      "summary": "Chuck raises the July 21, 2011 end of the Space Shuttle program. They discuss the shuttle's reusability, its launch record including Challenger, and that shuttle costs stayed about ten dollars per pound with missions costing about five million rather than the predicted fifty million.",
+      "topics": [
+        "space shuttle program",
+        "space shuttle retirement",
+        "reusable spacecraft",
+        "cost per pound to orbit"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Overview of the space elevator concept",
+      "summary": "Josh and Chuck introduce the space elevator: a carbon nanotube composite ribbon anchored to an offshore platform in the Pacific with a counterweight in space, used to send cargo up and down. They note that most components are feasible today except the long carbon nanotubes.",
+      "topics": [
+        "space elevator",
+        "counterweight",
+        "Pacific Ocean platform"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Carbon nanotubes and graphene",
+      "summary": "They describe graphene as a one-atom-thick carbon layer and carbon nanotubes as rolled graphene, stronger than steel at a fraction of the weight. They note nanotubes have been grown only to short lengths, around four centimeters for a record, and scientists do not fully understand how they grow.",
+      "topics": [
+        "carbon nanotubes",
+        "graphene",
+        "nanotube growth",
+        "material strength"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Building and deploying the ribbon and lifter",
+      "summary": "They discuss braiding shorter nanotube pieces into a ribbon, deploying it from orbit down to a platform while the counterweight is in space, and having a worker catch and anchor it. The lifter is a robotic climber that uses traction rollers and is powered by lasers hitting photovoltaic cells, moving at about 118 miles per hour.",
+      "topics": [
+        "space elevator ribbon",
+        "lifter",
+        "laser power beaming",
+        "photovoltaic cells",
+        "asteroid counterweight"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Uses, costs, space debris and avoidance",
+      "summary": "They discuss uses such as supplying the International Space Station, the projected cost of about two dollars per pound, and comparisons to the Transcontinental Railroad. They cover space debris in low Earth orbit, NORAD tracking limits of about ten centimeters, and active avoidance by moving the platform.",
+      "topics": [
+        "space debris",
+        "NORAD tracking",
+        "active avoidance",
+        "low Earth orbit",
+        "cost to orbit"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "LiftPort, lunar elevators, history and funding",
+      "summary": "They mention LiftPort shelving the Earth version to pursue a lunar version using zylon, the history from Tsiolkovsky through Arthur C. Clarke's Fountains of Paradise, and the view that private funders such as Jeff Bezos, Elon Musk and James Cameron may drive progress more than NASA.",
+      "topics": [
+        "LiftPort",
+        "lunar space elevator",
+        "Tsiolkovsky",
+        "Arthur C. Clarke",
+        "private space funding"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:30:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Dead Sea and Great Salt Lake",
+      "summary": "A listener follow-up on floating in the Dead Sea, with tips on staying afloat, followed by a listener email comparing the Dead Sea to the Great Salt Lake in Utah, noting shared features such as high salinity and being fed by freshwater lakes.",
+      "topics": [
+        "Dead Sea",
+        "Great Salt Lake",
+        "salinity",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10578,
+    "output_tokens": 2528
+  }
+}

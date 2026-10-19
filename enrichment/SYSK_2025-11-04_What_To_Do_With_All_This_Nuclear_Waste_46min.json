@@ -1,0 +1,323 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-11-04_What_To_Do_With_All_This_Nuclear_Waste_46min.txt",
+  "title": "What To Do With All This Nuclear Waste?",
+  "date": "2025-11-04",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-to-do-with-all-this-nuclear-waste",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/435274b6-1c38-4770-8b97-b38a01554047/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/435274b6-1c38-4770-8b97-b38a01554047/transcript?format=TextWithTimestamps&t=1762203267",
+  "summary": "Josh and Chuck (with the show's co-host voice, labeled iHeart Intro in the transcript) explain how nuclear waste is produced and managed. They cover reactor fuel assemblies, spent fuel pools and canals, dry casks, the Yucca Mountain repository and its cancellation, interim storage sites in New Mexico and Texas, Finland's Onkalo deep geological repository, low-level and transuranic waste (including the Waste Isolation Pilot Plant), decommissioning and discharge of cooling water, recycling and reprocessing startups such as Oklo, security concerns about plutonium and dirty bombs, transmutation, and vitrification. The episode ends with a listener mail request about inmate counsel in Louisiana as a possible short episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "nuclear waste",
+    "spent nuclear fuel",
+    "nuclear waste disposal",
+    "spent fuel pools",
+    "dry cask storage",
+    "Yucca Mountain",
+    "Onkalo Finland geological repository",
+    "deep geological repository",
+    "interim storage sites New Mexico Texas",
+    "low-level radioactive waste",
+    "transuranic waste",
+    "Waste Isolation Pilot Plant",
+    "nuclear reactor decommissioning",
+    "nuclear wastewater discharge",
+    "nuclear fuel recycling",
+    "reprocessing spent fuel",
+    "Oklo",
+    "nuclear waste security dirty bomb plutonium",
+    "transmutation nuclear waste",
+    "vitrification glass nuclear waste",
+    "MOX fuel",
+    "nuclear reactor fuel assemblies",
+    "half-life radioactive isotopes",
+    "nuclear semiotics",
+    "inmate counsel Louisiana"
+  ],
+  "entities": [
+    {
+      "name": "Yucca Mountain",
+      "type": "place"
+    },
+    {
+      "name": "Onkalo",
+      "type": "place"
+    },
+    {
+      "name": "Finland",
+      "type": "place"
+    },
+    {
+      "name": "Waste Isolation Pilot Plant",
+      "type": "place"
+    },
+    {
+      "name": "Surry Nuclear Power Plant",
+      "type": "place"
+    },
+    {
+      "name": "Oak Ridge, Tennessee",
+      "type": "place"
+    },
+    {
+      "name": "New Mexico",
+      "type": "place"
+    },
+    {
+      "name": "Nevada",
+      "type": "place"
+    },
+    {
+      "name": "Oklo",
+      "type": "organization"
+    },
+    {
+      "name": "Nuclear Regulatory Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Department of Energy",
+      "type": "organization"
+    },
+    {
+      "name": "If Anyone Builds It, Everyone Dies",
+      "type": "work"
+    },
+    {
+      "name": "Men at Work",
+      "type": "work"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    },
+    {
+      "name": "Angola prison",
+      "type": "place"
+    },
+    {
+      "name": "The Jailhouse Lawyer",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:12",
+      "kind": "intro",
+      "title": "Opening banter and Simpsons nuclear waste jokes",
+      "summary": "Hosts joke about the Simpsons' glowing green rod and describe nuclear waste as solid metal fuel pellets, then introduce the topic.",
+      "topics": [
+        "nuclear waste",
+        "spent nuclear fuel",
+        "uranium fuel pellets"
+      ]
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:05:05",
+      "kind": "content",
+      "title": "Scale of nuclear waste per person",
+      "summary": "Discussion of how little nuclear waste is produced compared with total nuclear power use, the hockey-puck comparison, and the roughly 90,000 tons in the US.",
+      "topics": [
+        "nuclear waste quantity",
+        "nuclear waste per person",
+        "spent nuclear fuel"
+      ]
+    },
+    {
+      "start": "00:05:05",
+      "end": "00:08:25",
+      "kind": "content",
+      "title": "How nuclear reactors work and spent fuel pools",
+      "summary": "Explains that reactors boil water to drive turbines using fuel assemblies kept underwater, and that spent fuel is moved by canal to spent fuel pools where it cools for years.",
+      "topics": [
+        "how nuclear reactors work",
+        "fuel assemblies",
+        "spent fuel pools",
+        "nuclear reactor cooling"
+      ]
+    },
+    {
+      "start": "00:08:25",
+      "end": "00:11:14",
+      "kind": "content",
+      "title": "Fuel replacement and cooling",
+      "summary": "Reactors replace about a third of fuel assemblies every year and a half to two years; spent fuel stays in pools for two to five years because exposure to air could cause fires and release cesium-137.",
+      "topics": [
+        "refueling cycle",
+        "spent fuel cooling",
+        "cesium-137"
+      ]
+    },
+    {
+      "start": "00:11:14",
+      "end": "00:15:01",
+      "kind": "content",
+      "title": "Dry cask storage and Surry",
+      "summary": "Describes the move from pools to dry casks, the first US dry storage at Surry in Virginia in 1986, cask design with inert gas and concrete, and the roughly 100-year design life.",
+      "topics": [
+        "dry cask storage",
+        "Surry Nuclear Power Plant",
+        "concrete storage casks",
+        "nuclear storage lifespan"
+      ]
+    },
+    {
+      "start": "00:15:01",
+      "end": "00:17:18",
+      "kind": "content",
+      "title": "Yucca Mountain and interim storage in New Mexico and Texas",
+      "summary": "Covers the NRC review of consolidated interim storage sites, the Yucca Mountain project cancelled in 2010 after Nevada opposition, and the capacity and filling timeline of the New Mexico site.",
+      "topics": [
+        "Yucca Mountain",
+        "interim storage",
+        "consolidated interim storage",
+        "US nuclear waste policy"
+      ]
+    },
+    {
+      "start": "00:17:18",
+      "end": "00:17:41",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:17:41",
+      "end": "00:23:52",
+      "kind": "content",
+      "title": "Onkalo deep geological repository in Finland",
+      "summary": "Describes Finland's Onkalo repository about 1,430 feet underground, copper-coated canisters, bentonite clay sealing, capacity for 3,000 canisters, and the debate over how long waste stays dangerous.",
+      "topics": [
+        "Onkalo",
+        "Finland nuclear waste",
+        "geological repository",
+        "bentonite",
+        "radioactive half-life"
+      ]
+    },
+    {
+      "start": "00:23:52",
+      "end": "00:26:23",
+      "kind": "content",
+      "title": "Low-level and transuranic waste",
+      "summary": "Explains that high-level waste is about 3 percent of volume but most radioactivity, low-level waste is buried in shallow sites in four US locations, and transuranic defense waste goes to WIPP.",
+      "topics": [
+        "low-level waste",
+        "transuranic waste",
+        "defense waste",
+        "Waste Isolation Pilot Plant"
+      ]
+    },
+    {
+      "start": "00:26:23",
+      "end": "00:28:06",
+      "kind": "content",
+      "title": "Nuclear semiotics and back catalog",
+      "summary": "Mention of the earlier nuclear semiotics episode and the show's back catalog, plus the 2014 episode on fusion reactors.",
+      "topics": [
+        "nuclear semiotics",
+        "back catalog",
+        "nuclear fusion reactors"
+      ]
+    },
+    {
+      "start": "00:28:06",
+      "end": "00:30:08",
+      "kind": "content",
+      "title": "WIPP salt storage and plant decommissioning",
+      "summary": "Describes WIPP's salt layer seal and decommissioning, where only about 1 percent of plant concrete is radioactive and spent fuel remains on site after shutdown.",
+      "topics": [
+        "WIPP salt formation",
+        "nuclear plant decommissioning",
+        "contaminated concrete"
+      ]
+    },
+    {
+      "start": "00:30:08",
+      "end": "00:32:26",
+      "kind": "content",
+      "title": "Cooling water discharge and dilution",
+      "summary": "Discusses how contaminated cooling water is filtered and diluted before release into oceans, rivers, or lakes, with doubts about whether it is clean enough; mentions Simpsons three-eyed fish.",
+      "topics": [
+        "nuclear wastewater discharge",
+        "radionuclide filtration",
+        "dilution"
+      ]
+    },
+    {
+      "start": "00:32:26",
+      "end": "00:32:50",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:32:50",
+      "end": "00:38:42",
+      "kind": "content",
+      "title": "Recycling spent fuel, Oklo, and security concerns",
+      "summary": "Covers recycling spent fuel to extract usable uranium, Oklo's Oak Ridge plans and claim of recovering 94 percent of uranium, DOE pilot program, security risks like dirty bombs and plutonium theft, and concerns about AI-backed startups; mentions the book If Anyone Builds It, Everyone Dies.",
+      "topics": [
+        "nuclear fuel recycling",
+        "Oklo",
+        "nuclear security",
+        "plutonium theft",
+        "AI and nuclear power",
+        "reactor pilot program"
+      ]
+    },
+    {
+      "start": "00:38:42",
+      "end": "00:43:06",
+      "kind": "content",
+      "title": "Transmutation, vitrification, and MOX fuel",
+      "summary": "Explains transmutation of radioactive waste in particle accelerators, vitrification trapping waste in glass or ceramic logs, and MOX fuel recycling, with the point that separating the high-level fraction would greatly shrink the problem.",
+      "topics": [
+        "transmutation",
+        "vitrification",
+        "MOX fuel",
+        "reprocessing"
+      ]
+    },
+    {
+      "start": "00:43:07",
+      "end": "00:44:56",
+      "kind": "listener_mail",
+      "title": "Listener mail: inmate counsel in Louisiana",
+      "summary": "Listener Kelly Gizmondi, a Louisiana lawyer, asks for an episode on inmate counsel and the book The Jailhouse Lawyer by Calvin Duncan; the hosts agree it could be a short episode.",
+      "topics": [
+        "inmate counsel",
+        "jailhouse lawyer",
+        "post-conviction relief",
+        "Louisiana",
+        "Angola"
+      ]
+    },
+    {
+      "start": "00:44:57",
+      "end": "00:45:19",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank the listener and give the email address; iHeartRadio credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16516,
+    "output_tokens": 3572
+  }
+}

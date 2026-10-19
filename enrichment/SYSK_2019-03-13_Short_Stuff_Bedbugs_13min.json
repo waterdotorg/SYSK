@@ -1,0 +1,147 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-03-13_Short_Stuff_Bedbugs_13min.txt",
+  "title": "Short Stuff: Bedbugs",
+  "date": "2019-03-13",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-bedbugs",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d75f3d65-5c38-4dce-8c2d-ae28005067d5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d75f3d65-5c38-4dce-8c2d-ae28005067d5/transcript?format=TextWithTimestamps&t=1700543704",
+  "summary": "Short Stuff episode on bed bugs. Josh and Chuck cover the resurgence of bed bugs after DDT was banned, especially in New York and Philadelphia, and attribute it to the ban plus increased international travel. They describe bed bugs' appearance (about a quarter inch long, flat), hiding spots, rust-colored fecal spots as a sign, and checking hotel rooms before unpacking. They explain feeding (3 to 10 minutes, possible rash, itching, swelling, no known disease transmission), that bed bugs can go a year without feeding, and that cleanliness is not a prerequisite for an infestation. Treatment options covered include heat (dryer on high, sanitize wash cycle, whole-house heat treatment), suffocation in sealed plastic bags, dust and contact insecticides (including chrysanthemum-based and pyrethroid types), and hiring professionals. They close with advice on disposing of infested furniture or rugs so others don't pick them up, and a sign-off with listener email info.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "bed bugs",
+    "bedbug infestation",
+    "DDT ban",
+    "bed bug resurgence",
+    "bed bug bites",
+    "bed bug identification",
+    "hotel bed bugs",
+    "bed bug treatment",
+    "heat treatment for bed bugs",
+    "dryer heat kill bed bugs",
+    "whole-house heat treatment",
+    "vacuum sealing bed bugs",
+    "insecticides",
+    "pyrethroids",
+    "chrysanthemum insecticide",
+    "disposing of infested furniture",
+    "New York bed bugs",
+    "Philadelphia bed bugs",
+    "pest control"
+  ],
+  "entities": [
+    {
+      "name": "bed bugs",
+      "type": "other"
+    },
+    {
+      "name": "DDT",
+      "type": "other"
+    },
+    {
+      "name": "New York",
+      "type": "place"
+    },
+    {
+      "name": "Philadelphia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Introduction and DDT history",
+      "summary": "Josh introduces the bed bug topic, a listener request. They discuss how bed bugs were nearly eradicated with DDT in the 1950s, and how the DDT ban and international travel led to their return in cities like New York and Philadelphia.",
+      "topics": [
+        "bed bugs",
+        "DDT ban",
+        "bed bug resurgence",
+        "New York bed bugs",
+        "Philadelphia bed bugs"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Bed bug biology and bites",
+      "summary": "The hosts describe bed bugs as small flat insects that hide in beds, couches, walls and clothing. They feed on blood for three to ten minutes, causing possible itching, rash or swelling, and no known disease transmission.",
+      "topics": [
+        "bed bug identification",
+        "bed bug bites",
+        "bed bug biology"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Ad break before the treatment discussion.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Checking hotel rooms",
+      "summary": "Advice to inspect hotel mattress seams, sheet folds and luggage racks for rust-colored fecal spots or shed shells before unpacking. The hosts note bed bugs can go a year without feeding and that cleanliness does not prevent infestation.",
+      "topics": [
+        "hotel bed bugs",
+        "bed bug inspection",
+        "bed bugs cleanliness",
+        "bed bug feeding cycle"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Bed bug treatment options",
+      "summary": "Heat treatments include drying clothes on high heat or using a sanitize wash, and whole-house heat treatment by professionals. Other options are sealing items in plastic to suffocate them, insecticides including dust and contact types (chrysanthemum-based and pyrethroid), and hiring a professional.",
+      "topics": [
+        "bed bug treatment",
+        "heat treatment for bed bugs",
+        "dryer heat kill bed bugs",
+        "whole-house heat treatment",
+        "vacuum sealing bed bugs",
+        "insecticides",
+        "pyrethroids",
+        "chrysanthemum insecticide",
+        "pest control"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:10",
+      "kind": "content",
+      "title": "Disposing of infested furniture",
+      "summary": "Advice to make infested couches or rugs unappealing before putting them on the curb so others don't pick them up. Josh objects to putting furniture in a landfill.",
+      "topics": [
+        "disposing of infested furniture",
+        "bed bug spread prevention"
+      ]
+    },
+    {
+      "start": "00:12:10",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck has nothing to add and Josh closes with listener email information.",
+      "topics": [
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5357,
+    "output_tokens": 1792
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-04-17_How_Grassoline_Works_5min.txt",
+  "title": "How Grassoline Works",
+  "date": "2008-04-17",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-grassoline-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/58773afb-cd6d-4bcf-b38d-ae2800c4c888/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/58773afb-cd6d-4bcf-b38d-ae2800c4c888/transcript?format=TextWithTimestamps&t=1700544008",
+  "summary": "An early HowStuffWorks-era episode in which Josh Clark and editor Chris Pallette discuss the article \"Can We Fuel Cars with Grass?\" Switch grass is presented as a cellulosic ethanol feedstock that can grow on marginal land where it can improve soil over about a dozen years, unlike corn or sugarcane that compete with food. They also cover the carbon debt from converting rainforest to biofuel crops (citing a New Scientist article), palm oil in Indonesia, and the argument that domestic energy supplies could reduce conflict over oil. The episode is short and the transcript is partly garbled by captioning errors.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "switch grass",
+    "cellulosic ethanol",
+    "biofuel",
+    "biofuels",
+    "ethanol",
+    "biodiesel",
+    "carbon debt",
+    "land use change",
+    "marginal land",
+    "palm oil",
+    "Indonesia",
+    "energy self-sufficiency",
+    "peak oil",
+    "soil improvement",
+    "rainforest conversion",
+    "grass gasoline",
+    "feedstock",
+    "oil and war"
+  ],
+  "entities": [
+    {
+      "name": "switch grass",
+      "type": "other"
+    },
+    {
+      "name": "cellulosic ethanol",
+      "type": "other"
+    },
+    {
+      "name": "Indonesia",
+      "type": "place"
+    },
+    {
+      "name": "Brazil",
+      "type": "place"
+    },
+    {
+      "name": "Africa",
+      "type": "place"
+    },
+    {
+      "name": "Can We Fuel Cars with Grass?",
+      "type": "work"
+    },
+    {
+      "name": "New Scientist",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "ad",
+      "title": "Opening sponsor read and greeting",
+      "summary": "A sponsor read for a Camry opens the episode, followed by the greeting and introduction of Josh Clark and editor Chris Pallette.",
+      "topics": [
+        "sponsor read",
+        "intro"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:02:00",
+      "kind": "content",
+      "title": "Switch grass as a cellulosic biofuel feedstock",
+      "summary": "Chris Pallette summarizes the article: switch grass can be a cellulose source for biofuel, unlike corn or sugarcane that are food crops, and it could be grown on marginal land where crops are not practical.",
+      "topics": [
+        "switch grass",
+        "cellulosic ethanol",
+        "biofuel feedstock",
+        "marginal land",
+        "peak oil"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:03:00",
+      "kind": "content",
+      "title": "Soil improvement and what switch grass is",
+      "summary": "The hosts say switch grass improves soil so that scrubland can become farmland after about a dozen years, and they describe it as a grass often viewed as weedy or invasive, with some ornamental types.",
+      "topics": [
+        "soil improvement",
+        "switch grass",
+        "invasive grass",
+        "ornamental grass"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:04:20",
+      "kind": "content",
+      "title": "Carbon debt from converting land to biofuel crops",
+      "summary": "Chris cites a New Scientist report that converting Brazilian rainforest to biofuel crops could release large amounts of carbon dioxide, so biofuels may need years to recoup that carbon debt. Josh notes that switch grass is not the only option, since palm oil is grown in Indonesia.",
+      "topics": [
+        "carbon debt",
+        "rainforest conversion",
+        "carbon dioxide emissions",
+        "palm oil",
+        "Brazil",
+        "Indonesia"
+      ]
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:05:00",
+      "kind": "outro",
+      "title": "Energy self-sufficiency, oil and war, and sign-off",
+      "summary": "The hosts argue that energy self-sufficiency could reduce regional conflict over oil, then Josh directs listeners to the article and the sign-off repeats a sponsor read.",
+      "topics": [
+        "energy self-sufficiency",
+        "oil and war",
+        "sponsor read"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3199,
+    "output_tokens": 1430
+  }
+}

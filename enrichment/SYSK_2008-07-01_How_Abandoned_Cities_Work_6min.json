@@ -1,0 +1,141 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-07-01_How_Abandoned_Cities_Work_6min.txt",
+  "title": "How Abandoned Cities Work",
+  "date": "2008-07-01",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-abandoned-cities-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8f92f074-9d78-4b5c-90d2-ae2800c3cbaf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8f92f074-9d78-4b5c-90d2-ae2800c3cbaf/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh Clark and guest Chris Pallette discuss modern abandoned cities, contrasting them with the Western ghost town of Bodie, California. They cover causes of abandonment: disaster (Pripyat, Ukraine, evacuated after the Chernobyl meltdown), economic decline (Detroit neighborhoods, dying small towns in Alabama), and loss of roads after the interstate system rerouted traffic. They also discuss Centralia, Pennsylvania, a coal-mining town emptied by an underground coal fire, sinkholes, and eminent domain, where about a dozen residents remain. The episode closes by promoting a HowStuffWorks article listing five modern abandoned cities. Some transcript text is garbled by speech recognition, and the hosts' remarks about a 2012 camera ad are part of the opening.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "abandoned cities",
+    "modern abandoned cities",
+    "ghost towns",
+    "Bodie California",
+    "Pripyat Ukraine",
+    "Chernobyl disaster",
+    "Detroit abandonment",
+    "Centralia Pennsylvania",
+    "underground coal fire",
+    "eminent domain",
+    "dying towns",
+    "Alabama small towns",
+    "interstate system",
+    "urban decay",
+    "urban exploration",
+    "forgotten Detroit"
+  ],
+  "entities": [
+    {
+      "name": "Bodie, California",
+      "type": "place"
+    },
+    {
+      "name": "Pripyat, Ukraine",
+      "type": "place"
+    },
+    {
+      "name": "Chernobyl nuclear power plant",
+      "type": "place"
+    },
+    {
+      "name": "Detroit",
+      "type": "place"
+    },
+    {
+      "name": "Centralia, Pennsylvania",
+      "type": "place"
+    },
+    {
+      "name": "Alabama",
+      "type": "place"
+    },
+    {
+      "name": "Forgotten Detroit",
+      "type": "work"
+    },
+    {
+      "name": "Chernobyl meltdown",
+      "type": "event"
+    },
+    {
+      "name": "Centralia underground coal fire",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and introductions",
+      "summary": "Josh Clark welcomes former editor Chris Pallette back to the show and congratulates him on a second child. They introduce the topic of modern abandoned cities and contrast them with the Old West ghost town of Bodie, California.",
+      "topics": [
+        "Bodie California",
+        "ghost towns",
+        "abandoned cities"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:45",
+      "kind": "content",
+      "title": "Causes of abandonment and Pripyat",
+      "summary": "The hosts list reasons cities are abandoned, including disaster and loss of usefulness. They use Pripyat, Ukraine, next to the Chernobyl plant, as an example: residents were evacuated within about sixty hours after the reactor meltdown in 1986, leaving belongings behind. Chris describes photos of the abandoned city and why its everyday artifacts feel haunting.",
+      "topics": [
+        "Pripyat Ukraine",
+        "Chernobyl disaster",
+        "abandoned cities",
+        "disaster evacuation"
+      ]
+    },
+    {
+      "start": "00:02:45",
+      "end": "00:04:15",
+      "kind": "content",
+      "title": "Detroit and dying towns",
+      "summary": "The hosts discuss Detroit, where entire sections are abandoned because of economic decline, and mention the forgottendetroit site. Chris describes dying towns in Alabama with boarded-up downtowns, and the two note that interstate rerouting can effectively kill a town.",
+      "topics": [
+        "Detroit abandonment",
+        "economic decline",
+        "dying towns",
+        "Alabama",
+        "interstate system",
+        "forgotten Detroit"
+      ]
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Centralia, Pennsylvania",
+      "summary": "The hosts describe Centralia, a former coal-mining town whose underground coal fire produces toxic fumes and sinkholes. A child nearly fell into a sinkholes about 150 feet deep. Most residents left, but about a dozen remain, and the government took the roads and land by eminent domain, while those residents continue to squat in their homes.",
+      "topics": [
+        "Centralia Pennsylvania",
+        "underground coal fire",
+        "sinkholes",
+        "eminent domain",
+        "coal mining towns"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Sign-off and article plug",
+      "summary": "Josh tells listeners to look up five modern abandoned cities on HowStuffWorks.com, invites feedback by email, and the episode ends with a repeat of the camera ad.",
+      "topics": [
+        "HowStuffWorks article",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3465,
+    "output_tokens": 1680
+  }
+}

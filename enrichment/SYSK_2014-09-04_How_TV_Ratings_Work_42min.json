@@ -1,0 +1,263 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-09-04_How_TV_Ratings_Work_42min.txt",
+  "title": "How TV Ratings Work",
+  "date": "2014-09-04",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-tv-ratings-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f3b3236d-93dc-489e-a2bd-ae280094a8fd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f3b3236d-93dc-489e-a2bd-ae280094a8fd/transcript?format=TextWithTimestamps&t=1700543875",
+  "summary": "Josh Clark and Chuck Bryant explain how US TV ratings work, starting with the Nielsen Company's origins in radio ratings (audio recording devices and paper diaries), moving through set meters and people meters that detect audio watermark codes, and the economics of advertising rates tied to demographics. They cover sweeps week and its origins, how DVRs and on-demand viewing complicate measurement (Live plus 3/7 ratings), the shift toward tracking online and mobile viewing with cookies and third-party competitors like comScore and Rentrak, and the idea of combining Twitter trends into ratings. The episode includes sponsor reads for Squarespace, a joke about the hosts' own canceled sitcom, and a listener mail letter from a Long Island Railroad conductor about the show keeping him awake on his commute.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "TV ratings",
+    "Nielsen ratings",
+    "Nielsen Company history",
+    "people meters",
+    "set meters",
+    "paper diaries",
+    "sweeps week",
+    "advertising rates",
+    "DVR ratings",
+    "Live plus 3 ratings",
+    "share vs rating",
+    "cookie tracking",
+    "comScore",
+    "Rentrak",
+    "second screen viewing",
+    "Twitter TV trends",
+    "audio watermark",
+    "demographics 18-49",
+    "television advertising",
+    "cable vs broadcast networks",
+    "stunt casting",
+    "Squarespace"
+  ],
+  "entities": [
+    {
+      "name": "Nielsen Company",
+      "type": "organization"
+    },
+    {
+      "name": "comScore",
+      "type": "organization"
+    },
+    {
+      "name": "Rentrak",
+      "type": "organization"
+    },
+    {
+      "name": "Twitter",
+      "type": "organization"
+    },
+    {
+      "name": "Squarespace",
+      "type": "organization"
+    },
+    {
+      "name": "Long Island Railroad",
+      "type": "organization"
+    },
+    {
+      "name": "Sweeps week",
+      "type": "event"
+    },
+    {
+      "name": "Community",
+      "type": "work"
+    },
+    {
+      "name": "Freaks and Geeks",
+      "type": "work"
+    },
+    {
+      "name": "Happy Days",
+      "type": "work"
+    },
+    {
+      "name": "Murder, She Wrote",
+      "type": "work"
+    },
+    {
+      "name": "Luke Ryan",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the hosts' canceled sitcom",
+      "summary": "Hosts joke about Jerry and their own canceled TV show, then introduce the idea that the Nielsen ratings system is antiquated and affected their show's cancellation.",
+      "topics": [
+        "canceled TV show",
+        "Nielsen ratings",
+        "TV ratings"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Nielsen's origins in radio ratings",
+      "summary": "The A.C. Nielsen Company started in the 1930s measuring radio listening, first by telephone calls and then by recording devices placed in randomly chosen family homes, which established its dominance.",
+      "topics": [
+        "Nielsen Company history",
+        "radio ratings",
+        "audio recording devices",
+        "broadcast ratings"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Paper diaries and people meters",
+      "summary": "Nielsen still sends paper diaries with five dollars to households, and uses set meters and people meters in a sample of homes. The people meters detect inaudible audio codes embedded in broadcasts to identify shows.",
+      "topics": [
+        "paper diaries",
+        "people meters",
+        "set meters",
+        "audio watermark",
+        "sample size"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Sample size, extrapolation and the business of ratings",
+      "summary": "The small sample of TV homes is extrapolated to represent the US population, with audits and quality checks. Ratings determine advertising rates, and advertisers care most about the 18-49 demographic.",
+      "topics": [
+        "sample size extrapolation",
+        "representative sampling",
+        "advertising rates",
+        "demographics 18-49"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Commercial breaks and ad pricing",
+      "summary": "A half-hour show carries about eight minutes of ads, six national and the rest from local affiliates, with examples of local ad costs in 2006 and the Wolfman Gallery Furniture ads.",
+      "topics": [
+        "commercial breaks",
+        "local affiliates",
+        "ad pricing",
+        "television advertising"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:19:30",
+      "kind": "ad",
+      "title": "Squarespace sponsor read",
+      "summary": "Sponsor read for Squarespace website builder with a free trial and promo code.",
+      "topics": [
+        "Squarespace",
+        "website builder"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Sweeps week origins and stunts",
+      "summary": "Sweeps week began when Nielsen used paper diaries to make a geographic sweep of markets, and it became a period when advertising rates are set. Networks used stunt casting and special events; examples include Happy Days' Fonzie jumping the shark and an Arrested Development reference. Sweeps now run in four-week periods in November, February, May and July.",
+      "topics": [
+        "sweeps week",
+        "stunt casting",
+        "jumping the shark",
+        "ratings periods",
+        "broadcast TV"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "DVRs, time-shifted viewing and Live plus ratings",
+      "summary": "DVRs raised fears among advertisers, but ads adapted with techniques like pop busters. Nielsen began counting DVR viewing as Live plus same day, Live plus 3 and Live plus 7, while on-demand content may block fast-forwarding. TiVo data showed Janet Jackson Super Bowl clip was most replayed.",
+      "topics": [
+        "DVR ratings",
+        "Live plus 3",
+        "time-shifted viewing",
+        "pop busters",
+        "TiVo",
+        "on-demand viewing"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Share versus rating",
+      "summary": "Explanation that rating is the share of the total population watching a show, while share is the percentage of people actively watching TV who are watching that show.",
+      "topics": [
+        "share vs rating",
+        "TV measurement terms"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Online, mobile and second-screen viewing and new competitors",
+      "summary": "Consumption has moved to computers, tablets and phones, and Nielsen is working out how to track it. Cookies can link devices to one user. Competitors comScore and Rentrak offer alternative measurement, and an FTC settlement required Nielsen to license the Arbitron portable people meter to comScore.",
+      "topics": [
+        "online TV viewing",
+        "cookie tracking",
+        "comScore",
+        "Rentrak",
+        "second screen",
+        "competition in TV ratings",
+        "FTC settlement"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Future of TV measurement and Twitter trends",
+      "summary": "The hosts predict advertisers will buy packages that follow a show across platforms, and that social buzz such as Twitter trends can help keep shows like Community on air. Nielsen partnered with Twitter to include trending data.",
+      "topics": [
+        "future of TV ratings",
+        "Twitter TV trends",
+        "targeted advertising",
+        "Community renewal"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Luke Ryan and related show mentions",
+      "summary": "The hosts mention Freaks and Geeks and their friend Luke Ryan, who is knowledgeable about TV measurement, and distinguish him from country singer Luke Bryan.",
+      "topics": [
+        "Luke Ryan",
+        "Freaks and Geeks",
+        "country music"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from a Long Island Railroad conductor",
+      "summary": "A listener who is a Long Island Railroad conductor thanks the show for keeping him awake on late-night commutes, and asks how to pronounce his name, Cartagena.",
+      "topics": [
+        "listener mail",
+        "pronunciation",
+        "commute"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14197,
+    "output_tokens": 2907
+  }
+}

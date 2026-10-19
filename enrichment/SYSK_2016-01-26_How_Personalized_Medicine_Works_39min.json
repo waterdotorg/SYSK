@@ -1,0 +1,244 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-01-26_How_Personalized_Medicine_Works_39min.txt",
+  "title": "How Personalized Medicine Works",
+  "date": "2016-01-26",
+  "duration": "39 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-personalized-medicine-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5ff94665-49ad-4fa3-b36b-ae2800879713/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5ff94665-49ad-4fa3-b36b-ae2800879713/transcript?format=TextWithTimestamps&t=1700543842",
+  "summary": "Josh and Chuck explain personalized medicine, the idea that treatment should be matched to an individual's biology and genetics rather than to what works for most people. They trace its history from Hippocrates and early blood-type matching, through a World War II antimalarial anemia case, to the Human Genome Project. They cover pharmacogenetics, adverse drug events, falling genome sequencing costs (compared to Moore's law), and examples such as the cystic fibrosis drug Kalydeco, the breast cancer drug Herceptin, and an artificial pancreas and tinnitus devices for diabetes and hearing. Obstacles discussed include cost, data processing, the Angelina Jolie effect and overtesting, FDA capacity, genetic discrimination laws (GINA), and the 23andMe database and its deal with Genentech. The episode ends with listener mail about satanic panic movies.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "personalized medicine",
+    "precision medicine",
+    "pharmacogenetics",
+    "Human Genome Project",
+    "genome sequencing cost",
+    "Moore's law",
+    "adverse drug events",
+    "trial and error medicine",
+    "Kalydeco cystic fibrosis drug",
+    "Herceptin breast cancer",
+    "artificial pancreas type 1 diabetes",
+    "genetic discrimination",
+    "GINA genetic information nondiscrimination act",
+    "23andMe",
+    "Angelina Jolie effect",
+    "biomarkers",
+    "FDA",
+    "genetic privacy",
+    "blood type matching",
+    "anemia antimalarial World War II",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Hippocrates",
+      "type": "person"
+    },
+    {
+      "name": "Karl Landsteiner",
+      "type": "person"
+    },
+    {
+      "name": "Ludvik Hektoen",
+      "type": "person"
+    },
+    {
+      "name": "Raymond McCauley",
+      "type": "person"
+    },
+    {
+      "name": "Angelina Jolie",
+      "type": "person"
+    },
+    {
+      "name": "James Watson",
+      "type": "person"
+    },
+    {
+      "name": "Ron Paul",
+      "type": "person"
+    },
+    {
+      "name": "Human Genome Project",
+      "type": "event"
+    },
+    {
+      "name": "Kalydeco",
+      "type": "other"
+    },
+    {
+      "name": "Herceptin",
+      "type": "other"
+    },
+    {
+      "name": "23andMe",
+      "type": "organization"
+    },
+    {
+      "name": "Genentech",
+      "type": "organization"
+    },
+    {
+      "name": "Singularity University",
+      "type": "organization"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Genetic Information Nondiscrimination Act",
+      "type": "work"
+    },
+    {
+      "name": "Tuskegee experiments",
+      "type": "event"
+    },
+    {
+      "name": "Young Sherlock Holmes",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening and tour promo",
+      "summary": "Hosts promote live tour dates and the SYSK Live site, then open with banter about personalized medicine.",
+      "topics": [
+        "tour promotion",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "History of individualized medicine",
+      "summary": "Hippocrates' idea that knowing the person matters more than knowing the disease; trial and error in Western medicine; Landsteiner and Hektoen's blood type matching; family histories; the World War II antimalarial anemia case among African American troops and its G6PD-related cause.",
+      "topics": [
+        "Hippocrates",
+        "blood type matching",
+        "trial and error medicine",
+        "anemia antimalarial World War II",
+        "family history medicine"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Human Genome Project and pharmacogenetics",
+      "summary": "The Human Genome Project changed the field by linking genes and molecular pathways to disease and drug response. Pharmacogenetics matches drugs to a patient's genome, and adverse drug events are cited as a motivation, with about 770,000 US injuries or deaths a year.",
+      "topics": [
+        "Human Genome Project",
+        "pharmacogenetics",
+        "adverse drug events",
+        "drug response genetics"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Falling genome sequencing costs and future devices",
+      "summary": "Sequencing cost fell from about a million dollars for James Watson's 2007 genome to under two dollars for sequencing and roughly fifteen thousand dollars for full analysis. Raymond McCauley's Moore's law comparison is noted, computing power for analysis is the bottleneck, and the hosts speculate about toilet-based urine sequencers, wearables, and phone apps tied to health records.",
+      "topics": [
+        "genome sequencing cost",
+        "Moore's law",
+        "Raymond McCauley",
+        "James Watson genome",
+        "wearable health monitoring",
+        "personal health records"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Examples: cystic fibrosis, Herceptin, diabetes and hearing devices",
+      "summary": "Kalydeco was approved in 2012 for the roughly four percent of cystic fibrosis patients with a specific genetic mutation, changing understanding of the disease. Herceptin targets breast tumors expressing a specific protein. A wearable artificial pancreas for type 1 diabetes was entering clinical trials, and customizable hearing or tinnitus devices were mentioned.",
+      "topics": [
+        "Kalydeco cystic fibrosis",
+        "Herceptin breast cancer",
+        "artificial pancreas type 1 diabetes",
+        "tinnitus customized devices",
+        "biomarkers",
+        "disease classification cancer"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:24:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:30:30",
+      "kind": "content",
+      "title": "Obstacles: cost, the Angelina Jolie effect, FDA and genetic discrimination",
+      "summary": "Obstacles include cost, data processing, and overstating findings; the Angelina Jolie effect of preventive surgery and bioethicists' concern about health obsession. The FDA is overtaxed, a de-anonymization problem closed a public genome database, and biological discrimination was addressed by GINA, which passed with a near-unanimous vote, with Ron Paul the lone no in the House. Canada is noted as the only G7 country without such protection.",
+      "topics": [
+        "Angelina Jolie effect",
+        "overtesting",
+        "FDA capacity",
+        "genetic discrimination",
+        "GINA",
+        "genetic privacy",
+        "biological discrimination"
+      ]
+    },
+    {
+      "start": "00:30:30",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "23andMe database and data privacy",
+      "summary": "23andMe sold a $99 test, built a database of several hundred thousand customers' genomes, and made money from research deals, including a reported $60 million deal with Genentech to analyze Parkinson's genomes. Concerns about private genome databases are compared to Facebook data mining.",
+      "topics": [
+        "23andMe",
+        "genome database",
+        "Genentech deal",
+        "Parkinson's genetics",
+        "data mining privacy"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Closing discussion and related episodes",
+      "summary": "Hosts suggest revisiting personalized medicine periodically and recommend related episodes on limb regrowth, grandparents' diet, blood, and computers replacing doctors.",
+      "topics": [
+        "related episodes",
+        "personalized medicine"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:39:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Satanic panic movies",
+      "summary": "A listener shares a top ten list of eighties movies with satanic themes and comments on the earlier Satanic Panic episode.",
+      "topics": [
+        "listener mail",
+        "Satanic panic",
+        "eighties horror movies"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12732,
+    "output_tokens": 2799
+  }
+}

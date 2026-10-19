@@ -1,0 +1,280 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-08-27_Blacksmiths_You_got_that_right_50min.txt",
+  "title": "Blacksmiths? You got that right!",
+  "date": "2020-08-27",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/blacksmiths-you-got-that-right",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d73d5d6-c8b5-43b0-8058-ae28002f54b2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3d73d5d6-c8b5-43b0-8058-ae28002f54b2/transcript?format=TextWithTimestamps&t=1700543615",
+  "summary": "Josh and Chuck open with a book pre-order plug and banter about watching blacksmithing videos. They trace the name \"blacksmith\" (hammer scale or iron's dark color), the role of blacksmiths in communities and armies, and farriers who shoed horses. The hosts cover the Bronze Age and Iron Age, early iron from meteorites, bloomeries, blast furnaces, pig iron, and wrought iron, plus water-powered hammers. They explain iron types by carbon content (wrought iron, steel, cast iron), quenching, and steel's history. Tools are covered next: forge fuels (charcoal, coal, coke, gas), the anvil and its horn, hardy hole, pritchel hole, and tongs. Techniques follow: heat colors from white hot to red hot, forge welding with flux, scarf welds, drawing, upsetting, peening, bending and twisting, and hand-forged nail making. The episode ends with a listener mail about being an Olympic torch bearer and the torch kiss handoff, then a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "blacksmithing",
+    "blacksmiths history",
+    "farriers",
+    "horseshoeing",
+    "Bronze Age",
+    "Iron Age",
+    "bloomery",
+    "blast furnace",
+    "pig iron",
+    "wrought iron",
+    "steel",
+    "cast iron",
+    "carbon content of iron",
+    "quenching",
+    "forge welding",
+    "flux welding",
+    "anvil anatomy",
+    "hardy hole",
+    "pritchel hole",
+    "forge fuel charcoal coal coke",
+    "hand-forged nails",
+    "heat colors of iron",
+    "water-powered hammers",
+    "Olympic torch relay",
+    "torch kiss",
+    "Stuff You Should Know book"
+  ],
+  "entities": [
+    {
+      "name": "blacksmith",
+      "type": "other"
+    },
+    {
+      "name": "farrier",
+      "type": "other"
+    },
+    {
+      "name": "bronze",
+      "type": "other"
+    },
+    {
+      "name": "iron",
+      "type": "other"
+    },
+    {
+      "name": "steel",
+      "type": "other"
+    },
+    {
+      "name": "wrought iron",
+      "type": "other"
+    },
+    {
+      "name": "cast iron",
+      "type": "other"
+    },
+    {
+      "name": "Chalybes",
+      "type": "other"
+    },
+    {
+      "name": "Harold the Smith",
+      "type": "person"
+    },
+    {
+      "name": "Black Bear Forge",
+      "type": "organization"
+    },
+    {
+      "name": "Goro",
+      "type": "person"
+    },
+    {
+      "name": "Nick Kimball",
+      "type": "person"
+    },
+    {
+      "name": "Walt Whitman",
+      "type": "person"
+    },
+    {
+      "name": "Matt Jones",
+      "type": "person"
+    },
+    {
+      "name": "Winter Olympics torch relay",
+      "type": "event"
+    },
+    {
+      "name": "Mount Vernon",
+      "type": "place"
+    },
+    {
+      "name": "Stuff You Should Know: An Incomplete Compendium of Mostly Interesting Things",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Book plug and blacksmithing video banter",
+      "summary": "Josh plugs the new book and the hosts open with banter about watching blacksmithing videos, including a bearded axe video and the appeal of smiths.",
+      "topics": [
+        "Stuff You Should Know book",
+        "blacksmithing videos"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Origin of the name blacksmith",
+      "summary": "The hosts explain that blacksmiths were named for working iron, with theories about hammer scale and iron's dark color. They note that Smith is a very common surname derived from the trade.",
+      "topics": [
+        "blacksmith name origin",
+        "hammer scale",
+        "Smith surname"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Blacksmiths' role in communities and armies",
+      "summary": "Blacksmiths were essential to every community and to armies, making weapons, armor, and repairing gear. Apprentices helped them, and communities could stall if one was sick.",
+      "topics": [
+        "blacksmiths in communities",
+        "blacksmiths in warfare",
+        "apprentices"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Farriers and horseshoeing",
+      "summary": "Blacksmiths became more specialized, and farriers made horseshoes fitted to each horse's hoof. Farriers kept working after blacksmithing declined.",
+      "topics": [
+        "farriers",
+        "horseshoeing",
+        "bespoke shoeing"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Bronze Age and the start of metalworking",
+      "summary": "Early tools were stone. Bronze, made from copper and tin, had a low melting point and could be cast in molds, and it defined an era. The hosts note the Iron Age was a period of cultural decline in its early centuries.",
+      "topics": [
+        "Bronze Age",
+        "bronze making",
+        "Iron Age",
+        "bronze casting"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Early iron: meteorites, bloom and bloomeries",
+      "summary": "Early iron came from meteorites and was rare, prized even above gold. The Chalybes are said to have learned to mine iron ore. Early smiths made bloom in bloomeries, which removed some impurities but left slag.",
+      "topics": [
+        "meteorite iron",
+        "Chalybes",
+        "bloom",
+        "bloomery",
+        "King Tut dagger",
+        "iron smelting"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Blast furnaces, pig iron and wrought iron",
+      "summary": "Larger furnaces with bellows reached hotter temperatures to produce pig iron. Pig iron was then hammered to remove slag and make wrought iron. The hosts say water-powered hammers may have been developed after the thirteenth-century plague.",
+      "topics": [
+        "blast furnace",
+        "pig iron",
+        "wrought iron",
+        "water hammers",
+        "thirteenth century plague"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Types of iron: wrought iron, steel, cast iron",
+      "summary": "Iron types are defined by carbon content. Wrought iron has low carbon and silicate fibers. Steel has more carbon, forming a harder structure. Cast iron is high carbon, brittle, and formed by casting. Quenching is discussed, along with early steel-making by intuition.",
+      "topics": [
+        "wrought iron vs steel",
+        "cast iron",
+        "carbon content",
+        "quenching",
+        "steel history"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Forge, anvil and hand tools",
+      "summary": "The hosts describe the forge, tongs, and gloves. They cover the anvil's horn, face, and step, the pritchel hole and hardy hole, and how tools fit the hardy hole. The anvil is mounted on a buried tree stump.",
+      "topics": [
+        "forge",
+        "anvil",
+        "pritchel hole",
+        "hardy hole",
+        "tongs",
+        "anvil mounting"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Forge fuels and safety",
+      "summary": "Blacksmiths historically used charcoal, then coal, with coke as a purer fuel. Gas forges are common now. The hosts discuss ventilation and protective gear like leather aprons.",
+      "topics": [
+        "forge fuel",
+        "charcoal",
+        "coal",
+        "coke",
+        "gas forge",
+        "shop ventilation",
+        "leather apron"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Heat colors, forge welding and techniques",
+      "summary": "Iron color indicates temperature, from red hot to white hot. Black Bear Forge is shown making chain with scarf welds and flux. Other techniques include drawing, upsetting, peening, and bending and twisting with square bars.",
+      "topics": [
+        "heat color temperatures",
+        "forge welding",
+        "scarf weld",
+        "flux",
+        "drawing",
+        "upsetting",
+        "peening",
+        "twisting iron"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Hand-forged nails and wrap-up",
+      "summary": "Nail making is described as labor-intensive. The hosts close with a note that they may have gotten details wrong, and recommend watching videos.",
+      "topics": [
+        "hand-forged nails",
+        "nail making"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16804,
+    "output_tokens": 2946
+  }
+}

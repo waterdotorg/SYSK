@@ -1,0 +1,117 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-05-13_Why_Does_Toothpaste_Make_Orange_Juice_Taste_Bad_5min.txt",
+  "title": "Why Does Toothpaste Make Orange Juice Taste Bad?",
+  "date": "2008-05-13",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-does-toothpaste-make-orange-juice-taste-bad",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b1bd50eb-87f3-45c0-a4e9-ae2800c46bc7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b1bd50eb-87f3-45c0-a4e9-ae2800c46bc7/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chuck Bryant discuss why orange juice tastes bad after brushing teeth. They cover the five basic taste categories (sweet, salty, bitter, sour, umami, which Josh calls \"mommy meaty\"), how flavor combines taste, smell, temperature, consistency and texture, and the prevailing theory of taste receptors shaped to accept certain molecules. The main focus is sodium lauryl sulfate (SLS), a surfactant in toothpaste that foams and, according to the hosts, temporarily suppresses sweet receptors and dampens bitter-blocking coverings, so orange juice tastes worse. They mention a study suggesting the effect lasts about an hour. The episode closes with a pointer to a HowStuffWorks article on the topic. Includes a brief ad read for the 2012 camera at the start and end.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "orange juice taste after brushing teeth",
+    "toothpaste and orange juice",
+    "sodium lauryl sulfate",
+    "SLS toothpaste",
+    "surfactant",
+    "taste perception",
+    "five basic tastes",
+    "umami",
+    "taste receptors",
+    "flavor science",
+    "bitter taste",
+    "sweet receptors",
+    "toothpaste foaming agent",
+    "how taste works",
+    "how smell works",
+    "taste and smell interaction",
+    "HowStuffWorks article"
+  ],
+  "entities": [
+    {
+      "name": "Sodium lauryl sulfate",
+      "type": "other"
+    },
+    {
+      "name": "Sarah Dowdy",
+      "type": "person"
+    },
+    {
+      "name": "Pizza Hut",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and orange juice after brushing",
+      "summary": "Hosts open with a camera ad read, then Josh jokes that he drank orange juice right after brushing his teeth to prep for the episode, leading into the question of why orange juice tastes bad after brushing.",
+      "topics": [
+        "orange juice after brushing teeth",
+        "opening banter"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "Five basic tastes and flavor",
+      "summary": "Josh explains that flavor is divided into five categories (sweet, salty, bitter, sour, and umami, called mommy meaty tastes) and that flavor combines taste with temperature, consistency, smell and texture. A pizza topping analogy is offered for the combinations.",
+      "topics": [
+        "five basic tastes",
+        "umami",
+        "flavor science",
+        "flavor combinations"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:03:15",
+      "kind": "content",
+      "title": "How taste receptors work",
+      "summary": "Josh notes that taste and smell are not fully understood, though prevailing theories say taste receptors are shaped to accept only certain molecules, such as a sweet receptor accepting sweet-property molecules. A colleague's article on how smell works is mentioned.",
+      "topics": [
+        "taste receptors",
+        "how taste works",
+        "how smell works",
+        "taste and smell"
+      ]
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Sodium lauryl sulfate in toothpaste",
+      "summary": "The hosts identify sodium lauryl sulfate (SLS), a surfactant that foams in toothpaste. They say it mainly makes teeth seem cleaner and helps sell toothpaste. One leading theory is that SLS suppresses sweet receptors and dampens bitter-blocking coverings, so orange juice tastes especially bitter and off.",
+      "topics": [
+        "sodium lauryl sulfate",
+        "SLS toothpaste",
+        "surfactant",
+        "toothpaste foaming agent",
+        "bitter taste",
+        "sweet receptors"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:00",
+      "kind": "outro",
+      "title": "Duration of effect and sign-off",
+      "summary": "Hosts say a study found the taste effect lasts about an hour. They point listeners to the HowStuffWorks article on why orange juice tastes bad after brushing, and a camera ad read closes the episode.",
+      "topics": [
+        "taste effect duration",
+        "HowStuffWorks article",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3454,
+    "output_tokens": 1520
+  }
+}

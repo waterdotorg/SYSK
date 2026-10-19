@@ -1,0 +1,264 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-06-14_How_Wind_Works_43min.txt",
+  "title": "How Wind Works",
+  "date": "2022-06-14",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-wind-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6e5de55e-1478-4c09-885b-aeb400024226/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6e5de55e-1478-4c09-885b-aeb400024226/transcript?format=TextWithTimestamps&t=1700551940",
+  "summary": "Josh and Chuck explain how wind works. They cover three drivers of wind (heat, pressure differences, and Earth's rotation), starting with the balloon analogy of high and low pressure. They describe how the sun heats different surfaces unevenly, causing convection, and how the Coriolis effect deflects moving air (illustrated with a candy cannonball fired from the equator toward the North Pole). They explain the Hadley, Ferrel, and polar cells, the jet streams (including the polar vortex and World War Two aviation use), and land-sea breezes and mountain effects. They then cover what wind does: weather, ocean gyres and Lake Erie seiches, seed dispersal (tumbleweeds), dust storms (the Dust Bowl), dust carrying nutrients to the Amazon and possibly disease, and wind speed records at Mount Washington and Barrow Island, Australia. The episode closes with listener mail thanking the show and a plug for Tom in Austin.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "wind",
+    "how wind works",
+    "pressure differences",
+    "convection",
+    "Coriolis effect",
+    "Hadley cell",
+    "Ferrel cell",
+    "polar cell",
+    "jet stream",
+    "polar vortex",
+    "trade winds",
+    "sea breeze and land breeze",
+    "mountain winds and turbulence",
+    "wind speed records",
+    "Mount Washington wind record",
+    "gyres and ocean winds",
+    "seiche Lake Erie",
+    "seed dispersal by wind",
+    "tumbleweeds",
+    "dust storms",
+    "Dust Bowl",
+    "Saharan dust and Amazon rainforest",
+    "weather systems",
+    "hurricanes and cyclones",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Mount Washington",
+      "type": "place"
+    },
+    {
+      "name": "Barrow Island",
+      "type": "place"
+    },
+    {
+      "name": "Lake Erie",
+      "type": "place"
+    },
+    {
+      "name": "Amazon rainforest",
+      "type": "place"
+    },
+    {
+      "name": "Las Vegas",
+      "type": "place"
+    },
+    {
+      "name": "Sahara",
+      "type": "place"
+    },
+    {
+      "name": "Dust Bowl",
+      "type": "event"
+    },
+    {
+      "name": "Coriolis effect",
+      "type": "other"
+    },
+    {
+      "name": "convection",
+      "type": "other"
+    },
+    {
+      "name": "Hadley cell",
+      "type": "other"
+    },
+    {
+      "name": "Ferrel cell",
+      "type": "other"
+    },
+    {
+      "name": "polar cell",
+      "type": "other"
+    },
+    {
+      "name": "jet stream",
+      "type": "other"
+    },
+    {
+      "name": "polar vortex",
+      "type": "event"
+    },
+    {
+      "name": "Tropical cyclone Olivia",
+      "type": "event"
+    },
+    {
+      "name": "Saffir-Simpson scale",
+      "type": "other"
+    },
+    {
+      "name": "Enhanced Fujita scale",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and meteorology aspirations",
+      "summary": "Josh and Chuck joke about Earth Science Week and Josh's brief dream of being a meteorologist, which ended after a hard college meteorology class. They preview that wind is driven by heat, pressure differences, and planetary rotation.",
+      "topics": [
+        "meteorology careers",
+        "wind drivers overview"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Pressure differences create wind",
+      "summary": "Using a balloon analogy from the show's illustrator, they explain that air flows from high pressure to low pressure to equalize, and that wind is strongest where the pressure difference is greatest.",
+      "topics": [
+        "pressure differences",
+        "high and low pressure",
+        "wind speed"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Heat, convection and rising air",
+      "summary": "The sun heats Earth's surfaces unevenly, and the air above warms, expands, becomes less dense, and rises. Cooler air moves in to replace it, forming a circular convection cycle compared to a Ferris wheel and boiling water.",
+      "topics": [
+        "convection",
+        "uneven surface heating",
+        "warm air rising",
+        "convection cells"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Coriolis effect explained",
+      "summary": "The hosts explain that Earth's rotation makes points at different latitudes move at different speeds. A cannonball fired north from the equator appears to curve east, and one fired south from the pole curves west, so moving objects curve right in the Northern Hemisphere and left in the Southern. They also explain how rotation deflects air into rotating high and low pressure systems, with the roundabout comparison.",
+      "topics": [
+        "Coriolis effect",
+        "Earth's rotation",
+        "deflection of moving air",
+        "rotation of high and low pressure systems"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Hurricanes, Hadley cells and global circulation",
+      "summary": "They discuss how hurricanes are deflected away from the equator. Convection and the Coriolis effect spread air around the globe in large cells, and the Hadley cell reaches about 30 degrees latitude. Polar cells form near the poles, with the Ferrel cell in between.",
+      "topics": [
+        "hurricanes and the equator",
+        "Hadley cell",
+        "polar cell",
+        "Ferrel cell",
+        "global wind belts",
+        "trade winds"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Jet streams and the polar vortex",
+      "summary": "The cells interact with the Coriolis effect to form jet streams. The polar jet stream is strongest and can reach about 200 miles per hour, aiding airplanes. Extreme temperature differences can push it south, which causes polar vortex events. The hosts note World War Two spurred interest in jet streams, and volcanic ash was once carried far by them.",
+      "topics": [
+        "jet stream",
+        "polar jet stream",
+        "polar vortex",
+        "aviation and jet streams",
+        "World War Two aviation"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Land and sea breezes and mountain effects",
+      "summary": "Land heats faster than water, so cooler air from the ocean moves inland, which explains cooler coastal air. Mountains block and funnel wind, creating gusts and turbulence on their lee side, which affects flights into Las Vegas.",
+      "topics": [
+        "sea breeze",
+        "land breeze",
+        "coastal cooling",
+        "mountain winds",
+        "turbulence",
+        "wind funneling"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Wind speed records and the weather wind creates",
+      "summary": "Wind creates weather by moving moisture and temperature. Mount Washington held the surface wind speed record for decades until a 2011 confirmation of a 253 mph gust recorded in 1996 during Tropical Cyclone Olivia on Barrow Island, Australia. The hosts also mention the Saffir-Simpson and Enhanced Fujita scales.",
+      "topics": [
+        "wind speed records",
+        "Mount Washington",
+        "Barrow Island",
+        "Tropical Cyclone Olivia",
+        "Saffir-Simpson scale",
+        "Enhanced Fujita scale"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Ocean gyres, Lake Erie seiche, seed dispersal and dust",
+      "summary": "Wind drives ocean gyres, moving nutrients and garbage patches, and can pile water up at one end of Lake Erie. Wind disperses seeds, as with tumbleweeds. Dust storms, including the Dust Bowl, carry soil, and Saharan dust may feed the Amazon and carry disease such as meningitis.",
+      "topics": [
+        "ocean gyres",
+        "seiche",
+        "Lake Erie",
+        "seed dispersal",
+        "tumbleweeds",
+        "dust storms",
+        "Saharan dust",
+        "Amazon nutrients",
+        "meningitis"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:30",
+      "kind": "listener_mail",
+      "title": "Listener mail and Tom from Austin",
+      "summary": "The hosts read a thank-you email from a listener praising the show. They joke about a listener named Tom who offered free barbecue and drinks in Austin.",
+      "topics": [
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:42:30",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh invites listeners to write in with any reason to stuff@iheartradio.com and closes the episode.",
+      "topics": [
+        "show sign-off",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13972,
+    "output_tokens": 3016
+  }
+}

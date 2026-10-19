@@ -1,0 +1,312 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-05-27_SYSK_Selects_How_Beer_Works_48min.txt",
+  "title": "SYSK Selects: How Beer Works",
+  "date": "2017-05-27",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-beer-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59401de7-958e-4da5-820d-ae2800779e04/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/59401de7-958e-4da5-820d-ae2800779e04/transcript?format=TextWithTimestamps&t=1700543808",
+  "summary": "SYSK Selects rerun of the \"How Beer Works\" episode. The hosts trace beer's history from the ancient Sumerian Hymn to Ninkasi and the Gilgamesh epic through Babylon, Hammurabi's laws, Rome, Germanic and Nordic brewing, medieval monastic brewing, and the 1516 Reinheitsgebot. They cover American brewing from colonial Virginia and New Amsterdam through Prohibition, the post-WWII lager homogenization, and the craft brewing renaissance starting with New Albion in 1976. They then explain brewing and fermentation (mashing, wort, hops and IBUs, ales vs. lagers, lagering, carbonation), alcohol content, lambics, old shipwreck beers, Schlitz's decline, and assorted trivia. The episode closes with a listener email about a Kentucky attorney's oath not to duel.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Beer Works",
+  "topics": [
+    "beer history",
+    "how beer is made",
+    "brewing process",
+    "fermentation",
+    "mashing",
+    "hops",
+    "IBU bitterness units",
+    "ales vs lagers",
+    "lagering",
+    "Reinheitsgebot",
+    "German beer purity law",
+    "Hymn to Ninkasi",
+    "ancient Sumerian beer",
+    "Gilgamesh beer",
+    "Hammurabi beer ration",
+    "medieval monastic brewing",
+    "craft brewing renaissance",
+    "American brewing history",
+    "Prohibition brewing",
+    "Schlitz beer decline",
+    "lambic spontaneous fermentation",
+    "India pale ale origin",
+    "oldest brewery in the world",
+    "shipwreck beer",
+    "beer steins",
+    "Dogfish Head ancient recipes",
+    "Kentucky attorney dueling oath listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Sumer",
+      "type": "place"
+    },
+    {
+      "name": "Hymn to Ninkasi",
+      "type": "work"
+    },
+    {
+      "name": "Gilgamesh",
+      "type": "work"
+    },
+    {
+      "name": "Babylon",
+      "type": "place"
+    },
+    {
+      "name": "Hammurabi",
+      "type": "person"
+    },
+    {
+      "name": "Reinheitsgebot",
+      "type": "event"
+    },
+    {
+      "name": "Virginia",
+      "type": "place"
+    },
+    {
+      "name": "New Amsterdam",
+      "type": "place"
+    },
+    {
+      "name": "New Albion Brewery",
+      "type": "organization"
+    },
+    {
+      "name": "Schlitz",
+      "type": "organization"
+    },
+    {
+      "name": "Yuengling",
+      "type": "organization"
+    },
+    {
+      "name": "Guinness",
+      "type": "organization"
+    },
+    {
+      "name": "Weihenstephan",
+      "type": "organization"
+    },
+    {
+      "name": "Stella Artois",
+      "type": "organization"
+    },
+    {
+      "name": "Dogfish Head Brewery",
+      "type": "organization"
+    },
+    {
+      "name": "Sierra Nevada Pale Ale",
+      "type": "work"
+    },
+    {
+      "name": "Budweiser",
+      "type": "organization"
+    },
+    {
+      "name": "Medieval Times",
+      "type": "organization"
+    },
+    {
+      "name": "Chateau Jiahu",
+      "type": "work"
+    },
+    {
+      "name": "Lambic",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Intro and banter",
+      "summary": "Josh introduces this SYSK Selects episode as a rerun of How Beer Works. The hosts chat about guest producer Matt brewing his first batch of porter, a friend's band brewing a beer, and the porter and stout naming history.",
+      "topics": [
+        "SYSK Selects",
+        "homebrewing",
+        "porter vs stout"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Ancient beer origins",
+      "summary": "The hosts discuss beer as old as civilization, possibly starting from accidentally fermented bread or grain, and the theory that bread came from beer. They describe the Hymn to Ninkasi, the Sumerian beer recipe, and the Gilgamesh epic where Enkidu is given beer and becomes civilized.",
+      "topics": [
+        "ancient beer",
+        "Sumerians",
+        "Hymn to Ninkasi",
+        "Gilgamesh",
+        "beer and civilization"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Babylon, Hammurabi, and early beer",
+      "summary": "The hosts cover Babylonian beer varieties, the unverified rumor of punishment by drowning for bad batches, early unfiltered beer drunk through straws, and Hammurabi's code that set daily beer rations by worker rank.",
+      "topics": [
+        "Babylonian beer",
+        "Hammurabi code",
+        "beer rations",
+        "early beer drinking"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Egypt, Rome, and Germanic beer",
+      "summary": "Egyptian brewing is mentioned, then the hosts describe Roman disdain for beer as a barbarian drink, and Tacitus's description of Teutonic beer. They note Germans brewing since at least 800 BC and beer in the Finnish Kalevala, with mead for the realm of the dead.",
+      "topics": [
+        "Roman attitudes to beer",
+        "Tacitus Germania",
+        "Teutons",
+        "Kalevala",
+        "mead"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Medieval monks, women brewers, and surnames",
+      "summary": "Christian monks brewed beer to support their abbeys, the tradition behind Trappist beers. The hosts discuss medieval women as brewers and how some surnames like Brewer or Brewster came from female brewing ancestors.",
+      "topics": [
+        "medieval monasteries",
+        "Trappist beer",
+        "women brewers",
+        "brewster surname"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Reinheitsgebot German purity law",
+      "summary": "The hosts describe the 1516 Reinheitsgebot, a Bavarian purity law limiting beer ingredients, with its reasons: avoiding harmful additives, controlling prices, and preserving wheat for food. The hosts state the law as water, barley, and hops, with wheat included in some versions.",
+      "topics": [
+        "Reinheitsgebot",
+        "German beer purity law",
+        "1516 Bavaria",
+        "beer ingredients regulation"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "American brewing history and craft renaissance",
+      "summary": "Beer in colonial Virginia and the first brewery in New Amsterdam by Hans Christensen. The hosts cover the peak of about 4,100 US breweries in 1873, the consolidation after Prohibition and World War Two toward light lagers, and the craft brewing revival starting with New Albion in 1976, with brewery counts rising through 2011.",
+      "topics": [
+        "American brewing history",
+        "colonial Virginia beer",
+        "Prohibition",
+        "craft brewing renaissance",
+        "New Albion Brewery",
+        "brewery counts"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "How beer is made: mashing, boiling, hops, fermentation",
+      "summary": "The hosts explain the basic four ingredients, mashing malted grain into wort, boiling with hops measured in IBUs, and fermentation with yeast. They distinguish ales that ferment warm for weeks from lagers that ferment cold for months, the origin of the term lagering, and bottle conditioning for carbonation. They also discuss IPA history and India pale ale.",
+      "topics": [
+        "brewing process",
+        "mashing",
+        "wort",
+        "hops",
+        "IBU",
+        "fermentation",
+        "ales vs lagers",
+        "lagering",
+        "carbonation",
+        "India pale ale"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Alcohol content, lambics, favorite beers, and old beers",
+      "summary": "The hosts explain gravity as a measure of alcohol content and mention Georgia's old beer strength limit. They discuss lambic, spontaneously fermented beer, and share favorite beers. They then cover ancient shipwreck beers, the revived Chateau Jiahu recipe from Dogfish Head, Stella Artois, Weihenstephan, Guinness, and Yuengling.",
+      "topics": [
+        "alcohol by volume",
+        "lambic",
+        "spontaneous fermentation",
+        "shipwreck beer",
+        "oldest brewery",
+        "Dogfish Head",
+        "Guinness",
+        "Yuengling",
+        "Weihenstephan"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Schlitz decline and Budweiser bullet bottles",
+      "summary": "The hosts describe how Schlitz changed its recipe in the late 1970s, using corn syrup and less filtering, and lost market share, before Stroh bought the brand. They also discuss Budweiser's old bullet bottles and ownership of Anheuser-Busch.",
+      "topics": [
+        "Schlitz",
+        "Stroh",
+        "beer recipe change",
+        "Budweiser bullet bottles",
+        "Anheuser-Busch"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:30",
+      "kind": "content",
+      "title": "Random beer facts",
+      "summary": "Trivia: the 1814 London Brewery vat explosion that killed nine people, the Czech Republic's high per capita beer consumption, the Bass red triangle trademark, and the beer stein's origins.",
+      "topics": [
+        "London Brewery 1814 vat explosion",
+        "Czech beer consumption",
+        "red triangle trademark",
+        "beer steins"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:48:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Kentucky attorney and dueling oath",
+      "summary": "A listener who is a Kentucky attorney writes that her bar oath prohibits dueling, and the hosts comment briefly. They close by inviting homebrewers to get in touch.",
+      "topics": [
+        "dueling",
+        "Kentucky bar oath",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close with a reminder to drink responsibly and to search the site for beer.",
+      "topics": [
+        "drinking responsibly",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16609,
+    "output_tokens": 3579
+  }
+}

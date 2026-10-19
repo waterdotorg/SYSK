@@ -1,0 +1,330 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-01-14_Was_there_a_real_King_Arthur_43min.txt",
+  "title": "Was there a real King Arthur?",
+  "date": "2014-01-14",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/was-there-a-real-king-arthur",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/77f2e10d-6fa4-423e-8102-ae28009b4acc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/77f2e10d-6fa4-423e-8102-ae28009b4acc/transcript?format=TextWithTimestamps&t=1700543890",
+  "summary": "Josh and Chuck explore whether King Arthur was a real person. They start with pop culture touchstones (Excalibur, Monty Python and the Holy Grail, Camelot the musical, The Sword in the Stone), then lay out the basic Arthurian legend: Britain overrun by Saxons, the sword in the stone, Excalibur from the Lady of the Lake, Merlin, Camelot and the Round Table, Guinevere, Lancelot, Mordred, the battle at Camlann, and Arthur's return from Avalon. They trace the legend's development from Celtic oral myth through the Welsh poem Gododdin, Historia Brittonum and Annales Cambriae, Geoffrey of Monmouth, French romances and the Vulgate Cycle (Grail quest, Lancelot), Malory's Le Morte d'Arthur, Tennyson, and T.H. White. They then weigh historical candidates: Merlin possibly based on Myrddin Wyllt and Emrys Wledig, Camelot candidates (Tintagel, Winchester, Cadbury Castle), Glastonbury and the supposed grave of Arthur and Guinevere, real knights Bedivere and Kay, and Arthur possibly based on Roman or Welsh figures. A listener letter from Megan about her late father Howard closes the episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "King Arthur",
+    "Arthurian legend",
+    "Arthurian romance",
+    "Camelot",
+    "Excalibur",
+    "Sword in the Stone",
+    "Lady of the Lake",
+    "Merlin",
+    "Round Table",
+    "Guinevere",
+    "Lancelot",
+    "Mordred",
+    "Avalon",
+    "Glastonbury",
+    "Holy Grail quest",
+    "Geoffrey of Monmouth",
+    "Le Morte d'Arthur",
+    "Thomas Malory",
+    "Celtic mythology",
+    "historical Arthur",
+    "Tintagel",
+    "Cadbury Castle",
+    "Winchester Round Table",
+    "Monty Python and the Holy Grail",
+    "Gododdin",
+    "Vulgate Cycle"
+  ],
+  "entities": [
+    {
+      "name": "King Arthur",
+      "type": "person"
+    },
+    {
+      "name": "Merlin",
+      "type": "person"
+    },
+    {
+      "name": "Guinevere",
+      "type": "person"
+    },
+    {
+      "name": "Lancelot",
+      "type": "person"
+    },
+    {
+      "name": "Mordred",
+      "type": "person"
+    },
+    {
+      "name": "Morgan le Fay",
+      "type": "person"
+    },
+    {
+      "name": "Uther Pendragon",
+      "type": "person"
+    },
+    {
+      "name": "Geoffrey of Monmouth",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Malory",
+      "type": "person"
+    },
+    {
+      "name": "Alfred Lord Tennyson",
+      "type": "person"
+    },
+    {
+      "name": "T.H. White",
+      "type": "person"
+    },
+    {
+      "name": "Bedivere",
+      "type": "person"
+    },
+    {
+      "name": "Sir Kay",
+      "type": "person"
+    },
+    {
+      "name": "Pliny the Elder",
+      "type": "person"
+    },
+    {
+      "name": "Excalibur",
+      "type": "other"
+    },
+    {
+      "name": "Camelot",
+      "type": "place"
+    },
+    {
+      "name": "Avalon",
+      "type": "place"
+    },
+    {
+      "name": "Glastonbury",
+      "type": "place"
+    },
+    {
+      "name": "Tintagel Castle",
+      "type": "place"
+    },
+    {
+      "name": "Winchester Castle",
+      "type": "place"
+    },
+    {
+      "name": "Cadbury Castle",
+      "type": "place"
+    },
+    {
+      "name": "Camlann",
+      "type": "place"
+    },
+    {
+      "name": "Le Morte d'Arthur",
+      "type": "work"
+    },
+    {
+      "name": "Historia Regum Britanniae",
+      "type": "work"
+    },
+    {
+      "name": "Monty Python and the Holy Grail",
+      "type": "work"
+    },
+    {
+      "name": "Excalibur (film)",
+      "type": "work"
+    },
+    {
+      "name": "The Sword in the Stone",
+      "type": "work"
+    },
+    {
+      "name": "Y Gododdin",
+      "type": "work"
+    },
+    {
+      "name": "Mabinogion",
+      "type": "work"
+    },
+    {
+      "name": "Celts",
+      "type": "other"
+    },
+    {
+      "name": "Saxons",
+      "type": "other"
+    },
+    {
+      "name": "Druids",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter: Arthur movies and books",
+      "summary": "Josh and Chuck chat about King Arthur films, including Excalibur, Monty Python and the Holy Grail, Camelot the musical, and The Sword in the Stone, and the actors who played Arthur.",
+      "topics": [
+        "King Arthur movies",
+        "Excalibur",
+        "Monty Python and the Holy Grail",
+        "Camelot musical",
+        "Sword in the Stone"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Celtic roots and the question of a real Arthur",
+      "summary": "The hosts explain that the Arthurian legend is a layered, syncretized body of myth rooted in oral Celtic tradition, which left no written records, and raise the question of whether Arthur was a real person.",
+      "topics": [
+        "Celtic mythology",
+        "Arthurian legend origins",
+        "oral tradition",
+        "Pliny the Elder"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Basic Arthurian legend: sword, Camelot and the Round Table",
+      "summary": "The hosts summarize the legend: Arthur as a hero who restores peace to Britain after Rome's fall and Saxon rule, the sword in the stone, the Lady of the Lake and Excalibur, Merlin, Camelot, and the Round Table.",
+      "topics": [
+        "sword in the stone",
+        "Excalibur",
+        "Lady of the Lake",
+        "Merlin",
+        "Camelot",
+        "Round Table"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Avalon, apples, and tangents",
+      "summary": "The hosts discuss Avalon as a magical place meaning apple land, then digress into a joking tangent about eating apples and cores.",
+      "topics": [
+        "Avalon",
+        "apple symbolism",
+        "Celtic apples"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Guinevere, Lancelot, Mordred and the final battle",
+      "summary": "The hosts recount the downfall: Guinevere, Lancelot, Mordred and Morgan le Fay, the battle at Camlann, Arthur's wounding, the return of Excalibur to the lake, and Arthur's journey to Avalon.",
+      "topics": [
+        "Guinevere",
+        "Lancelot",
+        "Mordred",
+        "Morgan le Fay",
+        "Camlann",
+        "Excalibur return to lake",
+        "Avalon"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:22:30",
+      "kind": "ad",
+      "title": "Message break",
+      "summary": "Mid-episode sponsor break.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Earliest written sources: Welsh poems and chronicles",
+      "summary": "The hosts discuss the earliest mentions of Arthur in the sixth-century Welsh poem Y Gododdin and later chronicles Historia Brittonum and Annales Cambriae, and how the Celts' Christianization led to written records.",
+      "topics": [
+        "Y Gododdin",
+        "Historia Brittonum",
+        "Annales Cambriae",
+        "early Welsh literature",
+        "Christianization of the Celts"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Geoffrey of Monmouth, French romance and Malory",
+      "summary": "Geoffrey of Monmouth popularized the legend in the 1100s, the French added romance and the Grail quest through the Vulgate Cycle, and Thomas Malory compiled Le Morte d'Arthur. The hosts then note Tennyson and T.H. White's later versions.",
+      "topics": [
+        "Geoffrey of Monmouth",
+        "Vulgate Cycle",
+        "Grail quest",
+        "Thomas Malory",
+        "Le Morte d'Arthur",
+        "Tennyson",
+        "T.H. White"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Was there a real Arthur? Merlin, Camelot and Avalon candidates",
+      "summary": "The hosts evaluate historical candidates: Merlin possibly based on Myrddin Wyllt and Emrys Wledig, Tintagel and Winchester and Cadbury Castle as Camelot candidates, and Glastonbury's reputed graves of Arthur and Guinevere.",
+      "topics": [
+        "historical Arthur",
+        "Merlin origins",
+        "Myrddin Wyllt",
+        "Camelot location",
+        "Tintagel",
+        "Winchester Round Table",
+        "Cadbury Castle",
+        "Glastonbury grave",
+        "Avalon Glastonbury"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Real knights and theories of who Arthur was",
+      "summary": "The hosts discuss Bedivere and Kay as possibly real figures, theories that Arthur was a Roman commander or Welsh king, and the idea that Arthur may be a title meaning bear. They wrap up with a Monty Python reference.",
+      "topics": [
+        "Bedivere",
+        "Sir Kay",
+        "Arthur Roman theory",
+        "Arthur as title meaning bear",
+        "historical Arthur theories"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks and show promotion.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13951,
+    "output_tokens": 3361
+  }
+}

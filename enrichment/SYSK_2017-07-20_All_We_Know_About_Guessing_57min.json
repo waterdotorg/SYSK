@@ -1,0 +1,248 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-20_All_We_Know_About_Guessing_57min.txt",
+  "title": "All We Know About Guessing",
+  "date": "2017-07-20",
+  "duration": "57 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/all-we-know-about-guessing",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd1bd4b3-97c6-487f-b9f2-ae2800746422/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd1bd4b3-97c6-487f-b9f2-ae2800746422/transcript?format=TextWithTimestamps&t=1700543801",
+  "summary": "Josh and Chuck (with Jerry) explore guessing: what science knows about how the brain makes guesses (a global process involving many brain regions), wild guesses vs. educated guesses vs. estimates and the military term \"swag,\" how practice improves guessing (Chuck's crowd-size estimates, jelly bean jar technique), emotional guessing and empathic accuracy, cognitive distortions and polarized thinking, tips for multiple-choice tests from William Poundstone's book, rock paper scissors strategy from a Motherboard article on a University of Hangzhou study, mirror neurons and theory of mind in apes and autism testing. The episode closes with tour dates announcements at the start, congratulations to the Bars on a birth, and a listener mail about registering to vote in Texas after moving from Alabama.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "guessing",
+    "estimation",
+    "wild guess vs educated guess",
+    "swag military term",
+    "jelly bean jar estimation",
+    "brain and guessing",
+    "intuition",
+    "empathic accuracy",
+    "cognitive distortion",
+    "polarized thinking",
+    "mind reading",
+    "multiple choice test strategies",
+    "SAT guessing penalty",
+    "Rock Breaks Scissors",
+    "rock paper scissors strategy",
+    "game theory",
+    "mirror neurons",
+    "theory of mind",
+    "apes theory of mind",
+    "autism theory of mind test",
+    "Lewis and Clark estimate",
+    "voter registration Texas",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Lewis and Clark",
+      "type": "event"
+    },
+    {
+      "name": "William Poundstone",
+      "type": "person"
+    },
+    {
+      "name": "Rock Breaks Scissors",
+      "type": "work"
+    },
+    {
+      "name": "Motherboard",
+      "type": "organization"
+    },
+    {
+      "name": "University of Hangzhou",
+      "type": "organization"
+    },
+    {
+      "name": "Simon Baron-Cohen",
+      "type": "person"
+    },
+    {
+      "name": "Derek DelGaudio",
+      "type": "person"
+    },
+    {
+      "name": "In and of Itself",
+      "type": "work"
+    },
+    {
+      "name": "General Westmoreland",
+      "type": "person"
+    },
+    {
+      "name": "Aaliyah Hoyt",
+      "type": "person"
+    },
+    {
+      "name": "Texas",
+      "type": "place"
+    },
+    {
+      "name": "Alabama",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:00",
+      "kind": "ad",
+      "title": "Tour announcement",
+      "summary": "Hosts announce fall tour dates in Toronto, Chicago, Vancouver, Minneapolis, Austin, Lawrence, Kansas City, Brooklyn, and Atlanta, with tickets at sysklive.com.",
+      "topics": [
+        "tour dates",
+        "live shows"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:08:00",
+      "kind": "intro",
+      "title": "Opening banter and magic show",
+      "summary": "Chuck mentions seeing a magic show by Derek DelGaudio, In and of Itself, and the hosts frame the episode: science has little understanding of how guesses are made, and guessing is part of constructing reality; Lewis and Clark's estimate of the Pacific distance came within about forty miles.",
+      "topics": [
+        "magic illusion show",
+        "guessing",
+        "optical illusions",
+        "Lewis and Clark"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "How the brain makes guesses",
+      "summary": "Brain imaging suggests guessing is a global process; different regions activate depending on the task, such as numerical or spatial areas for quantities and visual areas for objects. Science cannot yet map the full cascade.",
+      "topics": [
+        "brain and guessing",
+        "neuroscience of estimation",
+        "spatial reasoning",
+        "numerical quantity"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Types of guesses: wild, educated, swag, estimate, intuition",
+      "summary": "The hosts sort guesses into intellectual and emotional categories, then into wild guesses, educated guesses, the military term swag (attributed to Vietnam and General Westmoreland), and estimates, with intuition as trained, experience-based guessing.",
+      "topics": [
+        "wild guess",
+        "educated guess",
+        "swag",
+        "estimation",
+        "intuition"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Getting better at guessing through practice",
+      "summary": "Chuck describes improving at estimating crowd sizes through live shows. The hosts discuss a jelly bean jar technique: know the container's volume, sample a small area, and account for packing fraction of spheres (about 60 percent) versus other shapes.",
+      "topics": [
+        "estimation practice",
+        "jelly bean jar",
+        "packing fraction",
+        "feedback and learning"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Emotional guessing, empathic accuracy, and cognitive distortions",
+      "summary": "Researchers Ickes and Gleason-style empathic accuracy is discussed as how accurately people read others' feelings. Chuck shares that he was often wrong about reading others. The hosts discuss cognitive distortions, polarized thinking, and how past experiences and personal traits color guesses about others' intentions.",
+      "topics": [
+        "empathic accuracy",
+        "cognitive distortion",
+        "polarized thinking",
+        "mind reading",
+        "self-confidence",
+        "judgmental people"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Multiple choice test guessing strategies",
+      "summary": "Discussion of the old SAT and ACT guessing penalty, and of William Poundstone's analysis of about one hundred tests: all-of-the-above and none-of-the-above are often correct, the longest answer tends to be right, answer patterns, and eliminating outliers and near-duplicates. An SAT vocabulary example illustrates elimination.",
+      "topics": [
+        "multiple choice tests",
+        "SAT guessing",
+        "test-taking tips",
+        "William Poundstone",
+        "answer elimination"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Winning at rock paper scissors",
+      "summary": "A Motherboard Germany article reports on a study with University of Hangzhou researchers in which 360 students played 300 rounds each. Strategies covered include opening with paper against men who open with rock, playing the move that was not played last round, and mirroring the opponent.",
+      "topics": [
+        "rock paper scissors",
+        "game theory",
+        "strategy",
+        "Motherboard study"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Mirror neurons, theory of mind, and apes",
+      "summary": "Mirror neurons are proposed as one basis for predicting others' actions. Research shows chimpanzees, bonobos, and orangutans attribute mental states to others. The Sally-Anne style test, using a Three Musketeers example, shows how false-belief reasoning is tested in children and linked to autism, citing Simon Baron-Cohen.",
+      "topics": [
+        "mirror neurons",
+        "theory of mind",
+        "apes",
+        "autism",
+        "false belief test"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:56:30",
+      "kind": "intro",
+      "title": "Congratulations to the Bars",
+      "summary": "The hosts congratulate Stephen and Jane, friends of the show, on the birth of their first child.",
+      "topics": [
+        "personal announcements"
+      ]
+    },
+    {
+      "start": "00:56:30",
+      "end": "00:57:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: voter registration in Texas",
+      "summary": "Monica describes registering to vote in Texas after moving from Alabama. Clerks disputed her court-ordered name change and asked for extra proof of residency until a supervisor accepted her documents.",
+      "topics": [
+        "voter registration",
+        "Texas",
+        "name change",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "00:57:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listener mail and social media contact and close the episode.",
+      "topics": [
+        "listener contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17952,
+    "output_tokens": 2836
+  }
+}

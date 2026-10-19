@@ -1,0 +1,279 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-09-03_How_Alcoholism_Works_49min.txt",
+  "title": "How Alcoholism Works",
+  "date": "2015-09-03",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-alcoholism-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b64f3f8b-903e-40fa-9957-ae28008b8ef2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b64f3f8b-903e-40fa-9957-ae28008b8ef2/transcript?format=TextWithTimestamps&t=1700543850",
+  "summary": "Josh and Chuck explain alcoholism as a chronic disease marked by physical dependence, distinguishing it from alcohol abuse and binge drinking. They cover risk factors (genetics, twin studies, physiology, psychology, social pressure), warning signs, how the body metabolizes alcohol and its effects on the liver, stomach, brain regions and neurotransmitters (GABA, glutamate, dopamine), blackouts, Wernicke-Korsakoff (\"wet brain\") from thiamine deficiency, withdrawal and delirium tremens, health damage such as cirrhosis and cancer, fetal alcohol syndrome, economic costs, and treatment options including Alcoholics Anonymous, moderation management, cognitive behavioral therapy, and medications (Naltrexone, Acamprosate, Antabuse). The episode closes with a listener mail about tape-delay reverb in a 1950s Tucson rock band and a clarification that Pete Frampton's effect is a talk box, not a vocoder.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "alcoholism",
+    "alcohol abuse",
+    "binge drinking",
+    "alcohol use disorder",
+    "physical dependence",
+    "alcohol withdrawal",
+    "delirium tremens",
+    "genetics of alcoholism",
+    "risk factors for alcoholism",
+    "alcohol and the brain",
+    "neurotransmitters GABA glutamate dopamine",
+    "blackouts",
+    "wet brain Wernicke-Korsakoff",
+    "thiamine deficiency",
+    "cirrhosis",
+    "alcoholic hepatitis",
+    "alcohol and cancer",
+    "fetal alcohol syndrome",
+    "alcohol advertising",
+    "Alcoholics Anonymous",
+    "moderation management",
+    "cognitive behavioral therapy for alcohol",
+    "naltrexone",
+    "acamprosate",
+    "Antabuse disulfiram",
+    "alcohol treatment",
+    "listener mail",
+    "reverb",
+    "talk box"
+  ],
+  "entities": [
+    {
+      "name": "Alcoholics Anonymous",
+      "type": "organization"
+    },
+    {
+      "name": "National Institutes of Health",
+      "type": "organization"
+    },
+    {
+      "name": "Harper's",
+      "type": "work"
+    },
+    {
+      "name": "New York Times",
+      "type": "work"
+    },
+    {
+      "name": "Leaving Las Vegas",
+      "type": "work"
+    },
+    {
+      "name": "Amy Winehouse",
+      "type": "person"
+    },
+    {
+      "name": "Alexander the Great",
+      "type": "person"
+    },
+    {
+      "name": "Pete Frampton",
+      "type": "person"
+    },
+    {
+      "name": "Ryan Reynolds",
+      "type": "person"
+    },
+    {
+      "name": "Wernicke-Korsakoff syndrome",
+      "type": "other"
+    },
+    {
+      "name": "Antabuse",
+      "type": "other"
+    },
+    {
+      "name": "Naltrexone",
+      "type": "other"
+    },
+    {
+      "name": "Acamprosate",
+      "type": "other"
+    },
+    {
+      "name": "Moderation Management",
+      "type": "organization"
+    },
+    {
+      "name": "Fetal alcohol syndrome",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and alcohol use terminology",
+      "summary": "Hosts open with banter about a noise machine, then distinguish alcohol abuse, binge drinking, and alcoholism, noting that global drinking rates vary and that alcoholism is a chronic disease involving dependence and withdrawal.",
+      "topics": [
+        "alcoholism",
+        "alcohol abuse",
+        "binge drinking",
+        "alcohol use disorder",
+        "drinking statistics"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Who is affected and risk levels",
+      "summary": "Hosts cite about 17 million Americans affected, the NIH definition of moderate drinking (14 drinks a week for men, 7 for women), and that alcoholism is more common among younger people. They note family exposure to alcoholism and that children of alcoholics face higher risk.",
+      "topics": [
+        "alcoholism prevalence",
+        "moderate drinking guidelines",
+        "children of alcoholics",
+        "family history of alcoholism"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Causes: genetics, psychology, social pressure",
+      "summary": "Risk factors discussed include twin studies showing higher concordance in identical twins, a highly tuned pleasure circuit, depression and low self-esteem, and social pressure including alcohol advertising.",
+      "topics": [
+        "genetics of alcoholism",
+        "twin studies",
+        "risk factors",
+        "alcohol advertising",
+        "peer pressure drinking"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Warning signs of alcoholism",
+      "summary": "Signs include losing interest in food, drinking alone, lying or secretly drinking, drinking to forget problems, irritability when not drinking, and frequent blackouts.",
+      "topics": [
+        "signs of alcoholism",
+        "secret drinking",
+        "blackouts",
+        "drinking to forget problems"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "How the body processes alcohol",
+      "summary": "Alcohol irritates the stomach lining and is absorbed in the stomach and small intestine, faster for vodka than beer. About 10 percent is removed through urine and breath, and the liver metabolizes the rest into acetaldehyde. Blood alcohol concentration levels and risk of coma or death are discussed.",
+      "topics": [
+        "alcohol metabolism",
+        "blood alcohol concentration",
+        "alcohol poisoning",
+        "acetaldehyde",
+        "alcohol absorption"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Effects on the brain and neurotransmitters",
+      "summary": "Alcohol increases GABA and decreases glutamate, and raises dopamine. Regions affected include the prefrontal cortex (judgment), cerebellum (balance), hypothalamus, and medulla (breathing, gag reflex). Discussion includes memory loss and the Ryan Reynolds eating-contest anecdote.",
+      "topics": [
+        "neurotransmitters GABA glutamate dopamine",
+        "prefrontal cortex and alcohol",
+        "medulla and alcohol",
+        "cerebellum and balance",
+        "alcohol and the brain"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Thiamine deficiency and wet brain",
+      "summary": "Long-term alcohol use reduces absorption of thiamine (vitamin B1), leading to Wernicke-Korsakoff syndrome, or wet brain, which is often undiagnosed before death.",
+      "topics": [
+        "thiamine deficiency",
+        "vitamin B1",
+        "wet brain",
+        "Wernicke-Korsakoff syndrome",
+        "alcohol memory loss"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Alcohol withdrawal",
+      "summary": "Stopping drinking after physical dependence causes withdrawal within one to three days, with hallucinations, seizures, sweating, and delirium tremens. People have died from acute withdrawal, and weaning is increasingly seen as safer. Films about alcoholism are mentioned.",
+      "topics": [
+        "alcohol withdrawal",
+        "delirium tremens",
+        "homeostasis and brain chemistry",
+        "cold turkey quitting",
+        "alcoholism in film"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Organ damage, cancer, and fetal alcohol syndrome",
+      "summary": "Alcohol damages the liver (alcoholic hepatitis, cirrhosis), stomach, pancreas, and raises cancer risk as a carcinogen. Fetal alcohol syndrome is described as a leading preventable cause of mental impairment, with advice against drinking during pregnancy. Economic costs are estimated at about 3 billion dollars.",
+      "topics": [
+        "cirrhosis",
+        "alcoholic hepatitis",
+        "alcohol and cancer",
+        "fetal alcohol syndrome",
+        "economic cost of alcoholism"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Treatment options",
+      "summary": "Alcoholics Anonymous has long been the main option, with alternatives like moderation management and cognitive behavioral therapy. Medications include naltrexone (Revia-type trek zone), acamprosate, and disulfiram (Antabuse). A 2007 AA survey found 33 percent of members abstinent after ten years, and a Harper's article on AA is recommended.",
+      "topics": [
+        "Alcoholics Anonymous",
+        "moderation management",
+        "cognitive behavioral therapy",
+        "naltrexone",
+        "acamprosate",
+        "Antabuse",
+        "AA relapse rates",
+        "alcohol treatment"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:02:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: 1950s tape echo and talk box",
+      "summary": "A listener recounts a 1950s Tucson rock band recording with a water tank echo effect, and the hosts clarify that the Pete Frampton effect is a talk box rather than a vocoder.",
+      "topics": [
+        "reverb",
+        "tape echo history",
+        "talk box",
+        "Pete Frampton",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:03:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts encourage listeners to seek help for alcoholism, mention social media contacts, and close the episode.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16209,
+    "output_tokens": 3363
+  }
+}

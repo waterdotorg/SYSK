@@ -1,0 +1,238 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-08-09_Whats_the_future_of_the_internet_39min.txt",
+  "title": "What's the future of the internet?",
+  "date": "2011-08-09",
+  "duration": "39 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-future-of-the-internet",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8807b60b-5cd1-4c80-bbd4-ae2800ae66b3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8807b60b-5cd1-4c80-bbd4-ae2800ae66b3/transcript?format=TextWithTimestamps&t=1700543937",
+  "summary": "Josh and Chuck speculate on the future of the Internet, opening with current usage statistics from Pew Research (internet adoption growth from 2001 to today, and what adults do online). They then discuss download speeds and record data transfer rates (Bell Labs laser transfer, fiber optic records), predicting faster wireless and landline access. The hosts cover net neutrality, the December 2010 FCC ruling and its wireless exception, and the risk of a tiered, corporatized Internet. They discuss tethered appliances and walled gardens (Apple's App Store, Xbox Live), the Flash vs. HTML5 dispute, and a book by Jonathan Zittrain. Nicholas Carr's \"Is Google Making Us Stupid\" and concerns about smartphones and memory are discussed. They close with predictions from Mashable's six web pioneers (Very Glick, Jeremy Stoppelman, Ryan Ozimek, and a Drupal founder) and then answer listener Facebook questions on unrelated topics.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "future of the Internet",
+    "internet adoption statistics",
+    "Pew Research Internet usage",
+    "download speeds",
+    "effective data transfer rate",
+    "petabyte data transfer record",
+    "fiber optic speed record",
+    "wireless Internet",
+    "net neutrality",
+    "FCC net neutrality ruling December 2010",
+    "tiered Internet",
+    "walled gardens",
+    "tethered appliances",
+    "Apple App Store",
+    "Adobe Flash",
+    "HTML5",
+    "Jonathan Zittrain",
+    "Nicholas Carr Is Google Making Us Stupid",
+    "smartphones and memory",
+    "augmented reality",
+    "cloud computing",
+    "Web pioneers predictions",
+    "Stuff from the Future podcast"
+  ],
+  "entities": [
+    {
+      "name": "Net neutrality",
+      "type": "other"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Pew Research Center",
+      "type": "organization"
+    },
+    {
+      "name": "Akamai Technologies",
+      "type": "organization"
+    },
+    {
+      "name": "Bell Labs",
+      "type": "organization"
+    },
+    {
+      "name": "Apple",
+      "type": "organization"
+    },
+    {
+      "name": "Adobe",
+      "type": "organization"
+    },
+    {
+      "name": "Xbox Live",
+      "type": "work"
+    },
+    {
+      "name": "Jonathan Zittrain",
+      "type": "person"
+    },
+    {
+      "name": "The Future of the Internet and How to Stop It",
+      "type": "work"
+    },
+    {
+      "name": "Nicholas Carr",
+      "type": "person"
+    },
+    {
+      "name": "Is Google Making Us Stupid",
+      "type": "work"
+    },
+    {
+      "name": "Very Glick",
+      "type": "person"
+    },
+    {
+      "name": "Jeremy Stoppelman",
+      "type": "person"
+    },
+    {
+      "name": "Yelp",
+      "type": "organization"
+    },
+    {
+      "name": "MapQuest",
+      "type": "organization"
+    },
+    {
+      "name": "Mashable",
+      "type": "organization"
+    },
+    {
+      "name": "Stuff from the Future",
+      "type": "work"
+    },
+    {
+      "name": "John Strickland",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening and episode framing",
+      "summary": "Josh and Chuck introduce the topic of the future of the Internet, note that few people make concrete predictions, and mention coworker John Strickland's work on the subject.",
+      "topics": [
+        "future of the Internet",
+        "John Strickland"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Internet adoption and usage statistics",
+      "summary": "Pew Research figures are cited: US adult internet adoption rose from about 14 percent in 2001 to 60 percent by November 2001 comparison and about 77 percent now, with breakdowns by gender and household income. They also list common daily online activities such as email, search, news, social networking, weather, and video.",
+      "topics": [
+        "internet adoption statistics",
+        "Pew Research Internet usage",
+        "online activities"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Download speeds and data transfer records",
+      "summary": "The hosts define effective data transfer rate and discuss the gap between advertised speeds and actual speeds. They cite a Bell Labs laser record of 100 petabytes per second and a fiber optic record of about 26 terabytes per second, and predict faster wireless and landline access.",
+      "topics": [
+        "download speeds",
+        "effective data transfer rate",
+        "petabyte data transfer record",
+        "fiber optic speed record",
+        "wireless Internet"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Net neutrality and the FCC ruling",
+      "summary": "Net neutrality is explained as keeping the Internet open regardless of provider. The hosts describe the risk of ISPs favoring certain sites, the December 2010 FCC ruling that left a wireless exception, and concerns about a divided, corporatized Internet. They argue for a Darwinian, level playing field.",
+      "topics": [
+        "net neutrality",
+        "FCC net neutrality ruling December 2010",
+        "tiered Internet",
+        "wireless exception"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Walled gardens, tethered appliances, and Flash",
+      "summary": "The hosts discuss device makers creating walled gardens such as Apple's iPhone App Store and Xbox Live, which limit access to certain parts of the Internet. They also discuss Apple's refusal to support Adobe Flash and the rise of HTML5, and Jonathan Zittrain's book on the future of the Internet.",
+      "topics": [
+        "walled gardens",
+        "tethered appliances",
+        "Apple App Store",
+        "Adobe Flash",
+        "HTML5",
+        "Jonathan Zittrain"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Smartphones, memory, and Nicholas Carr",
+      "summary": "The hosts discuss Nicholas Carr's article 'Is Google Making Us Stupid' and how skimming online information may change how people think and remember. They share personal concerns about attention and memory and the loss of tip-of-the-tongue moments, and mention smartphone etiquette.",
+      "topics": [
+        "Nicholas Carr",
+        "Is Google Making Us Stupid",
+        "smartphones and memory",
+        "online attention",
+        "smartphone etiquette"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Web pioneers' predictions",
+      "summary": "The hosts review predictions from Mashable's six web pioneers: Very Glick on invisible ubiquitous access, Jeremy Stoppelman on augmented reality, Ryan Ozimek on cloud focus, and a Drupal founder on more websites and devices.",
+      "topics": [
+        "web pioneers predictions",
+        "augmented reality",
+        "cloud computing",
+        "Mashable",
+        "Yelp"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:38:30",
+      "kind": "listener_mail",
+      "title": "Listener questions and off-topic chat",
+      "summary": "The hosts answer Facebook questions on unrelated topics such as favorite music, drinks, Academy Awards, and Looney Tunes versus Disney ducks, and invite listener predictions by email.",
+      "topics": [
+        "listener questions",
+        "Facebook questions"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:39:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck invite listeners to send predictions and questions, and promote the Stuff from the Future video podcast.",
+      "topics": [
+        "sign-off",
+        "Stuff from the Future podcast"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12870,
+    "output_tokens": 2688
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-08_SYSK_Selects_How_HeLa_Cells_Work_27min.txt",
+  "title": "SYSK Selects: How HeLa Cells Work",
+  "date": "2017-07-08",
+  "duration": "27 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-hela-cells-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0ef84e1c-4cc8-4f75-aa45-ae280074fa5e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0ef84e1c-4cc8-4f75-aa45-ae280074fa5e/transcript?format=TextWithTimestamps&t=1700543802",
+  "summary": "SYSK Selects rerun (picked by Josh) of the episode on HeLa cells. Covers Henrietta Lacks, a Baltimore woman whose cervical cancer cells, taken without her knowledge at Johns Hopkins in the 1950s, became the first immortal human cell line, grown by Dr. Gey's tissue culture lab. Discusses HPV integration and the Mic gene theory for their immortality, apoptosis and the Hayflick limit, the cells' use in polio, HPV, and other research, contamination of other cell lines, the family's unconsented discovery and misleading blood-test call, the 1990 Moore v. Regents case, Rebecca Skloot's book The Immortal Life of Henrietta Lacks, and the 2013 HeLa genome access arrangement with family representation. Closes with a listener mail about a homebrew biodiesel setup and an outro.",
+  "episode_kind": "rerun",
+  "rerun_of": "How HeLa Cells Work",
+  "topics": [
+    "HeLa cells",
+    "Henrietta Lacks",
+    "immortal cell line",
+    "cell culture",
+    "Johns Hopkins",
+    "George Gey",
+    "cervical cancer",
+    "HPV",
+    "apoptosis",
+    "Hayflick limit",
+    "programmed cell death",
+    "informed consent",
+    "medical ethics",
+    "tissue ownership",
+    "Rebecca Skloot",
+    "The Immortal Life of Henrietta Lacks",
+    "HeLa genome",
+    "polio vaccine testing",
+    "Jonas Salk",
+    "cell line contamination",
+    "biomedical research ethics",
+    "genetic privacy",
+    "Lacks family",
+    "biodiesel",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Henrietta Lacks",
+      "type": "person"
+    },
+    {
+      "name": "George Gey",
+      "type": "person"
+    },
+    {
+      "name": "Rebecca Skloot",
+      "type": "person"
+    },
+    {
+      "name": "Jonas Salk",
+      "type": "person"
+    },
+    {
+      "name": "HeLa cells",
+      "type": "other"
+    },
+    {
+      "name": "Johns Hopkins",
+      "type": "organization"
+    },
+    {
+      "name": "The Immortal Life of Henrietta Lacks",
+      "type": "work"
+    },
+    {
+      "name": "National Institutes of Health",
+      "type": "organization"
+    },
+    {
+      "name": "Baltimore, Maryland",
+      "type": "place"
+    },
+    {
+      "name": "Moore v. Regents of the University of California",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Rerun intro and Josh's pick",
+      "summary": "Chuck introduces this Saturday Selects episode, which Josh picked. Josh explains the appeal of mixing history and science and notes the listener requests about the pronunciation of HeLa and the Lacks name.",
+      "topics": [
+        "SYSK Selects",
+        "HeLa pronunciation",
+        "rerun"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Henrietta Lacks and the first immortal cells",
+      "summary": "Henrietta Lacks, a Black woman in Baltimore, had cervical cancer after giving birth to her fifth child. Because Johns Hopkins was the only local place treating African Americans, she was treated there. Dr. Gey's tissue culture lab grew cells from her tumor, which kept dividing and doubling every 24 hours, the first immortal human line. She died October 4, 1951, and the hosts describe the painful, primitive treatment she received.",
+      "topics": [
+        "Henrietta Lacks",
+        "cervical cancer",
+        "Johns Hopkins",
+        "George Gey",
+        "immortal cell line",
+        "cell division"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Naming the cells and buying HeLa cells today",
+      "summary": "The cells were named after Henrietta Lacks, with a long-standing misidentification as Helen Lane or Helen Larson. Consent was not required at the time, and Gey gave cells away free. Today HeLa cell lines are sold commercially, with prices ranging from about $250 to thousands of dollars, with nonprofit discounts.",
+      "topics": [
+        "HeLa naming",
+        "cell line purchase",
+        "cell culture pricing",
+        "informed consent"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Why HeLa cells are immortal: HPV and the MYC gene",
+      "summary": "The hosts explain the leading theory, reported in Nature, that HPV inserted its genetic material near the MYC regulatory gene in Lacks's DNA, possibly driving rapid division. They note it is only a theory and that Rebecca Skloot accepts it. Josh says this was not known during the book tour.",
+      "topics": [
+        "HPV",
+        "MYC gene",
+        "HeLa immortality",
+        "cervical cancer cause",
+        "human papillomavirus"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A message break between segments.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Apoptosis, the Hayflick limit, and cancer",
+      "summary": "Apoptosis is programmed cell death, a normal process that balances cell division and removes unneeded cells, including webbing between developing fingers. Normal cells divide roughly 40 to 60 times before dying, known as the Hayflick limit. Cancer cells evade this limit, and HeLa cells are extremely hardy, airborne, and contaminated other cell lines by the early 1970s.",
+      "topics": [
+        "apoptosis",
+        "programmed cell death",
+        "Hayflick limit",
+        "cancer cell growth",
+        "cell line contamination"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Family discovery, deception, and the research legacy",
+      "summary": "In the early 1970s researchers contacted the Lacks family to get their DNA for identifying HeLa contamination. The family was confused, and the call was misleading because it suggested the children might have cancer. Johns Hopkins never called back. HeLa cells contributed to research on polio (Salk vaccine testing), HPV vaccine development, measles, mumps, tuberculosis, HIV, and Parkinson's, and to standardized cell culture and shipping, with more than 11,000 patents mentioned.",
+      "topics": [
+        "Lacks family",
+        "DNA testing",
+        "polio vaccine",
+        "HPV vaccine",
+        "medical research legacy",
+        "patents"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Legal rights, the HeLa genome, and the family's recognition",
+      "summary": "The family found the cell line was a large industry without compensation. Courts ruled that tissue removed from the body does not belong to the donor, citing a 1990 case involving a leukemia patient's cells. In 2013 the NIH gave two descendants a seat on the HeLa Genome Data Access Working Group after a European agency published the HeLa genome. The family received an apology and scholarships, and the hosts note a Henrietta Lacks Foundation.",
+      "topics": [
+        "Moore v. Regents",
+        "tissue ownership",
+        "HeLa genome",
+        "NIH data access",
+        "Lacks family compensation",
+        "Henrietta Lacks Foundation"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:26:45",
+      "kind": "listener_mail",
+      "title": "Listener mail: homebrew biodiesel",
+      "summary": "Ben writes about his father's homebrew biodiesel setup in a garage, which produces 90-gallon batches from used vegetable oil and fuels family vehicles and a boat.",
+      "topics": [
+        "listener mail",
+        "biodiesel",
+        "homebrew fuel"
+      ]
+    },
+    {
+      "start": "00:26:45",
+      "end": "00:27:00",
+      "kind": "outro",
+      "title": "Sign-off and further reading",
+      "summary": "The hosts recommend Rebecca Skloot's The Immortal Life of Henrietta Lacks and invite listeners to contact the show and visit the website.",
+      "topics": [
+        "further reading",
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9251,
+    "output_tokens": 2832
+  }
+}

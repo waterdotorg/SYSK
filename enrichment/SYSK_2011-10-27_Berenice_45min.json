@@ -1,0 +1,196 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-10-27_Berenice_45min.txt",
+  "title": "Berenice",
+  "date": "2011-10-27",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/berenice",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee70b896-9e2b-41e1-8007-ae2800ac9db3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ee70b896-9e2b-41e1-8007-ae2800ac9db3/transcript?format=TextWithTimestamps&t=1739383992",
+  "summary": "Halloween episode in which the hosts read Edgar Allan Poe's short story \"Berenice\" aloud in full, with commentary on its themes of monomania, illness, and the obsession with teeth. The episode then features a special guest, John Hodgman, who visits the studio to deliver his listener mail, discussing his new book \"That Is All,\" Poe's ties to the Baltimore Ravens, sports versus nerd culture, and a steampunk-themed New York Jets center, Nick Mangold.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Edgar Allan Poe",
+    "Berenice",
+    "Poe short story reading",
+    "Halloween episode",
+    "monomania",
+    "Poe Baltimore",
+    "Baltimore Ravens",
+    "The Raven poem",
+    "John Hodgman",
+    "That Is All book",
+    "sports vs nerd culture",
+    "Nick Mangold",
+    "steampunk",
+    "Poe audiobook reading",
+    "Edgar Oliver",
+    "Gothic literature"
+  ],
+  "entities": [
+    {
+      "name": "Edgar Allan Poe",
+      "type": "person"
+    },
+    {
+      "name": "Berenice",
+      "type": "work"
+    },
+    {
+      "name": "John Hodgman",
+      "type": "person"
+    },
+    {
+      "name": "That Is All",
+      "type": "work"
+    },
+    {
+      "name": "Baltimore Ravens",
+      "type": "organization"
+    },
+    {
+      "name": "Nick Mangold",
+      "type": "person"
+    },
+    {
+      "name": "New York Jets",
+      "type": "organization"
+    },
+    {
+      "name": "The Raven",
+      "type": "work"
+    },
+    {
+      "name": "Edgar Oliver",
+      "type": "person"
+    },
+    {
+      "name": "The Moth",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Halloween setup",
+      "summary": "The hosts open with banter about Edgar Oliver and The Moth, note it is Halloween, and explain they are again reading a short story, chosen by Chuck, by Edgar Allan Poe.",
+      "topics": [
+        "Halloween episode",
+        "Edgar Oliver",
+        "The Moth",
+        "Poe reading tradition"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Reading of Poe's 'Berenice' (part one)",
+      "summary": "Speaker reads Poe's story Berenice aloud, covering the narrator's obsessive, monomaniac mind, his cousin Berenice's illness, and his growing fixation on her teeth. The hosts comment on the story's language and the narrator's opium-like state.",
+      "topics": [
+        "Berenice",
+        "Edgar Allan Poe",
+        "monomania",
+        "Poe short story reading",
+        "Gothic literature"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:05",
+      "kind": "content",
+      "title": "Reading of Poe's 'Berenice' (conclusion)",
+      "summary": "The narrator wakes to learn Berenice has been buried, then finds a dental case; a servant reports a violated grave, and the box breaks open revealing dental instruments and teeth. The hosts discuss the ending and their interpretations.",
+      "topics": [
+        "Berenice ending",
+        "Poe short story reading",
+        "premature burial",
+        "dental instruments in Poe"
+      ]
+    },
+    {
+      "start": "00:29:05",
+      "end": "00:30:00",
+      "kind": "intro",
+      "title": "Transition to special guest",
+      "summary": "The hosts explain that instead of listener mail they will have John Hodgman, who has been in the office that week, as a special guest.",
+      "topics": [
+        "John Hodgman",
+        "special guest"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:31:10",
+      "kind": "listener_mail",
+      "title": "John Hodgman's listener mail",
+      "summary": "Hodgman arrives and delivers his listener mail in person, introducing his new book of complete world knowledge covering sports.",
+      "topics": [
+        "John Hodgman",
+        "listener mail",
+        "That Is All book"
+      ]
+    },
+    {
+      "start": "00:31:10",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Poe and the Baltimore Ravens",
+      "summary": "Hodgman explains that the Baltimore Ravens are named after Poe's poem The Raven, and jokes about Poe's drinking and the Baltimore mascot with a giant Poe head. He mentions a Poe biopic Sylvester Stallone once developed and a song intended for it.",
+      "topics": [
+        "Baltimore Ravens",
+        "The Raven poem",
+        "Edgar Allan Poe",
+        "Poe biopic",
+        "Poe mascot"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:37:40",
+      "kind": "content",
+      "title": "Boxing and athlete discussion",
+      "summary": "Hosts and Hodgman joke about boxing as a sport and Hodgman's experience in a fake boxing match on a TV show.",
+      "topics": [
+        "boxing",
+        "sports",
+        "John Hodgman"
+      ]
+    },
+    {
+      "start": "00:37:40",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Nick Mangold's eccentric game-day look and nerd-jock convergence",
+      "summary": "Hodgman describes New York Jets center Nick Mangold appearing without a helmet in costume-like outfits, including a steam-powered penny farthing. Hodgman and the hosts discuss whether nerd and jock cultures are converging and the cultural shift toward mainstream geek culture.",
+      "topics": [
+        "Nick Mangold",
+        "New York Jets",
+        "steampunk",
+        "nerd jock convergence",
+        "sports culture",
+        "geek culture"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:45:30",
+      "kind": "outro",
+      "title": "Sign-off and promotions",
+      "summary": "Hodgman jokes about his safe room and the hosts plug his book That Is All, due November first. The hosts wish listeners a happy Halloween, and a promo for the video podcast Stuff from the Future and an ad close the episode.",
+      "topics": [
+        "That Is All book pre-order",
+        "Halloween sign-off",
+        "Stuff from the Future"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18321,
+    "output_tokens": 2107
+  }
+}

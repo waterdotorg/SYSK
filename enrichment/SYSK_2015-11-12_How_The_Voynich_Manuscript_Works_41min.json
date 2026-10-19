@@ -1,0 +1,221 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-11-12_How_The_Voynich_Manuscript_Works_41min.txt",
+  "title": "How The Voynich Manuscript Works",
+  "date": "2015-11-12",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-voynich-manuscript-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/918de23f-ca5f-4d54-b179-ae280089bab2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/918de23f-ca5f-4d54-b179-ae280089bab2/transcript?format=TextWithTimestamps&t=1700543848",
+  "summary": "Josh and Chuck explore the Voynich Manuscript, a fifteenth-century illustrated codex written in an undeciphered script. They cover its provenance from Rudolph II and Jacobus Typotius through Georg Baresch, Jan Marci, Athanasius Kircher, and Wilfrid Voynich, to Yale. They describe the book's physical features and illustrations, the failed codebreaking attempts (including William and Elizabeth Friedman), and theories ranging from hoax and gibberish to a lost language, mental illness, religious glossolalia, and drug-induced creation. They discuss statistical analyses (Zipf's law, word patterns) and recent claimed decipherments by Stephen Bax and Nick Pelling, and the Alpine/northern Italian origin theories. The episode closes with listener mail about a baby who falls asleep to the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Voynich Manuscript",
+    "Voynich manuscript hoax theory",
+    "undeciphered script",
+    "unsolved codes",
+    "cryptography",
+    "Rudolph II",
+    "Georg Baresch",
+    "Athanasius Kircher",
+    "Wilfrid Voynich",
+    "Yale Beinecke library",
+    "William Friedman",
+    "Elizabeth Friedman",
+    "Zipf's law",
+    "Roger Bacon attribution",
+    "medieval codex",
+    "carbon dating of manuscript",
+    "Stephen Bax decipherment",
+    "Nick Pelling theory",
+    "Voynich illustrations",
+    "Berenstain Bears Mandela effect",
+    "lost language theory",
+    "medieval pharmacology manuscript"
+  ],
+  "entities": [
+    {
+      "name": "Voynich Manuscript",
+      "type": "work"
+    },
+    {
+      "name": "Rudolph II",
+      "type": "person"
+    },
+    {
+      "name": "Georg Baresch",
+      "type": "person"
+    },
+    {
+      "name": "Athanasius Kircher",
+      "type": "person"
+    },
+    {
+      "name": "Jan Marci",
+      "type": "person"
+    },
+    {
+      "name": "Wilfrid Voynich",
+      "type": "person"
+    },
+    {
+      "name": "Roger Bacon",
+      "type": "person"
+    },
+    {
+      "name": "William Friedman",
+      "type": "person"
+    },
+    {
+      "name": "Elizabeth Friedman",
+      "type": "person"
+    },
+    {
+      "name": "Jacobus Typotius",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Bax",
+      "type": "person"
+    },
+    {
+      "name": "Nick Pelling",
+      "type": "person"
+    },
+    {
+      "name": "Rene Zandbergen",
+      "type": "person"
+    },
+    {
+      "name": "Yale University",
+      "type": "organization"
+    },
+    {
+      "name": "Zipf's law",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Berenstain Bears aside",
+      "summary": "The hosts introduce the episode and describe the Voynich Manuscript as a medieval codex in an unreadable script with unusual plant and figure illustrations. They joke about the Berenstain/Berenstein Bears Mandela effect and float their own theories.",
+      "topics": [
+        "Voynich Manuscript",
+        "Berenstain Bears Mandela effect",
+        "medieval codex"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Provenance: Rudolph II to Baresch and Kircher",
+      "summary": "The manuscript is traced to Emperor Rudolph II, who reportedly paid 600 ducats for it and believed it was Roger Bacon's work. It was later owned by Georg Baresch, who sent it to Athanasius Kircher, and was passed to Jan Marci. A court pharmacist, Jacobus Typotius, had a faint mark in it, supporting Rudolph's ownership.",
+      "topics": [
+        "Rudolph II",
+        "Georg Baresch",
+        "Athanasius Kircher",
+        "Jan Marci",
+        "Roger Bacon attribution",
+        "Jacobus Typotius",
+        "carbon dating of manuscript"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:30",
+      "kind": "ad",
+      "title": "Sponsor break: The Message podcast",
+      "summary": "Ad read promoting the podcast series The Message from iHeart/Panoply.",
+      "topics": [
+        "sponsor",
+        "The Message podcast"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Wilfrid Voynich and early codebreaking attempts",
+      "summary": "Wilfrid Voynich bought the manuscript and tried hard to crack it, which gave it his name. Early attempts included a University of Pennsylvania philosopher who claimed microscopic figures in the ink encoded Greek letters and a Roger Bacon message; this was rejected. Then William and Elizabeth Friedman and colleagues tried after World War II and gave up after about thirty years.",
+      "topics": [
+        "Wilfrid Voynich",
+        "codebreaking attempts",
+        "William Friedman",
+        "Elizabeth Friedman",
+        "unsolved codes"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Physical description, illustrations and structure",
+      "summary": "The manuscript has about 246 pages (possibly missing up to 55), is on calfskin, measures about nine by six inches, and is written left to right in roughly thirty to forty characters with no punctuation. It contains about 220 illustrations in six apparent sections: botanical, astronomical, biological (including women in water-like settings), cosmological, pharmaceutical, and recipes. Word repetition and word-length patterns are noted.",
+      "topics": [
+        "Voynich illustrations",
+        "calfskin vellum",
+        "Voynich script",
+        "medieval pharmacology manuscript",
+        "Voynich structure"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Brief ad break before the discussion resumes.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Hoax, gibberish and other theories",
+      "summary": "The hosts review theories: a hoax or gibberish, an unknown real language, an intentionally impenetrable cipher, mental illness, religious glossolalia, and the hosts' joking drug-induced theories. Statistical analysis finds patterns like Zipf's law that resemble natural language, which argues against a simple hoax, though hoax supporters note Renaissance forgeries existed.",
+      "topics": [
+        "Voynich manuscript hoax theory",
+        "lost language theory",
+        "Zipf's law",
+        "statistical analysis of text",
+        "Renaissance forgery"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Recent decipherment claims and origin theories",
+      "summary": "Stephen Bax at the University of Bedfordshire claims to have identified about fourteen characters by matching plant and constellation illustrations to names. Nick Pelling proposed an Italian architect named Antonio Averlino as author, which has been disputed. Alpine and northern Italian origins are discussed, and Rene Zandbergen's website is recommended.",
+      "topics": [
+        "Stephen Bax decipherment",
+        "Nick Pelling theory",
+        "Antonio Averlino",
+        "Tyrolean Alps origin",
+        "Rene Zandbergen website"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:41:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close, pointing to the website and the Yale library, and sign off.",
+      "topics": [
+        "Yale library access"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13625,
+    "output_tokens": 2662
+  }
+}

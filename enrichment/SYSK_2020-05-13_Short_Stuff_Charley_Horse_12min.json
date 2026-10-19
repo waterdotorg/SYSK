@@ -1,0 +1,142 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-05-13_Short_Stuff_Charley_Horse_12min.txt",
+  "title": "Short Stuff: Charley Horse",
+  "date": "2020-05-13",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-charley-horse",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b624b90f-1653-4f81-a35a-ae2800366965/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b624b90f-1653-4f81-a35a-ae2800366965/transcript?format=TextWithTimestamps&t=1700543628",
+  "summary": "Short Stuff episode on the Charlie horse, a sudden painful leg cramp or spasm, usually in the thigh, calf, or hamstring. The hosts cover the word's origin, including a baseball story about a lame horse named Charlie at the Chicago White Sox ballpark and a story about 19th-century player Charlie Radbourn (called Old Hoss) who got one during a game. They describe the thigh-punch prank, \"frogging,\" and pencil breaking. They discuss nocturnal leg cramps, how they differ from restless leg syndrome, stretching before bed, hydration, electrolytes such as sodium, potassium, and magnesium, and a balanced diet. The episode ends with banter and the outro.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Charlie horse",
+    "leg cramp",
+    "muscle cramp",
+    "nocturnal leg cramp",
+    "restless leg syndrome",
+    "origin of Charlie horse",
+    "Charlie Radbourn",
+    "Old Hoss Radbourn",
+    "frogging",
+    "thigh punch",
+    "stretching",
+    "electrolytes",
+    "sodium potassium balance",
+    "hydration",
+    "sarcopenia",
+    "muscle health",
+    "pencil breaking"
+  ],
+  "entities": [
+    {
+      "name": "Charlie horse",
+      "type": "other"
+    },
+    {
+      "name": "Charlie Radbourn",
+      "type": "person"
+    },
+    {
+      "name": "Chicago White Sox",
+      "type": "organization"
+    },
+    {
+      "name": "Providence",
+      "type": "organization"
+    },
+    {
+      "name": "Sarcopenia",
+      "type": "other"
+    },
+    {
+      "name": "Restless leg syndrome",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Internet roundup cramp",
+      "summary": "Josh and Chuck open by recalling Chuck getting a leg cramp during a recording and introduce the Charlie horse as the topic. They list possible risk factors such as dehydration, sitting too long, and sleeping.",
+      "topics": [
+        "Charlie horse",
+        "leg cramp risk factors",
+        "Internet roundup"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Origin of the term Charlie horse",
+      "summary": "The hosts note the term is mostly American. They recount a baseball story about a lame horse named Charlie that pulled the roller at the Chicago White Sox ballpark, and a story about Charlie Radbourn (Old Hoss), who reportedly got one during a game while playing for Providence.",
+      "topics": [
+        "Charlie horse origin",
+        "Chicago White Sox",
+        "Charlie Radbourn",
+        "Old Hoss",
+        "baseball history"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Thigh punch prank and frogging",
+      "summary": "The hosts describe the childhood practice of giving someone a Charlie horse with a punch to the thigh, and a knuckle punch called frogging that causes a bump on the arm. They also briefly describe pencil breaking.",
+      "topics": [
+        "frogging",
+        "thigh punch",
+        "Charlie horse prank",
+        "pencil breaking"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Nocturnal leg cramps, restless legs, and stretching",
+      "summary": "The hosts explain that Charlie horses can strike at night, distinguish them from restless leg syndrome, and say stretching before bed helps both. They mention an earlier episode on sarcopenia and recommend regular stretching.",
+      "topics": [
+        "nocturnal leg cramp",
+        "restless leg syndrome",
+        "stretching",
+        "sarcopenia"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Hydration, electrolytes, and diet",
+      "summary": "The hosts recommend fluids and a balanced diet with calcium, potassium, and magnesium. They describe how sodium and potassium create an electrical charge across cells that helps muscles work, and mention avocados and bananas as sources of potassium.",
+      "topics": [
+        "electrolytes",
+        "sodium potassium ratio",
+        "hydration",
+        "balanced diet",
+        "muscle cramps",
+        "avocado"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:00",
+      "kind": "outro",
+      "title": "Closing banter and sign-off",
+      "summary": "The hosts joke about the name Charlie versus Chuck and wrap up the episode with the standard sign-off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5199,
+    "output_tokens": 1634
+  }
+}

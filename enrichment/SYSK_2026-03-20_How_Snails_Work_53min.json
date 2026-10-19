@@ -1,0 +1,438 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-03-20_How_Snails_Work_53min.txt",
+  "title": "How Snails Work",
+  "date": "2026-03-20",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-snails-work-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cb8a4bdc-679c-4911-99f7-b41300d5e47a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cb8a4bdc-679c-4911-99f7-b41300d5e47a/transcript?format=TextWithTimestamps&t=1774012209",
+  "summary": "Josh and Chuck (with Chuck's co-host label in the transcript shown as iHeart Intro) explore snails: their body plan and shell, torsion and the great torsion debate, eyes and senses, mucus, hermaphroditic mating and love darts, eggs and hatchlings, lifespan, ecological roles as recyclers, pollinators and calcium sources, gardener conflicts and invasive species (giant African land snail, rosy wolf snail, common garden snail), snail conservation and extinctions, snails in culture and medicine (escargot, Alzheimer's research, medieval manuscript snail-knight battles), and a listener mail correction about isotopes versus ions.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "snails",
+    "snail anatomy",
+    "snail shell",
+    "torsion debate",
+    "gastropods",
+    "snail mucus",
+    "hermaphroditic mating",
+    "love darts",
+    "snail reproduction",
+    "snail lifespan",
+    "invasive snails",
+    "giant African land snail",
+    "rosy wolf snail",
+    "common garden snail",
+    "gardeners and snails",
+    "snail conservation",
+    "snail extinctions",
+    "escargot",
+    "snail senses and eyes",
+    "snail ecology",
+    "Alzheimer's research snails",
+    "medieval manuscript snail knight",
+    "listener mail",
+    "isotopes vs ions correction"
+  ],
+  "entities": [
+    {
+      "name": "Giant African land snail",
+      "type": "other"
+    },
+    {
+      "name": "Rosy wolf snail",
+      "type": "other"
+    },
+    {
+      "name": "Common garden snail",
+      "type": "other"
+    },
+    {
+      "name": "Burgundy snail",
+      "type": "other"
+    },
+    {
+      "name": "Patricia Highsmith",
+      "type": "person"
+    },
+    {
+      "name": "Harry G. Lee",
+      "type": "person"
+    },
+    {
+      "name": "Chubby Checker",
+      "type": "person"
+    },
+    {
+      "name": "Carnegie Museum of Natural History",
+      "type": "organization"
+    },
+    {
+      "name": "Royal Horticultural Society",
+      "type": "organization"
+    },
+    {
+      "name": "Hawaii",
+      "type": "place"
+    },
+    {
+      "name": "Goodbye Snails",
+      "type": "work"
+    },
+    {
+      "name": "The Strange and Wonderful World of the Snail Wrangler",
+      "type": "work"
+    },
+    {
+      "name": "Escargot",
+      "type": "other"
+    },
+    {
+      "name": "Nick Lutfi",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:33",
+      "kind": "intro",
+      "title": "Teaser",
+      "summary": "Teaser suggesting listeners should appreciate snails after the episode.",
+      "topics": [
+        "snails"
+      ]
+    },
+    {
+      "start": "00:00:33",
+      "end": "00:02:27",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts open with silly banter about a song and introduce the snail topic, which was Josh's pick researched with Allison.",
+      "topics": [
+        "show banter",
+        "snails episode introduction"
+      ]
+    },
+    {
+      "start": "00:02:27",
+      "end": "00:05:14",
+      "kind": "content",
+      "title": "Snail research and gastropod classification",
+      "summary": "Hosts discuss how little academic research exists on snails, malacology, and that snails belong to the class Gastropoda alongside slugs, sea slugs, whelks and limpets.",
+      "topics": [
+        "malacology",
+        "gastropods",
+        "mollusks",
+        "snail taxonomy"
+      ]
+    },
+    {
+      "start": "00:05:14",
+      "end": "00:08:38",
+      "kind": "content",
+      "title": "Snail diversity and extinctions",
+      "summary": "Snails live nearly everywhere and number about 30,000 to 35,000 species out of about 150,000 gastropods. Sizes range from giant African land snails to tiny cave snails. More than 400 snail species extinctions have been recorded, with Hawaii's native snails hit hard.",
+      "topics": [
+        "snail species count",
+        "snail extinctions",
+        "Hawaii snails",
+        "desert snails"
+      ]
+    },
+    {
+      "start": "00:08:38",
+      "end": "00:11:03",
+      "kind": "content",
+      "title": "Eating snails and snail caviar",
+      "summary": "Light banter about escargot served in special plates, and snail eggs sold as white caviar.",
+      "topics": [
+        "escargot",
+        "snail caviar",
+        "eating snails"
+      ]
+    },
+    {
+      "start": "00:11:03",
+      "end": "00:13:09",
+      "kind": "content",
+      "title": "Snail body misconceptions",
+      "summary": "The hosts explain that the 'tail' is actually the foot and the head sits inside the shell with the body.",
+      "topics": [
+        "snail anatomy",
+        "snail foot",
+        "snail body misconceptions"
+      ]
+    },
+    {
+      "start": "00:13:09",
+      "end": "00:16:45",
+      "kind": "content",
+      "title": "Shell, epiphragm and torsion",
+      "summary": "The epiphragm is a temporary door covering the aperture; the body doubles back through torsion so the head and anus sit near the opening. Fossils cannot show torsion, and gardeners' balance claims are wrong.",
+      "topics": [
+        "epiphragm",
+        "aperture",
+        "torsion",
+        "snail shell"
+      ]
+    },
+    {
+      "start": "00:16:45",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "The great torsion debate",
+      "summary": "The hosts describe the rotation and asymmetrical hypotheses for why torsion evolved, and say the debate is hard to follow.",
+      "topics": [
+        "torsion debate",
+        "rotation hypothesis",
+        "asymmetrical hypothesis",
+        "snail evolution"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:20:31",
+      "kind": "content",
+      "title": "Radula, eyes and mantle",
+      "summary": "Snails have a radula, are deaf but can see, with eyes on tentacles that retract. The mantle holds organs and secretes the shell.",
+      "topics": [
+        "radula",
+        "snail eyes",
+        "snail hearing",
+        "mantle"
+      ]
+    },
+    {
+      "start": "00:20:31",
+      "end": "00:22:04",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:22:04",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Shell growth, breathing and mucus",
+      "summary": "The shell is calcium carbonate that grows from the outer edge, and snails are born with a starter shell. They breathe through a pneumostome. Mucus from the foot allows climbing, lubrication, moisture retention, and has been used for skin care.",
+      "topics": [
+        "calcium carbonate shell",
+        "pneumostome breathing",
+        "snail mucus",
+        "snail skin care"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:04",
+      "kind": "content",
+      "title": "Snail trails and mating",
+      "summary": "Snail mucus trails help snails find each other to mate. Most land snails are hermaphroditic and both can fertilize each other.",
+      "topics": [
+        "hermaphrodite",
+        "snail mating",
+        "snail trail"
+      ]
+    },
+    {
+      "start": "00:26:04",
+      "end": "00:29:46",
+      "kind": "content",
+      "title": "Courtship and love darts",
+      "summary": "Snails circle, bite lips and touch tentacles over hours before mating. Love darts form after a first mating and are stabbed into partners, often imprecisely, delivering hormones that protect sperm.",
+      "topics": [
+        "love dart",
+        "snail courtship",
+        "love dart hormones"
+      ]
+    },
+    {
+      "start": "00:29:46",
+      "end": "00:31:14",
+      "kind": "content",
+      "title": "Eggs, hatchlings and parental care",
+      "summary": "Snails can lay up to 450 eggs a year, gestation is 24 hours to about four weeks, hatchlings may eat siblings, and parents may guard young for up to three months.",
+      "topics": [
+        "snail eggs",
+        "hatchlings",
+        "snail parental care",
+        "snail gestation"
+      ]
+    },
+    {
+      "start": "00:31:14",
+      "end": "00:33:04",
+      "kind": "content",
+      "title": "Snail lifespan and snail keepers",
+      "summary": "Snails live up to five years in the wild and up to 25 in captivity. The hosts discuss the Snail Wrangler documentary.",
+      "topics": [
+        "snail lifespan",
+        "snail wrangler documentary",
+        "pet snails"
+      ]
+    },
+    {
+      "start": "00:33:04",
+      "end": "00:35:51",
+      "kind": "content",
+      "title": "Snails as moisture-loving, decomposers and food web",
+      "summary": "Snails are called leaky bags of water, need moisture, are mostly nocturnal, eat decaying matter and plants, recycle nutrients, provide calcium to other animals and are part of the food web.",
+      "topics": [
+        "snail ecology",
+        "decomposers",
+        "snail food web",
+        "moisture"
+      ]
+    },
+    {
+      "start": "00:35:51",
+      "end": "00:37:04",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:37:04",
+      "end": "00:39:03",
+      "kind": "content",
+      "title": "Gardeners versus snails",
+      "summary": "Burgundy snails eat plants and gardeners dislike them. Hosts advise leaving snails alone and avoiding chemical pesticides.",
+      "topics": [
+        "gardeners and snails",
+        "burgundy snail",
+        "snail pest control"
+      ]
+    },
+    {
+      "start": "00:39:03",
+      "end": "00:41:29",
+      "kind": "content",
+      "title": "Snail pest control methods",
+      "summary": "Natural controls include predators like beetles, hand picking at night, and melon or grapefruit traps placed on compost piles. Ferric phosphate and metaldehyde are discussed; metaldehyde is banned in the EU but allowed in the US.",
+      "topics": [
+        "snail traps",
+        "ferric phosphate",
+        "metaldehyde",
+        "snail pesticides"
+      ]
+    },
+    {
+      "start": "00:41:29",
+      "end": "00:44:29",
+      "kind": "content",
+      "title": "Giant African land snail and rat lungworm",
+      "summary": "The giant African land snail is invasive in Florida, eats many plants and can carry parasites like rat lungworm and cause meningitis. Illegal pet trade spread it to other places.",
+      "topics": [
+        "giant African land snail",
+        "invasive species",
+        "rat lungworm",
+        "illegal pet trade"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:43:44",
+      "kind": "content",
+      "title": "Rosy wolf snail and Hawaii",
+      "summary": "Rosy wolf snails were introduced in the 1950s to control giant African land snails, and they devastated Hawaii's native snails. Harry G. Lee found 13 snail shells in one rosy wolf snail's gut.",
+      "topics": [
+        "rosy wolf snail",
+        "biological control failure",
+        "Hawaii native snails"
+      ]
+    },
+    {
+      "start": "00:44:29",
+      "end": "00:45:04",
+      "kind": "content",
+      "title": "Common garden snail as invasive and escargot",
+      "summary": "Common garden snail is considered invasive in the US after escaping escargot farms. Escargot is the French name for the edible snail.",
+      "topics": [
+        "common garden snail invasive",
+        "escargot origin"
+      ]
+    },
+    {
+      "start": "00:45:04",
+      "end": "00:47:40",
+      "kind": "content",
+      "title": "Snail facts: jewelry, Highsmith, Alzheimer's",
+      "summary": "Snail shells were used as jewelry at least 120,000 years ago. Patricia Highsmith kept snails. Snails are used in Alzheimer's research with pond snails exposed to amyloid beta and snail mucus is being studied as a drug source.",
+      "topics": [
+        "snail shell jewelry",
+        "Patricia Highsmith snails",
+        "Alzheimer's research",
+        "snail mucus drug research"
+      ]
+    },
+    {
+      "start": "00:47:40",
+      "end": "00:49:26",
+      "kind": "content",
+      "title": "Cultural and religious significance, recipes",
+      "summary": "Giant African land snail is sacred in Yoruba religion. A Nigerian snail recipe called congo meat is mentioned.",
+      "topics": [
+        "Yoruba religion snails",
+        "Nigerian snail recipe"
+      ]
+    },
+    {
+      "start": "00:49:26",
+      "end": "00:51:05",
+      "kind": "content",
+      "title": "Medieval manuscript snail battles",
+      "summary": "Illuminated manuscripts from late 13th-century northern France show knights battling giant snails, possibly comic relief; no one knows the meaning.",
+      "topics": [
+        "medieval manuscripts",
+        "knights vs snails",
+        "marginalia"
+      ]
+    },
+    {
+      "start": "00:51:05",
+      "end": "00:52:56",
+      "kind": "listener_mail",
+      "title": "Listener mail: isotope correction",
+      "summary": "Listener Nick Lutfi corrects the episode, saying varying neutron number defines isotopes, not electron gain or loss, which defines ions.",
+      "topics": [
+        "listener mail",
+        "isotopes vs ions correction",
+        "carbon dating"
+      ]
+    },
+    {
+      "start": "00:52:56",
+      "end": "00:53:12",
+      "kind": "listener_mail",
+      "title": "Mailbag contact and sign-off",
+      "summary": "Hosts give the email address and close the show.",
+      "topics": [
+        "listener contact"
+      ]
+    },
+    {
+      "start": "00:53:12",
+      "end": "00:53:20",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "Standard show credit.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19932,
+    "output_tokens": 4454
+  }
+}

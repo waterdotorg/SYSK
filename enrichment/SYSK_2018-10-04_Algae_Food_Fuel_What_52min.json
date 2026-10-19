@@ -1,0 +1,252 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-10-04_Algae_Food_Fuel_What_52min.txt",
+  "title": "Algae: Food, Fuel, What?",
+  "date": "2018-10-04",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/algae-food-fuel-what",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/38ff20ed-68e6-41ae-962a-ae28005b6a99/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/38ff20ed-68e6-41ae-962a-ae28005b6a99/transcript?format=TextWithTimestamps&t=1700543724",
+  "summary": "Josh and Chuck discuss algae as a source of biofuel, food, and other products. They cover the stalled algae biofuel industry and venture capital pullback, the difference between micro and macro algae, why algae grows fast and efficiently compared with land plants, three cultivation methods (open pond, closed pond, bio photoreactor), harvesting and processing (filtration, flocculation, flotation, centrifuge, drying), uses for jet fuel, biodiesel, ethanol, methane, wastewater and oil spill cleanup, and nutrition (spirulina, Welsh laverbread, nori). They also cover scale challenges (a pond about three times the size of Belgium), carbon neutrality, and replacing wild-caught fish and soy feed. The episode ends with a listener mail about color blindness.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "algae",
+    "algae biofuel",
+    "microalgae",
+    "macroalgae",
+    "algae cultivation",
+    "open pond algae farming",
+    "closed pond algae",
+    "photobioreactor",
+    "algae harvesting",
+    "flocculation",
+    "flotation",
+    "centrifuge",
+    "algae oil extraction",
+    "algae jet fuel",
+    "algae biodiesel",
+    "cellulosic ethanol",
+    "methane from algae",
+    "spirulina",
+    "nori seaweed",
+    "laverbread",
+    "bioremediation",
+    "oil spill cleanup",
+    "carbon neutral fuel",
+    "third generation biofuels",
+    "venture capital biofuel",
+    "alga culture",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Algae",
+      "type": "other"
+    },
+    {
+      "name": "Spirulina",
+      "type": "other"
+    },
+    {
+      "name": "Nori",
+      "type": "other"
+    },
+    {
+      "name": "Laverbread",
+      "type": "other"
+    },
+    {
+      "name": "Belgium",
+      "type": "place"
+    },
+    {
+      "name": "Exxon",
+      "type": "organization"
+    },
+    {
+      "name": "Chevron",
+      "type": "organization"
+    },
+    {
+      "name": "Hawaii",
+      "type": "place"
+    },
+    {
+      "name": "Cornwall",
+      "type": "place"
+    },
+    {
+      "name": "Aztecs",
+      "type": "other"
+    },
+    {
+      "name": "Georgia power lake",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Short Stuff promo",
+      "summary": "Josh promotes the new Short Stuff feed, then the hosts banter about October weather, climate-driven heat, and a segue into algae.",
+      "topics": [
+        "Short Stuff podcast",
+        "Atlanta weather"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "State of the algae biofuel industry",
+      "summary": "The hosts say algae biofuel hype peaked around 2011 to 2015 and then venture capital and oil companies such as Exxon and Chevron walked away as lab results failed to translate to real-world production. Some companies, such as one in Hawaii, continue, and the industry has pivoted toward food and additives.",
+      "topics": [
+        "algae biofuel",
+        "venture capital",
+        "Exxon",
+        "Chevron",
+        "Hawaii algae biodiesel plant"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Micro vs. macro algae and history of use",
+      "summary": "The hosts distinguish microalgae (single-celled, green water) from macroalgae (seaweed, kelp, sea lettuce). They note long histories of algae use in Japan, the British Isles, and by the Aztecs, and the roughly six billion dollar algae business including about two billion for nori.",
+      "topics": [
+        "microalgae",
+        "macroalgae",
+        "seaweed",
+        "nori",
+        "algae history",
+        "algae market size"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Generations of biofuels and why algae is efficient",
+      "summary": "Algae is described as the third generation of biofuels, after corn-based ethanol (which caused food riots) and corn stalk cellulosic ethanol. Algae grows fast, sometimes doubling biomass in an hour, and needs no roots or structure, so it converts sunlight more efficiently than land plants. It can produce up to a hundred times more oil per area and grows in salt, polluted, or dirty water without competing with cropland.",
+      "topics": [
+        "third generation biofuels",
+        "food vs fuel",
+        "algae growth rate",
+        "photosynthesis efficiency",
+        "algae oil yield",
+        "algae vs land plants"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Cultivation methods: open pond, closed pond, photobioreactor",
+      "summary": "The hosts describe three ways to grow microalgae: open ponds (cheapest, paddle wheels to circulate, but lose water to evaporation and risk contamination and predators), closed greenhouse-covered ponds (more control, moderate cost), and bioreactors using clear tubes (most efficient, most expensive). Ideal conditions include pH seven to nine and about sixty-eight degrees Fahrenheit.",
+      "topics": [
+        "open pond algae",
+        "closed pond algae",
+        "photobioreactor",
+        "algae farming conditions",
+        "paddle wheel",
+        "algae cultivation"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Cultivating macroalgae and harvesting microalgae",
+      "summary": "Macroalgae has been farmed for centuries in the ocean, using rope lines and nets for growth and harvesting by hand or with machines. Microalgae is harder to harvest. The hosts discuss filtration (which clogs), flocculation (chemical or biological clumping), flotation (compressed air bubbles that lift algae to the surface), and centrifuges, often used in combination.",
+      "topics": [
+        "macroalgae farming",
+        "kelp cultivation",
+        "algae harvesting",
+        "flocculation",
+        "flotation",
+        "centrifuge",
+        "algae dewatering"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Algae fuels and refining",
+      "summary": "Algae oil is extracted by breaking cell walls, then refined into biodiesel, gasoline additive, or jet fuel. Unlike pure ethanol, refined algae fuels don't corrode existing pipelines or refineries. A flight from Houston to Chicago was powered by algae oil. Algae can also be fermented into alcohol, and algae can be fed to bacteria to produce methane.",
+      "topics": [
+        "algae oil extraction",
+        "algae jet fuel",
+        "biodiesel",
+        "pipeline corrosion",
+        "ethanol fermentation",
+        "methane from algae",
+        "Houston to Chicago algae flight"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Bioremediation, oil spills, and nutrition",
+      "summary": "Algae absorbs heavy metals, with an example of an experiment in a Cornwall tin mine targeting cadmium and arsenic. Algae is proposed for cleaning oil spills instead of chemical herders. Spirulina is described as protein-rich and iron-rich, and Welsh laverbread is mentioned. The leftover biomass can be used as fertilizer or animal feed.",
+      "topics": [
+        "bioremediation",
+        "heavy metal absorption",
+        "oil spill cleanup",
+        "chemical herders",
+        "spirulina nutrition",
+        "laverbread",
+        "algae as food"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Scale challenges, carbon neutrality, and feed replacement",
+      "summary": "Industrial-scale algae faces competition for light and nutrients. A projection of ten percent of transportation fuel would need a pond about three times the size of Belgium. A 2010 study suggested sea lettuce across an area the size of Maryland could feed the world. The hosts discuss carbon neutrality and replacing wild-caught fish and soy feed with algae.",
+      "topics": [
+        "algae scale-up",
+        "Belgium pond estimate",
+        "carbon neutral biofuel",
+        "fish feed",
+        "soy feed deforestation",
+        "sea lettuce protein"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Algae blooms and lake management",
+      "summary": "Josh describes a Georgia Power lake where residents complain about algae blooms and chemicals are sprayed. The hosts argue the bloom may signal fertilizer runoff upstream.",
+      "topics": [
+        "algae blooms",
+        "fertilizer runoff",
+        "Georgia Power lake",
+        "chemical algaecide"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:52:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: color blindness",
+      "summary": "Listener Andy writes that his color-blind father wore a black suit to a wedding where blue was required, and that he mistakes his orange cat's amber eyes for green, and that his mother does the grilling.",
+      "topics": [
+        "color blindness",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16683,
+    "output_tokens": 3133
+  }
+}

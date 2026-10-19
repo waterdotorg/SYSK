@@ -1,0 +1,268 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-08-14_How_Ebola_Works_37min.txt",
+  "title": "How Ebola Works",
+  "date": "2014-08-14",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ebola-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b7f42736-6dbf-4c8d-b8d5-ae2800953570/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b7f42736-6dbf-4c8d-b8d5-ae2800953570/transcript?format=TextWithTimestamps&t=1700543876",
+  "summary": "Josh and Chuck explain Ebola: its 1976 discovery near the Ebola River in Zaire (now DR Congo) and the Sudan outbreak, the five species named for origin regions (including Reston, named for Reston, Virginia, where monkeys were shipped), the virus's RNA structure and how it hijacks cells, its attack on the immune system and resulting hemorrhagic fever and organ failure, symptoms and stages, the suspected fruit bat reservoir, transmission via bodily fluids, burial customs and needle exposure, prevention advice, the 2014 West Africa outbreak starting in Guinea, distrust of governments and health authorities, and the experimental ZMapp monoclonal antibody treatment given to American missionaries. The episode closes with a listener mail ad from Corey Barker and a note on Marburg virus.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Ebola",
+    "Ebola virus",
+    "Ebola outbreak 2014",
+    "West Africa Ebola outbreak",
+    "Zaire ebolavirus",
+    "Sudan ebolavirus",
+    "Reston ebolavirus",
+    "filovirus",
+    "hemorrhagic fever",
+    "fruit bat reservoir",
+    "ZMapp",
+    "monoclonal antibody therapy",
+    "experimental drug ethics",
+    "Ebola symptoms",
+    "Ebola transmission",
+    "Ebola prevention",
+    "burial customs Ebola",
+    "Ebola in Guinea",
+    "Marburg virus",
+    "1976 Ebola discovery",
+    "viral replication",
+    "RNA virus",
+    "outbreak surveillance bots",
+    "Spanish flu comparison",
+    "Emory University Ebola patients"
+  ],
+  "entities": [
+    {
+      "name": "Ebola",
+      "type": "other"
+    },
+    {
+      "name": "Ebola River",
+      "type": "place"
+    },
+    {
+      "name": "Democratic Republic of Congo",
+      "type": "place"
+    },
+    {
+      "name": "Zaire",
+      "type": "place"
+    },
+    {
+      "name": "Sudan",
+      "type": "place"
+    },
+    {
+      "name": "Guinea",
+      "type": "place"
+    },
+    {
+      "name": "Liberia",
+      "type": "place"
+    },
+    {
+      "name": "Sierra Leone",
+      "type": "place"
+    },
+    {
+      "name": "Reston, Virginia",
+      "type": "place"
+    },
+    {
+      "name": "Marburg virus",
+      "type": "other"
+    },
+    {
+      "name": "ZMapp",
+      "type": "other"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "Emory University",
+      "type": "organization"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Kent Brantly",
+      "type": "person"
+    },
+    {
+      "name": "Nancy Writebol",
+      "type": "person"
+    },
+    {
+      "name": "Miguel Pajares",
+      "type": "person"
+    },
+    {
+      "name": "Mabalo",
+      "type": "person"
+    },
+    {
+      "name": "Contagion",
+      "type": "work"
+    },
+    {
+      "name": "Outbreak",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Atlanta patients",
+      "summary": "Josh and Chuck open by joking about the recording booth and a visit to the CDC museum, then discuss the two Ebola patients being treated at Emory in Atlanta after being flown from Liberia, the controversy over the move, and the movies Contagion and Outbreak.",
+      "topics": [
+        "Ebola patients Atlanta",
+        "Emory Ebola treatment",
+        "Contagion movie",
+        "Outbreak movie"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Discovery of Ebola in 1976",
+      "summary": "The hosts describe the 1976 discovery, named for the Ebola River in what was then Zaire. They recount the index case Mabalo, whose needle was reused, and the outbreaks in Zaire and Sudan with their death tolls. They compare the mortality rate to the Spanish flu and note airborne spread among monkeys.",
+      "topics": [
+        "1976 Ebola discovery",
+        "Ebola River",
+        "index patient",
+        "Sudan outbreak",
+        "Spanish flu comparison",
+        "Ebola mortality"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Burial customs and the five Ebola species",
+      "summary": "The hosts discuss how burial rituals involving close contact with bodies spread the virus, then cover the filovirus family and the five Ebola species named for their regions, including Reston, Virginia, where infected crab-eating monkeys from the Philippines did not cause human illness.",
+      "topics": [
+        "burial customs",
+        "Ebola species",
+        "Reston ebolavirus",
+        "filovirus family",
+        "Philippines monkeys"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "How Ebola infects cells",
+      "summary": "Explanation of Ebola's RNA genome, its small size compared with human DNA, and how it enters cells, hijacks them to replicate, and exits enveloped in lipid membranes. Ebola then targets immune cells, endothelial cells, and organs such as the liver and spleen. It also produces glycoproteins that suppress the immune response.",
+      "topics": [
+        "viral replication",
+        "RNA virus",
+        "enveloped virus",
+        "immune system suppression",
+        "glycoprotein",
+        "endothelial cells"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A brief break in the episode.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Symptoms, stages, and bleeding",
+      "summary": "The hosts describe the incubation period, early flu-like symptoms often mistaken for malaria, later stages including bloody diarrhea, rash, and internal bleeding, and death from multi-organ failure and hypotensive shock. They note that victims do not typically bleed from the eyes as depicted in movies.",
+      "topics": [
+        "Ebola symptoms",
+        "incubation period",
+        "hemorrhagic fever",
+        "internal bleeding",
+        "misdiagnosis malaria",
+        "multi-organ failure"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Fruit bat reservoir and transmission",
+      "summary": "The hosts discuss the search for the natural reservoir, with fruit bats as the leading suspect, and how the virus has been transmitted through bat guano in the movie Contagion. They also cover transmission through bodily fluids and needles, and the differing fatality rates by exposure route and incubation periods.",
+      "topics": [
+        "fruit bat reservoir",
+        "zoonotic disease",
+        "bat guano transmission",
+        "needle transmission",
+        "Ebola fatality rate",
+        "incubation period by exposure"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Prevention and the 2014 West Africa outbreak",
+      "summary": "Advice for avoiding infection, including avoiding bush meat, caves, forests, and reused needles. The hosts describe the spread from Guinea, the possible role of climate change in bat migration, and the distrust of governments and health authorities, including political blaming in Sierra Leone. They also describe the Guinea index case and village spread, and a health-monitoring bot that detected the outbreak early.",
+      "topics": [
+        "Ebola prevention",
+        "West Africa Ebola outbreak",
+        "Guinea Ebola index case",
+        "distrust of governments",
+        "outbreak detection bots",
+        "climate change and bats"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "ZMapp experimental treatment",
+      "summary": "The hosts report on the experimental drug ZMapp, a monoclonal antibody therapy made in tobacco plants, given to American missionaries Kent Brantly and Nancy Writebol, who recovered, while Miguel Pajares died. They discuss the WHO ethics panel and the ethics of using an unapproved drug, and note the 42-day rule for declaring an outbreak over.",
+      "topics": [
+        "ZMapp",
+        "monoclonal antibody therapy",
+        "experimental drug ethics",
+        "tobacco plant antibodies",
+        "WHO ethics panel",
+        "42-day outbreak end"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Listener mail and sign-off",
+      "summary": "A listener mail from Corey Barker about starting an audiobook career and offering a show ad, followed by the hosts' sign-off and website information. The hosts also briefly mention Marburg virus as a related deadly cousin.",
+      "topics": [
+        "listener mail",
+        "Marburg virus",
+        "podcast sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12601,
+    "output_tokens": 3049
+  }
+}

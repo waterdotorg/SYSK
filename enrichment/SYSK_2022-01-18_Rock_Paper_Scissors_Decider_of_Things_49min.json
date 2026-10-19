@@ -1,0 +1,288 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-01-18_Rock_Paper_Scissors_Decider_of_Things_49min.txt",
+  "title": "Rock Paper Scissors: Decider of Things",
+  "date": "2022-01-18",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/rock-paper-scissors-decider-of-things",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/493dc16a-926e-4123-b2c1-ae270181eed2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/493dc16a-926e-4123-b2c1-ae270181eed2/transcript?format=TextWithTimestamps&t=1700539646",
+  "summary": "Josh and Chuck explore the history and strategy of rock paper scissors. They open with a note that this is part of a two-part series of children's games with hidden depth (next is tug of war), and an apology for a mix-up with tic tac toe. They cover the basic rules and variations, Takashi Hashiyama's 2005 art-collection auction decided by a rock paper scissors playoff between Christie's and Sotheby's (with the twin-girl advisers), and the ancient-origin question (Egyptian murals, Ming dynasty shushi ling, Japanese sansukumiken games like mushi ken and kitsunken, and jankenpon). They discuss the \"rochambeau/rochambo\" name and its unclear origin, Nash equilibrium and game theory, the 33.3 percent mixed strategy, the Chinese study on conditional response strategies, professional tournaments and their made-up lore, pre-planned gambits, robot players, and the blindfold study on automatic imitation and mirror neurons. The episode closes with the side-blotched lizard's rock-paper-scissors evolutionary cycle and a listener mail segment about pronouncing Nanaimo and other Canadian place names.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "rock paper scissors",
+    "rochambo",
+    "rochambeau",
+    "game theory",
+    "Nash equilibrium",
+    "mixed strategy",
+    "conditional response strategy",
+    "rock paper scissors tournaments",
+    "rock paper scissors origins",
+    "shushi ling",
+    "sansukumiken",
+    "mushi ken",
+    "kitsunken",
+    "jankenpon",
+    "janken",
+    "finger flashing games",
+    "even odd finger game",
+    "Takashi Hashiyama art auction",
+    "Christie's Sotheby's rock paper scissors",
+    "automatic imitation",
+    "mirror neurons",
+    "side-blotched lizard",
+    "evolutionary game theory",
+    "rock paper scissors robot",
+    "gambits",
+    "Nanaimo pronunciation listener mail",
+    "children's games"
+  ],
+  "entities": [
+    {
+      "name": "Rock paper scissors",
+      "type": "other"
+    },
+    {
+      "name": "Takashi Hashiyama",
+      "type": "person"
+    },
+    {
+      "name": "Christie's",
+      "type": "organization"
+    },
+    {
+      "name": "Sotheby's",
+      "type": "organization"
+    },
+    {
+      "name": "John Nash",
+      "type": "person"
+    },
+    {
+      "name": "Rochambeau",
+      "type": "person"
+    },
+    {
+      "name": "Shushi ling",
+      "type": "other"
+    },
+    {
+      "name": "Sansukumiken",
+      "type": "other"
+    },
+    {
+      "name": "Mushi ken",
+      "type": "other"
+    },
+    {
+      "name": "Kitsunken",
+      "type": "other"
+    },
+    {
+      "name": "Jankenpon",
+      "type": "other"
+    },
+    {
+      "name": "Side-blotched lizard",
+      "type": "other"
+    },
+    {
+      "name": "Tug of War",
+      "type": "event"
+    },
+    {
+      "name": "Nanaimo",
+      "type": "place"
+    },
+    {
+      "name": "Jesse Thorn",
+      "type": "person"
+    },
+    {
+      "name": "Seinfeld",
+      "type": "work"
+    },
+    {
+      "name": "Trio of Hands",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Intro and two-part series setup",
+      "summary": "The hosts explain the episode is part of a two-part series on children's games with hidden depth, following tug of war. They joke about a tic tac toe mix-up with Dave and thank Dave Ruse for help.",
+      "topics": [
+        "rock paper scissors",
+        "tug of war",
+        "children's games"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Basic rules and variations",
+      "summary": "The hosts explain the basic rules: a count, a simultaneous throw of rock, paper, or scissors, and best-of-three play. They note variations such as counting to four and the way pros hold their hands.",
+      "topics": [
+        "rock paper scissors rules",
+        "rock paper scissors variations",
+        "best of three"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Takashi Hashiyama's art auction playoff",
+      "summary": "Takashi Hashiyama used rock paper scissors to decide between Christie's and Sotheby's for auctioning a roughly twenty million dollar art collection. Christie's recruited eleven-year-old twins Alice and Flora, who advised starting with scissors, and Christie's won by throwing scissors.",
+      "topics": [
+        "Takashi Hashiyama",
+        "Christie's Sotheby's rock paper scissors",
+        "art auction 2005",
+        "rock paper scissors psychology"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Ancient origins and Asian precursors",
+      "summary": "The hosts discuss possible Egyptian origins from murals, the Ming dynasty shushi ling game recorded in Chinese history books, and Japanese hand games like sansukumiken, mushi ken, and kitsunken, along with the Japanese game jankenpon.",
+      "topics": [
+        "ancient Egypt finger flashing game",
+        "shushi ling",
+        "Ming dynasty games",
+        "sansukumiken",
+        "mushi ken",
+        "kitsunken",
+        "jankenpon",
+        "rock paper scissors origins"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Even-odd game and arrival in the United States",
+      "summary": "The hosts compare the even-odd finger game to rock paper scissors and discuss how the game reached the United States, likely through the Pacific Northwest or San Francisco from Japanese and Chinese immigrants. They note that Western writers in the 1920s and 1930s had to explain the rules.",
+      "topics": [
+        "even odd finger game",
+        "rock paper scissors history in America",
+        "Japanese immigrants",
+        "Chinese immigrants",
+        "San Francisco"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Rochambo name and linguistic mystery",
+      "summary": "The hosts discuss why some people call the game rochambo or rochambeau, including a text from Jesse Thorn, a 1930s Oakland handbook spelling, and theories from Japanese or Chinese names. They also mention British and Manchester names for the game.",
+      "topics": [
+        "rochambo",
+        "rochambeau",
+        "rock paper scissors names",
+        "linguistic origins",
+        "Manchester zip pop brick"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Game theory, Nash equilibrium, and conditional response",
+      "summary": "The hosts explain Nash equilibrium and why rock paper scissors has only a mixed equilibrium, with a one-third win rate. They describe a large Chinese study that found a conditional response strategy performs better, and note that humans follow patterns and must play quickly.",
+      "topics": [
+        "Nash equilibrium",
+        "game theory",
+        "mixed strategy",
+        "conditional response strategy",
+        "Chinese study rock paper scissors"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:52:00",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Sponsor break before the tournament discussion.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Professional tournaments, gambits, and robots",
+      "summary": "The hosts discuss the mid-2000s tournaments with prize money, the largely made-up lore of the professional rock paper scissors world, pre-planned gambits like the avalanche and bureaucrat, throwing technique, and a robot that can read micro-movements.",
+      "topics": [
+        "rock paper scissors tournaments",
+        "gambits",
+        "rock paper scissors robot",
+        "tells",
+        "made-up lore"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:05:00",
+      "kind": "content",
+      "title": "Blindfold study and automatic imitation",
+      "summary": "The hosts discuss research on automatic imitation and mirror neurons, where a London study found draws rose when one player could see the other.",
+      "topics": [
+        "automatic imitation",
+        "mirror neurons",
+        "draws in rock paper scissors",
+        "blindfold study"
+      ]
+    },
+    {
+      "start": "01:05:00",
+      "end": "01:12:00",
+      "kind": "content",
+      "title": "Side-blotched lizards as rock-paper-scissors evolution",
+      "summary": "The hosts describe side-blotched lizards with orange, yellow, and blue throats, whose mating strategies form a rock-paper-scissors cycle in evolution.",
+      "topics": [
+        "side-blotched lizard",
+        "evolutionary game theory",
+        "animal rock paper scissors",
+        "throat color morphs"
+      ]
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:16:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Nanaimo and Canadian place names",
+      "summary": "A listener from Smithers, BC, corrects Josh's pronunciation of Nanaimo, the cookie bar named after a Vancouver Island city, and notes other tricky Canadian names.",
+      "topics": [
+        "listener mail",
+        "Nanaimo",
+        "Canadian place names",
+        "pronunciation"
+      ]
+    },
+    {
+      "start": "01:16:00",
+      "end": "01:16:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode and invite listeners to send mail to the show's email address.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15859,
+    "output_tokens": 3245
+  }
+}

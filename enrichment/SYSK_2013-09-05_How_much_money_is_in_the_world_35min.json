@@ -1,0 +1,214 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-09-05_How_much_money_is_in_the_world_35min.txt",
+  "title": "How much money is in the world?",
+  "date": "2013-09-05",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-much-money-is-in-the-world",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b89b290a-79c8-4f60-85b1-ae28009ddf32/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b89b290a-79c8-4f60-85b1-ae28009ddf32/transcript?format=TextWithTimestamps&t=1700543897",
+  "summary": "Hosts Josh Clark and Chuck Bryant explore how much money exists in the world, starting with US dollars in circulation. They explain the Federal Reserve's money supply measures M0, M1, and M2 (M3 was dropped in 2006), using the July 2013 figures, and note that roughly half to two-thirds of US cash is held overseas. They discuss why tracking global money is hard without a central bank in every country, using Zimbabwe's hyperinflation and its abandoned Zim dollar as the main example. They then cover the idea of a universal world currency: historical precedents, pros and cons, Keynes's proposal, regional currency unions (West and Central African CFA franc, Euro, the proposed North American \"amero\"), and the closing listener mail segment.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "money supply",
+    "M0 money supply",
+    "M1 money supply",
+    "M2 money supply",
+    "Federal Reserve",
+    "how much money is in the world",
+    "US dollars in circulation",
+    "Zimbabwe hyperinflation",
+    "Zim dollar",
+    "hyperinflation",
+    "inflation",
+    "universal currency",
+    "world currency",
+    "single global currency",
+    "gold standard",
+    "currency union",
+    "Euro",
+    "West African CFA franc",
+    "amero",
+    "North American Union",
+    "John Maynard Keynes",
+    "currency manipulation",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Federal Reserve",
+      "type": "organization"
+    },
+    {
+      "name": "Zimbabwe",
+      "type": "place"
+    },
+    {
+      "name": "Zim dollar",
+      "type": "other"
+    },
+    {
+      "name": "John Maynard Keynes",
+      "type": "person"
+    },
+    {
+      "name": "Catherine Whitbourne",
+      "type": "person"
+    },
+    {
+      "name": "West African CFA franc",
+      "type": "other"
+    },
+    {
+      "name": "Central African CFA franc",
+      "type": "other"
+    },
+    {
+      "name": "amero",
+      "type": "other"
+    },
+    {
+      "name": "North American Union",
+      "type": "event"
+    },
+    {
+      "name": "Hungary",
+      "type": "place"
+    },
+    {
+      "name": "International Panel on Climate Change",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:02",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the thirty-eight hundred dollar question",
+      "summary": "Josh and Chuck open by asking how much cash they carry and explain that dividing the world's US dollars among Americans comes to about $3,800 each.",
+      "topics": [
+        "money supply",
+        "cash in circulation"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "M0 money supply and US dollars worldwide",
+      "summary": "They define the M0 money supply as all bills and coins in circulation, cite about $1.2 trillion as of July 2013, and note that roughly half to two-thirds is held overseas.",
+      "topics": [
+        "M0 money supply",
+        "money supply",
+        "US dollars in circulation",
+        "Federal Reserve",
+        "US dollar as world currency"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "M1 and M2 money supply measures",
+      "summary": "They explain M1 adds checking and travelers checks, and M2 adds savings, money market funds, and small CDs, about $10.5 trillion in mid-2013. They say M3 was dropped in 2006.",
+      "topics": [
+        "M1 money supply",
+        "M2 money supply",
+        "M3 dropped",
+        "certificates of deposit",
+        "money supply measures"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Tracking money and Zimbabwe's hyperinflation",
+      "summary": "They explain the Fed tracks money it prints, while countries without central banks make global tallies hard. Zimbabwe's money printing led to hyperinflation, with prices doubling roughly every day and a Zim dollar note later sold on eBay.",
+      "topics": [
+        "Zimbabwe hyperinflation",
+        "Zim dollar",
+        "hyperinflation",
+        "money printing",
+        "inflation",
+        "supply and demand"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Zimbabwe's currency abandonment and the 2008 estimate",
+      "summary": "They describe Zimbabwe's annual inflation estimates, the 2009 switch to foreign currencies such as the South African rand and US dollar, and the lack of a buyback program.",
+      "topics": [
+        "Zimbabwe inflation rate",
+        "dollarization",
+        "South African rand",
+        "currency abandonment",
+        "hundred trillion dollar note"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Estimating global money supply from Steve Hanke's blog",
+      "summary": "Chuck reports that an economist's blog tracking 135 currencies in 167 countries last gave figures for December 2010, with M0 about $5 trillion and M2 about $55 trillion.",
+      "topics": [
+        "global money supply estimate",
+        "M2 money supply",
+        "currency tracking",
+        "world money supply"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Universal world currency: history, pros and cons",
+      "summary": "They discuss Keynes's proposal, the historical Roman and Chinese currencies, and the post-World War II attempt. Pros include no conversion fees and no speculation against a single currency. Cons include the gold standard debate, who would run it, and losing the ability to devalue a currency to fix a sluggish economy.",
+      "topics": [
+        "universal currency",
+        "world currency",
+        "John Maynard Keynes",
+        "Bretton Woods",
+        "gold standard",
+        "currency speculation",
+        "currency conversion fees",
+        "pros and cons of a single currency"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Regional currency unions and the amero",
+      "summary": "They cover the West and Central African CFA francs, the euro, failed Central and South American plans, and the North American Union with its proposed amero.",
+      "topics": [
+        "CFA franc",
+        "euro",
+        "currency union",
+        "amero",
+        "North American Union",
+        "regional currency"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:35:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "Chuck and Josh read listener mail, including books, postcards, music, and vinyl sent in by listeners, then sign off with contact information.",
+      "topics": [
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11672,
+    "output_tokens": 2254
+  }
+}

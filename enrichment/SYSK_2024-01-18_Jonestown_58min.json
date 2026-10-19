@@ -1,0 +1,431 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-01-18_Jonestown_58min.txt",
+  "title": "Jonestown",
+  "date": "2024-01-18",
+  "duration": "58 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/jonestown",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1fadbaa3-5fbb-4205-b925-b0fa011c0cfc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1fadbaa3-5fbb-4205-b925-b0fa011c0cfc/transcript?format=TextWithTimestamps&t=1713650015",
+  "summary": "Josh and Chuck (with Jerry in the booth) open with live show ticket plugs and a New Year's note thanking listeners who flag errors. They then give an overview of Jim Jones and the Peoples Temple: his early preaching and civil rights work in Indianapolis, his apostolic socialism and Latter Rain influences, the 1967/1976 thermonuclear war prophecy that led about a hundred families to northern California, his move to San Francisco and political ties to Mayor George Moscone and Harvey Milk, growing paranoia and isolation, the 1973 Los Angeles arrest, the move to Jonestown in Guyana, the white night suicide drills, the December 1978 visit by Congressman Leo Ryan, the airstrip shooting, the mass deaths on November 18, 1978 from the cyanide-laced Flavor Aid, the Death Tape, survivors, the Air Force first responder study, and a tangent on Ryan's daughter and Wild Wild Country. The episode closes with a listener mail segment about the band Stryper and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Jonestown",
+    "Jim Jones",
+    "People's Temple",
+    "Jonestown massacre",
+    "Guyana mass suicide",
+    "cult history",
+    "Leo Ryan",
+    "Congressman Leo Ryan shooting",
+    "Flavor Aid cyanide deaths",
+    "Death Tape",
+    "White Night drills",
+    "Peoples Temple San Francisco",
+    "Latter Rain movement",
+    "apostolic socialism",
+    "Indianapolis civil rights",
+    "brainwashing",
+    "Stryper listener mail",
+    "Wild Wild Country",
+    "Air Force mortuary first responders study",
+    "Marceline Baldwin"
+  ],
+  "entities": [
+    {
+      "name": "Jim Jones",
+      "type": "person"
+    },
+    {
+      "name": "Jonestown",
+      "type": "place"
+    },
+    {
+      "name": "People's Temple",
+      "type": "organization"
+    },
+    {
+      "name": "Leo Ryan",
+      "type": "person"
+    },
+    {
+      "name": "Guyana",
+      "type": "place"
+    },
+    {
+      "name": "Marceline Baldwin",
+      "type": "person"
+    },
+    {
+      "name": "George Moscone",
+      "type": "person"
+    },
+    {
+      "name": "Harvey Milk",
+      "type": "person"
+    },
+    {
+      "name": "Christine Miller",
+      "type": "person"
+    },
+    {
+      "name": "Sharon Amos",
+      "type": "person"
+    },
+    {
+      "name": "Charles Beekman",
+      "type": "person"
+    },
+    {
+      "name": "Jackie Speier",
+      "type": "person"
+    },
+    {
+      "name": "Bob Brown",
+      "type": "person"
+    },
+    {
+      "name": "Don Harris",
+      "type": "person"
+    },
+    {
+      "name": "Red Brigade",
+      "type": "organization"
+    },
+    {
+      "name": "Wild Wild Country",
+      "type": "work"
+    },
+    {
+      "name": "Stryper",
+      "type": "organization"
+    },
+    {
+      "name": "Death Tape",
+      "type": "work"
+    },
+    {
+      "name": "New West magazine",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:05",
+      "kind": "intro",
+      "title": "Opening banter and live show plugs",
+      "summary": "Hosts plug upcoming live shows in Seattle, San Francisco and Portland, then discuss the New Year's return and thanks to listeners who flag errors.",
+      "topics": [
+        "live shows",
+        "listener feedback",
+        "podcast housekeeping"
+      ]
+    },
+    {
+      "start": "00:03:05",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Introducing Jonestown and the Brian Jonestown Massacre",
+      "summary": "The hosts frame Jonestown as a bleak topic, joke about the band name Brian Jonestown Massacre, and note the episode is a broad overview.",
+      "topics": [
+        "Jonestown",
+        "Brian Jonestown Massacre",
+        "drinking the kool-aid"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:40",
+      "kind": "content",
+      "title": "Overview of the November 1978 deaths",
+      "summary": "Quick spoiler: on November 18, 1978, more than 900 people died in Guyana at the direction of cult leader Jim Jones, who did not physically kill them himself.",
+      "topics": [
+        "Jonestown deaths",
+        "Jim Jones",
+        "cult leader"
+      ]
+    },
+    {
+      "start": "00:06:40",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Jim Jones's early life, preaching and civil rights work",
+      "summary": "Jones is described as a manipulative preacher who was not religious. He fought for integration in Indianapolis, was named a civil rights figure there, and married Marceline Baldwin in 1949.",
+      "topics": [
+        "Jim Jones early life",
+        "Indianapolis civil rights",
+        "Methodist church",
+        "Marceline Baldwin"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Apostolic socialism and the Latter Rain movement",
+      "summary": "Jones left the Methodists and moved into evangelicalism and Pentecostal circles, preaching socialism through Christian teaching and claiming to be one of the manifested Sons of God.",
+      "topics": [
+        "apostolic socialism",
+        "Latter Rain movement",
+        "Pentecostal churches",
+        "manifested Sons of God"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:16:20",
+      "kind": "content",
+      "title": "Jones's appearance, drugs and eccentricities",
+      "summary": "The hosts describe his charisma, pompadour and sideburns, reading or transition glasses, and his drug use starting in the sixties. He reportedly refused to speak unless he initiated the conversation.",
+      "topics": [
+        "Jim Jones appearance",
+        "drug use",
+        "charisma"
+      ]
+    },
+    {
+      "start": "00:16:20",
+      "end": "00:16:50",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Short ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:16:50",
+      "end": "00:20:10",
+      "kind": "content",
+      "title": "Founding the People's Temple and the 1967 nuclear war prophecy",
+      "summary": "Jones founded the People's Temple in 1955. He prophesied a thermonuclear war, which he apparently dated wrong, and about a hundred families moved from Indianapolis to rural northern California.",
+      "topics": [
+        "People's Temple founding",
+        "thermonuclear war prophecy",
+        "Redwood Valley move",
+        "Indianapolis congregation"
+      ]
+    },
+    {
+      "start": "00:20:10",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Adoptions, family and early Brazil trip",
+      "summary": "Jones and Marceline adopted a multiracial family, and their biological son Stephan was born in 1959. Jones moved his family to Brazil in 1963 and briefly visited Guyana, and the temple faltered in his absence.",
+      "topics": [
+        "Jones family",
+        "rainbow family adoptions",
+        "Brazil move 1963",
+        "Guyana first visit"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:26:40",
+      "kind": "content",
+      "title": "San Francisco political power",
+      "summary": "Jones moved to San Francisco, built a largely Black Pentecostal congregation with white liberal members, and gained influence with politicians including Mayor George Moscone and Harvey Milk, who named him to a housing commission.",
+      "topics": [
+        "San Francisco politics",
+        "George Moscone",
+        "Harvey Milk",
+        "housing commission",
+        "People's Temple membership"
+      ]
+    },
+    {
+      "start": "00:26:40",
+      "end": "00:29:45",
+      "kind": "content",
+      "title": "Growing isolation, paranoia and the temple fire",
+      "summary": "Jones isolated members from family, required them to turn over possessions, and used a siege mentality. The San Francisco temple burned, and Jones blamed the Nation of Islam. Press coverage was largely suppressed.",
+      "topics": [
+        "cult isolation",
+        "siege mentality",
+        "temple fire",
+        "cult press coverage"
+      ]
+    },
+    {
+      "start": "00:29:45",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Planning Commission and abuses within the temple",
+      "summary": "Jones formed an inner circle called the Planning Commission. Members faced forced marriages, sex assignments, starvation diets, forced labor and public stripping.",
+      "topics": [
+        "Planning Commission",
+        "forced labor",
+        "cult abuse"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:45",
+      "kind": "content",
+      "title": "1973 Los Angeles arrest and the doctor's note",
+      "summary": "Jones, who was bisexual and secretly so, was arrested in a Los Angeles movie theater bathroom in December 1973 after an undercover cop. A doctor's note and political connections helped get him released, and the arrest records were sealed.",
+      "topics": [
+        "1973 Los Angeles arrest",
+        "Jim Jones sexuality",
+        "doctor's note",
+        "sealed court records"
+      ]
+    },
+    {
+      "start": "00:32:45",
+      "end": "00:34:10",
+      "kind": "content",
+      "title": "Turning point and scouting Guyana",
+      "summary": "After the 1973 arrest, Jones decided San Francisco was too bizarre and sent people to scout a compound in Guyana.",
+      "topics": [
+        "Guyana compound",
+        "Jonestown founding decision"
+      ]
+    },
+    {
+      "start": "00:34:10",
+      "end": "00:36:20",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Short ad break and cliffhanger tease.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:36:20",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Move to Guyana and the first poison drill",
+      "summary": "Jones declared himself God and was called Father. He staged a fake poisoned wine test with his followers, who did not resist, and the hosts describe it as the first loyalty test.",
+      "topics": [
+        "Jones as God",
+        "fake poison test",
+        "loyalty test",
+        "white nights"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Jonestown settlement, labor and White Night drills",
+      "summary": "About fifty members went to Guyana in 1974. After the New West article in 1977, Jones moved there with more people. Work was brutal, and the White Night suicide rehearsals, including the six-day siege, were held as loyalty drills against a feared US invasion.",
+      "topics": [
+        "Jonestown labor conditions",
+        "White Night rehearsals",
+        "New West article",
+        "six day siege",
+        "Red Brigade"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:44:05",
+      "kind": "content",
+      "title": "Congressman Leo Ryan's visit and the airstrip shooting",
+      "summary": "Congressman Leo Ryan visited Jonestown with reporters and NBC crew. Defector Vernon Gosney passed a note asking for help, fifteen members left, and as they waited at the airstrip the Red Brigade opened fire, killing Ryan and four others.",
+      "topics": [
+        "Leo Ryan visit",
+        "Jonestown airstrip shooting",
+        "Vernon Gosney note",
+        "NBC Bob Brown",
+        "Don Harris",
+        "Red Brigade"
+      ]
+    },
+    {
+      "start": "00:44:05",
+      "end": "00:46:50",
+      "kind": "content",
+      "title": "Survivors of the airstrip attack",
+      "summary": "Jackie Speier and Steve Sung survived by pretending to be dead; Speier reportedly lay there about twenty-two hours before help arrived. A defector wounded three people on the second plane.",
+      "topics": [
+        "Jackie Speier survival",
+        "airstrip survivors",
+        "Steve Sung"
+      ]
+    },
+    {
+      "start": "00:46:50",
+      "end": "00:49:10",
+      "kind": "content",
+      "title": "The Death Tape and revolutionary suicide",
+      "summary": "Jones called for revolutionary suicide. The recording known as the Death Tape captures the process, including children crying, and the hosts describe Christine Miller's protest and her apparent murder.",
+      "topics": [
+        "Death Tape",
+        "revolutionary suicide",
+        "Christine Miller",
+        "cyanide"
+      ]
+    },
+    {
+      "start": "00:49:10",
+      "end": "00:51:30",
+      "kind": "content",
+      "title": "Flavor Aid, cyanide and the death toll",
+      "summary": "The hosts explain the drink was Flavor Aid, not Kool-Aid, laced with sedatives, antipsychotics, Valium and a malaria drug, plus cyanide. The death toll was 918, including 276 children. Sharon Amos and her children died in Georgetown.",
+      "topics": [
+        "Flavor Aid",
+        "death toll",
+        "Sharon Amos",
+        "Charles Beekman",
+        "Georgetown deaths"
+      ]
+    },
+    {
+      "start": "00:51:30",
+      "end": "00:54:30",
+      "kind": "content",
+      "title": "Survivors, bodies and Air Force first responder study",
+      "summary": "Defectors who escaped into the jungle gave key accounts, and some helped identify bodies. The hosts discuss the American civilian toll and an Air Force study of first responders that helped create the field.",
+      "topics": [
+        "Jonestown survivors",
+        "Charles Clayton",
+        "Air Force mortuary study",
+        "first responder trauma"
+      ]
+    },
+    {
+      "start": "00:54:30",
+      "end": "00:55:14",
+      "kind": "content",
+      "title": "Leo Ryan's daughter and Wild Wild Country",
+      "summary": "Ryan's daughter later married in the Rajneesh-linked Oregon ranch cult featured in Wild Wild Country, with a joke about turning grape Kool-Aid into wine.",
+      "topics": [
+        "Wild Wild Country",
+        "Leo Ryan daughter",
+        "cult connections"
+      ]
+    },
+    {
+      "start": "00:55:14",
+      "end": "00:57:15",
+      "kind": "listener_mail",
+      "title": "Listener mail: Stryper",
+      "summary": "A listener writes about seeing the Christian metal band Stryper in Seattle and mentions their acoustic tour. Chuck gets a joke about attending a Georgia show, and Josh asks for listener mail about Tom Cochrane.",
+      "topics": [
+        "Stryper",
+        "listener mail",
+        "Christian heavy metal"
+      ]
+    },
+    {
+      "start": "00:57:15",
+      "end": "00:57:50",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close with the standard iHeartRadio production credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19856,
+    "output_tokens": 4861
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-11-06_How_Mortgage-backed_Securities_Work_19min.txt",
+  "title": "How Mortgage-backed Securities Work",
+  "date": "2008-11-06",
+  "duration": "19 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-mortgage-backed-securities-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/afa7b22a-3115-44ea-b8eb-ae2800c2486b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/afa7b22a-3115-44ea-b8eb-ae2800c2486b/transcript?format=TextWithTimestamps&t=1700544000",
+  "summary": "Josh and Chuck explain mortgage-backed securities (MBS) and how subprime mortgage-backed securities helped trigger the 2008 economic downturn. They describe how individual mortgages are pooled, divided into shares, and sold to investors who collect payments; how demand for MBS pushed lenders toward subprime borrowers; how banks stopped carrying risk; how collateralized debt obligations repackaged MBS; and how foreclosures caused a housing market collapse, layoffs, and wider economic damage. They also discuss who is to blame, predatory lending, the lack of regulation on new financial instruments, and recommend related HowStuffWorks articles on the 2008 presidential and vice presidential candidates.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "mortgage-backed securities",
+    "MBS",
+    "subprime mortgages",
+    "subprime mortgage crisis",
+    "2008 financial crisis",
+    "collateralized debt obligations",
+    "CDO",
+    "securitization",
+    "foreclosures",
+    "housing market collapse",
+    "predatory lending",
+    "investment banks",
+    "AIG bailout",
+    "financial regulation",
+    "credit score",
+    "housing bubble",
+    "Wall Street",
+    "economic downturn"
+  ],
+  "entities": [
+    {
+      "name": "Mortgage-backed security",
+      "type": "other"
+    },
+    {
+      "name": "Collateralized debt obligation",
+      "type": "other"
+    },
+    {
+      "name": "Subprime mortgage",
+      "type": "other"
+    },
+    {
+      "name": "AIG",
+      "type": "organization"
+    },
+    {
+      "name": "JP Morgan Chase",
+      "type": "organization"
+    },
+    {
+      "name": "John McCain",
+      "type": "person"
+    },
+    {
+      "name": "Barack Obama",
+      "type": "person"
+    },
+    {
+      "name": "Sarah Palin",
+      "type": "person"
+    },
+    {
+      "name": "Joe Biden",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter on the economic downturn",
+      "summary": "Josh and Chuck joke about the US economy spiraling, mention investment banks failing and AIG being largely government-owned, and introduce mortgage-backed securities as the root cause.",
+      "topics": [
+        "economic downturn",
+        "AIG",
+        "2008 financial crisis"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "What a mortgage-backed security is",
+      "summary": "A mortgage-backed security is an investment based on a pool of mortgages divided into shares that pay dividends as homeowners make monthly payments. Investors can include banks, funds, and individuals, and some retirement or mutual fund holders may indirectly own shares of their own mortgage.",
+      "topics": [
+        "mortgage-backed securities",
+        "MBS basics",
+        "mortgage pooling",
+        "investment shares"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "How a mortgage becomes a security",
+      "summary": "A bank issues mortgages, sells batches to an investment bank, which pools several hundred mortgages into one security and sells shares to investors who collect dividends.",
+      "topics": [
+        "securitization",
+        "mortgage origination",
+        "investment banks",
+        "selling shares"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Demand, subprime borrowers, and lending shift",
+      "summary": "Mortgage-backed securities became hot during a housing boom. Demand outstripped the supply of prime borrowers, so lenders turned to subprime borrowers, meaning people with weaker credit or income rather than a lower interest rate. Banks stopped holding the risk of default because they sold mortgages quickly.",
+      "topics": [
+        "subprime borrowers",
+        "prime borrowers",
+        "credit score",
+        "housing boom",
+        "risk transfer"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Collateralized debt obligations and risk",
+      "summary": "Mortgage-backed shares were repackaged into collateralized debt obligations, including ones made exclusively from subprime MBS. Higher interest rates on subprime loans meant higher dividends but greater risk, and the chain of buyers passed the securities along.",
+      "topics": [
+        "collateralized debt obligations",
+        "CDO",
+        "subprime MBS",
+        "high-risk investments"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Foreclosures, the domino effect, and blame",
+      "summary": "Once subprime borrowers defaulted and foreclosures spread around 2006, the securities tanked. Foreclosures lowered housing prices, unsold new homes led to construction layoffs and unemployment. The hosts discuss blame across lenders, brokers, investment banks, and borrowers, including predatory lending.",
+      "topics": [
+        "foreclosures",
+        "housing market collapse",
+        "predatory lending",
+        "domino effect",
+        "blame"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Origins and lack of regulation of financial instruments",
+      "summary": "The hosts note that new financial instruments come from business schools and are modeled but not tested before release, and that no regulation requires testing them on a small scale first.",
+      "topics": [
+        "financial regulation",
+        "financial instruments",
+        "lack of oversight"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:19:00",
+      "kind": "outro",
+      "title": "Related articles and sign-off",
+      "summary": "Josh recommends HowStuffWorks articles on the 2008 presidential and vice presidential candidates, John McCain, Barack Obama, Sarah Palin, and Joe Biden, and invites listener feedback.",
+      "topics": [
+        "HowStuffWorks articles",
+        "2008 election candidates"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 7397,
+    "output_tokens": 2025
+  }
+}

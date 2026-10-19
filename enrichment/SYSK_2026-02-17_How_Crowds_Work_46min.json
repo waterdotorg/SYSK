@@ -1,0 +1,353 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-02-17_How_Crowds_Work_46min.txt",
+  "title": "How Crowds Work",
+  "date": "2026-02-17",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-crowds-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/163eab5b-3f29-4689-b87b-b3f400082e75/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/163eab5b-3f29-4689-b87b-b3f400082e75/transcript?format=TextWithTimestamps&t=1771288441",
+  "summary": "Josh and Chuck explore how crowds behave, covering crowd definitions, deadly crowd crushes (Astro World, Khodynka-style Moscow coronation stampede, Love Parade, Hajj, Seoul Halloween crush, Sheffield), crowd physics and social force, density thresholds, crowd psychology theories (Le Bon, contagion, convergence, group mind, social identity, deindividuation, suggestibility), police crowd management and the dialogue team model, emergency and disaster behavior (Quarantelli, Fritz, bystander effect, pluralistic ignorance), and the peacefulness of recent protests. The episode was suggested by listener Kimberly. The closing listener mail covers drunk tank pink.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "crowds",
+    "crowd behavior",
+    "crowd crush",
+    "crowd dynamics",
+    "crowd physics",
+    "social force",
+    "crowd psychology",
+    "Gustave Le Bon",
+    "contagion theory",
+    "convergence theory",
+    "deindividuation",
+    "social identity theory",
+    "suggestibility",
+    "crowd control",
+    "dialogue team policing",
+    "emergency evacuation behavior",
+    "bystander effect",
+    "pluralistic ignorance",
+    "Hajj stampede",
+    "Astro World tragedy",
+    "Love Parade disaster",
+    "mosh pit",
+    "drunk tank pink"
+  ],
+  "entities": [
+    {
+      "name": "Astro World Festival",
+      "type": "event"
+    },
+    {
+      "name": "Love Parade",
+      "type": "event"
+    },
+    {
+      "name": "Hajj",
+      "type": "event"
+    },
+    {
+      "name": "Coronation of Nicholas II",
+      "type": "event"
+    },
+    {
+      "name": "Sheffield stadium disaster",
+      "type": "event"
+    },
+    {
+      "name": "Gustave Le Bon",
+      "type": "person"
+    },
+    {
+      "name": "The Crowd: A Study of the Popular Mind",
+      "type": "work"
+    },
+    {
+      "name": "Philip Zimbardo",
+      "type": "person"
+    },
+    {
+      "name": "Enrico Quarantelli",
+      "type": "person"
+    },
+    {
+      "name": "Charles Fritz",
+      "type": "person"
+    },
+    {
+      "name": "Pamplona",
+      "type": "place"
+    },
+    {
+      "name": "Burning Man",
+      "type": "event"
+    },
+    {
+      "name": "Drunk Tank Pink",
+      "type": "other"
+    },
+    {
+      "name": "Adam Alter",
+      "type": "person"
+    },
+    {
+      "name": "Stanford Prison Experiment",
+      "type": "event"
+    },
+    {
+      "name": "Seoul Halloween crowd crush",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and crowd definition",
+      "summary": "Hosts joke about crowd proximity and introduce crowds as any temporarily gathered group, crediting listener Kimberly with suggesting the topic.",
+      "topics": [
+        "crowds",
+        "crowd definition"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Why people gather and modern view of crowds",
+      "summary": "Crowds form for many reasons, from elevators to protests. Modern research finds people are generally orderly and crowds are not inherently dangerous, and authorities are often blamed.",
+      "topics": [
+        "crowd behavior",
+        "crowd misconceptions",
+        "law enforcement crowd management"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:05",
+      "kind": "content",
+      "title": "Deadly crowd crushes",
+      "summary": "Examples of deadly crowd incidents: Astro World in Houston in 2021, the 1896 Moscow coronation stampede of Nicholas II that killed around 1,300, and the 2010 Love Parade tunnel crush in Duisburg. Deaths typically follow a bottleneck with pressure from behind.",
+      "topics": [
+        "crowd crush",
+        "Astro World tragedy",
+        "Moscow coronation stampede",
+        "Love Parade disaster",
+        "bottleneck crowd deaths"
+      ]
+    },
+    {
+      "start": "00:06:05",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Hajj crush and crowd research",
+      "summary": "The 2015 Hajj crush killed about 2,000 people at the bottleneck, surpassing the 1990 Hajj record. Researchers across physics, physiology, psychology study crowd dynamics for city planning, event preparation and disaster management.",
+      "topics": [
+        "Hajj stampede",
+        "crowd dynamics research",
+        "crowd modeling"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Physics of crowds and social force",
+      "summary": "Crowd physics research since the 1950s compares crowds to fluids and uses terms like orbital motion. Social force describes how people instinctively navigate without colliding.",
+      "topics": [
+        "crowd physics",
+        "social force",
+        "fluid dynamics analogy",
+        "complex adaptive systems"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:13:10",
+      "kind": "content",
+      "title": "Spontaneous collective movement, lane formation and orbits",
+      "summary": "Crowd movement is unconscious and collective. Lane formation occurs on sidewalks and hallways, with differences by country. Studies of the Pamplona Running of the Bulls show people moving in orbits of about eighteen seconds.",
+      "topics": [
+        "lane formation",
+        "orbital motion",
+        "Running of the Bulls Pamplona",
+        "collective movement"
+      ]
+    },
+    {
+      "start": "00:13:10",
+      "end": "00:16:25",
+      "kind": "content",
+      "title": "Crowd density thresholds and dangers",
+      "summary": "Density levels are described: two people per square meter slows movement, four causes bumping, six makes movement difficult (about 1,700 on a tennis court), and ten makes individual movement impossible. The 2022 Seoul crowd crush killed young people by asphyxiation.",
+      "topics": [
+        "crowd density",
+        "people per square meter",
+        "asphyxiation in crowds",
+        "Seoul crowd crush"
+      ]
+    },
+    {
+      "start": "00:16:25",
+      "end": "00:16:34",
+      "kind": "content",
+      "title": "Transition to break",
+      "summary": "Brief lead-in before the break.",
+      "topics": [
+        "crowds"
+      ]
+    },
+    {
+      "start": "00:16:34",
+      "end": "00:16:55",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:16:55",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Crowd psychology theories and Le Bon",
+      "summary": "Gustave Le Bon's 1895 book The Crowd argued crowds are mindless and suggestible. Theories are discussed: contagion, convergence, group mind, and social identity. Deindividuation is described through Philip Zimbardo's work, with examples of riots and joyful crowd experiences.",
+      "topics": [
+        "Gustave Le Bon",
+        "contagion theory",
+        "convergence theory",
+        "social identity theory",
+        "deindividuation",
+        "Philip Zimbardo"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:25:10",
+      "kind": "content",
+      "title": "Emotional contagion and crowd norms",
+      "summary": "Emotions spread in crowds, but the effect depends on group norms. Mosh pit anecdotes illustrate how a single person can change the mood of a crowd.",
+      "topics": [
+        "emotional contagion",
+        "crowd norms",
+        "mosh pit"
+      ]
+    },
+    {
+      "start": "00:25:10",
+      "end": "00:28:55",
+      "kind": "content",
+      "title": "Mosh pit anecdote and suggestibility",
+      "summary": "Chuck describes a trash whirlpool at a Lollapalooza-style mosh pit. The hosts discuss suggestibility in crowds, which usually requires a charismatic leader, and note that Hitler and Mussolini drew on Le Bon.",
+      "topics": [
+        "suggestibility",
+        "charismatic leaders",
+        "fascism and crowds",
+        "Le Bon influence"
+      ]
+    },
+    {
+      "start": "00:28:55",
+      "end": "00:29:54",
+      "kind": "content",
+      "title": "Break",
+      "summary": "Transition before the second break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:29:54",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:55",
+      "kind": "content",
+      "title": "Police crowd management and the dialogue team",
+      "summary": "Police presence in riot gear can trigger violence. The dialogue team model from Europe, where a friendly public-facing officer communicates with crowds, is spreading to America. Training and events like the Sheffield disaster are discussed.",
+      "topics": [
+        "dialogue team policing",
+        "police riot gear",
+        "crowd control training",
+        "Sheffield disaster"
+      ]
+    },
+    {
+      "start": "00:33:55",
+      "end": "00:37:20",
+      "kind": "content",
+      "title": "Emergency behavior and disaster cooperation",
+      "summary": "Quarantelli found people evacuate orderly, and Charles Fritz studied about 180 peacetime disasters, finding people act prosocially. Chuck describes a New York subway platform incident where strangers gathered around a mother and baby.",
+      "topics": [
+        "emergency evacuation",
+        "disaster behavior",
+        "Enrico Quarantelli",
+        "Charles Fritz",
+        "subway incident"
+      ]
+    },
+    {
+      "start": "00:37:20",
+      "end": "00:39:54",
+      "kind": "content",
+      "title": "Bystander effect and pluralistic ignorance",
+      "summary": "A study of caught-on-camera fights found the bystander effect is not supported; more people meant more intervention. The hosts discuss pluralistic ignorance, where people stay quiet because they assume others feel differently.",
+      "topics": [
+        "bystander effect",
+        "pluralistic ignorance",
+        "intervention in fights"
+      ]
+    },
+    {
+      "start": "00:39:54",
+      "end": "00:43:40",
+      "kind": "content",
+      "title": "Peaceful protests, alcohol and sports celebrations",
+      "summary": "Statistics show most pro-Palestinian campus protests in 2024 and Black Lives Matter demonstrations after George Floyd were peaceful. Alcohol, weapons and championship celebrations are named as triggers for riots. Pumpkin Chunkin is briefly mentioned.",
+      "topics": [
+        "peaceful protests",
+        "Black Lives Matter demonstrations",
+        "alcohol and riots",
+        "championship riots"
+      ]
+    },
+    {
+      "start": "00:43:40",
+      "end": "00:45:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: drunk tank pink",
+      "summary": "Listener Hannah writes about drunk tank pink, a calming color used in drunk tanks, referencing Adam Alter's book, and a birthday shout-out to Isaac for the Akron show.",
+      "topics": [
+        "listener mail",
+        "drunk tank pink",
+        "color psychology"
+      ]
+    },
+    {
+      "start": "00:45:30",
+      "end": "00:46:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give the email address and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17692,
+    "output_tokens": 3797
+  }
+}

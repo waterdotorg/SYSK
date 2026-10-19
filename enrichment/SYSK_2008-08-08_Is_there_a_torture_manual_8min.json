@@ -1,0 +1,151 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-08-08_Is_there_a_torture_manual_8min.txt",
+  "title": "Is there a torture manual?",
+  "date": "2008-08-08",
+  "duration": "8 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-there-a-torture-manual",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e546ae31-cc00-4e00-bf85-ae2800c3679f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e546ae31-cc00-4e00-bf85-ae2800c3679f/transcript?format=TextWithTimestamps&t=1700544005",
+  "summary": "Josh Clark and Chuck Bryant discuss whether torture manuals exist, prompted by a May 2007 raid on a Baghdad house where al-Qaeda torture manual was found with illustrated torture methods and instruments. They trace the CIA's torture manuals: the KUBARK manual (first edition 1963, KUBARK being the CIA's codename in Vietnam) and the later Human Resource Exploitation Manual, which they say built on about twenty years of experimentation. They note the consensus that psychological rather than physical torture elicits information, and briefly discuss Congress, waterboarding, and the fourteen CIA personnel authorized to use it. The episode closes with a plug for a related article on entomophagy (eating bugs) written by Jonathan Strickland.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "torture manual",
+    "KUBARK manual",
+    "Human Resource Exploitation Manual",
+    "CIA torture research",
+    "psychological torture",
+    "physical torture",
+    "waterboarding",
+    "Baghdad raid 2007 al-Qaeda torture manual",
+    "al-Qaeda",
+    "CIA interrogation techniques",
+    "CIA MKULTRA LSD experiments",
+    "Congress torture hearings",
+    "torture ethics",
+    "enhanced interrogation",
+    "KUBARK codename Vietnam",
+    "entomophagy"
+  ],
+  "entities": [
+    {
+      "name": "Central Intelligence Agency",
+      "type": "organization"
+    },
+    {
+      "name": "KUBARK Manual",
+      "type": "work"
+    },
+    {
+      "name": "Human Resource Exploitation Manual",
+      "type": "work"
+    },
+    {
+      "name": "Al-Qaeda",
+      "type": "organization"
+    },
+    {
+      "name": "Baghdad",
+      "type": "place"
+    },
+    {
+      "name": "Vietnam",
+      "type": "place"
+    },
+    {
+      "name": "Congress",
+      "type": "organization"
+    },
+    {
+      "name": "Jonathan Strickland",
+      "type": "person"
+    },
+    {
+      "name": "Entomophagy",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:20",
+      "kind": "ad",
+      "title": "Opening sponsor reads",
+      "summary": "Pre-show sponsor reads for a camera and Visa, before the hosts introduce themselves.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:00:20",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Introduction and framing the torture topic",
+      "summary": "Josh and Chuck introduce the episode and say torture is a serious, somber subject that is still happening, noting the 2007 Baghdad raid that found an al-Qaeda torture manual.",
+      "topics": [
+        "torture",
+        "Baghdad raid 2007",
+        "al-Qaeda torture manual"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Torture manuals and the CIA's manuals",
+      "summary": "The hosts describe the illustrated methods in the Baghdad manual and note that torture manuals are not uncommon. They say the two seminal manuals were written by the CIA, and that research dating to the 1950s aimed to find what worked.",
+      "topics": [
+        "torture manual",
+        "al-Qaeda torture manual",
+        "CIA torture research",
+        "Baghdad raid 2007"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Psychological versus physical torture and the KUBARK manual",
+      "summary": "They argue that psychological torture is more effective than physical torture, which produces unreliable information. The first CIA edition came out in 1963, amid CIA experiments with LSD. The KUBARK manual is discussed as the CIA codename used in Vietnam, and the second edition reflected about twenty years of refinement.",
+      "topics": [
+        "psychological torture",
+        "physical torture",
+        "KUBARK manual",
+        "CIA MKULTRA LSD experiments",
+        "KUBARK codename Vietnam"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Human Resource Exploitation Manual, waterboarding and ethics",
+      "summary": "The Human Resource Exploitation Manual is described as a later manual built on the same lines. The hosts discuss waterboarding, Congress's repeated hearings and bans, the fourteen CIA personnel authorized to use it, and the ethics of torture.",
+      "topics": [
+        "Human Resource Exploitation Manual",
+        "waterboarding",
+        "Congress torture hearings",
+        "torture ethics",
+        "CIA interrogation techniques"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:08:00",
+      "kind": "outro",
+      "title": "Sign-off and entomophagy plug",
+      "summary": "Chuck and Josh point listeners to related articles and a sponsor read, and mention Jonathan Strickland's article on entomophagy (eating bugs), which he dislikes.",
+      "topics": [
+        "entomophagy",
+        "Jonathan Strickland",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4093,
+    "output_tokens": 1757
+  }
+}

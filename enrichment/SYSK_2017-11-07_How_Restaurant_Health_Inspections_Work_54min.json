@@ -1,0 +1,251 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-11-07_How_Restaurant_Health_Inspections_Work_54min.txt",
+  "title": "How Restaurant Health Inspections Work",
+  "date": "2017-11-07",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-restaurant-health-inspections-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0fcc0eb5-fc47-40be-a8fb-ae28006e3f44/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0fcc0eb5-fc47-40be-a8fb-ae28006e3f44/transcript?format=TextWithTimestamps&t=1700543788",
+  "summary": "Josh Clark and Chuck Bryant, joined by guest Jack O'Brien, discuss how restaurant health inspections work. The episode opens with a promo for Jack's new show The Daily Zeitgeist and banter about bad restaurant jobs. The hosts then cover the history of food safety regulation, starting with Upton Sinclair's The Jungle, the Pure Food and Drug Act, and the Food Code. They explain the voluntary nature of the Food Code and the city/county role in inspections, the three inspection types (routine, follow-up, complaint-triggered), risk-based inspection schedules, the claim of ethnic-restaurant bias, and what inspectors look for: employee hygiene, handwashing, temperature control, cross-contamination, equipment, and static areas like ice machines. They also cover the point-deduction scoring system and the limits of posted scores. The episode closes with listener mail from Tom about a date and the podcast.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "restaurant health inspections",
+    "food safety",
+    "restaurant inspection scores",
+    "health inspector",
+    "Food Code",
+    "Pure Food and Drug Act",
+    "The Jungle Upton Sinclair",
+    "food poisoning",
+    "cross contamination",
+    "food temperature danger zone",
+    "handwashing in restaurants",
+    "ice machine mold",
+    "routine inspection",
+    "complaint-triggered inspection",
+    "risk assessment restaurant inspection",
+    "cockroaches restaurants",
+    "food regulation history",
+    "Meat Inspection Act",
+    "buffet food safety",
+    "restaurant hygiene"
+  ],
+  "entities": [
+    {
+      "name": "Upton Sinclair",
+      "type": "person"
+    },
+    {
+      "name": "The Jungle",
+      "type": "work"
+    },
+    {
+      "name": "Pure Food and Drug Act",
+      "type": "work"
+    },
+    {
+      "name": "Food Code",
+      "type": "work"
+    },
+    {
+      "name": "Federal Meat Inspection Act",
+      "type": "work"
+    },
+    {
+      "name": "Chipotle",
+      "type": "organization"
+    },
+    {
+      "name": "Ben Chapman",
+      "type": "person"
+    },
+    {
+      "name": "North Carolina State",
+      "type": "organization"
+    },
+    {
+      "name": "Yelp",
+      "type": "organization"
+    },
+    {
+      "name": "The Daily Zeitgeist",
+      "type": "work"
+    },
+    {
+      "name": "Jack O'Brien",
+      "type": "person"
+    },
+    {
+      "name": "Mental Floss",
+      "type": "organization"
+    },
+    {
+      "name": "Wall Street Journal",
+      "type": "organization"
+    },
+    {
+      "name": "FDA",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening and guest intro",
+      "summary": "Josh introduces guest Jack O'Brien and his new show The Daily Zeitgeist, a Monday-through-Friday news and pop culture podcast. The hosts welcome him to the network.",
+      "topics": [
+        "The Daily Zeitgeist",
+        "Jack O'Brien",
+        "podcast network"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Bad restaurant jobs and gross kitchens",
+      "summary": "Chuck and Josh trade stories about unsanitary restaurant kitchens they worked in, including a dishwasher who put his shoe into a stew and workers dropping meat on the floor. They discuss restaurant owners' responsibility for employees and the idea that established restaurant careers differ from teen jobs.",
+      "topics": [
+        "restaurant kitchen hygiene",
+        "dirty restaurant workers",
+        "restaurant employees",
+        "food contamination by staff"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "History: The Jungle and the Pure Food and Drug Act",
+      "summary": "The hosts describe how Upton Sinclair's The Jungle prompted Congress to pass the Pure Food and Drug Act and the Federal Meat Inspection Act. They explain that the first Food Code grew out of these laws and that food regulation became federal because meat crossed state lines.",
+      "topics": [
+        "The Jungle Upton Sinclair",
+        "Pure Food and Drug Act",
+        "Federal Meat Inspection Act",
+        "history of food regulation",
+        "Food Code history"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Food Code and who inspects restaurants",
+      "summary": "The Food Code is voluntary and not federal law; states write their own rules, generally aligned with federal recommendations and FDA guidance. Inspections are carried out by city or county officials, who work with the state and federal government. The Food Code has been updated every two years, then every four from 2001.",
+      "topics": [
+        "Food Code",
+        "FDA",
+        "county health department",
+        "restaurant regulation",
+        "voluntary food code"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Chain restaurants, personal experience, and inspection types",
+      "summary": "The hosts discuss why large chains get inspected by third parties, referencing Chipotle's losses after an outbreak. Chuck recounts a past undercooked chicken illness and not calling the health department. They then describe three inspection types: routine, follow-up, and complaint-triggered.",
+      "topics": [
+        "chain restaurant food safety",
+        "Chipotle outbreak",
+        "food poisoning complaints",
+        "routine inspection",
+        "follow-up inspection",
+        "complaint-triggered inspection"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Risk-based inspection schedules and bias claims",
+      "summary": "Inspection frequency depends on a risk assessment by food type, such as sushi versus deli, and on violation or complaint history. Ben Chapman of North Carolina State says there is no data supporting claims that ethnic restaurants are targeted, though complaint bias may play a role; a Yelp search for food poisoning mostly turned up ethnic restaurants.",
+      "topics": [
+        "risk-based inspection",
+        "inspection frequency",
+        "sushi restaurants",
+        "ethnic restaurants inspection bias",
+        "Ben Chapman",
+        "Yelp food poisoning reviews"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "What inspectors look for: hygiene, temperatures, cross-contamination",
+      "summary": "Inspectors begin in dynamic food-prep areas and check employee hygiene, including handwashing, glove use, and phone use. The hosts describe the handwashing method and an inspector's paper-towel X trick. They cover safe food temperatures, the danger zone, reheating soups, and cross-contamination between raw chicken and lettuce.",
+      "topics": [
+        "employee handwashing",
+        "food temperature danger zone",
+        "cross contamination",
+        "reheating food",
+        "food storage temperatures",
+        "inspector tricks"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Equipment, static areas, ice machines, and buffets",
+      "summary": "The hosts cover dirty silverware as a sign of a dirty kitchen, dishwashers and sanitizing, and static areas such as storage, HVAC, and ice machines. Mold in ice machines and beverage dispensers is a concern. They also criticize self-serve buffets and soft drink stations.",
+      "topics": [
+        "ice machine mold",
+        "dishwasher sanitizing",
+        "static areas restaurant",
+        "buffet food safety",
+        "self-serve soda stations",
+        "dirty silverware"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Point deductions, scores, and limits of posted grades",
+      "summary": "Inspections start at 100 points and deduct for violations, with critical violations in five categories. Minor issues cost a point or two; serious ones cost four or five and can lead to closure. Posted scores are snapshots, and the full inspection reports online give more detail.",
+      "topics": [
+        "restaurant inspection scores",
+        "point deductions",
+        "critical violations",
+        "restaurant closure",
+        "inspection report online"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Cockroaches and closing remarks",
+      "summary": "Mental Floss reports an inspector who can smell cockroach infestations. Josh mentions his own roach problem and the hosts close with a plug for the website.",
+      "topics": [
+        "cockroaches",
+        "pest control restaurants",
+        "inspector sense of smell"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:54:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Tom",
+      "summary": "Tom writes that a podcast episode about poop helped him and his girlfriend Alice bond on a hike in Moab, Utah. The hosts thank him and give listener contact information.",
+      "topics": [
+        "listener mail",
+        "Moab Utah",
+        "podcast feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17557,
+    "output_tokens": 3072
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-04-03_How_Diamonds_Work_40min.txt",
+  "title": "How Diamonds Work",
+  "date": "2012-04-03",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-diamonds-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1c257b85-6794-4424-b0d3-ae2800a906ff/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1c257b85-6794-4424-b0d3-ae2800a906ff/transcript?format=TextWithTimestamps&t=1700543922",
+  "summary": "Josh and Chuck explore diamonds: the 1982 Atlantic article by Ever J. Epstein about resale value and an experiment that found diamonds lose value when resold, the De Beers cartel and its marketing (\"A diamond is forever\"), how diamonds form deep in the mantle and reach the surface through kimberlite pipes, where diamonds are found (including alluvial deposits and cratons), how rough diamonds are cleaved, sawed, bruted, cut and polished, the Mohs hardness scale, the four Cs (cut, clarity, carat, color), conflict/blood diamonds and the Kimberley Process, synthetic and simulant stones (cubic zirconia, moissanite, lab-grown diamonds), and the Hope Diamond curse. The episode closes with a listener mail story about pickpockets in Madrid.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "diamonds",
+    "diamond formation",
+    "kimberlite pipes",
+    "diamond mining",
+    "alluvial diamonds",
+    "cratons",
+    "diamond cutting",
+    "cleaving diamonds",
+    "bruting",
+    "polishing diamonds",
+    "Mohs hardness scale",
+    "four Cs",
+    "diamond clarity",
+    "diamond carat",
+    "diamond color",
+    "De Beers cartel",
+    "diamond marketing",
+    "Diamond is Forever slogan",
+    "diamond resale value",
+    "blood diamonds",
+    "conflict diamonds",
+    "Kimberley Process",
+    "cubic zirconia",
+    "moissanite",
+    "synthetic diamonds",
+    "Hope Diamond curse",
+    "fullerite",
+    "pickpocketing"
+  ],
+  "entities": [
+    {
+      "name": "De Beers",
+      "type": "organization"
+    },
+    {
+      "name": "Kimberley Process",
+      "type": "event"
+    },
+    {
+      "name": "Hope Diamond",
+      "type": "work"
+    },
+    {
+      "name": "The Atlantic",
+      "type": "work"
+    },
+    {
+      "name": "Ever J. Epstein",
+      "type": "person"
+    },
+    {
+      "name": "Friedrich Mohs",
+      "type": "person"
+    },
+    {
+      "name": "Henri Moissan",
+      "type": "person"
+    },
+    {
+      "name": "Cecil Rhodes",
+      "type": "person"
+    },
+    {
+      "name": "Harry Winston",
+      "type": "person"
+    },
+    {
+      "name": "Pierre Cartier",
+      "type": "person"
+    },
+    {
+      "name": "Jean Baptiste Tavernier",
+      "type": "person"
+    },
+    {
+      "name": "Kimberlite",
+      "type": "other"
+    },
+    {
+      "name": "Archean cratons",
+      "type": "place"
+    },
+    {
+      "name": "Smithsonian",
+      "type": "place"
+    },
+    {
+      "name": "Cubic zirconia",
+      "type": "other"
+    },
+    {
+      "name": "Moissanite",
+      "type": "other"
+    },
+    {
+      "name": "Fullerite",
+      "type": "other"
+    },
+    {
+      "name": "Johannesburg",
+      "type": "place"
+    },
+    {
+      "name": "Antwerp",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and diamond resale experiment",
+      "summary": "The hosts open with banter and introduce diamonds as a topic. Josh describes a 1982 Atlantic article by Ever J. Epstein in which a writer for Money bought a diamond, found its resale value was far below cost, and repeated the test with similar results.",
+      "topics": [
+        "diamond resale value",
+        "diamond aftermarket",
+        "The Atlantic article",
+        "diamond investment"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "What diamonds are made of and where they form",
+      "summary": "Diamonds are made of carbon, which occurs as graphite, diamond and fullerite. Diamonds form deep in the mantle under high temperature and pressure, and eruptions pushed them up through kimberlite pipes.",
+      "topics": [
+        "carbon allotropes",
+        "diamond formation",
+        "mantle",
+        "kimberlite pipes",
+        "fullerite"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Where diamonds are found",
+      "summary": "Diamonds are found in kimberlite and in alluvial deposits moved by glaciers and water. Major sources include Russia, Borneo, Australia, Canada, Brazil, Venezuela and Africa, often in ancient cratons.",
+      "topics": [
+        "diamond mining locations",
+        "alluvial diamonds",
+        "archean cratons",
+        "diamond deposits"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Cleaving, sawing, bruting, cutting and polishing",
+      "summary": "Rough diamonds are cleaved along the tetrahedral plane of weakness or sawed with phosphor bronze blades. They are shaped by bruting or machine cutting on a lathe, then polished with diamond powder. Major cutting centers include New York, Bombay, Israel, Antwerp and Johannesburg.",
+      "topics": [
+        "diamond cleaving",
+        "diamond sawing",
+        "bruting",
+        "diamond cutting",
+        "diamond polishing",
+        "cutting centers"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Mohs hardness scale and the four Cs",
+      "summary": "The hosts explain the Mohs hardness scale, which ranks diamond at the top, and then the four Cs used to value diamonds: cut, clarity, carat and color, along with brilliance and fire.",
+      "topics": [
+        "Mohs hardness scale",
+        "four Cs",
+        "diamond clarity grades",
+        "carat weight",
+        "diamond color grades",
+        "diamond fire"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Colored diamonds",
+      "summary": "Colored diamonds such as yellow, pink, green and black are rarer and more valuable than transparent diamonds.",
+      "topics": [
+        "colored diamonds",
+        "fancy diamonds",
+        "pink diamonds"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "De Beers cartel and diamond marketing",
+      "summary": "De Beers, a cartel founded under Cecil Rhodes, controlled much of the diamond supply and sales through sights. Its marketing, including the 'Diamond is Forever' slogan, made diamonds a symbol of engagement and discouraged resale. Monopoly weakened around 2000 when Russia, Canada and Australia sold outside De Beers.",
+      "topics": [
+        "De Beers",
+        "cartel",
+        "diamond marketing",
+        "Diamond is Forever",
+        "engagement rings",
+        "diamond monopoly"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Blood diamonds and the Kimberley Process",
+      "summary": "Conflict or blood diamonds fund rebel groups. The Kimberley Process certification scheme tries to track diamonds through government import and export certification, but critics say it does not cover cutting or polishing and ignores abuses by some governments. US executive orders and the Clean Diamond Trade Act addressed the issue.",
+      "topics": [
+        "blood diamonds",
+        "conflict diamonds",
+        "Kimberley Process",
+        "Clean Diamond Trade Act",
+        "diamond certification"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Synthetic diamonds and simulants",
+      "summary": "Cubic zirconia, moissanite and lab-grown diamonds are discussed. Cubic zirconia is a lab-made simulant, moissanite is silicon carbide, and lab-grown diamonds are structurally real diamonds, sold at a fraction of natural prices. Jewelers now use machines to detect them, made by De Beers.",
+      "topics": [
+        "cubic zirconia",
+        "moissanite",
+        "synthetic diamonds",
+        "lab grown diamonds",
+        "diamond simulants",
+        "diamond detection machines"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "The Hope Diamond curse",
+      "summary": "The hosts recount the Hope Diamond's reputed curse, linking it to Tavernier, Louis XIV, George IV, Mademoiselle Lalaurie-type stories, the Sultan Abdul Hamid II, and Harry Winston's donation to the Smithsonian delivered by regular mail.",
+      "topics": [
+        "Hope Diamond",
+        "Hope Diamond curse",
+        "Smithsonian",
+        "Harry Winston",
+        "diamond legends"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:55:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: pickpockets in Madrid",
+      "summary": "Liz writes about a school trip to Europe where a pickpocket tried to steal from a teacher in Madrid, and a Swedish rugby team caught him and recovered wallets.",
+      "topics": [
+        "pickpocketing",
+        "listener mail",
+        "Madrid pickpocket",
+        "travel safety"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:58:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank the listener, invite feedback on social media and email, and promote the video podcast Stuff from the Future.",
+      "topics": [
+        "show feedback",
+        "stuff from the future"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13817,
+    "output_tokens": 3205
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-11-19_How_Chocolate_Works_41min.txt",
+  "title": "How Chocolate Works",
+  "date": "2013-11-19",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-chocolate-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c3bab6a-1118-4a9d-9e55-ae28009c6b90/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9c3bab6a-1118-4a9d-9e55-ae28009c6b90/transcript?format=TextWithTimestamps&t=1700543892",
+  "summary": "Josh and Chuck explore the history and production of chocolate, from its ancient Mesoamerican roots with the Maya and Aztecs, through the European addition of sugar and the Industrial Revolution innovations of Van Houten, Fry, Lindt and Nestle, to the modern process of growing cacao, fermenting, roasting, grinding, conching and tempering. They also cover cacao varieties, chocolate's health effects and mood impact, theobromine toxicity to dogs, child labor in cacao farming and fair trade, and cultural chocolate traditions. The episode ends with a listener mail from a history teacher about problems in the US education system.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "chocolate",
+    "how chocolate is made",
+    "cacao tree",
+    "cacao beans",
+    "chocolate history",
+    "Maya chocolate",
+    "Aztec chocolate",
+    "Spanish conquest chocolate",
+    "Van Houten cocoa press",
+    "Joseph Fry chocolate bar",
+    "Lindt conching",
+    "conching",
+    "tempering chocolate",
+    "cocoa crystals",
+    "Maillard reaction",
+    "fermentation of cacao",
+    "Forastero Criollo Trinitario",
+    "milk chocolate",
+    "Nestle",
+    "Hershey",
+    "dark chocolate health benefits",
+    "flavonoids",
+    "theobromine dogs toxicity",
+    "child labor cocoa Ivory Coast",
+    "fair trade chocolate",
+    "Japan White Day",
+    "education system",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Maya",
+      "type": "other"
+    },
+    {
+      "name": "Aztecs",
+      "type": "other"
+    },
+    {
+      "name": "Moctezuma",
+      "type": "person"
+    },
+    {
+      "name": "Hernan Cortez",
+      "type": "person"
+    },
+    {
+      "name": "Conrad Johannes van Houten",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Fry",
+      "type": "person"
+    },
+    {
+      "name": "Rodolphe Lindt",
+      "type": "person"
+    },
+    {
+      "name": "Henri Nestle",
+      "type": "person"
+    },
+    {
+      "name": "Milton Hershey",
+      "type": "person"
+    },
+    {
+      "name": "Ivory Coast",
+      "type": "place"
+    },
+    {
+      "name": "Theobroma cacao",
+      "type": "other"
+    },
+    {
+      "name": "Forastero",
+      "type": "other"
+    },
+    {
+      "name": "Criollo",
+      "type": "other"
+    },
+    {
+      "name": "Trinitario",
+      "type": "other"
+    },
+    {
+      "name": "Little Bit Sweets",
+      "type": "organization"
+    },
+    {
+      "name": "Garrett Popcorn",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and sponsor shout-out",
+      "summary": "Hosts open the show, shout out Little Bit Sweets' new retail space at Chelsea Market, and preview chocolate as a topic similar to their coffee episode.",
+      "topics": [
+        "Little Bit Sweets",
+        "Chelsea Market",
+        "coffee episode comparison"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Ancient chocolate in Mesoamerica",
+      "summary": "Chocolate consumption dates back to at least the Maya, with residue found in a bowl from around 1000 BC. Early chocolate was a frothy, bitter drink sometimes flavored with cinnamon and chili. The Aztecs adopted it, and it was used as currency and was sacred.",
+      "topics": [
+        "Maya chocolate",
+        "ancient chocolate",
+        "Aztec chocolate",
+        "cacao currency",
+        "Quetzalcoatl legend"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Spanish conquest and European sweetening",
+      "summary": "Spaniards initially disliked the bitter drink, then Europeans added sugar. Cortez brought chocolate to Europe, and demand led to growing cacao in tropical colonies, lowering prices.",
+      "topics": [
+        "Spanish conquest",
+        "Cortez",
+        "sweet chocolate origins",
+        "colonial cacao plantations",
+        "chocolate prices"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Industrial innovations in chocolate",
+      "summary": "Van Houten separated cocoa butter from cocoa powder and developed Dutch cocoa with alkali. Joseph Fry made the first chocolate bar, Lindt developed conching in 1879, and Nestle added milk powder for milk chocolate around 1904.",
+      "topics": [
+        "Van Houten",
+        "Dutch process cocoa",
+        "Joseph Fry",
+        "Lindt conching",
+        "milk chocolate invention",
+        "Nestle"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Dark chocolate bitterness and bitter taste",
+      "summary": "Hosts discuss the bitterness of dark chocolate by percentage and their personal tolerance, linking it to super tasters from an earlier episode.",
+      "topics": [
+        "dark chocolate bitterness",
+        "super tasters",
+        "cacao percentage"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Growing cacao and bean varieties",
+      "summary": "Cacao trees are trimmed to about ten to twelve feet for harvesting, and pods are picked by hand because they do not ripen together. About two and a half million farmers grow most of the world's cacao, mainly in West Africa, especially Ivory Coast. The three main varieties are Forastero, Criollo, and Trinitario, and terroir affects flavor.",
+      "topics": [
+        "cacao harvesting",
+        "Forastero",
+        "Criollo",
+        "Trinitario",
+        "cacao varieties",
+        "Ivory Coast cocoa production",
+        "terroir"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Processing cacao: fermenting, roasting, grinding, conching, tempering",
+      "summary": "Pods are fermented under banana leaves for about a week, beans are graded and sold, then roasted to create flavor through the Maillard reaction. Nibs are cracked and winnowed, ground into chocolate liquor under pressure, separated into cocoa butter and press cake, mixed with sugar and emulsifiers, conched, and tempered to form type five cocoa crystals.",
+      "topics": [
+        "cacao fermentation",
+        "roasting cacao beans",
+        "Maillard reaction",
+        "cocoa nibs",
+        "chocolate liquor",
+        "conching",
+        "tempering",
+        "cocoa crystals",
+        "emulsifiers in chocolate"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Chocolate consumption, health, mood, and dog toxicity",
+      "summary": "Discussion of chocolate consumption by country (Swiss and Germans eat most, Americans about twelve pounds a year), flavonoids for heart health, a 2007 study showing a short mood boost, and theobromine being toxic to dogs. Child labor on cacao farms and fair trade or organic labels are covered, along with Japan's White Day.",
+      "topics": [
+        "chocolate consumption by country",
+        "dark chocolate heart health",
+        "chocolate mood effect",
+        "theobromine",
+        "chocolate toxic to dogs",
+        "child labor cacao",
+        "fair trade chocolate",
+        "White Day Japan"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:40:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts wrap up the chocolate discussion and point listeners to howstuffworks.com.",
+      "topics": [
+        "show wrap-up"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13858,
+    "output_tokens": 2675
+  }
+}

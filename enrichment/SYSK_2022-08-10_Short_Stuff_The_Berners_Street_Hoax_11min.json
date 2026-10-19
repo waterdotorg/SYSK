@@ -1,0 +1,149 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-08-10_Short_Stuff_The_Berners_Street_Hoax_11min.txt",
+  "title": "Short Stuff: The Berners Street Hoax",
+  "date": "2022-08-10",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-berners-street-hoax",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/76c1bf93-4061-4864-bf7e-aee100e98ac1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/76c1bf93-4061-4864-bf7e-aee100e98ac1/transcript?format=TextWithTimestamps&t=1700553467",
+  "summary": "Short Stuff hoax edition on the Berners Street hoax of November 1810 in London. Josh and Chuck describe Theodore Hook, who bet his friend Samuel Beasley he could make 54 Berners Street the talk of London within a week. On the day, a flood of tradespeople, servants, and officials (including the Lord Mayor, the Archbishop of Canterbury, and the Duke of York) arrived at the house in response to fake summons and orders, shutting down the street. Hook was widely assumed to be the culprit and later claimed credit in his semi-autobiographical novel Gilbert Gurney, though he was never prosecuted. The hosts close by raising the possibility that the hoax never actually happened and was only a hoax in newspaper reports.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Berners Street hoax",
+    "Theodore Hook",
+    "1810 London prank",
+    "Berners Street",
+    "54 Berners Street",
+    "Samuel Beasley",
+    "famous pranks history",
+    "Gilbert Gurney novel",
+    "Mrs Tottenham",
+    "Regency London",
+    "hoax on a hoax",
+    "chimney sweep prank",
+    "practical joke history",
+    "Lord Mayor of London",
+    "Duke of York",
+    "Archbishop of Canterbury prank"
+  ],
+  "entities": [
+    {
+      "name": "Theodore Hook",
+      "type": "person"
+    },
+    {
+      "name": "Samuel Beasley",
+      "type": "person"
+    },
+    {
+      "name": "Mrs Tottenham",
+      "type": "person"
+    },
+    {
+      "name": "Berners Street",
+      "type": "place"
+    },
+    {
+      "name": "Gilbert Gurney",
+      "type": "work"
+    },
+    {
+      "name": "Duke of York",
+      "type": "person"
+    },
+    {
+      "name": "Archbishop of Canterbury",
+      "type": "person"
+    },
+    {
+      "name": "Berners Street hoax",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Introduction and setup of the bet",
+      "summary": "Josh introduces the hoax edition and sets up Theodore Hook, a mischievous 22-year-old, and his friend Samuel Beasley walking past 54 Berners Street in November 1810, where Hook bets he can make the house famous within a week.",
+      "topics": [
+        "Theodore Hook",
+        "Samuel Beasley",
+        "Berners Street hoax",
+        "bet"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Chimney sweeps arrive",
+      "summary": "A week later, a chimney sweep arrives at 54 Berners Street asking to clean Mrs Tottenham's chimney, and the servants send him away. More sweeps follow, and the hosts pause on a cliffhanger.",
+      "topics": [
+        "chimney sweep prank",
+        "Mrs Tottenham",
+        "54 Berners Street",
+        "1810 London prank"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Flood of tradespeople and officials",
+      "summary": "A long list of tradespeople, servants, and others arrive at the house, drawn by fake summons, and gawkers crowd the street until police shut it down. Officials including the Lord Mayor of London, the Archbishop of Canterbury, the Governor of the Bank of England, the chairman of the East India Company, and the Duke of York are also drawn in.",
+      "topics": [
+        "Berners Street hoax",
+        "Lord Mayor of London",
+        "Archbishop of Canterbury",
+        "Duke of York",
+        "crowd control",
+        "fake summons"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Aftermath, attribution, and Gilbert Gurney",
+      "summary": "The hoax made newspapers across England and was recorded in annual registers. Hook was widely assumed to be responsible and later claimed credit in the novel Gilbert Gurney, but he was never prosecuted. The hosts note his letter-writing helpers and that he chose the house at random.",
+      "topics": [
+        "Theodore Hook",
+        "Gilbert Gurney",
+        "hoax attribution",
+        "British pop culture lore",
+        "annual register"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Hoax on a hoax theory",
+      "summary": "The hosts discuss a theory that the event may never have actually happened, since the reports came from newspapers rather than eyewitnesses, making the real hoax Hook's invented story.",
+      "topics": [
+        "hoax on a hoax",
+        "Berners Street hoax",
+        "historical skepticism"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:11:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck closes the episode and the show credits iHeartRadio.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4695,
+    "output_tokens": 1718
+  }
+}

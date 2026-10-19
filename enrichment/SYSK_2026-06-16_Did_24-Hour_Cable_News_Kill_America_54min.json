@@ -1,0 +1,486 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-06-16_Did_24-Hour_Cable_News_Kill_America_54min.txt",
+  "title": "Did 24-Hour Cable News Kill America?",
+  "date": "2026-06-16",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/did-24-hour-cable-news-kill-america",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0a1c1152-f160-4ac9-a5d6-b467014b3e6b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a1c1152-f160-4ac9-a5d6-b467014b3e6b/transcript?format=TextWithTimestamps&t=1781632794",
+  "summary": "Josh and Chuck examine whether 24-hour cable news has damaged American politics and shared reality. They trace the Fairness Doctrine and its repeal in 1987, the rise of talk radio and Rush Limbaugh, the launch of CNN by Ted Turner in 1980 and its coverage of Challenger, the Gulf War, and later ownership changes, the founding of Fox News by Roger Ailes in 1996 and its rise after the Lewinsky scandal and 9/11, the launch of MSNBC (originally Microsoft NBC) and its pivot to opinion programming, and research on negativity, polarization, and \"angertainment.\" They also cover the Dominion settlement, declining cable viewership and aging audiences, the cable bundle business model, and the shift to online news. The episode closes with a listener mail story about the Hindenburg episode and a sign-off. A pre-episode Canadian tour ad appears at the start.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "cable news",
+    "24-hour cable news",
+    "angertainment",
+    "Fairness Doctrine",
+    "FCC repeal 1987",
+    "talk radio",
+    "Rush Limbaugh",
+    "CNN",
+    "Ted Turner",
+    "Fox News",
+    "Roger Ailes",
+    "MSNBC",
+    "Microsoft NBC",
+    "political polarization",
+    "partisan divide",
+    "opinion journalism",
+    "media bias",
+    "Dominion voting systems settlement",
+    "cable news ratings",
+    "cable cord cutting",
+    "Gulf War coverage",
+    "Keith Olbermann",
+    "Rachel Maddow",
+    "shared reality",
+    "Monica Lewinsky scandal coverage",
+    "Newt Gingrich"
+  ],
+  "entities": [
+    {
+      "name": "Ted Turner",
+      "type": "person"
+    },
+    {
+      "name": "CNN",
+      "type": "organization"
+    },
+    {
+      "name": "Fox News",
+      "type": "organization"
+    },
+    {
+      "name": "Roger Ailes",
+      "type": "person"
+    },
+    {
+      "name": "Rupert Murdoch",
+      "type": "person"
+    },
+    {
+      "name": "MSNBC",
+      "type": "organization"
+    },
+    {
+      "name": "Rush Limbaugh",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "Fairness Doctrine",
+      "type": "event"
+    },
+    {
+      "name": "FCC",
+      "type": "organization"
+    },
+    {
+      "name": "Newt Gingrich",
+      "type": "person"
+    },
+    {
+      "name": "Keith Olbermann",
+      "type": "person"
+    },
+    {
+      "name": "Rachel Maddow",
+      "type": "person"
+    },
+    {
+      "name": "Tucker Carlson",
+      "type": "person"
+    },
+    {
+      "name": "Bill Clinton",
+      "type": "person"
+    },
+    {
+      "name": "Dominion Voting Systems",
+      "type": "organization"
+    },
+    {
+      "name": "Gulf War",
+      "type": "event"
+    },
+    {
+      "name": "Challenger Space Shuttle disaster",
+      "type": "event"
+    },
+    {
+      "name": "Pew Research Center",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:47",
+      "kind": "ad",
+      "title": "Canadian tour promo",
+      "summary": "Chuck promotes the upcoming Canadian summer tour shows in Montreal, Ottawa, and Toronto.",
+      "topics": [
+        "tour dates",
+        "live shows"
+      ]
+    },
+    {
+      "start": "00:00:47",
+      "end": "00:02:21",
+      "kind": "intro",
+      "title": "Introduction",
+      "summary": "Hosts introduce the topic of whether 24-hour cable news has harmed the country and note the lack of positive studies on it.",
+      "topics": [
+        "cable news",
+        "media effects"
+      ]
+    },
+    {
+      "start": "00:02:21",
+      "end": "00:04:13",
+      "kind": "content",
+      "title": "Shared reality before cable news",
+      "summary": "Josh describes the era of the big three network evening news. Chuck explains the value of a shared set of facts and shared national identity.",
+      "topics": [
+        "shared reality",
+        "network evening news",
+        "CBS NBC ABC news",
+        "social glue"
+      ]
+    },
+    {
+      "start": "00:04:13",
+      "end": "00:07:28",
+      "kind": "content",
+      "title": "Fairness Doctrine and its repeal",
+      "summary": "The FCC's origins and the Fairness Doctrine's requirements for balanced coverage and equal time. Reagan-era repeal in 1987 led to talk radio growth, especially conservative AM talk.",
+      "topics": [
+        "Fairness Doctrine",
+        "FCC",
+        "equal time rule",
+        "talk radio growth"
+      ]
+    },
+    {
+      "start": "00:07:28",
+      "end": "00:09:55",
+      "kind": "content",
+      "title": "Rush Limbaugh and talk radio",
+      "summary": "Limbaugh's national show starting in 1988 and his influence on the Republican Party, including the honorary congressional membership claim. Hosts say Fox later modeled political commentary on this.",
+      "topics": [
+        "Rush Limbaugh",
+        "dittoheads",
+        "conservative talk radio",
+        "political commentary as entertainment"
+      ]
+    },
+    {
+      "start": "00:09:55",
+      "end": "00:12:14",
+      "kind": "content",
+      "title": "Ted Turner and the founding of CNN",
+      "summary": "CNN launched in 1980 as the first 24-hour cable news channel. Hosts pay tribute to Ted Turner, who recently died, and discuss his other ventures and philanthropy.",
+      "topics": [
+        "Ted Turner",
+        "CNN founding",
+        "24-hour news",
+        "tribute"
+      ]
+    },
+    {
+      "start": "00:12:14",
+      "end": "00:15:39",
+      "kind": "content",
+      "title": "CNN's live coverage and analysts",
+      "summary": "CNN's breaking news coverage of the Challenger, Berlin Wall, and Gulf War; criticism of its reporting from Baghdad; and the introduction of analysts and pundits that laid groundwork for opinion journalism.",
+      "topics": [
+        "Gulf War coverage",
+        "Challenger disaster",
+        "CNN live reporting",
+        "talking heads",
+        "pundits"
+      ]
+    },
+    {
+      "start": "00:15:39",
+      "end": "00:18:12",
+      "kind": "content",
+      "title": "CNN ownership change and partisan turn",
+      "summary": "After Turner left, Time Warner's changes at CNN are described as chasing ad revenue. Hosts tie the 1990s Clinton and Gingrich rivalry to a good-versus-evil framing in politics and the end of bipartisanship.",
+      "topics": [
+        "Time Warner",
+        "Bill Clinton",
+        "Newt Gingrich",
+        "bipartisanship decline",
+        "1990s politics"
+      ]
+    },
+    {
+      "start": "00:18:12",
+      "end": "00:20:51",
+      "kind": "content",
+      "title": "Real World and the 1990s media turn",
+      "summary": "Chuck offers a theory linking reality television, starting with The Real World in 1992, to a culture of meanness. Josh then introduces Fox News' founding in 1996 under Roger Ailes and Rupert Murdoch.",
+      "topics": [
+        "The Real World",
+        "reality television",
+        "Fox News founding",
+        "Roger Ailes",
+        "Rupert Murdoch"
+      ]
+    },
+    {
+      "start": "00:20:51",
+      "end": "00:23:13",
+      "kind": "content",
+      "title": "Ailes, the Fair and Balanced slogan, and Southern strategy",
+      "summary": "Ailes' background as a Republican consultant and the Southern strategy. Fox's fair and balanced motto is described as a deliberate provocation, dropped in 2017 after Ailes' firing.",
+      "topics": [
+        "Roger Ailes",
+        "fair and balanced slogan",
+        "Southern strategy",
+        "culture war"
+      ]
+    },
+    {
+      "start": "00:23:13",
+      "end": "00:24:32",
+      "kind": "content",
+      "title": "Fox News rise after Lewinsky, 2000 election, and 9/11",
+      "summary": "Coverage of the Lewinsky scandal boosted Fox's ratings. Its coverage of the 2000 election, 9/11, and Iraq is described as openly Republican-leaning, unlike other networks.",
+      "topics": [
+        "Monica Lewinsky scandal",
+        "Fox News ratings",
+        "2000 election",
+        "9/11 coverage",
+        "Iraq war coverage"
+      ]
+    },
+    {
+      "start": "00:24:32",
+      "end": "00:27:04",
+      "kind": "content",
+      "title": "MSNBC launch and pivot",
+      "summary": "MSNBC launched in 1996 as a Microsoft and NBC partnership aimed at tech audiences, then pivoted to opinion programming to compete with Fox. Figures such as Laura Ingraham, Tucker Carlson, and Rachel Maddow passed through the network.",
+      "topics": [
+        "MSNBC",
+        "Microsoft NBC",
+        "The Site",
+        "Laura Ingraham",
+        "Tucker Carlson",
+        "Rachel Maddow"
+      ]
+    },
+    {
+      "start": "00:27:04",
+      "end": "00:28:53",
+      "kind": "content",
+      "title": "Keith Olbermann and prime-time ratings",
+      "summary": "Keith Olbermann's 2005 Hurricane Katrina commentary on Countdown and the ratings jump that followed. Chuck describes MSNBC's prime-time attacks on opponents and ratings gains.",
+      "topics": [
+        "Keith Olbermann",
+        "Countdown",
+        "Hurricane Katrina commentary",
+        "MSNBC ratings"
+      ]
+    },
+    {
+      "start": "00:28:53",
+      "end": "00:31:09",
+      "kind": "content",
+      "title": "Partisan slant and angertainment research",
+      "summary": "A 2025 UC Boulder study on what networks cover, and a Nature study on polarizing primetime shows. Hosts discuss angertainment and the neurochemistry of outrage.",
+      "topics": [
+        "angertainment",
+        "UC Boulder study",
+        "Nature study polarization",
+        "prime-time polarizing shows",
+        "anger industrial complex"
+      ]
+    },
+    {
+      "start": "00:31:09",
+      "end": "00:32:24",
+      "kind": "content",
+      "title": "Viewing habits and all-day background TV",
+      "summary": "Hosts compare anecdotal habits of viewers who keep cable news on all day, with CNN mentioned as the channel most often left on.",
+      "topics": [
+        "viewing habits",
+        "background TV",
+        "CNN viewers"
+      ]
+    },
+    {
+      "start": "00:32:24",
+      "end": "00:34:44",
+      "kind": "content",
+      "title": "Misinformation and the Dominion settlement",
+      "summary": "Fox News' settlement of close to $800 million with Dominion Voting Systems ahead of a trial over false claims about voting systems, with Carlson and Hannity mentioned.",
+      "topics": [
+        "Dominion settlement",
+        "false election claims",
+        "Fox News lawsuit",
+        "misinformation"
+      ]
+    },
+    {
+      "start": "00:34:44",
+      "end": "00:37:09",
+      "kind": "content",
+      "title": "Other false or overreaching reporting and filtering",
+      "summary": "Chuck lists conspiracy claims reported as fact on Fox, and the Rachel Maddow Russiagate coverage, which was the subject of a lawsuit she won. Both hosts discuss news filtering by all three networks.",
+      "topics": [
+        "Russiagate coverage",
+        "Rachel Maddow lawsuit",
+        "news filtering",
+        "conspiracy theories on TV"
+      ]
+    },
+    {
+      "start": "00:37:09",
+      "end": "00:38:42",
+      "kind": "content",
+      "title": "Media-consumption experiment and news filtering",
+      "summary": "A 2023 study that paid Fox viewers to watch CNN for a month, finding slight shifts in views that faded after returning to Fox. Hosts discuss the danger of what goes uncovered.",
+      "topics": [
+        "2023 media experiment",
+        "Fox viewers watching CNN",
+        "selective coverage",
+        "media accountability"
+      ]
+    },
+    {
+      "start": "00:38:42",
+      "end": "00:39:14",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:39:14",
+      "end": "00:41:52",
+      "kind": "content",
+      "title": "Opinion media versus journalism",
+      "summary": "Chuck and Josh contrast cheap opinion media with costly real journalism and describe a study of primetime tone on Fox and MSNBC, which found mostly negative language.",
+      "topics": [
+        "opinion journalism",
+        "cost of journalism",
+        "negative tone study",
+        "Fox News tone",
+        "MSNBC tone"
+      ]
+    },
+    {
+      "start": "00:41:52",
+      "end": "00:43:37",
+      "kind": "content",
+      "title": "Framing viewers as victims and rising partisanship",
+      "summary": "Chuck describes framing viewers as the protagonists. Josh cites Pew Research on rising unfavorable views of the opposing party from 1994 to 2017, and a 2022 survey on perceived immorality.",
+      "topics": [
+        "partisan gap",
+        "Pew Research",
+        "affective polarization",
+        "viewers as victims"
+      ]
+    },
+    {
+      "start": "00:43:37",
+      "end": "00:45:36",
+      "kind": "content",
+      "title": "Online echo chambers versus TV news",
+      "summary": "A University of Pennsylvania study found cable TV news more divisive than online news. Hosts discuss how Fox might have looked if CNN and MSNBC had stayed with traditional journalism.",
+      "topics": [
+        "echo chambers",
+        "University of Pennsylvania study",
+        "cable TV divisiveness",
+        "online news"
+      ]
+    },
+    {
+      "start": "00:45:36",
+      "end": "00:47:19",
+      "kind": "content",
+      "title": "Cable news audiences and aging viewers",
+      "summary": "Hosts discuss how cable news still outdraws online news and that median viewer ages are in the late sixties and seventies.",
+      "topics": [
+        "cable news audience",
+        "median viewer age",
+        "cord cutting"
+      ]
+    },
+    {
+      "start": "00:47:19",
+      "end": "00:50:10",
+      "kind": "content",
+      "title": "Ratings shifts and the cable bundle business model",
+      "summary": "Fox's primetime viewership declined about 21 percent, MSNBC (now MS NOW) rose 15 percent, and CNN rose 46 percent in the cited period. Newsmax, NewsNation, and One America News are cited as drawing audiences from Fox. Chuck explains how cable carriage fees fund channels and why cord cutting threatens them.",
+      "topics": [
+        "cable ratings decline",
+        "MS NOW",
+        "Newsmax",
+        "NewsNation",
+        "cable bundle",
+        "carriage fees",
+        "streaming news subscriptions"
+      ]
+    },
+    {
+      "start": "00:50:10",
+      "end": "00:51:34",
+      "kind": "content",
+      "title": "Shift to online news and possible third parties",
+      "summary": "Hosts discuss networks pivoting toward online video and podcasts, the aging baby boomer audience, and Chuck's hope that disillusionment with both parties could support third parties.",
+      "topics": [
+        "online pivot",
+        "podcasts",
+        "third party politics",
+        "two-party system"
+      ]
+    },
+    {
+      "start": "00:51:34",
+      "end": "00:52:12",
+      "kind": "outro",
+      "title": "Closing remarks",
+      "summary": "Chuck clarifies that the episode is not an attack on conservative or liberal listeners and the hosts sign off on the topic.",
+      "topics": [
+        "episode closing",
+        "balance"
+      ]
+    },
+    {
+      "start": "00:52:12",
+      "end": "00:54:09",
+      "kind": "listener_mail",
+      "title": "Listener mail: Hindenburg follow-up",
+      "summary": "Katie, a wildlife biologist and longtime listener, writes about the Hindenburg episode, the Bend Dover joke, and listening on long drives. The hosts read the mail and invite listeners to send their own anecdotes.",
+      "topics": [
+        "listener mail",
+        "Hindenburg episode",
+        "listener anecdote"
+      ]
+    },
+    {
+      "start": "00:54:09",
+      "end": "00:54:09",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Standard iHeartRadio production sign-off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18506,
+    "output_tokens": 5311
+  }
+}

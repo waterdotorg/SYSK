@@ -1,0 +1,117 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-07-15_Can_I_Survive_a_Shark_Attack_by_Gouging_Out_Its_Eyes_6min.txt",
+  "title": "Can I Survive a Shark Attack by Gouging Out Its Eyes?",
+  "date": "2008-07-15",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-i-survive-a-shark-attack-by-gouging-out-its-ey",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f258640b-2db6-4bcc-8c3c-ae2800c3aae4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f258640b-2db6-4bcc-8c3c-ae2800c3aae4/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh Clark and Chuck Bryant discuss whether a person can survive a shark attack by fighting back, specifically by striking the shark's nose, grabbing its gills, or gouging its eyes. They explain the ampullae of Lorenzini, the electroreceptive pores in a shark's snout that detect faint electrical impulses from living things, and why hitting them might make a shark back off. They also cover the difficulty of staying coordinated during an attack, the risk that a flailing limb attracts sharks, a MythBusters test using a punching robot in a shark cage, and a reminder that most shark attacks are cases of mistaken identity and that many sharks are threatened by overfishing and bycatch. The episode is a web-era short piece from 2008 with a sign-off that promotes the article on HowStuffWorks.com.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "shark attack survival",
+    "shark attack defense",
+    "gouging shark eyes",
+    "punching sharks in the nose",
+    "grabbing shark gills",
+    "ampullae of Lorenzini",
+    "shark electroreceptors",
+    "shark senses",
+    "electroreception",
+    "shark electrical sense",
+    "MythBusters shark test",
+    "shark cage robot experiment",
+    "shark conservation",
+    "overfishing and bycatch",
+    "mistaken identity shark attacks",
+    "megalodon",
+    "hysterical strength",
+    "martial arts vs shark fighting"
+  ],
+  "entities": [
+    {
+      "name": "ampullae of Lorenzini",
+      "type": "other"
+    },
+    {
+      "name": "megalodon",
+      "type": "other"
+    },
+    {
+      "name": "MythBusters",
+      "type": "work"
+    },
+    {
+      "name": "Discovery Channel",
+      "type": "organization"
+    },
+    {
+      "name": "Kristen Conger",
+      "type": "person"
+    },
+    {
+      "name": "Jaws",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and sharks",
+      "summary": "Josh and Chuck open the show, guess a Jaws reference, and agree to talk about what to do if attacked by a shark.",
+      "topics": [
+        "Jaws",
+        "shark attack survival"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Targeting the shark's nose and electrical receptors",
+      "summary": "The hosts discuss hitting a shark in the nose, grabbing its gills, or gouging its eyes. They explain the ampullae of Lorenzini, the jelly-filled electrical pores in the snout that detect faint impulses from living things, and suggest that striking them may make the shark leave. They also note sharks have survived for hundreds of millions of years and mention the megalodon.",
+      "topics": [
+        "ampullae of Lorenzini",
+        "shark electroreceptors",
+        "punching sharks in the nose",
+        "grabbing shark gills",
+        "megalodon"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:15",
+      "kind": "content",
+      "title": "Practical problems of fighting back",
+      "summary": "The hosts consider whether a victim could stay focused enough to find the gills or nose while injured, and whether hysterical strength would help. They cite Kristen Conger's article, which says flailing limbs attract sharks, and describe a MythBusters test using a punching robot outside a shark cage.",
+      "topics": [
+        "hysterical strength",
+        "flailing limbs attract sharks",
+        "MythBusters shark test",
+        "shark cage robot experiment",
+        "Kristen Conger"
+      ]
+    },
+    {
+      "start": "00:05:15",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Shark conservation and sign-off",
+      "summary": "Chuck notes most shark attacks are mistaken identity and that overfishing and bycatch threaten some sharks. Josh compares fighting a shark to martial arts and promotes the article on HowStuffWorks.com.",
+      "topics": [
+        "shark conservation",
+        "overfishing and bycatch",
+        "mistaken identity shark attacks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3600,
+    "output_tokens": 1425
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-06-22_Short_Stuff_Do_Fish_Get_Thirsty_12min.txt",
+  "title": "Short Stuff: Do Fish Get Thirsty?",
+  "date": "2022-06-22",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-do-fish-get-thirsty",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8df061fe-5e7b-403e-97a0-aebb013a5b44/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8df061fe-5e7b-403e-97a0-aebb013a5b44/transcript?format=TextWithTimestamps&t=1700551953",
+  "summary": "Short Stuff episode answering whether fish get thirsty, inspired by a HowStuffWorks article by Nathan Chandler. The hosts reframe the question as whether fish drink and need to hydrate, explain osmoregulation (kidneys and gills maintaining salt and electrolyte balance), and contrast freshwater fish (don't drink much, produce dilute urine, retain salts through gills) with saltwater fish (drink seawater, excrete concentrated salty urine, pump salt out through gills). They cover anadromous salmon moving between fresh and brackish water staging areas, and how climate change-driven sea ice melt is disrupting those brackish staging areas. The episode closes with a tangent on how much seawater a person could drink, which the hosts say is not advisable.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "do fish get thirsty",
+    "fish hydration",
+    "osmoregulation",
+    "electrolytes",
+    "freshwater fish",
+    "saltwater fish",
+    "fish kidneys",
+    "fish gills",
+    "fish urination",
+    "salmon migration",
+    "brackish water",
+    "salmon staging area",
+    "climate change sea ice melt",
+    "drinking seawater",
+    "Short Stuff",
+    "Nathan Chandler"
+  ],
+  "entities": [
+    {
+      "name": "Nathan Chandler",
+      "type": "person"
+    },
+    {
+      "name": "Arthur",
+      "type": "work"
+    },
+    {
+      "name": "Gatorade",
+      "type": "organization"
+    },
+    {
+      "name": "largemouth bass",
+      "type": "other"
+    },
+    {
+      "name": "salmon",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and the question",
+      "summary": "Josh introduces the question from a HowStuffWorks article by Nathan Chandler: do fish get thirsty? The hosts joke about the movie Arthur before turning back to the topic.",
+      "topics": [
+        "do fish get thirsty",
+        "Nathan Chandler",
+        "Arthur movie"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Reframing thirst and introducing osmoregulation",
+      "summary": "The hosts say the real question is whether fish drink and need to hydrate. They explain that hydration keeps salt and electrolyte levels balanced, and that fish do this through osmoregulation using their kidneys and gills.",
+      "topics": [
+        "fish hydration",
+        "osmoregulation",
+        "electrolytes",
+        "fish kidneys",
+        "fish gills"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Freshwater fish water balance",
+      "summary": "Freshwater fish do not actively drink because they would dilute their body fluids. They retain salts through their gills and kidneys and urinate large amounts of very watery urine.",
+      "topics": [
+        "freshwater fish",
+        "fish urination",
+        "freshwater fish osmoregulation"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Saltwater fish water balance",
+      "summary": "Saltwater fish drink seawater through their mouths. Their kidneys conserve water and remove salt, their gills pump out excess salt, and their urine is salty and concentrated.",
+      "topics": [
+        "saltwater fish",
+        "saltwater fish drinking",
+        "fish urine concentration"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Salmon moving between fresh and salt water",
+      "summary": "Salmon that migrate between fresh and salt water use a brackish staging area to adjust. Climate change is melting sea ice, which dilutes the brackish zones and disrupts that staging area.",
+      "topics": [
+        "salmon migration",
+        "brackish water",
+        "salmon staging area",
+        "climate change sea ice melt"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "How much seawater can a person drink",
+      "summary": "The hosts discuss how much seawater a person can ingest and note that drinking seawater, including as a castaway, is not advisable.",
+      "topics": [
+        "drinking seawater",
+        "dehydration",
+        "seawater salinity"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the Short Stuff episode and give the standard iHeartRadio production credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4896,
+    "output_tokens": 1591
+  }
+}

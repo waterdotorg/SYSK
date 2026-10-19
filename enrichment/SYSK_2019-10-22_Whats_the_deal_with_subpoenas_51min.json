@@ -1,0 +1,320 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-10-22_Whats_the_deal_with_subpoenas_51min.txt",
+  "title": "What's the deal with subpoenas?",
+  "date": "2019-10-22",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-subpoenas",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/059ab4df-5808-4ead-bac6-ae280043d006/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/059ab4df-5808-4ead-bac6-ae280043d006/transcript?format=TextWithTimestamps&t=1700543676",
+  "summary": "Josh and Chuck explain subpoenas: the two main types (subpoena ad testificandum to testify and subpoena duces tecum to produce documents or evidence), how they are issued by lawyers and clerks rather than judges, how service works, and whether they can be ignored. They cover congressional subpoenas and contempt of Congress (Eric Holder over Fast and Furious, Harriet Miers and Joshua Bolten, and Don McGahn), the three ways contempt can be prosecuted (DOJ prosecution, civil enforcement in court, and inherent contempt), and executive privilege. Case law includes US v. Cooper (1800), US v. Burr, Marbury v. Madison, US v. Nixon (1974), US v. AT&T, and Clinton-era disputes. They end with the unitary executive theory and the 2019 Trump administration position that the executive branch need not honor congressional subpoenas. The episode closes with a listener mail about a bet on Obama's healthcare plan and private insurance.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "subpoenas",
+    "subpoena ad testificandum",
+    "subpoena duces tecum",
+    "congressional subpoenas",
+    "contempt of Congress",
+    "executive privilege",
+    "unitary executive theory",
+    "inherent contempt",
+    "Eric Holder contempt",
+    "Fast and Furious",
+    "Don McGahn subpoena",
+    "United States v. Nixon",
+    "Marbury v. Madison",
+    "United States v. Burr",
+    "United States v. Cooper",
+    "judicial review",
+    "separation of powers",
+    "checks and balances",
+    "Watergate tapes",
+    "process server",
+    "Justice Department prosecution of contempt",
+    "Obama healthcare listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Eric Holder",
+      "type": "person"
+    },
+    {
+      "name": "Harriet Miers",
+      "type": "person"
+    },
+    {
+      "name": "Joshua Bolten",
+      "type": "person"
+    },
+    {
+      "name": "Don McGahn",
+      "type": "person"
+    },
+    {
+      "name": "Darrell Issa",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Cooper",
+      "type": "person"
+    },
+    {
+      "name": "John Adams",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Jefferson",
+      "type": "person"
+    },
+    {
+      "name": "John Marshall",
+      "type": "person"
+    },
+    {
+      "name": "William Marbury",
+      "type": "person"
+    },
+    {
+      "name": "Richard Nixon",
+      "type": "person"
+    },
+    {
+      "name": "Archibald Cox",
+      "type": "person"
+    },
+    {
+      "name": "Bill Clinton",
+      "type": "person"
+    },
+    {
+      "name": "Newt Gingrich",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Mnuchin",
+      "type": "person"
+    },
+    {
+      "name": "Fast and Furious",
+      "type": "event"
+    },
+    {
+      "name": "Watergate scandal",
+      "type": "event"
+    },
+    {
+      "name": "United States v. Nixon",
+      "type": "event"
+    },
+    {
+      "name": "Marbury v. Madison",
+      "type": "event"
+    },
+    {
+      "name": "United States v. Burr",
+      "type": "event"
+    },
+    {
+      "name": "United States v. Cooper",
+      "type": "event"
+    },
+    {
+      "name": "United States v. AT&T",
+      "type": "event"
+    },
+    {
+      "name": "Sedition Act",
+      "type": "work"
+    },
+    {
+      "name": "Congress",
+      "type": "organization"
+    },
+    {
+      "name": "Department of Justice",
+      "type": "organization"
+    },
+    {
+      "name": "Supreme Court",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and tour housekeeping",
+      "summary": "Hosts joke about legal-drama actors, thank live show audiences in Orlando, New Orleans and New York, and tease January dates including Seattle and a Pacific Northwest show.",
+      "topics": [
+        "live shows",
+        "tour dates",
+        "Sketch Fest"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "What a subpoena is and its two types",
+      "summary": "The hosts explain the meaning of 'subpoena' (under penalty of), the subpoena ad testificandum to compel testimony and the subpoena duces tecum to compel documents or evidence. They note subpoenas are typically issued by a lawyer and signed off by a court clerk, not the judge, and are served by a sheriff's deputy or process server. Congressional subpoenas are issued differently depending on the committee.",
+      "topics": [
+        "subpoena ad testificandum",
+        "subpoena duces tecum",
+        "subpoena issuance",
+        "subpoena service",
+        "process server",
+        "congressional subpoenas"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Ignoring a subpoena and evasion of service",
+      "summary": "The hosts discuss whether a subpoena can be ignored, how people try to avoid being served, and alternative service methods such as certified mail or newspaper legal notice. They advise consulting a lawyer, and say subpoenas can be negotiated.",
+      "topics": [
+        "ignoring subpoenas",
+        "subpoena service methods",
+        "certified mail service",
+        "legal notice in newspaper",
+        "negotiating subpoenas"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Congressional subpoenas ignored: Eric Holder and others",
+      "summary": "The hosts recount Attorney General Eric Holder being held in contempt of Congress over the Fast and Furious operation, and Harriet Miers and Joshua Bolten facing contempt votes, with no consequences. A bill by Darrell Issa to strengthen enforcement died in the Senate. They introduce Don McGahn, who refused to testify after leaving the executive branch.",
+      "topics": [
+        "contempt of Congress",
+        "Eric Holder",
+        "Fast and Furious",
+        "Harriet Miers",
+        "Joshua Bolten",
+        "Darrell Issa bill",
+        "Don McGahn"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Enforcing contempt: DOJ, civil suits, and inherent contempt",
+      "summary": "The hosts explain the three ways contempt can be prosecuted: a DOJ criminal referral, which the DOJ may decline when executive privilege is claimed; a civil enforcement suit in court, which is slow; and inherent contempt, last used in 1935, involving arrest by the sergeant at arms. They mention proposed daily fines of $25,000 to $50,000 as a stiffer alternative.",
+      "topics": [
+        "contempt enforcement",
+        "Justice Department prosecution",
+        "civil enforcement",
+        "inherent contempt",
+        "sergeant at arms",
+        "daily fines"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Early case law: US v. Cooper and US v. Burr",
+      "summary": "The hosts discuss Thomas Cooper's 1800 case, where a court held a president cannot be subpoenaed to testify while a congressional member can, and US v. Burr, where Chief Justice John Marshall addressed Thomas Jefferson's refusal to hand over documents and appear. This led to the foundations of executive privilege.",
+      "topics": [
+        "US v. Cooper",
+        "Thomas Cooper",
+        "John Adams subpoena",
+        "US v. Burr",
+        "Thomas Jefferson subpoena",
+        "presidential testimony"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Executive privilege and the unitary executive theory",
+      "summary": "The hosts list five types of executive privilege (presidential communications, deliberative process, attorney-client, law enforcement investigations, and military/national security/diplomatic). They describe the unitary executive theory, which has been invoked since Nixon, and the checks and balances it challenges.",
+      "topics": [
+        "executive privilege",
+        "unitary executive theory",
+        "checks and balances",
+        "separation of powers",
+        "presidential communications privilege"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Watergate tapes and US v. Nixon",
+      "summary": "Special prosecutor Archibald Cox subpoenaed Nixon's Oval Office tapes. Nixon turned over edited tapes. The Supreme Court ruled 8-0 in United States v. Nixon (1974) that executive privilege did not override due process in a criminal case, and the hosts connect this to Marbury v. Madison and US v. AT&T.",
+      "topics": [
+        "Watergate",
+        "Archibald Cox",
+        "Nixon tapes",
+        "United States v. Nixon",
+        "Marbury v. Madison",
+        "US v. AT&T",
+        "judicial review"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Marbury v. Madison and judicial review",
+      "summary": "The hosts describe Marbury v. Madison (1803 or 1804 by their account), in which Chief Justice John Marshall ruled the Supreme Court's writ of mandamus power unconstitutional, establishing judicial review of the constitutionality of laws. US v. AT&T is cited as requiring good-faith negotiation before courts step in.",
+      "topics": [
+        "Marbury v. Madison",
+        "judicial review",
+        "writ of mandamus",
+        "John Marshall",
+        "US v. AT&T"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:07:00",
+      "kind": "content",
+      "title": "Clinton, Nixon's legacy, and the 2019 Trump administration position",
+      "summary": "The hosts recall Bill Clinton claiming executive privilege for aides until Newt Gingrich pressed him, and note courts usually rule against overbroad privilege. They then discuss the 2019 White House Office of Legal Counsel position that Congress cannot enforce subpoenas in federal court when the executive branch refuses, tied to Treasury Secretary Steven Mnuchin and Trump's tax returns. They discuss the Washington Post critique, Congress's leverage, and possible unprecedented stalemate.",
+      "topics": [
+        "Bill Clinton executive privilege",
+        "Newt Gingrich",
+        "Office of Legal Counsel opinion",
+        "Steven Mnuchin",
+        "Trump tax returns",
+        "Washington Post Harry Littman",
+        "congressional leverage"
+      ]
+    },
+    {
+      "start": "01:07:00",
+      "end": "01:10:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Obama healthcare bet",
+      "summary": "Listener Jack Simmons writes that Chuck made a bet ten years earlier about the Obama healthcare plan eliminating private insurance companies, and congratulates him as the prediction term expires.",
+      "topics": [
+        "listener mail",
+        "Obama healthcare plan",
+        "private insurance bet"
+      ]
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:11:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listeners to visit the website, social links, or email the show, and sign off.",
+      "topics": [
+        "contact information",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16621,
+    "output_tokens": 3780
+  }
+}

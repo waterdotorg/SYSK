@@ -1,0 +1,181 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-05-26_Short_Stuff_Parachute_Emergency_13min.txt",
+  "title": "Short Stuff: Parachute Emergency!",
+  "date": "2021-05-26",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-parachute-emergency",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1e3a4489-ac24-44b6-bbeb-ae28001873fc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1e3a4489-ac24-44b6-bbeb-ae28001873fc/transcript?format=TextWithTimestamps&t=1700543592",
+  "summary": "Short Stuff episode on parachute emergencies. The hosts discuss the rarity of parachute malfunctions (about one in a thousand jumps, per USPA member Ron Bell with thirteen thousand jumps), the two main partial malfunctions (line twist and line over), total malfunctions and the reserve parachute, the rule 'when in doubt, whip it out,' and automatic activation devices (AADs) that deploy the reserve if a jumper is falling below 1,000 feet at speeds of at least 78 mph. They cite skydiving fatality figures (32 deaths in 2000 out of 2.7 million jumps, and 11 deaths in a later count out of 2.8 million) and survival stories including Victoria Sillers, Michael Holmes, and Vesna Vulovich. The episode includes an ad break for a sponsor read.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "parachute malfunction",
+    "skydiving emergencies",
+    "reserve parachute",
+    "main parachute failure",
+    "line twist",
+    "line over",
+    "total malfunction",
+    "automatic activation device",
+    "AAD",
+    "terminal velocity",
+    "skydiving fatalities",
+    "when in doubt whip it out",
+    "Vesna Vulovich",
+    "Michael Holmes",
+    "Victoria Sillers",
+    "USPA",
+    "Ron Bell",
+    "tandem skydiving",
+    "parachuting safety",
+    "survival falls"
+  ],
+  "entities": [
+    {
+      "name": "Ron Bell",
+      "type": "person"
+    },
+    {
+      "name": "Vesna Vulovich",
+      "type": "person"
+    },
+    {
+      "name": "Michael Holmes",
+      "type": "person"
+    },
+    {
+      "name": "Victoria Sillers",
+      "type": "person"
+    },
+    {
+      "name": "United States Parachute Association",
+      "type": "organization"
+    },
+    {
+      "name": "Yugoslav Air flight",
+      "type": "event"
+    },
+    {
+      "name": "Automatic activation device",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter on skydiving experiences",
+      "summary": "Hosts chat about whether they have skydived, Josh's tandem jump experience, and their hesitation about trying it.",
+      "topics": [
+        "tandem skydiving",
+        "skydiving experiences"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:40",
+      "kind": "content",
+      "title": "Parachute malfunction odds",
+      "summary": "Ron Bell, a USPA member with thirteen thousand jumps and fourteen malfunctions, says about one in a thousand jumps has a malfunction. The hosts note a malfunction does not automatically mean death.",
+      "topics": [
+        "parachute malfunction",
+        "USPA",
+        "Ron Bell",
+        "skydiving safety"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Terminal velocity and partial malfunctions",
+      "summary": "Terminal velocity is about 120 mph after about twelve seconds of falling. The hosts describe partial malfunctions and the line twist, which can be undone by twisting the other way.",
+      "topics": [
+        "terminal velocity",
+        "line twist",
+        "partial malfunction"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:40",
+      "kind": "content",
+      "title": "Line over malfunction",
+      "summary": "A line over occurs when a line crosses over the canopy, so the parachute works but not as it should. This can be a serious problem when the main parachute fails to open.",
+      "topics": [
+        "line over",
+        "parachute malfunction",
+        "main parachute"
+      ]
+    },
+    {
+      "start": "00:06:40",
+      "end": "00:07:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Sponsor read and ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Total malfunction and reserve parachute",
+      "summary": "If the main parachute does not deploy, the jumper uses the reserve. Reserve packing must be done by certified riggers, and a main that does not deploy can be better than one tangled with the reserve. Hosts cite Bell's advice, 'when in doubt, whip it out.'",
+      "topics": [
+        "total malfunction",
+        "reserve parachute",
+        "when in doubt whip it out",
+        "parachute packing",
+        "FAA rigger certification"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Automatic activation devices",
+      "summary": "Modern automatic activation devices (AADs) use sensors to deploy the reserve if a jumper is falling below 1,000 feet at at least 78 mph. The hosts also discuss a naked skydiver anecdote.",
+      "topics": [
+        "automatic activation device",
+        "AAD",
+        "reserve deployment",
+        "skydiving safety devices"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Skydiving fatality statistics and survival stories",
+      "summary": "Fatality rates are very low: 32 deaths in 2000 out of 2.7 million jumps and 11 out of 2.8 million in a later count. The hosts cite survivors Victoria Sillers, Michael Holmes, and Vesna Vulovich.",
+      "topics": [
+        "skydiving fatalities",
+        "survival falls",
+        "Vesna Vulovich",
+        "Michael Holmes",
+        "Victoria Sillers"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the short episode with a joke about whipping it out and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5310,
+    "output_tokens": 1979
+  }
+}

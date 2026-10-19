@@ -1,0 +1,262 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-07-01_How_The_Louvre_Works_42min.txt",
+  "title": "How The Louvre Works",
+  "date": "2014-07-01",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-louvre-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/73eecaab-3083-46f2-aac5-ae2800964d43/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/73eecaab-3083-46f2-aac5-ae2800964d43/transcript?format=TextWithTimestamps&t=1700543881",
+  "summary": "Josh and Chuck explore the history of the Louvre in Paris, from its origins as a medieval fortress built under Philippe Auguste around 1190, through its use as a royal residence under Charles V and later kings, its abandonment after the court moved to Versailles, and its transformation into a public national museum after the French Revolution. They cover the three academies housed there, Napoleon's plunder of art from conquered lands, the Egyptian collection, the Nazi-era looting and the Louvre's later restitution efforts, the Paris Commune fire near the Tuileries, and the 1911 theft of the Mona Lisa and its recovery. They also touch on the Mona Lisa's vandalism history, Stendhal syndrome, the Louvre Pyramid built in the 1980s, and visitor numbers and admission details. The episode ends with listener mail from Facebook and Twitter questions.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Louvre",
+    "Louvre history",
+    "Louvre Museum",
+    "Paris museums",
+    "medieval fortress Paris",
+    "Philippe Auguste",
+    "French royal collection",
+    "Napoleon art plunder",
+    "Mona Lisa",
+    "Mona Lisa theft 1911",
+    "Vincenzo Peruggia",
+    "Nazi looted art",
+    "Louvre Pyramid",
+    "Stendhal syndrome",
+    "French Revolution museum",
+    "Academy of Painting and Sculpture",
+    "Paris Commune",
+    "Egyptian collection Louvre",
+    "Louvre admission prices",
+    "Louvre visitor numbers"
+  ],
+  "entities": [
+    {
+      "name": "Louvre",
+      "type": "place"
+    },
+    {
+      "name": "Mona Lisa",
+      "type": "work"
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "type": "person"
+    },
+    {
+      "name": "Philippe Auguste",
+      "type": "person"
+    },
+    {
+      "name": "Francois I",
+      "type": "person"
+    },
+    {
+      "name": "Vincenzo Peruggia",
+      "type": "person"
+    },
+    {
+      "name": "Louvre Pyramid",
+      "type": "work"
+    },
+    {
+      "name": "Versailles",
+      "type": "place"
+    },
+    {
+      "name": "Tuileries Palace",
+      "type": "place"
+    },
+    {
+      "name": "Dominique Vivant Denon",
+      "type": "person"
+    },
+    {
+      "name": "Jean-Luc Martinez",
+      "type": "person"
+    },
+    {
+      "name": "Sister Wendy",
+      "type": "person"
+    },
+    {
+      "name": "Paris Commune",
+      "type": "event"
+    },
+    {
+      "name": "Stendhal syndrome",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Louvre visitor facts",
+      "summary": "The hosts joke about pronouncing French names, then note the Louvre's visitor numbers, its collection size, the admission fees, and free-entry days.",
+      "topics": [
+        "Louvre visitor numbers",
+        "Louvre admission prices",
+        "free museum days"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Medieval fortress origins and royal residence",
+      "summary": "Philippe Auguste built the Louvre as a medieval fortress around 1190 with a moat. Later it was enclosed within Paris's city wall, fell into neglect, and was turned into a royal residence by Charles V in the fourteenth century.",
+      "topics": [
+        "Louvre history",
+        "medieval fortress Paris",
+        "Philippe Auguste",
+        "Charles V Louvre residence"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Renovations under Francois I and the move to Versailles",
+      "summary": "Francois I expanded and remodeled the Louvre. Later kings moved to Versailles, and the Louvre fell out of fashion and into neglect again.",
+      "topics": [
+        "Francois I Louvre",
+        "Versailles",
+        "Louvre royal palace"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Message break with sponsor read.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Academies move in and the Louvre becomes a public museum",
+      "summary": "Three academies (Painting and Sculpture, the French Academy, and Inscriptions and Belles-Lettres) were housed in the Louvre in the mid-seventeenth century. Exhibitions of royal art were opened to the public for free, and after the Revolution the Louvre was established as the French National Museum.",
+      "topics": [
+        "Academy of Painting and Sculpture",
+        "French Academy",
+        "Louvre public museum",
+        "French Revolution museum"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Napoleon, plunder, and the Egyptian collection",
+      "summary": "Napoleon renamed the museum and filled it with art seized from conquered lands under treaty terms, with director Vivant Denon collecting pieces. Egyptian artifacts were also part of the collection, and the Louvre's Egyptology curator was Champollion.",
+      "topics": [
+        "Napoleon art plunder",
+        "Vivant Denon",
+        "Egyptian collection Louvre",
+        "Champollion",
+        "Musee Napoleon"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Sources of the collection and art studio history",
+      "summary": "The hosts describe how the collection came from royal holdings, donations from artists such as Michelangelo to Francois I, plunder, and purchases such as the Borghese collection. The Louvre was also a working studio for artists in the nineteenth century, before the modern art was split off to another museum.",
+      "topics": [
+        "Louvre collection origins",
+        "Borghese collection",
+        "Louvre art studio",
+        "Impressionists Louvre"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "World War II, Nazi looting, and restitution",
+      "summary": "During the German occupation, the French moved art out of the Louvre, while the Nazis used the building as a sequestration warehouse for looted art. After the war much of it was not returned, until a Puerto Rican journalist's reporting in the 1990s led the Louvre to begin returning works to rightful owners.",
+      "topics": [
+        "Nazi looted art",
+        "Louvre World War II",
+        "art restitution",
+        "Holocaust looted art",
+        "museum repatriation"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Paris Commune fire",
+      "summary": "A socialist revolt during the Paris Commune burned the Tuileries Palace next to the Louvre. The Louvre itself was narrowly spared, though the hosts believe some art was lost.",
+      "topics": [
+        "Paris Commune",
+        "Tuileries Palace fire",
+        "Louvre damage"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Mona Lisa theft, vandalism and Stendhal syndrome",
+      "summary": "The Mona Lisa was stolen in 1911 by Vincenzo Peruggia, an Italian former Louvre employee, and was recovered after he tried to sell it in Florence. The hosts then cover later attacks on the painting, including a thrown mug and acid and paint, and discuss Stendhal syndrome.",
+      "topics": [
+        "Mona Lisa theft 1911",
+        "Vincenzo Peruggia",
+        "Mona Lisa vandalism",
+        "Stendhal syndrome"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Other famous works and the Louvre Pyramid",
+      "summary": "The hosts mention other notable works, including the Venus de Milo, the Winged Victory of Samothrace, and the Code of Hammurabi. They also describe the Louvre Pyramid entrance, built in the 1980s, which preserves the medieval moat and keep.",
+      "topics": [
+        "Venus de Milo",
+        "Winged Victory of Samothrace",
+        "Code of Hammurabi",
+        "Louvre Pyramid",
+        "medieval moat excavation"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:55:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and Q&A",
+      "summary": "The hosts answer listener questions about the cancelled TV show, the sounds made by the show, how topics are chosen, the hosts' childhood aspirations, their working relationship, favorite vegetables, and a wedding song request.",
+      "topics": [
+        "listener mail",
+        "Stuff You Should Know Q&A",
+        "TV show cancellation"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:55:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners, share contact details, and sign off.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13997,
+    "output_tokens": 3089
+  }
+}

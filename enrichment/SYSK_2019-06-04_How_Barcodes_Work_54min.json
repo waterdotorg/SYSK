@@ -1,0 +1,284 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-06-04_How_Barcodes_Work_54min.txt",
+  "title": "How Barcodes Work",
+  "date": "2019-06-04",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-barcodes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/81e83252-5a74-4e10-aff3-ae28004bd3d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/81e83252-5a74-4e10-aff3-ae28004bd3d0/transcript?format=TextWithTimestamps&t=1700543695",
+  "summary": "Josh and Chuck explain how barcodes work, starting with the grocery-store checkout problems that motivated them: hand-typed prices, hand-labeled stock, and inventory counting. They trace the history from Wallace Flint's 1930s thesis, to Bob Silver and Joe Woodland's bull's-eye code conceived on Miami Beach, the laser reader later developed by David Collins and Computer Identics for railroad freight cars, the RCA pilot at Kroger in Cincinnati, the Uniform Grocery Product Code committee led by Alan Haberman, George Laurer's rectangular design selected over seven submissions, and the first scan at Marsh in Troy, Ohio in 1974 (a ten-pack of Juicy Fruit gum). They explain UPC structure (GS1 company prefix, item number, check digit), how the scanner reads bars and spaces of one to four units wide, the mirror-image guard bars, the difference between 1D barcodes and 2D QR codes, and the price being stored in a database rather than the code. They also cover scanner fraud laws, the \"mark of the Beast\" urban legend, and QR codes on headstones. The episode ends with a listener mail about Sarun, an organization rescuing girls in Kenya.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "barcodes",
+    "UPC code",
+    "Universal Product Code",
+    "barcode history",
+    "QR codes",
+    "two-dimensional barcodes",
+    "grocery store checkout",
+    "bull's eye barcode",
+    "Joe Woodland",
+    "Bob Silver",
+    "George Laurer",
+    "Alan Haberman",
+    "laser barcode scanner",
+    "UPC check digit",
+    "GS1",
+    "scanner fraud",
+    "mark of the Beast",
+    "Marsh supermarket Troy Ohio",
+    "RCA barcode pilot Kroger",
+    "Wallace Flint",
+    "how barcodes work",
+    "self checkout",
+    "QR codes on headstones",
+    "Sarun Kenya listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Joe Woodland",
+      "type": "person"
+    },
+    {
+      "name": "Bob Silver",
+      "type": "person"
+    },
+    {
+      "name": "George Laurer",
+      "type": "person"
+    },
+    {
+      "name": "Alan Haberman",
+      "type": "person"
+    },
+    {
+      "name": "David Collins",
+      "type": "person"
+    },
+    {
+      "name": "Wallace Flint",
+      "type": "person"
+    },
+    {
+      "name": "Clyde Dawson",
+      "type": "person"
+    },
+    {
+      "name": "Diane Buchanan",
+      "type": "person"
+    },
+    {
+      "name": "Drexel University",
+      "type": "organization"
+    },
+    {
+      "name": "RCA",
+      "type": "organization"
+    },
+    {
+      "name": "Computer Identics Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "IBM",
+      "type": "organization"
+    },
+    {
+      "name": "Kroger",
+      "type": "organization"
+    },
+    {
+      "name": "Marsh Supermarket",
+      "type": "organization"
+    },
+    {
+      "name": "GS1",
+      "type": "organization"
+    },
+    {
+      "name": "Uniform Grocery Product Code committee",
+      "type": "organization"
+    },
+    {
+      "name": "Troy, Ohio",
+      "type": "place"
+    },
+    {
+      "name": "Miami Beach",
+      "type": "place"
+    },
+    {
+      "name": "Sarun",
+      "type": "organization"
+    },
+    {
+      "name": "Universal Product Code",
+      "type": "work"
+    },
+    {
+      "name": "QR code",
+      "type": "other"
+    },
+    {
+      "name": "mark of the Beast",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening and tour promo",
+      "summary": "Josh promotes his solo live show dates in Minneapolis and Washington, D.C., then the hosts introduce the topic of barcodes and how ubiquitous they are.",
+      "topics": [
+        "Josh Clark solo live show",
+        "barcodes everywhere"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Checkout problems before barcodes",
+      "summary": "The hosts describe grocery checkout before barcodes: cashiers hand-typing prices, hand-labeled price stickers, and manual inventory counts that left stores out of stock.",
+      "topics": [
+        "grocery store checkout history",
+        "manual inventory",
+        "hand-labeled prices"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Early inventions: Flint thesis and Woodland and Silver's bull's-eye",
+      "summary": "Wallace Flint's 1930s thesis on an automated grocery system is mentioned. Bob Silver and Joe Woodland, Drexel connections, develop the bull's-eye concentric-circle code, reportedly sketched in the sand on Miami Beach.",
+      "topics": [
+        "Wallace Flint thesis",
+        "Bob Silver and Joe Woodland",
+        "bull's eye barcode origin",
+        "Drexel University",
+        "Miami Beach"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "First reader machines and the laser",
+      "summary": "The early reader used a bright bulb and an oscilloscope and was huge and hot. The hosts explain that the laser made practical reading possible, and David Collins's Computer Identics reader was first used to track railroad freight cars.",
+      "topics": [
+        "barcode reader history",
+        "laser barcode scanner",
+        "David Collins",
+        "Computer Identics",
+        "railroad freight car tracking",
+        "RCA patent"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Industry committee, competition, and George Laurer's design",
+      "summary": "RCA's pilot at Kroger in Cincinnati is covered. Alan Haberman leads the Uniform Grocery Product Code committee, which holds a competition among seven submissions. George Laurer at IBM designs the rectangular code, chosen with MIT scientists' input.",
+      "topics": [
+        "Uniform Grocery Product Code committee",
+        "Alan Haberman",
+        "George Laurer",
+        "rectangular barcode design",
+        "RCA Kroger pilot",
+        "manufacturer resistance"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "First scan at Marsh in Troy, Ohio",
+      "summary": "The code debuts in June at a Marsh supermarket in Troy, Ohio; the first item scanned is a ten-pack of Juicy Fruit gum, and the hosts discuss costs in today's dollars.",
+      "topics": [
+        "Marsh supermarket Troy Ohio",
+        "first UPC scan",
+        "Juicy Fruit gum",
+        "Clyde Dawson",
+        "barcode scanner cost"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Barcodes vs. QR codes and UPC assignment",
+      "summary": "The hosts distinguish one-dimensional barcodes from two-dimensional QR codes and their capacities. They explain how GS1 assigns company prefixes and how companies assign item numbers for each product variant.",
+      "topics": [
+        "1D vs 2D codes",
+        "QR code capacity",
+        "GS1 company prefix",
+        "UPC numbering",
+        "product item numbers"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "How the scanner reads bars and check digit",
+      "summary": "The hosts describe UPC structure, the check digit, bar and space widths of one to four units, and how the scanner reads light reflected from white spaces. The price is not encoded in the barcode but looked up in the store's computer.",
+      "topics": [
+        "UPC check digit",
+        "bar and space width encoding",
+        "price lookup",
+        "how barcode scanners work"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Scanner fraud and guard bars",
+      "summary": "The hosts discuss scanner fraud, Michigan's law on overcharging with a penalty of ten times the difference capped at five dollars, and the guard bars and mirror-image encoding that let scanners read in either direction.",
+      "topics": [
+        "scanner fraud",
+        "Michigan scanner fraud law",
+        "guard bars",
+        "mirror image barcode encoding"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Mark of the Beast legend and barcode trivia",
+      "summary": "The hosts explain the mark of the Beast urban legend tied to Revelation, the claim about sixes in the guard bars, the IBM 3666 scanner model number, around five billion daily scans, and QR codes engraved on headstones.",
+      "topics": [
+        "mark of the Beast",
+        "Book of Revelation barcode legend",
+        "barcode conspiracy theory",
+        "QR code headstones",
+        "barcode scans per day"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:54:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Maggie about Sarun",
+      "summary": "Maggie writes about Sarun, an organization in Kenya rescuing girls from early forced marriage and female genital mutilation, and asks listeners to support it with funds for dorms and bathhouses.",
+      "topics": [
+        "listener mail",
+        "Sarun Kenya",
+        "female genital mutilation",
+        "girls rescue Kenya"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17363,
+    "output_tokens": 3189
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-06-27_Caterpillars_Natures_Magicians_47min.txt",
+  "title": "Caterpillars: Nature's Magicians",
+  "date": "2023-06-27",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/caterpillars-natures-magicians",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/82a7ed10-68d7-459d-a5e4-b02900f9bd96/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/82a7ed10-68d7-459d-a5e4-b02900f9bd96/transcript?format=TextWithTimestamps&t=1713910119",
+  "summary": "Josh and Chuck explore caterpillars as the larval stage of moths and butterflies: their eating-focused life, molting through five instars, body structure (true legs vs. prolegs, muscles, spiracles, hemolymph), movement (inchworm and wave motion), vision, setae and their irritating effects, defensive tactics (frass shooting, silk drop-offs, camouflage, feeding under leaves), gregarious species and silk trails, pupation into chrysalis or cocoon, complete metamorphosis via imaginal cells over about two weeks, the Hawaiian snail-eating caterpillars, dangerous species like the assassin caterpillar and puss caterpillar, Eastern tent caterpillars and horse reproductive loss syndrome, and gardening management including Bt. The episode closes with a listener mail about a crossword constructor and a plug for tour dates and a possible butterfly two-parter.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "caterpillars",
+    "caterpillar life cycle",
+    "metamorphosis",
+    "complete metamorphosis",
+    "holometabolism",
+    "molting",
+    "instar",
+    "chrysalis",
+    "cocoon",
+    "pupa",
+    "imaginal cells",
+    "insect anatomy",
+    "prolegs",
+    "setae",
+    "spiracles",
+    "caterpillar defense",
+    "gregarious caterpillars",
+    "silk production",
+    "assassin caterpillar",
+    "puss caterpillar",
+    "Hawaiian carnivorous caterpillars",
+    "gypsy moth",
+    "Eastern tent caterpillar",
+    "Bacillus thuringiensis",
+    "caterpillar pest control",
+    "moths and butterflies",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Tracy Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Georgetown University",
+      "type": "organization"
+    },
+    {
+      "name": "Linomia obliqua",
+      "type": "other"
+    },
+    {
+      "name": "Megalopyge opercularis",
+      "type": "other"
+    },
+    {
+      "name": "Bacillus thuringiensis",
+      "type": "other"
+    },
+    {
+      "name": "gypsy moth",
+      "type": "other"
+    },
+    {
+      "name": "Eastern tent caterpillar",
+      "type": "other"
+    },
+    {
+      "name": "silver-spotted skipper",
+      "type": "other"
+    },
+    {
+      "name": "swallowtail butterfly",
+      "type": "other"
+    },
+    {
+      "name": "Jeff Stillman",
+      "type": "person"
+    },
+    {
+      "name": "Hawaii",
+      "type": "place"
+    },
+    {
+      "name": "Kentucky",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:43",
+      "kind": "intro",
+      "title": "Tour dates and opening",
+      "summary": "Hosts promote the final 2023 tour dates in Orlando, Nashville and Atlanta and the show's website and ticket links.",
+      "topics": [
+        "tour dates",
+        "live shows"
+      ]
+    },
+    {
+      "start": "00:00:43",
+      "end": "00:03:10",
+      "kind": "intro",
+      "title": "Opening banter on caterpillars",
+      "summary": "Hosts introduce the episode, credit Tracy Wilson's insect articles, and note that caterpillars and butterflies are the same species at different life stages.",
+      "topics": [
+        "caterpillars",
+        "Tracy Wilson",
+        "butterfly and caterpillar same species"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:05:20",
+      "kind": "content",
+      "title": "Caterpillar as larval stage",
+      "summary": "A caterpillar is the larval stage of a moth or butterfly, whose life is spent eating and molting. Its body is built as an eating machine and storage for fat, and it can eat many times its body size.",
+      "topics": [
+        "larval stage",
+        "caterpillar feeding",
+        "caterpillar life cycle"
+      ]
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Eggs and molting",
+      "summary": "Caterpillars eat their way out of the egg and grow to about one hundred times their size by pupation. They molt five times, triggered by a hormone and enzyme that release the old skin.",
+      "topics": [
+        "caterpillar eggs",
+        "molting",
+        "instar",
+        "hormones"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Caterpillar memory",
+      "summary": "Researchers at Georgetown reportedly trained caterpillars to avoid smells, and the adult butterflies still avoided those smells.",
+      "topics": [
+        "caterpillar memory",
+        "butterfly memory",
+        "Georgetown research"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Caterpillar body, legs, muscles, senses and breathing",
+      "summary": "Caterpillars have six true legs and many prolegs with crochet hooks, about 4,000 muscles, and move by crawling or inchworm-style arching. They have stemmata that detect light and dark, are colorblind, breathe through spiracles and tracheae, and have hemolymph that carries hormones rather than oxygen.",
+      "topics": [
+        "prolegs",
+        "crochets",
+        "caterpillar muscles",
+        "inchworm movement",
+        "stemmata",
+        "spiracles",
+        "tracheae",
+        "hemolymph",
+        "caterpillar vision",
+        "caterpillar anatomy"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:17:40",
+      "kind": "content",
+      "title": "Setae and caterpillar hairs",
+      "summary": "Caterpillar hairs and spines, called setae, can carry irritants and toxins that cause bumps or pain when touched.",
+      "topics": [
+        "setae",
+        "caterpillar hairs",
+        "caterpillar sting",
+        "caterpillar irritants"
+      ]
+    },
+    {
+      "start": "00:17:40",
+      "end": "00:20:05",
+      "kind": "content",
+      "title": "Touching caterpillars and carnivorous Hawaiian caterpillars",
+      "summary": "Hosts recall childhood handling of caterpillars. Some Hawaiian caterpillars are carnivores that tie snails to twigs with silk and eat them, while an Australian species eats ants.",
+      "topics": [
+        "carnivorous caterpillars",
+        "Hawaii caterpillars",
+        "snail-eating caterpillars",
+        "caterpillar diet"
+      ]
+    },
+    {
+      "start": "00:20:05",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Caterpillar camouflage and snake mimicry",
+      "summary": "Caterpillars use leaves for camouflage and some have eye spots that resemble snakes. Gregarious groups can line up to look like a long snake.",
+      "topics": [
+        "caterpillar camouflage",
+        "snake mimicry",
+        "gregarious caterpillars"
+      ]
+    },
+    {
+      "start": "00:21:06",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Caterpillar defenses",
+      "summary": "Defenses include shooting frass (poop) up to five feet, as with the silver-spotted skipper, nibbling many leaves to hide their presence, and spinning silk lines to drop off from predators.",
+      "topics": [
+        "caterpillar defense",
+        "frass",
+        "silver-spotted skipper",
+        "silk drop",
+        "self-control"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:20",
+      "kind": "content",
+      "title": "Silk use and gregarious communities",
+      "summary": "Caterpillars use silk as climbing rope, lassos and nests, and gregarious species build large tents and silk trails reused across generations. Living in groups has trade-offs in shelter and food versus competition and disease.",
+      "topics": [
+        "caterpillar silk",
+        "spinnerets",
+        "silk trails",
+        "gregarious caterpillars",
+        "tent caterpillars",
+        "group living"
+      ]
+    },
+    {
+      "start": "00:26:20",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Pupation and chrysalis versus cocoon",
+      "summary": "After the fifth molt, caterpillars wander off, hang upside down and form a chrysalis from hardened skin. Moths spin a cocoon instead. Silk anchors the pupa in various ways.",
+      "topics": [
+        "pupa",
+        "chrysalis",
+        "cocoon",
+        "pupation",
+        "moth cocoon"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Inside the chrysalis",
+      "summary": "Time-lapse photography shows the transformation inside the chrysalis without harming the caterpillar. Silk is used to hang and stabilize the pupa.",
+      "topics": [
+        "time-lapse photography",
+        "chrysalis transformation",
+        "metamorphosis imagery"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:34:12",
+      "kind": "content",
+      "title": "How metamorphosis works",
+      "summary": "The caterpillar breaks down into a cell soup; some cells, like leg cells, are rearranged, while others become imaginal cells, similar to stem cells, which form the butterfly over about two weeks. The reason for this evolution is not well understood.",
+      "topics": [
+        "imaginal cells",
+        "metamorphosis mechanism",
+        "complete metamorphosis",
+        "evolution of metamorphosis",
+        "pollinators"
+      ]
+    },
+    {
+      "start": "00:34:12",
+      "end": "00:35:00",
+      "kind": "intro",
+      "title": "Break banter",
+      "summary": "Hosts joke about the Josh Clark metamorphosis comment and the break.",
+      "topics": [
+        "banter"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:45",
+      "kind": "content",
+      "title": "Pupation duration and temperature",
+      "summary": "Pupation takes about two weeks on average, longer or shorter depending on weather, and some species overwinter. The ideal temperature is about 21 degrees Celsius, which Josh converts to about 84.6 degrees Fahrenheit.",
+      "topics": [
+        "pupation duration",
+        "temperature",
+        "overwintering",
+        "Celsius to Fahrenheit"
+      ]
+    },
+    {
+      "start": "00:37:45",
+      "end": "00:38:40",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Brief ad break referenced by hosts.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:38:40",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Caterpillar management in gardens",
+      "summary": "Hosts advise against overreacting to a few garden caterpillars, since they are food for birds and pollinators. Gregarious species such as gypsy moths can defoliate trees and damage crops, and egg rings should be removed early. Burning nests is dangerous.",
+      "topics": [
+        "garden caterpillars",
+        "gypsy moth control",
+        "egg masses",
+        "pest management",
+        "wildfire risk"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:40",
+      "kind": "content",
+      "title": "Bacillus thuringiensis and organic pest control",
+      "summary": "Bacillus thuringiensis, sold as an organic caterpillar control, kills caterpillars in general by creating gut holes and sepsis. Hosts express disapproval.",
+      "topics": [
+        "Bacillus thuringiensis",
+        "Bt pesticide",
+        "organic gardening",
+        "caterpillar control"
+      ]
+    },
+    {
+      "start": "00:41:57",
+      "end": "00:44:38",
+      "kind": "content",
+      "title": "Assassin caterpillar and dangerous species",
+      "summary": "The assassin caterpillar, Lonomia obliqua, in South America has an anticoagulant venom linked to around five hundred deaths and studied for biomedicine; only a couple of species in the genus have this venom. The puss caterpillar in North America causes severe pain, and Eastern tent caterpillars can cause horse reproductive loss syndrome when horses eat them.",
+      "topics": [
+        "assassin caterpillar",
+        "Lonomia obliqua",
+        "anticoagulant venom",
+        "puss caterpillar",
+        "Megalopyge opercularis",
+        "Eastern tent caterpillar",
+        "horse reproductive loss syndrome",
+        "caterpillar venom"
+      ]
+    },
+    {
+      "start": "00:44:38",
+      "end": "00:46:36",
+      "kind": "listener_mail",
+      "title": "Listener mail from Jeff Stillman",
+      "summary": "A listener who is a crossword constructor describes proposing to his wife with a crossword and sends a printed original puzzle themed to the show. Hosts also discuss a possible butterfly two-parter.",
+      "topics": [
+        "listener mail",
+        "crossword puzzles",
+        "butterfly episode plans"
+      ]
+    },
+    {
+      "start": "00:46:36",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Credits and the iHeartRadio production note, with listener mail address.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18337,
+    "output_tokens": 4266
+  }
+}

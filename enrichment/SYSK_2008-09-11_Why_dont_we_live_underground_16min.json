@@ -1,0 +1,234 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-09-11_Why_dont_we_live_underground_16min.txt",
+  "title": "Why don't we live underground?",
+  "date": "2008-09-11",
+  "duration": "16 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-dont-we-live-underground",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4927fa5c-fe6c-4b24-a924-ae2800c2f02f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4927fa5c-fe6c-4b24-a924-ae2800c2f02f/transcript?format=TextWithTimestamps&t=1700544001",
+  "summary": "Josh Clark and Chuck Bryant discuss why people don't live underground, prompted by the Beijing Olympics. They cover Mao-era underground city in Beijing built to house about 3,000 people after a 1969 border dispute with the Soviets, now partly a tourist mall; NORAD's mountain complex in Colorado; companies and institutions storing servers or offices underground (Sun Microsystems, Equifax building in Atlanta, a former Japanese mine); energy efficiency of underground buildings versus transportation emissions; human need for sunlight, vitamin D, serotonin, and air pressure that make underground living problematic; examples like the Marin County Jail, a closed Williamsburg museum built into a hill, and proposed Japanese projects Alice City and the Urban Geo Grid. Includes ad reads for Visa and the Reinvented 2012 camera and plugs for HowStuffWorks articles, including Inside Deadliest Catch.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "underground living",
+    "underground cities",
+    "Beijing underground city",
+    "Mao Zedong bomb shelter",
+    "Sino-Soviet border dispute",
+    "NORAD mountain complex",
+    "nuclear bunkers",
+    "underground architecture",
+    "earth-sheltered homes",
+    "energy efficiency of buildings",
+    "vitamin D and sunlight",
+    "serotonin",
+    "rickets",
+    "circadian rhythm",
+    "Alice City Japan",
+    "Urban Geo Grid Japan",
+    "underground data centers",
+    "Marin County Jail",
+    "Williamsburg underground museum",
+    "Equifax building Atlanta",
+    "Deadliest Catch",
+    "HowStuffWorks"
+  ],
+  "entities": [
+    {
+      "name": "Beijing underground city",
+      "type": "place"
+    },
+    {
+      "name": "Mao Zedong",
+      "type": "person"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "organization"
+    },
+    {
+      "name": "NORAD",
+      "type": "organization"
+    },
+    {
+      "name": "Sun Microsystems",
+      "type": "organization"
+    },
+    {
+      "name": "Equifax",
+      "type": "organization"
+    },
+    {
+      "name": "Savannah College of Art and Design",
+      "type": "organization"
+    },
+    {
+      "name": "Marin County Jail",
+      "type": "place"
+    },
+    {
+      "name": "Williamsburg, Virginia",
+      "type": "place"
+    },
+    {
+      "name": "Alice City",
+      "type": "place"
+    },
+    {
+      "name": "Urban Geo Grid",
+      "type": "place"
+    },
+    {
+      "name": "Deadliest Catch",
+      "type": "work"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and Beijing underground city",
+      "summary": "Hosts open the show, mention the Beijing Olympics, and introduce the underground city beneath Beijing. Ad reads for Visa and the 2012 camera are included.",
+      "topics": [
+        "Beijing underground city",
+        "Olympics",
+        "underground living"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Mao's underground city in Beijing",
+      "summary": "After a 1969 border dispute with the Soviets, Chairman Mao had Beijing residents build an underground city for about 3,000 people over ten years. Parts are now a tourist mall, with unofficial corridors, old bunks, and Mao portraits. It was never used for the 2008 Olympics.",
+      "topics": [
+        "Beijing underground city",
+        "Mao Zedong bomb shelter",
+        "Sino-Soviet border dispute"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:03:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "NORAD inside a mountain",
+      "summary": "NORAD is built inside a mountain with about 700,000 tons of rock removed and a very thick door. It was designed in the sixties to survive a direct nuclear strike, but hosts say modern missiles could shatter a mountain, and decommissioning was being considered in 2006.",
+      "topics": [
+        "NORAD mountain complex",
+        "nuclear bunkers",
+        "intercontinental ballistic missiles"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:05:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Organizations using underground space",
+      "summary": "Insurance firms, credit bureaus, Sun Microsystems, and network server operators store data underground, including in an old Japanese mine. In Atlanta, the former Equifax building, now used by the Savannah College of Art and Design, is largely underground.",
+      "topics": [
+        "underground data centers",
+        "Equifax building Atlanta",
+        "security of underground buildings"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:07:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Energy efficiency of underground buildings",
+      "summary": "Underground buildings have more constant temperatures and are more energy efficient. The hosts cite a study claiming US buildings use six times more energy and emit six times more greenhouse gases than cars and trucks combined, and say some architects are pushing underground design.",
+      "topics": [
+        "energy efficiency of buildings",
+        "earth-sheltered homes",
+        "climate change"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:08:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Why people resist living underground",
+      "summary": "Hosts say persuading Americans to give up their homes for earth-sheltered houses would be hard. They then argue that living underground conflicts with human biology, since humans are diurnal and tied to the sun's circadian rhythm.",
+      "topics": [
+        "earth-sheltered homes",
+        "circadian rhythm",
+        "diurnal humans"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:11:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Sunlight, vitamin D, serotonin, and air pressure",
+      "summary": "Sunlight drives vitamin D production in the body, which prevents rickets; a rickets patient is described from the HowStuffWorks article. Serotonin and melatonin depend on sun exposure, linked to seasonal affective disorder. Humans also need sufficient air and sea-level pressure, which is why divers and miners face decompression issues.",
+      "topics": [
+        "vitamin D and sunlight",
+        "rickets",
+        "serotonin",
+        "seasonal affective disorder",
+        "atmospheric pressure"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:13:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Existing underground structures: Marin jail and Williamsburg museum",
+      "summary": "Hosts note that the Marin County Jail is partly underground for security and efficiency, and that a Williamsburg, Virginia museum built into a hillside closed in 2002 and attracts urban explorers. They do not endorse trespassing.",
+      "topics": [
+        "Marin County Jail",
+        "Williamsburg underground museum",
+        "urban exploration"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:14:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Japan's proposed underground projects",
+      "summary": "Japan is going underground because of limited land. Alice City is a proposed underground shopping and living complex lit by domes, and the Urban Geo Grid would cover five square miles and house up to half a million people. The hosts worry about weakening the ground under existing cities and the water table.",
+      "topics": [
+        "Alice City Japan",
+        "Urban Geo Grid Japan",
+        "underground cities",
+        "water table"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:15:30",
+      "end": "00:16:00",
+      "kind": "outro",
+      "title": "Sign-off and Deadliest Catch plug",
+      "summary": "Chuck mentions a crab-fishing article, Inside Deadliest Catch, and the hosts plug HowStuffWorks articles and listener email before signing off.",
+      "topics": [
+        "Deadliest Catch",
+        "HowStuffWorks",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6485,
+    "output_tokens": 2745
+  }
+}

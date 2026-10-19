@@ -1,0 +1,229 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-09-21_SYSK_Selects_Could_You_Live_Without_a_Refrigerator_37min.txt",
+  "title": "SYSK Selects: Could You Live Without a Refrigerator?",
+  "date": "2019-09-21",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-could-you-live-without-a-refrigerator",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b3fd6074-d6d4-4d1a-a0df-ae280045b7d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b3fd6074-d6d4-4d1a-a0df-ae280045b7d7/transcript?format=TextWithTimestamps&t=1700543681",
+  "summary": "SYSK Selects rerun of a January 2012 episode, introduced by Chuck as his pick. The hosts explore whether people can live without a refrigerator (\"defridging\"), tracing the 2009 New York Times attention to people unplugging fridges as a green trend. They compare refrigerator energy use with other household appliances, discuss which foods can stay out of the fridge (butter, condiments, onions, tomatoes, potatoes, cilantro, avocados), and cooling alternatives like coolers and chest freezers. The conversation moves to food waste (developing-world post-harvest losses, US food waste in landfills and methane), zero-waste living (Bea Johnson), upcycled shoes and license-plate siding, and a listener mail segment from a St. Louis police officer about a meth lab found in a Gatorade bottle. The episode closes with a segment on Einstein's no-moving-parts refrigerator and tips for keeping an existing fridge efficient.",
+  "episode_kind": "rerun",
+  "rerun_of": "Could You Live Without a Refrigerator?",
+  "topics": [
+    "refrigerator",
+    "living without a refrigerator",
+    "defridging",
+    "green living",
+    "energy efficiency",
+    "Energy Star",
+    "food waste",
+    "food storage",
+    "cooler",
+    "chest freezer",
+    "methane emissions",
+    "landfills",
+    "zero waste",
+    "Bea Johnson",
+    "Einstein refrigerator",
+    "listener mail",
+    "meth lab",
+    "cilantro storage",
+    "avocado ripening",
+    "butter at room temperature"
+  ],
+  "entities": [
+    {
+      "name": "Bea Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "New York Times",
+      "type": "organization"
+    },
+    {
+      "name": "Energy Star",
+      "type": "organization"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Sam's Club",
+      "type": "organization"
+    },
+    {
+      "name": "Walmart",
+      "type": "organization"
+    },
+    {
+      "name": "London",
+      "type": "place"
+    },
+    {
+      "name": "St. Louis, Missouri",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and green movement",
+      "summary": "Chuck introduces the episode as his select pick. The hosts banter about eco-friendliness, littering, and whether giving up refrigerators is a green fad.",
+      "topics": [
+        "green movement",
+        "eco-friendly habits",
+        "littering"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Why people unplug refrigerators",
+      "summary": "The hosts describe the 2009 New York Times article about people giving up refrigerators as a green practice, and compare it to sterilization as a reversible or irreversible choice.",
+      "topics": [
+        "defridging",
+        "New York Times 2009 refrigerator article",
+        "green fad"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Refrigerator energy use vs. other appliances",
+      "summary": "They give energy-use figures: a post-2000 fridge uses about 450 kWh a year, less than a clothes dryer, central air, or furnace, and is roughly equivalent to about 800 miles of driving in CO2 terms.",
+      "topics": [
+        "refrigerator energy consumption",
+        "Energy Star",
+        "CO2 emissions",
+        "household appliances"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Foods that don't need refrigeration",
+      "summary": "The hosts discuss which foods can stay out of the fridge, including butter, ketchup, mustard, hot sauce, onions, tomatoes, potatoes, cauliflower, and cilantro stored in water, plus tips on cutting onions and ripening avocados with a banana in a paper bag.",
+      "topics": [
+        "food storage",
+        "room temperature butter",
+        "cilantro storage",
+        "avocado ripening",
+        "onions",
+        "potatoes storage"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Coolers and chest freezers as alternatives",
+      "summary": "Without a fridge, people still need some cooling. Defridgers use coolers, and some use small chest freezers, which still use about 2 kWh a year, with frozen water bottles kept in coolers.",
+      "topics": [
+        "cooler",
+        "chest freezer",
+        "frozen water bottles",
+        "fridge alternatives"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Shopping and packaging trade-offs",
+      "summary": "Buying smaller amounts reduces waste but means more packaging and more driving to the store, which can offset the environmental benefit.",
+      "topics": [
+        "buying in bulk",
+        "food packaging",
+        "shopping habits",
+        "driving to store"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Food waste, developing countries, and methane",
+      "summary": "Post-harvest food grain losses in developing countries are discussed. The EPA says food leftovers are the largest part of the waste stream by weight, and landfill food waste produces methane, which is about 21 times more potent than CO2. The hosts discuss livestock methane and trapping it for energy.",
+      "topics": [
+        "food waste",
+        "post-harvest losses",
+        "landfill methane",
+        "EPA food waste",
+        "livestock methane"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Zero waste and reusing food",
+      "summary": "Bea Johnson's zero-waste family and her five Rs (refuse, reduce, reuse, recycle, rot) are discussed, along with reusing stale bread and wilted lettuce, and eating edible weeds. Also mentioned are shoes made from old tires and license plates used as siding.",
+      "topics": [
+        "zero waste",
+        "Bea Johnson",
+        "five Rs",
+        "composting",
+        "reusing food",
+        "edible weeds",
+        "upcycling"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Poop burger and toilet paper alternatives",
+      "summary": "The hosts question a viral story about a Japanese scientist making burgers from human feces, which they could not verify. They then discuss the London fatberg of wet wipes and grease and cloth-diaper bidets as green toilet paper alternatives.",
+      "topics": [
+        "fatberg",
+        "London sewer",
+        "bidet",
+        "toilet paper alternatives",
+        "flushable wipes"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Einstein refrigerator and fridge efficiency tips",
+      "summary": "The hosts describe Einstein's no-moving-parts absorption refrigerator, which a researcher in Oxford tried to rebuild. They then give tips for keeping an existing fridge efficient: buy an Energy Star model, clean coils yearly, and limit door opening.",
+      "topics": [
+        "Einstein refrigerator",
+        "absorption refrigeration",
+        "fridge efficiency",
+        "cleaning refrigerator coils",
+        "Energy Star appliances"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: meth lab in a Gatorade bottle",
+      "summary": "A St. Louis police officer writes in about a mobile meth lab found in a Gatorade bottle at a Walmart, and about children found in meth labs. The hosts also mention how to send mystery suggestions.",
+      "topics": [
+        "listener mail",
+        "meth lab",
+        "mobile meth lab",
+        "law enforcement"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13222,
+    "output_tokens": 2654
+  }
+}

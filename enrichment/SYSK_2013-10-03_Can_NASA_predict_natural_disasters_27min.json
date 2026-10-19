@@ -1,0 +1,243 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-10-03_Can_NASA_predict_natural_disasters_27min.txt",
+  "title": "Can NASA predict natural disasters?",
+  "date": "2013-10-03",
+  "duration": "27 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-nasa-predict-natural-disasters",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4588135a-b32b-40b0-9873-ae28009d7596/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4588135a-b32b-40b0-9873-ae28009d7596/transcript?format=TextWithTimestamps&t=1700543896",
+  "summary": "Hosts Josh Clark and Chuck Bryant examine whether NASA can predict natural disasters. They explain NASA's shift toward monitoring Earth with remote sensing satellites and aircraft, and cover several programs: the 2010 GRIP (Genesis and Rapid Intensification Processes) study of how tropical storms form; GRACE (Gravity Recovery and Climate Experiment), twin satellites that map Earth's gravitational field and track polar ice and groundwater-related mass changes; the GPM (Global Precipitation Measurement) mission with JAXA for tracking rainfall and floods and predicting landslides; and LIDAR-based topography mapping (the LIST program, slated for 2016) to detect land deformation before volcanic eruptions and monitor fault lines. They note clouds limit laser and satellite observations. The episode then turns to near-Earth objects: asteroid impact risk, the roughly thousand kilometer-plus objects NASA tracks, nuclear deflection ideas, and the All Sky Fireball Network of internet-connected night-sky cameras. The episode closes with a listener mail letter from Amber and Ben praising the show's unscripted conversational style.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "NASA",
+    "natural disaster prediction",
+    "remote sensing",
+    "Earth observation satellites",
+    "GRACE satellites",
+    "gravity recovery and climate experiment",
+    "GRIP genesis and rapid intensification processes",
+    "tropical storm formation",
+    "hurricane formation",
+    "GPM global precipitation measurement",
+    "JAXA",
+    "landslides",
+    "floods",
+    "LIDAR",
+    "volcano deformation monitoring",
+    "earthquake prediction",
+    "fault line monitoring",
+    "topography mapping",
+    "Earth gravitational field",
+    "Potsdam gravity potato",
+    "polar ice melt",
+    "sea level rise",
+    "near-Earth objects",
+    "asteroid impact",
+    "asteroid deflection",
+    "All Sky Fireball Network",
+    "fireballs",
+    "listener mail",
+    "satellite cloud interference"
+  ],
+  "entities": [
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "GRACE",
+      "type": "work"
+    },
+    {
+      "name": "GRIP",
+      "type": "event"
+    },
+    {
+      "name": "Global Precipitation Measurement",
+      "type": "work"
+    },
+    {
+      "name": "JAXA",
+      "type": "organization"
+    },
+    {
+      "name": "LIDAR",
+      "type": "other"
+    },
+    {
+      "name": "All Sky Fireball Network",
+      "type": "work"
+    },
+    {
+      "name": "Potsdam gravity potato",
+      "type": "other"
+    },
+    {
+      "name": "Greenland ice sheet",
+      "type": "place"
+    },
+    {
+      "name": "Guatemala",
+      "type": "place"
+    },
+    {
+      "name": "Chicxulub crater",
+      "type": "place"
+    },
+    {
+      "name": "Armageddon",
+      "type": "work"
+    },
+    {
+      "name": "Deep Impact",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and NASA's shift toward Earth monitoring",
+      "summary": "Hosts banter and introduce the question of whether NASA can predict natural disasters, noting NASA is turning its remote sensing equipment toward Earth as private space exploration grows.",
+      "topics": [
+        "NASA",
+        "remote sensing",
+        "Earth monitoring"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Remote sensing and early detection",
+      "summary": "They define remote sensing as detecting reflected energy from afar and explain that the goal is early detection, since hurricanes, volcanoes and earthquakes cannot be stopped but warnings can save lives.",
+      "topics": [
+        "remote sensing",
+        "early detection",
+        "disaster warning"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "GRIP study of tropical storm formation",
+      "summary": "A summer 2010 NASA project called GRIP flew a Gulf Stream jet to measure the beginnings of tropical storms; the hosts describe the proposed formation mechanism from its data, which is not yet fully proven.",
+      "topics": [
+        "GRIP",
+        "tropical storm formation",
+        "hurricane formation",
+        "hurricane prediction"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "GRACE twin satellites and Earth's gravity",
+      "summary": "The GRACE twin satellites measure changes in Earth's gravitational field, which reflect changing mass such as melting polar ice and Greenland ice loss, with implications for sea level, climate and GPS accuracy.",
+      "topics": [
+        "GRACE satellites",
+        "gravity field",
+        "polar ice melt",
+        "Greenland ice sheet",
+        "sea level rise",
+        "Potsdam gravity potato"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "GPM precipitation tracking, floods and landslides",
+      "summary": "NASA and JAXA's Global Precipitation Measurement mission tracks worldwide rainfall to predict floods and landslides, recalling the hosts' visit to a landslide-hit village in Guatemala.",
+      "topics": [
+        "GPM",
+        "precipitation tracking",
+        "floods",
+        "landslides",
+        "JAXA"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "LIDAR topography for volcanoes and earthquakes",
+      "summary": "A LIDAR-based topography program is described as improving resolution from thirty meters to five meters, letting scientists detect ground swelling before volcanic eruptions and monitor fault lines; cloud cover limits these observations.",
+      "topics": [
+        "LIDAR",
+        "volcano deformation",
+        "earthquake prediction",
+        "fault monitoring",
+        "cloud interference"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Near-Earth objects and asteroid deflection",
+      "summary": "The hosts discuss NASA's tracking of near-Earth objects, the rarity of large impacts, and proposed methods such as nuclear devices to nudge asteroids off course given enough lead time.",
+      "topics": [
+        "near-Earth objects",
+        "asteroid impact",
+        "asteroid deflection",
+        "Chicxulub impact",
+        "Armageddon"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "All Sky Fireball Network",
+      "summary": "NASA's All Sky Fireball Network of internet-connected night-sky cameras, mostly on the Eastern Seaboard, tracks fireballs, and the public can apply to host a camera.",
+      "topics": [
+        "All Sky Fireball Network",
+        "fireballs",
+        "citizen science"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A short message break is taken during the episode.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:40:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Amber and Ben",
+      "summary": "A listener couple who binge-listen on road trips write that they initially found the show condescending, then changed their minds after learning the conversations are not scripted.",
+      "topics": [
+        "listener mail",
+        "unscripted conversation"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:41:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners, invite social media contact, and point to the website for more on NASA and other topics.",
+      "topics": [
+        "outro",
+        "website"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9773,
+    "output_tokens": 2659
+  }
+}

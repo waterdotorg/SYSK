@@ -1,0 +1,156 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-10-20_Short_Stuff_Bloody_Mary_13min.txt",
+  "title": "Short Stuff: Bloody Mary",
+  "date": "2021-10-20",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-bloody-mary",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ea1e8b6c-b12a-43a9-99cd-ae2800062669/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ea1e8b6c-b12a-43a9-99cd-ae2800062669/transcript?format=TextWithTimestamps&t=1700539653",
+  "summary": "Short Stuff episode on Bloody Mary, the mirror-chanting game and folklore figure. The hosts cover the game's variations (chanting the name, spinning thirteen times, pricking fingers, \"Mary Worth, I believe\"), regional names such as Black Agnes and Black Aggie, and the Mary Worth comic strip. They trace the legend to Queen Mary I of England (Bloody Mary) and to Elizabeth Báthory, and note that the figure may be a mix of traditions. They describe Janet Langlois as the first folklorist to write about it, Giovanni Caputo's 2010 mirror-gazing experiment, and the perceptual explanation for distorted faces. Origin theories include a Robert Burns Halloween poem (1786) about mirror divination, and a possible link to a girl's first menstruation ritual.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Bloody Mary",
+    "Bloody Mary mirror game",
+    "mirror divination",
+    "urban legend",
+    "American folklore",
+    "Janet Langlois",
+    "Queen Mary I",
+    "Elizabeth Báthory",
+    "Mary Worth comic strip",
+    "Giovanni Caputo mirror experiment",
+    "mirror gazing perception",
+    "Robert Burns Halloween poem",
+    "slumber party games",
+    "girls coming-of-age ritual",
+    "Halloween folklore",
+    "sleepover ghost game"
+  ],
+  "entities": [
+    {
+      "name": "Bloody Mary",
+      "type": "other"
+    },
+    {
+      "name": "Janet Langlois",
+      "type": "person"
+    },
+    {
+      "name": "Queen Mary I",
+      "type": "person"
+    },
+    {
+      "name": "Elizabeth Báthory",
+      "type": "person"
+    },
+    {
+      "name": "Giovanni Caputo",
+      "type": "person"
+    },
+    {
+      "name": "Robert Burns",
+      "type": "person"
+    },
+    {
+      "name": "Mary Worth",
+      "type": "work"
+    },
+    {
+      "name": "Halloween",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and the Bloody Mary game",
+      "summary": "The hosts introduce Bloody Mary as a mirror-chanting game for kids, describe its variations and the outcomes players imagine, and say the legend is American folklore.",
+      "topics": [
+        "Bloody Mary",
+        "mirror game",
+        "American folklore"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Janet Langlois and regional names",
+      "summary": "Janet Langlois is named as the first folklorist to write about the game. The hosts list regional names such as Hell Mary, Mary Worth, and Black Agnes, and discuss the Mary Worth comic strip.",
+      "topics": [
+        "Janet Langlois",
+        "regional names for Bloody Mary",
+        "Mary Worth comic strip",
+        "comic strips"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Origins: Queen Mary I and Elizabeth Báthory",
+      "summary": "The hosts link the name to Queen Mary I of England, who ordered Protestants burned, but note she did not do the killing the legend describes. They suggest Elizabeth Báthory fits the blood-bathing traits better, and say the origin may be a mix of influences or coincidence.",
+      "topics": [
+        "Queen Mary I",
+        "Bloody Mary name origin",
+        "Elizabeth Báthory",
+        "serial killers in folklore"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:08:00",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Break between segments.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Game variations and the Caputo mirror experiment",
+      "summary": "The hosts describe more variations, including spinning, pricking fingers, and chanting 'Mary Worth, I believe'. They discuss a 2010 experiment by Giovanni Caputo in which people stared into a mirror in dim light and reported distorted faces, and the perceptual explanation for it.",
+      "topics": [
+        "Giovanni Caputo mirror experiment",
+        "mirror gazing perception",
+        "game variations",
+        "face pareidolia"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Possible origins: Robert Burns and coming-of-age rituals",
+      "summary": "The hosts discuss a theory linking the game to a Robert Burns Halloween poem about mirror divination for marriage, where a skull signals an early death. They also mention a theory tying the game to a girl's first menstruation ritual, and the lack of such rituals in American culture.",
+      "topics": [
+        "Robert Burns Halloween poem",
+        "mirror divination",
+        "girls coming-of-age ritual",
+        "origin theories"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up the Bloody Mary episode and close the short.",
+      "topics": [
+        "Halloween"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5330,
+    "output_tokens": 1813
+  }
+}

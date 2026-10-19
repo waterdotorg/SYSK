@@ -1,0 +1,221 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-09-08_What_is_geocaching_28min.txt",
+  "title": "What is geocaching?",
+  "date": "2009-09-08",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-is-geocaching",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0e36dccc-8ab1-4707-b1f1-ae2800bd19cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0e36dccc-8ab1-4707-b1f1-ae2800bd19cb/transcript?format=TextWithTimestamps&t=1700543982",
+  "summary": "Josh and Chuck explain geocaching: its origins in the 2000 end of GPS selective availability (after Korean Air Lines Flight 007 and Reagan's directive), Dave Ulmer's first cache in 2000 and the \"take some stuff, leave some stuff\" model, and how the hobby works. They cover required gear (GPS receiver, a post-1984 topographic map, supplies), cache etiquette (log books, trinkets, no drugs or alcohol, maintaining caches, avoiding private, historic, and park land), variants (multi-caches, mystery caches, letterbox hybrids, virtual caches, hitchhiker caches and geocoins), lingo (CITO, TNLN, FTF, muggles, spoilers), and a Philadelphia Franklin Institute King Tut promotion. They close with a plug for the webcast and blog and two listener mails.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "geocaching",
+    "GPS",
+    "GPS receiver",
+    "selective availability",
+    "Korean Air Lines Flight 007",
+    "Ronald Reagan GPS directive",
+    "Bill Clinton GPS executive order",
+    "Dave Ulmer",
+    "first geocache",
+    "hitchhiker cache",
+    "geocoins",
+    "travel bugs",
+    "multi-cache",
+    "mystery cache",
+    "letterbox hybrid",
+    "virtual cache",
+    "geo muggles",
+    "CITO cache in trash out",
+    "TNLN",
+    "FTF first to find",
+    "topographic map",
+    "WGS 84 datum",
+    "Franklin Institute King Tut geocaching promotion",
+    "geocaching etiquette",
+    "geocaching lingo",
+    "treasure hunt"
+  ],
+  "entities": [
+    {
+      "name": "Geocaching",
+      "type": "event"
+    },
+    {
+      "name": "Korean Air Lines Flight 007",
+      "type": "event"
+    },
+    {
+      "name": "Global Positioning System",
+      "type": "other"
+    },
+    {
+      "name": "Dave Ulmer",
+      "type": "person"
+    },
+    {
+      "name": "Mike Teague",
+      "type": "person"
+    },
+    {
+      "name": "Matt Stum",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Strickland",
+      "type": "person"
+    },
+    {
+      "name": "Marshall Brain",
+      "type": "person"
+    },
+    {
+      "name": "Tom Harris",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "Bill Clinton",
+      "type": "person"
+    },
+    {
+      "name": "Franklin Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Geocaching.com",
+      "type": "organization"
+    },
+    {
+      "name": "New Hampshire",
+      "type": "place"
+    },
+    {
+      "name": "Philadelphia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and housing prices",
+      "summary": "Chuck mentions his wife's soap business and a grand opening, Josh mentions Detroit house prices, and they introduce geocaching after listener requests.",
+      "topics": [
+        "banter",
+        "Detroit housing prices"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Origins: Flight 007, selective availability, and GPS",
+      "summary": "Korean Air Lines Flight 007 was shot down after entering Soviet airspace, prompting Reagan to make GPS commercially available. The public signal had intentional degradation (selective availability) of about 300 feet, which Clinton ordered removed, happening in 2000 rather than 2006.",
+      "topics": [
+        "Korean Air Lines Flight 007",
+        "selective availability",
+        "GPS history",
+        "Reagan GPS",
+        "Clinton executive order"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Dave Ulmer's first cache",
+      "summary": "Handheld GPS devices hit the market, and Dave Ulmer hid a container and posted its coordinates online with the phrase 'take some stuff, leave some stuff.' Mike Teague was the first to find it, and the hobby was initially called GPS stash hunt before the name geocaching was coined, credited to Matt Stum.",
+      "topics": [
+        "Dave Ulmer",
+        "first geocache",
+        "GPS stash hunt",
+        "geocaching name origin",
+        "Mike Teague"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "What geocaching is and mapping requirements",
+      "summary": "Geocaching is described as a treasure hunt using GPS coordinates from websites. Participants need a GPS receiver, internet access, and a topographic map made after 1984 because the WGS 84 datum replaced the North American datum of 1927, to avoid mismatches with GPS.",
+      "topics": [
+        "geocaching definition",
+        "WGS 84",
+        "North American datum 1927",
+        "topographic maps",
+        "GPS receiver"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Gear and choosing a cache",
+      "summary": "Recommended gear includes flashlight, bug spray, sunblock, hiking boots, water, and extra batteries. Geocaching.com is named as a main site, and beginners are advised to choose a nearby cache.",
+      "topics": [
+        "geocaching gear",
+        "geocaching.com",
+        "beginner geocaching"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Cache contents, etiquette, and hiding rules",
+      "summary": "Caches contain trinkets such as CDs and handmade items; drugs and alcohol are not allowed. Hiders should label caches with contact info, since a cache in a New Hampshire supermarket caused a panic. The log book is essential, and caches should be kept clean and maintained. Caches should avoid private land, national parks, historic and archaeological sites, and high-traffic areas.",
+      "topics": [
+        "cache contents",
+        "geocaching etiquette",
+        "log book",
+        "cache maintenance",
+        "where not to hide caches",
+        "New Hampshire cache scare",
+        "hitchhiker cache"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Variations and lingo",
+      "summary": "Variants include multi-caches, mystery caches, letterbox hybrids, and virtual caches. Lingo includes CITO (cache in trash out), TNLN (took nothing left nothing), FTF (first to find), muggles, and spoilers. A Philadelphia Franklin Institute King Tut promotion in 2007 used a geocaching game.",
+      "topics": [
+        "multi-cache",
+        "mystery cache",
+        "letterbox hybrid",
+        "virtual cache",
+        "geocaching lingo",
+        "CITO",
+        "geo muggles",
+        "Franklin Institute King Tut promotion"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:28:00",
+      "kind": "listener_mail",
+      "title": "Plugs, further reading, and listener mail",
+      "summary": "Chuck and Josh plug the Wednesday webcast and blog, recommend Strickland's and others' articles, and read two listener mails: one about an older woman at a gym, and one about Wisconsin city pronunciations from a pen pal named Danielle.",
+      "topics": [
+        "listener mail",
+        "webcast plug",
+        "Wisconsin pronunciation",
+        "gym listener story"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10325,
+    "output_tokens": 2539
+  }
+}

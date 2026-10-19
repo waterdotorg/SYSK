@@ -1,0 +1,299 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-01-08_The_SAD_Episode_51min.txt",
+  "title": "The SAD Episode",
+  "date": "2026-01-08",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-sad-episode",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c2cf4e7b-3925-46bc-93cf-b3cc001f1326/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c2cf4e7b-3925-46bc-93cf-b3cc001f1326/transcript?format=TextWithTimestamps&t=1767838841",
+  "summary": "Josh and Chuck open the new year with holiday banter, then explore seasonal affective disorder (SAD): its clinical classification, symptoms (winter and rarer summer patterns), risk factors (latitude, sex, genetics, existing mood disorders), the serotonin and melatonin mechanisms, treatments (SSRIs, CBT, bright light therapy, dawn simulation), and the contested status of SAD in scientific literature, including Tromsø, Norway. The episode closes with a listener email about kids playing with dolls.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "seasonal affective disorder",
+    "SAD",
+    "winter depression",
+    "winter blues",
+    "summer SAD",
+    "reverse seasonal depression",
+    "serotonin",
+    "serotonin transporter",
+    "melatonin",
+    "circadian rhythm",
+    "suprachiasmatic nucleus",
+    "bright light therapy",
+    "dawn simulation",
+    "SSRI treatment",
+    "cognitive behavioral therapy",
+    "major depressive disorder with seasonal pattern",
+    "DSM",
+    "Norman Rosenthal",
+    "latitude and depression",
+    "Tromsø Norway",
+    "seasonal sleep changes",
+    "suicide seasonality",
+    "vitamin D and depression",
+    "listener mail",
+    "bipolar disorder"
+  ],
+  "entities": [
+    {
+      "name": "Seasonal affective disorder",
+      "type": "other"
+    },
+    {
+      "name": "Norman Rosenthal",
+      "type": "person"
+    },
+    {
+      "name": "Tromsø",
+      "type": "place"
+    },
+    {
+      "name": "Vincenzo Chiarugi",
+      "type": "person"
+    },
+    {
+      "name": "Diagnostic and Statistical Manual of Mental Disorders",
+      "type": "work"
+    },
+    {
+      "name": "National Institutes of Health",
+      "type": "organization"
+    },
+    {
+      "name": "Scientific American",
+      "type": "organization"
+    },
+    {
+      "name": "The Investigation",
+      "type": "work"
+    },
+    {
+      "name": "Jimmy Buffett",
+      "type": "person"
+    },
+    {
+      "name": "Seattle",
+      "type": "place"
+    },
+    {
+      "name": "Quest for Fire",
+      "type": "work"
+    },
+    {
+      "name": "Neanderthals",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:00",
+      "kind": "intro",
+      "title": "New year banter and holiday recap",
+      "summary": "Josh and Chuck catch up on New Year's Day recording, Chuck's Broadway trip and Radio City Christmas show, and Josh's cold over the holidays.",
+      "topics": [
+        "holiday recap",
+        "Broadway",
+        "Radio City Christmas Spectacular",
+        "Rockettes"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Introduction to SAD and its classification",
+      "summary": "The hosts introduce seasonal affective disorder as a real depressive disorder, not the winter blues. They cover its DSM classification, the 1984 NIH paper by Norman Rosenthal, prevalence estimates, and the summer variant. They also discuss risk factors such as sex, age, existing mood disorders, and latitude, and a Seattle ranking.",
+      "topics": [
+        "SAD diagnosis",
+        "DSM classification",
+        "Norman Rosenthal 1984 study",
+        "prevalence",
+        "summer SAD",
+        "risk factors",
+        "latitude",
+        "Seattle"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:20",
+      "kind": "content",
+      "title": "Symptoms and when to see a doctor",
+      "summary": "The hosts list winter SAD symptoms such as oversleeping, carb cravings, and weight gain, and contrast them with the opposite summer symptoms. They describe the feedback loop of depression, four warning signs for seeing a professional, the two-year diagnostic guideline, and the diagnostic process.",
+      "topics": [
+        "SAD symptoms",
+        "oversleeping",
+        "carbohydrate cravings",
+        "summer SAD symptoms",
+        "feedback loop",
+        "when to see a doctor",
+        "diagnosis process"
+      ]
+    },
+    {
+      "start": "00:18:20",
+      "end": "00:19:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Evolutionary origins, sleep, and appetite",
+      "summary": "The hosts discuss hibernation-like winter slowdown theories, including Neanderthal interbreeding, a 2015 study of the Tsimane and San people sleeping longer in winter, a 2023 German study on sleep cycles, and seasonal appetite changes. They also cover seasonality of suicide, which peaks in spring and summer rather than during the holidays.",
+      "topics": [
+        "evolutionary theory",
+        "Neanderthal hybridization",
+        "winter sleep",
+        "Tsimane and San people",
+        "appetite changes",
+        "holiday cookies",
+        "suicide seasonality"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:28:40",
+      "kind": "content",
+      "title": "Latitude and daylight study",
+      "summary": "The hosts cite a 2025 South Korean meta-analysis of 24 studies with about 30,000 participants, finding SAD rises with latitude. They mention the Jimmy Buffett song reference.",
+      "topics": [
+        "latitude meta-analysis",
+        "daylight length",
+        "SAD prevalence by latitude"
+      ]
+    },
+    {
+      "start": "00:28:40",
+      "end": "00:33:05",
+      "kind": "content",
+      "title": "Serotonin and the serotonin transporter",
+      "summary": "The hosts explain how reduced sunlight on the retina lowers serotonin in winter. In people with SAD, serotonin transporter activity does not drop in step, leaving less free serotonin. They also discuss estrogen's role in sex differences and the genetic short allele of the serotonin transporter gene promoter.",
+      "topics": [
+        "serotonin",
+        "serotonin transporter gene",
+        "short allele",
+        "estrogen and SAD",
+        "genetics of depression"
+      ]
+    },
+    {
+      "start": "00:33:05",
+      "end": "00:36:50",
+      "kind": "content",
+      "title": "Melatonin, circadian rhythm, and the SCN",
+      "summary": "The hosts explain melatonin's role in sleepiness and lethargy, the circadian rhythm controlled by the suprachiasmatic nucleus, the role of light as a zeitgeber, cortisol, and the finding that retinas respond less to light in winter. They also introduce social and environmental factors such as dread of winter.",
+      "topics": [
+        "melatonin",
+        "circadian rhythm",
+        "suprachiasmatic nucleus",
+        "zeitgebers",
+        "cortisol",
+        "retina light sensitivity",
+        "environmental factors"
+      ]
+    },
+    {
+      "start": "00:36:50",
+      "end": "00:37:05",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:37:05",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Treatments: SSRIs, CBT, and bright light therapy",
+      "summary": "The hosts discuss SSRI antidepressants, including seasonal ramp-up and taper, and cognitive behavioral therapy. They cover bright light therapy, including its history back to Vincenzo Chiarugi, light visors, UV protection, and library light box rentals in Northern Ireland. They also discuss dawn simulation alarm clocks.",
+      "topics": [
+        "SSRI treatment",
+        "CBT",
+        "bright light therapy",
+        "light box",
+        "dawn simulation",
+        "light visors",
+        "Vincenzo Chiarugi",
+        "treatment"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:35",
+      "kind": "content",
+      "title": "Vitamin D and personal anecdotes on waking",
+      "summary": "The hosts mention vitamin D deficiency being correlated with SAD, though supplement evidence is weak. Chuck and Josh swap alarm clock memories and sleep habits.",
+      "topics": [
+        "vitamin D",
+        "alarm clocks",
+        "sleep habits"
+      ]
+    },
+    {
+      "start": "00:45:35",
+      "end": "00:48:15",
+      "kind": "content",
+      "title": "Tromsø and skepticism about SAD",
+      "summary": "The hosts discuss Tromsø, Norway, where long winter darkness is not linked to high SAD rates, and attribute this partly to attitudes and winter traditions. They describe a 2016 study from Auburn University Montgomery finding no seasonal variation in depression using CDC data. They note that major health sites still recognize SAD and that a Scientific American link was missing.",
+      "topics": [
+        "Tromsø",
+        "Norway",
+        "attitude and winter",
+        "skepticism about SAD",
+        "2016 CDC data study",
+        "Scientific American"
+      ]
+    },
+    {
+      "start": "00:48:15",
+      "end": "00:49:10",
+      "kind": "content",
+      "title": "Danish true crime recommendation",
+      "summary": "Josh recommends the Danish series The Investigation, and Chuck praises Scandinavian film.",
+      "topics": [
+        "The Investigation",
+        "Danish television",
+        "Scandinavian crime drama"
+      ]
+    },
+    {
+      "start": "00:49:10",
+      "end": "00:50:40",
+      "kind": "listener_mail",
+      "title": "Listener mail: Megan from Michigan on kids and dolls",
+      "summary": "A listener from Michigan writes that her children acted out disturbing-seeming scenarios with dolls, including funerals, and that she learned it was normal play.",
+      "topics": [
+        "listener mail",
+        "childhood play",
+        "dolls"
+      ]
+    },
+    {
+      "start": "00:50:40",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh invites listeners to send in stories about their kids, and the show credits iHeartRadio.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18817,
+    "output_tokens": 3180
+  }
+}

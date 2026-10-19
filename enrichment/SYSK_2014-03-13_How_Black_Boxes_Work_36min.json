@@ -1,0 +1,203 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-03-13_How_Black_Boxes_Work_36min.txt",
+  "title": "How Black Boxes Work",
+  "date": "2014-03-13",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-black-boxes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3745620e-e84e-4ee8-8599-ae280099f8f0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3745620e-e84e-4ee8-8599-ae280099f8f0/transcript?format=TextWithTimestamps&t=1700543885",
+  "summary": "Josh and Chuck explain black boxes in aviation: the flight data recorder, cockpit voice recorder, and crash survivable memory unit that together make up the so-called black box. They cover the history (V. A. Hoff-era flight recording, David Warren's cockpit voice recorder after a mysterious crash, Australian mandates), the shift from magnetic tape to solid-state memory, what sensors and microphones feed the recorders, why they sit in the tail, the crash survivability testing (impact, pin drop, static crush, fire, deep-sea and saltwater immersion), underwater locator beacon pings, recovery of Air France Flight 447 data after two years, how investigators reconstruct crashes, and black box-style recorders in cars and trains. The episode opens with a listener request from Cormack and closes with a listener mail item about kosher meat and salt.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "black boxes",
+    "flight data recorder",
+    "cockpit voice recorder",
+    "crash survivable memory unit",
+    "aviation safety",
+    "plane crash investigation",
+    "crash survivability testing",
+    "underwater locator beacon",
+    "solid state recorder",
+    "magnetic tape recorder",
+    "David Warren",
+    "Air France Flight 447",
+    "NTSB",
+    "FAA regulations",
+    "SAFE Act",
+    "flight data acquisition unit",
+    "black box in cars",
+    "kosher meat",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Air France Flight 447",
+      "type": "event"
+    },
+    {
+      "name": "David Warren",
+      "type": "person"
+    },
+    {
+      "name": "National Transportation Safety Board",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Aviation Administration",
+      "type": "organization"
+    },
+    {
+      "name": "SAFE Act",
+      "type": "work"
+    },
+    {
+      "name": "Roswell, New Mexico",
+      "type": "place"
+    },
+    {
+      "name": "Atlantic Ocean",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and listener request",
+      "summary": "Hosts introduce the episode as a request from a young listener, Cormack, and briefly ask a listener to contact them about day planners.",
+      "topics": [
+        "listener request",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "What black boxes are and history of flight recording",
+      "summary": "Hosts clarify that black boxes are orange, not black, and that the term covers the flight data recorder, cockpit voice recorder, and crash survivable memory unit. They trace early flight recording, including a 1940s Finnish engineer and a possible Wright Brothers propeller recorder, and Australian David Warren, who added cockpit audio after a mysterious crash.",
+      "topics": [
+        "black box history",
+        "David Warren",
+        "cockpit voice recorder origin",
+        "Australia aviation mandate",
+        "black box name origin"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Magnetic tape to solid-state recorders",
+      "summary": "Early recorders used magnetic tape that overwrote itself about every thirty minutes. Solid-state memory replaced it, with greater capacity, durability, and recoverability. Recorders cost roughly ten to fifteen thousand dollars and are installed by manufacturers.",
+      "topics": [
+        "magnetic tape recorder",
+        "solid state memory",
+        "FAA rule 2005",
+        "recorder cost",
+        "aircraft manufacturers"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "What the recorders capture",
+      "summary": "Hundreds of sensors feed the Flight Data Acquisition Unit, which records up to around seven hundred parameters such as airspeed, altitude, cabin pressure, and switch positions. Cockpit microphones and in some newer planes video cameras capture the cockpit audio. Recorders are located at the tail because the rear is more likely to survive impact.",
+      "topics": [
+        "flight data acquisition unit",
+        "flight parameters",
+        "cockpit microphones",
+        "cockpit video",
+        "tail placement of recorders"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Final words from cockpit recordings and FAA recording requirements",
+      "summary": "Hosts mention websites that collect last words from recordings and discuss how sensitive they are. They then cover FAA minimum parameter requirements, the cost dispute with the airline industry, and the stalled SAFE Act proposal for a second, rear-deployable recorder.",
+      "topics": [
+        "cockpit last words",
+        "FAA minimum parameters",
+        "airline industry lobbying",
+        "SAFE Act",
+        "NTSB recommendations"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Construction and layers of crash survivable memory unit",
+      "summary": "The memory unit has an aluminum housing around the memory modules, dry silica insulation for fire protection, and a stainless steel or titanium outer shell. The hosts describe its shape and the attached beacon handle.",
+      "topics": [
+        "crash survivable memory unit construction",
+        "silica insulation",
+        "titanium shell",
+        "underwater beacon design"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Crash survivability tests",
+      "summary": "The unit is tested by air-cannon impact into aluminum honeycomb, a spike drop from ten feet, a static crush of five thousand pounds per square inch, a fire test at about two thousand degrees Fahrenheit, deep-sea and saltwater immersion, and soaking in fluids like jet fuel.",
+      "topics": [
+        "crash testing",
+        "g-force impact test",
+        "fire test",
+        "immersion test",
+        "jet fuel exposure"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Finding, recovering, and analyzing black boxes",
+      "summary": "The underwater beacon activates on water contact and pings for about thirty days, detectable by sonar to around fourteen thousand feet. Air France Flight 447's recorders were found after two years in about twelve thousand feet of water. Recovered units are transported in seawater, data is downloaded or retrieved from memory modules, and investigators, manufacturers, and translators reconstruct the crash with simulations and wreckage reassembly.",
+      "topics": [
+        "underwater locator beacon",
+        "ping",
+        "Air France 447 recovery",
+        "data retrieval",
+        "crash reconstruction",
+        "NTSB investigation"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Black boxes in trains and cars",
+      "summary": "Recorders are used on trains and some car makers install them to track speed and driving for insurance. The hosts note controversy, including UK traffic tickets, and say the goal is learning from tragedy and preventing future accidents.",
+      "topics": [
+        "car black box",
+        "insurance telematics",
+        "train recorders",
+        "driving data"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:36:00",
+      "kind": "ad",
+      "title": "Closing and sign-off",
+      "summary": "Hosts close the main content, mention the Cormack request, and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12395,
+    "output_tokens": 2539
+  }
+}

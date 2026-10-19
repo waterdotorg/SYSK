@@ -1,0 +1,315 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-06-30_How_Lighthouses_Work_45min.txt",
+  "title": "How Lighthouses Work",
+  "date": "2016-06-30",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-lighthouses-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d028aba1-7a18-4395-a5b3-ae2800828735/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d028aba1-7a18-4395-a5b3-ae2800828735/transcript?format=TextWithTimestamps&t=1700543832",
+  "summary": "Josh Clark and Chuck Bryant explore how lighthouses work and their history: early wood and coal fires, tar and whale blubber fuel, the Fresnel lens invented by Augustine Fresnel, the light signatures (fixed, occulting, flashing, isophase, group flashing, Morse code) used to tell lighthouses apart, and day marks. They cover Minot's Ledge \"I Love You\" light, the Pharos of Alexandria, Henry Winstanley and the Eddystone Lighthouse with John Smeaton's design, the US Lighthouse Board and Stephen Pleasant's cheap lens era, the Statue of Liberty serving as a lighthouse, the decline of lightkeepers and automation, lightships and fog bells, Ida Lewis's rescues, the National Historic Lighthouse Preservation Act of 2000 letting groups acquire decommissioned lighthouses, Cape Hatteras's relocation, and lighthouse statistics. The episode includes off-topic banter about gin and cocktails, and ends with a listener email about controlled burns and the sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "lighthouses",
+    "how lighthouses work",
+    "Fresnel lens",
+    "lighthouse history",
+    "light signature",
+    "Minot's Ledge light",
+    "Eddystone Lighthouse",
+    "Pharos of Alexandria",
+    "US Lighthouse Board",
+    "lightkeepers",
+    "lightships",
+    "fog bell",
+    "Ida Lewis",
+    "National Historic Lighthouse Preservation Act",
+    "Cape Hatteras lighthouse relocation",
+    "day mark",
+    "lighthouse fuel whale oil lard",
+    "Statue of Liberty lighthouse",
+    "Brewster Island lighthouse",
+    "Coast Guard lighthouse automation",
+    "controlled burns listener mail",
+    "occulting light",
+    "isophase light",
+    "Morse code light"
+  ],
+  "entities": [
+    {
+      "name": "Augustine Fresnel",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Pleasant",
+      "type": "person"
+    },
+    {
+      "name": "Henry Winstanley",
+      "type": "person"
+    },
+    {
+      "name": "John Smeaton",
+      "type": "person"
+    },
+    {
+      "name": "Ida Lewis",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Hamilton",
+      "type": "person"
+    },
+    {
+      "name": "Fresnel lens",
+      "type": "other"
+    },
+    {
+      "name": "Minot's Ledge Light",
+      "type": "place"
+    },
+    {
+      "name": "Eddystone Lighthouse",
+      "type": "place"
+    },
+    {
+      "name": "Pharos of Alexandria",
+      "type": "place"
+    },
+    {
+      "name": "Cape Hatteras Lighthouse",
+      "type": "place"
+    },
+    {
+      "name": "Boston Light",
+      "type": "place"
+    },
+    {
+      "name": "Brewster Island",
+      "type": "place"
+    },
+    {
+      "name": "Statue of Liberty",
+      "type": "place"
+    },
+    {
+      "name": "Lime Rock Island",
+      "type": "place"
+    },
+    {
+      "name": "US Lighthouse Board",
+      "type": "organization"
+    },
+    {
+      "name": "Coast Guard",
+      "type": "organization"
+    },
+    {
+      "name": "Trinity House",
+      "type": "organization"
+    },
+    {
+      "name": "National Historic Lighthouse Preservation Act of 2000",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and love of lighthouses",
+      "summary": "Hosts share their fondness for lighthouses, childhood lighthouse climbing, and the appeal of antiquated systems that could still work after an apocalypse; brief movie tangents.",
+      "topics": [
+        "lighthouse fondness",
+        "post-apocalyptic lighthouses"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Day marks and light signatures",
+      "summary": "Lighthouses are painted in distinctive patterns (day marks) so they can be told apart, and the light book documents them. Lights flash in signatures: fixed, occulting, flashing, isophase, group flashing, and Morse code. Minot's Ledge in Boston is known as the 'I Love You' light.",
+      "topics": [
+        "day marks",
+        "light signature",
+        "occulting light",
+        "isophase light",
+        "group flashing light",
+        "Minot's Ledge I Love You light",
+        "Morse code light"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Early lighthouse fires and fuel",
+      "summary": "Early lighthouses used open wood, coal, or tar fires. Soot fouled the lantern glass, so keepers cleaned it and fuel was switched to cleaner-burning blubber and lard, particularly in New England.",
+      "topics": [
+        "early lighthouse fires",
+        "lighthouse fuel",
+        "whale blubber lamp oil",
+        "lantern soot"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Fresnel lens and modern lighthouse brightness",
+      "summary": "Augustine Fresnel invented the Fresnel lens in 1822, using prisms to concentrate light into a beam visible for many miles. Modern lighthouses range from ten thousand to a million candelas, and the hosts discuss how to understand a candela.",
+      "topics": [
+        "Fresnel lens",
+        "candela brightness",
+        "lighthouse optics"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Lighthouse construction history: Alexandria, Eddystone, and Minot's Ledge",
+      "summary": "Early lighthouses were wooden and vulnerable. The Pharos of Alexandria was masonry and very sturdy. Henry Winstanley built and lost the wooden Eddystone light; John Smeaton's later design tapers and flares below the lantern as a water guard, and a later version used interlocking stone. Minot's Ledge is underwater at high tide and was built in the nineteenth century.",
+      "topics": [
+        "Pharos of Alexandria",
+        "Eddystone Lighthouse",
+        "Henry Winstanley",
+        "John Smeaton lighthouse design",
+        "lighthouse construction",
+        "Minot's Ledge"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Lightkeeper life and pay",
+      "summary": "Lighthouses were often family businesses in remote places, sometimes with a family home and staffed by several keepers on shifts at stag stations. Keepers earned about two thousand dollars annually in the late nineteenth century, roughly five thousand today by the hosts' calculation. The hosts discuss the appeal of the solitary life.",
+      "topics": [
+        "lightkeepers",
+        "stag station",
+        "lightkeeper pay",
+        "life as a lighthouse keeper"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Ida Lewis and lighthouse life-saving",
+      "summary": "Lightkeepers, including women and African American keepers, sometimes performed rescues. Ida Lewis of Lime Rock Island near Newport, Rhode Island, took over after her father's stroke and rescued many people. Life-saving houses were placed near lighthouses, and the US Life Saving Service later merged into the Coast Guard.",
+      "topics": [
+        "Ida Lewis",
+        "lighthouse rescues",
+        "US Life Saving Service",
+        "Coast Guard merger"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Lightships and fog bells",
+      "summary": "Before offshore buoys, lightships were anchored lighthouses where crews lived for months. Without foghorns, keepers rang fog bells every ten seconds during fog, an arduous and hated duty.",
+      "topics": [
+        "lightships",
+        "fog bell",
+        "offshore lighthouses",
+        "buoys"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "US Lighthouse Board, Stephen Pleasant, and federal government role",
+      "summary": "The US initially relied on private management; Stephen Pleasant ran the system cheaply for about thirty years and skipped the French Fresnel lenses. After a near shipwreck involving Alexander Hamilton, Congress established the Lighthouse Board, which upgraded the system and adopted lenses. By 1900 about a thousand lighthouses existed.",
+      "topics": [
+        "US Lighthouse Board",
+        "Stephen Pleasant",
+        "federal lighthouse system",
+        "Alexander Hamilton lighthouses"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:04:00",
+      "kind": "content",
+      "title": "Statue of Liberty and decline of lightkeepers",
+      "summary": "The Statue of Liberty served as a lighthouse for fifteen years. Electricity spread, but many offshore lighthouses still used oil into the twentieth century. Coast Guard automation in the 1960s cut staffed lighthouses to about sixty. Brewster Island in Boston still has a keeper today, who serves partly as a tour guide.",
+      "topics": [
+        "Statue of Liberty lighthouse",
+        "lighthouse automation",
+        "Coast Guard lighthouses",
+        "Brewster Island lighthouse"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:12:00",
+      "kind": "ad",
+      "title": "Break and off-topic drinks banter",
+      "summary": "A break followed by off-topic conversation about gin, cocktails, Plymouth gin, and vermouth. Not substantively about lighthouses.",
+      "topics": [
+        "gin",
+        "cocktails",
+        "martini"
+      ]
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:20:00",
+      "kind": "content",
+      "title": "Lighthouse preservation and ownership",
+      "summary": "Under the National Historic Lighthouse Preservation Act of 2000, the Coast Guard can transfer decommissioned lighthouses at no cost to nonprofits that maintain them and open them to the public; otherwise they are auctioned.",
+      "topics": [
+        "National Historic Lighthouse Preservation Act",
+        "lighthouse ownership",
+        "decommissioned lighthouses"
+      ]
+    },
+    {
+      "start": "01:20:00",
+      "end": "01:30:00",
+      "kind": "content",
+      "title": "Famous lighthouses and fast facts",
+      "summary": "Cape Hatteras Lighthouse was moved inland about 2,900 feet in 23 days because the sea was encroaching. Lighthouse statistics: about 680 remain in the US out of roughly a thousand; 37 states have them, Michigan the most; worldwide about 17,000 in 150 countries; Oak Island in North Carolina is among the brightest at 14 million candlepower.",
+      "topics": [
+        "Cape Hatteras lighthouse",
+        "lighthouse statistics",
+        "brightest lighthouse",
+        "lighthouses by state"
+      ]
+    },
+    {
+      "start": "01:30:00",
+      "end": "01:33:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: controlled burns",
+      "summary": "Listener Tracy from Ohio, who worked for a county park system, describes controlled burn operations, burn bosses, and how charred earth absorbs heat for early germination.",
+      "topics": [
+        "controlled burns",
+        "prescribed fire",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "01:33:00",
+      "end": "01:34:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners and point to website, social media, and email contacts.",
+      "topics": [
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14528,
+    "output_tokens": 3943
+  }
+}

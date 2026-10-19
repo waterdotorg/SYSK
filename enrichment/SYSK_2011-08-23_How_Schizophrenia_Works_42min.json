@@ -1,0 +1,316 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-08-23_How_Schizophrenia_Works_42min.txt",
+  "title": "How Schizophrenia Works",
+  "date": "2011-08-23",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-schizophrenia-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3946cf1e-b058-46f4-9139-ae2800ae071c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3946cf1e-b058-46f4-9139-ae2800ae071c/transcript?format=TextWithTimestamps&t=1700543936",
+  "summary": "Josh and Chuck explain schizophrenia: its history (Kraepelin's dementia praecox classification, Bleuler coining the name in 1911 from Greek words for split mind), common misconception vs. split personality (dissociative identity disorder), positive and negative symptoms, avolition, DSM six-month diagnostic criterion, subtypes (paranoid, disorganized/hebephrenic, catatonic, undifferentiated, residual, schizoaffective), hallucinations (mostly auditory voices, including command hallucinations and haptic hallucinations) and delusions (including delusions of reference), suicide and violence risk, recovery statistics, family communication advice, Third World recovery rates, famous people with schizophrenia (Syd Barrett, John Nash, Wesley Willis, Lionel Aldridge), causes (genetics, in utero infection, birth month effect), glutamate and dopamine research, antipsychotics and side effects, ECT, and early treatment during the prodrome. The episode closes with listener mail corrections and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "schizophrenia",
+    "mental illness",
+    "psychosis",
+    "split personality vs schizophrenia",
+    "dissociative identity disorder",
+    "positive and negative symptoms",
+    "avolition",
+    "DSM diagnosis",
+    "schizophrenia subtypes",
+    "paranoid schizophrenia",
+    "hallucinations",
+    "auditory hallucinations",
+    "command hallucinations",
+    "delusions",
+    "delusion of reference",
+    "schizoaffective disorder",
+    "suicide risk in schizophrenia",
+    "schizophrenia recovery rates",
+    "schizophrenia causes",
+    "genetics of schizophrenia",
+    "birth month effect",
+    "antipsychotics",
+    "glutamate and PCP",
+    "electroconvulsive therapy",
+    "prodrome early treatment",
+    "talking to schizophrenics"
+  ],
+  "entities": [
+    {
+      "name": "Schizophrenia",
+      "type": "other"
+    },
+    {
+      "name": "Emil Kraepelin",
+      "type": "person"
+    },
+    {
+      "name": "Eugen Bleuler",
+      "type": "person"
+    },
+    {
+      "name": "Syd Barrett",
+      "type": "person"
+    },
+    {
+      "name": "John Nash",
+      "type": "person"
+    },
+    {
+      "name": "Wesley Willis",
+      "type": "person"
+    },
+    {
+      "name": "Lionel Aldridge",
+      "type": "person"
+    },
+    {
+      "name": "Jack Kerouac",
+      "type": "person"
+    },
+    {
+      "name": "Pops Benny",
+      "type": "person"
+    },
+    {
+      "name": "A Beautiful Mind",
+      "type": "work"
+    },
+    {
+      "name": "Daddy Rock and Roll",
+      "type": "work"
+    },
+    {
+      "name": "Which Way Madness Lies",
+      "type": "work"
+    },
+    {
+      "name": "Pink Floyd",
+      "type": "organization"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "National Institute of Mental Health",
+      "type": "organization"
+    },
+    {
+      "name": "Dissociative identity disorder",
+      "type": "other"
+    },
+    {
+      "name": "Electroconvulsive therapy",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and framing schizophrenia",
+      "summary": "Josh and Chuck open with off-topic banter about Bob Dylan and David Bowie, then Josh explains why they chose schizophrenia, citing news items, misunderstanding, underfunding, and people who are homeless or incarcerated without treatment.",
+      "topics": [
+        "schizophrenia",
+        "homelessness and mental illness",
+        "untreated mental illness"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History and name of schizophrenia",
+      "summary": "Discussion of how mental illness was viewed before the twentieth century, Emil Kraepelin's classification in the 1890s-era as a form of dementia, and Eugen Bleuler coining the name schizophrenia in 1911 from Greek words meaning split mind. They explain the split-mind name fostered a misconception that it is split personality disorder.",
+      "topics": [
+        "history of schizophrenia",
+        "Emil Kraepelin",
+        "Eugen Bleuler",
+        "schizophrenia name origin",
+        "psychotic break"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Schizophrenia vs. split personality disorder",
+      "summary": "The hosts distinguish schizophrenia from dissociative identity disorder (split personality), noting Hollywood's fascination with multiple personalities in films and shows like The United States of Tara and Sybil.",
+      "topics": [
+        "dissociative identity disorder",
+        "split personality misconception",
+        "Hollywood portrayals of mental illness"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Onset, age, and risk",
+      "summary": "Schizophrenia typically develops in late teens or early twenties for men and mid twenties to early thirties for women, can come on gradually or suddenly, and has about a one percent general population prevalence. Early treatment is believed to improve outcomes.",
+      "topics": [
+        "onset of schizophrenia",
+        "age of onset",
+        "prevalence",
+        "early intervention"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Positive, negative, and cognitive symptoms; avolition",
+      "summary": "Explanation of positive symptoms as exaggerations of normal behavior and negative symptoms as absences of normal behavior, including flat affect, cognitive deficits in attention and memory, and avolition described by Kraepelin as annihilation of the will.",
+      "topics": [
+        "positive symptoms",
+        "negative symptoms",
+        "cognitive symptoms",
+        "avolition",
+        "flat affect"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Diagnosis criteria and subtypes",
+      "summary": "DSM diagnostic requirement of symptoms for six months, the schizophreniform shorter form, and subtypes: paranoid, disorganized (hypophrenic), catatonic, undifferentiated, residual, and schizoaffective disorder.",
+      "topics": [
+        "DSM criteria",
+        "six month rule",
+        "schizophreniform",
+        "paranoid schizophrenia",
+        "disorganized schizophrenia",
+        "catatonic schizophrenia",
+        "undifferentiated schizophrenia",
+        "residual schizophrenia",
+        "schizoaffective disorder"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Hallucinations and delusions",
+      "summary": "Definitions of delusions and hallucinations. Auditory hallucinations, usually voices, are most common, sometimes arguing or commenting; command hallucinations can urge harmful acts, though most people resist them. Haptic hallucinations and delusions of reference are described.",
+      "topics": [
+        "hallucinations",
+        "auditory hallucinations",
+        "command hallucinations",
+        "haptic hallucinations",
+        "delusions",
+        "delusion of reference"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Outcomes, suicide, violence, and talking with patients",
+      "summary": "After ten years, about seventy percent improve or recover, about ten percent die, at least ten percent by suicide. Violence is linked to pre-existing violence and substance abuse. NIMH advice on responding to delusions without agreeing or arguing. Recovery rates in developing nations are reportedly higher.",
+      "topics": [
+        "schizophrenia outcomes",
+        "suicide risk",
+        "violence and schizophrenia",
+        "talking to people with delusions",
+        "recovery in developing nations",
+        "stigma"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Famous people with schizophrenia",
+      "summary": "Discussion of Syd Barrett of Pink Floyd, John Nash of A Beautiful Mind, the disputed Navy discharge of Jack Kerouac, Pops Benny's death, musician Wesley Willis, and Green Bay Packer Lionel Aldridge who later spoke publicly about mental illness.",
+      "topics": [
+        "famous people with schizophrenia",
+        "Syd Barrett",
+        "John Nash",
+        "Wesley Willis",
+        "Lionel Aldridge"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Causes: genetics and infection hypotheses",
+      "summary": "Genes such as DISC1, dysbindin, and neuregulin are linked, with possibly a dozen more. Environmental hypotheses include in utero exposure to influenza or Toxoplasma gondii, the birth month effect, inflamed white blood cells, and a dormant retrovirus.",
+      "topics": [
+        "causes of schizophrenia",
+        "genetics",
+        "toxoplasmosis",
+        "birth month effect",
+        "retrovirus hypothesis",
+        "inflammation"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Brain research and treatments",
+      "summary": "Research on the ventral striatum and reward prediction, the role of glutamate discovered through PCP studies leading to atypical antipsychotics, side effects of antipsychotics, electroconvulsive therapy use, and family therapy and small goal setting.",
+      "topics": [
+        "ventral striatum research",
+        "glutamate",
+        "dopamine",
+        "antipsychotics",
+        "side effects",
+        "electroconvulsive therapy",
+        "family therapy",
+        "small goals"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "01:01:00",
+      "kind": "content",
+      "title": "Prodrome and early treatment",
+      "summary": "The prodrome period before full symptoms, and an British doctor's late-1980s program in two towns outside London using therapy and low-dose antipsychotics that reportedly reduced prevalence to a tenth of the national rate in four years. Clinics and university departments now focus on prodrome.",
+      "topics": [
+        "prodrome",
+        "early treatment",
+        "early intervention clinics",
+        "schizophrenia prevention"
+      ]
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:03:00",
+      "kind": "outro",
+      "title": "Resources and sign-off",
+      "summary": "Hosts recommend schizophrenia resources, a Harper's article by Rachel Aviv, and a Wesley Willis documentary. They mention a closing correction segment and sign off.",
+      "topics": [
+        "resources",
+        "schizophrenia information"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:08:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and corrections",
+      "summary": "Corrections include the flash point of books (Fahrenheit 451 vs Celsius 233), the first execution in Jamestown (Billington, with a note about an earlier European executed), wildfires in South Georgia, a Hindu listener's correction on Brahman and karma, and a dispute over the pronunciation of Jainism.",
+      "topics": [
+        "listener mail",
+        "corrections",
+        "Fahrenheit 451",
+        "Brahman",
+        "karma",
+        "Jainism"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13854,
+    "output_tokens": 3809
+  }
+}

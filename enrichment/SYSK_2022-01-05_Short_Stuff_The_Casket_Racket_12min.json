@@ -1,0 +1,156 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-01-05_Short_Stuff_The_Casket_Racket_12min.txt",
+  "title": "Short Stuff: The Casket Racket",
+  "date": "2022-01-05",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-the-casket-racket",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d1b849c8-5856-464e-b103-ae270184611c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d1b849c8-5856-464e-b103-ae270184611c/transcript?format=TextWithTimestamps&t=1700539646",
+  "summary": "Short Stuff episode on the high cost of caskets and the funeral industry's pricing practices. The hosts cover what drives casket prices (wood vs. metal, craftsmanship, interior lining), the market structure in which two main manufacturers, Batesville and Matthews, sell only to funeral homes that mark them up, and how consumers rarely shop around for funeral homes while grieving. They discuss online and third-party casket retailers, and the FTC Funeral Rule, which requires funeral homes to accept third-party caskets. They close with cremation trends from the National Funeral Directors Association and mention past episodes on caskets, cremation, and a planned future episode on the Funeral Rule.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "casket prices",
+    "casket racket",
+    "funeral costs",
+    "casket markup",
+    "Batesville",
+    "Matthews casket",
+    "funeral home pricing",
+    "third-party caskets",
+    "online casket retailers",
+    "FTC Funeral Rule",
+    "funeral industry regulation",
+    "casket materials",
+    "casket craftsmanship",
+    "cremation rates",
+    "National Funeral Directors Association",
+    "Ghana caskets",
+    "funeral consumer protection",
+    "shopping for funerals"
+  ],
+  "entities": [
+    {
+      "name": "Batesville",
+      "type": "organization"
+    },
+    {
+      "name": "Matthews",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Trade Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Funeral Rule",
+      "type": "work"
+    },
+    {
+      "name": "National Funeral Directors Association",
+      "type": "organization"
+    },
+    {
+      "name": "Ghana",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening and casket price increases",
+      "summary": "Hosts introduce the episode, joke that the 'casket racket' title is not an insult to funeral directors, and note that casket prices have risen sharply over thirty years and that caskets are a large share of funeral costs.",
+      "topics": [
+        "casket prices",
+        "funeral costs",
+        "casket racket"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "What determines casket price",
+      "summary": "Materials (mahogany, hickory, walnut, pine, oak, steel gauges, copper, bronze), craftsmanship such as rounded versus welded corners, and interior fabrics like crape versus velvet all affect casket cost.",
+      "topics": [
+        "casket materials",
+        "casket craftsmanship",
+        "casket prices",
+        "casket interior"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a short break before returning.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Manufacturer markup and captive customers",
+      "summary": "Batesville and Matthews, the two main US casket manufacturers, sell only to funeral homes, which mark them up, and funeral homes can mark up further. Most people don't shop around for a funeral home and are grieving, so they are a captive customer.",
+      "topics": [
+        "Batesville",
+        "Matthews casket",
+        "casket markup",
+        "funeral home pricing",
+        "shopping for funerals"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Online retailers and the FTC Funeral Rule",
+      "summary": "Online casket retailers sell direct to consumers at lower prices. Funeral homes once blocked third-party caskets until the FTC's Funeral Rule required them to accept them. Hosts note that most caskets are still bought through the main manufacturers as of 2019, and that the rule covers more than casket access.",
+      "topics": [
+        "third-party caskets",
+        "online casket retailers",
+        "FTC Funeral Rule",
+        "funeral industry regulation",
+        "funeral consumer protection"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:40",
+      "kind": "content",
+      "title": "Ghana caskets and cremation trends",
+      "summary": "Hosts mention Ghana's decorative caskets and past episodes on caskets and cremation, then cite NFDA projections that cremation will reach about 58 percent while burial drops to about 25 percent, and discuss how that may not reduce casket demand.",
+      "topics": [
+        "Ghana caskets",
+        "cremation rates",
+        "National Funeral Directors Association",
+        "burial trends"
+      ]
+    },
+    {
+      "start": "00:11:40",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and note it is a production of iHeartRadio.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4693,
+    "output_tokens": 1682
+  }
+}

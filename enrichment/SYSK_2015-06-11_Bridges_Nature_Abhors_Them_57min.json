@@ -1,0 +1,227 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-06-11_Bridges_Nature_Abhors_Them_57min.txt",
+  "title": "Bridges: Nature Abhors Them",
+  "date": "2015-06-11",
+  "duration": "57 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/bridges-nature-abhors-them",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c4f7e5d0-4230-4480-9b95-ae28008db20b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c4f7e5d0-4230-4480-9b95-ae28008db20b/transcript?format=TextWithTimestamps&t=1700543858",
+  "summary": "Josh and Chuck explain bridge engineering basics: the four structural components (beams, arches, trusses, suspensions), tension and compression, dead and live loads, and how each bridge type suits different span lengths. They cover cable-stayed bridges, the Inca rope bridges, living root bridges in Meghalaya, and torsion and resonance, using the Tacoma Narrows collapse and the Kansas City Hyatt skywalk collapse as examples. The episode ends with a listener mail about street gangs.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "bridges",
+    "bridge engineering",
+    "beam bridge",
+    "arch bridge",
+    "truss bridge",
+    "suspension bridge",
+    "cable-stayed bridge",
+    "tension and compression",
+    "dead load and live load",
+    "torsion",
+    "resonance",
+    "Tacoma Narrows Bridge collapse",
+    "Kansas City Hyatt skywalk collapse",
+    "living root bridges",
+    "Inca rope bridge",
+    "Erasmus Bridge",
+    "New River Gorge Bridge",
+    "bridge collapses",
+    "structural engineering",
+    "street gangs"
+  ],
+  "entities": [
+    {
+      "name": "Tacoma Narrows Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Erasmus Bridge",
+      "type": "place"
+    },
+    {
+      "name": "New River Gorge Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Golden Gate Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Brooklyn Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Danyang-Kunshan Grand Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Kansas City Hyatt Regency skywalk collapse",
+      "type": "event"
+    },
+    {
+      "name": "Tacoma Narrows Bridge collapse",
+      "type": "event"
+    },
+    {
+      "name": "Arkadiko Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Meghalaya living root bridges",
+      "type": "place"
+    },
+    {
+      "name": "Inca rope bridges",
+      "type": "other"
+    },
+    {
+      "name": "Build It Big",
+      "type": "work"
+    },
+    {
+      "name": "Ken Burns",
+      "type": "person"
+    },
+    {
+      "name": "Make magazine",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and bridge recommendations",
+      "summary": "Hosts banter about their intros and bridge-themed movies and cities, including Madison County covered bridges, Budapest, Pittsburgh, and the Brooklyn Bridge. They mention a Ken Burns documentary on the Brooklyn Bridge.",
+      "topics": [
+        "bridges",
+        "Brooklyn Bridge",
+        "Ken Burns documentary",
+        "covered bridges"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "History of bridges and why bridge building is hard",
+      "summary": "The hosts discuss ancient bridges, including the Arkadiko Bridge in ancient Greece and a very old single-arch bridge in Turkey. They explain that each longer span adds engineering problems and that bridge building has advanced through trial, error, and disasters.",
+      "topics": [
+        "ancient bridges",
+        "bridge history",
+        "bridge collapses",
+        "span length"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Bridge components and span types",
+      "summary": "Beams, arches, trusses, and suspensions are introduced as the main structural components. The hosts explain that bridge type depends on span length, with beam bridges the shortest, then arches, then suspension bridges for the longest spans. Cable-stayed bridges are introduced as a variant of suspension.",
+      "topics": [
+        "beam bridge",
+        "arch bridge",
+        "truss",
+        "suspension bridge",
+        "span length",
+        "cable-stayed bridge"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Tension, compression, and loads",
+      "summary": "The hosts explain tension and compression with rope and spring analogies and a milk-crate and two-by-four beam demonstration. They cover dead loads and live loads, dissipation and transference of force, and why I-beam height matters.",
+      "topics": [
+        "tension",
+        "compression",
+        "dead load",
+        "live load",
+        "dissipation of force",
+        "I-beam"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Trusses and their triangular geometry",
+      "summary": "The hosts describe trusses using a popsicle-stick square that turns into a rhombus under load, while triangles stay rigid. They note that trusses let wind pass through and appear on train bridges and roofs.",
+      "topics": [
+        "truss",
+        "triangle geometry",
+        "wind resistance",
+        "train bridges"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Arch bridges and abutments",
+      "summary": "Arch bridges divert weight through abutments, which push inward so compression runs into the ground. The hosts discuss Roman arches, the difficulty of building arches before the keystone closes them, and the New River Gorge Bridge, which uses the gorge walls as abutments.",
+      "topics": [
+        "arch bridge",
+        "abutments",
+        "Roman arches",
+        "New River Gorge Bridge",
+        "arch construction"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Suspension bridges and cable-stayed bridges",
+      "summary": "Suspension bridges use towers and anchorages to carry the deck's compression and tension into the ground. The hosts describe Inca grass rope bridges seen by the Spanish in the 1500s. They then explain cable-stayed bridges, which use one tower and radial or parallel cable patterns, citing the Erasmus Bridge in Rotterdam.",
+      "topics": [
+        "suspension bridge",
+        "anchorages",
+        "Inca rope bridges",
+        "cable-stayed bridge",
+        "Erasmus Bridge",
+        "radial and parallel cable patterns"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Living root bridges and cable-stayed costs",
+      "summary": "The hosts discuss how cities choose bridge designs, citing the Atlanta Seventeenth Street bridge collapse. They describe living root bridges in Meghalaya, India, grown from tree roots over years and lasting decades.",
+      "topics": [
+        "living root bridges",
+        "Meghalaya",
+        "bridge design cost",
+        "Atlanta Seventeenth Street bridge"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Torsion, resonance, and famous failures",
+      "summary": "The hosts describe torsion and the Tacoma Narrows Bridge collapse, caused by wind-induced resonance at forty miles an hour. They discuss how engineers avoid resonance, and how marching soldiers and dancers can cause collapse. The Kansas City Hyatt skywalk collapse is referenced. They close with weather and bridge counts, and Build It Big as a resource.",
+      "topics": [
+        "torsion",
+        "resonance",
+        "Tacoma Narrows Bridge",
+        "marching and bridge vibration",
+        "Kansas City Hyatt skywalk",
+        "bridge counts",
+        "Build It Big"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18275,
+    "output_tokens": 2550
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-10-30_Short_Stuff_Our_Shortie_Halloween_Spooktacular_12min.txt",
+  "title": "Short Stuff: Our Shortie Halloween Spooktacular",
+  "date": "2019-10-30",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-our-shortie-halloween-spooktacular",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da8b75e1-d84a-47f3-9887-ae28004367f7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/da8b75e1-d84a-47f3-9887-ae28004367f7/transcript?format=TextWithTimestamps&t=1700543676",
+  "summary": "Short Stuff Halloween special previewing the next day's Spooktacular. Josh and Chuck read two short stories by Ambrose Bierce: \"One Summer Night,\" in which Henry Armstrong, buried alive, is dug up by grave robbers and comes back to life, and a story about old man Daniel Baker, a suspected murderer of a peddler, whose apparition appears to Reverend Cummings before Baker is found hanged from a bridge beside the peddler's bones. Hosts briefly mention an upcoming grave robbers episode and comment on Bierce's style.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Ambrose Bierce",
+    "short stories",
+    "One Summer Night",
+    "Halloween",
+    "grave robbers",
+    "premature burial",
+    "buried alive",
+    "ghost story",
+    "Daniel Baker",
+    "supernatural apparition",
+    "Halloween Spooktacular",
+    "American gothic fiction",
+    "Iowa 1853 peddler murder"
+  ],
+  "entities": [
+    {
+      "name": "Ambrose Bierce",
+      "type": "person"
+    },
+    {
+      "name": "One Summer Night",
+      "type": "work"
+    },
+    {
+      "name": "Henry Armstrong",
+      "type": "person"
+    },
+    {
+      "name": "Daniel Baker",
+      "type": "person"
+    },
+    {
+      "name": "Reverend Mr Cummings",
+      "type": "person"
+    },
+    {
+      "name": "Samuel Morritts",
+      "type": "person"
+    },
+    {
+      "name": "Lebanon, Iowa",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:08",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Halloween short stories preview",
+      "summary": "Josh introduces the special Halloween short stuff episode, previewing the next day's Spooktacular and explaining they are reading short Ambrose Bierce stories.",
+      "topics": [
+        "Halloween Spooktacular",
+        "Ambrose Bierce",
+        "short stuff"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "One Summer Night reading, part one",
+      "summary": "Chuck reads the opening of Bierce's 'One Summer Night': Henry Armstrong, presumed dead and buried, wakes in his coffin and falls asleep. Three men, including a gigantic cemetery worker named Jess, dig up the grave.",
+      "topics": [
+        "One Summer Night",
+        "Ambrose Bierce",
+        "buried alive",
+        "grave robbers"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "One Summer Night reading, part two",
+      "summary": "The grave is opened and Armstrong sits up. The men flee, and two of the students return to the medical college, where Jess is waiting for his pay beside Armstrong's body on the dissecting table.",
+      "topics": [
+        "One Summer Night",
+        "grave robbers",
+        "medical college",
+        "dissecting room"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:07:40",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Hosts transition to a commercial break before the second story.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:07:40",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Bierce's story of Daniel Baker and the peddler",
+      "summary": "Chuck reads Bierce's story of old man Daniel Baker, suspected of murdering a peddler near Lebanon, Iowa. Reverend Cummings sees a figure on a bridge that vanishes, and Baker is later found hanged beneath that spot beside the peddler's bones. The coroner rules Baker's death a suicide and the peddler's a murder by unknown persons.",
+      "topics": [
+        "Daniel Baker",
+        "peddler murder",
+        "supernatural apparition",
+        "Ambrose Bierce",
+        "Lebanon Iowa"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Closing and sign-off",
+      "summary": "Hosts comment on the story's ending, promote the next day's Spooktacular episode, and close with the show's production credit.",
+      "topics": [
+        "Halloween Spooktacular",
+        "short stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4876,
+    "output_tokens": 1498
+  }
+}

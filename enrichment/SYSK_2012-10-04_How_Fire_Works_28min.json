@@ -1,0 +1,246 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-10-04_How_Fire_Works_28min.txt",
+  "title": "How Fire Works",
+  "date": "2012-10-04",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-fire-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ebab5bc-4615-41b8-8a4f-ae2800a51b01/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9ebab5bc-4615-41b8-8a4f-ae2800a51b01/transcript?format=TextWithTimestamps&t=1700543913",
+  "summary": "Josh and Chuck explain how fire works, opening with the 1946 Winecoff Hotel fire in Atlanta and the 1980 MGM Grand fire in Las Vegas as examples of hubris toward fire. They describe fire as a chemical reaction between fuel and oxygen, requiring combustion and an ignition temperature, using wood as the main example: heat drives off volatile gases (smoke), leaves char (carbon), and ash (minerals). They cover heat and light production (incandescence), why flames point upward and would form spheres in zero gravity, why steam and water form without combusting, gasoline ignition via vapor, piloted versus unpiloted ignition temperature, surface area and kindling, and friction fire-starting. Also includes a tangent on cellulose and cellophane, charcoal as a filter, and briquettes. The episode closes with Comic Con and New York trivia night announcements and a listener mail about an alarm clock song.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "how fire works",
+    "combustion",
+    "fire chemistry",
+    "ignition temperature",
+    "piloted ignition temperature",
+    "unpiloted ignition temperature",
+    "volatile gases",
+    "smoke",
+    "char",
+    "charcoal",
+    "ash",
+    "wood fire",
+    "cellulose",
+    "cellophane",
+    "charcoal briquettes",
+    "heat and light from fire",
+    "incandescence",
+    "flame shape",
+    "fire in zero gravity",
+    "gasoline vapor ignition",
+    "fire-starting by friction",
+    "Winecoff Hotel fire",
+    "MGM Grand fire",
+    "fire deaths statistics",
+    "Comic Con",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Winecoff Hotel",
+      "type": "place"
+    },
+    {
+      "name": "MGM Grand fire",
+      "type": "event"
+    },
+    {
+      "name": "Prometheus",
+      "type": "other"
+    },
+    {
+      "name": "Tom Harris",
+      "type": "person"
+    },
+    {
+      "name": "Comic Con",
+      "type": "event"
+    },
+    {
+      "name": "Cutting Room",
+      "type": "place"
+    },
+    {
+      "name": "Batmobile",
+      "type": "other"
+    },
+    {
+      "name": "Bear Grylls",
+      "type": "person"
+    },
+    {
+      "name": "Les Stroud",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and hotel fire tragedies",
+      "summary": "Josh and Chuck open by discussing the Winecoff Hotel fire and the MGM Grand fire as examples of hubris toward fire, and note that the episode is a prequel to the wildfires and spontaneous human combustion episodes.",
+      "topics": [
+        "Winecoff Hotel fire",
+        "MGM Grand fire",
+        "hotel fire safety",
+        "hubris and fire"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Fire death statistics and volcano anecdote",
+      "summary": "The hosts cite US residential fire death figures, with cooking as the leading cause of building fires and arson second, and mention a viral video of a scientist nearly caught by lava from a Hawaiian volcano.",
+      "topics": [
+        "fire deaths statistics",
+        "residential building fires",
+        "cooking fires",
+        "volcano safety"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Ancient elements and fire as chemistry",
+      "summary": "Chuck notes the Greek four-element idea of earth, wind, water and fire does not hold up, since fire is a chemical reaction of matter changing form rather than an element. Josh describes combustion as a reaction between oxygen and fuel, with a spark usually needed, and wood's ignition temperature of about 300 degrees Fahrenheit.",
+      "topics": [
+        "Greek four elements",
+        "combustion",
+        "ignition temperature",
+        "oxygen and fuel"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Cellulose, cellophane and wood decomposition",
+      "summary": "The hosts describe how heat decomposes wood into volatile gases and cellulose that turns into char. They digress into cellulose, noting it is a natural polymer and that cellophane is regenerated cellulose and biodegradable.",
+      "topics": [
+        "cellulose",
+        "cellophane",
+        "volatile gases",
+        "wood decomposition",
+        "biodegradable plastics"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Char, charcoal filtering, ash and briquettes",
+      "summary": "Charring leaves carbon, which is charcoal, and smoke comes from the burned-off gases. Chuck mentions charcoal's use as a water filter. Ash is unburnable minerals, and wood charcoal leaves less ash than briquettes, which are made of char and binders.",
+      "topics": [
+        "charcoal",
+        "char",
+        "charcoal filter",
+        "ash",
+        "charcoal briquettes",
+        "water purification"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Oxidation, heat, light and self-sustaining fire",
+      "summary": "Volatile gases break apart and recombine with oxygen into carbon dioxide, carbon monoxide and water, releasing heat that keeps the fire self-sustaining while fuel and oxygen remain. Electrons releasing energy as photons produce light, comparable to incandescence in a light bulb. Flame color varies with temperature and oxygen, and flames burn upward and point because hot gas is less dense than surrounding air.",
+      "topics": [
+        "oxidation",
+        "heat release",
+        "light from fire",
+        "incandescence",
+        "flame color",
+        "bunsen burner",
+        "flame shape",
+        "zero gravity fire"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Steam, gasoline and ignition temperatures",
+      "summary": "Boiling water releases gas that does not combust because its atoms are not strongly attracted to oxygen, unlike carbon and hydrogen. Gasoline vaporizes and its vapor ignites. The hosts distinguish piloted ignition temperature, where a spark can ignite the gas, from unpiloted ignition temperature, where heat alone ignites the fuel, such as lightning.",
+      "topics": [
+        "steam",
+        "gasoline ignition",
+        "piloted ignition temperature",
+        "unpiloted ignition temperature",
+        "pilot light"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Surface area, kindling and friction fire-starting",
+      "summary": "Fuel shape and surface area affect how easily fuel burns, with thin pieces igniting faster than thick logs. The hosts discuss fire-starting by friction, such as the plow and bow methods, and shaved bark shavings as kindling.",
+      "topics": [
+        "surface area and combustion",
+        "kindling",
+        "friction fire starting",
+        "bow drill",
+        "survival skills"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Summary of how fire works",
+      "summary": "Josh and Chuck recap that heat breaks down fuel so it can combine with oxygen and ignite, and that fire is self-sustaining while fuel and oxygen last. Josh points listeners to the HowStuffWorks article on fire.",
+      "topics": [
+        "fire recap",
+        "how fire works"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:27:30",
+      "kind": "ad",
+      "title": "Live show and trivia night announcements",
+      "summary": "The hosts announce a live podcast at Comic Con in New York on Friday October 12 and an All Star Trivia Night at the Cutting Room in the Flatiron District after Comic Con.",
+      "topics": [
+        "Comic Con",
+        "live podcast",
+        "trivia night",
+        "Cutting Room"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: bad to the bone alarm",
+      "summary": "Listener Jocelyn from Victoria, BC describes her partner Tim setting Bad to the Bone as his alarm and sleeping through it while she is startled awake, a year-long dispute that ended with her buying an alarm clock radio.",
+      "topics": [
+        "listener mail",
+        "alarm clock",
+        "Bad to the Bone"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:28:00",
+      "kind": "outro",
+      "title": "Sign-off and contact information",
+      "summary": "The hosts invite listeners to send anything via Twitter, Facebook, or email, and point to HowStuffWorks for more topics.",
+      "topics": [
+        "contact information",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10336,
+    "output_tokens": 2996
+  }
+}

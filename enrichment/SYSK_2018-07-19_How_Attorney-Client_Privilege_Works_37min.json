@@ -1,0 +1,216 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-07-19_How_Attorney-Client_Privilege_Works_37min.txt",
+  "title": "How Attorney-Client Privilege Works",
+  "date": "2018-07-19",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-attorney-client-privilege-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2d5cbb91-7efb-4559-a4c9-ae28005f3431/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2d5cbb91-7efb-4559-a4c9-ae28005f3431/transcript?format=TextWithTimestamps&t=1700543742",
+  "summary": "Josh and Chuck (flying solo edition, with Josh hosting) explain attorney-client privilege: its origins in English common law and US/Canadian precedent, the 1743 Annesley v. Anglesey case, the four basic elements (confidential communication, between privileged parties, for the purpose of seeking legal advice), the crime-fraud exception, gray areas in corporate and business law, how an attorney-client relationship is established, nonverbal communications, People v. Meredith (1976) where evidence obtained by a lawyer was not protected, the survival of privilege after death (Vincent Foster case, Supreme Court six-to-three), the control group test and the Upjohn ruling extending privilege to employees, the 2018 Michael Cohen raid and taint team, and the Jodi Arias case with her former public defender Kirk Nurmi's book and disbarment. Also includes an opening plug for The Control Group fiction podcast, a listener mail about a Mercury Bobcat, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "attorney-client privilege",
+    "legal privilege",
+    "attorney client privilege exceptions",
+    "crime-fraud exception",
+    "common law privilege history",
+    "Annesley v. Anglesey 1743",
+    "People v. Meredith",
+    "privilege after death",
+    "Vincent Foster attorney notes Supreme Court",
+    "control group test",
+    "Upjohn ruling employee privilege",
+    "corporate law privilege",
+    "taint team",
+    "Michael Cohen FBI raid",
+    "Mueller investigation privilege",
+    "Jodi Arias case",
+    "Kirk Nurmi",
+    "waiving privilege",
+    "attorney client relationship formation",
+    "talking to the FBI without a lawyer",
+    "The Control Group podcast",
+    "listener mail",
+    "Mercury Bobcat",
+    "Ford Pinto"
+  ],
+  "entities": [
+    {
+      "name": "Annesley v. Anglesey",
+      "type": "event"
+    },
+    {
+      "name": "People v. Meredith",
+      "type": "event"
+    },
+    {
+      "name": "Vincent Foster",
+      "type": "person"
+    },
+    {
+      "name": "Kenneth Starr",
+      "type": "person"
+    },
+    {
+      "name": "Michael Cohen",
+      "type": "person"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "person"
+    },
+    {
+      "name": "Mueller investigation",
+      "type": "event"
+    },
+    {
+      "name": "Jodi Arias",
+      "type": "person"
+    },
+    {
+      "name": "Kirk Nurmi",
+      "type": "person"
+    },
+    {
+      "name": "Federal Bureau of Investigation",
+      "type": "organization"
+    },
+    {
+      "name": "The Control Group",
+      "type": "work"
+    },
+    {
+      "name": "Ford Pinto",
+      "type": "work"
+    },
+    {
+      "name": "Mercury Bobcat",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Flying solo opening and plug for The Control Group",
+      "summary": "Josh opens the flying solo episode and plugs the fiction podcast The Control Group, a 1960s mental asylum drama he worked on with Ben, then introduces attorney-client privilege.",
+      "topics": [
+        "The Control Group podcast",
+        "flying solo episode"
+      ]
+    },
+    {
+      "name": "Origins and the 1743 Annesley v. Anglesey case",
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "summary": "The hosts explain privilege comes from English common law and is shaped by precedent rather than the Constitution. They recount the 1743 Annesley v. Anglesey inheritance case, in which a lawyer's testimony about a framing plot was allowed, and define the purpose of privilege.",
+      "topics": [
+        "attorney-client privilege history",
+        "common law privilege",
+        "Annesley v. Anglesey 1743",
+        "privilege purpose"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "summary": "The hosts outline the four elements of privilege: a confidential communication between privileged parties for the purpose of obtaining legal help. They cover how planning or covering up a crime removes protection, and how business advice is not always legal advice.",
+      "title": "Elements of privilege and the crime-fraud exception",
+      "topics": [
+        "privilege elements",
+        "crime-fraud exception",
+        "corporate law privilege",
+        "business advice vs legal advice"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "summary": "Discussion of how an attorney-client relationship is established, through an engagement letter, oral agreement, or court appearance, and that a client cannot establish it alone. Nonverbal communication such as nodding or silence can also be protected.",
+      "title": "Forming the relationship and nonverbal communication",
+      "topics": [
+        "attorney client relationship",
+        "engagement",
+        "nonverbal communication privilege",
+        "silence"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:22:00",
+      "kind": "content",
+      "summary": "People v. Meredith (California, 1976): a lawyer who went out and retrieved a wallet, a piece of evidence, lost protection for that act. Facts known independently remain discoverable from other sources.",
+      "title": "People v. Meredith and evidence gathering",
+      "topics": [
+        "People v. Meredith",
+        "evidence gathering by lawyers",
+        "discoverable facts",
+        "California Supreme Court"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "summary": "Privilege survives death: the Vincent Foster notes case in the 1990s, decided six to three by the Supreme Court. Then the control group test for corporate employees and how the Upjohn ruling extended protection to employees.",
+      "title": "Privilege after death, control group test and employees",
+      "topics": [
+        "privilege after death",
+        "Vincent Foster",
+        "control group test",
+        "Upjohn ruling",
+        "corporate employees"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "summary": "The 2018 raid on Michael Cohen's office and the taint team used to sort seized documents during the Mueller investigation, with Trump tweeting that privilege is dead. The hosts discuss misinformation.",
+      "title": "Michael Cohen raid, taint team and Mueller investigation",
+      "topics": [
+        "Michael Cohen raid",
+        "taint team",
+        "Mueller investigation",
+        "privilege misinformation"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "summary": "The Jodi Arias case: her former public defender Kirk Nurmi wrote a book revealing private conversations, she is suing him, and he agreed to disbarment without admitting misconduct. The hosts also discuss a lawyer's advice about talking to the FBI without counsel.",
+      "title": "Jodi Arias and Kirk Nurmi",
+      "topics": [
+        "Jodi Arias",
+        "Kirk Nurmi",
+        "privilege waiver",
+        "disbarment",
+        "talking to the FBI"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Mercury Bobcat",
+      "summary": "Owen from Nova Scotia writes about his family's powder blue Mercury Bobcat, inspired by the Ford Pinto episode, and says he would like to buy it back.",
+      "topics": [
+        "listener mail",
+        "Mercury Bobcat",
+        "Ford Pinto"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12023,
+    "output_tokens": 2551
+  }
+}

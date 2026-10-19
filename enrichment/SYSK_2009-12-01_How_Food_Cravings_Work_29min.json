@@ -1,0 +1,192 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-12-01_How_Food_Cravings_Work_29min.txt",
+  "title": "How Food Cravings Work",
+  "date": "2009-12-01",
+  "duration": "29 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-food-cravings-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/70a23e1d-5f53-4cb8-a077-ae2800bb5028/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/70a23e1d-5f53-4cb8-a077-ae2800bb5028/transcript?format=TextWithTimestamps&t=1700543975",
+  "summary": "Josh and Chuck open with banter about sloppy joes, fish tacos and a Ween trivia aside, then turn to food cravings. They explain hunger as a stomach-to-brain signal via the vagus nerve and the hypothalamus, with ghrelin, neuropeptide Y, leptin and POMC regulating appetite. Cravings are framed as mostly brain-based: opioids and dopamine reward pathways, sensory memory of food filed via the hippocampus, and a 2004 fMRI study showing reward activity when people think about food. They cover fetal taste exposure in the womb, mothers' diets shaping children's tastes (garlic and nursing), leptin rising with body fat, the finding that restricting cravings can backfire (a 2007 study and the \"imp of the perverse\"), and pregnancy cravings. They close with pica (geophagia, eating white clay or dirt, and pagophagia, eating ice linked to iron deficiency) and a listener mail about Henry Hill's visit to England.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "food cravings",
+    "hunger",
+    "ghrelin",
+    "leptin",
+    "neuropeptide Y",
+    "hypothalamus",
+    "vagus nerve",
+    "opioids and food",
+    "dopamine reward system",
+    "sensory memory and food",
+    "fMRI food study",
+    "fetal taste development",
+    "pregnancy cravings",
+    "pica",
+    "geophagia",
+    "white clay eating",
+    "pagophagia ice craving",
+    "iron deficiency",
+    "imp of the perverse",
+    "appetite suppression",
+    "food addiction",
+    "Henry Hill listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Henry Hill",
+      "type": "person"
+    },
+    {
+      "name": "Christen Conger",
+      "type": "person"
+    },
+    {
+      "name": "Goodfellas",
+      "type": "work"
+    },
+    {
+      "name": "Witness Protection Program",
+      "type": "other"
+    },
+    {
+      "name": "Cavern Club",
+      "type": "place"
+    },
+    {
+      "name": "Donald Duck",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck joke about the weekend, Ween trivia, and sloppy joes, including a fish taco sloppy joe suggestion that sets up the topic.",
+      "topics": [
+        "sloppy joe",
+        "banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Food craving survey and cultural differences",
+      "summary": "A survey finds most people report food cravings in the past year, with women more likely and chocolate the most commonly reported craving in North America. Cravings vary by culture, such as meat-stuffed eggplant in Egypt.",
+      "topics": [
+        "food cravings survey",
+        "chocolate cravings",
+        "cultural differences in cravings"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Hunger signals: vagus nerve, ghrelin and hypothalamus",
+      "summary": "Hunger starts with a stomach signal carried by the vagus nerve to the hypothalamus. Ghrelin, released by the stomach, triggers neuropeptide Y to stimulate appetite. Leptin from fat tissue and POMC then suppress appetite as a person eats. The hara hachi bu practice is mentioned.",
+      "topics": [
+        "hunger",
+        "ghrelin",
+        "vagus nerve",
+        "hypothalamus",
+        "leptin",
+        "neuropeptide Y",
+        "POMC",
+        "appetite suppression"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Cravings as mental and the opioid and dopamine reward system",
+      "summary": "Food cravings differ from hunger and are largely brain-based. The old idea that cravings signal nutrient needs has been largely debunked. Cravings for rich fatty foods relate to opioids, and memory from the hippocampus and the dopamine reward system reinforce them. A 2004 fMRI study showed reward regions activating when people thought about food.",
+      "topics": [
+        "food cravings mechanism",
+        "opioids",
+        "dopamine",
+        "hippocampus",
+        "fMRI study",
+        "food addiction",
+        "nutrient deficiency myth"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Origins of taste: the womb, infancy and leptin with body fat",
+      "summary": "Fetuses can distinguish flavors through amniotic fluid, and mothers' diets, such as garlic, may shape infant taste and nursing. Mothers with adventurous diets may have children with adventurous diets. Leptin levels rise with body fat, yet heavier people tend to eat more.",
+      "topics": [
+        "fetal taste",
+        "amniotic fluid",
+        "infant food preferences",
+        "garlic and breast milk",
+        "leptin and obesity"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Restriction backfires and diet approaches",
+      "summary": "A 2007 study suggests trying to avoid a food increases cravings for it, linked to the imp of the perverse. Research found people who did not deny cravings entirely lost the most weight. Chuck describes his own calorie restriction approach.",
+      "topics": [
+        "imp of the perverse",
+        "dieting and cravings",
+        "calorie restriction",
+        "weight loss"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Pregnancy cravings, pica, geophagia and pagophagia",
+      "summary": "Pregnancy hormones such as estrogen and heightened taste and smell can shift cravings toward sweet, salty and spicy foods. Pica is craving non-food items; geophagia is eating dirt or white clay and is more common in the South; pagophagia is eating ice, often linked to iron deficiency.",
+      "topics": [
+        "pregnancy cravings",
+        "pica",
+        "geophagia",
+        "pagophagia",
+        "white clay",
+        "iron deficiency"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:28:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Henry Hill in England",
+      "summary": "A listener who arranged a Henry Hill speaking engagement in England describes Hill's behavior at a dinner and a Beatles landmarks tour in Liverpool.",
+      "topics": [
+        "Henry Hill",
+        "listener mail",
+        "Witness Protection Program",
+        "Liverpool"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:29:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck close by pointing listeners to HowStuffWorks search and the listener mail address.",
+      "topics": [
+        "sign-off",
+        "listener mail address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11046,
+    "output_tokens": 2361
+  }
+}

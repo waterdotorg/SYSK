@@ -1,0 +1,340 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-04-23_The_Power_of_the_Wind_52min.txt",
+  "title": "The Power of the Wind",
+  "date": "2024-04-23",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-power-of-the-wind",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0e294539-9572-41d1-b8f3-b15b0025a515/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0e294539-9572-41d1-b8f3-b15b0025a515/transcript?format=TextWithTimestamps&t=1713863804",
+  "summary": "Josh and Chuck discuss wind power: its history from James Blyth's 1887 wind turbine in Scotland and Poul la Cour's 1890s Danish work, how horizontal and vertical axis turbines work, blade count, yaw and pitch control, gearboxes versus direct drive, the Betz limit on efficiency, US and Texas wind capacity growth, offshore wind projects and local opposition (NIMBY, Vineyard Wind), transmission and storage challenges, the Inflation Reduction Act, global leaders like Denmark and China, wildlife and reindeer impacts, shadow flicker and noise, and blade recycling. The episode ends with a listener mail about Peppermint Patty and Marcie in Peanuts being Asian American characters. Opens and closes with tour dates and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "wind power",
+    "wind energy",
+    "wind turbines",
+    "history of wind power",
+    "James Blyth",
+    "Poul la Cour",
+    "horizontal axis wind turbine",
+    "vertical axis wind turbine",
+    "gearbox vs direct drive",
+    "Betz limit",
+    "wind turbine efficiency",
+    "yaw and pitch control",
+    "US wind capacity",
+    "Texas wind energy",
+    "offshore wind",
+    "Vineyard Wind",
+    "NIMBY opposition to wind farms",
+    "transmission lines for renewables",
+    "energy storage batteries",
+    "Inflation Reduction Act",
+    "Denmark wind power",
+    "China wind power",
+    "wildlife impact of wind turbines",
+    "shadow flicker",
+    "wind turbine blade recycling",
+    "Peanuts Marcie Asian American listener mail"
+  ],
+  "entities": [
+    {
+      "name": "James Blyth",
+      "type": "person"
+    },
+    {
+      "name": "Poul la Cour",
+      "type": "person"
+    },
+    {
+      "name": "Albert Betz",
+      "type": "person"
+    },
+    {
+      "name": "Vineyard Wind",
+      "type": "organization"
+    },
+    {
+      "name": "Carbon Rivers",
+      "type": "organization"
+    },
+    {
+      "name": "Siemens Gamesa",
+      "type": "organization"
+    },
+    {
+      "name": "Inflation Reduction Act",
+      "type": "work"
+    },
+    {
+      "name": "Mary Kirk",
+      "type": "place"
+    },
+    {
+      "name": "Askov",
+      "type": "place"
+    },
+    {
+      "name": "Denmark",
+      "type": "place"
+    },
+    {
+      "name": "Texas",
+      "type": "place"
+    },
+    {
+      "name": "Norway",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Peanuts",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:53",
+      "kind": "intro",
+      "title": "Tour dates",
+      "summary": "Hosts announce live show dates in Medford, Washington DC, New York City, Chicago, Minneapolis, Indianapolis, Durham, and Atlanta.",
+      "topics": [
+        "SYSK Live tour"
+      ]
+    },
+    {
+      "start": "00:00:53",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts joke about a haunted studio and microphone wind noise before starting the wind power episode.",
+      "topics": [
+        "episode intro"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:20",
+      "kind": "content",
+      "title": "Early history of wind electricity",
+      "summary": "Discussion of James Blyth's 1887 wind turbine in Scotland, which powered Marykirk and stored power in batteries, and Poul la Cour's 1890s Danish work, including the Society of Wind Electricians.",
+      "topics": [
+        "history of wind power",
+        "James Blyth",
+        "Poul la Cour",
+        "early wind turbines"
+      ]
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:06:45",
+      "kind": "content",
+      "title": "Wind in Denmark and the decline of wind power",
+      "summary": "Seventy-two Danish systems by 1908 with 5 to 25 kilowatt capacity; wind competed with local coal and gas plants until rural electrification and grid expansion displaced turbines.",
+      "topics": [
+        "Denmark wind history",
+        "rural electrification",
+        "grid power",
+        "wind decline"
+      ]
+    },
+    {
+      "start": "00:06:45",
+      "end": "00:07:15",
+      "kind": "content",
+      "title": "US wind growth since 1990",
+      "summary": "Overview of US wind generation growth from 1990 through 2022, including the 1992 tax credit and Texas and Iowa support.",
+      "topics": [
+        "US wind generation",
+        "wind tax credit 1992",
+        "Texas and Iowa wind"
+      ]
+    },
+    {
+      "start": "00:07:15",
+      "end": "00:09:25",
+      "kind": "content",
+      "title": "Horizontal vs vertical axis turbines",
+      "summary": "Comparison of horizontal axis turbines, which are efficient and used at utility scale, with vertical axis turbines, which are smaller, slower, and used for small distributed systems. Turbine sizes are described, from small eight-foot rotors to offshore turbines around 800 feet in diameter producing up to 18 megawatts.",
+      "topics": [
+        "horizontal axis wind turbine",
+        "vertical axis wind turbine",
+        "turbine size",
+        "offshore turbines"
+      ]
+    },
+    {
+      "start": "00:09:25",
+      "end": "00:11:16",
+      "kind": "content",
+      "title": "Terrestrial turbine size and wind farm scale",
+      "summary": "Typical land turbines are about 400 to 450 feet in diameter and produce about 3.2 megawatts each; bigger turbines mean fewer are needed per farm.",
+      "topics": [
+        "turbine diameter",
+        "wind farm size",
+        "turbine spacing"
+      ]
+    },
+    {
+      "start": "00:11:16",
+      "end": "00:13:41",
+      "kind": "content",
+      "title": "Why three blades and ceiling fan tangent",
+      "summary": "Explanation that three blades balance captured wind against drag, followed by a digression about ceiling fan blade counts.",
+      "topics": [
+        "turbine blade count",
+        "drag",
+        "three-blade design"
+      ]
+    },
+    {
+      "start": "00:13:41",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Yaw and pitch control",
+      "summary": "Turbines turn to face the wind using yaw systems and change blade angle with pitch systems to control rotor speed and protect the machine in high winds.",
+      "topics": [
+        "yaw control",
+        "pitch control",
+        "turbine safety"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:12",
+      "kind": "content",
+      "title": "Gearboxes, generators and the nacelle",
+      "summary": "Rotor speed is too slow for generators, so many turbines use gearboxes to speed it up; the hosts discuss gears and the nacelle housing the gearbox, rotor and generator.",
+      "topics": [
+        "gearbox",
+        "generator",
+        "nacelle",
+        "rotor speed"
+      ]
+    },
+    {
+      "start": "00:18:12",
+      "end": "00:19:11",
+      "kind": "content",
+      "title": "Direct drive systems",
+      "summary": "Direct drive turbines generate electricity without a gearbox, which requires larger parts; trade-offs of both designs are noted.",
+      "topics": [
+        "direct drive turbine",
+        "gearbox trade-offs"
+      ]
+    },
+    {
+      "start": "00:19:11",
+      "end": "00:21:02",
+      "kind": "content",
+      "title": "Betz limit and efficiency",
+      "summary": "German physicist Albert Betz calculated a theoretical maximum of about 59 percent of kinetic energy capture; wind runs about 35 to 45 percent efficient, compared with coal, nuclear and natural gas figures.",
+      "topics": [
+        "Betz limit",
+        "wind efficiency",
+        "energy efficiency comparison"
+      ]
+    },
+    {
+      "start": "00:21:02",
+      "end": "00:35:00",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Sponsor or ad break with a short unrelated read, then the show resumes.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:41:32",
+      "kind": "content",
+      "title": "US wind capacity and Texas politics",
+      "summary": "US has about 70,000 turbines and roughly 146 gigawatts potential capacity, about 10 percent of electricity in 2023. Texas leads, with about 25 percent of its power from wind; the hosts discuss political opposition in Texas, the state's own grid, and wind opposition more broadly.",
+      "topics": [
+        "US wind capacity",
+        "Texas wind leadership",
+        "Texas grid",
+        "wind politics"
+      ]
+    },
+    {
+      "start": "00:41:32",
+      "end": "00:43:50",
+      "kind": "content",
+      "title": "Offshore wind and local opposition",
+      "summary": "Offshore wind is growing; Vineyard Wind has 62 planned turbines with five installed, and fishermen are compensated. Local opposition over views and property values (NIMBY) is discussed, along with California floating offshore goals and transmission needs.",
+      "topics": [
+        "offshore wind",
+        "Vineyard Wind",
+        "NIMBY",
+        "view shed opposition",
+        "floating offshore wind",
+        "California offshore wind"
+      ]
+    },
+    {
+      "start": "00:43:50",
+      "end": "00:46:44",
+      "kind": "content",
+      "title": "Transmission and energy storage",
+      "summary": "Wind is often far from population centers, so transmission is needed; a Princeton study found transmission growing slowly. Storage capacity for solar and wind is growing, aided by the Inflation Reduction Act, though batteries have environmental costs.",
+      "topics": [
+        "transmission lines",
+        "energy storage",
+        "Inflation Reduction Act",
+        "batteries and rare earth metals"
+      ]
+    },
+    {
+      "start": "00:46:44",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Global wind leaders: Denmark, China, US",
+      "summary": "Denmark gets over 50 percent of its power from wind; Spain, Germany, Portugal and the UK exceed 20 percent. In total generation the US is second and China leads, with China's goal of carbon neutrality by 2060.",
+      "topics": [
+        "Denmark wind share",
+        "China wind generation",
+        "global wind energy",
+        "carbon neutrality"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:51:24",
+      "kind": "listener_mail",
+      "title": "Listener mail: Marcie and Peppermint Patty in Peanuts",
+      "summary": "A listener explains why Marcie in Peanuts reads as Asian American, citing her haircut, glasses, parental expectations, and calling Peppermint Patty 'sir' as a courtesy title.",
+      "topics": [
+        "listener mail",
+        "Peanuts",
+        "Marcie",
+        "Asian American representation"
+      ]
+    },
+    {
+      "start": "00:51:24",
+      "end": "00:51:40",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and provide the contact email; show credits.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18539,
+    "output_tokens": 3672
+  }
+}

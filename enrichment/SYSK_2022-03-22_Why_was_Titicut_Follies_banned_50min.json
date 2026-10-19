@@ -1,0 +1,315 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-03-22_Why_was_Titicut_Follies_banned_50min.txt",
+  "title": "Why was Titicut Follies banned?",
+  "date": "2022-03-22",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-was-titicut-follies-banned",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7bcbe731-cd0b-4552-a0b9-ae5f0101f65f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7bcbe731-cd0b-4552-a0b9-ae5f0101f65f/transcript?format=TextWithTimestamps&t=1751062260",
+  "summary": "Josh and Chuck (credited in the transcript as \"iHeart Intro\" for Chuck's lines) discuss Frederick Wiseman's 1967 cinema verite documentary Titicut Follies, filmed at Bridgewater State Hospital, a Massachusetts facility for the criminally insane. They cover cinema verite as a style, Wiseman's background as a law professor and filmmaker, the history of Bridgewater from an 1854 almshouse onward, conditions and scenes in the film (including the shaving scene with inmate Jim, Vladimir, and a force-feeding scene), and the legal fight over the film: Lieutenant Governor Elliott Richardson's suppression attempt, Judge Harry Elam Callis's privacy ruling, the ACLU-backed limited-audience compromise, the suicide-related lawsuits, and its eventual release in 1991 under Judge Andrew Gilmeyer. The episode closes with listener mail about effective altruism and a free book offer.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Titicut Follies",
+    "Frederick Wiseman",
+    "Bridgewater State Hospital",
+    "cinema verite",
+    "direct cinema",
+    "film censorship",
+    "banned documentary",
+    "right to privacy court case",
+    "Massachusetts court rulings",
+    "civil commitment",
+    "criminally insane institutions",
+    "mental health reform",
+    "documentary filmmaking",
+    "Elliott Richardson",
+    "ACLU amicus brief",
+    "Canopy streaming",
+    "effective altruism",
+    "listener mail",
+    "Mooney Versus Fowler",
+    "Richard Leacock",
+    "Robert Drew"
+  ],
+  "entities": [
+    {
+      "name": "Titicut Follies",
+      "type": "work"
+    },
+    {
+      "name": "Frederick Wiseman",
+      "type": "person"
+    },
+    {
+      "name": "Bridgewater State Hospital",
+      "type": "place"
+    },
+    {
+      "name": "Elliott Richardson",
+      "type": "person"
+    },
+    {
+      "name": "Harry Callis",
+      "type": "person"
+    },
+    {
+      "name": "Andrew Gilmeyer",
+      "type": "person"
+    },
+    {
+      "name": "ACLU",
+      "type": "organization"
+    },
+    {
+      "name": "Massachusetts",
+      "type": "place"
+    },
+    {
+      "name": "Shirley Clarke",
+      "type": "person"
+    },
+    {
+      "name": "The Cool World",
+      "type": "work"
+    },
+    {
+      "name": "Mooney Versus Fowler",
+      "type": "work"
+    },
+    {
+      "name": "Richard Leacock",
+      "type": "person"
+    },
+    {
+      "name": "Robert Drew",
+      "type": "person"
+    },
+    {
+      "name": "Canopy",
+      "type": "organization"
+    },
+    {
+      "name": "Giving What We Can",
+      "type": "organization"
+    },
+    {
+      "name": "Toby Ord",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:50",
+      "kind": "intro",
+      "title": "Opening banter and Better Things",
+      "summary": "Hosts open with off-topic banter about Kevin Pollak, the show Better Things, and Project Greenlight.",
+      "topics": [
+        "banter",
+        "Kevin Pollak",
+        "Better Things"
+      ]
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Introducing Titicut Follies and cinema verite",
+      "summary": "The hosts introduce Titicut Follies as a notorious, disturbing film that is in fact a straightforward cinema verite documentary, and explain the direct cinema style.",
+      "topics": [
+        "Titicut Follies",
+        "cinema verite",
+        "direct cinema",
+        "Frederick Wiseman"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:20",
+      "kind": "content",
+      "title": "Cinema verite and early examples",
+      "summary": "They discuss the minimally intrusive style of cinema verite, Wiseman's view that people act like themselves on camera, and early works by Richard Leacock and Robert Drew such as Mooney Versus Fowler.",
+      "topics": [
+        "cinema verite",
+        "Richard Leacock",
+        "Robert Drew",
+        "Mooney Versus Fowler",
+        "documentary vs reality TV"
+      ]
+    },
+    {
+      "start": "00:09:20",
+      "end": "00:10:40",
+      "kind": "content",
+      "title": "Documentary recreations",
+      "summary": "The hosts discuss whether re-creations in documentaries work, citing The Kid Stays in the Picture and Forensic Files.",
+      "topics": [
+        "documentary recreations",
+        "The Kid Stays in the Picture",
+        "Forensic Files"
+      ]
+    },
+    {
+      "start": "00:10:40",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "History of Bridgewater State Hospital",
+      "summary": "Bridgewater began in 1854 as a Massachusetts poorhouse (almshouse) and gradually took in criminals and the mentally ill, becoming the State Asylum for Insane Criminals in 1895 and Bridgewater State Hospital by 1909, later under the Massachusetts Bureau of Prisons.",
+      "topics": [
+        "Bridgewater State Hospital",
+        "Massachusetts history",
+        "almshouse",
+        "criminally insane",
+        "institutional history"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Conditions and civil commitment",
+      "summary": "Discussion of civil commitment, the lack of medical care (staff saw fewer than half of the 650 men about once a year for about twenty minutes), and the case of Matteo Calicchio, held for decades after a small theft.",
+      "topics": [
+        "civil commitment",
+        "mental institution conditions",
+        "Matteo Calicchio",
+        "involuntary confinement"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Frederick Wiseman's background",
+      "summary": "Wiseman attended Yale law, was drafted for the Korean War, lived in Paris with his wife Zipporah Batshaw, began filmmaking, and was inspired by Shirley Clarke's The Cool World and by taking law students to Bridgewater.",
+      "topics": [
+        "Frederick Wiseman biography",
+        "The Cool World",
+        "Shirley Clarke",
+        "Zipporah Batshaw",
+        "origins of Titicut Follies"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Filming permissions and footage",
+      "summary": "Wiseman obtained permission from the lieutenant governor, the Department of Correction head, and the superintendent, and got consent from the men filmed; he shot over 29 days and typically shoots 75 to 250 hours of footage before editing.",
+      "topics": [
+        "filming permission",
+        "Bridgewater filming",
+        "Wiseman editing process"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Shaving scene and Jim",
+      "summary": "The hosts describe the forced shaving scene and guards taunting inmate Jim about his room, as well as Jim's later tantrum in his naked cell.",
+      "topics": [
+        "Titicut Follies scenes",
+        "shaving scene",
+        "inmate Jim",
+        "staff treatment of patients"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:45",
+      "kind": "content",
+      "title": "Wiseman's approach and the film's raw style",
+      "summary": "The hosts discuss Wiseman's refusal to editorialize, the available lighting and background noise, and the viewer's sense of witnessing. They compare it to a baseball game without modern extras.",
+      "topics": [
+        "Wiseman style",
+        "available light",
+        "documentary objectivity",
+        "viewer experience"
+      ]
+    },
+    {
+      "start": "00:31:45",
+      "end": "00:34:30",
+      "kind": "content",
+      "title": "Vladimir and the force-feeding scene",
+      "summary": "The hosts describe Vladimir's lucid plea to be released and clinicians discussing raising his medication, plus Wiseman's regretted force-feeding scene, which he considered ham-fisted.",
+      "topics": [
+        "Vladimir",
+        "force feeding",
+        "Titicut Follies controversy",
+        "clinical staff"
+      ]
+    },
+    {
+      "start": "00:34:30",
+      "end": "00:37:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Break before the discussion of the court cases.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:10",
+      "kind": "content",
+      "title": "Legal battle: banning and privacy rulings",
+      "summary": "Lieutenant Governor Elliott Richardson tried to suppress the film after it premiered, and a 1968 judge Harry Callis found it violated privacy and ordered the negative destroyed. Wiseman appealed; the ruling established a right to privacy in Massachusetts, and the ACLU suggested limiting showings to professionals. The film was shown in film classes, medical schools, and libraries, and suicide-related lawsuits followed.",
+      "topics": [
+        "Titicut Follies ban",
+        "Elliott Richardson",
+        "Harry Callis",
+        "right to privacy",
+        "ACLU amicus brief",
+        "film censorship",
+        "suicides at Bridgewater"
+      ]
+    },
+    {
+      "start": "00:43:10",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Unbanning and later availability",
+      "summary": "Wiseman refused to blur faces; a judge later allowed release, and in 1991 Judge Andrew Gilmeyer of the Massachusetts Supreme Judicial Court allowed it to be shown. PBS aired it in 1993, Wiseman sold DVDs, and it streamed on Canopy in 2017. The hosts note ongoing reform issues at Bridgewater and Wiseman's body of work.",
+      "topics": [
+        "unbanned film",
+        "Canopy streaming",
+        "PBS broadcast",
+        "Bridgewater reform",
+        "Frederick Wiseman filmography"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:49:20",
+      "kind": "listener_mail",
+      "title": "Effective altruism listener mail",
+      "summary": "Listener Grace Adams from Giving What We Can offers free books on effective altruism; Toby Ord also wrote in praising the earlier episode.",
+      "topics": [
+        "effective altruism",
+        "Giving What We Can",
+        "Toby Ord",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:49:20",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks and show credits.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18057,
+    "output_tokens": 3554
+  }
+}

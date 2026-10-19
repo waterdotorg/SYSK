@@ -1,0 +1,263 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-03-29_How_Light_Pollution_Works_48min.txt",
+  "title": "How Light Pollution Works",
+  "date": "2022-03-29",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-light-pollution-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b82f22f1-b091-45f7-9c30-ae66011c672b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b82f22f1-b091-45f7-9c30-ae66011c672b/transcript?format=TextWithTimestamps&t=1700551627",
+  "summary": "Josh and Chuck open on Chuck's birthday with a front-loaded listener mail from Alex in New Zealand about dark sky reserves and the McKenzie Basin, then explore light pollution: its history starting with late-nineteenth-century astronomers and Flagstaff's 1950s searchlight ban, the four types (glare, light trespass, clutter, skyglow), satellite streaks interfering with astronomy, effects on indigenous night-sky cultures, wildlife (migrating birds, insects and pollinators, sea turtle hatchlings), human health concerns including blue-wavelength LED light and DNA methylation, practical fixes like night-shift settings and shielded fixtures, and the question of whether outdoor lighting deters crime. Ends with a pitch to tell friends about the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "light pollution",
+    "artificial light at night",
+    "dark sky",
+    "skyglow",
+    "glare",
+    "light trespass",
+    "light clutter",
+    "International Dark Sky Association",
+    "Flagstaff dark sky ordinance",
+    "Lowell Observatory",
+    "satellite streaks astronomy",
+    "Starlink satellites",
+    "bird migration and light",
+    "bird strikes window collisions",
+    "lights out program",
+    "insect pollinators night lighting",
+    "sea turtle hatchlings lights",
+    "blue light LED health",
+    "DNA methylation circadian rhythm",
+    "night shift mode",
+    "outdoor lighting crime prevention",
+    "Milky Way visibility",
+    "indigenous night sky culture",
+    "outdoor lighting energy waste"
+  ],
+  "entities": [
+    {
+      "name": "Lowell Observatory",
+      "type": "organization"
+    },
+    {
+      "name": "International Dark Sky Association",
+      "type": "organization"
+    },
+    {
+      "name": "Flagstaff",
+      "type": "place"
+    },
+    {
+      "name": "Tucson",
+      "type": "place"
+    },
+    {
+      "name": "Percival Lowell",
+      "type": "person"
+    },
+    {
+      "name": "Giovanni Schiaparelli",
+      "type": "person"
+    },
+    {
+      "name": "Henry Beston",
+      "type": "person"
+    },
+    {
+      "name": "Brera Astronomical Observatory",
+      "type": "organization"
+    },
+    {
+      "name": "Starlink",
+      "type": "organization"
+    },
+    {
+      "name": "Sapelo Island",
+      "type": "place"
+    },
+    {
+      "name": "McKenzie Basin",
+      "type": "place"
+    },
+    {
+      "name": "Bernese Prealps",
+      "type": "place"
+    },
+    {
+      "name": "Chicago",
+      "type": "place"
+    },
+    {
+      "name": "Los Angeles",
+      "type": "place"
+    },
+    {
+      "name": "American Medical Association",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Birthday intro and listener mail from Alex",
+      "summary": "Chuck's birthday opening. A listener, Alex from New Zealand, writes about his father's role in the McKenzie Basin dark sky reserve and a photo of the night sky; the hosts discuss how rarely people see the Milky Way.",
+      "topics": [
+        "listener mail",
+        "dark sky reserve",
+        "McKenzie Basin",
+        "Milky Way visibility"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "History of light pollution and astronomers",
+      "summary": "Light pollution's history: late-nineteenth-century astronomers such as Schiaparelli complained about electric light, and Henry Beston wrote about lost night. Problems grew through the twentieth century.",
+      "topics": [
+        "light pollution history",
+        "Schiaparelli",
+        "Henry Beston",
+        "astronomers and electric light"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Flagstaff and Tucson dark sky laws",
+      "summary": "Lowell Observatory moved outside Flagstaff, and Flagstaff's city council banned searchlights in the 1950s, among the first US measures on light pollution. Tucson followed in the early 1970s with laws directing outdoor lights downward.",
+      "topics": [
+        "Flagstaff ordinance",
+        "searchlights ban",
+        "Lowell Observatory",
+        "Tucson lighting laws"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Blue LEDs and International Dark Sky Association",
+      "summary": "The hosts discuss blue-light LEDs as a problem and the International Dark Sky Association, which certifies dark sky places around the world; Josh describes a visit to Sapelo Island in Georgia.",
+      "topics": [
+        "blue light LEDs",
+        "International Dark Sky Association",
+        "dark sky certification",
+        "Sapelo Island"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:22:00",
+      "kind": "ad",
+      "title": "Birthday break",
+      "summary": "Break with banter about Chuck's birthday and his daughter's first pro sporting event.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Four types of light pollution",
+      "summary": "The IDA's four types: glare, light trespass, clutter, and skyglow, with examples such as street light glare, a neighbor's floodlight, and Las Vegas skyglow.",
+      "topics": [
+        "glare",
+        "light trespass",
+        "light clutter",
+        "skyglow",
+        "types of light pollution"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Satellites and astronomy",
+      "summary": "Satellite streaks now appear in a growing share of twilight astronomy images, a problem for tracking near-Earth objects and radio astronomy; large planned Starlink constellations are expected to make it worse.",
+      "topics": [
+        "satellite streaks",
+        "Starlink",
+        "radio telescopes",
+        "space junk astronomy"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Indigenous night sky cultures",
+      "summary": "Many indigenous cultures rely on the night sky for navigation, ritual, and worldview, and light pollution and satellites are infringing on that knowledge, with scholars calling it a form of cultural harm.",
+      "topics": [
+        "indigenous astronomy",
+        "night sky culture",
+        "cultural impact of light pollution"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Wildlife: birds, insects, sea turtles",
+      "summary": "Light disrupts bird migration and causes window strikes, with about a billion bird deaths a year in the US. Chicago's lights-out program is mentioned. A Bernese Prealps study found pollinator visits dropped with LED street lights, and sea turtle hatchlings are misled by lights.",
+      "topics": [
+        "bird migration",
+        "bird strikes",
+        "lights out program",
+        "insect pollinators",
+        "sea turtles",
+        "BirdCast"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Human health effects and blue light",
+      "summary": "Blue-wavelength LED light at night has been linked to DNA methylation, a trigger for breast cancer and type two diabetes, and the AMA issued guidance on outdoor LED lighting. Night shift settings are recommended.",
+      "topics": [
+        "blue light health effects",
+        "DNA methylation",
+        "breast cancer",
+        "AMA guidance",
+        "night shift mode"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Practical fixes and crime and lighting",
+      "summary": "Outdoor lighting waste is estimated at about 30 percent, with financial and emissions costs. Shielded fixtures and motion-sensor lights are suggested, and the hosts discuss whether lighting actually deters crime.",
+      "topics": [
+        "outdoor lighting waste",
+        "shielded fixtures",
+        "motion sensor lights",
+        "crime and lighting",
+        "home security lights"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:53:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts ask listeners to tell friends about the show and mention the book, trivia game, and email contact.",
+      "topics": [
+        "podcast promotion",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15481,
+    "output_tokens": 2833
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-01-18_How_Hang_Gliding_Works_42min.txt",
+  "title": "How Hang Gliding Works",
+  "date": "2018-01-18",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-hang-gliding-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a4844be0-eb94-47a5-a0c8-ae28006a6d99/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a4844be0-eb94-47a5-a0c8-ae28006a6d99/transcript?format=TextWithTimestamps&t=1700543777",
+  "summary": "Josh and Chuck explore hang gliding: an opening banter about whether they'd try it, then its history from Otto Lilienthal's glider flights and NASA engineer Francis Rogallo's flexible Rogallo wing, through Tom Dickinson's paraglider-style towed design and the Wills brothers' 1970s manufacturing boom. They compare flexible and rigid wings and describe the anatomy of a hang glider (keel, leading edge tubes, crossbar, control bar, harness). They cover flight physics (lift, drag, sink rate, glide ratio), thermal and ridge lift, record cross-country flights, steering by shifting weight, landing by stalling, learning on sand dunes, towed launches, and accident risks. The episode closes with a listener email from Christian and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "hang gliding",
+    "hang glider",
+    "Otto Lilienthal",
+    "Francis Rogallo",
+    "Rogallo wing",
+    "NASA parachute alternative",
+    "Tom Dickinson",
+    "paragliding history",
+    "Wills brothers",
+    "flexible wing vs rigid wing",
+    "hang glider anatomy",
+    "control bar",
+    "glide ratio",
+    "sink rate",
+    "thermal lift",
+    "ridge lift",
+    "hang gliding physics",
+    "lift and drag",
+    "towed hang gliding",
+    "Kitty Hawk Kites",
+    "hang gliding safety",
+    "Jockey's Ridge",
+    "cross-country hang gliding record",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Otto Lilienthal",
+      "type": "person"
+    },
+    {
+      "name": "Francis Rogallo",
+      "type": "person"
+    },
+    {
+      "name": "Tom Dickinson",
+      "type": "person"
+    },
+    {
+      "name": "Bob and Chris Wills",
+      "type": "organization"
+    },
+    {
+      "name": "Wills Wing",
+      "type": "organization"
+    },
+    {
+      "name": "Kitty Hawk Kites",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Wright brothers",
+      "type": "person"
+    },
+    {
+      "name": "Jockey's Ridge",
+      "type": "place"
+    },
+    {
+      "name": "Lubbock, Texas to Nuevo Laredo flight",
+      "type": "event"
+    },
+    {
+      "name": "Rogallo wing",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and personal interest in hang gliding",
+      "summary": "Josh and Chuck joke about the episode title and discuss whether they would try hang gliding; Chuck is not enthused, Josh is intrigued. They critique the old How Stuff Works article's personal anecdotes.",
+      "topics": [
+        "hang gliding",
+        "How Stuff Works article",
+        "fear of heights"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Early history: Rogallo wing and Otto Lilienthal",
+      "summary": "NASA engineer Francis Rogallo's flexible Rogallo wing, tested in the 1940s as a way to return spacecraft to Earth, inspired independent hobbyists. Otto Lilienthal, a German engineer, made over two thousand glider flights and is called the father of hang gliding; his work faded after the Wright brothers' powered flight.",
+      "topics": [
+        "Francis Rogallo",
+        "Rogallo wing",
+        "NASA",
+        "Otto Lilienthal",
+        "Wright brothers",
+        "early glider history"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Tom Dickinson, the 1970s revival and the Wills brothers",
+      "summary": "Tom Dickinson built a hang glider inspired by NASA's Rogallo wing photos and an early paraglider-style design, which led to foot-launched hang gliders by the early 1970s. Bob and Chris Wills formed Wills Wing and helped grow the sport in the mid-1970s. The hosts discuss the colorful seventies culture around the sport and a family anecdote about parasailing.",
+      "topics": [
+        "Tom Dickinson",
+        "Wills brothers",
+        "Wills Wing",
+        "1970s hang gliding",
+        "foot-launched hang glider",
+        "paragliding"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Flexible wing vs rigid wing and glider anatomy",
+      "summary": "The hosts describe the flexible wing as a nylon fabric covering an aluminum or carbon fiber frame, and the rigid wing as a stiffer, strut-supported version. Both are assembled and disassembled easily, weigh roughly forty to seventy pounds, and the frame consists of a keel, leading edge tubes, and a crossbar, with the control bar and harness hanging below.",
+      "topics": [
+        "flexible wing",
+        "rigid wing",
+        "hang glider frame",
+        "keel",
+        "leading edge tubes",
+        "crossbar",
+        "control bar",
+        "harness",
+        "carbon fiber"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Launching, landing and the risks of learning to fly",
+      "summary": "They discuss running off cliffs versus the sand-dune training approach, and how Kitty Hawk Kites recommends remaining calm and taking tandem lessons. Instruments such as the variometer and altimeter are mentioned, and they note that most accidents happen on takeoff or landing.",
+      "topics": [
+        "hang gliding launch",
+        "cliff launch",
+        "sand dune training",
+        "Kitty Hawk Kites",
+        "tandem lessons",
+        "variometer",
+        "altimeter",
+        "hang gliding accidents"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Flight physics: lift, drag, sink rate and glide ratio",
+      "summary": "The hosts explain that lift from airflow over the wing counters gravity, which also provides forward motion, while drag slows the glider. Sink rate is the speed of descent in still air, and glide ratio is forward distance traveled per unit of vertical drop.",
+      "topics": [
+        "lift",
+        "drag",
+        "sink rate",
+        "glide ratio",
+        "hang gliding physics",
+        "aerodynamics"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Soaring on thermals and ridge lift, cross-country records and steering",
+      "summary": "Pilots catch thermal lift from hot sand or pavement and ridge lift deflected up by hills, and can spiral up in air columns, sometimes watching soaring birds. The record cross-country flight covered about 472 miles from Lubbock, Texas to Nuevo Laredo in roughly eleven hours. Steering is done by shifting body weight on the control bar, pushing the nose down to speed up and pulling back to slow and land.",
+      "topics": [
+        "thermal lift",
+        "ridge lift",
+        "soaring",
+        "cross-country record",
+        "Lubbock to Nuevo Laredo",
+        "weight shifting steering",
+        "stall landing"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Hang gliding with pickup trucks and early tethered designs",
+      "summary": "Kansas pilots reportedly launch by being towed behind pickup trucks. The earliest designs had no harness, so pilots dangled from the control bar. Chuck and Josh end the main discussion with jokes about Kansas having no cliffs.",
+      "topics": [
+        "towed launch",
+        "pickup truck launch",
+        "Kansas hang gliding",
+        "early hang glider designs without harness"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Christian",
+      "summary": "Christian writes about listening since 2009 and how the show helped him through depression and his time in the army, and says he is now returning to college. Josh and Chuck thank him.",
+      "topics": [
+        "listener mail",
+        "Christian"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:42:30",
+      "kind": "outro",
+      "title": "Sign-off and social media contacts",
+      "summary": "The hosts thank listeners and give social media, email, and website contact information.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13545,
+    "output_tokens": 2862
+  }
+}

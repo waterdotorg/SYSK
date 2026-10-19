@@ -1,0 +1,288 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-06-21_How_Space_Stations_Work_48min.txt",
+  "title": "How Space Stations Work",
+  "date": "2016-06-21",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-space-stations-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5acda7e0-26f3-4e51-8f34-ae280082cacf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5acda7e0-26f3-4e51-8f34-ae280082cacf/transcript?format=TextWithTimestamps&t=1700543832",
+  "summary": "Josh and Chuck explore the history and future of space stations, from 1950s-70s space colony enthusiasm and Wernher von Braun's advocacy, through the Soviet Salyut and Mir stations, the US Skylab (its troubled launch, 1979 uncontrolled reentry), and the International Space Station. They cover microgravity research (crystals, semiconductors, drugs, flames), health effects on the body (bone loss, fluid shifts, fainting, radiation), daily life aboard the ISS (work schedule, food, toilets, hygiene, movies), space tourism companies, China's Tiangong program, and Lagrange points as future station sites. The episode closes with listener mail from Brandy in Kansas about generational attitudes and graduation.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "space stations",
+    "International Space Station",
+    "ISS",
+    "Skylab",
+    "Mir space station",
+    "Salyut",
+    "Soviet space program",
+    "space colonization",
+    "Wernher von Braun",
+    "microgravity research",
+    "space tourism",
+    "Virgin Galactic",
+    "Galactic Suite",
+    "Bigelow Industries",
+    "Tiangong",
+    "Chinese space station",
+    "Lagrange points",
+    "L5 Society",
+    "astronaut health",
+    "bone density loss in space",
+    "living in space",
+    "space toilet",
+    "Skylab reentry",
+    "Scott Kelly twin study",
+    "space race",
+    "Sergei Krikalev",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "International Space Station",
+      "type": "other"
+    },
+    {
+      "name": "Skylab",
+      "type": "other"
+    },
+    {
+      "name": "Mir",
+      "type": "other"
+    },
+    {
+      "name": "Salyut",
+      "type": "other"
+    },
+    {
+      "name": "Wernher von Braun",
+      "type": "person"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "place"
+    },
+    {
+      "name": "Virgin Galactic",
+      "type": "organization"
+    },
+    {
+      "name": "Galactic Suite",
+      "type": "organization"
+    },
+    {
+      "name": "Bigelow Industries",
+      "type": "organization"
+    },
+    {
+      "name": "Tiangong",
+      "type": "other"
+    },
+    {
+      "name": "Arthur C. Clarke",
+      "type": "person"
+    },
+    {
+      "name": "Scott Kelly",
+      "type": "person"
+    },
+    {
+      "name": "Sergei Krikalev",
+      "type": "person"
+    },
+    {
+      "name": "Valeri Polyakov",
+      "type": "person"
+    },
+    {
+      "name": "Shuttle program",
+      "type": "event"
+    },
+    {
+      "name": "Lagrange points",
+      "type": "other"
+    },
+    {
+      "name": "L5 Society",
+      "type": "organization"
+    },
+    {
+      "name": "Collier's",
+      "type": "work"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "type": "person"
+    },
+    {
+      "name": "Stanthorpe",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "ad",
+      "title": "Sponsor read and opening banter",
+      "summary": "Squarespace sponsor read, then hosts' opening banter about looking for the ISS and the fact that humans have lived continuously on the International Space Station.",
+      "topics": [
+        "Squarespace",
+        "ISS viewing",
+        "space living"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Space colonization fever and von Braun",
+      "summary": "The hosts discuss the 1950s and 1970s space colony enthusiasm, NASA Ames summer studies, and the Space Shuttle cost expectations that did not pan out. Wernher von Braun is described as a champion of space stations who wrote popular articles and produced a Disney-associated show to build public support.",
+      "topics": [
+        "space colonization",
+        "1970s space colony",
+        "Wernher von Braun",
+        "Space Shuttle costs",
+        "public support for space program"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Why build space stations: research and microgravity",
+      "summary": "The hosts explain reasons for space stations: public and funding support, and research benefits of microgravity such as better semiconductor and drug crystals, steadier flames for combustion study, and better Earth and deep-space imaging.",
+      "topics": [
+        "microgravity research",
+        "crystal growth",
+        "semiconductors",
+        "combustion research",
+        "space manufacturing",
+        "Earth observation"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Space tourism and private companies",
+      "summary": "The hosts discuss space tourism prospects, including Galactic Suite's claimed four-million-dollar weekend stay, a Russian project whose site was not updated since 2010, Bigelow Industries' inflatable habitat sent to the ISS by SpaceX, and Virgin Galactic.",
+      "topics": [
+        "space tourism",
+        "Galactic Suite",
+        "Bigelow Industries",
+        "Virgin Galactic",
+        "SpaceX"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Soviet Salyut stations",
+      "summary": "The Soviet Union launched the first space station, Salyut, with the Almaz military system and Soyuz ferry. Salyut 1 had three compartments and the Salyut 11 crew lived there 24 days but died on reentry due to depressurization. Later Salyut stations added a second docking port, allowing Progress supply ships.",
+      "topics": [
+        "Salyut",
+        "Soyuz",
+        "Almaz",
+        "Soviet space stations",
+        "Salyut 11 disaster",
+        "Progress supply ship"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Health effects of spaceflight and Skylab",
+      "summary": "The hosts describe bone density loss, fluid shifts causing fainting on return, the effect of no sound in space, the Scott and Mike Kelly twin study, and cancer risk from radiation. They then cover Skylab's troubled 1973 launch, the repair crews, and the 1979 uncontrolled reentry with NASA's one-in-152 risk estimate.",
+      "topics": [
+        "bone density loss",
+        "fainting after spaceflight",
+        "Scott Kelly twin study",
+        "space radiation",
+        "Skylab",
+        "Skylab repairs",
+        "Skylab reentry 1979"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Skylab debris and Mir station",
+      "summary": "Skylab debris fell in Australia; a 17-year-old named Stanthorpe claimed a piece and was paid by the San Francisco Examiner. The hosts then move to the Soviet Mir station, its first crew including Krikalev and Viktorenko, its modules, American guests, Krikalev as last Soviet citizen in space, a fire, a Progress collision, and its deorbit in 2001.",
+      "topics": [
+        "Skylab debris",
+        "Mir space station",
+        "Mir deorbit 2001",
+        "Sergei Krikalev",
+        "Progress collision"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "International Space Station history and daily life",
+      "summary": "Reagan's invitation to partner nations to build the ISS and the involvement of Russia, first crew in 2000, and daily routines: ten-hour workdays, sunrises and sunsets, food overspiced due to reduced taste, crumbs, two toilets with suction system, and recycling of water.",
+      "topics": [
+        "ISS history",
+        "ISS partner nations",
+        "daily life on ISS",
+        "space toilet",
+        "space food",
+        "space hygiene"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "China's Tiangong and Lagrange points",
+      "summary": "The hosts discuss China's Tiangong program, its women astronauts, and the lost contact with Tiangong-1. They then discuss Lagrange points as stable locations for future stations, Arthur C. Clarke's early idea, and the L5 Society.",
+      "topics": [
+        "Tiangong",
+        "Chinese space program",
+        "Lagrange points",
+        "L5 Society",
+        "Arthur C. Clarke"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Valeri Polyakov record and closing",
+      "summary": "The hosts mention Valeri Polyakov's record of 438 days aboard Mir, then wrap up the topic and point listeners to HowStuffWorks.",
+      "topics": [
+        "Valeri Polyakov",
+        "long-duration spaceflight record"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:48:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: generational attitudes and graduation",
+      "summary": "Chuck reads a post about graduations and praises the younger generation. Listener Brandy from Kansas writes about the kids-today fallacy, invites the show to Kansas, and the hosts mention contacts in Kansas and Denver. Social media and email contact information is given.",
+      "topics": [
+        "listener mail",
+        "generational attitudes",
+        "Kansas",
+        "graduation"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15661,
+    "output_tokens": 3113
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-05-03_The_Mystery_of_Coal_40min.txt",
+  "title": "The Mystery of Coal",
+  "date": "2022-05-03",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-mystery-of-coal",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f48614a3-4f26-4894-b085-ae8a00d3a867/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f48614a3-4f26-4894-b085-ae8a00d3a867/transcript?format=TextWithTimestamps&t=1700551641",
+  "summary": "Josh and Chuck explain how coal forms, from peat bogs and swamp muck through burial, pressure and heat into lignite, bituminous and anthracite coal, and graphite as the final stage. They describe coal's Carboniferous-period origins (Pennsylvanian epoch, Appalachian region), the \"white rot\" fungus theory for why coal deposition dropped off, and scientists' counterarguments. They discuss coal as a carbon sink in the carbon cycle, its role in climate change compared with volcanic emissions, and close with a listener mail from Jackson in Canberra, Australia about the show's title and can openers.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "coal formation",
+    "how coal is made",
+    "peat bog",
+    "peat",
+    "swamp muck",
+    "coalification",
+    "lignite",
+    "bituminous coal",
+    "anthracite",
+    "graphite",
+    "Carboniferous period",
+    "Pennsylvanian epoch",
+    "Mississippian epoch",
+    "white rot fungi",
+    "white rot theory",
+    "lignin",
+    "wood decay fungi",
+    "Appalachian Mountains coal seams",
+    "carbon sink",
+    "carbon cycle",
+    "climate change and coal",
+    "fossil fuels",
+    "non-renewable energy",
+    "volcanic carbon emissions",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Carboniferous period",
+      "type": "event"
+    },
+    {
+      "name": "Pennsylvanian epoch",
+      "type": "event"
+    },
+    {
+      "name": "Mississippian epoch",
+      "type": "event"
+    },
+    {
+      "name": "Appalachian Mountains",
+      "type": "place"
+    },
+    {
+      "name": "Laurasia",
+      "type": "place"
+    },
+    {
+      "name": "Gondwana",
+      "type": "place"
+    },
+    {
+      "name": "Okefenokee Swamp",
+      "type": "place"
+    },
+    {
+      "name": "Permian period",
+      "type": "event"
+    },
+    {
+      "name": "U.S. Department of Energy",
+      "type": "organization"
+    },
+    {
+      "name": "Neil Diamond",
+      "type": "person"
+    },
+    {
+      "name": "John Hodgman",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and episode title",
+      "summary": "Josh and Chuck introduce the episode title 'The Mystery of Coal' and tease that coal's formation is interesting and has been used by humans for a long time.",
+      "topics": [
+        "coal",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Peat bogs and swamp muck",
+      "summary": "Coal begins in peat bogs and swamps, where stagnant, oxygen-poor water preserves fallen plant matter and carbon is locked in the muck instead of decomposing as it would on land.",
+      "topics": [
+        "peat bog",
+        "swamp muck",
+        "decomposition",
+        "carbon storage",
+        "how coal is made"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Burial, pressure, and coalification",
+      "summary": "As lakes fill in and swamps become dry land, layers of earth compress the peat. Heat and pressure transform it through coalification, and deeper burial yields different types of coal, with diamonds also starting as swamp muck.",
+      "topics": [
+        "coalification",
+        "compression",
+        "sedimentary rock",
+        "peat to coal",
+        "diamond formation"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Types of coal: lignite, bituminous, anthracite, graphite",
+      "summary": "The hosts describe lignite as brownish and crumbly, bituminous as the most widely used coal, anthracite as the hardest and cleanest-burning, and graphite as the final stage, which is hard to ignite. They also compare coal and oil formation, which differ mainly by location and source material.",
+      "topics": [
+        "lignite",
+        "bituminous coal",
+        "anthracite",
+        "graphite",
+        "coal types",
+        "coal vs oil"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Carboniferous period and the Appalachian coal seams",
+      "summary": "Coal formed mainly in the Carboniferous period, a warm and wet era. Tectonic collisions of Laurasia and Gondwana formed mountains that became the Appalachians, carrying coal-bearing swamp deposits with them.",
+      "topics": [
+        "Carboniferous period",
+        "Laurasia",
+        "Gondwana",
+        "Appalachian Mountains",
+        "plate tectonics",
+        "coal seams"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "The coal mystery and the white rot theory",
+      "summary": "Most of the world's coal was deposited in the Pennsylvanian epoch, then deposition dropped off. Giant plants and lignin are discussed, and the white rot theory proposes that a lignin-decomposing fungus appeared near the end of the Carboniferous, which the U.S. Department of Energy supported with genome analysis.",
+      "topics": [
+        "Pennsylvanian epoch",
+        "lignin",
+        "white rot fungi",
+        "white rot theory",
+        "coal mystery",
+        "wood decay fungi"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Counterarguments to the white rot theory",
+      "summary": "Some scientists argue that something could already break down lignin before white rot fungi appeared, citing partially decayed fossil plants. An alternative is that tectonic activity caused an unusual spike in coal deposition rather than a sudden drop-off.",
+      "topics": [
+        "white rot theory criticism",
+        "coal deposition spike",
+        "tectonic plates",
+        "fossil plant decay"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Coal in the carbon cycle and climate change",
+      "summary": "Coal acts as a carbon sink that stores carbon underground. Burning it releases carbon far faster than natural processes, and human emissions far exceed volcanic emissions, contributing to global warming and related effects.",
+      "topics": [
+        "carbon sink",
+        "carbon cycle",
+        "climate change",
+        "global warming",
+        "volcanic emissions",
+        "carbon dioxide"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Jackson from Canberra",
+      "summary": "A listener from Australia writes about the show's title and says he learned how to use a can opener from the show's podcast, with the hosts joking about can openers.",
+      "topics": [
+        "listener mail",
+        "show title",
+        "can opener"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13247,
+    "output_tokens": 2307
+  }
+}

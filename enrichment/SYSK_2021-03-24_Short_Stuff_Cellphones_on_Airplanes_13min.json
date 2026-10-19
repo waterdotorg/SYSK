@@ -1,0 +1,164 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-03-24_Short_Stuff_Cellphones_on_Airplanes_13min.txt",
+  "title": "Short Stuff: Cellphones on Airplanes",
+  "date": "2021-03-24",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-cellphones-on-airplanes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/40c061f3-830f-4832-bee2-ae28001e57db/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/40c061f3-830f-4832-bee2-ae28001e57db/transcript?format=TextWithTimestamps&t=1700543598",
+  "summary": "Short Stuff episode on whether cell phones can be used on airplanes. Hosts explain that the FAA and FCC ban in-flight cell phone calls: the FAA worries about interference with avionics and instrumentation, and the FCC worries about cell towers being overloaded by fast-moving aircraft handoffs and disrupting ground networks. They note airplane mode cuts cellular service while leaving WiFi on, that planes are hardened against electromagnetic interference, and that lightning and solar flares have affected instrumentation. They discuss Richard Branson's Virgin picocell service that uses the plane's WiFi for calls on some flights, the FCC's multi-year study that concluded against allowing calls (including flight attendant concerns during emergencies and passenger annoyance), and the etiquette of talking on phones in flight. Includes an unrelated personal aside about a family member's film work and a promotion for a movie podcast, which the hosts say may be edited out.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "cell phones on airplanes",
+    "in-flight cell phone ban",
+    "FAA cell phone rules",
+    "FCC in-flight cellular ban",
+    "airplane mode",
+    "electromagnetic interference aircraft",
+    "avionics interference",
+    "picocells",
+    "Richard Branson Virgin cell service",
+    "in-flight WiFi",
+    "air-to-ground cellular handoff",
+    "airplane etiquette",
+    "phone use on planes",
+    "aircraft hardening",
+    "GPS interference aviation",
+    "flight attendants cell phones",
+    "Virgin Mobile",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Federal Aviation Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Richard Branson",
+      "type": "person"
+    },
+    {
+      "name": "Virgin",
+      "type": "organization"
+    },
+    {
+      "name": "airplane mode",
+      "type": "other"
+    },
+    {
+      "name": "picocell",
+      "type": "other"
+    },
+    {
+      "name": "John Hodgeman",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and cell phone ban overview",
+      "summary": "Hosts open with banter about a loud cell phone user on a flight, then introduce that the FAA and FCC ban cell phone calls on planes.",
+      "topics": [
+        "cell phones on airplanes",
+        "in-flight cell phone ban",
+        "FAA cell phone rules",
+        "FCC in-flight cellular ban"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "History of the rules and airplane mode",
+      "summary": "Hosts describe early instructions to power down phones, the introduction of airplane mode, which cuts cellular service but keeps WiFi, and how in-flight WiFi changed the experience.",
+      "topics": [
+        "airplane mode",
+        "in-flight WiFi",
+        "phone use on planes"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Interference concerns and aircraft hardening",
+      "summary": "Discussion of whether phones can interfere with flight systems. Hosts say aircraft electronics are shielded, but electromagnetic interference from lightning and solar flares has affected instruments, especially GPS. No study found a crash caused by phone use.",
+      "topics": [
+        "electromagnetic interference aircraft",
+        "avionics interference",
+        "aircraft hardening",
+        "GPS interference aviation"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:08:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts announce a break before continuing.",
+      "topics": [
+        "Short Stuff"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Etiquette and cell tower handoff problems",
+      "summary": "Hosts joke about passengers who ignore phone rules, then explain the FCC concern that fast-moving aircraft would overload ground cell towers through rapid handoffs, and that phones at cruising altitude generally cannot reach towers.",
+      "topics": [
+        "air-to-ground cellular handoff",
+        "airplane etiquette",
+        "phone use on planes"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Richard Branson's Virgin picocell service",
+      "summary": "Hosts describe Virgin offering picocell service using the plane's WiFi on some flights outside the US, and speculate it promotes Virgin Mobile.",
+      "topics": [
+        "picocells",
+        "Richard Branson Virgin cell service",
+        "Virgin Mobile"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "FCC study conclusion and passenger annoyance",
+      "summary": "The FCC studied the issue for years, consulted flight attendants who opposed calls especially in emergencies, and concluded against allowing them. Hosts also discuss passenger annoyance and etiquette.",
+      "topics": [
+        "FCC in-flight cellular ban",
+        "flight attendants cell phones",
+        "airplane etiquette"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Personal aside and sign-off",
+      "summary": "An unrelated personal aside about a family member's film work, then the hosts sign off with the reminder to stay off your phone.",
+      "topics": [
+        "Short Stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5271,
+    "output_tokens": 1928
+  }
+}

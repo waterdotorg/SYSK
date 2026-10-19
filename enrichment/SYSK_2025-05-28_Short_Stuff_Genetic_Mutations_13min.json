@@ -1,0 +1,155 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-05-28_Short_Stuff_Genetic_Mutations_13min.txt",
+  "title": "Short Stuff: Genetic Mutations",
+  "date": "2025-05-28",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-genetic-mutations",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59e165bb-c8a7-4abf-bfed-b2df011ee40e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/59e165bb-c8a7-4abf-bfed-b2df011ee40e/transcript?format=TextWithTimestamps&t=1747416793",
+  "summary": "Short Stuff installment on genetic mutations. Josh and Chuck open by noting that most mutations are neutral, some are beneficial (lactose tolerance, malaria immunity), and all stem from copying errors in the genome. They explain DNA's double helix structure, base pairs, and genes as protein-encoding instructions. They cover how mutations arise during cell replication (tautomeric shifts, mispairing like a zipper slipping, and jumping genes) and from environmental causes (UV radiation forming pyrimidine dimers, chemical agents, viruses, cigarette smoke, and deaminating agents). They close by describing the cell's repair mechanisms: proofreading, direct fixes, and excision and resynthesis, then sign off.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "genetic mutations",
+    "DNA",
+    "double helix",
+    "base pairs",
+    "genes",
+    "DNA replication errors",
+    "beneficial mutations",
+    "lactose tolerance",
+    "malaria immunity",
+    "somatic mutation",
+    "germline mutation",
+    "tautomeric shift",
+    "mispairing",
+    "jumping genes",
+    "transposons",
+    "UV radiation",
+    "pyrimidine dimers",
+    "carcinogens",
+    "DNA repair",
+    "excision repair",
+    "proofreading",
+    "environmental mutagens"
+  ],
+  "entities": [
+    {
+      "name": "DNA",
+      "type": "other"
+    },
+    {
+      "name": "X-Men",
+      "type": "work"
+    },
+    {
+      "name": "Jurassic Park",
+      "type": "work"
+    },
+    {
+      "name": "Jimmy Fallon",
+      "type": "person"
+    },
+    {
+      "name": "The Rock",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:04",
+      "kind": "intro",
+      "title": "Introduction to genetic mutations",
+      "summary": "Josh introduces the Short Stuff mutations edition with a nod to the X-Men. He notes most mutations are neutral, some are beneficial (lactose tolerance, malaria immunity), and all come from copying errors in the genome.",
+      "topics": [
+        "genetic mutations",
+        "X-Men",
+        "beneficial mutations",
+        "lactose tolerance",
+        "malaria immunity"
+      ]
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:04:54",
+      "kind": "content",
+      "title": "DNA structure and replication errors",
+      "summary": "Chuck describes the double helix, and Josh covers base pairs, genes as protein-encoding instructions, and how a copying error can disrupt a gene. Chuck explains that replication errors occur roughly once per hundred million replications and that DNA often repairs them. Somatic mutations, which are not inherited, are distinguished from germline mutations passed to offspring.",
+      "topics": [
+        "DNA",
+        "double helix",
+        "base pairs",
+        "genes",
+        "DNA replication errors",
+        "somatic mutation",
+        "germline mutation"
+      ]
+    },
+    {
+      "start": "00:04:54",
+      "end": "00:05:26",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a short break.",
+      "topics": []
+    },
+    {
+      "start": "00:05:26",
+      "end": "00:08:13",
+      "kind": "content",
+      "title": "How mutations arise during replication",
+      "summary": "Josh describes tautomeric shifts, where a nucleotide briefly changes chemically and is miscopied. Chuck covers mispairing, where the two strands misalign during rezipping. Josh describes jumping genes that move and insert into other genes.",
+      "topics": [
+        "tautomeric shift",
+        "mispairing",
+        "jumping genes",
+        "transposons"
+      ]
+    },
+    {
+      "start": "00:08:13",
+      "end": "00:10:22",
+      "kind": "content",
+      "title": "Environmental causes of mutations",
+      "summary": "Chuck covers UV radiation, which forms pyrimidine dimers that distort DNA like a sunburn. Josh discusses chemical mutagens, viruses, deaminating agents, and cigarette smoke compounds that bind to DNA.",
+      "topics": [
+        "UV radiation",
+        "pyrimidine dimers",
+        "chemical mutagens",
+        "viruses and DNA",
+        "cigarette smoke",
+        "environmental mutagens"
+      ]
+    },
+    {
+      "start": "00:10:22",
+      "end": "00:11:35",
+      "kind": "content",
+      "title": "DNA repair mechanisms",
+      "summary": "The hosts describe how cells repair errors. Direct fixes patch small damage, as with a cracked road. Proofreading molecules check new DNA against the original. Excision cuts out mismatches and resynthesizes them, and a second strand can serve as a template for repair.",
+      "topics": [
+        "DNA repair",
+        "direct fix",
+        "proofreading",
+        "excision repair"
+      ]
+    },
+    {
+      "start": "00:11:35",
+      "end": "00:12:14",
+      "kind": "outro",
+      "title": "Closing banter and sign-off",
+      "summary": "The hosts joke about Jimmy Fallon and Chuck's 'thank god I was here' line from the movie The Rock, then Josh ends the Short Stuff segment. The show credits follow.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5531,
+    "output_tokens": 1755
+  }
+}

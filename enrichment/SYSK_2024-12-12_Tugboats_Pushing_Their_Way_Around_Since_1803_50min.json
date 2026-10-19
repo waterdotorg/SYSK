@@ -1,0 +1,380 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-12-12_Tugboats_Pushing_Their_Way_Around_Since_1803_50min.txt",
+  "title": "Tugboats: Pushing Their Way Around Since 1803",
+  "date": "2024-12-12",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/tugboats-pushing-their-way-around-since-1803",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d2b170b-12ce-4b8c-9e0f-b2420153b316/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3d2b170b-12ce-4b8c-9e0f-b2420153b316/transcript?format=TextWithTimestamps&t=1733998178",
+  "summary": "Josh and Chuck (the transcript labels him iHeart Intro in places) research tugboats at listener Thomas's request, covering bollard pull and power-to-weight ratios, the Island Victory, tugboat design (beards, fenders), early history from Jonathan Hulls's 1737 patent and the 1801-1803 Charlotte Dundas era, the 1817 Dumbarton naming, Joseph Price's Tyne River colliers, paddle tugs and the Royal Navy's Comet and Monkey, the shift to screw propellers and diesel, the 1946 New York Harbor tugboat strike, electric and azimuth thruster tugs, fuel use, tug types (push, articulated tug barge, anchor handling, firefighting, icebreaking, salvage), crew roles and two-weeks-on schedules, and the Baltimore Key Bridge collapse and tug escort economics. The episode closes with a listener mail segment about the mysterious song \"Subways of Your Mind\" by Fix, identified via Reddit.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "tugboats",
+    "tugboat history",
+    "bollard pull",
+    "tugboat horsepower",
+    "Jonathan Hulls",
+    "Charlotte Dundas",
+    "steam tugboats",
+    "Tyne River colliers",
+    "Joseph Price",
+    "paddle tugboats",
+    "Royal Navy tugboats",
+    "1946 New York tugboat strike",
+    "azimuth thruster",
+    "electric tugboats",
+    "articulated tug barge",
+    "push boats",
+    "anchor handling tugs",
+    "firefighting tugboats",
+    "tugboat crew schedules",
+    "Francis Scott Key Bridge collapse tug escort",
+    "Subways of Your Mind",
+    "listener mail",
+    "Dumbarton tug name origin",
+    "diesel tugboat fuel consumption"
+  ],
+  "entities": [
+    {
+      "name": "Thomas",
+      "type": "person"
+    },
+    {
+      "name": "Dave Ruse",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Hulls",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Price",
+      "type": "person"
+    },
+    {
+      "name": "Island Victory",
+      "type": "other"
+    },
+    {
+      "name": "Charlotte Dundas",
+      "type": "other"
+    },
+    {
+      "name": "Comet",
+      "type": "other"
+    },
+    {
+      "name": "Monkey",
+      "type": "other"
+    },
+    {
+      "name": "Wo Decker",
+      "type": "other"
+    },
+    {
+      "name": "Ewolf",
+      "type": "other"
+    },
+    {
+      "name": "Francis Scott Key Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Tyne River",
+      "type": "place"
+    },
+    {
+      "name": "Newcastle",
+      "type": "place"
+    },
+    {
+      "name": "Dumbarton",
+      "type": "place"
+    },
+    {
+      "name": "New York Harbor",
+      "type": "place"
+    },
+    {
+      "name": "Fix",
+      "type": "organization"
+    },
+    {
+      "name": "Subways of Your Mind",
+      "type": "work"
+    },
+    {
+      "name": "Suez Canal",
+      "type": "place"
+    },
+    {
+      "name": "Panama Canal",
+      "type": "place"
+    },
+    {
+      "name": "Thames",
+      "type": "place"
+    },
+    {
+      "name": "Stone Mountain Park",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening and listener request",
+      "summary": "Hosts introduce the episode as a listener request from Thomas, who suggested tugboats after the Atlanta live show.",
+      "topics": [
+        "tugboats",
+        "listener request"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Why tugboats are powerful and bollard pull",
+      "summary": "Hosts discuss tugboats' high power-to-tonnage ratio and define bollard pull, citing the Island Victory and typical harbor tugs measured in kilonewtons and tons.",
+      "topics": [
+        "bollard pull",
+        "tugboat horsepower",
+        "Island Victory",
+        "power to weight ratio"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Tugboat design and maneuverability",
+      "summary": "Hosts describe the wide, low, stable build of tugboats, the front fender called a beard, tires used as bumpers, and their nimbleness for avoiding ships in shipping lanes.",
+      "topics": [
+        "tugboat design",
+        "tug beard fender",
+        "tugboat maneuverability"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:10:35",
+      "kind": "content",
+      "title": "Need for tugboats and Jonathan Hulls",
+      "summary": "Sailing ships struggled in tight harbors and waited on wind. English inventor Jonathan Hulls patented a towing machine in 1737, which was mocked in a Gloucester song.",
+      "topics": [
+        "sailing ship problems",
+        "Jonathan Hulls",
+        "1737 patent",
+        "tugboat invention"
+      ]
+    },
+    {
+      "start": "00:10:35",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Early steam tugs and canal towing",
+      "summary": "Hulls's invention was ignored for about sixty years before steam tugs were used in Scotland, where canal cargo had been pulled by donkeys along the shore.",
+      "topics": [
+        "donkey towpaths",
+        "canal towing",
+        "early steam tugs"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:15:47",
+      "kind": "content",
+      "title": "Charlotte Dundas and early Scottish towing",
+      "summary": "The paddle steamer Charlotte Dundas towed barges on the Forth and Clyde Canal near Glasgow, and steam tugs were also used on the Thames and in Liverpool.",
+      "topics": [
+        "Charlotte Dundas",
+        "Forth and Clyde Canal",
+        "Thames towing",
+        "Liverpool steam tugs"
+      ]
+    },
+    {
+      "start": "00:15:47",
+      "end": "00:18:54",
+      "kind": "content",
+      "title": "Origin of the name tugboat and Tyne River colliers",
+      "summary": "A 1817 Dumbarton steamship named Tug gave tugboats their name. In 1818 Joseph Price bought steam tugs to pull coal colliers on the Tyne River from Newcastle.",
+      "topics": [
+        "tugboat name origin",
+        "Dumbarton",
+        "Joseph Price",
+        "Tyne River",
+        "Newcastle coal"
+      ]
+    },
+    {
+      "start": "00:18:54",
+      "end": "00:22:09",
+      "kind": "content",
+      "title": "Paddle tugs, Royal Navy, and diesel era",
+      "summary": "Early tugs used paddle wheels on both sides for maneuvering; the Royal Navy bought tugs Comet and Monkey; later screw propellers and diesel engines transformed tugs.",
+      "topics": [
+        "paddle wheel tugs",
+        "Royal Navy tugboats",
+        "screw propeller",
+        "diesel engines"
+      ]
+    },
+    {
+      "start": "00:22:09",
+      "end": "00:22:40",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:22:40",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "1946 New York Harbor tugboat strike",
+      "summary": "All roughly 300 New York Harbor tugboat operators struck in 1946, shutting down the city's barge-based supply, and the strike ended within twelve days.",
+      "topics": [
+        "1946 New York tugboat strike",
+        "New York Harbor",
+        "barge shipping"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:36",
+      "kind": "content",
+      "title": "Fuel use, electric tugs, azimuth thrusters, and tractor tugs",
+      "summary": "Harbor tugs burn about 3,000 gallons of diesel daily; electric tugs like the Ewolf are emerging; azimuth thrusters rotate 360 degrees and tractor tugs use two independently controlled motors.",
+      "topics": [
+        "tugboat diesel fuel use",
+        "electric tugboats",
+        "azimuth thruster",
+        "tractor tug"
+      ]
+    },
+    {
+      "start": "00:29:36",
+      "end": "00:32:15",
+      "kind": "content",
+      "title": "Other tug jobs: salvage, search and rescue, firefighting, icebreaking",
+      "summary": "Tugs also handle salvage, search and rescue, and blocked canals such as the Ever Given case, with firefighting tugs and Navajo class search and rescue tugs mentioned.",
+      "topics": [
+        "tugboat salvage",
+        "search and rescue tugs",
+        "firefighting tugboats",
+        "Ever Given Suez Canal blockage"
+      ]
+    },
+    {
+      "start": "00:32:15",
+      "end": "00:34:27",
+      "kind": "content",
+      "title": "Anchor handling and line handling",
+      "summary": "Anchor handling tugs move massive oil rig anchors in the open ocean, and deckhands face danger from tensioned tow lines.",
+      "topics": [
+        "anchor handling tugs",
+        "oil rig anchors",
+        "line handling danger"
+      ]
+    },
+    {
+      "start": "00:34:27",
+      "end": "00:36:33",
+      "kind": "content",
+      "title": "Crew roles and work schedules",
+      "summary": "Crew includes engineers, mate, and captain. New York tug crews work two weeks on and two weeks off, with two six-hour shifts a day, which the hosts find grueling.",
+      "topics": [
+        "tugboat crew",
+        "tugboat work schedule",
+        "deckhand",
+        "tugboat captain"
+      ]
+    },
+    {
+      "start": "00:36:33",
+      "end": "00:38:05",
+      "kind": "content",
+      "title": "Push boats and articulated tug barges",
+      "summary": "Push tugs use push knees against a barge's stern. Articulated tug barges pin a tug to a notched barge for oil shipping.",
+      "topics": [
+        "push tugs",
+        "articulated tug barge",
+        "oil shipping barges"
+      ]
+    },
+    {
+      "start": "00:38:05",
+      "end": "00:41:24",
+      "kind": "content",
+      "title": "Tug escorts and Key Bridge collapse",
+      "summary": "Tugs are contracted and historically raced to incoming ships. An AP article explains why the ship that hit the Francis Scott Key Bridge in Baltimore had no tug escort, citing cost and port competition.",
+      "topics": [
+        "Francis Scott Key Bridge collapse",
+        "tug escort costs",
+        "port economics",
+        "tug contracts"
+      ]
+    },
+    {
+      "start": "00:41:24",
+      "end": "00:43:02",
+      "kind": "content",
+      "title": "Wo Decker ride and tugboat appeal",
+      "summary": "Hosts mention riding the Wo Decker tug at South Street Seaport Museum in New York and discuss why people love tugboats.",
+      "topics": [
+        "Wo Decker tug",
+        "South Street Seaport Museum",
+        "tugboat appeal"
+      ]
+    },
+    {
+      "start": "00:43:02",
+      "end": "00:46:02",
+      "kind": "content",
+      "title": "Beards, movie banter, and Dark Song",
+      "summary": "Banter about the word beard, Beetlejuice and Tim Burton films, and a recommendation of the horror film A Dark Song.",
+      "topics": [
+        "Beetlejuice",
+        "Tim Burton",
+        "A Dark Song",
+        "movie banter"
+      ]
+    },
+    {
+      "start": "00:46:02",
+      "end": "00:49:44",
+      "kind": "listener_mail",
+      "title": "Listener mail: Subways of Your Mind solved",
+      "summary": "A listener, Michael, reports that the mysterious song Subways of Your Mind has been identified as by the German band Fix from Kiel, via a Reddit user and a 1984 NordWest Zeitung article. Hosts say the band wants to re-record it.",
+      "topics": [
+        "Subways of Your Mind",
+        "Fix band",
+        "Reddit mystery song",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:49:44",
+      "end": "00:50:10",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners, invite email at stuff podcast at iHeartRadio dot com, and close the episode.",
+      "topics": [
+        "sign-off",
+        "contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19288,
+    "output_tokens": 3837
+  }
+}

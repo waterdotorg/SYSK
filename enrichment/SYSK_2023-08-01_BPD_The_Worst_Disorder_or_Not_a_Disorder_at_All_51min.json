@@ -1,0 +1,354 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-08-01_BPD_The_Worst_Disorder_or_Not_a_Disorder_at_All_51min.txt",
+  "title": "BPD: The Worst Disorder or Not a Disorder at All?",
+  "date": "2023-08-01",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/bpd-the-worst-disorder-or-not-a-disorder-at-all",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e571279d-b215-4c9c-9775-b04d00f88370/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e571279d-b215-4c9c-9775-b04d00f88370/transcript?format=TextWithTimestamps&t=1713878174",
+  "summary": "Josh and Chuck explore borderline personality disorder (BPD): its name and history (Adolf Stern's 1938 coinage, Otto Kernberg's later description), its classification as a cluster B personality disorder and the debate over whether it should be categorical or dimensional, the DSM-5 diagnostic criteria (five of nine), biosocial causes including childhood neglect and abuse, prevalence, splitting and black-and-white thinking, the \"favorite person\" dynamic, and treatment through dialectical behavior therapy (DBT) developed by Marsha Linehan, plus psychodynamic therapy. The episode closes with a listener email from Suzanne.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "borderline personality disorder",
+    "BPD",
+    "cluster B personality disorder",
+    "personality disorder vs mood disorder",
+    "bipolar vs borderline",
+    "DSM-5 diagnostic criteria",
+    "categorical vs dimensional diagnosis",
+    "Adolf Stern borderline term",
+    "Otto Kernberg",
+    "Marsha Linehan",
+    "dialectical behavior therapy",
+    "DBT",
+    "radical acceptance",
+    "emotional dysregulation",
+    "splitting and black-and-white thinking",
+    "favorite person codependency",
+    "childhood trauma and BPD",
+    "biosocial model",
+    "suicide risk and self harm",
+    "non suicidal self injury",
+    "psychodynamic therapy",
+    "mental health stigma",
+    "parenting and validation",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Borderline personality disorder",
+      "type": "other"
+    },
+    {
+      "name": "Adolf Stern",
+      "type": "person"
+    },
+    {
+      "name": "Otto Kernberg",
+      "type": "person"
+    },
+    {
+      "name": "Marsha Linehan",
+      "type": "person"
+    },
+    {
+      "name": "Dialectical behavior therapy",
+      "type": "other"
+    },
+    {
+      "name": "DSM-5",
+      "type": "work"
+    },
+    {
+      "name": "National Alliance on Mental Illness",
+      "type": "organization"
+    },
+    {
+      "name": "No Exit",
+      "type": "work"
+    },
+    {
+      "name": "Bill and Ted's Excellent Adventure",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:33",
+      "kind": "ad",
+      "title": "Tour announcement",
+      "summary": "Hosts promote the last three live shows of the year in Orlando, Atlanta, and Nashville, with tickets on the website.",
+      "topics": [
+        "live tour",
+        "ticket sales"
+      ]
+    },
+    {
+      "start": "00:00:33",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Light opening banter about the hosts working without Jerry this week and a Bill and Ted quote.",
+      "topics": [
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Introducing BPD and the mental health series",
+      "summary": "The hosts introduce BPD as part of their mental health series, referencing listener feedback on the emotional pain episode, and describe it as a cluster B personality disorder with a tendency toward perception-based disturbances.",
+      "topics": [
+        "borderline personality disorder",
+        "cluster B personality disorder",
+        "mental health series",
+        "listener feedback"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "BPD versus bipolar disorder",
+      "summary": "The hosts distinguish BPD from bipolar disorder: bipolar has highs and lows with stable periods, while BPD involves constant emotional reactivity and is more psychological. Emotional dysregulation is named as a core hallmark.",
+      "topics": [
+        "bipolar vs borderline",
+        "emotional dysregulation",
+        "hair trigger response"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Self-harm and the suicide risk",
+      "summary": "Non-suicidal self-injury is described as a way to externalize pain. Marsha Linehan's analogy of emotional third-degree burns is cited, and the hosts note a suicide rate about fifty times the general population.",
+      "topics": [
+        "non suicidal self injury",
+        "suicide risk",
+        "Marsha Linehan quote"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "History of the term borderline",
+      "summary": "Adolf Stern coined the term in 1938 to describe patients on the border between psychotic and psychoneurotic conditions. Otto Kernberg later described an unstable personality, and the diagnosis entered DSM-III about five years later.",
+      "topics": [
+        "Adolf Stern borderline term",
+        "Otto Kernberg",
+        "DSM-III history",
+        "history of BPD diagnosis"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Stigma and the diagnostic debate",
+      "summary": "The hosts discuss the school of thought that BPD is a cluster of symptoms rather than a personality disorder, the stigma of the diagnosis, and the DSM-5 working group's rejected proposal to make it dimensional rather than categorical.",
+      "topics": [
+        "stigma",
+        "categorical vs dimensional diagnosis",
+        "DSM-5 working group",
+        "BPD debate"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Marsha Linehan and radical acceptance",
+      "summary": "The hosts describe Marsha Linehan's late-life disclosure of her own BPD, her schizophrenia misdiagnosis and hospitalization, and her religious experience. They explain radical acceptance and how it leads to dialectical behavior therapy, the gold standard treatment that is the only proven treatment for reducing suicidal behavior.",
+      "topics": [
+        "Marsha Linehan",
+        "radical acceptance",
+        "dialectical behavior therapy",
+        "DBT",
+        "treatment efficacy"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:18:10",
+      "kind": "content",
+      "title": "Biosocial causes and childhood invalidation",
+      "summary": "Linehan's biosocial model is explained: a biological predisposition such as executive function differences in the prefrontal cortex, combined with trigger events such as abuse, neglect, or invalidation by parents. Validating children's emotions is discussed.",
+      "topics": [
+        "biosocial model",
+        "childhood invalidation",
+        "executive function",
+        "parenting and validation"
+      ]
+    },
+    {
+      "start": "00:18:10",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Diagnostic criteria",
+      "summary": "The DSM-5 nine criteria are introduced, with a diagnosis requiring five. Criteria discussed include chronic emptiness, emotional instability, frantic efforts to avoid abandonment, unstable self image, impulsivity, unstable intense relationships, recurrent self-harm, paranoia or dissociation, and inappropriate anger.",
+      "topics": [
+        "DSM-5 diagnostic criteria",
+        "BPD symptoms",
+        "impulsivity",
+        "dissociation"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:15",
+      "kind": "content",
+      "title": "Rage as a trauma response and diagnosis challenges",
+      "summary": "The hosts discuss the view that BPD rage may be a response to unresolved trauma, critics who say the diagnosis pathologizes rage, and the difficulty of diagnosing BPD given overlap with anxiety, depression, PTSD, and eating disorders.",
+      "topics": [
+        "rage and trauma",
+        "comorbidity",
+        "diagnosis difficulty",
+        "BPD critiques"
+      ]
+    },
+    {
+      "start": "00:23:15",
+      "end": "00:25:45",
+      "kind": "content",
+      "title": "Risk factors and family causes",
+      "summary": "The hosts discuss genetic links, a lousy childhood as the typical background, absent fathers and domineering mothers, parental mood disorders, and that about eighty percent of people with BPD experienced some childhood trauma.",
+      "topics": [
+        "BPD causes",
+        "childhood trauma",
+        "genetics",
+        "parental neglect"
+      ]
+    },
+    {
+      "start": "00:25:45",
+      "end": "00:31:15",
+      "kind": "content",
+      "title": "Chicken or egg, prevalence, and splitting",
+      "summary": "The hosts discuss whether the disorder or parenting came first, executive function and anger, and prevalence of 0.5 to 6 percent with gender-diagnosis questions. About one in five inpatients receive a BPD diagnosis. Splitting and black-and-white thinking, including idealizing and then despising people, are described.",
+      "topics": [
+        "prevalence",
+        "gender and diagnosis",
+        "splitting",
+        "black and white thinking",
+        "inpatient mental health"
+      ]
+    },
+    {
+      "start": "00:31:15",
+      "end": "00:35:50",
+      "kind": "content",
+      "title": "Self-concept instability and identity",
+      "summary": "The hosts describe the instability of self-image, switching between self-confidence and self-loathing, and adopting others' interests as a way of identity-shifting, with uncertainty about where the self ends and others begin.",
+      "topics": [
+        "unstable self image",
+        "identity instability",
+        "self harm"
+      ]
+    },
+    {
+      "start": "00:35:50",
+      "end": "00:36:50",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Brief mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:36:50",
+      "end": "00:40:10",
+      "kind": "content",
+      "title": "The favorite person dynamic",
+      "summary": "The favorite person is the one a person with BPD relies on most. The dynamic involves flattery and rage when let down, walking on eggshells, altering behavior and isolating the FP from others, and eventual burnout and abandonment.",
+      "topics": [
+        "favorite person",
+        "codependency",
+        "walking on eggshells",
+        "relationship dynamics"
+      ]
+    },
+    {
+      "start": "00:40:10",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Splitting in favorite person relationships and regret",
+      "summary": "The FP may be suddenly devalued. The person with BPD often regrets the outburst and tries to win back the FP, but the cycle tends to repeat. The hosts discuss how hard it is to recognize one's own behavior as abnormal.",
+      "topics": [
+        "splitting in relationships",
+        "self-awareness",
+        "reconciliation cycle"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:46:50",
+      "kind": "content",
+      "title": "Treatment outcomes and therapy approaches",
+      "summary": "About half of people who seek and receive treatment no longer meet criteria after five to ten years. DBT uses group skills classes with practice, distinct from movie-style group therapy, and psychodynamic therapy relating childhood experiences to present relationships.",
+      "topics": [
+        "BPD treatment outcomes",
+        "DBT skills training",
+        "psychodynamic therapy",
+        "recovery"
+      ]
+    },
+    {
+      "start": "00:46:50",
+      "end": "00:47:40",
+      "kind": "content",
+      "title": "Therapist refusal and patient advocacy",
+      "summary": "Some therapists refuse BPD patients. Guidance is given that patients have a right to seek a specialist, question providers, and find a good fit.",
+      "topics": [
+        "therapist refusal",
+        "patient advocacy",
+        "finding a therapist",
+        "NAMI"
+      ]
+    },
+    {
+      "start": "00:47:40",
+      "end": "00:48:35",
+      "kind": "content",
+      "title": "Finding resources and therapist shortages",
+      "summary": "The hosts note there are many online resources and a severe shortage of psychiatrists in the United States, with long waiting lists.",
+      "topics": [
+        "psychiatrist shortage",
+        "mental health resources",
+        "waitlists"
+      ]
+    },
+    {
+      "start": "00:48:35",
+      "end": "00:50:40",
+      "kind": "listener_mail",
+      "title": "Listener mail from Suzanne",
+      "summary": "Suzanne, a Dutch listener, thanks the hosts in her bachelor thesis acknowledgments for helping her stay sane, and the hosts respond warmly and invite listeners to write in.",
+      "topics": [
+        "listener mail",
+        "thank you note"
+      ]
+    },
+    {
+      "start": "00:50:40",
+      "end": "00:50:58",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Standard sign-off noting the show is a production of iHeartRadio.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17470,
+    "output_tokens": 4179
+  }
+}

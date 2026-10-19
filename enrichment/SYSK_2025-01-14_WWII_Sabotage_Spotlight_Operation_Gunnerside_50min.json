@@ -1,0 +1,340 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-01-14_WWII_Sabotage_Spotlight_Operation_Gunnerside_50min.txt",
+  "title": "WWII Sabotage Spotlight: Operation Gunnerside",
+  "date": "2025-01-14",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/wwii-sabotage-spotlight-operation-gunnerside",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/46385268-c2ca-4863-9228-b264016216fc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/46385268-c2ca-4863-9228-b264016216fc/transcript?format=TextWithTimestamps&t=1736804413",
+  "summary": "Josh and Chuck return from a long break to cover Operation Gunnerside, the 1943 Norwegian resistance sabotage of the Vemork heavy water plant that set back Nazi atomic bomb research. They cover heavy water's role as a nuclear moderator, Norway's invasion and resistance, Leif Tronstad and the SOE training of Norwegian saboteurs, the failed Operation Freshman gliders, the Gunnerside raid led by Joachim Rønneberg, the later Allied bombing, the sinking of the ferry Hydro in February 1944 with its heavy water barrels, and the debate over the operation's impact. The episode ends with a listener mail from Justin Meeks about Tavern on the Green and David Letterman, and an announcement that the hosts are not doing live shows in 2025.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Operation Gunnerside",
+    "Vemork heavy water plant",
+    "heavy water",
+    "deuterium oxide",
+    "Norwegian resistance",
+    "World War II sabotage",
+    "Nazi atomic bomb program",
+    "nuclear moderator graphite",
+    "Leif Tronstad",
+    "Special Operations Executive",
+    "Operation Freshman",
+    "Operation Swallow",
+    "Joachim Rønneberg",
+    "ferry Hydro sinking",
+    "Operation Sunshine",
+    "Nazi occupation of Norway",
+    "Telemark",
+    "Manhattan Project",
+    "The Heroes of Telemark",
+    "Tavern on the Green",
+    "David Letterman listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Operation Gunnerside",
+      "type": "event"
+    },
+    {
+      "name": "Vemork",
+      "type": "place"
+    },
+    {
+      "name": "Leif Tronstad",
+      "type": "person"
+    },
+    {
+      "name": "Joachim Rønneberg",
+      "type": "person"
+    },
+    {
+      "name": "Knut Haukelid",
+      "type": "person"
+    },
+    {
+      "name": "Jens Anton Poulsen",
+      "type": "person"
+    },
+    {
+      "name": "Frederick Kayser",
+      "type": "person"
+    },
+    {
+      "name": "Ainar Skinnarland",
+      "type": "person"
+    },
+    {
+      "name": "Special Operations Executive",
+      "type": "organization"
+    },
+    {
+      "name": "Operation Freshman",
+      "type": "event"
+    },
+    {
+      "name": "Operation Swallow",
+      "type": "event"
+    },
+    {
+      "name": "Operation Sunshine",
+      "type": "event"
+    },
+    {
+      "name": "Hydro ferry",
+      "type": "other"
+    },
+    {
+      "name": "Telemark",
+      "type": "place"
+    },
+    {
+      "name": "Hardangervidda",
+      "type": "place"
+    },
+    {
+      "name": "Norsk Hydro",
+      "type": "organization"
+    },
+    {
+      "name": "The Heroes of Telemark",
+      "type": "work"
+    },
+    {
+      "name": "Manhattan Project",
+      "type": "event"
+    },
+    {
+      "name": "Tavern on the Green",
+      "type": "place"
+    },
+    {
+      "name": "David Letterman",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:35",
+      "kind": "intro",
+      "title": "Welcome back and episode setup",
+      "summary": "Josh and Chuck greet listeners after a long break and introduce the topic of Operation Gunnerside, suggested by listener Matthew.",
+      "topics": [
+        "Stuff You Should Know intro",
+        "Operation Gunnerside"
+      ]
+    },
+    {
+      "start": "00:01:35",
+      "end": "00:06:44",
+      "kind": "content",
+      "title": "Nuclear fission race and heavy water",
+      "summary": "The hosts explain how fission discovery sparked a race for an atomic bomb, and why heavy water (deuterium oxide) was a useful neutron moderator for the Germans, while the US chose graphite.",
+      "topics": [
+        "nuclear fission race",
+        "heavy water",
+        "deuterium",
+        "nuclear moderator",
+        "graphite moderator"
+      ]
+    },
+    {
+      "start": "00:07:23",
+      "end": "00:10:05",
+      "kind": "content",
+      "title": "Leif Tronstad and the Vemork plant",
+      "summary": "Chemist Leif Tronstad, who produced small amounts of heavy water at the Vemork plant in Telemark for Norsk Hydro, is introduced, and the plant's heavy water role is described.",
+      "topics": [
+        "Leif Tronstad",
+        "Vemork",
+        "Norsk Hydro",
+        "heavy water production"
+      ]
+    },
+    {
+      "start": "00:10:05",
+      "end": "00:12:25",
+      "kind": "content",
+      "title": "German invasion of Norway and resistance",
+      "summary": "Norway's neutrality ends with the German invasion in April 1940, followed by Nazi rule, strikes, martial law, and Norwegians resisting from within and abroad.",
+      "topics": [
+        "German invasion of Norway 1940",
+        "Nazi occupation of Norway",
+        "Norwegian resistance",
+        "martial law"
+      ]
+    },
+    {
+      "start": "00:12:25",
+      "end": "00:16:53",
+      "kind": "content",
+      "title": "Tronstad in London and SOE training",
+      "summary": "Tronstad escapes to the UK, trains saboteurs with the Special Operations Executive, and keeps in contact with allies at the plant. The Scotland training and the Vemork terrain are described.",
+      "topics": [
+        "Special Operations Executive",
+        "Ministry of Ungentlemanly Warfare",
+        "Norwegian commandos training Scotland",
+        "Hardangervidda plateau"
+      ]
+    },
+    {
+      "start": "00:16:53",
+      "end": "00:19:39",
+      "kind": "content",
+      "title": "Bombing plan rejected and Company Linge",
+      "summary": "Americans propose bombing the plant, but Tronstad argues against it due to civilian risk and the plant's value. Company Linge is formed and Operation Swallow launched under Jens Anton Poulsen.",
+      "topics": [
+        "Company Linge",
+        "Operation Swallow",
+        "Jens Anton Poulsen",
+        "bombing Vemork rejected"
+      ]
+    },
+    {
+      "start": "00:19:39",
+      "end": "00:22:41",
+      "kind": "content",
+      "title": "Operation Freshman gliders and Operation Gunnerside begins",
+      "summary": "Operation Freshman's two gliders crash and the survivors are executed by the Gestapo. Joachim Rønneberg is then chosen to lead the smaller Operation Gunnerside team.",
+      "topics": [
+        "Operation Freshman",
+        "glider crash",
+        "Gestapo executions",
+        "Joachim Rønneberg"
+      ]
+    },
+    {
+      "start": "00:22:41",
+      "end": "00:28:03",
+      "kind": "content",
+      "title": "Team's approach through the gorge",
+      "summary": "Nine saboteurs gather and trek forty miles in February. Rønneberg's bolt cutters get them through the fence, and they avoid the bridge and minefield by descending a gorge.",
+      "topics": [
+        "Operation Gunnerside approach",
+        "gorge route",
+        "bolt cutters",
+        "Knut Haukelid"
+      ]
+    },
+    {
+      "start": "00:28:03",
+      "end": "00:35:08",
+      "kind": "content",
+      "title": "Infiltration and explosives at Vemork",
+      "summary": "Two saboteurs enter via a cable shaft after an inside contact fails to leave a door open. They subdue a watchman, the other team enters through a window, and charges are set with a shortened fuse. Only a small pop is heard and the guards go back to bed.",
+      "topics": [
+        "Vemork raid",
+        "cable shaft infiltration",
+        "explosives sabotage",
+        "Frederick Kayser",
+        "heavy water pipes"
+      ]
+    },
+    {
+      "start": "00:35:08",
+      "end": "00:36:19",
+      "kind": "content",
+      "title": "Escape and immediate outcome",
+      "summary": "All nine saboteurs escape without firing a shot or killing anyone.",
+      "topics": [
+        "Operation Gunnerside outcome",
+        "saboteurs escape"
+      ]
+    },
+    {
+      "start": "00:36:19",
+      "end": "00:39:02",
+      "kind": "content",
+      "title": "Escape to Sweden and Allied bombing of Vemork",
+      "summary": "The saboteurs ski to Sweden. The Nazis restart production within months, and the Allies bomb the plant in a later raid that kills twenty-two Norwegian civilians. The Nazis then move heavy water production to Germany.",
+      "topics": [
+        "escape to Sweden",
+        "Allied bombing of Vemork",
+        "Nazi heavy water program setback",
+        "Manhattan Project race"
+      ]
+    },
+    {
+      "start": "00:39:02",
+      "end": "00:43:10",
+      "kind": "content",
+      "title": "Sinking of the ferry Hydro",
+      "summary": "Company Linge's Knut Haukelid leads an attack on the ferry Hydro in February 1944, sinking it with heavy water aboard. Fourteen Norwegian civilians and four Germans die. A 2003 PBS Nova salvage proved the barrels contained heavy water.",
+      "topics": [
+        "ferry Hydro sinking",
+        "heavy water shipment sabotage",
+        "PBS Nova 2003 salvage",
+        "civilian casualties"
+      ]
+    },
+    {
+      "start": "00:43:10",
+      "end": "00:45:08",
+      "kind": "content",
+      "title": "Impact debate and the graphite miscalculation",
+      "summary": "The hosts discuss the operation's impact, the Nazi atomic program's flawed choice of heavy water, and a miscalculation about graphite that the Allies never learned of.",
+      "topics": [
+        "impact of heavy water sabotage",
+        "graphite miscalculation",
+        "Nazi atomic bomb program failure",
+        "Jewish scientists emigration"
+      ]
+    },
+    {
+      "start": "00:45:08",
+      "end": "00:46:37",
+      "kind": "content",
+      "title": "Film, Norwegian broadcast, and Tronstad's death",
+      "summary": "The 1965 film The Heroes of Telemark is mentioned, along with the 2015 NRK miniseries The Heavy Water War. Tronstad's later Operation Sunshine and his death in May 1945 are described.",
+      "topics": [
+        "The Heroes of Telemark",
+        "NRK The Heavy Water War",
+        "Operation Sunshine",
+        "Leif Tronstad death"
+      ]
+    },
+    {
+      "start": "00:46:37",
+      "end": "00:47:09",
+      "kind": "outro",
+      "title": "Episode title discussion",
+      "summary": "The hosts mention Olivia's suggested title for the episode and thank her.",
+      "topics": [
+        "episode title",
+        "production credits"
+      ]
+    },
+    {
+      "start": "00:47:09",
+      "end": "00:49:38",
+      "kind": "listener_mail",
+      "title": "Listener mail: Tavern on the Green and David Letterman",
+      "summary": "Listener Justin Meeks shares his grandmother's Thanksgiving dinner with David Letterman at Tavern on the Green. The hosts also announce they will not do live shows in 2025, including SketchFest.",
+      "topics": [
+        "listener mail",
+        "Tavern on the Green",
+        "David Letterman",
+        "live shows 2025",
+        "SketchFest"
+      ]
+    },
+    {
+      "start": "00:49:38",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits for Stuff You Should Know.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18858,
+    "output_tokens": 3733
+  }
+}

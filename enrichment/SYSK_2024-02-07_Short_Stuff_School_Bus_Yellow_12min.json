@@ -1,0 +1,188 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-02-07_Short_Stuff_School_Bus_Yellow_12min.txt",
+  "title": "Short Stuff: School Bus Yellow",
+  "date": "2024-02-07",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-school-bus-yellow",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6eb37d42-a1f8-408b-a4cc-b10900f6dcb8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6eb37d42-a1f8-408b-a4cc-b10900f6dcb8/transcript?format=TextWithTimestamps&t=1713610308",
+  "summary": "Short Stuff episode on why school buses are yellow. Josh and Chuck open with banter about school bus drivers and the pre-school-bus era, when rural kids were taken to school by wagon, cart or horse. They describe Frank Seer (Frank Sear), a Teachers College, Columbia University professor raised on a Nebraska farm, who organized a 1939 New York City conference to standardize the American school bus. The conference produced 44 standards, including the color National School Bus Glossy Yellow (originally National School Bus Chrome), chosen from fifty color samples. They explain yellow's visibility, including that people with red-green color deficiency still see it, citing optometrist Stephen Solomon. They discuss why school buses lack seat belts (compartmentalization, energy-absorbing seatbacks, heavy slow buses), a rough statistic that 26 million kids ride school buses on a given weekday yet school buses account for under one percent of traffic fatalities, and the serious violation of passing a stopped school bus with its stop arm out. They close by mentioning the Chowchilla school bus kidnapping as a past episode.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "school bus yellow",
+    "National School Bus Glossy Yellow",
+    "Frank Seer",
+    "1939 school bus conference",
+    "school bus standardization",
+    "school bus history",
+    "rural students transportation history",
+    "why school buses are yellow",
+    "color visibility",
+    "red-green color blindness",
+    "school bus seat belts",
+    "school bus safety",
+    "school bus stop arm violation",
+    "school bus fatalities statistics",
+    "Chowchilla school bus kidnapping",
+    "school bus drivers"
+  ],
+  "entities": [
+    {
+      "name": "Frank Seer",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Solomon",
+      "type": "person"
+    },
+    {
+      "name": "William Seer",
+      "type": "person"
+    },
+    {
+      "name": "Teachers College, Columbia University",
+      "type": "organization"
+    },
+    {
+      "name": "1939 school bus conference",
+      "type": "event"
+    },
+    {
+      "name": "National School Bus Glossy Yellow",
+      "type": "other"
+    },
+    {
+      "name": "Chowchilla school bus kidnapping",
+      "type": "event"
+    },
+    {
+      "name": "Nebraska",
+      "type": "place"
+    },
+    {
+      "name": "New York City",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:14",
+      "kind": "intro",
+      "title": "Opening banter and pre-bus school transport",
+      "summary": "Josh and Chuck open with questions about school bus riding and drivers, then describe how before school buses rural kids got to school by wagon, cart, horse and buggy, with no federal standard.",
+      "topics": [
+        "school bus drivers",
+        "rural students transportation history",
+        "early school transportation"
+      ]
+    },
+    {
+      "start": "00:02:14",
+      "end": "00:03:17",
+      "kind": "content",
+      "title": "Frank Seer and the push for school transportation",
+      "summary": "Chuck introduces Frank Seer, a rural Nebraska-raised Teachers College professor who studied school transportation and organized a 1939 New York City conference on standardizing the American school bus.",
+      "topics": [
+        "Frank Seer",
+        "school transportation history",
+        "1939 school bus conference"
+      ]
+    },
+    {
+      "start": "00:03:17",
+      "end": "00:03:56",
+      "kind": "content",
+      "title": "Conference success and standards",
+      "summary": "The 1939 conference drew educators, transportation officials and bus makers and produced national school bus standards.",
+      "topics": [
+        "1939 school bus conference",
+        "school bus standardization"
+      ]
+    },
+    {
+      "start": "00:03:56",
+      "end": "00:05:45",
+      "kind": "content",
+      "title": "Choosing school bus yellow",
+      "summary": "Seer narrowed fifty color samples to a yellowish orange originally called National School Bus Chrome, and his 42-page booklet of standards included the color, now called National School Bus Glossy Yellow.",
+      "topics": [
+        "school bus yellow",
+        "National School Bus Glossy Yellow",
+        "why school buses are yellow"
+      ]
+    },
+    {
+      "start": "00:05:45",
+      "end": "00:06:08",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the segment on yellow's visibility.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:06:08",
+      "end": "00:07:14",
+      "kind": "content",
+      "title": "Why yellow is highly visible",
+      "summary": "Optometrist Stephen Solomon says yellow is among the most easily seen colors, even for people with red-green color deficiency, because it stimulates both red and green cones.",
+      "topics": [
+        "color visibility",
+        "red-green color blindness",
+        "why school buses are yellow"
+      ]
+    },
+    {
+      "start": "00:07:14",
+      "end": "00:09:18",
+      "kind": "content",
+      "title": "Why school buses have no seat belts",
+      "summary": "Chuck explains that school buses are heavy and slow, compartmentalized with closely spaced seats, energy-absorbing seatbacks and rollover and crush protections, which the hosts cite as the reason they lack seat belts.",
+      "topics": [
+        "school bus seat belts",
+        "school bus safety"
+      ]
+    },
+    {
+      "start": "00:09:18",
+      "end": "00:10:13",
+      "kind": "content",
+      "title": "School bus safety statistics",
+      "summary": "Josh gives a rough estimate that 26 million US kids ride school buses on a weekday, more than 20 percent of road users by his calculation, yet school buses account for under one percent of traffic fatalities.",
+      "topics": [
+        "school bus fatalities statistics",
+        "school bus safety"
+      ]
+    },
+    {
+      "start": "00:10:13",
+      "end": "00:11:51",
+      "kind": "content",
+      "title": "Passing stopped school buses and Chowchilla",
+      "summary": "The hosts discuss the serious violation of passing a school bus with its stop arm out, then mention the Chowchilla school bus kidnapping as a past episode.",
+      "topics": [
+        "school bus stop arm violation",
+        "Chowchilla school bus kidnapping"
+      ]
+    },
+    {
+      "start": "00:11:51",
+      "end": "00:12:07",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck wrap up the Short Stuff episode and credit iHeartRadio.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5579,
+    "output_tokens": 2148
+  }
+}

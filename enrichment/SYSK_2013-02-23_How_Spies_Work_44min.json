@@ -1,0 +1,390 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-02-23_How_Spies_Work_44min.txt",
+  "title": "How Spies Work",
+  "date": "2013-02-23",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-spies-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2e6418ff-44ad-4f8b-86c2-ae2800a229fe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2e6418ff-44ad-4f8b-86c2-ae2800a229fe/transcript?format=TextWithTimestamps&t=1700543906",
+  "summary": "Josh and Chuck explore how spies work, opening with a discussion of Chevy Chase and the film Fletch, then the real-life Christopher Boyce and Andrew Lee case (The Falcon and the Snowman). They cover how spies are recruited (money, blackmail, ideology, walk-ins), handling through controllers and compartmentalization, dead drops, cover and legends, and tradecraft such as microfilm and photographing documents. Tools are discussed from laser microphones and satellites to spy planes, drones, undersea cable taps, and invisible ink. Historical topics include the Spartan skytale, Enigma and Bletchley Park, numbers stations, modern espionage targets (counterterrorism, China cyber attacks, corporate spying), data analysis and the Battle of Midway's Purple Code ruse, double and triple agents, Operation Fortitude and the Garbo deception before D-Day, and the Daily Telegraph crossword that hinted at D-Day code names. The episode closes with housekeeping: a new email address, a newsletter, a South by Southwest live show, and corrections about polar bears, penguins and Edmonton/Calgary.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "how spies work",
+    "espionage",
+    "spy recruitment",
+    "walk-in spies",
+    "blackmail recruitment",
+    "compartmentalization",
+    "controller spy handler",
+    "dead drop",
+    "cover and legend",
+    "microfilm",
+    "laser microphone",
+    "laser EMACS eavesdropping",
+    "satellite reconnaissance",
+    "technological intelligence TECHINT",
+    "undersea cable wiretap",
+    "invisible ink",
+    "skytale",
+    "Enigma machine",
+    "Bletchley Park",
+    "numbers stations",
+    "corporate espionage",
+    "counterterrorism intelligence",
+    "data analysts intelligence",
+    "Purple Code Battle of Midway",
+    "double agent",
+    "triple agent",
+    "Operation Fortitude",
+    "Garbo double agent",
+    "D-Day deception",
+    "Daily Telegraph crossword D-Day code names",
+    "The Falcon and the Snowman",
+    "Christopher Boyce",
+    "Andrew Lee",
+    "Rosenberg espionage",
+    "Penkovsky",
+    "Art of War espionage"
+  ],
+  "entities": [
+    {
+      "name": "The Falcon and the Snowman",
+      "type": "work"
+    },
+    {
+      "name": "Christopher Boyce",
+      "type": "person"
+    },
+    {
+      "name": "Andrew Lee",
+      "type": "person"
+    },
+    {
+      "name": "Enigma machine",
+      "type": "other"
+    },
+    {
+      "name": "Bletchley Park",
+      "type": "place"
+    },
+    {
+      "name": "Alan Turing",
+      "type": "person"
+    },
+    {
+      "name": "Operation Fortitude",
+      "type": "event"
+    },
+    {
+      "name": "Garbo",
+      "type": "person"
+    },
+    {
+      "name": "Battle of Midway",
+      "type": "event"
+    },
+    {
+      "name": "Purple Code",
+      "type": "other"
+    },
+    {
+      "name": "Penkovsky",
+      "type": "person"
+    },
+    {
+      "name": "Rosenberg",
+      "type": "person"
+    },
+    {
+      "name": "Veil",
+      "type": "work"
+    },
+    {
+      "name": "Enigma",
+      "type": "work"
+    },
+    {
+      "name": "Fletch",
+      "type": "work"
+    },
+    {
+      "name": "Saving Private Ryan",
+      "type": "work"
+    },
+    {
+      "name": "No Way Out",
+      "type": "work"
+    },
+    {
+      "name": "Valerie Plame",
+      "type": "person"
+    },
+    {
+      "name": "U-2 spy plane",
+      "type": "other"
+    },
+    {
+      "name": "Sun Tzu",
+      "type": "person"
+    },
+    {
+      "name": "Art of War",
+      "type": "work"
+    },
+    {
+      "name": "Skytale",
+      "type": "other"
+    },
+    {
+      "name": "Daily Telegraph",
+      "type": "organization"
+    },
+    {
+      "name": "MI5",
+      "type": "organization"
+    },
+    {
+      "name": "WikiLeaks",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter: Chevy Chase, Fletch, and The Falcon and the Snowman",
+      "summary": "Josh and Chuck chat about Chevy Chase, the movie Fletch, and the true story of Christopher Boyce and Andrew Lee, who sold US secrets to the Soviets in the 1970s.",
+      "topics": [
+        "Chevy Chase",
+        "Fletch",
+        "The Falcon and the Snowman",
+        "Christopher Boyce",
+        "Andrew Lee"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Recruiting spies",
+      "summary": "The hosts describe how spies are recruited: joining intelligence agencies, diplomats who spy, money, blackmail, ideological disillusionment, mother's medical bills, targeting low-level employees with access, and walk-ins such as Penkovsky.",
+      "topics": [
+        "spy recruitment",
+        "walk-in spies",
+        "blackmail recruitment",
+        "ideological spies",
+        "Penkovsky",
+        "Rosenberg espionage"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Controllers, compartmentalization, and dead drops",
+      "summary": "A spy is handled by one controller to limit exposure if caught, a practice called compartmentalization. Information is passed through dead drops in public places, with microfilm hidden in spots like a loose brick.",
+      "topics": [
+        "controller spy handler",
+        "compartmentalization",
+        "dead drop",
+        "microfilm"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Cover stories, legends, and tradecraft",
+      "summary": "Spies build a cover identity and a detailed backstory called a legend, which takes years to establish. Agents photograph documents rather than memorize them or steal originals, and female spies are also discussed.",
+      "topics": [
+        "cover and legend",
+        "tradecraft",
+        "document photography",
+        "female spies",
+        "No Way Out"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Spy gadgets and technology",
+      "summary": "The hosts discuss the laser EMACS device that reads vibrations on windows, noting it dates to the 1960s and is sold to the public. They discuss how modern gadgets are faster and smaller versions of older ones.",
+      "topics": [
+        "laser microphone",
+        "laser EMACS",
+        "spy gadgets",
+        "eavesdropping devices"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Technical intelligence: satellites, spy planes, drones, and undersea taps",
+      "summary": "Technological intelligence (TECHINT) covers satellites that once dropped film canisters into the ocean and later relayed images wirelessly, U-2 spy planes replaced by drones, seismic and underwater sensors, and US submarines tapping Soviet undersea cables.",
+      "topics": [
+        "satellite reconnaissance",
+        "technological intelligence TECHINT",
+        "U-2 spy plane",
+        "drones",
+        "undersea cable wiretap"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Historical codes and secret writing",
+      "summary": "Ancient and historic spy methods: Sun Tzu's Art of War references to spies, invisible ink such as lemon juice and Jay's sympathetic stain in the Revolutionary War, and the Spartan skytale cipher.",
+      "topics": [
+        "Art of War",
+        "invisible ink",
+        "skytale",
+        "Spartan spies",
+        "Revolutionary War spying"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Enigma machine and Bletchley Park codebreaking",
+      "summary": "The German Enigma machine encrypted messages, and Polish and British codebreakers, including Alan Turing at Bletchley Park, cracked it. The book Enigma is recommended.",
+      "topics": [
+        "Enigma machine",
+        "Bletchley Park",
+        "Alan Turing",
+        "codebreaking",
+        "Ultra"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Numbers stations",
+      "summary": "Government shortwave numbers stations broadcast coded messages, marked by a song or announcement, that anyone can hear but few can decode.",
+      "topics": [
+        "numbers stations",
+        "shortwave radio",
+        "coded broadcasts"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Modern espionage: counterterrorism, cyber attacks, and corporate spying",
+      "summary": "Modern spying targets terror cells, Iran, North Korea, and China, with thousands of daily cyber attacks from Beijing reported. The US also spies on allies like Israel. Corporate spying during mergers and deals is described, including CIA officers moonlighting for companies and the Coke and Pepsi secret formula incident.",
+      "topics": [
+        "counterterrorism intelligence",
+        "cyber espionage",
+        "China cyber attacks",
+        "corporate espionage",
+        "Israel spying",
+        "WikiLeaks cables"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Data analysis and the Battle of Midway ruse",
+      "summary": "Intelligence from many sources is compiled by data analysts into briefs. Stalin ignored warnings of a German attack. The Purple Code and a fake fresh-water message helped confirm the attack on Midway.",
+      "topics": [
+        "data analysts",
+        "intelligence analysis",
+        "Stalin German invasion warning",
+        "Purple Code",
+        "Battle of Midway"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:06:00",
+      "kind": "content",
+      "title": "Misinformation, double and triple agents",
+      "summary": "Misinformation is as important as real intelligence. Double agents may be unwitting or turned, and triple and quadruple agents make histories hard to untangle.",
+      "topics": [
+        "misinformation",
+        "double agent",
+        "triple agent",
+        "counterintelligence"
+      ]
+    },
+    {
+      "start": "01:06:00",
+      "end": "01:14:00",
+      "kind": "content",
+      "title": "Operation Fortitude and D-Day deception",
+      "summary": "Operation Fortitude used fake troops, tanks, depots, and a fake First US Army Group led by Patton, plus double agent Garbo and radar-reflecting chaff, to make Germany expect an invasion at Pas de Calais rather than Normandy. The hosts compare it to Blazing Saddles and discuss Saving Private Ryan.",
+      "topics": [
+        "Operation Fortitude",
+        "Garbo",
+        "D-Day deception",
+        "Normandy invasion",
+        "Patton"
+      ]
+    },
+    {
+      "start": "01:14:00",
+      "end": "01:19:00",
+      "kind": "content",
+      "title": "Daily Telegraph crossword and D-Day code names",
+      "summary": "MI5 noticed Daily Telegraph crossword answers such as Utah, Omaha, Mulberry, Neptune, and Overlord before D-Day. Investigation found a schoolteacher setter whose coincidence was innocent.",
+      "topics": [
+        "Daily Telegraph crossword",
+        "MI5",
+        "D-Day code names",
+        "Overlord",
+        "Mulberry harbor"
+      ]
+    },
+    {
+      "start": "01:19:00",
+      "end": "01:24:00",
+      "kind": "ad",
+      "title": "Housekeeping and announcements",
+      "summary": "The hosts announce a new Discovery email address, a newsletter, and a South by Southwest live podcast on March 11, and ask for spy stories.",
+      "topics": [
+        "newsletter",
+        "South by Southwest",
+        "contact information"
+      ]
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:26:00",
+      "kind": "listener_mail",
+      "title": "Corrections: polar bears, penguins, and Edmonton",
+      "summary": "Corrections about penguins living outside Antarctica, and confusion between Edmonton and Calgary in Alberta, Canada.",
+      "topics": [
+        "corrections",
+        "penguins",
+        "Edmonton",
+        "Calgary",
+        "Alberta"
+      ]
+    },
+    {
+      "start": "01:26:00",
+      "end": "01:27:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing reminders to contact the show on Twitter, Facebook, and email, and information about the HowStuffWorks site and iPhone app.",
+      "topics": [
+        "contact information",
+        "HowStuffWorks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14653,
+    "output_tokens": 4205
+  }
+}

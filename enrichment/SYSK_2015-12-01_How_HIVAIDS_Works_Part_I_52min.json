@@ -1,0 +1,234 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-12-01_How_HIVAIDS_Works_Part_I_52min.txt",
+  "title": "How HIV/AIDS Works, Part I",
+  "date": "2015-12-01",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-hiv-aids-works-part-i",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a22bf23d-b9d7-4712-9ab6-ae28008939b4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a22bf23d-b9d7-4712-9ab6-ae28008939b4/transcript?format=TextWithTimestamps&t=1700543847",
+  "summary": "Part one of a two-part Stuff You Should Know episode, released on World AIDS Day (December 1), covering the origins and basics of HIV and AIDS. The hosts trace the likely jump of SIV from chimpanzees in West Africa to humans, the early 1980s US outbreak among gay men, and the naming history (GRID/\"gay cancer\", the clumsy original virus names). They explain that AIDS is the late stage of HIV (CD4+ T cell count falling below about 200 per cubic millimeter) rather than a separate disease, and discuss why HIV spreads widely: long asymptomatic latency, and higher transmission risk through anal sex. They cover transmission routes (sexual contact, needle sharing, mother-to-child, breastfeeding, blood transfusions), what does not transmit it (air, surfaces, saliva, tears, sweat, mosquitoes, casual kissing), and walk through the HIV replication cycle inside helper T cells and the formation of viral reservoirs. The episode closes with US statistics by risk group and disparities affecting African Americans and Hispanic/Latino people, plus a discussion of the MSM terminology. Part two is promised to cover treatment and cure.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "HIV",
+    "AIDS",
+    "HIV/AIDS origins",
+    "SIV chimpanzee origin",
+    "World AIDS Day",
+    "HIV transmission",
+    "HIV replication cycle",
+    "CD4 T helper cells",
+    "HIV stages",
+    "AIDS definition",
+    "viral reservoirs",
+    "anal sex HIV risk",
+    "MSM terminology",
+    "HIV in African Americans",
+    "HIV statistics United States",
+    "blood transfusion HIV risk",
+    "mosquitoes HIV myth",
+    "early AIDS epidemic 1980s",
+    "The Band Played On",
+    "HIV vs AIDS terminology",
+    "retrovirus reverse transcription"
+  ],
+  "entities": [
+    {
+      "name": "HIV",
+      "type": "other"
+    },
+    {
+      "name": "AIDS",
+      "type": "other"
+    },
+    {
+      "name": "SIV",
+      "type": "other"
+    },
+    {
+      "name": "The Band Played On",
+      "type": "work"
+    },
+    {
+      "name": "Magic Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Ryan White",
+      "type": "person"
+    },
+    {
+      "name": "Tuskegee syphilis experiments",
+      "type": "event"
+    },
+    {
+      "name": "Stonewall",
+      "type": "event"
+    },
+    {
+      "name": "Sub-Saharan Africa",
+      "type": "place"
+    },
+    {
+      "name": "West Africa",
+      "type": "place"
+    },
+    {
+      "name": "Congo",
+      "type": "place"
+    },
+    {
+      "name": "Kinshasa",
+      "type": "place"
+    },
+    {
+      "name": "Todd Heywood",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Intro and World AIDS Day",
+      "summary": "The hosts introduce the two-part episode released on World AIDS Day, note the topic's size, and tease the later discussion of a possible cure and the naming debate.",
+      "topics": [
+        "World AIDS Day",
+        "HIV/AIDS two-part episode"
+      ]
+    },
+    {
+      "name": "x",
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Origins of HIV and SIV",
+      "summary": "The hosts describe the earliest documented HIV case in Kinshasa, Congo, the HIV-1 vs HIV-2 distinction, and the likely transmission from SIV in West African chimpanzees to humans around the 1930s or 1940s.",
+      "topics": [
+        "HIV origins",
+        "SIV chimpanzee origin",
+        "HIV-1 vs HIV-2"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Early AIDS epidemic and the clumsy original name",
+      "summary": "The hosts discuss healthy gay men in Los Angeles and New York falling ill in the late 1970s and early 1980s, the early name 'gay cancer', and the cumbersome original virus name (HTLV-III/LAV), which was shortened to HIV.",
+      "topics": [
+        "early AIDS epidemic 1980s",
+        "gay cancer",
+        "HTLV-III LAV naming"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "The Band Played On and the discovery race",
+      "summary": "The hosts recommend the film and book The Band Played On and describe the early investigation and the competing French and American teams that identified the virus around 1983.",
+      "topics": [
+        "The Band Played On",
+        "HIV discovery 1983",
+        "Pasteur Institute and NCI rivalry"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Opportunistic infections and HIV vs AIDS terms",
+      "summary": "The hosts explain that people die of opportunistic infections and cancers because the immune system fails, and that AIDS is the end stage of HIV defined by CD4 counts, which is why they debate the terminology.",
+      "topics": [
+        "opportunistic infections",
+        "HIV stages",
+        "AIDS definition",
+        "HIV disease terminology"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "HIV statistics worldwide and in the US",
+      "summary": "The hosts cite worldwide figures of about 78 million infected and 39 million dead, with sub-Saharan Africa bearing about 70 percent of cases, and note that US trends differ by demographic group.",
+      "topics": [
+        "HIV statistics",
+        "sub-Saharan Africa HIV",
+        "HIV in the United States"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Why HIV spreads: latency and sexual contact",
+      "summary": "The hosts explain that HIV is not airborne, that it spreads through intimate contact involving blood or semen, and that its long asymptomatic period lets it spread widely, especially among people with many partners in the late 1970s.",
+      "topics": [
+        "HIV transmission",
+        "HIV latency",
+        "promiscuity and HIV spread",
+        "condom use"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Anal sex and biological risk",
+      "summary": "The hosts explain why anal intercourse carries higher HIV risk than vaginal intercourse, due to the fragile rectal lining, blood vessels, susceptible cells, and higher HIV concentration in semen and rectal fluid, and note that the risk is similar for men and women receiving anal sex.",
+      "topics": [
+        "anal sex HIV risk",
+        "rectal mucosa",
+        "receptive anal intercourse",
+        "gay men HIV risk"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "A short break in the episode with a comedic bit about growing up during the AIDS scare.",
+      "topics": [
+        "AIDS scare 1980s"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Transmission routes and non-transmission myths",
+      "summary": "The hosts list ways HIV is transmitted (sexual contact, needle sharing, breastfeeding, mother to fetus, blood transfusion) and give the blood transfusion risk figures, plus the rare case of transmission through open-mouth kissing. They say HIV does not spread through air, saliva, tears, sweat, or toilet seats, and that mosquitoes cannot transmit it.",
+      "topics": [
+        "HIV transmission routes",
+        "mosquitoes HIV myth",
+        "blood transfusion risk",
+        "casual contact myths",
+        "saliva tears sweat HIV"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "How HIV replicates in T helper cells",
+      "summary": "The hosts explain that HIV is a retrovirus that binds to CD4+ T helper cells and goes through reverse transcription, integration, transcription, translation, assembly and budding, and that infected cells eventually self-destruct. They also describe the HIV reservoirs that make the infection chronic.",
+      "topics": [
+        "HIV replication cycle",
+        "retrovirus reverse transcription",
+        "CD4 T helper cells",
+        "viral reservoirs",
+        "budding and cell death"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16378,
+    "output_tokens": 2890
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-11-25_SYSK_Selects_How_Organ_Donation_Works_37min.txt",
+  "title": "SYSK Selects: How Organ Donation Works",
+  "date": "2017-11-25",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-organ-donation-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4d8544cb-df4c-47cf-b70f-ae28006d59ff/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d8544cb-df4c-47cf-b70f-ae28006d59ff/transcript?format=TextWithTimestamps&t=1700543787",
+  "summary": "SYSK Selects rerun of the January 2010 episode \"How Organ Donation Works,\" chosen by Josh. The hosts cover the history of transplants, starting with the 1954 twin kidney transplant between Richard and Ronald Herrick; which organs can be donated from living and dead donors; waiting-list statistics from UNOS; organ procurement organizations and the networks that match donors to recipients; cardiac versus brain death and the controversial five-minute and sixty-five-second rules; the brain death definition and apnea testing; donor registration through driver's license offices (including Georgia's seven-dollar incentive); religious views on donation; post-donation lifestyle expectations; the illegal organ black market, including the South Africa and India cases and a New York tissue-harvesting case; and a listener mail story about a bookstore kleptomaniac.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Organ Donation Works",
+  "topics": [
+    "organ donation",
+    "organ transplant",
+    "living donor",
+    "deceased donor",
+    "kidney transplant",
+    "1954 Herrick twin kidney transplant",
+    "transplant history",
+    "United Network for Organ Sharing",
+    "UNOS waiting list",
+    "organ procurement organization",
+    "organ procurement",
+    "brain death",
+    "cardiac death",
+    "sixty-five second rule",
+    "apnea test",
+    "donor registration",
+    "driver's license organ donor",
+    "religious views on organ donation",
+    "organ black market",
+    "illegal organ trade",
+    "kidney theft",
+    "tissue harvesting",
+    "liver regeneration",
+    "heart lung transplant wait time",
+    "SYSK Selects",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Richard Herrick",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Herrick",
+      "type": "person"
+    },
+    {
+      "name": "United Network for Organ Sharing",
+      "type": "organization"
+    },
+    {
+      "name": "Organ Procurement and Transplantation Network",
+      "type": "organization"
+    },
+    {
+      "name": "Scientific Registry of Transplant Recipients",
+      "type": "organization"
+    },
+    {
+      "name": "Selim Khan",
+      "type": "person"
+    },
+    {
+      "name": "Michael Marino",
+      "type": "person"
+    },
+    {
+      "name": "Alistair Cook",
+      "type": "person"
+    },
+    {
+      "name": "Life Guardian Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Colorado",
+      "type": "place"
+    },
+    {
+      "name": "South Africa",
+      "type": "place"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "Brazil",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Selects intro and opening banter",
+      "summary": "Josh introduces the episode as his pick for SYSK Selects, noting a Reuters exposé on the organ market. The hosts joke about kidneys and livers before the topic begins.",
+      "topics": [
+        "SYSK Selects",
+        "organ donation"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History of organ transplants",
+      "summary": "The hosts cover early transplant attempts, including a 1660 skull graft and a 1923 lamb kidney, and the 1954 kidney transplant between twins Richard and Ronald Herrick, which succeeded partly because of the low rejection risk. They also cover later milestones such as the 2003 tongue transplant and face and penis transplants.",
+      "topics": [
+        "transplant history",
+        "1954 Herrick twin kidney transplant",
+        "living donor",
+        "kidney transplant",
+        "face transplant"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "UNOS waiting list statistics",
+      "summary": "Josh and Chuck check live waiting-list numbers on the UNOS website: about 105,000 people waiting for organs and 83,012 for kidneys at the time checked. The numbers do not change over the next twenty minutes.",
+      "topics": [
+        "UNOS waiting list",
+        "organ donation statistics",
+        "kidney waiting list"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "What organs are and how they age",
+      "summary": "Chuck explains that organs are over-equipped with reserve capacity and that they deteriorate with age, except corneas. The hosts note long waits for heart-lung transplants, a median of 6.7 years.",
+      "topics": [
+        "organs and reserve capacity",
+        "organ aging",
+        "corneal transplant",
+        "heart lung transplant wait time"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Living donors and the liver",
+      "summary": "The hosts discuss which organs and tissues can come from living donors, such as a kidney, part of the liver, and bone marrow. They explain that the liver regenerates, so a portion can be given to a child or an adult.",
+      "topics": [
+        "living donor",
+        "liver regeneration",
+        "kidney donation",
+        "bone marrow donation"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Eligibility and religious views",
+      "summary": "Donation is restricted for people with HIV or bacterial infections in the blood or tissue. The hosts describe religious positions: Shinto's view that the body is impure after death, Amish conditional support, Romani beliefs, and the Jehovah's Witness rule to drain blood from donated organs.",
+      "topics": [
+        "donor eligibility",
+        "religious views on organ donation",
+        "Shinto",
+        "Amish",
+        "Jehovah's Witnesses"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "How to register as a donor",
+      "summary": "Most states let people register at the DMV when getting a driver's license. Georgia once took seven dollars off licenses for registrants, which the hosts say was legal but drew doubt about donor motives until 2005, when the incentive ended.",
+      "topics": [
+        "donor registration",
+        "driver's license organ donor",
+        "Georgia organ donor registry"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Brain death, cardiac death and procurement rules",
+      "summary": "The hosts explain donation after brain death and after cardiac death. They discuss the five-minute wait rule, a Colorado doctor's sixty-five-second rule that was tied to a failed lawsuit, and the lack of federal guidance. They describe the 2008 white paper's brain death definition and the apnea test.",
+      "topics": [
+        "brain death",
+        "cardiac death",
+        "sixty-five second rule",
+        "apnea test",
+        "death definition",
+        "ventilator"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Organ procurement organizations and networks",
+      "summary": "The hosts describe organ procurement organizations, which handle recruitment, evaluation, removal, and transport. They also name UNOS, which maintains the waiting list, the Scientific Registry of Transplant Recipients, and the Organ Procurement and Transplantation Network. They discuss organ transport logistics and transplant coolers.",
+      "topics": [
+        "organ procurement organization",
+        "UNOS",
+        "organ transport",
+        "organ transplant cooler"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Post-mortem changes, recipient expectations and costs",
+      "summary": "The hosts describe chemical changes after death that make speed important. They cover post-transplant lifestyle expectations, such as avoiding alcohol and smoking, and a case of a liver candidate refusing transplant without rehab. They also discuss the unwritten expectation that recipients pay a donor's travel and lodging costs, and insurance problems for living donors.",
+      "topics": [
+        "post-mortem physiology",
+        "transplant recipient lifestyle",
+        "living donor insurance",
+        "donor expenses"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Organ black market and illegal trade",
+      "summary": "The hosts cover the black market for organs, which often involves impoverished people in countries such as Brazil, India, and the Soviet Bloc. They describe a 2003 South Africa case, a Delhi kidney theft, and a New York tissue-harvesting company run by Michael Marino, which sold tissue from Alistair Cook's body.",
+      "topics": [
+        "organ black market",
+        "illegal organ trade",
+        "kidney theft",
+        "tissue harvesting",
+        "Michael Marino",
+        "Alistair Cook"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:01:00",
+      "kind": "outro",
+      "title": "Sign-off and donor resolutions",
+      "summary": "The hosts say they are donors and recommend further reading, including Tom Chiarella's article on HowStuffWorks, the Organ Procurement and Transplantation Network, and the Life Guardian Foundation, which opposes donation. They urge listeners to tell their families.",
+      "topics": [
+        "donor advocacy",
+        "further reading"
+      ]
+    },
+    {
+      "start": "01:01:00",
+      "end": "01:04:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: bookstore kleptomaniac",
+      "summary": "A listener named Sarah tells of a bookstore employee who confessed in a journal to stealing books for twenty years. The prominent family of the thief settled out of court.",
+      "topics": [
+        "kleptomania",
+        "listener mail",
+        "bookstore theft"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12733,
+    "output_tokens": 3225
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-05-11_SYSK_Selects_How_Lie_Detectors_Work_28min.txt",
+  "title": "SYSK Selects: How Lie Detectors Work",
+  "date": "2019-05-11",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-lie-detectors-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/457005ac-ed1d-45c9-9e8b-ae28004d4efb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/457005ac-ed1d-45c9-9e8b-ae28004d4efb/transcript?format=TextWithTimestamps&t=1700543696",
+  "summary": "SYSK Selects rerun of the classic episode on lie detectors. Josh introduces it as a classic pick. The hosts trace the polygraph from early 1920s Berkeley, where police officer John Larson used a cardio-pneumo-psychograph (invented by William Marston) and Leonard Keeler marketed it, through earlier precursors (Lombroso, Vittorio Binosi, James Mackenzie, the unigraph). They explain the three measurements (respiration via pneumographs, blood pressure/heart rate via a cuff, and galvanic skin response via finger electrodes), the polygraph exam structure (pretest, control, relevant and irrelevant questions, post-test), examiner training and lack of licensing, and criticisms that the results are subjective and prone to false positives and negatives (Gary Ridgeway example). They cover legal admissibility (New Mexico, federal judges), the Employee Polygraph Protection Act, countermeasures, fMRI lie detection, and penile plethysmography. The episode closes with listener mail from Brad with satirical suggestions for the show.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Lie Detectors Work",
+  "topics": [
+    "lie detectors",
+    "polygraph",
+    "polygraph test",
+    "lie detector test",
+    "history of the polygraph",
+    "John Larson",
+    "Leonard Keeler",
+    "William Marston",
+    "Berkeley Police Department",
+    "galvanic skin response",
+    "pneumograph",
+    "forensic psychophysiologist",
+    "control question test",
+    "polygraph admissibility in court",
+    "false positives and false negatives",
+    "Employee Polygraph Protection Act",
+    "fMRI lie detection",
+    "penile plethysmography",
+    "countermeasures against polygraph",
+    "SYSK Selects",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "John Larson",
+      "type": "person"
+    },
+    {
+      "name": "Leonard Keeler",
+      "type": "person"
+    },
+    {
+      "name": "William Marston",
+      "type": "person"
+    },
+    {
+      "name": "Helen Graham",
+      "type": "person"
+    },
+    {
+      "name": "Gary Ridgeway",
+      "type": "person"
+    },
+    {
+      "name": "Cesare Lombroso",
+      "type": "person"
+    },
+    {
+      "name": "Vittorio Binosi",
+      "type": "person"
+    },
+    {
+      "name": "James Mackenzie",
+      "type": "person"
+    },
+    {
+      "name": "Kevin Bondser",
+      "type": "person"
+    },
+    {
+      "name": "Bob Lee",
+      "type": "person"
+    },
+    {
+      "name": "Berkeley Police Department",
+      "type": "organization"
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "name": "University of Georgia",
+      "type": "organization"
+    },
+    {
+      "name": "Accredited Academy",
+      "type": "organization"
+    },
+    {
+      "name": "Green River killer",
+      "type": "event"
+    },
+    {
+      "name": "College Hall, UC Berkeley",
+      "type": "place"
+    },
+    {
+      "name": "Berkeley, California",
+      "type": "place"
+    },
+    {
+      "name": "New Mexico",
+      "type": "place"
+    },
+    {
+      "name": "Employee Polygraph Protection Act",
+      "type": "work"
+    },
+    {
+      "name": "Mr Show",
+      "type": "work"
+    },
+    {
+      "name": "This American Life",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Selects intro and opening banter",
+      "summary": "Josh introduces this SYSK Selects pick as a classic episode on lie detectors, followed by banter about the Saturday Night Live 'you lie' skit.",
+      "topics": [
+        "SYSK Selects",
+        "lie detectors"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Early polygraph history in Berkeley",
+      "summary": "John Larson, a Berkeley police officer with a PhD, used the cardio-pneumo-psychograph invented by William Marston to investigate a string of thefts at College Hall, UC Berkeley. Suspect Helen Graham confessed after days of questioning. Leonard Keeler later marketed the device as a magic lie detector, and Larson later distanced himself from it.",
+      "topics": [
+        "John Larson",
+        "Leonard Keeler",
+        "William Marston",
+        "Berkeley Police Department",
+        "first polygraph criminal case",
+        "College Hall theft"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Precursors to the polygraph",
+      "summary": "Early devices by Cesare Lombroso (blood pressure), Vittorio Binosi (breathing, 1904), and James Mackenzie (term polygraph, 1906) led to the unigraph, which measured respiration. The hosts note that polygraphs measure physiological changes rather than detecting lies directly.",
+      "topics": [
+        "history of the polygraph",
+        "Cesare Lombroso",
+        "Vittorio Binosi",
+        "James Mackenzie",
+        "unigraph",
+        "physiological measurement"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "How polygraph instruments work",
+      "summary": "The three main measurements are respiration (pneumograph tubes around chest and abdomen with bellows), cardiovascular activity (blood pressure cuff detecting sound), and galvanic skin response (finger electrodes measuring skin conductivity). Analog ink-pen charts have largely given way to digital transducers.",
+      "topics": [
+        "pneumograph",
+        "galvanic skin response",
+        "electrodermal activity",
+        "blood pressure cuff polygraph",
+        "polygraph hardware"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Subjectivity and examiner training",
+      "summary": "Critics such as the ACLU call polygraph data subjective. Proponents say skilled forensic psychophysiologists can account for nervousness. The hosts describe the estimated 5,000 to 10,000 US examiners and the lack of licensing in many states, plus the training path of an academy requiring a degree or experience, a ten-week course, and 25 reviewed exams.",
+      "topics": [
+        "forensic psychophysiologist",
+        "polygraph examiner training",
+        "polygraph licensing",
+        "subjective polygraph results",
+        "ACLU polygraph criticism",
+        "voodoo science"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "How a polygraph test is conducted",
+      "summary": "The test begins with an hour-long pretest interview used to profile the subject. Examiners set control questions, such as whether the subject has ever lied, to create a baseline. Relevant questions are compared against control questions in the post-test analysis, and results may be inconclusive.",
+      "topics": [
+        "polygraph test procedure",
+        "pretest interview",
+        "control question",
+        "relevant question",
+        "post-test analysis",
+        "inconclusive polygraph"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Countermeasures, courts, and error rates",
+      "summary": "Common countermeasures include sedatives and tacks in the shoe. Polygraph results are generally inadmissible in court, with New Mexico the exception and federal judges deciding case by case. False positives and false negatives are discussed, including the case of Gary Ridgeway, who passed a polygraph before later killings. The federal government is both a major user and a major opponent in court.",
+      "topics": [
+        "polygraph countermeasures",
+        "polygraph admissibility in court",
+        "New Mexico polygraph law",
+        "false positives",
+        "false negatives",
+        "Gary Ridgeway polygraph"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Employee Polygraph Protection Act and alternatives",
+      "summary": "The Employee Polygraph Protection Act of the late 1980s bars most private employers from forcing employees to take polygraphs. The hosts then discuss fMRI lie detection as an emerging alternative and penile plethysmography used on sex offenders.",
+      "topics": [
+        "Employee Polygraph Protection Act",
+        "fMRI lie detection",
+        "penile plethysmography",
+        "alternative lie detection"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:27:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Brad",
+      "summary": "Brad suggests nicknames, a separate memoir podcast, and layered audio tracks. The hosts respond to the satirical suggestions.",
+      "topics": [
+        "listener mail",
+        "show feedback"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:00",
+      "kind": "outro",
+      "title": "Outro and calls to action",
+      "summary": "The hosts invite listeners who have access to a polygraph to get in touch and sign off.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9571,
+    "output_tokens": 3002
+  }
+}

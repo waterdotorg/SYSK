@@ -1,0 +1,247 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-06-14_Whatever_happened_to_acid_rain_30min.txt",
+  "title": "Whatever happened to acid rain?",
+  "date": "2012-06-14",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whatever-happened-to-acid-rain",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6b3a526d-6653-4477-922f-ae2800a77b3f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6b3a526d-6653-4477-922f-ae2800a77b3f/transcript?format=TextWithTimestamps&t=1700543919",
+  "summary": "Josh and Chuck explain acid rain: what it is (sulfur dioxide and nitrogen oxide emissions reacting with water vapor to form sulfuric and nitric acid, wet and dry deposition), the pH scale and why normal rain is slightly acidic, ecosystem damage to plankton, lakes, soil, trees and coastal waters, health and material effects like corrosion of statues and car paint, the history from Robert Angus Smith's 1872 coinage through the 1980 Acid Deposition Act and 1990 Clean Air Act amendments, the cap-and-trade system that cut sulfur dioxide emissions, and the remaining recovery. The episode also includes listener mail about Comic-Con plans, an MIT listener's correction about MIT's Engineers nickname and beaver mascot, an engineer joke, and a request for listeners' meaning of \"chocolate rain.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "acid rain",
+    "acid deposition",
+    "acid fog",
+    "pH scale",
+    "sulfur dioxide emissions",
+    "nitrogen oxides",
+    "cap and trade",
+    "Clean Air Act",
+    "Acid Rain Program",
+    "Acid Deposition Act",
+    "plankton and acidification",
+    "aquatic ecosystem damage",
+    "soil buffering capacity",
+    "aluminum toxicity in soil",
+    "forest decline Appalachian Mountains",
+    "eutrophication coastal waters",
+    "corrosion of monuments and stone",
+    "air pollution and ozone",
+    "environmental history",
+    "Robert Angus Smith",
+    "transboundary pollution",
+    "listener mail",
+    "Comic-Con 2012"
+  ],
+  "entities": [
+    {
+      "name": "Acid rain",
+      "type": "event"
+    },
+    {
+      "name": "Clean Air Act",
+      "type": "work"
+    },
+    {
+      "name": "Acid Deposition Act",
+      "type": "work"
+    },
+    {
+      "name": "Robert Angus Smith",
+      "type": "person"
+    },
+    {
+      "name": "Sarah Dowdy",
+      "type": "person"
+    },
+    {
+      "name": "Nina Rostogi",
+      "type": "person"
+    },
+    {
+      "name": "Slate",
+      "type": "organization"
+    },
+    {
+      "name": "National Atmospheric Deposition Program",
+      "type": "organization"
+    },
+    {
+      "name": "Clean Air Status and Trends Network",
+      "type": "organization"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "type": "organization"
+    },
+    {
+      "name": "Comic-Con",
+      "type": "event"
+    },
+    {
+      "name": "Appalachian Mountains",
+      "type": "place"
+    },
+    {
+      "name": "Adirondacks",
+      "type": "place"
+    },
+    {
+      "name": "Wisconsin",
+      "type": "place"
+    },
+    {
+      "name": "Michigan",
+      "type": "place"
+    },
+    {
+      "name": "Antarctic ozone hole",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and 1980s environmental fears",
+      "summary": "Hosts banter about the Dejounte-era song reference, recall 1980s fears about the ozone hole and acid rain, and note that acid rain has been largely addressed while the ozone hole has not.",
+      "topics": [
+        "ozone layer",
+        "acid rain 1980s",
+        "environmental history"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "What acid rain is and how it forms",
+      "summary": "Acid rain is rain with acid from sulfur dioxide and nitrogen oxides (from cars, factories, power plants, and natural sources like lightning and volcanoes) that react with water vapor to form sulfuric and nitric acid. It can be wet or dry deposition, called acid deposition.",
+      "topics": [
+        "acid rain definition",
+        "sulfur dioxide",
+        "nitrogen oxides",
+        "acid deposition",
+        "wet and dry deposition"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "The pH scale and normal rain",
+      "summary": "The hosts explain the pH scale, with pure water near neutral, and note that normal rain is slightly acidic around 5.6 because of carbonic acid from carbon dioxide. Acid rain falls around 4.3 to 5, comparable to orange juice or black coffee, though that comparison is misleading.",
+      "topics": [
+        "pH scale",
+        "hydrogen ion concentration",
+        "carbonic acid",
+        "acidity of rain"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Effects on plankton, fish and food chains",
+      "summary": "Acid rain harms sensitive organisms like plankton, which die off and starve larger animals such as fish and frogs. The hosts also cover the monitoring programs in the US (National Atmospheric Deposition Program and Clean Air Status and Trends Network) and the concept of critical load.",
+      "topics": [
+        "plankton acidification",
+        "food chain damage",
+        "critical load",
+        "National Atmospheric Deposition Program",
+        "Clean Air Status and Trends Network"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Soil buffering, lakes and coastal nitrogen",
+      "summary": "Soil normally buffers acid with minerals like calcium, but when its buffering capacity is overloaded, acid flows into water bodies. Nitrogen from acid rain fuels algae blooms in coastal waters, which leads to oxygen depletion and harm to fish and shellfish.",
+      "topics": [
+        "soil buffering",
+        "surface water acidification",
+        "algae blooms",
+        "coastal eutrophication",
+        "oxygen depletion"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Forests, aluminum, health and material damage",
+      "summary": "Acid rain draws aluminum out of soil, which tree roots can absorb as a toxin, and strips minerals needed by trees. At higher elevations acid fog strips leaves, causing bald peaks in the Appalachians. Dry deposition combined with ozone and VOCs creates smog harmful to respiratory health, and acid corrodes stone monuments and car paint.",
+      "topics": [
+        "aluminum toxicity",
+        "forest decline",
+        "acid fog",
+        "Appalachian bald peaks",
+        "smog and respiratory health",
+        "stone corrosion",
+        "car paint damage"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "History: Robert Angus Smith and the 1970s-1990 policy response",
+      "summary": "Robert Angus Smith coined the term acid rain in 1872 after seeing damaged monuments. Scientists in the 1970s found acid rain was transboundary. The Acid Deposition Act set a ten-year study, and in 1990 Congress added sulfur dioxide and nitrogen oxides to the Clean Air Act's reduction list.",
+      "topics": [
+        "Robert Angus Smith 1872",
+        "Industrial Revolution pollution",
+        "Acid Deposition Act",
+        "Clean Air Act amendments",
+        "transboundary pollution history"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Cap and trade and recovery results",
+      "summary": "A cap-and-trade system for sulfur dioxide from power plants, with tradeable allowances, cut emissions substantially. Nitrogen oxide cap and trade started around 2003 with emissions falling from 27 million tons in 1980 to 16.3 million in 2008. Acidic lakes in Wisconsin, Michigan, the Adirondacks and Northern Appalachians have declined, though recovery is incomplete.",
+      "topics": [
+        "cap and trade",
+        "sulfur dioxide reduction",
+        "nitrogen oxide reduction",
+        "acidic lakes recovery",
+        "emissions trading"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:39:30",
+      "kind": "listener_mail",
+      "title": "Comic-Con announcement and MIT listener mail",
+      "summary": "The hosts announce they will attend Comic-Con in San Diego in July. A listener from MIT corrects the hosts on the school's nickname (Engineers, not eggheads), its beaver mascot, and course numbering, and the hosts read an engineer joke.",
+      "topics": [
+        "Comic-Con",
+        "MIT engineers",
+        "listener email",
+        "engineer joke"
+      ]
+    },
+    {
+      "start": "00:39:30",
+      "end": "00:30:00",
+      "kind": "outro",
+      "title": "Chocolate rain request and sign-off",
+      "summary": "The hosts ask listeners what 'chocolate rain' means, give contact details for the show, and sign off with a promotional ad line.",
+      "topics": [
+        "listener feedback",
+        "chocolate rain",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10375,
+    "output_tokens": 3011
+  }
+}

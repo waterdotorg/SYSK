@@ -1,0 +1,263 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-01-28_Whats_the_deal_with_the_debt_ceiling_34min.txt",
+  "title": "What's the deal with the debt ceiling?",
+  "date": "2014-01-28",
+  "duration": "34 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-the-debt-ceiling",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c2485345-1d2b-46fe-93fb-ae28009b1688/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c2485345-1d2b-46fe-93fb-ae28009b1688/transcript?format=TextWithTimestamps&t=1700543889",
+  "summary": "Josh and Chuck explain the U.S. debt ceiling: what it is, how the federal budget deficit and national debt differ, how Treasury securities fund the government, the history of the debt limit from 1939 onward, and the consequences of default. They cover the 2011 and 2013 debt-ceiling standoffs, the Tea Party's role, austerity versus deficit spending debates, the Greece/Reinhart-Rogoff paper error, and how Social Security trust fund borrowing works. The episode closes with a listener mail segment from Chris Howell thanking the show and asking for a shout-out to his grandmother.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "debt ceiling",
+    "national debt",
+    "federal budget deficit",
+    "Treasury securities",
+    "Treasury bonds",
+    "US default",
+    "government shutdown debt limit",
+    "debt limit history",
+    "2011 debt ceiling crisis",
+    "2013 debt ceiling crisis",
+    "Tea Party",
+    "austerity",
+    "deficit spending",
+    "Social Security trust fund",
+    "credit rating downgrade",
+    "Daily Treasury Statement",
+    "federal budget surplus",
+    "Clinton budget surplus",
+    "Greece debt crisis",
+    "Congress spending"
+  ],
+  "entities": [
+    {
+      "name": "debt ceiling",
+      "type": "other"
+    },
+    {
+      "name": "national debt",
+      "type": "other"
+    },
+    {
+      "name": "U.S. Treasury",
+      "type": "organization"
+    },
+    {
+      "name": "Congress",
+      "type": "organization"
+    },
+    {
+      "name": "Tea Party",
+      "type": "organization"
+    },
+    {
+      "name": "Social Security",
+      "type": "other"
+    },
+    {
+      "name": "Greece",
+      "type": "place"
+    },
+    {
+      "name": "Bill Clinton",
+      "type": "person"
+    },
+    {
+      "name": "Barack Obama",
+      "type": "person"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "type": "person"
+    },
+    {
+      "name": "Andrew Mellon",
+      "type": "person"
+    },
+    {
+      "name": "Henry Morgenthau",
+      "type": "person"
+    },
+    {
+      "name": "Al Gore",
+      "type": "person"
+    },
+    {
+      "name": "Lehman Brothers",
+      "type": "organization"
+    },
+    {
+      "name": "Spanish American War",
+      "type": "event"
+    },
+    {
+      "name": "World War One",
+      "type": "event"
+    },
+    {
+      "name": "TARP",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:10",
+      "kind": "intro",
+      "title": "Opening banter on the debt ceiling",
+      "summary": "The hosts introduce the topic as timely and easy to understand, note the 2011 and 2013 standoffs over raising the debt ceiling, and discuss how the debt limit underpins government and the global economy. They debate the politics of targeting it.",
+      "topics": [
+        "debt ceiling",
+        "2011 debt ceiling crisis",
+        "2013 debt ceiling crisis",
+        "Tea Party"
+      ]
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Daily Treasury Statement and deficits",
+      "summary": "Chuck explains the Daily Treasury Statement using October 3 of the prior year as an example, with about $110 billion in revenue and $143 billion in spending. The hosts explain that a daily deficit adds up to an annual deficit or surplus, and that balanced budgets are rare.",
+      "topics": [
+        "Daily Treasury Statement",
+        "federal budget deficit",
+        "balanced budget",
+        "federal revenue and spending"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Surpluses under Clinton and deficits since",
+      "summary": "The hosts review budget history: Clinton inherited a deficit and the government ran surpluses starting in 1998, peaking at about $236 billion in 2000. Deficits returned afterward, reaching about $1.2 trillion when Obama took office in 2009.",
+      "topics": [
+        "federal budget surplus",
+        "Clinton budget surplus",
+        "federal budget deficit",
+        "Obama deficit"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "National debt versus annual deficit",
+      "summary": "The hosts distinguish the annual deficit from the national debt, which is the accumulation of all annual deficits and surpluses. They cite the national debt at about $17.28 trillion as of January 2014, up from about $5 trillion in 2000, and discuss the wars and recession as contributing factors.",
+      "topics": [
+        "national debt",
+        "federal budget deficit",
+        "national debt history",
+        "wars and deficits"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Austerity, deficit spending, and the Greece paper",
+      "summary": "The hosts discuss the austerity versus deficit spending debate. They mention a widely cited paper on debt-to-GDP ratios that was later found to contain an error, and say this influenced policy in Greece.",
+      "topics": [
+        "austerity",
+        "deficit spending",
+        "Greece debt crisis",
+        "debt to GDP ratio"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "How the debt ceiling and Treasury securities work",
+      "summary": "The hosts explain that Congress approves spending, Treasury borrows by selling securities to investors such as China, Japan, banks and corporations, and the debt ceiling caps the total outstanding debt. They compare it to a credit card limit but note the cap is set by the borrower rather than the lender.",
+      "topics": [
+        "Treasury securities",
+        "Treasury bonds",
+        "debt ceiling",
+        "government borrowing"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A short message break from the show.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "History of the debt limit",
+      "summary": "The hosts trace the history: Congress once approved each Treasury borrowing, then temporary war-time loosening for the Spanish American War and World War One, then the 1939 aggregate debt limit set under Roosevelt, which the Treasury secretaries Mellon and Morgenthau pushed for. The limit has been raised many times since, including 78 times since 1960.",
+      "topics": [
+        "debt limit history",
+        "Spanish American War",
+        "World War One",
+        "1939 debt limit",
+        "Liberty Bonds"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Consequences of default and a debt ceiling breach",
+      "summary": "The hosts explain that failing to raise the limit would mean defaulting on bills already incurred, raising interest rates on Treasury bills and linked loans like mortgages, a possible loss of the AAA rating, and Treasury bills losing value as collateral for banks, potentially causing a severe market collapse.",
+      "topics": [
+        "US default",
+        "credit rating downgrade",
+        "Treasury bills collateral",
+        "interest rates",
+        "financial market collapse"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Budget cuts, Social Security trust fund, and outlook",
+      "summary": "The hosts discuss the difficulty of cutting spending or raising taxes, and how the government borrows from the Social Security trust fund above its required reserve. They recall Al Gore's lockbox proposal and express concern about Social Security's future.",
+      "topics": [
+        "Social Security trust fund",
+        "budget cuts",
+        "Al Gore lockbox",
+        "Social Security future"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:56:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Chris Howell",
+      "summary": "Chris Howell writes about losing his father to cancer and caring for his grandmother, thanks the show for its end-of-life episode, and asks for a shout-out to his grandmother, Mamo. The hosts read the email and close with listener contact information and a sponsor message.",
+      "topics": [
+        "listener mail",
+        "end of life",
+        "death and dying"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:56:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode with a sponsor message and contact details.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11499,
+    "output_tokens": 2864
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-02-13_911_Is_Not_a_Joke_54min.txt",
+  "title": "911 Is Not a Joke",
+  "date": "2020-02-13",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/911-is-not-a-joke",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2a41d51b-772d-4152-91c7-ae28003d1a03/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2a41d51b-772d-4152-91c7-ae28003d1a03/transcript?format=TextWithTimestamps&t=1700543662",
+  "summary": "Josh and Chuck explain the 911 emergency system: what to call it for and what not to call it for (cats in trees, noisy neighbors, non-emergency police lines), the debate over reporting suspicious persons and racial bias, swatting and prank calls, accidental calls, and the history from London's 999 and the 1957 U.S. push through Haleyville, Alabama's first 911 call in 1968 and national rollout by 1999. They cover how enhanced 911 with caller ID and location works, why cell phone calls lack location data, Phase II GPS, text-to-911, the coming Next Generation 911 and FirstNet, the stress of dispatcher work, a 2013 ACLU response-time study in Chicago, and a listener letter about race in the military. Includes live-show tour announcements at the start.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "911",
+    "emergency number",
+    "911 history",
+    "Haleyville Alabama",
+    "first 911 call",
+    "enhanced 911",
+    "cell phone 911 location",
+    "Phase II GPS location",
+    "text to 911",
+    "Next Generation 911",
+    "FirstNet",
+    "911 dispatchers",
+    "swatting",
+    "prank calls to 911",
+    "accidental 911 calls",
+    "suspicious person reporting",
+    "racial bias police response times",
+    "non-emergency police number",
+    "London 999 history",
+    "caller ID",
+    "Robert Wood Johnson Foundation",
+    "911 call center stress",
+    "Stuff You Should Know listener mail"
+  ],
+  "entities": [
+    {
+      "name": "911",
+      "type": "other"
+    },
+    {
+      "name": "Haleyville, Alabama",
+      "type": "place"
+    },
+    {
+      "name": "London",
+      "type": "place"
+    },
+    {
+      "name": "Grand Crossing",
+      "type": "place"
+    },
+    {
+      "name": "Jefferson Park",
+      "type": "place"
+    },
+    {
+      "name": "Robert Wood Johnson Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "FirstNet",
+      "type": "organization"
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "AT&T",
+      "type": "organization"
+    },
+    {
+      "name": "Tom Bevill",
+      "type": "person"
+    },
+    {
+      "name": "Rankin Fite",
+      "type": "person"
+    },
+    {
+      "name": "Brad Anderson",
+      "type": "person"
+    },
+    {
+      "name": "The Call",
+      "type": "work"
+    },
+    {
+      "name": "Die Hard",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Live tour announcement and opening",
+      "summary": "Josh announces upcoming Pacific Northwest live shows in Vancouver and Portland, then introduces the episode on 911 and how it is perceived as boring.",
+      "topics": [
+        "live shows",
+        "Vancouver",
+        "Portland",
+        "911 intro"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "911 origins and usage stats",
+      "summary": "The hosts note 911 has existed in the US since at least 1968, Toledo got a working system in 1990s, and stats of about 240 million calls a year, most from wireless phones. They say the system is antiquated but still works.",
+      "topics": [
+        "911 history",
+        "911 call statistics",
+        "wireless 911 calls",
+        "911 system antiquated"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "When to call and when not to call 911",
+      "summary": "Hosts list appropriate 911 uses such as fires, medical emergencies, serious car accidents, and crimes in progress. They list non-emergencies like cats stuck in trees, speeding tickets, lost or noisy-neighbor issues, and power outages, recommending the local non-emergency police number.",
+      "topics": [
+        "when to call 911",
+        "non-emergency number",
+        "cat stuck in tree",
+        "emergency guidelines"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Suspicious persons and racial bias in reporting",
+      "summary": "The hosts discuss the vague guidance to report suspicious activity, how neighborhood reports often reflect racial bias, and the risk of deadly police encounters following calls. Dave's point that behavior, not people, is suspicious is mentioned.",
+      "topics": [
+        "suspicious person reporting",
+        "racial bias 911 calls",
+        "neighborhood watch",
+        "police encounters"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Prank calls, swatting, and accidental calls",
+      "summary": "Hosts explain that prank-calling 911 is a crime and describe swatting, where a caller falsely reports a hostage situation to bring a SWAT response to a target's home. They advise that accidental callers should stay on the line and not hang up.",
+      "topics": [
+        "swatting",
+        "prank 911 calls",
+        "accidental 911 calls",
+        "hanging up on 911"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "History of the three-digit number and Haleyville's first call",
+      "summary": "London's 999 system and the US push through 1957 fire chiefs and other groups are described. AT&T chose 911. Haleyville, Alabama made the first 911 call in February 1968 as a publicity event with state senator Rankin Fite and Congressman Tom Bevill. Nome, Alaska followed. Rollout was slow and local, aided by Robert Wood Johnson Foundation grants. Only 50 percent of the country had 911 by 1987, and it became nationwide in 1999.",
+      "topics": [
+        "911 history",
+        "Haleyville Alabama",
+        "Rankin Fite",
+        "Tom Bevill",
+        "London 999",
+        "AT&T 911 selection",
+        "Robert Wood Johnson Foundation grants",
+        "national 911 rollout"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Break",
+      "summary": "Short break before the next topic.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "How enhanced 911 and cell phone location work",
+      "summary": "Describes the operation of early 911 with switchboards and public safety answering points, the 1970s enhanced 911 with automatic number and location identification, and why cell phone calls lack that data. Covers the FCC-mandated triangulation, Phase II GPS coordinates, and the problems in rural areas.",
+      "topics": [
+        "enhanced 911",
+        "ANI ALI",
+        "public safety answering point",
+        "cell phone location",
+        "Phase II GPS",
+        "FCC 911 rules",
+        "caller ID"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Text to 911 and Next Generation 911",
+      "summary": "Text-to-911 began about a decade ago in Iowa, and is now available in all states but not everywhere within them. The FCC requires a bounce-back for carriers without it. Next Generation 911 will move to IP networks and accept video and photos, and FirstNet will provide a separate broadband network for first responders.",
+      "topics": [
+        "text to 911",
+        "Next Generation 911",
+        "FirstNet",
+        "VoIP 911",
+        "first responder broadband",
+        "Black Hawk Iowa"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Dispatcher work, stress, and notable failures",
+      "summary": "The hosts describe call-center dispatchers as first responders who give life-saving instructions. They discuss a 911 call about a wildfire in Oregon that was dismissed, a drowning case, and the emotional toll and turnover, including the lack of closure. Dispatcher skills like fast typing and multitasking are noted.",
+      "topics": [
+        "911 dispatchers",
+        "call center stress",
+        "PTSD dispatchers",
+        "Oregon wildfire 911 call",
+        "dispatcher burnout"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Response time bias study, pizza myth, and the UK five-five",
+      "summary": "The hosts cite a 2013 ACLU study in Chicago with 11-minute response in Grand Crossing versus 2.5 minutes in Jefferson Park. They discuss the myth of ordering a pizza to signal an emergency and the UK practice where pressing 55 signals a real emergency. Text-to-911 is useful for people who cannot speak.",
+      "topics": [
+        "ACLU Chicago study",
+        "Grand Crossing",
+        "Jefferson Park",
+        "response time racial disparity",
+        "pizza urban legend",
+        "911 silent call",
+        "Die Hard reference"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on racism in the military",
+      "summary": "Josh reads a listener email from Matthew Applewhite describing camaraderie across races in the Marine Corps, while acknowledging some lingering prejudice.",
+      "topics": [
+        "listener mail",
+        "military racism",
+        "Marine Corps",
+        "race relations in military"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:54:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to get in touch via email and the website and sign off.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17615,
+    "output_tokens": 3290
+  }
+}

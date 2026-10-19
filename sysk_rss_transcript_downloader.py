@@ -116,6 +116,7 @@ class SYSKTranscriptDownloader:
         try:
             response = requests.get(url, timeout=30)
             if response.status_code == 200:
+                response.encoding = "utf-8"  # Omny serves UTF-8 without a charset; avoid mojibake
                 transcript = response.text
                 lines = transcript.split('\n')
                 

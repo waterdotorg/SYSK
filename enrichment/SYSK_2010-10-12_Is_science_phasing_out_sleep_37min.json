@@ -1,0 +1,233 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-10-12_Is_science_phasing_out_sleep_37min.txt",
+  "title": "Is science phasing out sleep?",
+  "date": "2010-10-12",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-science-phasing-out-sleep",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0a95d313-14e4-43f4-89dd-ae2800b42465/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a95d313-14e4-43f4-89dd-ae2800b42465/transcript?format=TextWithTimestamps&t=1700543953",
+  "summary": "Hosts Josh and Chuck open with plugs for their October 2010 trivia night in Atlanta (Drunken Unicorn / MJQ kickoff, Five Seasons Brewery trivia with guests John Hodgman, Joe Randazzo, Dave Willis). They then turn to whether science is phasing out sleep: stay-awake endurance records (Peter Tripp 1959, Randy Gardner 1964, Tony Wright 2007, Toymi Soyny), the dangers of stimulants like caffeine and amphetamines, and the wakefulness drug Provigil (modafinil), including its marketing by Cephalon, off-label use, price increases, and safety concerns. They cover newer compounds such as CX717 and DARPA's sleep research, a sleep gene search and short-sleeping fruit flies, brain polarization as a sleep-reduction method, and the hosts' objections to eliminating sleep. The episode ends with listener mail from Kate and Hunter about Aqua Teen Hunger Force and their wedding.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "sleep deprivation",
+    "phasing out sleep",
+    "Provigil",
+    "modafinil",
+    "Cephalon",
+    "wakefulness drugs",
+    "smart drugs",
+    "nootropics",
+    "stay awake record",
+    "Randy Gardner",
+    "Peter Tripp",
+    "amphetamines",
+    "caffeine",
+    "dopamine and addiction",
+    "GABA",
+    "glutamate",
+    "CX717",
+    "DARPA sleep research",
+    "short sleeper gene",
+    "brain polarization",
+    "Aqua Teen Hunger Force listener mail",
+    "trivia night Atlanta"
+  ],
+  "entities": [
+    {
+      "name": "Provigil",
+      "type": "other"
+    },
+    {
+      "name": "Cephalon",
+      "type": "organization"
+    },
+    {
+      "name": "Peter Tripp",
+      "type": "person"
+    },
+    {
+      "name": "Randy Gardner",
+      "type": "person"
+    },
+    {
+      "name": "Tony Wright",
+      "type": "person"
+    },
+    {
+      "name": "Toymi Soyny",
+      "type": "person"
+    },
+    {
+      "name": "Frank Baldino",
+      "type": "person"
+    },
+    {
+      "name": "Evelyn Pringle",
+      "type": "person"
+    },
+    {
+      "name": "Julia Layton",
+      "type": "person"
+    },
+    {
+      "name": "DARPA",
+      "type": "organization"
+    },
+    {
+      "name": "CX717",
+      "type": "other"
+    },
+    {
+      "name": "Guinness",
+      "type": "organization"
+    },
+    {
+      "name": "Aqua Teen Hunger Force",
+      "type": "work"
+    },
+    {
+      "name": "Dave Willis",
+      "type": "person"
+    },
+    {
+      "name": "John Maynard Keynes",
+      "type": "person"
+    },
+    {
+      "name": "Drunken Unicorn",
+      "type": "place"
+    },
+    {
+      "name": "Five Seasons Brewery",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter and trivia night plugs",
+      "summary": "Josh and Chuck promote their Atlanta trivia event, with a kickoff show at the MJQ and trivia at Five Seasons Brewery featuring John Hodgman, Joe Randazzo and Dave Willis.",
+      "topics": [
+        "trivia night Atlanta",
+        "Five Seasons Brewery",
+        "Drunken Unicorn",
+        "Dave Willis"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Stay-awake records and the history of sleep deprivation",
+      "summary": "Chuck recounts the all-night endurance craze and Peter Tripp's 1959 stay awake, aided by amphetamines and hallucinations. He then describes Randy Gardner's 1964 record of 264 hours and Tony Wright's 2007 Cornwall stay, which did not beat the record because of an earlier Finnish record.",
+      "topics": [
+        "stay awake record",
+        "Peter Tripp",
+        "Randy Gardner",
+        "Tony Wright",
+        "sleep deprivation hallucinations",
+        "marathon endurance stunts"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Stimulants: caffeine and amphetamines",
+      "summary": "The hosts discuss the side effects and crashes of caffeine and amphetamines, the concept of sleep debt, and the use of Greenies in baseball.",
+      "topics": [
+        "caffeine side effects",
+        "amphetamines",
+        "sleep debt",
+        "Greenies",
+        "stimulant crash"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Modafinil (Provigil): how it works and its marketing",
+      "summary": "Modafinil, a eugeroic developed for narcolepsy, is described as keeping users awake without sleep debt. The hosts explain its effects on GABA, histamine, glutamate and dopamine. They then discuss Cephalon's off-label promotion, the rise in price, and a 2010 European regulatory decision restricting its use.",
+      "topics": [
+        "Provigil",
+        "modafinil",
+        "eugeroics",
+        "narcolepsy",
+        "Cephalon",
+        "off-label marketing",
+        "dopamine",
+        "GABA",
+        "glutamate",
+        "drug prices"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Addiction risk and the Provigil investigation",
+      "summary": "Chuck and Josh discuss dopamine-driven addiction and the reported cases of Provigil addiction. They recommend Evelyn Pringle's article 'The Rise and Fall of Provigil' and mention lawsuits and whistleblowers against Cephalon.",
+      "topics": [
+        "drug addiction",
+        "Provigil addiction",
+        "Evelyn Pringle",
+        "Cephalon lawsuits",
+        "whistleblowers",
+        "reward system"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Next-generation wakefulness drugs, military research and sleep genetics",
+      "summary": "The hosts describe CX717, DARPA's sleep deprivation research for special ops, military tests of modafinil, a brain-imaging study on the locus ceruleus, and the search for a short-sleeper gene including a fruit fly mutation and a link to potassium channels.",
+      "topics": [
+        "CX717",
+        "DARPA",
+        "military sleep deprivation",
+        "locus ceruleus",
+        "short sleeper gene",
+        "fruit fly sleep mutation",
+        "Andrew Davis"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:35:30",
+      "kind": "content",
+      "title": "Ethics of eliminating sleep and brain polarization",
+      "summary": "The hosts argue against synthetic sleep reduction, citing Keynes's leisure predictions and the eight-hour day, and mention brain polarization via DC current as another method of staying awake.",
+      "topics": [
+        "eliminating sleep ethics",
+        "Keynes leisure society",
+        "brain polarization",
+        "tDCS",
+        "work hours",
+        "shift work"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Aqua Teen Hunger Force wedding",
+      "summary": "Kate and Hunter write that Aqua Teen Hunger Force brought them together and that they wanted Master Shake and Meatwad cake toppers for their wedding. The hosts respond and encourage listener mail.",
+      "topics": [
+        "listener mail",
+        "Aqua Teen Hunger Force",
+        "wedding story"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12918,
+    "output_tokens": 2600
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-03-04_Short_Stuff_Exclamation_Points_14min.txt",
+  "title": "Short Stuff: Exclamation Points!",
+  "date": "2020-03-04",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-exclamation-points",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ab50f9f5-e295-4b79-918a-ae28003c1b1c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ab50f9f5-e295-4b79-918a-ae28003c1b1c/transcript?format=TextWithTimestamps&t=1700543661",
+  "summary": "Short Stuff episode on the exclamation point. The hosts cover its uncertain origins (possibly from the Latin exclamation of joy written as I above O, with the question mark similarly from \"quo\" for question), its 14th-century English name \"point of admiration,\" and its sparing use until the 20th century, when it became common. They describe the typewriter workaround (period, backspace, apostrophe) since typewriters lacked a dedicated key until about 1970, and the older name \"bangs.\" They discuss linguist Gretchen McCulloch's view that the exclamation point now works as a sincerity marker rather than an intensity marker, the role of electronic communication in this shift, research showing women and young people of color as linguistic innovators, and studies linking exclamation point use to lower perceived supervisory status in business emails. The episode closes with the hosts' own email habits and an all-caps aside.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "exclamation point",
+    "exclamation mark",
+    "punctuation history",
+    "point of admiration",
+    "bangs (printing term)",
+    "typewriter punctuation",
+    "sincerity marker",
+    "Gretchen McCulloch",
+    "digital communication tone",
+    "texting and email punctuation",
+    "linguistic innovation",
+    "Valley Girl speech",
+    "all caps online",
+    "question mark origin",
+    "workplace email tone",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Gretchen McCulloch",
+      "type": "person"
+    },
+    {
+      "name": "Moon Unit Zappa",
+      "type": "person"
+    },
+    {
+      "name": "Frank Zappa",
+      "type": "person"
+    },
+    {
+      "name": "Valley Girl",
+      "type": "work"
+    },
+    {
+      "name": "Valley Girl speech",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and the exclamation point's origins",
+      "summary": "The hosts open with banter about past videos, then introduce the exclamation point, its 14th-century English name 'point of admiration,' and the theory that it derived from the Latin joy exclamation written I above O.",
+      "topics": [
+        "exclamation point origin",
+        "point of admiration",
+        "question mark origin",
+        "Latin exclamation of joy"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Early usage, typewriters, and the name 'bangs'",
+      "summary": "The hosts explain that the exclamation point was used sparingly until the 20th century, that 19th-century muckraker journalists overused it, that typewriters lacked a dedicated key until about 1970 so users typed a period, backspaced, and added an apostrophe, and that printers once called it 'bangs.'",
+      "topics": [
+        "exclamation point history",
+        "typewriter punctuation",
+        "bangs (printing term)",
+        "19th-century muckraker journalism"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Exclamation points as sincerity markers",
+      "summary": "The hosts discuss how exclamation points became common in the 2000s and how linguist Gretchen McCulloch describes them as sincerity markers rather than intensity markers, especially in text and email where tone cues are missing.",
+      "topics": [
+        "sincerity marker",
+        "Gretchen McCulloch",
+        "digital communication tone",
+        "texting and email punctuation"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Gender, age, and linguistic innovation",
+      "summary": "The hosts cite research finding that women use exclamation points more than men in online friendliness, that young women and young people of color are linguistic innovators, and compare this to the Valley Girl speech trend once mocked in the 1980s.",
+      "topics": [
+        "linguistic innovation",
+        "gender and online language",
+        "Valley Girl speech",
+        "Moon Unit Zappa"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Business email tone and perceived status",
+      "summary": "The hosts describe studies suggesting exclamation point use in business emails is linked to not being perceived as a supervisor, then discuss their own email habits and all-caps as yelling online.",
+      "topics": [
+        "workplace email tone",
+        "perceived status in business email",
+        "all caps online",
+        "email etiquette"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:14:00",
+      "kind": "outro",
+      "title": "Closing and sign-off",
+      "summary": "The hosts joke about their own email styles and close the episode with the standard Short Stuff sign-off and iHeartRadio credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5607,
+    "output_tokens": 1634
+  }
+}

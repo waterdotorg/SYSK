@@ -1,0 +1,269 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-07-11_SYSK_Selects_How_Landfills_Work_42min.txt",
+  "title": "SYSK Selects: How Landfills Work",
+  "date": "2020-07-11",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-landfills-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/773ce33c-d8c8-446b-9ecf-ae2800327536/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/773ce33c-d8c8-446b-9ecf-ae2800327536/transcript?format=TextWithTimestamps&t=1700543620",
+  "summary": "SYSK Selects rerun of an episode on how landfills work. The hosts cover the history from ocean dumping and open dumps to the sanitary \"dry tomb\" landfill that emerged after EPA-era regulation, and the rise in packaging waste since the 1960s. They explain site selection (soil, bedrock, groundwater, surface water, wildlife, archaeological sites), the bottom liner, compacted daily cells, stormwater and leachate collection, methane capture for power, the soil or foam cap, and post-closure monitoring. They also discuss the shift toward bioreactor landfills that add water to speed decomposition, the consolidation into fewer \"super landfills\" and interstate trash shipping, the Fresh Kills landfill, stadiums built on landfills, and a listener email.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Landfills Work",
+  "topics": [
+    "landfills",
+    "how landfills work",
+    "sanitary landfill",
+    "dry tomb landfill",
+    "municipal solid waste",
+    "leachate",
+    "garbage juice",
+    "landfill methane collection",
+    "landfill gas to energy",
+    "bioreactor landfill",
+    "landfill liner",
+    "landfill cap",
+    "landfill site selection",
+    "Fresh Kills landfill",
+    "waste management history",
+    "trash generation",
+    "recycling and diversion rates",
+    "landfill closure and monitoring",
+    "tipping fee",
+    "stadiums built on landfills",
+    "Jimmy Hoffa landfill rumor",
+    "packaging waste",
+    "super landfills",
+    "interstate garbage shipping",
+    "stormwater runoff at landfills"
+  ],
+  "entities": [
+    {
+      "name": "Fresh Kills landfill",
+      "type": "place"
+    },
+    {
+      "name": "North Wake County Landfill",
+      "type": "place"
+    },
+    {
+      "name": "Raleigh, North Carolina",
+      "type": "place"
+    },
+    {
+      "name": "Point Hills landfill",
+      "type": "place"
+    },
+    {
+      "name": "Lincoln, Nebraska",
+      "type": "place"
+    },
+    {
+      "name": "Giant Stadium",
+      "type": "place"
+    },
+    {
+      "name": "Kemiskey Park",
+      "type": "place"
+    },
+    {
+      "name": "Mile High Stadium",
+      "type": "place"
+    },
+    {
+      "name": "Jimmy Hoffa",
+      "type": "person"
+    },
+    {
+      "name": "James Corner",
+      "type": "person"
+    },
+    {
+      "name": "Harry Carson",
+      "type": "person"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization"
+    },
+    {
+      "name": "The Atlantic",
+      "type": "organization"
+    },
+    {
+      "name": "Slate",
+      "type": "organization"
+    },
+    {
+      "name": "New York Times",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Selects intro and opening banter",
+      "summary": "Chuck introduces this Saturday Selects rerun of how landfills work, calling it part of the City Works suite. Josh and Chuck open with the idea that landfills are a marvel of engineering and not as depressing as expected.",
+      "topics": [
+        "landfills",
+        "Saturday selects"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "History of trash disposal and the rise of packaging waste",
+      "summary": "The hosts trace the history from dumping garbage in the ocean, to open dumps with rats and birds, to the EPA-era push for sanitary landfills. Fresh Kills is noted as a historic early modern landfill. Trash generation roughly doubled or tripled after the 1960s, driven by cheap plastic and styrofoam packaging replacing butcher paper.",
+      "topics": [
+        "waste management history",
+        "open dumps",
+        "packaging waste",
+        "municipal solid waste generation",
+        "sanitary landfill history"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Dry tomb concept and garbage juice hazards",
+      "summary": "A sanitary landfill isolates trash from the environment and keeps it dry rather than composting it. The hosts describe the dangers of old landfills, including methane migrating into utility pipes, and leachate (garbage juice) that can carry ammonia into groundwater.",
+      "topics": [
+        "dry tomb landfill",
+        "leachate",
+        "methane hazards",
+        "groundwater contamination"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Per-person trash and recycling rates by country",
+      "summary": "The hosts compare per-capita trash generation and diversion rates. The UK produces the most trash per person by their account, Canada is described as the worst on recovery, and Germany generates a lot but diverts nearly all of it. The US diversion rate has hovered around a third for decades.",
+      "topics": [
+        "trash generation by country",
+        "recycling rates",
+        "diversion rate",
+        "Germany recycling",
+        "United States waste"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Site selection and environmental impact study",
+      "summary": "Proposing a landfill starts with an environmental impact study covering acreage, soil type, bedrock, surface water flow, local wildlife and migratory routes, and archaeological sites. Bedrock must be fractured enough to allow monitoring wells but not so fractured that it leaks. The hosts cite the North Wake County Landfill in Raleigh, about 230 acres with roughly 70 as landfill, and a roughly $19 million build cost.",
+      "topics": [
+        "landfill site selection",
+        "environmental impact study",
+        "bedrock",
+        "North Wake County Landfill",
+        "landfill permits"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Fresh Kills history and New York reuse",
+      "summary": "Fresh Kills, once a marsh and stream area that had archaeological value, was filled with garbage. Its name comes from a Dutch word for stream. It has closed, and designer James Corner is turning it into a large park.",
+      "topics": [
+        "Fresh Kills landfill",
+        "Fresh Kills name origin",
+        "landfill park conversion",
+        "New York City garbage"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Landfill components: liner, cells, drainage, leachate and gas collection",
+      "summary": "The hosts list the main parts of a landfill: a thick synthetic polyethylene bottom liner with fabric mats, daily compacted cells (about 50 ft by 50 ft by 14 ft in the North Carolina example), stormwater drainage to collection ponds, a separate leachate collection system with perforated pipes, and methane collection. Trash is compacted, and each day's cell is covered with about six inches of soil, which the hosts say kills rats and keeps out scavengers and wind.",
+      "topics": [
+        "landfill liner",
+        "landfill cells",
+        "compaction",
+        "stormwater drainage",
+        "leachate collection",
+        "daily cover",
+        "rats in landfills"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Methane capture, landfill gas energy, and final cap",
+      "summary": "Methane and carbon dioxide make up most landfill gas. Methane can be captured and burned to generate electricity, and Fresh Kills brings New York City about $10 million a year from a methane extraction company. A Lincoln, Nebraska pilot study in 2010 estimated about $300,000 a year. Covers can use soil or experimental foam or emulsion instead of six inches of soil, and closed landfills get a polyethylene cap, low-root plantings, and long-term groundwater monitoring.",
+      "topics": [
+        "landfill gas to energy",
+        "methane collection",
+        "landfill cap",
+        "post-closure monitoring",
+        "Lincoln Nebraska landfill study",
+        "landfill cover alternatives"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Operating a landfill, tipping fees, and bioreactor landfills",
+      "summary": "The hosts walk through a day at a landfill: weigh station, sorting stations for recycling and yard waste, dumping, reweighing, and a per-ton tipping fee. They then describe bioreactor landfills, which add water to speed anaerobic decomposition, produce more methane in a shorter time, and allow earlier monitoring and closure.",
+      "topics": [
+        "tipping fee",
+        "landfill operations",
+        "bioreactor landfill",
+        "anaerobic decomposition",
+        "accelerated methane production"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Landfills under stadiums, super landfills, and interstate trash shipping",
+      "summary": "Some stadiums, including Giant Stadium in New Jersey, Kemiskey Park in Chicago and Mile High Stadium in Denver, were built on landfills. A Chicago ballplayer hit a buried copper cuttlefish once rumored to be Jimmy Hoffa. Landfill numbers fell from about 70 in 1996 to under 2,000 by 2009 as super landfills grew, and states like Arkansas, Kentucky and Ohio take out-of-state trash.",
+      "topics": [
+        "landfills under stadiums",
+        "Giant Stadium",
+        "Jimmy Hoffa rumor",
+        "super landfills",
+        "interstate garbage shipping",
+        "landfill consolidation"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Jennifer",
+      "summary": "Jennifer writes that she and her family were grieving her father-in-law's death in Germany, and that listening to a podcast episode on blood types while running made her laugh for the first time in two weeks. Her 13-year-old son Oliver also got hooked on the show on a long walk.",
+      "topics": [
+        "listener mail",
+        "listener feedback"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners, list social channels and the website, and close the episode.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13956,
+    "output_tokens": 3447
+  }
+}

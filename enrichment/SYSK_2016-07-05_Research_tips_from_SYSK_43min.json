@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-07-05_Research_tips_from_SYSK_43min.txt",
+  "title": "Research tips from SYSK",
+  "date": "2016-07-05",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/research-tips-from-sysk",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0d8c5c0e-ead3-4fe3-a7a9-ae28008268a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0d8c5c0e-ead3-4fe3-a7a9-ae28008268a7/transcript?format=TextWithTimestamps&t=1700543831",
+  "summary": "Hosts Josh and Chuck open with a listener mail from Bianca about research misrepresentation, unpublished negative studies, and preregistration, then work through a HowStuffWorks article, \"Ten signs that study is bogus.\" Points covered include unrepeatable results (Center for Open Science reproducibility project), plausible-but-unproven observational studies and chance correlations, media overhyping of initial findings, unsound samples and WEIRD study participants, small sample sizes and statistical power, pressure on trainees, dropping inconvenient data, predatory publishing and fake journals, follow-the-money funding conflicts (Willie Soon), fake peer review (Dr. Moon), and sensational \"cool story\" science reporting. The episode closes with an \"Administrative Details\" segment thanking listeners for gifts and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "scientific research",
+    "bogus studies",
+    "research misrepresentation",
+    "reproducibility crisis",
+    "unrepeatable studies",
+    "Center for Open Science",
+    "observational studies",
+    "statistical significance",
+    "p-value false positives",
+    "science journalism",
+    "media hype",
+    "initial findings",
+    "WEIRD study participants",
+    "college student samples",
+    "sample size",
+    "statistical power",
+    "publication bias",
+    "negative results",
+    "preregistration",
+    "predatory publishing",
+    "fake journals",
+    "open access journals",
+    "peer review fraud",
+    "fake peer reviewers",
+    "funding conflicts of interest",
+    "follow the money",
+    "climate change denial funding",
+    "data exclusion",
+    "researcher pressure",
+    "Administrative Details listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Center for Open Science",
+      "type": "organization"
+    },
+    {
+      "name": "Willie Soon",
+      "type": "person"
+    },
+    {
+      "name": "Harvard Smithsonian Center for Astrophysics",
+      "type": "organization"
+    },
+    {
+      "name": "Heartland Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Jeffrey Beall",
+      "type": "person"
+    },
+    {
+      "name": "Ulrich Dirnagl",
+      "type": "person"
+    },
+    {
+      "name": "Aaron Swartz",
+      "type": "person"
+    },
+    {
+      "name": "Dr. Moon",
+      "type": "person"
+    },
+    {
+      "name": "Priceonomics",
+      "type": "organization"
+    },
+    {
+      "name": "Merchants of Doubt",
+      "type": "work"
+    },
+    {
+      "name": "Science",
+      "type": "work"
+    },
+    {
+      "name": "Nature",
+      "type": "work"
+    },
+    {
+      "name": "John Horgan",
+      "type": "person"
+    },
+    {
+      "name": "Ed Yong",
+      "type": "person"
+    },
+    {
+      "name": "MD Anderson Cancer Center",
+      "type": "organization"
+    },
+    {
+      "name": "Philip Morris",
+      "type": "organization"
+    },
+    {
+      "name": "ExxonMobil",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Cold open and listener mail setup",
+      "summary": "Josh and Chuck introduce the episode and say they will open with a listener mail from Bianca about research misrepresentation and selective publication of studies.",
+      "topics": [
+        "listener mail",
+        "research misrepresentation"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Ten signs a study is bogus: unrepeatable results and plausibility",
+      "summary": "Chuck introduces a HowStuffWorks article on spotting bogus studies. Signs discussed include sensational headlines with no follow-up, and the Center for Open Science project in which researchers tried to reproduce one hundred psychological studies and found more than half could not be reproduced. The hosts also discuss plausible-but-unprovable observational studies, the type A personality and heart attack example, and chance correlations at the five percent level.",
+      "topics": [
+        "unrepeatable studies",
+        "reproducibility",
+        "Center for Open Science",
+        "observational studies",
+        "chance correlation",
+        "five percent false positive"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Media hype and unsound samples",
+      "summary": "The hosts discuss how the media portrays tentative findings as certain, citing a Mayan city discovery story. They then cover unsound samples, such as a study on first sexual experience that interviewed only college students and heterosexuals and excluded people reporting violent encounters.",
+      "topics": [
+        "media hype",
+        "science reporting",
+        "unsound samples",
+        "cherry picking data"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "WEIRD study participants and small sample sizes",
+      "summary": "The hosts explain the WEIRD acronym (Western, educated, industrialized, rich, democratic) and a survey finding that about eighty percent of social science papers used college student participants. They then discuss small sample sizes and statistical power using a smoking and lung cancer example.",
+      "topics": [
+        "WEIRD participants",
+        "college student samples",
+        "sample size",
+        "statistical power"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Funding pressure, trainees, and data exclusion",
+      "summary": "Ulrich Dirnagl is cited as a crusader for good science and co-author of a Nature article on institutional responsibility for reproducibility. A survey of MD Anderson trainees found nearly a third felt pressure to support their mentors' work. The hosts discuss a stroke drug study in which mice deaths were dropped from the results, and the pressure to bury negative results.",
+      "topics": [
+        "researcher pressure",
+        "reproducibility funding",
+        "data exclusion",
+        "negative results",
+        "publication bias"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Predatory publishing and fake journals",
+      "summary": "The hosts describe predatory publishers that charge authors fees after accepting papers. Jeffrey Beall's list of predatory publishers is mentioned, along with fake journals such as Scientific Journals International and an invented award. The hosts link the problem to open-access journals and Aaron Swartz.",
+      "topics": [
+        "predatory publishing",
+        "fake journals",
+        "open access",
+        "Jeffrey Beall list",
+        "Aaron Swartz"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Follow the money: funding conflicts and climate change denial",
+      "summary": "The hosts advise following funding sources. They discuss physicist Willie Soon, who denies human-caused climate change, received about 1.2 million dollars from energy companies and foundations, and did not disclose the conflicts. The Heartland Institute gave him an award, and the hosts mention its past work with Philip Morris on secondhand smoke.",
+      "topics": [
+        "funding conflicts of interest",
+        "climate change denial",
+        "Willie Soon",
+        "Heartland Institute",
+        "Merchants of Doubt",
+        "follow the money"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Fake peer review and initial findings",
+      "summary": "The hosts describe Dr. Moon, who posed as his own peer reviewers using invented email addresses and was caught when reviews returned too quickly. A Berlin publisher had sixty-four retractions from fraudulent reviews. The hosts then discuss how initial findings get reported as settled science.",
+      "topics": [
+        "peer review fraud",
+        "retractions",
+        "initial findings",
+        "science headlines"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Cool stories sell science",
+      "summary": "The hosts argue that media wants a catchy story more than sound science, and joke about sensational claims. They end the discussion of science reporting.",
+      "topics": [
+        "sensational science",
+        "cool story bias"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:43:00",
+      "kind": "listener_mail",
+      "title": "Administrative Details and outro",
+      "summary": "Josh and Chuck thank listeners for gifts including coffee, handmade bowls, pasta, cards, cookies, a book from Rocky Mountain Institute, and 3D-printed items. They give social media contacts and the website, then sign off.",
+      "topics": [
+        "Administrative Details",
+        "listener gifts",
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13702,
+    "output_tokens": 2836
+  }
+}

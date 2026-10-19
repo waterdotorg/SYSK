@@ -1,0 +1,255 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-12-11_How_Ayahuasca_Works_45min.txt",
+  "title": "How Ayahuasca Works",
+  "date": "2018-12-11",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ayahuasca-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d6060710-7b83-40a7-bb12-ae280057201c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d6060710-7b83-40a7-bb12-ae280057201c/transcript?format=TextWithTimestamps&t=1700543714",
+  "summary": "Josh and Chuck explain ayahuasca, a traditional Amazonian brew typically made from the Banisteriopsis caapi vine (\"vine of death\" or \"mother vine\") and the Psychotria viridis plant containing DMT. They cover its origins among the Napo Runa people in the Ecuadorian Amazon, its spread through the Amazon basin and Western ayahuasca tourism (especially Peru and the Iquitos area), and the two Brazilian churches (UDV and Santo Daime) legally protected in the US. They explain the pharmacology: MAO inhibitors in the vine let DMT survive digestion, producing a roughly 30-minute onset and a supplementary boost later. They discuss the taste, purging (vomiting and diarrhea) as a ritual element, set and setting, ego dissolution and default mode network research, and therapeutic uses for addiction and PTSD, including research limits from ayahuasca's Schedule I status. Safety concerns include serotonin syndrome with SSRIs, MAO-related food and drug interactions, and the 2018 killing of shaman Olivia Arevalo in Peru. The episode ends with listener mail about the Firewalks episode and the game Pharaoh.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ayahuasca",
+    "DMT",
+    "dimethyltryptamine",
+    "Banisteriopsis caapi",
+    "Psychotria viridis",
+    "vine of death",
+    "harmala alkaloids",
+    "MAO inhibitor",
+    "ayahuasca tourism",
+    "Peru ayahuasca",
+    "Union of the Plants UDV",
+    "Santo Daime",
+    "ego dissolution",
+    "default mode network",
+    "psychedelic therapy",
+    "PTSD psychedelic treatment",
+    "addiction treatment psychedelics",
+    "serotonin syndrome",
+    "set and setting",
+    "Napo Runa",
+    "William S. Burroughs Yage Letters",
+    "Olivia Arevalo",
+    "psychedelics",
+    "shaman",
+    "Schedule I drug"
+  ],
+  "entities": [
+    {
+      "name": "Ayahuasca",
+      "type": "other"
+    },
+    {
+      "name": "DMT",
+      "type": "other"
+    },
+    {
+      "name": "Banisteriopsis caapi",
+      "type": "other"
+    },
+    {
+      "name": "Psychotria viridis",
+      "type": "other"
+    },
+    {
+      "name": "Napo Runa",
+      "type": "organization"
+    },
+    {
+      "name": "Peru",
+      "type": "place"
+    },
+    {
+      "name": "Ecuador",
+      "type": "place"
+    },
+    {
+      "name": "Union of the Plants (UDV)",
+      "type": "organization"
+    },
+    {
+      "name": "Santo Daime",
+      "type": "organization"
+    },
+    {
+      "name": "William S. Burroughs",
+      "type": "person"
+    },
+    {
+      "name": "Olivia Arevalo",
+      "type": "person"
+    },
+    {
+      "name": "Sebastian Woodruff",
+      "type": "person"
+    },
+    {
+      "name": "Henry Miller",
+      "type": "person"
+    },
+    {
+      "name": "Temple of the Way of Light",
+      "type": "organization"
+    },
+    {
+      "name": "Beckley Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Shipibo-Conibo",
+      "type": "organization"
+    },
+    {
+      "name": "Pharaoh",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and what ayahuasca is",
+      "summary": "Hosts joke about ayahuasca and DMT, then explain that ayahuasca is a brew of several plants, originally the vine of death, not a single plant.",
+      "topics": [
+        "ayahuasca definition",
+        "vine of death"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Ingredients and origins",
+      "summary": "The modern brew combines Psychotria viridis (containing DMT) and the Banisteriopsis caapi vine. The brew is traditionally from the Napo Runa in Ecuador and spread across the Amazon basin.",
+      "topics": [
+        "Psychotria viridis",
+        "Banisteriopsis caapi",
+        "Napo Runa",
+        "Amazon basin origins"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Western tourism and churches",
+      "summary": "Western visitors, including Silicon Valley tech workers, travel to South America for ayahuasca, changing the ceremonies. Two Brazilian churches, UDV and Santo Daime, are legally protected in the US as religions, and the legal status of the plants versus the brew is discussed.",
+      "topics": [
+        "ayahuasca tourism",
+        "Union of the Plants UDV",
+        "Santo Daime",
+        "religious freedom ayahuasca legality"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "DMT, MAO inhibitors and the effects",
+      "summary": "DMT is orally inactive alone because monoamine oxidase breaks it down in digestion. The harmala alkaloids in the vine inhibit this enzyme, so DMT is absorbed. Onset takes about thirty minutes, with a booster later.",
+      "topics": [
+        "DMT pharmacology",
+        "monoamine oxidase inhibitor",
+        "harmala alkaloids",
+        "ayahuasca onset"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Ceremony, taste, purging and set and setting",
+      "summary": "The brew tastes awful and vomiting and diarrhea (purging) are common and seen as symbolic. Ceremonies are led by a shaman who prepares participants with intention-setting. Hosts discuss the importance of a trained, monitored setting and bringing your own bucket.",
+      "topics": [
+        "purging",
+        "ayahuasca taste",
+        "shaman ceremony",
+        "set and setting",
+        "William S. Burroughs"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Ego dissolution and default mode network",
+      "summary": "Psychedelics are said to quiet the ego. fMRI studies show the default mode network is suppressed while frontal cortex activity increases. Hosts discuss the ego as an evolved trait and speculate about future evolution.",
+      "topics": [
+        "ego dissolution",
+        "default mode network",
+        "psychedelic neuroscience",
+        "ego death"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Addiction and PTSD therapy research",
+      "summary": "Ayahuasca is discussed as a possible treatment for addiction by disrupting self-medication cycles, and for PTSD through a Temple of the Way of Light study with combat veterans. Ayahuasca's Schedule I status limits US research.",
+      "topics": [
+        "addiction treatment",
+        "PTSD",
+        "Schedule I",
+        "combat veterans psychedelic study",
+        "Temple of the Way of Light"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Safety, deaths and the 2018 Peru killing",
+      "summary": "Ayahuasca is not generally toxic, but deaths have occurred, such as Henry Miller's motorcycle accident. Dangerous interactions include SSRIs causing serotonin shock and MAO-related food and drug interactions. The 2018 killing of shaman Olivia Arevalo in Peru is discussed as a sign of tensions around ayahuasca tourism.",
+      "topics": [
+        "ayahuasca safety",
+        "serotonin syndrome",
+        "drug interactions",
+        "Olivia Arevalo",
+        "Shipibo-Conibo",
+        "ayahuasca tourism tensions"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:55:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Firewalks and Pharaoh",
+      "summary": "A listener named Mike writes in to identify the game from the Firewalks episode as Pharaoh, with its expansion Cleopatra.",
+      "topics": [
+        "listener mail",
+        "Pharaoh game",
+        "Cleopatra expansion"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:55:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to get in touch and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14375,
+    "output_tokens": 2917
+  }
+}

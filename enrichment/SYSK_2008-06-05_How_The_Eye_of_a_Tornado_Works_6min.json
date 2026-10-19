@@ -1,0 +1,136 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-05_How_The_Eye_of_a_Tornado_Works_6min.txt",
+  "title": "How The Eye of a Tornado Works",
+  "date": "2008-06-05",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-eye-of-a-tornado-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/96ba3913-8c37-45c2-9697-ae2800c4296c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/96ba3913-8c37-45c2-9697-ae2800c4296c/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chuck Bryant discuss tornadoes, starting with Josh's experience growing up in Toledo, Ohio near tornado alley and tornadoes in Atlanta. They explain how a tornado forms (a horizontal spinning tube of wind tilted upright by rising air), debunk myths (tornadoes are not visible wind but debris and dust; opening windows does not protect a house; low pressure does not make houses explode, flying debris is the danger), and recommend NOAA advice to keep windows closed and go to the basement. They then recount the two known cases of people who were in the eye of a tornado: a Kansas farmer named Keller in 1943 who stayed to watch the storm and was enveloped, and a Texas farmer named Roy Hall who went into his house as the tornado tore off its roof and found himself in the eye. Both describe calm, smooth walls, constant lightning, and small twisters hissing along the walls. The Texas storm reportedly killed a hundred people in the town. The episode is a promo-bracketed short piece, with a pointer to a How Stuff Works article on the eye of a tornado.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "tornadoes",
+    "eye of a tornado",
+    "tornado formation",
+    "tornado myths",
+    "tornado safety",
+    "NOAA tornado advice",
+    "Keller 1943 Kansas tornado",
+    "Roy Hall Texas tornado",
+    "funnel clouds",
+    "tornado alley",
+    "storm cellar",
+    "debris in tornadoes",
+    "Twister movie myths",
+    "Toledo Ohio tornadoes"
+  ],
+  "entities": [
+    {
+      "name": "Eye of a tornado",
+      "type": "event"
+    },
+    {
+      "name": "Farmer Keller",
+      "type": "person"
+    },
+    {
+      "name": "Roy Hall",
+      "type": "person"
+    },
+    {
+      "name": "Twister",
+      "type": "work"
+    },
+    {
+      "name": "NOAA",
+      "type": "organization"
+    },
+    {
+      "name": "Toledo, Ohio",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Kansas",
+      "type": "place"
+    },
+    {
+      "name": "Texas",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and tornado experiences",
+      "summary": "Josh and Chuck open the show. Josh talks about growing up in Toledo, Ohio, seeing tornadoes, and recent tornadoes that hit downtown Atlanta. They say few people have been in a tornado's eye.",
+      "topics": [
+        "tornado alley",
+        "Toledo Ohio tornadoes",
+        "Atlanta tornadoes"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "How tornadoes form",
+      "summary": "Josh explains that a thunderstorm's rising air tilts a horizontal spinning wind tube upright, creating the vertical tornado, which can reach very high wind speeds.",
+      "topics": [
+        "tornado formation",
+        "tornado wind speeds"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "Tornado myths and safety",
+      "summary": "The hosts say tornadoes are visible only through the debris and dust they pick up, not the wind itself. They debunk the myths that opening windows helps and that low pressure makes houses explode; flying debris is the real danger. NOAA advises keeping windows closed and going to the basement.",
+      "topics": [
+        "tornado myths",
+        "debris in tornadoes",
+        "tornado safety",
+        "NOAA tornado advice",
+        "Twister movie myths",
+        "funnel clouds"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:05:15",
+      "kind": "content",
+      "title": "Farmer Keller's 1943 encounter",
+      "summary": "A Kansas farmer named Keller saw a tornado approaching, got his family into the storm cellar, but stayed to watch and was lifted into the tornado's calm, lightning-lit interior, where small twisters hissed along the walls.",
+      "topics": [
+        "Keller 1943 Kansas tornado",
+        "eye of a tornado",
+        "storm cellar"
+      ]
+    },
+    {
+      "start": "00:05:15",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Roy Hall's Texas tornado and sign-off",
+      "summary": "A Texas farmer, Roy Hall, went into his house as a tornado tore off the roof and found himself in the eye with similar calm, smooth walls and lightning. The Texas storm reportedly killed a hundred people in the town. The hosts point listeners to a How Stuff Works article and sign off.",
+      "topics": [
+        "Roy Hall Texas tornado",
+        "eye of a tornado",
+        "tornado deaths"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3674,
+    "output_tokens": 1692
+  }
+}

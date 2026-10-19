@@ -1,0 +1,268 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-08-19_Going_Up_Elevators_44min.txt",
+  "title": "Going Up: Elevators",
+  "date": "2014-08-19",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/going-up-elevators",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ed586c99-110b-4737-b711-ae2800952b92/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ed586c99-110b-4737-b711-ae2800952b92/transcript?format=TextWithTimestamps&t=1700543876",
+  "summary": "Josh and Chuck explore the history and mechanics of elevators, starting with ancient lifts and Archimedes, Louis XV's flying chair for Madame du Barry, and the 1850s rope-and-pulley passenger elevators. They cover Elijah Otis's 1854 safety brake demonstration (which they stress he invented as a safety device rather than the elevator itself), Otis Tufts's screw-driven elevator, how modern cable-and-counterweight elevators and governors/safety brakes work, the 1945 Empire State Building plane crash elevator fall, the small statistical risk of elevator death, elevator phobia and exposure therapy, personal space research, elevator etiquette (two-flight rule, holding doors, facing front), elevator traffic planning (probable stops, waiting time, handling capacity), and a listener email about an allergy episode that helped a child's sting reaction be caught early.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "elevators",
+    "history of elevators",
+    "Elijah Otis",
+    "Otis safety brake",
+    "safety elevator",
+    "Otis Tufts screw elevator",
+    "Louis XV flying chair",
+    "Madame du Barry",
+    "hydraulic elevators",
+    "rope and pulley elevators",
+    "elevator safety mechanisms",
+    "governor safety brake",
+    "elevator cables and counterweight",
+    "Empire State Building elevator fall 1945",
+    "elevator accident statistics",
+    "escalator safety",
+    "elevator phobia",
+    "claustrophobia",
+    "exposure therapy",
+    "elevator etiquette",
+    "two flight rule",
+    "personal space proxemics",
+    "elevator traffic planning",
+    "elevator wait time",
+    "lazy Susan",
+    "dumb waiter",
+    "listener mail allergies"
+  ],
+  "entities": [
+    {
+      "name": "Elijah Otis",
+      "type": "person"
+    },
+    {
+      "name": "Otis Tufts",
+      "type": "person"
+    },
+    {
+      "name": "Louis XV",
+      "type": "person"
+    },
+    {
+      "name": "Madame du Barry",
+      "type": "person"
+    },
+    {
+      "name": "Archimedes",
+      "type": "person"
+    },
+    {
+      "name": "Edward Hall",
+      "type": "person"
+    },
+    {
+      "name": "John J. Fruin",
+      "type": "person"
+    },
+    {
+      "name": "Nick Paumgarten",
+      "type": "person"
+    },
+    {
+      "name": "Empire State Building",
+      "type": "place"
+    },
+    {
+      "name": "Palace of Versailles",
+      "type": "place"
+    },
+    {
+      "name": "Up and Down",
+      "type": "work"
+    },
+    {
+      "name": "Pedestrian Planning and Design",
+      "type": "work"
+    },
+    {
+      "name": "Lady in a Cage",
+      "type": "work"
+    },
+    {
+      "name": "New York World's Fair 1854",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Jerry's elevator rescue",
+      "summary": "Hosts introduce the episode and joke about Jerry being stuck for four hours in a crowded elevator with NASCAR fans and rescued through the top.",
+      "topics": [
+        "elevator rescue",
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Early lifts and Louis XV's flying chair",
+      "summary": "Ancient Roman lifts powered by people, livestock and water screws, with Archimedes mentioned. Louis XV's flying chair and flying tables are described, along with a tangent on the lazy Susan and dumb waiter.",
+      "topics": [
+        "ancient Roman lifts",
+        "Archimedes",
+        "Louis XV flying chair",
+        "Madame du Barry",
+        "dumb waiter",
+        "lazy Susan"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Hydraulic versus rope-and-pulley elevators and early dangers",
+      "summary": "Hydraulic piston elevators limited building height and were used in mansions. Rope-and-pulley passenger elevators took off in the nineteenth century but were dangerous because there was no safety mechanism when ropes broke.",
+      "topics": [
+        "hydraulic elevators",
+        "rope and pulley elevators",
+        "elevator history nineteenth century",
+        "elevator dangers",
+        "Lady in a Cage"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Elijah Otis and the safety brake",
+      "summary": "Elijah Otis and his sons created a spring-loaded safety device in 1852 and demonstrated it at the 1854 New York World's Fair. Hosts note he invented the safety mechanism that made rope elevators safe, not the elevator itself, and that the brake design is still used.",
+      "topics": [
+        "Elijah Otis",
+        "Otis safety brake",
+        "1854 New York World's Fair",
+        "elevator safety history"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Otis Tufts and the screw elevator",
+      "summary": "A different Otis, Otis Tufts, built an earlier elevator that ran on a threaded screw. It was safe but expensive and impractical, so it was not widely adopted.",
+      "topics": [
+        "Otis Tufts",
+        "screw elevator",
+        "early elevator designs"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "How modern elevators work and safety systems",
+      "summary": "Modern elevators use multiple cables looped over a sheave with a counterweight, driven by an electric motor. Governors trip wedges or brake shoes to grip the rails if the car speeds up, and buffers at the bottom absorb impact.",
+      "topics": [
+        "elevator mechanics",
+        "sheave and counterweight",
+        "governor",
+        "elevator cables",
+        "elevator buffers",
+        "elevator brakes"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Elevator falls and accident statistics",
+      "summary": "A free-fall scenario is discussed, including air cushioning and shock absorbers. The 1945 B-25 crash into the Empire State Building, where two cars fell from the 79th floor and one woman survived, is recounted. Hosts give a small per-ride fatality risk and compare escalator safety.",
+      "topics": [
+        "Empire State Building 1945 crash",
+        "elevator fall survival",
+        "elevator fatality statistics",
+        "escalator safety",
+        "elevator accidents"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Elevator door accidents and phobia",
+      "summary": "Hosts discuss rare door and movement accidents when getting on or off, and the advice to pay attention. They cover elevator phobia, its overlap with claustrophobia, and treatments such as exposure therapy.",
+      "topics": [
+        "elevator door accidents",
+        "elevator phobia",
+        "claustrophobia",
+        "exposure therapy",
+        "fear of heights"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Personal space and elevator etiquette",
+      "summary": "Edward Hall's personal space categories and John Fruin's pedestrian planning handbook are discussed. Etiquette tips cover the two-flight rule, holding doors, stepping off in crowded cars, facing forward, and phone use.",
+      "topics": [
+        "personal space",
+        "proxemics",
+        "elevator etiquette",
+        "two flight rule",
+        "holding the elevator door",
+        "facing forward in elevators"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "Elevator traffic planning and dispatch",
+      "summary": "Elevator designers calculate probable stops, waiting time, and handling capacity. Dispatch systems and sky lobbies are mentioned, and the hosts note differences between England, India, and China.",
+      "topics": [
+        "elevator traffic",
+        "probable stops",
+        "elevator wait time",
+        "handling capacity",
+        "elevator dispatch systems",
+        "sky lobby"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:44:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: allergy episode helped save a child",
+      "summary": "A listener writes that after hearing the allergy episode, her husband recognized a delayed allergic reaction in their son after a bee sting and got emergency care.",
+      "topics": [
+        "listener mail",
+        "allergies",
+        "bee sting allergy",
+        "anaphylaxis"
+      ]
+    },
+    {
+      "start": "00:44:30",
+      "end": "00:44:45",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and invite contact through Twitter, Facebook, email, and the website.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14498,
+    "output_tokens": 2980
+  }
+}

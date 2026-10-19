@@ -1,0 +1,254 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-07-20_Taste_and_How_it_Works_35min.txt",
+  "title": "Taste and How it Works",
+  "date": "2010-07-20",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/taste-and-how-it-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1a15e062-64ba-44ab-8b3f-ae2800b5e989/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1a15e062-64ba-44ab-8b3f-ae2800b5e989/transcript?format=TextWithTimestamps&t=1700543959",
+  "summary": "Josh and Chuck explore how taste works: the chemistry shared by smell and taste, taste buds and gustatory hairs, the difference between taste and flavor, and the history of umami (Kikunae Ikeda, MSG). They cover the fat and carbon dioxide taste findings, the debunked tongue map, gut taste cells and links to insulin and artificial sweeteners, supertasters and the PTC/PROP bitter-taste genetics, and why chicken tastes the way it does. The episode closes with an Atlanta trivia night announcement, a listener shout-out for DJ Vile, Kiva team and social media plugs, and T-shirt news.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "taste",
+    "how taste works",
+    "taste buds",
+    "gustatory receptor cells",
+    "taste vs flavor",
+    "umami",
+    "Kikunae Ikeda",
+    "MSG",
+    "Chinese restaurant syndrome",
+    "fifth taste",
+    "fat taste",
+    "carbon dioxide taste",
+    "tongue map",
+    "gut taste cells",
+    "artificial sweeteners and type 2 diabetes",
+    "supertasters",
+    "PTC bitter taste",
+    "PROP taste test",
+    "bitter taste genetics",
+    "why chicken tastes like chicken",
+    "smell and taste",
+    "sense of taste evolution"
+  ],
+  "entities": [
+    {
+      "name": "Kikunae Ikeda",
+      "type": "person"
+    },
+    {
+      "name": "Arthur Fox",
+      "type": "person"
+    },
+    {
+      "name": "Virginia Collings",
+      "type": "person"
+    },
+    {
+      "name": "Sarah Dowdy",
+      "type": "person"
+    },
+    {
+      "name": "umami",
+      "type": "other"
+    },
+    {
+      "name": "MSG",
+      "type": "other"
+    },
+    {
+      "name": "PTC",
+      "type": "other"
+    },
+    {
+      "name": "PROP",
+      "type": "other"
+    },
+    {
+      "name": "supertasters",
+      "type": "other"
+    },
+    {
+      "name": "DuPont",
+      "type": "organization"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Cornell",
+      "type": "organization"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and haircuts",
+      "summary": "Josh and Chuck open with casual banter about haircuts and whether a person can smell a new haircut, which leads into the link between smell and taste.",
+      "topics": [
+        "banter",
+        "smell and taste"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Smell, taste and the taste receptor anatomy",
+      "summary": "The hosts explain that smell and taste are both chemical senses, with odorants and tastants binding different receptors. They note that worms do not separate taste and smell and describe taste buds, the roughly fifty gustatory receptor cells in each papilla, and the gustatory hairs that poke through taste pores.",
+      "topics": [
+        "smell and taste",
+        "taste buds",
+        "gustatory receptor cells",
+        "gustatory hairs",
+        "papillae"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Taste versus flavor",
+      "summary": "How saliva breaks down food and carries taste molecules to receptors, sending signals to the brain. Flavor is described as a whole-body experience that includes smell, touch and pain, drawing on a Stuff You Missed in History Class write-up.",
+      "topics": [
+        "taste vs flavor",
+        "flavor perception",
+        "saliva and taste",
+        "trigeminal sensations"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Umami and the fifth taste",
+      "summary": "Kikunae Ikeda identified umami in Japan in 1908 while studying seaweed, linking it to glutamic acid. His work was not translated into English until 2002. Researchers later found that no combination of the other four tastes could replicate MSG.",
+      "topics": [
+        "umami",
+        "Kikunae Ikeda",
+        "fifth taste",
+        "MSG",
+        "glutamic acid"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "MSG and Chinese restaurant syndrome",
+      "summary": "The hosts discuss MSG reactions, often called Chinese restaurant syndrome, and note that the link to Chinese restaurants is overstated since MSG appears in many foods and many restaurants have stopped using it.",
+      "topics": [
+        "MSG",
+        "Chinese restaurant syndrome",
+        "food sensitivity"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Fat as a taste and tongue map debunking",
+      "summary": "Newer research suggests fat may be a separate taste, with links to body fat and eating habits. The classic tongue map, first drawn in 1901 from a German researcher's work and later challenged by Virginia Collings in 1974, is described as inaccurate because all regions can detect all tastes.",
+      "topics": [
+        "fat taste",
+        "tongue map",
+        "taste research",
+        "obesity research"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Carbon dioxide taste and carbonation",
+      "summary": "Researchers found the sensation of carbonation is not just from bubbles popping. People in a hyperbaric chamber with bubbleless soda still detected carbon dioxide, and the receptor was found to be the same as the sour receptor, shown in mice.",
+      "topics": [
+        "carbon dioxide taste",
+        "carbonation",
+        "sour receptor",
+        "mice studies"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Why taste evolved and gut taste cells",
+      "summary": "Taste evolved as a warning and calorie system. Taste cells in the gut signal insulin release, and artificial sweeteners may trigger that signal without sugar, linking them to type 2 diabetes.",
+      "topics": [
+        "evolution of taste",
+        "gut taste cells",
+        "insulin",
+        "artificial sweeteners",
+        "type 2 diabetes"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Supertasters and PTC genetics",
+      "summary": "Arthur Fox at DuPont in the 1930s accidentally vaporized PTC and noticed differing reactions. The bitter-taste trait is genetic, used in paternity tests until the 1970s, and the term supertasters was coined at Yale. Supertasters have more taste buds and may dislike coffee, Brussels sprouts and leafy greens. PROP is now the standard test.",
+      "topics": [
+        "supertasters",
+        "PTC",
+        "PROP",
+        "bitter taste genetics",
+        "Arthur Fox",
+        "DuPont"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Why chicken tastes like chicken",
+      "summary": "Cornell researchers used gas chromatography to isolate about a thousand chemical compounds in chicken that humans can taste or smell, fewer than previously assumed. The hosts speculate about the limits of human taste.",
+      "topics": [
+        "why chicken tastes like chicken",
+        "chemical compounds in food",
+        "Cornell research"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Atlanta trivia night and listener shout-outs",
+      "summary": "Josh and Chuck announce an Atlanta trivia night and ask for venue suggestions. They read a listener shout-out for DJ Vile's twenty-fourth birthday and promote the Kiva lending team, Facebook, Twitter and the T-shirt contest winners.",
+      "topics": [
+        "Atlanta trivia night",
+        "listener mail",
+        "Kiva team",
+        "Facebook and Twitter",
+        "T-shirt contest"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck point listeners to HowStuffWorks for more on taste and invite email, ending the episode.",
+      "topics": [
+        "sign-off",
+        "HowStuffWorks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12974,
+    "output_tokens": 2835
+  }
+}

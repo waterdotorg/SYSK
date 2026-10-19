@@ -1,0 +1,230 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-05-24_Short_Stuff_Pollen_Count_13min.txt",
+  "title": "Short Stuff: Pollen Count",
+  "date": "2023-05-24",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-pollen-count",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/63945d37-e597-4a5d-b71e-b00b00deef36/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/63945d37-e597-4a5d-b71e-b00b00deef36/transcript?format=TextWithTimestamps&t=1714044886",
+  "summary": "Short Stuff episode on how pollen counts are actually made. Chuck has been suffering from allergies, and the hosts explain that pollen is the plant's male gametophyte from anthers, that individual grains are microscopic but clump into visible drifts, and that wind-borne pollen is what matters for allergies. A pollen count is the number of grains per cubic meter of air over 24 hours, measured with volumetric air samplers: the rotating arm impactor (Rotorod, greased rods spinning around 2,400 rpm) and the Hirst-type spore trap (Burkard sampler, greased microscope slide moving 2 mm per hour). Palynologists count the grains under a microscope; sampling frequency and operators vary by city, and certification comes through the National Allergy Bureau or the American Academy of Allergy, Asthma and Immunology. The episode closes with other uses of pollen: fossil palynology for dating strata and reconstructing ancient climates and plants, and forensic palynology in crime investigations.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "pollen count",
+    "pollen",
+    "allergies",
+    "hay fever",
+    "air sampling",
+    "rotating arm impactor",
+    "Rotorod sampler",
+    "Hirst spore trap",
+    "Burkard sampler",
+    "volumetric air sampling",
+    "palynology",
+    "palynologist",
+    "forensic palynology",
+    "fossil pollen",
+    "wind-pollinated plants",
+    "ragweed",
+    "National Allergy Bureau",
+    "pollen morphology"
+  ],
+  "entities": [
+    {
+      "name": "Katie Walls",
+      "type": "person"
+    },
+    {
+      "name": "Rotorod",
+      "type": "other"
+    },
+    {
+      "name": "Burkard sampler",
+      "type": "other"
+    },
+    {
+      "name": "National Allergy Bureau",
+      "type": "organization"
+    },
+    {
+      "name": "American Academy of Allergy, Asthma and Immunology",
+      "type": "organization"
+    },
+    {
+      "name": "Atlanta Allergy and Asthma",
+      "type": "organization"
+    },
+    {
+      "name": "ragweed",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:03",
+      "kind": "intro",
+      "title": "Opening banter and Chuck's allergies",
+      "summary": "Hosts open the Short Stuff episode; Chuck describes two months of allergies and mentions the earlier full pollen episode. They introduce the question of how pollen counts are obtained.",
+      "topics": [
+        "allergies",
+        "pollen count",
+        "Short Stuff"
+      ]
+    },
+    {
+      "start": "00:01:03",
+      "end": "00:02:50",
+      "kind": "content",
+      "title": "What pollen is and why it piles up",
+      "summary": "Pollen is the plant's male gametophyte from the anthers that fertilizes the carpel. Individual grains are 10 to 100 micrometers and clump into visible drifts, such as those in Georgia in spring, and bake onto cars and decks.",
+      "topics": [
+        "pollen",
+        "anthers",
+        "pollen drifts",
+        "pollen grain size"
+      ]
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:03:54",
+      "kind": "content",
+      "title": "Wind-borne pollen and allergies",
+      "summary": "Insect-pollinated pollen is less of an issue; wind-borne pollen from less showy plants such as grasses, trees, and weeds is what gets airborne, enters the mucous membranes, and is what pollen counts measure.",
+      "topics": [
+        "wind pollination",
+        "grass pollen",
+        "tree pollen",
+        "weed pollen",
+        "allergy triggers"
+      ]
+    },
+    {
+      "start": "00:03:54",
+      "end": "00:04:09",
+      "kind": "content",
+      "title": "Pollen identification teaser",
+      "summary": "Chuck notes that news reports sometimes name specific pollen types such as ragweed, which requires knowing what each type's grain looks like. Josh previews how counting is done after a break.",
+      "topics": [
+        "pollen identification",
+        "ragweed",
+        "pollen count news reports"
+      ]
+    },
+    {
+      "start": "00:04:09",
+      "end": "00:04:21",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the explanation of pollen counting.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:04:21",
+      "end": "00:05:42",
+      "kind": "content",
+      "title": "Defining the pollen count and certified counters",
+      "summary": "A pollen count is the number of grains per cubic meter of air over a 24-hour period. Chuck references a meteorologist, Katie Walls, certified through an Atlanta allergy group, and notes certification from the National Allergy Bureau or the American Academy of Allergy, Asthma and Immunology.",
+      "topics": [
+        "pollen count definition",
+        "certified pollen counters",
+        "National Allergy Bureau",
+        "American Academy of Allergy, Asthma and Immunology"
+      ]
+    },
+    {
+      "start": "00:05:42",
+      "end": "00:07:18",
+      "kind": "content",
+      "title": "Volumetric air samplers: rotating arm and Hirst-type",
+      "summary": "Two volumetric samplers are described. The rotating arm impactor (Rotorod) spins at about 2,400 rpm with greased rods that catch pollen. The Hirst-type spore trap (Burkard sampler) draws in air over 24 hours onto a greased microscope slide.",
+      "topics": [
+        "rotating arm impactor",
+        "Rotorod",
+        "Hirst spore trap",
+        "Burkard sampler",
+        "air sampling instruments"
+      ]
+    },
+    {
+      "start": "00:07:18",
+      "end": "00:08:13",
+      "kind": "content",
+      "title": "Hour-by-hour slide and palynologists counting",
+      "summary": "The Hirst-type slide moves inward at 2 mm per hour, so hourly pollen levels can be read. Palynologists examine samples under a microscope and count the grains.",
+      "topics": [
+        "palynologist",
+        "hourly pollen levels",
+        "microscope pollen analysis"
+      ]
+    },
+    {
+      "start": "00:08:13",
+      "end": "00:09:06",
+      "kind": "content",
+      "title": "Variation in sampling practices",
+      "summary": "Sampling frequency varies: daily for a year, weekdays only, or a few days a week. Operators can be county health departments or allergists contracted by news stations. Cost is a factor for cities.",
+      "topics": [
+        "pollen monitoring stations",
+        "sampling frequency",
+        "county health department pollen counts"
+      ]
+    },
+    {
+      "start": "00:09:06",
+      "end": "00:10:02",
+      "kind": "content",
+      "title": "Putting pollen numbers in perspective",
+      "summary": "A cubic meter is about three feet on each side. Hosts say a count of 3,000 grains is very high and sounds dramatic when visualized as air inhaled over 24 hours.",
+      "topics": [
+        "pollen count levels",
+        "cubic meter of air",
+        "pollen numbers perspective"
+      ]
+    },
+    {
+      "start": "00:10:02",
+      "end": "00:10:46",
+      "kind": "content",
+      "title": "Where pollen counters should be placed",
+      "summary": "Hosts speculate about where to place counters, such as near forest edges versus parking lots. They note that placement near a forest could skew counts and make counting harder.",
+      "topics": [
+        "monitor placement",
+        "forest edge pollen",
+        "pollen dispersal"
+      ]
+    },
+    {
+      "start": "00:10:46",
+      "end": "00:12:12",
+      "kind": "content",
+      "title": "Forensic and fossil palynology",
+      "summary": "Besides allergies, pollen is used in forensic palynology to link people to crime scenes and in fossil palynology to learn about ancient plants and climate. Pollen morphology stays stable over millions of years, so fossil ragweed pollen would show that ragweed grew in a given stratum.",
+      "topics": [
+        "forensic palynology",
+        "fossil pollen",
+        "paleoclimate",
+        "pollen morphology evolution",
+        "crime scene evidence"
+      ]
+    },
+    {
+      "start": "00:12:12",
+      "end": "00:12:25",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts wrap up the short episode with Chuck saying he has a runny nose and Josh wishing him luck. The episode closes with the standard iHeartRadio production credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5806,
+    "output_tokens": 2765
+  }
+}

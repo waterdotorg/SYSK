@@ -1,0 +1,235 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-12-19_Cave_Diving_Totally_Nuts_51min.txt",
+  "title": "Cave Diving: Totally Nuts",
+  "date": "2019-12-19",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/cave-diving-totally-nuts",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e81315f0-fa16-4130-ac51-ae28004044b5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e81315f0-fa16-4130-ac51-ae28004044b5/transcript?format=TextWithTimestamps&t=1700543669",
+  "summary": "Josh and Chuck open with tour dates (Seattle, San Francisco Sketch Fest, Movie Crush live) and then cover cave diving: how it differs from open water and cavern diving, its fatality statistics, silt-outs, equipment (masks, fins, drysuits, redundant gear), gas mixtures (nitrox, heliox, trimix), decompression and the rule of thirds, guideline and Dorf markers, famous cave systems and archaeology, the 2018 Thailand cave rescue, and certification. The episode closes with listener mail about a listener who quit over a conversion therapy episode and a reply from listener Jordan.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "cave diving",
+    "cavern diving",
+    "sump diving",
+    "spring diving",
+    "silt out",
+    "open water diving",
+    "cave diving fatalities",
+    "diving equipment",
+    "dry suit",
+    "nitrox",
+    "heliox",
+    "trimex",
+    "nitrogen narcosis",
+    "decompression sickness",
+    "the bends",
+    "rule of thirds",
+    "guideline markers",
+    "Dorf markers",
+    "cave diving certification",
+    "Thailand cave rescue 2018",
+    "Hoyo Negro",
+    "Tulum cave system",
+    "Phantom Springs Cave",
+    "Pozzo del Merro",
+    "underwater archaeology",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Thailand cave rescue",
+      "type": "event"
+    },
+    {
+      "name": "Hoyo Negro",
+      "type": "place"
+    },
+    {
+      "name": "Tulum",
+      "type": "place"
+    },
+    {
+      "name": "Phantom Springs Cave",
+      "type": "place"
+    },
+    {
+      "name": "Pozzo del Merro",
+      "type": "place"
+    },
+    {
+      "name": "Dorf markers",
+      "type": "other"
+    },
+    {
+      "name": "Lewis Holzendorf",
+      "type": "person"
+    },
+    {
+      "name": "Forrest Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Robert Layard",
+      "type": "person"
+    },
+    {
+      "name": "John Fuller",
+      "type": "person"
+    },
+    {
+      "name": "Once Upon a Time in Hollywood",
+      "type": "work"
+    },
+    {
+      "name": "Peacock Springs",
+      "type": "place"
+    },
+    {
+      "name": "National Speleological Society",
+      "type": "organization"
+    },
+    {
+      "name": "Ranikapro Pit",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "ad",
+      "title": "Tour announcements",
+      "summary": "Josh and Chuck announce tour dates in Seattle, San Francisco Sketch Fest at the Castro Theater on January 10, and Movie Crush live.",
+      "topics": [
+        "tour dates",
+        "live shows",
+        "San Francisco Sketch Fest"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:10:00",
+      "kind": "intro",
+      "title": "Opening banter and caving anecdotes",
+      "summary": "The hosts introduce the episode with personal diving and caving stories, including a fatal caving incident and Chuck's experience lunking.",
+      "topics": [
+        "caving",
+        "claustrophobia",
+        "open water scuba"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Cave diving vs. open water and cavern diving",
+      "summary": "The hosts define cavern diving (daylight visible, within about 130 linear feet of the cave mouth, under 70 feet deep) and cave diving (overhead environment with no direct vertical access to the surface). They discuss the dangers and the motivation of exploration.",
+      "topics": [
+        "cavern diving",
+        "cave diving definition",
+        "overhead environment",
+        "open water diving"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Cave diving fatalities and silt-outs",
+      "summary": "The hosts cite a study of thirty years of American cave diving fatalities (161 divers, 67 trained and 87 untrained), with most deaths in Florida from running out of gas after silt-outs. They discuss panic and early cave diving deaths.",
+      "topics": [
+        "cave diving fatalities",
+        "silt out",
+        "drowning",
+        "Florida springs"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Diving equipment and kick technique",
+      "summary": "The hosts cover masks, fins, and frog kicks used to avoid stirring silt and damaging formations, buoyancy control, the pull-and-glide technique, and spring versus sump caves.",
+      "topics": [
+        "diving equipment",
+        "frog kick",
+        "buoyancy",
+        "spring diving",
+        "sump diving"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Drysuits, redundancy and gear",
+      "summary": "The hosts discuss wet suits versus dry suits, carrying redundant lights and knives, and keeping gear streamlined to avoid tangles.",
+      "topics": [
+        "dry suit",
+        "wet suit",
+        "redundant equipment"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Short break before the next topic.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Breathing gases, decompression and the rule of thirds",
+      "summary": "The hosts explain decompression, the bends, nitrogen narcosis, and oxygen toxicity. They cover nitrox, heliox, and trimix, and the rule of thirds for gas use on the way out.",
+      "topics": [
+        "decompression",
+        "the bends",
+        "nitrox",
+        "heliox",
+        "trimix",
+        "rule of thirds",
+        "nitrogen narcosis"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Guidelines, Dorf markers and the cave dive scooter",
+      "summary": "The hosts describe guidelines, the entry line, and Dorf markers, which were invented by Lewis Holzendorf and improved by Forrest Wilson. They also discuss DPVs (diver propulsion vehicles).",
+      "topics": [
+        "guidelines",
+        "Dorf markers",
+        "DPV",
+        "entry line"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "Famous cave systems, archaeology and the Thailand rescue",
+      "summary": "The hosts discuss the longest and deepest flooded caves, the Hoyo Negro remains, underwater archaeology, certification steps, and the 2018 Thailand cave rescue of a soccer team.",
+      "topics": [
+        "Tulum",
+        "Hoyo Negro",
+        "underwater archaeology",
+        "Thailand cave rescue 2018",
+        "cave diving certification"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17126,
+    "output_tokens": 2220
+  }
+}

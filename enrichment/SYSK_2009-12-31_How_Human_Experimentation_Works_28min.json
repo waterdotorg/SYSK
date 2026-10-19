@@ -1,0 +1,251 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-12-31_How_Human_Experimentation_Works_28min.txt",
+  "title": "How Human Experimentation Works",
+  "date": "2009-12-31",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-human-experimentation-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/45a9b2f4-c518-4f90-8381-ae2800bab0c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/45a9b2f4-c518-4f90-8381-ae2800bab0c8/transcript?format=TextWithTimestamps&t=1700543974",
+  "summary": "Josh and Chuck open with New Year banter and a Claymation baby anecdote, then turn to the history of human experimentation, based on Robert Lamb's HowStuffWorks article \"Paid Zero.\" They cover Herophilus and vivisection in ancient Alexandria, the 19th-century body-snatching problem, convicts as test subjects, self-experimentation (the Curies, Albert Hofmann), J. Marion Sims and slave experiments, US abuses (Stanley's prison experiments, Cholera and pellagra experiments, forced sterilization under eugenics), Nazi medical experiments and the Doctors' Trial, the Nuremberg Code, the Tuskegee syphilis study, and modern clinical drug trials (phases one to three, paid trial volunteers, patent-driven speed, outsourcing to private trial firms). The episode closes with a listener email from Christos in Mexico about extortion by federal agents and his wish to move to the US, followed by sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "human experimentation",
+    "history of human experimentation",
+    "vivisection",
+    "Herophilus",
+    "Library of Alexandria",
+    "body snatching",
+    "grave robbing",
+    "self-experimentation",
+    "J. Marion Sims",
+    "Tuskegee syphilis study",
+    "Nazi medical experiments",
+    "Nuremberg Code",
+    "Doctors' Trial",
+    "Nuremberg trials",
+    "eugenics",
+    "forced sterilization",
+    "prison drug testing",
+    "Operation Paperclip",
+    "Unit 731",
+    "hypothermia experiments",
+    "clinical drug trials",
+    "phase one trials",
+    "paid trial volunteers",
+    "guinea pigging",
+    "institutional review board",
+    "Robert Lamb",
+    "Paid Zero",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Herophilus",
+      "type": "person"
+    },
+    {
+      "name": "J. Marion Sims",
+      "type": "person"
+    },
+    {
+      "name": "Albert Hofmann",
+      "type": "person"
+    },
+    {
+      "name": "Pierre and Marie Curie",
+      "type": "person"
+    },
+    {
+      "name": "Leo Stanley",
+      "type": "person"
+    },
+    {
+      "name": "Tuskegee experiments",
+      "type": "event"
+    },
+    {
+      "name": "Nuremberg Code",
+      "type": "work"
+    },
+    {
+      "name": "Nuremberg trials",
+      "type": "event"
+    },
+    {
+      "name": "Unit 731",
+      "type": "organization"
+    },
+    {
+      "name": "Library of Alexandria",
+      "type": "place"
+    },
+    {
+      "name": "San Quentin",
+      "type": "place"
+    },
+    {
+      "name": "Robert Lamb",
+      "type": "person"
+    },
+    {
+      "name": "Juárez",
+      "type": "place"
+    },
+    {
+      "name": "MK Ultra",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "New Year banter and opening",
+      "summary": "Josh and Chuck exchange New Year greetings and reminisce about a Claymation baby with big ears, then introduce the topic of human experimentation.",
+      "topics": [
+        "New Year",
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Herophilus and ancient vivisection",
+      "summary": "Herophilus, called the father of anatomy, is described as vivisecting more than 600 condemned prisoners in ancient Alexandria; his writings were reportedly lost when the Library of Alexandria burned. They discuss the difference between dissection and vivisection.",
+      "topics": [
+        "Herophilus",
+        "vivisection",
+        "ancient anatomy",
+        "Library of Alexandria"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Body snatching and animal substitutes",
+      "summary": "Nineteenth-century medical schools needed bodies, leading to grave robbing; a Medical College of Georgia bone discovery is mentioned. The hosts discuss using animals as stand-ins and how convicts were historically used as test subjects.",
+      "topics": [
+        "body snatching",
+        "grave robbing",
+        "cadavers",
+        "animal testing",
+        "convicts as test subjects"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Self-experimentation",
+      "summary": "Examples of researchers testing on themselves: the Curies handling radium and Albert Hofmann's LSD experience, with its limits.",
+      "topics": [
+        "self-experimentation",
+        "Curie radium",
+        "Albert Hofmann LSD"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "J. Marion Sims and US abuses",
+      "summary": "J. Marion Sims, called the father of gynecology, developed surgeries on enslaved African women without anesthesia. The hosts list other US abuses including prison injections at San Quentin, cholera and pellagra experiments, and the notion that prisoners were tested on.",
+      "topics": [
+        "J. Marion Sims",
+        "gynecology history",
+        "San Quentin",
+        "US human experimentation",
+        "prisoner testing"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Eugenics and forced sterilization",
+      "summary": "Around 64,000 people in the US were sterilized against their will between the early 1900s and the 1970s, including epileptics, the mentally disabled, and Native Americans.",
+      "topics": [
+        "eugenics",
+        "forced sterilization",
+        "compulsory sterilization"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Nazi experiments and the Nuremberg Code",
+      "summary": "Nazi experiments included hypothermia, high-altitude and phosphorus burn studies, and sterilization; Japan's Unit 731 is mentioned. Doctors were tried at Nuremberg, and the Nuremberg Code set guidelines for consent and reducing harm. The hosts discuss the utilitarian dilemma and the decision to use Nazi data, including hypothermia revival research.",
+      "topics": [
+        "Nazi medical experiments",
+        "Nuremberg Code",
+        "Doctors' Trial",
+        "Unit 731",
+        "hypothermia research",
+        "research ethics",
+        "Nazi data use"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Tuskegee and post-war oversight",
+      "summary": "The Tuskegee syphilis study, which deceived African American men for decades, is described, along with the US apology. The hosts note the MK Ultra LSD experiments and the rise of review boards and oversight after the FDA was established.",
+      "topics": [
+        "Tuskegee syphilis study",
+        "MK Ultra",
+        "institutional review boards",
+        "FDA oversight"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Modern clinical drug trials",
+      "summary": "Phase one volunteers are paid, and the hosts discuss guinea pigging culture, drug patent timelines that push trials along, and private trial contractors that avoid university review boards.",
+      "topics": [
+        "clinical drug trials",
+        "phase one trials",
+        "paid trial volunteers",
+        "guinea pigging",
+        "drug patents",
+        "outsourcing clinical trials"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:36:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Christos in Juárez",
+      "summary": "Christos writes from Juárez, Mexico about violence and government extortion against his family, and says he wants to move to the US. The hosts respond and close with Happy New Year.",
+      "topics": [
+        "listener mail",
+        "Juárez",
+        "narco violence",
+        "immigration"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts point listeners to the HowStuffWorks website and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9853,
+    "output_tokens": 2739
+  }
+}

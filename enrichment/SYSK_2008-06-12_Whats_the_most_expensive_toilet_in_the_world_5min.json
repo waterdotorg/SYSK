@@ -1,0 +1,140 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-12_Whats_the_most_expensive_toilet_in_the_world_5min.txt",
+  "title": "What's the most expensive toilet in the world?",
+  "date": "2008-06-12",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-most-expensive-toilet-in-the-world",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0bf761ec-014d-42bd-bb88-ae2800c40269/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0bf761ec-014d-42bd-bb88-ae2800c40269/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chuck Bryant discuss the most expensive toilet in the world: a solid gold toilet displayed at Hang Fung Jewelers in Hong Kong, part of a solid gold laboratory display. In early 2008 Hang Fung began melting down parts of the display as gold prices rose, drawing public anger, though the hosts say the solid gold toilet itself was to remain. They then discuss the trend of luxury bathroom upgrades and their home resale value, couples hosting parties in bathrooms, high-end fixtures such as the Neorest toilet (heated seat, lid that opens on approach, cleaning water jet and air dryer) and the UV-tanning Idle Lux shower, and a brief history of toilets from cesspits to trenches to outhouses to modern toilets.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "most expensive toilet",
+    "solid gold toilet",
+    "Hang Fung Jewelers",
+    "Hong Kong jewelry store",
+    "solid gold laboratory display",
+    "gold prices 2008",
+    "luxury bathrooms",
+    "bathroom remodeling and home value",
+    "Neorest toilet",
+    "Toto Neorest",
+    "high-end toilets",
+    "Idle Lux shower",
+    "UV tanning shower",
+    "history of toilets",
+    "cesspits",
+    "outhouses",
+    "bathroom as party space",
+    "bathroom trends"
+  ],
+  "entities": [
+    {
+      "name": "Hang Fung Jewelers",
+      "type": "organization"
+    },
+    {
+      "name": "Hong Kong",
+      "type": "place"
+    },
+    {
+      "name": "Neorest",
+      "type": "other"
+    },
+    {
+      "name": "Idle Lux shower",
+      "type": "other"
+    },
+    {
+      "name": "Wall Street Journal",
+      "type": "organization"
+    },
+    {
+      "name": "subprime mortgage crisis",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "intro",
+      "title": "Opening and ad read",
+      "summary": "Opening with an ad read for a camera, then Josh introduces the topic and guest-style banter with Candice Gibson about the most expensive toilet.",
+      "topics": [
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:02:00",
+      "kind": "content",
+      "title": "Solid gold toilet at Hang Fung in Hong Kong",
+      "summary": "The solid gold toilet is part of a solid gold laboratory display at Hang Fung Jewelers in Hong Kong, the store's biggest attraction. In early 2008 Hang Fung began melting parts of the display because gold prices had risen sharply amid the subprime mortgage crisis, angering the public, but the solid gold toilet was to remain.",
+      "topics": [
+        "most expensive toilet",
+        "solid gold toilet",
+        "Hang Fung Jewelers",
+        "gold prices 2008",
+        "subprime mortgage crisis"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:03:10",
+      "kind": "content",
+      "title": "Luxury bathroom trend and home value",
+      "summary": "The hosts discuss bathrooms becoming spa-like retreats with marble counters, sunken tubs and chandeliers, and a study saying luxury bath upgrades return a large share of their cost. They note that bathrooms are replacing kitchens as party gathering places, citing a Wall Street Journal article about an engagement party held in a bathroom.",
+      "topics": [
+        "luxury bathrooms",
+        "bathroom remodeling and home value",
+        "bathroom as party space",
+        "bathroom trends",
+        "Wall Street Journal"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:04:05",
+      "kind": "content",
+      "title": "High-end toilets and showers",
+      "summary": "Chuck praises the Neorest toilet, which opens its lid on approach, warms the seat, and cleans and dries the user. They also mention the Idle Lux shower, a stand-up shower with UV lights that tan the user.",
+      "topics": [
+        "Neorest toilet",
+        "high-end toilets",
+        "Idle Lux shower",
+        "UV tanning shower"
+      ]
+    },
+    {
+      "start": "00:04:05",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "History of toilets",
+      "summary": "The hosts joke about the evolution of toilets, from cesspits where people urinated and defecated in open areas, to trenches, to outhouses, to modern high-end toilets like the Neorest.",
+      "topics": [
+        "history of toilets",
+        "cesspits",
+        "outhouses"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:05:00",
+      "kind": "outro",
+      "title": "Sign-off and website pointer",
+      "summary": "Josh points listeners to the HowStuffWorks article on the most expensive toilet and invites feedback at the podcast email address, followed by an ad read.",
+      "topics": [
+        "podcast outro",
+        "HowStuffWorks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3352,
+    "output_tokens": 1707
+  }
+}

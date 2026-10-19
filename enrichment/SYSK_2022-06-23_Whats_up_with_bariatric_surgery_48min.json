@@ -1,0 +1,237 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-06-23_Whats_up_with_bariatric_surgery_48min.txt",
+  "title": "What's up with bariatric surgery?",
+  "date": "2022-06-23",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-up-with-bariatric-surgery",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d24af1b5-5df2-4784-958b-aebc00ff1b80/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d24af1b5-5df2-4784-958b-aebc00ff1b80/transcript?format=TextWithTimestamps&t=1700551954",
+  "summary": "Josh and Chuck explore bariatric surgery (weight loss surgery): its history from King Sancho of Leon and Caesar Roux's Roux-en-Y bypass through the 1950s naming and 1960s permanence, how the main procedures work (sleeve gastrectomy and gastric bypass), outcomes and weight regain, metabolic adaptation compared with The Biggest Loser contestants, remission of type 2 diabetes and hypertension, risks like dumping syndrome, insurance qualification criteria, who gets the surgery, and the stigma around obesity and BMI. The episode opens with a trigger warning and ends with a listener mail from Autumn in Ontario.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "bariatric surgery",
+    "weight loss surgery",
+    "sleeve gastrectomy",
+    "gastric bypass",
+    "Roux-en-Y",
+    "history of bariatric surgery",
+    "King Sancho of Leon",
+    "Caesar Roux",
+    "BMI scale",
+    "Adolphe Quetelet",
+    "obesity medicalization",
+    "metabolic adaptation",
+    "The Biggest Loser study",
+    "type 2 diabetes remission",
+    "hypertension",
+    "dumping syndrome",
+    "insurance coverage for bariatric surgery",
+    "weight regain",
+    "fat positive movement",
+    "weight stigma",
+    "diets vs lifestyle change",
+    "gastric banding",
+    "laparoscopic surgery mortality"
+  ],
+  "entities": [
+    {
+      "name": "King Sancho of Leon",
+      "type": "person"
+    },
+    {
+      "name": "Caesar Roux",
+      "type": "person"
+    },
+    {
+      "name": "Victor Eiseelsberg",
+      "type": "person"
+    },
+    {
+      "name": "Richard Varco",
+      "type": "person"
+    },
+    {
+      "name": "Adolphe Quetelet",
+      "type": "person"
+    },
+    {
+      "name": "Roxane Gay",
+      "type": "person"
+    },
+    {
+      "name": "Roux-en-Y gastric bypass",
+      "type": "event"
+    },
+    {
+      "name": "Sleeve gastrectomy",
+      "type": "event"
+    },
+    {
+      "name": "Gastric banding",
+      "type": "event"
+    },
+    {
+      "name": "The Biggest Loser",
+      "type": "work"
+    },
+    {
+      "name": "Body mass index",
+      "type": "other"
+    },
+    {
+      "name": "Dumping syndrome",
+      "type": "other"
+    },
+    {
+      "name": "Vox",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Trigger warning and opening",
+      "summary": "Josh introduces the episode with a trigger warning about talk of food, weight, obesity and weight loss surgery. The hosts preview a Vox article noting only about one percent of eligible people get bariatric surgery, and discuss the argument that the surgery makes people acceptable to society versus treating disease.",
+      "topics": [
+        "trigger warning",
+        "bariatric surgery",
+        "weight loss surgery",
+        "Vox article"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "History of bariatric surgery",
+      "summary": "The hosts trace the history from King Sancho of Leon's jaw suturing in the tenth century, through Caesar Roux's 1892 bypass for obstructions, the adoption of the scale and medicalization of weight in the 1920s and 1930s, and insurance involvement in the 1940s. Early surgeries by Victor Eiseelsberg and Richard Varco are covered, the term bariatric was applied around the 1950s, and surgeries became permanent in the early 1960s.",
+      "topics": [
+        "history of bariatric surgery",
+        "King Sancho of Leon",
+        "Caesar Roux",
+        "Roux-en-Y",
+        "medicalization of obesity",
+        "bariatric term origin",
+        "early weight loss surgery"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "BMI scale and mortality of surgery",
+      "summary": "The hosts discuss the criticism of the body mass index, invented by Adolphe Quetelet and based on white Western Europeans. They describe how surgical death rates fell to about 0.1 percent through laparoscopic techniques, and how annual surgery numbers rose and then fell in the nineties and 2000s, reaching about 256,000 in 2019.",
+      "topics": [
+        "BMI criticism",
+        "Adolphe Quetelet",
+        "surgical mortality",
+        "laparoscopic surgery",
+        "surgery volume statistics"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Sleeve gastrectomy explained",
+      "summary": "The sleeve gastrectomy is described as the most popular procedure today. About 80 percent of the stomach is removed, leaving a narrow sleeve; the fundus is removed, reducing ghrelin, the hunger hormone. The surgery takes roughly 40 to 70 minutes, with a short hospital stay and a two-week liquid diet.",
+      "topics": [
+        "sleeve gastrectomy",
+        "ghrelin",
+        "fundus",
+        "post-surgery liquid diet",
+        "surgery procedure"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Eating and lifestyle after surgery",
+      "summary": "The hosts discuss life after surgery: small frequent meals, appetizers taken home, no drinking liquids around meals, and reduced or stopped alcohol. Excess weight loss outcomes are described, with about 70 percent of excess weight lost within 18 months, and long-term weight regain statistics from a twelve-year study.",
+      "topics": [
+        "post-surgery diet",
+        "eating after bariatric surgery",
+        "excess weight loss",
+        "weight regain",
+        "alcohol after surgery"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Gastric bypass, metabolism and The Biggest Loser study",
+      "summary": "Gastric bypass is described as stapling off part of the stomach and attaching it to a loop of small intestine, with more complications than sleeve surgery. A study comparing gastric bypass patients with Biggest Loser contestants found similar initial weight loss, but the contestants experienced metabolic adaptation and regained weight, while bypass patients' metabolisms stabilized.",
+      "topics": [
+        "gastric bypass",
+        "metabolic adaptation",
+        "The Biggest Loser study",
+        "baseline weight",
+        "diets versus surgery"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Health outcomes, remission and risks",
+      "summary": "A meta-analysis is cited showing reduced risk of type 2 diabetes and hypertension after surgery, and about half of diabetic patients could come off medication, which is called remission. The hosts discuss the difference between being obese and having disease, the value of regular blood tests, and the risks of surgery including dumping syndrome, nutritional deficiencies, and divorce rates.",
+      "topics": [
+        "type 2 diabetes remission",
+        "hypertension",
+        "meta-analysis",
+        "dumping syndrome",
+        "surgical complications",
+        "supplements after bariatric surgery",
+        "divorce after bariatric surgery"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Insurance criteria and who gets surgery",
+      "summary": "Insurance coverage criteria are outlined: a BMI of 40 or more, or 100 pounds overweight, or BMI of 35 plus a qualifying condition, or repeated failed weight loss attempts. Fewer than one percent of eligible patients get the surgery, and women make up most recipients, often younger and referred by peers. Stigma around bariatric surgery as the easy way out is discussed, along with the fat positive perspective.",
+      "topics": [
+        "insurance coverage bariatric surgery",
+        "BMI 40 criteria",
+        "who gets bariatric surgery",
+        "weight stigma",
+        "fat positive",
+        "primary care referral"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Autumn in Ontario",
+      "summary": "A listener from Thunder Bay, Ontario, says her husband recommended the show and she enjoys the hosts' chemistry and mix of random and important knowledge, and asks for more true crime episodes.",
+      "topics": [
+        "listener mail",
+        "listener feedback"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode and give the email address for listener mail.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15351,
+    "output_tokens": 2983
+  }
+}

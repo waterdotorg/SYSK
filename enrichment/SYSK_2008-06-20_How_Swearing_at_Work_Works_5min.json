@@ -1,0 +1,135 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-20_How_Swearing_at_Work_Works_5min.txt",
+  "title": "How Swearing at Work Works",
+  "date": "2008-06-20",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-swearing-at-work-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9f09d68f-0794-4512-aca6-ae2800c3eafd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9f09d68f-0794-4512-aca6-ae2800c3eafd/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Editor Candice Gibson and staff writer Josh Clark discuss whether swearing at work is a good thing, based on a University of East Anglia study of a British mail order warehouse that found swearing built social bonds among employees, while executives swore less. They discuss the FCC's rules on fleeting expletives and indecency, the Parents Television Council's complaints about Gossip Girl and 30 Rock, and the PTC's count of profanity on television during the family hour (815 foul words in 180 hours, about 4.53 per hour). The episode opens and closes with ad reads for a camera.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "swearing at work",
+    "workplace profanity",
+    "swearing and social bonding",
+    "University of East Anglia study",
+    "mail order warehouse study",
+    "FCC indecency rules",
+    "fleeting expletive",
+    "Parents Television Council",
+    "television profanity",
+    "Gossip Girl",
+    "30 Rock",
+    "family hour",
+    "cursing on TV",
+    "profanity in media",
+    "workplace culture",
+    "office swearing"
+  ],
+  "entities": [
+    {
+      "name": "University of East Anglia",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Parents Television Council",
+      "type": "organization"
+    },
+    {
+      "name": "Gossip Girl",
+      "type": "work"
+    },
+    {
+      "name": "30 Rock",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:20",
+      "kind": "ad",
+      "title": "Opening camera ad read",
+      "summary": "Opening sponsor read for a camera, repeated at the end of the episode.",
+      "topics": [
+        "sponsor read",
+        "camera advertisement"
+      ]
+    },
+    {
+      "start": "00:00:20",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Introduction and swearing at work campaign",
+      "summary": "Candice and Josh introduce the topic of whether swearing at work is good, with Josh joking about a swear-at-work campaign after his Hawaiian shirt campaign fell flat.",
+      "topics": [
+        "swearing at work",
+        "workplace banter"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:03:10",
+      "kind": "content",
+      "title": "University of East Anglia study on workplace swearing",
+      "summary": "The hosts describe a British study at the University of East Anglia in a mail order warehouse. Swearing among workers built relationships and trust, while executives swore much less. The study authors hoped HR directors would tolerate swearing.",
+      "topics": [
+        "University of East Anglia study",
+        "swearing and social bonding",
+        "mail order warehouse study",
+        "workplace profanity",
+        "executives and swearing"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:04:15",
+      "kind": "content",
+      "title": "FCC rules and the Parents Television Council",
+      "summary": "The hosts discuss the FCC's treatment of fleeting expletives and sexual or bathroom content, and the Parents Television Council's campaigns against Gossip Girl and an episode of 30 Rock.",
+      "topics": [
+        "FCC indecency rules",
+        "fleeting expletive",
+        "Parents Television Council",
+        "Gossip Girl",
+        "30 Rock"
+      ]
+    },
+    {
+      "start": "00:04:15",
+      "end": "00:04:50",
+      "kind": "content",
+      "title": "Counting profanity on television",
+      "summary": "The PTC's studies of profanity during the family hour (8 to 9 pm) found 815 foul words in 180 hours of programming, about 4.53 swears per hour, showing an increase from 2001 to 2006.",
+      "topics": [
+        "television profanity",
+        "family hour",
+        "Parents Television Council studies",
+        "profanity counts"
+      ]
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:05:00",
+      "kind": "outro",
+      "title": "Sign-off and closing ad",
+      "summary": "Josh is directed to his article on swearing at work, the hosts sign off, and the camera ad plays again.",
+      "topics": [
+        "sign-off",
+        "sponsor read",
+        "podcast feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3214,
+    "output_tokens": 1426
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-11-23_What_is_nuclear_forensics_48min.txt",
+  "title": "What is nuclear forensics?",
+  "date": "2017-11-23",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-is-nuclear-forensics",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/71716b92-3afc-4692-9c55-ae28006da0ec/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/71716b92-3afc-4692-9c55-ae28006da0ec/transcript?format=TextWithTimestamps&t=1700543787",
+  "summary": "Josh and Chuck explore nuclear forensics and nuclear nonproliferation, drawing on an Economist article called \"The New Detectives\" by Robert Williams. They cover the three jobs of nuclear detectives (monitoring states, tracking extremists and smugglers, investigating attacks), the IAEA's inspection role and limits, the NPT and mutually assured destruction, enrichment via centrifuges, the IAEA Illicit Trafficking Database, detection technology (seismic networks, neutrino detectors in a salt mine, satellites), data-mining software used to track scientists, covert programs (Syria's reactor, Saddam Hussein's electromagnetic enrichment, North Korea, A.Q. Khan's network), and the question of whether a nuclear weapon can be built in secret. The episode ends with a Cooperative for Education (CoEd) sponsor message and a listener email about restaurant health inspections.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "nuclear forensics",
+    "nuclear proliferation",
+    "nuclear non-proliferation treaty",
+    "NPT",
+    "mutually assured destruction",
+    "International Atomic Energy Agency",
+    "IAEA inspections",
+    "IAEA Illicit Trafficking Database",
+    "nuclear black market",
+    "uranium enrichment",
+    "centrifuges",
+    "weapons-grade uranium",
+    "uranium signatures",
+    "CTBTO seismic monitoring",
+    "neutrino detection",
+    "Super-Kamiokande salt mine neutrino detector",
+    "satellite radiation detection",
+    "data mining nuclear scientists",
+    "AURA software Carnegie Mellon",
+    "Syria covert reactor",
+    "North Korea nuclear program",
+    "Iran nuclear program",
+    "A.Q. Khan nuclear network",
+    "Saddam Hussein electromagnetic isotope separation",
+    "Economist The New Detectives",
+    "CoEd Guatemala sponsorship",
+    "restaurant health inspections listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Robert Williams",
+      "type": "person"
+    },
+    {
+      "name": "A.Q. Khan",
+      "type": "person"
+    },
+    {
+      "name": "Osama bin Laden",
+      "type": "person"
+    },
+    {
+      "name": "Neil deGrasse Tyson",
+      "type": "person"
+    },
+    {
+      "name": "Saddam Hussein",
+      "type": "person"
+    },
+    {
+      "name": "Kim Jong Il",
+      "type": "person"
+    },
+    {
+      "name": "International Atomic Energy Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Comprehensive Nuclear-Test-Ban Treaty Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Lawrence Livermore National Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Mossad",
+      "type": "organization"
+    },
+    {
+      "name": "The Economist",
+      "type": "organization"
+    },
+    {
+      "name": "Nuclear Non-Proliferation Treaty",
+      "type": "event"
+    },
+    {
+      "name": "North Korea",
+      "type": "place"
+    },
+    {
+      "name": "Iran",
+      "type": "place"
+    },
+    {
+      "name": "Libya",
+      "type": "place"
+    },
+    {
+      "name": "Syria",
+      "type": "place"
+    },
+    {
+      "name": "Iraq",
+      "type": "place"
+    },
+    {
+      "name": "Pakistan",
+      "type": "place"
+    },
+    {
+      "name": "AURA",
+      "type": "other"
+    },
+    {
+      "name": "CoEd",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the nuclear forensics premise",
+      "summary": "Hosts introduce the episode, mention the Economist article, and discuss sovereignty over nuclear technology, the USSR's breakup, and the risk of nuclear material going missing.",
+      "topics": [
+        "nuclear forensics",
+        "Soviet Union dissolution nuclear arsenal",
+        "nuclear sovereignty"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Three jobs of nuclear detectives",
+      "summary": "Nuclear forensics experts monitor countries and organizations for weapons programs, track extremists and smugglers, and investigate radiological or nuclear attacks. The US reported in 2011 it could not account for fifty pounds of weapons-usable nuclear material. Experts also build uranium signature databases, such as a Lawrence Livermore project to fingerprint uranium from known mines.",
+      "topics": [
+        "nuclear forensics",
+        "missing nuclear material",
+        "uranium signatures",
+        "Lawrence Livermore uranium database"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Mutually assured destruction and the NPT",
+      "summary": "Hosts use a Reservoir Dogs standoff analogy to explain mutually assured destruction and how the Nuclear Non-Proliferation Treaty, ratified by about 190 nations, aims to reduce arsenals and limit new nuclear actors.",
+      "topics": [
+        "mutually assured destruction",
+        "Nuclear Non-Proliferation Treaty",
+        "nuclear deterrence",
+        "Reservoir Dogs analogy"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "IAEA role and limits of inspections",
+      "summary": "The IAEA inspects declared nuclear programs to confirm they are peaceful. Its power depends on host-country cooperation and UN mandates; North Korea expelled inspectors in 2002 and 2007. The IAEA won a Nobel Peace Prize in 2005. Libya gave up its program after 2003 evidence, and Iran gave up its Pakistani suppliers.",
+      "topics": [
+        "International Atomic Energy Agency",
+        "IAEA inspections",
+        "North Korea inspectors expelled",
+        "Libya nuclear program",
+        "Iran nuclear program",
+        "Nobel Peace Prize 2005"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Inspection technology and centrifuge monitoring",
+      "summary": "The IAEA uses time-stamped digital cameras in facilities and laser surveys of centrifuge piping to detect changes. Explanation of uranium enrichment: separating uranium-235 by spinning gas in centrifuges, from about 0.7 percent to about 3 percent for reactor fuel, and further to weapons grade.",
+      "topics": [
+        "IAEA surveillance cameras",
+        "laser surveying centrifuges",
+        "uranium enrichment",
+        "centrifuges",
+        "uranium-235",
+        "weapons-grade uranium"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Illicit trafficking and the black market",
+      "summary": "The IAEA Illicit Trafficking Database records unauthorized acquisition, possession, use, transfer or disposal of nuclear material, with a spike in cases around 2006 and about 40 cases in 2015. Hosts note that dismantling warheads puts weapons-grade material into transport and storage, creating new security risks. Terrorists and states like North Korea and Iraq are named as potential buyers.",
+      "topics": [
+        "IAEA Illicit Trafficking Database",
+        "nuclear black market",
+        "smuggling nuclear material",
+        "dirty bomb",
+        "weapons-grade material security"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Detecting nuclear material and neutrino detection",
+      "summary": "Radiation detectors need to be close to the source, and satellite detectors are improving but radiation can be shielded. Neutrinos from reactors can be detected by a large water-filled underground detector in an old salt mine, which picks up rare flashes of light and can reveal enrichment cycles.",
+      "topics": [
+        "radiation detection",
+        "satellite radiation detectors",
+        "neutrino detection",
+        "underground neutrino detector",
+        "reactor monitoring"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "CTBTO monitoring, data-mining software, and covert programs",
+      "summary": "The CTBTO's global network of seismic, hydroacoustic, infrasound and radionuclide stations can detect nuclear tests. Post-9/11 data-mining software like AURA from Carnegie Mellon tracks publication patterns of nuclear scientists. Five Iranian nuclear scientists were killed in 2010 to 2012, reportedly based on such intelligence. Covert cases include Syria's hidden reactor, which was found through human intelligence, Saddam Hussein's use of electromagnetic enrichment, and North Korea's enrichment facility shown to a Stanford professor in 2010. A.Q. Khan's network sold designs to Libya, Iran and North Korea.",
+      "topics": [
+        "CTBTO monitoring network",
+        "AURA software",
+        "data mining scientists",
+        "Iranian nuclear scientists killed",
+        "Syria covert reactor",
+        "Saddam Hussein electromagnetic enrichment",
+        "North Korea enrichment facility",
+        "A.Q. Khan proliferation network"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Can a nuclear weapon be built in secret?",
+      "summary": "Hosts discuss the Economist's question. A former Pakistani foreign secretary said secret weapons development is no longer possible, while an anonymous US State Department official said it is not impossible. Hosts conclude it is a cat-and-mouse game between proliferators and detectives.",
+      "topics": [
+        "building nuclear weapons in secret",
+        "cat and mouse nuclear detection",
+        "nuclear proliferation debate"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:56:00",
+      "kind": "ad",
+      "title": "CoEd sponsor read",
+      "summary": "Sponsor read for the Cooperative for Education (CoEd), which is sponsoring girls in Guatemala to stay in school, at thirty-five or seventy dollars a month.",
+      "topics": [
+        "CoEd",
+        "Guatemala education sponsorship"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:59:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: restaurant health inspections",
+      "summary": "A restaurant manager named Derek writes about health inspections, describing the scramble during inspections, the difficulty of the pass-fail scale, and the required manager certification.",
+      "topics": [
+        "restaurant health inspections",
+        "food safety",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14633,
+    "output_tokens": 3593
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-06-15_How_Aluminium_Works_52min.txt",
+  "title": "How Alumin(i)um Works",
+  "date": "2023-06-15",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-alumin-i-um-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d2f043a1-2fcd-45bd-912f-b022000983c6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d2f043a1-2fcd-45bd-912f-b022000983c6/transcript?format=TextWithTimestamps&t=1714006889",
+  "summary": "Josh and Chuck explore aluminum (spelled aluminium in British usage), covering its naming history from Humphrey Davy's \"illuminium\" through the 1886 Hall-Héroult process and Carl Josef Bayer's 1887 refining method, its early luxury status (Napoleon III, the 1884 aluminum Washington Monument cap), and its use in airplanes (Wright brothers' engine), electrical wiring, beer and soft drink cans, and foil. They discuss recycling of aluminum cans, health concerns (antiperspirants, Alzheimer's research), the Goldman Sachs aluminum warehouse hoarding controversy, and environmental costs of bauxite mining. The episode closes with a listener mail about airplane aisle-seat etiquette.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "aluminum",
+    "aluminium spelling history",
+    "Humphrey Davy illuminium",
+    "bauxite",
+    "Hall-Héroult process",
+    "aluminum smelting",
+    "Charles Martin Hall",
+    "Paul Héroult",
+    "Karl Josef Bayer",
+    "Washington Monument aluminum cap",
+    "aluminum alloys",
+    "aluminum in aviation",
+    "Wright brothers engine",
+    "aluminum wiring fire hazard",
+    "beer can history",
+    "aluminum can recycling",
+    "aluminum foil history",
+    "tinfoil hat myth",
+    "aluminum and Alzheimer's",
+    "antiperspirant aluminum",
+    "Goldman Sachs aluminum hoarding",
+    "bauxite mining environmental impact",
+    "Napoleon aluminum",
+    "listener mail airplane etiquette",
+    "periodic table elements"
+  ],
+  "entities": [
+    {
+      "name": "Aluminum",
+      "type": "other"
+    },
+    {
+      "name": "Humphrey Davy",
+      "type": "person"
+    },
+    {
+      "name": "Antoine Lavoisier",
+      "type": "person"
+    },
+    {
+      "name": "Hans Christian Ørsted",
+      "type": "person"
+    },
+    {
+      "name": "Friedrich Wöhler",
+      "type": "person"
+    },
+    {
+      "name": "Charles Martin Hall",
+      "type": "person"
+    },
+    {
+      "name": "Paul Héroult",
+      "type": "person"
+    },
+    {
+      "name": "Karl Josef Bayer",
+      "type": "person"
+    },
+    {
+      "name": "Napoleon III",
+      "type": "person"
+    },
+    {
+      "name": "Charlie Taylor",
+      "type": "person"
+    },
+    {
+      "name": "William Joyce",
+      "type": "person"
+    },
+    {
+      "name": "Aluminum Company of America",
+      "type": "organization"
+    },
+    {
+      "name": "Hawaii Brewing Company",
+      "type": "organization"
+    },
+    {
+      "name": "Coors",
+      "type": "organization"
+    },
+    {
+      "name": "Goldman Sachs",
+      "type": "organization"
+    },
+    {
+      "name": "Washington Monument",
+      "type": "place"
+    },
+    {
+      "name": "Bauxite",
+      "type": "other"
+    },
+    {
+      "name": "Herald process",
+      "type": "event"
+    },
+    {
+      "name": "Wright brothers",
+      "type": "person"
+    },
+    {
+      "name": "Julian Huxley",
+      "type": "person"
+    },
+    {
+      "name": "Aldous Huxley",
+      "type": "person"
+    },
+    {
+      "name": "Better Call Saul",
+      "type": "work"
+    },
+    {
+      "name": "Vice magazine",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:32",
+      "kind": "ad",
+      "title": "Tour announcement",
+      "summary": "Hosts promote upcoming tour dates in Orlando, Nashville and Atlanta and point to ticket links.",
+      "topics": [
+        "tour dates",
+        "ticket links"
+      ]
+    },
+    {
+      "start": "00:00:32",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter on aluminum",
+      "summary": "Hosts introduce the episode as the second in their series on the periodic table elements and note aluminum's ubiquity and recent discovery compared with copper, iron and bronze.",
+      "topics": [
+        "periodic table elements",
+        "aluminum age"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:10",
+      "kind": "content",
+      "title": "Abundance and early uses of alum",
+      "summary": "Aluminum makes up about eight percent of Earth's crust but is locked in bauxite ore and hard to extract. Alum (potassium aluminum sulfate) and aluminum-bearing clay were used for thousands of years, and an alleged out-of-place aluminum belt from a third-century tomb in China is discussed.",
+      "topics": [
+        "bauxite",
+        "alum",
+        "aluminum in clay pottery",
+        "out-of-place artifacts",
+        "aluminum abundance"
+      ]
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Discovery and isolation of aluminum",
+      "summary": "Lavoisier suspected an aluminum oxide base; Humphrey Davy named the element and wrote about it before isolation. Ørsted came close in 1825 with impure metal, and Wöhler produced pure aluminum two years later.",
+      "topics": [
+        "Humphrey Davy",
+        "illuminium",
+        "Lavoisier",
+        "Ørsted",
+        "Wöhler",
+        "chemical discovery history"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Spelling aluminum vs aluminium",
+      "summary": "Davy's spelling changed from illuminium to aluminum; British chemists later preferred aluminium, while Americans kept aluminum until the American Chemical Society adopted it in 1925.",
+      "topics": [
+        "aluminum vs aluminium",
+        "spelling history",
+        "American Chemical Society"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Luxury metal era and Washington Monument cap",
+      "summary": "Aluminum was costly to extract and called the metal of kings; Napoleon III reportedly had special cutlery. The 1884 Washington Monument aluminum pyramid cap represented a large share of world output that year.",
+      "topics": [
+        "Napoleon III aluminum",
+        "luxury metal",
+        "Washington Monument aluminum cap",
+        "early aluminum production costs"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Hall-Héroult process and Bayer process",
+      "summary": "Charles Martin Hall and Paul Héroult independently developed the electrolytic process in 1886, sharing credit; Karl Josef Bayer improved aluminum oxide extraction from bauxite in 1887, making industrial production practical.",
+      "topics": [
+        "Hall-Héroult process",
+        "Bayer process",
+        "Charles Martin Hall",
+        "Paul Héroult",
+        "electrolysis",
+        "aluminum smelting history"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:50",
+      "kind": "content",
+      "title": "Pittsburgh Reduction Company and falling prices",
+      "summary": "Hall helped found what became the Aluminum Company of America (Alcoa), and the price of aluminum fell sharply from the late 1880s through the 1930s.",
+      "topics": [
+        "Alcoa",
+        "Pittsburgh Reduction Company",
+        "aluminum price history"
+      ]
+    },
+    {
+      "start": "00:15:50",
+      "end": "00:16:31",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:16:31",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Electricity, dams and aluminum alloys",
+      "summary": "Aluminum smelting is energy intensive, so early plants were sited near dams and the growing electrical grid helped the industry. Pure aluminum is soft, so it is alloyed with iron, silicon and copper for strength.",
+      "topics": [
+        "aluminum smelting energy",
+        "hydroelectric dams",
+        "aluminum alloys"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:40",
+      "kind": "content",
+      "title": "Aluminum in aviation",
+      "summary": "The Wright brothers' engine used about 92 percent aluminum and 8 percent copper, built by mechanic Charlie Taylor. Aluminum later replaced wood and fabric in airplanes and was valued for its strength-to-weight ratio.",
+      "topics": [
+        "Wright brothers engine",
+        "Charlie Taylor",
+        "aluminum aircraft",
+        "strength to weight ratio"
+      ]
+    },
+    {
+      "start": "00:21:40",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Aluminum wiring and fire hazards",
+      "summary": "Aluminum conducts less well than copper and needs a larger diameter. Aluminum household wiring from the 1960s and 1970s loosened at connections and posed arcing and fire risks.",
+      "topics": [
+        "aluminum wiring",
+        "electrical fire hazard",
+        "conductivity"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Beer and soda can history",
+      "summary": "Hawaii Brewing Company tried aluminum cans for Primo beer in the late 1950s but failed due to a can-lining reaction; Coors perfected the can in 1959, followed by soft drink makers.",
+      "topics": [
+        "beer can history",
+        "Hawaii Brewing Company",
+        "Coors",
+        "aluminum cans"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:10",
+      "kind": "content",
+      "title": "Aluminum can recycling",
+      "summary": "About 20 percent of global aluminum goes to cans; cans are infinitely recyclable with about 5 percent of the carbon emissions. Only about 50 percent of cans are recycled, and about 75 percent of all aluminum ever produced is still in use.",
+      "topics": [
+        "aluminum can recycling",
+        "infinite recyclability",
+        "recycling rates",
+        "carbon emissions"
+      ]
+    },
+    {
+      "start": "00:28:10",
+      "end": "00:28:40",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:28:40",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Aluminum foil and tinfoil hats",
+      "summary": "Aluminum foil was used for candy packaging from 1910 and hit the US in 1913. The tinfoil hat idea traces to a 1927 Aldous Huxley story, World War II propaganda, and a 2005 MIT study found foil does not block electromagnetic signals.",
+      "topics": [
+        "aluminum foil",
+        "tinfoil hat",
+        "Aldous Huxley",
+        "William Joyce",
+        "electromagnetic shielding myth"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:20",
+      "kind": "content",
+      "title": "Aluminum foil ball challenge and vapor deposition",
+      "summary": "Hosts discuss the Japanese foil ball internet challenge and how aluminum is vaporized in a vacuum to coat shiny materials. Aluminum is used in buildings like the Empire State Building and in automaking, toys, medicine and makeup.",
+      "topics": [
+        "foil ball challenge",
+        "vacuum metallization",
+        "aluminum uses",
+        "Empire State Building"
+      ]
+    },
+    {
+      "start": "00:34:20",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Aluminum health concerns",
+      "summary": "Hosts discuss aluminum in antiperspirants, a debunked breast cancer scare, research linking aluminum to Alzheimer's-related brain changes, and the kidneys' role in clearing aluminum. Scientific debate is described as ongoing.",
+      "topics": [
+        "aluminum antiperspirant",
+        "aluminum and Alzheimer's",
+        "aluminum toxicity",
+        "kidney clearance"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:40:30",
+      "kind": "content",
+      "title": "Goldman Sachs aluminum hoarding",
+      "summary": "Goldman Sachs stored aluminum in a Detroit-area warehouse, causing delays that critics said were manufactured to raise prices. A 2021 hoarding case in Vietnam is also mentioned, along with price swings.",
+      "topics": [
+        "aluminum hoarding",
+        "Goldman Sachs warehouse",
+        "commodity markets",
+        "aluminum price volatility",
+        "Vietnam aluminum hoard"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Bauxite mining environmental impact",
+      "summary": "Bauxite strip mining depletes land, pollutes water with heavy metals, and produces about three percent of the world's direct CO2 emissions. Recycling is encouraged, and the Washington Monument cap is said to have been proposed for melting in World War II.",
+      "topics": [
+        "bauxite mining environment",
+        "strip mining",
+        "CO2 emissions",
+        "World War II aluminum recycling"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:43:09",
+      "kind": "content",
+      "title": "Transition to listener mail",
+      "summary": "Hosts announce listener mail.",
+      "topics": [
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:43:09",
+      "end": "00:51:05",
+      "kind": "listener_mail",
+      "title": "Airplane aisle seat etiquette",
+      "summary": "A listener named Frank describes asking a passenger to be let past repeatedly on a Delta comfort plus flight; hosts discuss whether Frank was rude and offer views on aisle-seat etiquette.",
+      "topics": [
+        "airplane etiquette",
+        "aisle seat",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:51:05",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts plug Max Fun Network and invite listener mail, then sign off.",
+      "topics": [
+        "listener mail submission",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19607,
+    "output_tokens": 4659
+  }
+}

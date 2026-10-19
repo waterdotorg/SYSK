@@ -1,0 +1,381 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-04-16_The_Dubious_Science_of_Arson_Investigation_47min.txt",
+  "title": "The Dubious Science of Arson Investigation",
+  "date": "2024-04-16",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-dubious-science-of-arson-investigation",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f0d25d46-0bb8-4b48-bc99-b15400e05ca0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f0d25d46-0bb8-4b48-bc99-b15400e05ca0/transcript?format=TextWithTimestamps&t=1713409162",
+  "summary": "Josh and Chuck examine the history of arson investigation, which for decades relied on folklore and intuition rather than science. They cover early handbooks (1945 book by Harry Rethert, Paul Kirk's 1969 Fire Investigation), the 1970s federal push that created the Center for Fire Research and the cone calorimeter, flashover and backdraft science, the Oakland Hills fire (1991) and crazed glass, the 1986 DuPont Plaza Hotel fire, the 1990 Lime Street fire in Jacksonville and the recreation experiment, and the Cameron Todd Willingham case in Texas, which ended in execution in 2004. They discuss the ongoing resistance in the field, modern methods for finding fire origin (body evidence, arcing, ignitable liquids database), and recommend reading David Grann's New Yorker article and Douglas Starr's Discover piece. The episode closes with a listener mail segment about Habitat 67.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "arson investigation",
+    "fire investigation",
+    "junk science",
+    "Cameron Todd Willingham",
+    "Willingham execution",
+    "flashover",
+    "backdraft",
+    "crazed glass",
+    "cone calorimeter",
+    "Center for Fire Research",
+    "Oakland fire 1991",
+    "Lime Street fire",
+    "DuPont Plaza Hotel fire",
+    "NFPA 921",
+    "Paul Kirk",
+    "Gerald Hurst",
+    "fire origin determination",
+    "forensic science history",
+    "wrongful conviction",
+    "Daubert standard",
+    "arcing",
+    "ignitable liquids database"
+  ],
+  "entities": [
+    {
+      "name": "Arson investigation",
+      "type": "event"
+    },
+    {
+      "name": "Cameron Todd Willingham",
+      "type": "person"
+    },
+    {
+      "name": "Stacy Willingham",
+      "type": "person"
+    },
+    {
+      "name": "Corsicana, Texas",
+      "type": "place"
+    },
+    {
+      "name": "Douglas Starr",
+      "type": "person"
+    },
+    {
+      "name": "David Grann",
+      "type": "person"
+    },
+    {
+      "name": "Trial by Fire",
+      "type": "work"
+    },
+    {
+      "name": "Paul Kirk",
+      "type": "person"
+    },
+    {
+      "name": "Harry Rethert",
+      "type": "person"
+    },
+    {
+      "name": "Fire Investigation (1969 book)",
+      "type": "work"
+    },
+    {
+      "name": "Gerald Hurst",
+      "type": "person"
+    },
+    {
+      "name": "Manuel Vasquez",
+      "type": "person"
+    },
+    {
+      "name": "Jerald Lewis",
+      "type": "person"
+    },
+    {
+      "name": "Lime Street fire",
+      "type": "event"
+    },
+    {
+      "name": "John Lentini",
+      "type": "person"
+    },
+    {
+      "name": "Oakland Hills fire",
+      "type": "event"
+    },
+    {
+      "name": "DuPont Plaza Hotel fire",
+      "type": "event"
+    },
+    {
+      "name": "Center for Fire Research",
+      "type": "organization"
+    },
+    {
+      "name": "National Fire Protection Association",
+      "type": "organization"
+    },
+    {
+      "name": "Backdraft",
+      "type": "work"
+    },
+    {
+      "name": "Habitat 67",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:44",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Birthday greetings to Chuck and Jerry, and Josh's account of seeing Bob Dylan in Athens, Georgia.",
+      "topics": [
+        "banter",
+        "Bob Dylan"
+      ]
+    },
+    {
+      "start": "00:02:44",
+      "end": "00:05:15",
+      "kind": "content",
+      "title": "Introduction to unscientific arson investigation",
+      "summary": "The hosts frame arson investigation as long based on folklore and intuition, with sources David Grann and Douglas Starr, and mention the film Backdraft.",
+      "topics": [
+        "arson investigation",
+        "junk science",
+        "Backdraft",
+        "David Grann",
+        "Douglas Starr"
+      ]
+    },
+    {
+      "start": "00:05:15",
+      "end": "00:08:11",
+      "kind": "content",
+      "title": "Early handbooks and the 1945 book",
+      "summary": "The first fire investigation book, published in 1945 by Harry Rethert, was aimed at law enforcement looking to prove arson. Paul Kirk's 1969 book pushed the scientific method, and the field said there was too little science to compare against.",
+      "topics": [
+        "fire investigation handbook",
+        "Harry Rethert",
+        "Paul Kirk",
+        "scientific method"
+      ]
+    },
+    {
+      "start": "00:08:11",
+      "end": "00:10:32",
+      "kind": "content",
+      "title": "Folk indicators of arson",
+      "summary": "The hosts list traditional signs of arson: the most burned area as origin, charred floors, puddle-shaped char, V-shaped soot, and crazed glass, which were believed to indicate accelerants.",
+      "topics": [
+        "burn patterns",
+        "V pattern",
+        "crazed glass",
+        "accelerant indicators",
+        "1977 arson guides"
+      ]
+    },
+    {
+      "start": "00:10:32",
+      "end": "00:12:34",
+      "kind": "content",
+      "title": "Federal research and the cone calorimeter",
+      "summary": "After a 1973 government report on fire damage, the government funded the Center for Fire Research. Researchers developed the cone calorimeter for repeatable burn experiments and a database.",
+      "topics": [
+        "Center for Fire Research",
+        "cone calorimeter",
+        "fire research funding",
+        "fire testing"
+      ]
+    },
+    {
+      "start": "00:12:34",
+      "end": "00:16:25",
+      "kind": "content",
+      "title": "Flashover and backdraft",
+      "summary": "Flashover is when smoke gases ignite and the room fully catches fire, around 1000 degrees Celsius. Flashover can produce burn marks that had been wrongly attributed to accelerants, and it is related to backdraft.",
+      "topics": [
+        "flashover",
+        "backdraft",
+        "fire behavior",
+        "burn marks"
+      ]
+    },
+    {
+      "start": "00:16:25",
+      "end": "00:18:27",
+      "kind": "content",
+      "title": "Oakland Hills fire and crazed glass",
+      "summary": "The 1991 Oakland fire, which destroyed close to three thousand homes, showed that crazed glass results from water spray on hot glass, not arson.",
+      "topics": [
+        "Oakland fire 1991",
+        "crazed glass",
+        "glass cracking",
+        "fire investigation"
+      ]
+    },
+    {
+      "start": "00:18:27",
+      "end": "00:20:38",
+      "kind": "content",
+      "title": "DuPont Plaza Hotel fire",
+      "summary": "The 1986 New Year's Eve fire at the DuPont Plaza Hotel in San Juan, Puerto Rico, killed about 98 people. Computer models built from calorimeter data confirmed witness accounts that disgruntled workers set furniture on fire.",
+      "topics": [
+        "DuPont Plaza Hotel fire",
+        "computer fire modeling",
+        "fire models"
+      ]
+    },
+    {
+      "start": "00:20:38",
+      "end": "00:24:36",
+      "kind": "content",
+      "title": "Lime Street fire and recreation experiment",
+      "summary": "In Jacksonville, Florida, in 1990, Gerald Lewis was charged after a fire killed his family members. Investigators John Lentini and John DeHaan helped, and a recreation of the house with about $20,000 spent showed the couch fire produced the supposed arson evidence.",
+      "topics": [
+        "Lime Street fire",
+        "Gerald Lewis",
+        "fire recreation experiment",
+        "John Lentini",
+        "wrongful arson conviction"
+      ]
+    },
+    {
+      "start": "00:24:36",
+      "end": "00:25:13",
+      "kind": "content",
+      "title": "Slow adoption and the Daubert standard",
+      "summary": "Changes trickled down slowly. In 1997 the International Association of Arson Investigators argued against applying the Daubert standard, which required scientific method for expert testimony.",
+      "topics": [
+        "Daubert standard",
+        "International Association of Arson Investigators",
+        "expert testimony"
+      ]
+    },
+    {
+      "start": "00:25:13",
+      "end": "00:26:06",
+      "kind": "content",
+      "title": "NFPA 2011 assumption of arson",
+      "summary": "The hosts say the 2011 NFPA manual advised that if the cause could not be determined by elimination, investigators should assume arson.",
+      "topics": [
+        "NFPA 921",
+        "process of elimination",
+        "arson presumption"
+      ]
+    },
+    {
+      "start": "00:26:06",
+      "end": "00:32:55",
+      "kind": "content",
+      "title": "Cameron Todd Willingham case",
+      "summary": "In December 1991 in Corsicana, Texas, Cameron Willingham's house fire killed his three children. Fire investigators, including Manuel Vasquez, called it arson based on pour patterns and red flags such as an Iron Maiden poster. Willingham was executed in 2004. Gerald Hurst later demolished the evidence, but the Board of Pardons and Paroles upheld the conviction.",
+      "topics": [
+        "Cameron Todd Willingham",
+        "Corsicana Texas",
+        "Manuel Vasquez",
+        "Gerald Hurst",
+        "wrongful execution",
+        "Texas death penalty",
+        "junk science"
+      ]
+    },
+    {
+      "start": "00:32:55",
+      "end": "00:34:13",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:34:13",
+      "end": "00:37:36",
+      "kind": "content",
+      "title": "Overturning convictions and resistance to change",
+      "summary": "Overturning arson convictions is hard because evidence is often lost. NFPA 921 is the gold standard guide, aimed at insurers and law firms. Civil courts have become more savvy than criminal courts, and investigators have resisted change.",
+      "topics": [
+        "NFPA 921",
+        "overturning arson convictions",
+        "resistance to scientific change",
+        "civil versus criminal courts"
+      ]
+    },
+    {
+      "start": "00:37:36",
+      "end": "00:40:38",
+      "kind": "content",
+      "title": "Finding fire origin scientifically",
+      "summary": "Modern methods include studying victims' bodies (edema close to the fire versus carbon monoxide further away), and arc marks on wiring that show whether power was on. A flashover study found investigators were right about 84 percent of the time if the fire was put out within thirty seconds of flashover.",
+      "topics": [
+        "fire origin",
+        "arc mapping",
+        "fire victims",
+        "flashover timing",
+        "fire cause determination"
+      ]
+    },
+    {
+      "start": "00:40:38",
+      "end": "00:42:12",
+      "kind": "content",
+      "title": "Ignitable liquids database and first responder guidelines",
+      "summary": "The Ignitable Liquids Reference Collection database (ILRCD) can identify flammable liquids found at fire scenes. Guidelines help firefighters and EMS record useful details at the scene.",
+      "topics": [
+        "ignitable liquids reference collection database",
+        "first responders",
+        "fire scene documentation"
+      ]
+    },
+    {
+      "start": "00:42:12",
+      "end": "00:44:17",
+      "kind": "content",
+      "title": "Josh's childhood shed anecdote",
+      "summary": "Josh describes exploring an abandoned shed as a kid and being questioned by police about a suspected insurance fire. Chuck jokes about the anecdote, and Josh admits he made it up.",
+      "topics": [
+        "personal anecdote",
+        "childhood fire play"
+      ]
+    },
+    {
+      "start": "00:44:17",
+      "end": "00:45:01",
+      "kind": "outro",
+      "title": "Closing remarks",
+      "summary": "Chuck recommends reading David Grann's Trial by Fire and Douglas Starr's Discover article, then transitions to listener mail.",
+      "topics": [
+        "recommended reading"
+      ]
+    },
+    {
+      "start": "00:45:01",
+      "end": "00:46:16",
+      "kind": "listener_mail",
+      "title": "Listener mail: Habitat 67",
+      "summary": "A listener from McGill shares a fun fact that architect Moshe Safdie used Lego blocks to model Habitat 67 and bought out Montreal toy stores' Legos. The listener is named Kestrel.",
+      "topics": [
+        "listener mail",
+        "Habitat 67",
+        "Moshe Safdie",
+        "Lego"
+      ]
+    },
+    {
+      "start": "00:46:16",
+      "end": "00:46:45",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Contact information and show credits.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16402,
+    "output_tokens": 4107
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-01-13_Doin_Science_in_the_National_Radio_Quiet_Zone_51min.txt",
+  "title": "Doin’ Science in the National Radio Quiet Zone",
+  "date": "2026-01-13",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/doin-science-in-the-national-radio-quiet-zone",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7562fa51-d1c2-4301-8501-b3d00161c008/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7562fa51-d1c2-4301-8501-b3d00161c008/transcript?format=TextWithTimestamps&t=1768253967",
+  "summary": "Josh and Chuck explore the National Radio Quiet Zone, a roughly 13,000-square-mile region across Virginia, West Virginia and a bit of Maryland centered on the Green Bank Observatory in West Virginia, where radio emissions are restricted to protect radio telescopes. They cover the history of radio astronomy from Karl Jansky's 1932 discovery, the 1954 advisory panel, the West Virginia Radio Astronomy Zone, the Green Bank telescopes, restrictions on Wi-Fi, cell phones and microwaves, the enforcer role (Wesley Sizemore, later Chuck Nadai), life for residents including electromagnetic hypersensitivity, satellite interference and the planned National Radio Dynamic Zone, SETI and Frank Drake's Project Ozma and Drake equation, Sugar Grove naval and NSA station, recent changes such as Wi-Fi allowed in 2025 and Starlink issues for emergency services, and a listener email about AM radio during a Louisiana flood.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "National Radio Quiet Zone",
+    "Green Bank Observatory",
+    "radio astronomy",
+    "radio telescope",
+    "Green Bank Telescope",
+    "West Virginia Radio Astronomy Zone",
+    "radio interference",
+    "electromagnetic hypersensitivity",
+    "EHS",
+    "Karl Jansky",
+    "SETI",
+    "Frank Drake",
+    "Drake equation",
+    "Project Ozma",
+    "Sugar Grove Research Station",
+    "Starlink radio interference",
+    "National Radio Dynamic Zone",
+    "Wi-Fi restrictions Green Bank",
+    "satellite interference radio astronomy",
+    "Wesley Sizemore",
+    "Appalachian Mountains",
+    "microjansky"
+  ],
+  "entities": [
+    {
+      "name": "National Radio Quiet Zone",
+      "type": "place"
+    },
+    {
+      "name": "Green Bank Observatory",
+      "type": "organization"
+    },
+    {
+      "name": "Green Bank, West Virginia",
+      "type": "place"
+    },
+    {
+      "name": "West Virginia Radio Astronomy Zone",
+      "type": "place"
+    },
+    {
+      "name": "Karl Jansky",
+      "type": "person"
+    },
+    {
+      "name": "Frank Drake",
+      "type": "person"
+    },
+    {
+      "name": "Wesley Sizemore",
+      "type": "person"
+    },
+    {
+      "name": "Chuck Nadai",
+      "type": "person"
+    },
+    {
+      "name": "Diane Shaw",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Cassy",
+      "type": "person"
+    },
+    {
+      "name": "Sugar Grove Research Station",
+      "type": "place"
+    },
+    {
+      "name": "Robert C. Byrd Green Bank Telescope",
+      "type": "other"
+    },
+    {
+      "name": "Project Ozma",
+      "type": "event"
+    },
+    {
+      "name": "Drake equation",
+      "type": "other"
+    },
+    {
+      "name": "Starlink",
+      "type": "organization"
+    },
+    {
+      "name": "National Radio Dynamic Zone",
+      "type": "other"
+    },
+    {
+      "name": "Wave Analysis Verification Research Center",
+      "type": "organization"
+    },
+    {
+      "name": "Appalachian Mountains",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:27",
+      "kind": "intro",
+      "title": "Opening banter and premise",
+      "summary": "The hosts joke about being quiet, Palm Springs outdoor music rules, and introduce the National Radio Quiet Zone as a region restricting radio emissions to protect radio telescopes at Green Bank, West Virginia.",
+      "topics": [
+        "National Radio Quiet Zone",
+        "Green Bank Observatory"
+      ]
+    },
+    {
+      "start": "00:02:27",
+      "end": "00:05:27",
+      "kind": "content",
+      "title": "Radio astronomy origins and sensitivity",
+      "summary": "Karl Jansky's 1932 discovery of cosmic radio static at Bell Labs launched radio astronomy. Radio signals are measured in microjanskys, so faint that they are tiny fractions of a watt, and everyday devices create interference.",
+      "topics": [
+        "radio astronomy",
+        "Karl Jansky",
+        "microjansky",
+        "radio interference"
+      ]
+    },
+    {
+      "start": "00:05:27",
+      "end": "00:07:35",
+      "kind": "content",
+      "title": "Brief tangent on radio light and units",
+      "summary": "The hosts clarify that radio waves are not audible sound and joke about units smaller than a watt.",
+      "topics": [
+        "radio waves",
+        "radio interference"
+      ]
+    },
+    {
+      "start": "00:07:35",
+      "end": "00:10:58",
+      "kind": "content",
+      "title": "Creating the quiet zones",
+      "summary": "The 1954 Advisory Panel on Radio Astronomy chose the Appalachian Mountains site. Eisenhower sought funding in 1956. West Virginia created its ten-mile radio astronomy zone, and the FCC added the much larger National Radio Quiet Zone of about 13,000 square miles, with tiers of restriction around Green Bank.",
+      "topics": [
+        "National Radio Quiet Zone",
+        "West Virginia Radio Astronomy Zone",
+        "Appalachian Mountains",
+        "FCC",
+        "Eisenhower funding",
+        "Green Bank Observatory"
+      ]
+    },
+    {
+      "start": "00:10:58",
+      "end": "00:14:35",
+      "kind": "content",
+      "title": "Green Bank observatory and telescopes",
+      "summary": "The National Radio Astronomy Observatory built telescopes at Green Bank. Employees moved admin to Charlottesville. The 300-foot telescope collapsed in 1988 and was replaced by the Robert C. Byrd Green Bank Telescope in 2001, the largest fully steerable radio telescope, with a famously large ball bearing.",
+      "topics": [
+        "Green Bank Telescope",
+        "Robert C. Byrd Green Bank Telescope",
+        "Green Bank Observatory",
+        "radio telescope history"
+      ]
+    },
+    {
+      "start": "00:14:35",
+      "end": "00:15:07",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:15:07",
+      "end": "00:19:21",
+      "kind": "content",
+      "title": "Restrictions on transmitters, cell service and Wi-Fi",
+      "summary": "Fixed or permanent transmitters need NRQZ and FCC approval. Cell service is limited, though the area is largely protected wilderness. Cable and satellite TV are permitted, Wi-Fi was restricted until recently, and wired internet is allowed. Observatory staff try to work cooperatively with residents.",
+      "topics": [
+        "Wi-Fi restrictions",
+        "cell phone coverage",
+        "FCC approval transmitters",
+        "radio transmission regulation"
+      ]
+    },
+    {
+      "start": "00:19:21",
+      "end": "00:22:12",
+      "kind": "content",
+      "title": "Residents' lifestyle and anxiety study",
+      "summary": "Some residents choose a simpler, low-technology life without Bluetooth, microwaves or RC toys. A 2016 small study by Italian graduate student Jeffrero Carlini found lower anxiety among residents. Teens there use payphones and maps; the hosts compare this to social media restrictions.",
+      "topics": [
+        "quiet zone lifestyle",
+        "low technology living",
+        "residents anxiety study"
+      ]
+    },
+    {
+      "start": "00:22:12",
+      "end": "00:24:48",
+      "kind": "content",
+      "title": "Fringe groups and journalist Stephen Cass",
+      "summary": "The area has attracted conspiracy theorists, the National Alliance headquarters, and the Zendik Farm group until leaders died in 1999 and 2012. Journalist Stephen Cass wrote about living without a phone; a cell phone user within two miles of the observatory faces a fifty-dollar-a-day fine, which has never been enforced.",
+      "topics": [
+        "Zendik Farm",
+        "National Alliance",
+        "Stephen Cass",
+        "quiet zone fines",
+        "Green Bank telescope enforcement"
+      ]
+    },
+    {
+      "start": "00:24:48",
+      "end": "00:28:03",
+      "kind": "content",
+      "title": "Enforcers and Chuck Nadai",
+      "summary": "Wesley Sizemore served as the interference enforcer for years, fixing devices like a faulty electric blanket. Since 2011 the job has been held by Chuck Nadai, who helps residents design radio equipment that won't interfere.",
+      "topics": [
+        "Wesley Sizemore",
+        "Chuck Nadai",
+        "RFI enforcement",
+        "interference troubleshooting"
+      ]
+    },
+    {
+      "start": "00:28:03",
+      "end": "00:29:12",
+      "kind": "content",
+      "title": "Celebrity tangent",
+      "summary": "Chuck mentions having been near Steven Seagal's house while visiting Meat Loaf's home, and the hosts discuss a GQ profile of Seagal.",
+      "topics": [
+        "celebrity tangent"
+      ]
+    },
+    {
+      "start": "00:29:12",
+      "end": "00:31:48",
+      "kind": "content",
+      "title": "Satellite interference and antenna problems",
+      "summary": "Commercial transmitters like cell towers and GPS are the main problem, and amplifiers can be blown out by a stray signal. Low Earth orbit satellites add light and radio pollution. The National Radio Dynamic Zone is being developed as a collaborative initiative with satellite operators.",
+      "topics": [
+        "satellite interference radio astronomy",
+        "National Radio Dynamic Zone",
+        "low Earth orbit satellites",
+        "radio amplifier damage"
+      ]
+    },
+    {
+      "start": "00:31:48",
+      "end": "00:34:11",
+      "kind": "content",
+      "title": "Project Ozma and SETI origins",
+      "summary": "In 1959 NRAO researcher Frank Drake launched Project Ozma, the origin of SETI. Drake developed the Drake equation at Green Bank, estimating at least ten thousand advanced civilizations in the Milky Way, and SETI research continues at the Green Bank Telescope.",
+      "topics": [
+        "SETI",
+        "Project Ozma",
+        "Frank Drake",
+        "Drake equation",
+        "extraterrestrial intelligence"
+      ]
+    },
+    {
+      "start": "00:34:11",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Drake Equation photo book and listener photographers",
+      "summary": "Listener Andrew Phelps and photographer Paul Kransler made a photo book called Drake Equation about life in the quiet zone. The hosts also discuss an astrophotographer listener.",
+      "topics": [
+        "Drake Equation book",
+        "Andrew Phelps",
+        "astrophotography"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:39:02",
+      "kind": "content",
+      "title": "Sugar Grove station and NSA",
+      "summary": "The Navy's 1959 Big Ear antenna project was scrapped. The Sugar Grove station still hosts a Navy presence and the NSA, though the NSA has left and the town is for sale. Tangent on Kim Basinger buying Braselton, Georgia.",
+      "topics": [
+        "Sugar Grove Research Station",
+        "Big Ear",
+        "NSA",
+        "Sugar Grove town for sale"
+      ]
+    },
+    {
+      "start": "00:39:02",
+      "end": "00:42:11",
+      "kind": "content",
+      "title": "Scientific discoveries at Green Bank",
+      "summary": "Green Bank contributed many interstellar molecules, pulsar images, and the first detection of the Zeeman splitting, which supported quantum theory. The hosts stress the observatory's real scientific importance.",
+      "topics": [
+        "Zeeman splitting",
+        "interstellar molecules",
+        "pulsars",
+        "Green Bank discoveries"
+      ]
+    },
+    {
+      "start": "00:42:11",
+      "end": "00:45:07",
+      "kind": "content",
+      "title": "Electromagnetic hypersensitivity",
+      "summary": "Diane Shaw founded the Wave Analysis Verification Research Center on fourteen acres near Green Bank. People with EHS report headaches, nausea, dizziness and other symptoms, but controlled tests show they cannot reliably detect exposure, so it is not proven; the WHO recognizes it as a condition warranting study.",
+      "topics": [
+        "electromagnetic hypersensitivity",
+        "EHS",
+        "Diane Shaw",
+        "WHO",
+        "nocebo effect"
+      ]
+    },
+    {
+      "start": "00:45:07",
+      "end": "00:46:12",
+      "kind": "content",
+      "title": "Hypochondria tangent and Morgellons",
+      "summary": "The hosts compare EHS to germ fears and reference their Morgellons episode. Lenny from Laverne and Shirley is mentioned in connection with the condition in a show on Better Call Saul.",
+      "topics": [
+        "Morgellons",
+        "hypochondria",
+        "EHS in fiction"
+      ]
+    },
+    {
+      "start": "00:46:12",
+      "end": "00:48:23",
+      "kind": "content",
+      "title": "Current news: Green Bank funding, Starlink and Wi-Fi",
+      "summary": "The National Science Foundation ended support for Green Bank Observatory, which is now privately funded. Starlink fixed service is allowed, but mobile Starlink disrupts the telescope, leaving emergency medical services at an impasse. Wi-Fi at 2.4 GHz was allowed because that band is already crowded.",
+      "topics": [
+        "Green Bank privately funded",
+        "Starlink restrictions",
+        "emergency medical services",
+        "Wi-Fi 2.4 GHz",
+        "National Science Foundation"
+      ]
+    },
+    {
+      "start": "00:48:23",
+      "end": "00:50:28",
+      "kind": "listener_mail",
+      "title": "Listener email: AM radio after a flood",
+      "summary": "Listener Hannah from Texas describes how, after a 2016 flood in Denham Springs, Louisiana knocked out cell service, an AM radio station broadcast family check-in calls that helped coordinate evacuation.",
+      "topics": [
+        "AM radio emergency alerts",
+        "Hannah listener mail",
+        "Denham Springs flood",
+        "Cajun Navy"
+      ]
+    },
+    {
+      "start": "00:50:28",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners and invite listener mail at the show's email address; the episode closes with the production credit.",
+      "topics": [
+        "listener mail",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18801,
+    "output_tokens": 4791
+  }
+}

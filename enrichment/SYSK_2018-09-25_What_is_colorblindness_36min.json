@@ -1,0 +1,257 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-09-25_What_is_colorblindness_36min.txt",
+  "title": "What is colorblindness?",
+  "date": "2018-09-25",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-is-colorblindness",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b5780a7b-8a09-42c7-af39-ae28005bfe7c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b5780a7b-8a09-42c7-af39-ae28005bfe7c/transcript?format=TextWithTimestamps&t=1700543726",
+  "summary": "Josh Clark and Chuck Bryant explain color blindness (color vision deficiency). They cover history, starting with John Dalton's 1794 paper on his own color blindness and the later finding that he had deuteranopia. They explain how retinal rods and cones work, and the spectrum from anomalous trichromacy (deuteranomaly, protanomaly, tritanomaly) to dichromacy (deuteranopia, protanopia, tritanopia) and monochromacy (rod and cone types). They discuss color vision in animals, testing methods (Ishihara plates, the Farnsworth Lantern test, hue arrangement tests), genetics (X-linked recessive red-green color blindness, far more common in men), acquired causes (diseases and drugs such as digitalis and chloroquine), the lack of a cure and gene therapy research in monkeys, practical effects on jobs and daily life, design accessibility, and past discrimination in Japan. The episode closes with a listener mail segment about The Price is Right and Cliffhanger.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "color blindness",
+    "color vision deficiency",
+    "colorblindness",
+    "dichromacy",
+    "anomalous trichromacy",
+    "monochromacy",
+    "deuteranopia",
+    "protanopia",
+    "tritanopia",
+    "deuteranomaly",
+    "protanomaly",
+    "tritanomaly",
+    "John Dalton color blindness",
+    "retina rods and cones",
+    "Ishihara test",
+    "Farnsworth Lantern test",
+    "color blindness genetics",
+    "X-linked recessive inheritance",
+    "acquired color blindness",
+    "animal color vision",
+    "color blindness discrimination Japan",
+    "color blindness jobs",
+    "color blind accessibility design",
+    "The Price is Right Cliffhanger listener mail"
+  ],
+  "entities": [
+    {
+      "name": "John Dalton",
+      "type": "person"
+    },
+    {
+      "name": "Ishihara",
+      "type": "person"
+    },
+    {
+      "name": "Hito",
+      "type": "person"
+    },
+    {
+      "name": "Farnsworth Lantern test",
+      "type": "work"
+    },
+    {
+      "name": "Ishihara test",
+      "type": "work"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Michael Larson",
+      "type": "person"
+    },
+    {
+      "name": "Cliffhanger",
+      "type": "work"
+    },
+    {
+      "name": "The Price is Right",
+      "type": "work"
+    },
+    {
+      "name": "Drew Carey",
+      "type": "person"
+    },
+    {
+      "name": "Catchy's Castle",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Introduction and online color tests",
+      "summary": "Hosts introduce color blindness and share how they fared on online color vision tests. Chuck notes there is no clear politically correct term for color blindness.",
+      "topics": [
+        "color blindness",
+        "online color vision test",
+        "color blindness terminology"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "History: John Dalton's color blindness",
+      "summary": "John Dalton wrote the first scientific paper on color blindness, describing his own condition and a hypothesized blue fluid in the eye. After his death his eye was examined and found normal, and his tissue was later diagnosed as deuteranopia.",
+      "topics": [
+        "John Dalton color blindness",
+        "history of color blindness",
+        "deuteranopia"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "How the eye and cones work",
+      "summary": "The retina contains rods, which help in low light, and cones, which provide detail and color. Normal color vision (trichromacy) needs three cones; a misaligned cone causes anomalous trichromacy, and a missing cone causes dichromacy.",
+      "topics": [
+        "retina",
+        "rods and cones",
+        "trichromacy",
+        "anomalous trichromacy",
+        "dichromacy"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Types of color vision deficiency",
+      "summary": "The hosts list the subtypes: deuteranomaly, protanomaly, and tritanomaly; dichromat types deuteranopia, protanopia, and tritanopia; and monochromacy, which has rod and cone types. Losing one cone cuts the number of distinguishable colors substantially, and monochromacy is seeing in grays. Nystagmus is mentioned with rod monochromacy.",
+      "topics": [
+        "deuteranomaly",
+        "protanopia",
+        "tritanopia",
+        "monochromacy",
+        "nystagmus",
+        "color gradient"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "What color blindness looks like",
+      "summary": "The hosts describe the muted palette of color-blind vision. Protanopia makes reds look brown and greens look khaki, and deuteranopia makes reds and greens look like drab olive shades.",
+      "topics": [
+        "what color blindness looks like",
+        "protanopia",
+        "deuteranopia",
+        "red-green color blindness"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the animal segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Animal color vision",
+      "summary": "Dogs and cats see some color, though not the full spectrum. Apes and monkeys see like humans. Raccoons, seals, and whales are described as largely colorblind, and birds are said to see more color than humans. Some animals can see ultraviolet, and humans cannot.",
+      "topics": [
+        "animal color vision",
+        "dog color vision",
+        "bird color vision",
+        "ultraviolet vision"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Testing for color blindness",
+      "summary": "The Ishihara plate test, developed by Dr. Ishihara in Japan for the Japanese Army, uses dot circles with hidden numbers. Other tests include a hue arrangement test and the Farnsworth Lantern test, used by the Coast Guard, Navy, Air Force, and FAA, which uses dimmed colored lights.",
+      "topics": [
+        "Ishihara test",
+        "Farnsworth Lantern test",
+        "color blindness testing",
+        "pilot color vision requirements"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Causes, genetics, and treatment",
+      "summary": "Color blindness is mostly genetic. Red-green color blindness is X-linked recessive, so it affects far more men than women, with about 8 percent of Caucasian men and 5 percent of Asian men affected. Acquired causes include glaucoma, diabetes, Alzheimer's, Parkinson's, leukemia, MS, sickle cell, alcoholism, and drugs such as digitalis and chloroquine. There is no cure; corrective lenses are doubtful, and gene therapy has worked in monkeys but not yet in humans.",
+      "topics": [
+        "X-linked recessive",
+        "color blindness genetics",
+        "acquired color blindness",
+        "gene therapy color blindness",
+        "corrective lenses"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Living with color blindness and accessible design",
+      "summary": "The hosts discuss jobs affected by color vision, such as pilot, electrician, bomb squad, meat inspector, and cooking steak, and everyday tasks like coloring and reading ripe fruit. Software can adjust web colors, and design can use blinking lights, patterns, and cross-hatching instead of color alone. Color-blind people are said to be better at spotting camouflage.",
+      "topics": [
+        "color blindness jobs",
+        "color blindness daily life",
+        "accessible design",
+        "color blind camouflage spotting"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Discrimination against color blind people in Japan",
+      "summary": "The hosts describe a bias in Japan, following publicity around a royal marriage involving color blindness in a bride's family. For decades, color-blind people faced restrictions on courses and jobs, and kids were tested in school. Testing was reportedly stopped in the last year or two.",
+      "topics": [
+        "Japan color blindness discrimination",
+        "color blindness stigma",
+        "school color vision testing"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Closing and call for listener stories",
+      "summary": "The hosts wrap up and ask color-blind listeners to share their experiences.",
+      "topics": [
+        "call for listener stories"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:55:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: The Price is Right and Cliffhanger",
+      "summary": "A listener named David shares a claimed bidding strategy for the Cliffhanger pricing game on The Price is Right. The hosts discuss Michael Larson and Drew Carey, and the listener recommends the Japanese game show Catchy's Castle, dubbed by Spike TV.",
+      "topics": [
+        "The Price is Right",
+        "Cliffhanger pricing game",
+        "Michael Larson",
+        "game show strategy",
+        "Catchy's Castle"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11517,
+    "output_tokens": 3195
+  }
+}

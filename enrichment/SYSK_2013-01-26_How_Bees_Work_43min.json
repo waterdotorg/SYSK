@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-01-26_How_Bees_Work_43min.txt",
+  "title": "How Bees Work",
+  "date": "2013-01-26",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-bees-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cfda68fd-b504-4d21-a787-ae2800a2dba3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cfda68fd-b504-4d21-a787-ae2800a2dba3/transcript?format=TextWithTimestamps&t=1700543907",
+  "summary": "Josh and Chuck explore how bees work, focusing mainly on honey bees, with a look at bumble bees and solitary bees. They cover bee evolution from wasp-like ancestors alongside flowering plants, bee anatomy (exoskeleton, brain, eyes, mouthparts, wings, legs, hemolymph), stingers and venom (barbed stingers, anaphylaxis), social versus solitary nesting, queen and male reproduction, larval development and royal jelly, division of labor by age, communication through the round and waggle dances, honey production and its antibacterial properties, and Africanized \"killer bees.\" The episode closes with listener mail correcting the earlier book-banning episode about librarians' role.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "bees",
+    "how bees work",
+    "honey bees",
+    "bumble bees",
+    "solitary bees",
+    "bee evolution",
+    "wasp ancestors",
+    "flowering plants and pollination",
+    "bee anatomy",
+    "bee brain",
+    "bee vision and polarized light",
+    "bee stinger and venom",
+    "barbed stinger",
+    "anaphylaxis bee sting allergy",
+    "social bees vs solitary bees",
+    "beehive and nest building",
+    "queen bee",
+    "male drones",
+    "royal jelly",
+    "bee life cycle",
+    "waggle dance",
+    "round dance",
+    "bee communication",
+    "honey production",
+    "honey antibacterial properties",
+    "Africanized honey bees",
+    "killer bees",
+    "colony collapse disorder",
+    "carpenter bees",
+    "listener mail",
+    "book banning correction"
+  ],
+  "entities": [
+    {
+      "name": "Honey bee",
+      "type": "other"
+    },
+    {
+      "name": "Bumble bee",
+      "type": "other"
+    },
+    {
+      "name": "Carpenter bee",
+      "type": "other"
+    },
+    {
+      "name": "Killer bee",
+      "type": "other"
+    },
+    {
+      "name": "Africanized honey bee",
+      "type": "other"
+    },
+    {
+      "name": "Jan Swammerdam",
+      "type": "person"
+    },
+    {
+      "name": "San people",
+      "type": "organization"
+    },
+    {
+      "name": "Clostridium botulinum",
+      "type": "other"
+    },
+    {
+      "name": "Colony collapse disorder",
+      "type": "event"
+    },
+    {
+      "name": "Tracy Wilson",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and bee origins",
+      "summary": "Josh and Chuck open with banter about Josh's early morning reading about bees and their feelings toward bees. They discuss the San people creation myth about bees and the mistaken belief that bees reproduced spontaneously until Jan Swammerdam found reproductive parts under a microscope.",
+      "topics": [
+        "bees",
+        "San people creation myth",
+        "Jan Swammerdam",
+        "spontaneous generation"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Evolution of bees and flowering plants",
+      "summary": "Bees diverged from wasps around 100 million years ago in the Cretaceous period, around when flowering plants appeared. Bees became herbivores feeding on pollen and nectar, while their wasp relatives were carnivores that laid eggs in other animals.",
+      "topics": [
+        "bee evolution",
+        "wasp ancestors",
+        "Cretaceous period",
+        "flowering plants and pollination",
+        "angiosperms"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Bee anatomy and body parts",
+      "summary": "The hosts describe the bee's chitin exoskeleton, hairs used to collect pollen, body sections, and a brain of about 950,000 specialized neurons. They cover the five eyes, including polarized light vision that lets bees navigate by the sun on overcast days, and the mouthparts including the proboscis.",
+      "topics": [
+        "bee anatomy",
+        "exoskeleton",
+        "bee brain",
+        "bee vision",
+        "polarized light",
+        "proboscis",
+        "mouthparts"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Wings, legs, and blood",
+      "summary": "The hosts discuss how the wings are connected by hamuli for flight, the specialized legs with brush and basket hairs for pollen collection, and that bee blood (hemolymph) is clear because it lacks red blood cells.",
+      "topics": [
+        "bee wings",
+        "hamuli",
+        "bee legs",
+        "pollen baskets",
+        "hemolymph",
+        "bee blood"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Stingers, venom, and allergic reactions",
+      "summary": "Barbed stingers in honey bees lodge in mammal skin, so the bee dies after stinging once, while smooth stingers can sting repeatedly. Venom destroys cells and releases histamine, and a severe allergy can cause anaphylactic shock, which epinephrine can treat.",
+      "topics": [
+        "bee stinger",
+        "barbed stinger",
+        "bee venom",
+        "histamine",
+        "anaphylaxis",
+        "bee sting allergy",
+        "epinephrine"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Social and solitary nesting habits",
+      "summary": "Honey bees are perennial social nesters with a queen, while bumble bees form annual nests. Queens of new colonies and the swarm process are described. Solitary bees include carpenter, mason, leafcutter, carder, and cuckoo bees that nest in various materials, and the orchid bee.",
+      "topics": [
+        "social bees",
+        "solitary bees",
+        "perennial nest",
+        "annual nest",
+        "bumble bee nests",
+        "carpenter bees",
+        "mason bees",
+        "leafcutter bees",
+        "cuckoo bees",
+        "orchid bee",
+        "bee nests"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Queens, males, and reproduction",
+      "summary": "Queen honey bees live up to five years and lay thousands of eggs, while male bees exist mainly to mate and are expelled from the hive when food is scarce. The queen controls the sex of eggs by using stored sperm, and the hive raises new queens on royal jelly.",
+      "topics": [
+        "queen bee",
+        "drones",
+        "male bees",
+        "bee reproduction",
+        "stored sperm",
+        "royal jelly",
+        "queen rearing"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Bee life cycle and division of labor",
+      "summary": "Eggs hatch into larvae fed royal jelly and then bee bread, and cells are sealed. Worker bees take on jobs by age, from nurse to housekeeper to forager. Foragers communicate food locations through the round dance and the waggle dance, relying on the sun, internal clock, and smell.",
+      "topics": [
+        "bee life cycle",
+        "larva",
+        "bee bread",
+        "division of labor",
+        "foragers",
+        "round dance",
+        "waggle dance",
+        "bee communication",
+        "navigation"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Honey production, antibacterial properties, and killer bees",
+      "summary": "Workers convert nectar into honey by regurgitating and fanning it, adding enzymes such as glucose oxidase. Honey has antibacterial properties and can carry Clostridium botulinum, which is dangerous for infants. Africanized killer bees are described as an aggressive hybrid spread from Brazil, and the hosts discuss colony collapse disorder.",
+      "topics": [
+        "honey production",
+        "glucose oxidase",
+        "honey antibacterial",
+        "hygroscopic honey",
+        "botulism infants",
+        "Africanized honey bees",
+        "killer bees",
+        "colony collapse disorder"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Listener mail and sign-off",
+      "summary": "Listener mail from Carly corrects the earlier book banning episode, explaining that library boards of trustees, not librarians, decide on book removals. The hosts close with contact information.",
+      "topics": [
+        "listener mail",
+        "book banning",
+        "library boards",
+        "correction"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14845,
+    "output_tokens": 2801
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-06-25_Mosquitoes_The_Worst_43min.txt",
+  "title": "Mosquitoes: The Worst",
+  "date": "2015-06-25",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/mosquitoes-the-worst",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59916a49-e16a-4c9e-8605-ae28008d7106/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/59916a49-e16a-4c9e-8605-ae28008d7106/transcript?format=TextWithTimestamps&t=1700543858",
+  "summary": "Josh and Chuck discuss mosquitoes: why they bite (females need blood protein to lay eggs), how they find people (CO2, lactic acid, heat and visual cues), mosquito anatomy, the big three US species (Aedes, Anopheles, Culex), life cycle from eggs and wigglers to pupae and adults, anticoagulant saliva and itching (including the X-scratch folk remedy), diseases spread (malaria, yellow fever, West Nile, dengue, encephalitis, filariasis-type eye worms), the 2002 Thailand DEET study and DEET safety debate, alternative repellents (soybean oil, citronella, Ethyl Pyra eight, cyclopentanone), bug zappers and ultrasonic myths, permethrin clothing, and whether the world would be better off without mosquitoes. The episode closes with a listener email about a celebrity encounter and the show's contact information.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "mosquitoes",
+    "mosquito biology",
+    "mosquito bites",
+    "why mosquitoes bite",
+    "mosquito life cycle",
+    "mosquito larvae wigglers",
+    "mosquito-borne disease",
+    "malaria",
+    "yellow fever",
+    "West Nile virus",
+    "encephalitis",
+    "dengue fever",
+    "DEET",
+    "mosquito repellent",
+    "DEET safety debate",
+    "natural mosquito repellents",
+    "citronella",
+    "soybean oil repellent",
+    "bug zappers",
+    "permethrin clothing",
+    "itch remedy",
+    "anticoagulant saliva",
+    "carbon dioxide mosquito detection",
+    "gin and tonic malaria",
+    "mosquito extinction",
+    "Stuff You Should Know listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Aedes aegypti",
+      "type": "other"
+    },
+    {
+      "name": "Anopheles",
+      "type": "other"
+    },
+    {
+      "name": "Culex",
+      "type": "other"
+    },
+    {
+      "name": "DEET",
+      "type": "other"
+    },
+    {
+      "name": "West Nile virus",
+      "type": "other"
+    },
+    {
+      "name": "malaria",
+      "type": "event"
+    },
+    {
+      "name": "yellow fever",
+      "type": "event"
+    },
+    {
+      "name": "dengue fever",
+      "type": "event"
+    },
+    {
+      "name": "permethrin",
+      "type": "other"
+    },
+    {
+      "name": "citronella",
+      "type": "other"
+    },
+    {
+      "name": "University of California Riverside",
+      "type": "organization"
+    },
+    {
+      "name": "American Allergy Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Department of Agriculture",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and mosquito hatred",
+      "summary": "Hosts plug the website and archives, then introduce mosquitoes as disliked insects that need blood and carry disease. Banter covers a joke about Josh being a mosquito magnet and the name of a skin oil.",
+      "topics": [
+        "mosquitoes",
+        "show introduction",
+        "mosquito disease vectors"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Name, history and fossil mosquitoes",
+      "summary": "The word mosquito is Spanish for little fly; its English use is traced to about 1583 with uncertain sourcing. Mosquitoes have existed about thirty million years, and a 46-million-year-old fossil mosquito with blood was found in amber.",
+      "topics": [
+        "mosquito etymology",
+        "mosquito fossils",
+        "mosquito evolution",
+        "blood in amber"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "How mosquitoes find people",
+      "summary": "Mosquitoes use chemical sensors to detect carbon dioxide and lactic acid from up to about a hundred feet away, plus visual cues from contrast and movement and heat sensing. Only females bite, since males feed on plant nectar.",
+      "topics": [
+        "carbon dioxide mosquito detection",
+        "mosquito senses",
+        "why mosquitoes bite",
+        "female mosquitoes bite"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Mosquito anatomy and species",
+      "summary": "The hosts describe the head, compound eyes, antennae, proboscis and palps, thorax with wings and legs, and abdomen. They then introduce the big three US species: Aedes (yellow fever and Asian tiger mosquitoes), Anopheles (malaria), and Culex (standing water, weak flyers, prefers birds).",
+      "topics": [
+        "mosquito anatomy",
+        "Aedes",
+        "Anopheles",
+        "Culex",
+        "Asian tiger mosquito",
+        "mosquito species"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Mosquito life cycle",
+      "summary": "Females lay eggs in water, often in rafts, and the larvae (wigglers) breathe through air tubes. They molt into pupae (tumblers) that then emerge as adults. Females need one blood meal per egg batch. Adults can survive winter in cool damp spots.",
+      "topics": [
+        "mosquito life cycle",
+        "mosquito larvae",
+        "mosquito pupae",
+        "mosquito eggs",
+        "blood meal and egg laying"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Bites, itching and the X-scratch remedy",
+      "summary": "Mosquito saliva contains an anticoagulant that keeps blood flowing, and the body's immune response causes the wheal and itch. A folk remedy of scratching an X into the bite is discussed, with a study by the American Allergy Institute reported as showing it works.",
+      "topics": [
+        "mosquito bite itch",
+        "anticoagulant saliva",
+        "wheal",
+        "itch remedy",
+        "scratch X bite"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Mosquito-borne diseases",
+      "summary": "Malaria is a parasite spread by Anopheles, with about a million deaths a year. Gin and tonic history is linked to quinine from cinchona bark and British navy use of limes against scurvy. Yellow fever has no cure and is found in South America and Africa. West Nile and other encephalitis viruses are discussed, along with dengue fever and eye worms. HIV is not spread by mosquitoes.",
+      "topics": [
+        "malaria",
+        "quinine and tonic water",
+        "yellow fever",
+        "West Nile virus",
+        "encephalitis",
+        "dengue fever",
+        "HIV and mosquitoes"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "DEET safety and repellent alternatives",
+      "summary": "DEET was developed by the U.S. Department of Agriculture for the Army and reached consumers in the 1950s. Concern grew after the 2002 Thailand study finding DEET in umbilical cords, and reports of seizures in children who licked it. Concentration limits were discussed. Alternatives include soybean oil, citronella, and compounds found by UC Riverside researchers such as Ethyl Pyra eight and cyclopentanone. Bug zappers and ultrasonic radio tricks are dismissed, and permethrin is for clothing only.",
+      "topics": [
+        "DEET",
+        "DEET safety",
+        "mosquito repellent alternatives",
+        "soybean oil",
+        "citronella",
+        "bug zappers",
+        "permethrin",
+        "ultrasonic mosquito repellent"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Would the world be better without mosquitoes",
+      "summary": "The hosts discuss a related article on what would happen if mosquitoes went extinct. Consensus is that ecosystems would likely adapt, with birds and mosquito fish affected, and they joke about removing mosquitoes.",
+      "topics": [
+        "mosquito extinction",
+        "mosquitoes in the food chain",
+        "ecology of mosquitoes"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:42:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: celebrity encounters",
+      "summary": "A listener shares that they met John Landis and others, linking them to deaths, and jokingly says they will limit celebrity interactions. The hosts read the email and mention Twitter, Facebook, email and website contact options.",
+      "topics": [
+        "listener mail",
+        "John Landis",
+        "Twilight Zone helicopter accident"
+      ]
+    },
+    {
+      "start": "00:42:30",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off and point listeners to howstuffworks.com for more on mosquitoes.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14403,
+    "output_tokens": 3016
+  }
+}

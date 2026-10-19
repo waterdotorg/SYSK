@@ -1,0 +1,274 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-07-03_How_Diabetes_Works_55min.txt",
+  "title": "How Diabetes Works",
+  "date": "2018-07-03",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-diabetes-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e1844d91-e006-4539-8448-ae28005fe587/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e1844d91-e006-4539-8448-ae28005fe587/transcript?format=TextWithTimestamps&t=1700543744",
+  "summary": "Josh and Chuck explain how diabetes works in the body. They cover statistics on rising type two diabetes, the simple sugar glucose and why cells need it, the pancreatic islets (beta cells making insulin and alpha cells making glucagon), and how the two hormones keep blood sugar in balance. They then describe the three types of diabetes (type one, type two, and gestational), their symptoms, and the physiological chain from insulin resistance to excess urination, thirst, thick blood, poor circulation, ketoacidosis, and hypoglycemia. The episode also covers prediabetes and reversibility (a small very-low-calorie diet study), common medications, glucose monitoring and apps, and pancreatic islet transplantation for type one. The episode ends with a listener mail segment correcting the Skyscraper episode about steel, iron, and foundations.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "diabetes",
+    "how diabetes works",
+    "type 1 diabetes",
+    "type 2 diabetes",
+    "gestational diabetes",
+    "prediabetes",
+    "insulin",
+    "glucagon",
+    "glucose",
+    "blood sugar",
+    "homeostasis",
+    "pancreatic islets",
+    "beta cells",
+    "alpha cells",
+    "insulin resistance",
+    "glycogen",
+    "gluconeogenesis",
+    "polyuria and thirst symptoms",
+    "diabetic ketoacidosis",
+    "hypoglycemia",
+    "insulin shock",
+    "reversing type 2 diabetes",
+    "very low calorie diet study",
+    "diabetes medication",
+    "blood glucose monitoring",
+    "pancreatic islet transplantation",
+    "diabetes symptoms"
+  ],
+  "entities": [
+    {
+      "name": "Type 1 diabetes",
+      "type": "other"
+    },
+    {
+      "name": "Type 2 diabetes",
+      "type": "other"
+    },
+    {
+      "name": "Gestational diabetes",
+      "type": "other"
+    },
+    {
+      "name": "Insulin",
+      "type": "other"
+    },
+    {
+      "name": "Glucagon",
+      "type": "other"
+    },
+    {
+      "name": "Glucose",
+      "type": "other"
+    },
+    {
+      "name": "Pancreatic islets",
+      "type": "other"
+    },
+    {
+      "name": "Pancreatic islet transplantation",
+      "type": "event"
+    },
+    {
+      "name": "American Diabetes Association",
+      "type": "organization"
+    },
+    {
+      "name": "Very low calorie diet study",
+      "type": "work"
+    },
+    {
+      "name": "Skyscraper podcast",
+      "type": "work"
+    },
+    {
+      "name": "Grant Hollis",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and tour dates",
+      "summary": "The hosts announce fall tour dates in Salt Lake City, Phoenix, and Melbourne, then complain about a dry How Stuff Works diabetes article and agree to make the topic fun.",
+      "topics": [
+        "tour dates",
+        "podcast intro",
+        "diabetes article"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Diabetes statistics and prevalence",
+      "summary": "The hosts cite rising type two diabetes rates, around 30 million Americans with diabetes, about 84 million with prediabetes, roughly 327 billion dollars in annual costs, about 400 million worldwide, and it as a leading cause of death in the US.",
+      "topics": [
+        "diabetes statistics",
+        "type 2 diabetes prevalence",
+        "prediabetes",
+        "diabetes cost",
+        "diabetes deaths"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Glucose as cell fuel and homeostasis",
+      "summary": "Simple sugars and glucose are explained as the body's primary cell energy, absorbed from food through the intestine. The body keeps blood glucose at a steady level, and some cells, including brain cells, rely on glucose alone.",
+      "topics": [
+        "glucose",
+        "simple sugar",
+        "simple carbohydrates",
+        "homeostasis",
+        "blood sugar regulation",
+        "brain energy"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Insulin and the pancreatic islets",
+      "summary": "Insulin is made by beta cells in the pancreatic islets when glucose rises after eating. It moves glucose into cells and directs liver and muscle cells to store glycogen and fat cells to store fat, and it also acts on amino acids and fatty acids. It also inhibits gluconeogenesis in the liver and kidneys.",
+      "topics": [
+        "insulin",
+        "beta cells",
+        "pancreatic islets",
+        "glycogen storage",
+        "gluconeogenesis",
+        "nutrient storage"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Glucagon and the opposite hormonal response",
+      "summary": "Glucagon, made by alpha cells in the pancreatic islets, does the opposite of insulin during fasting or sleep. It tells liver and muscle cells to break down glycogen and tells the liver and kidneys to make glucose, raising blood sugar back to normal.",
+      "topics": [
+        "glucagon",
+        "alpha cells",
+        "glycogen breakdown",
+        "fasting blood sugar",
+        "hormone balance"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Normal blood glucose levels and testing",
+      "summary": "The ideal blood glucose level is about 90 milligrams per deciliter, or 5 millimolar. Home glucose meters use a test strip with glucose oxidase that turns blue, and the shade is analyzed. The word diabetes is linked to sweet urine from ancient tasting tests.",
+      "topics": [
+        "blood glucose levels",
+        "glucose test strip",
+        "glucose oxidase",
+        "glucose meter",
+        "history of urine testing",
+        "diabetes name origin"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Off-topic tangent on TV writing",
+      "summary": "Chuck and Josh talk about Chuck's past spec script writing, including a seventies show Halloween episode and a Simpsons spec, and about moving to Los Angeles.",
+      "topics": [
+        "spec scripts",
+        "tangent",
+        "television writing"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Types of diabetes: type 1, type 2, gestational",
+      "summary": "Type one, about five to ten percent of cases, is autoimmune destruction of insulin-producing beta cells, possibly triggered by a virus, and is often called juvenile or insulin-dependent diabetes. Type two, the most common, involves cells that resist insulin and is linked to obesity, and it is sometimes called insulin resistant diabetes. Gestational diabetes occurs during pregnancy and can raise later type two risk.",
+      "topics": [
+        "type 1 diabetes",
+        "type 2 diabetes",
+        "gestational diabetes",
+        "autoimmune",
+        "insulin resistance",
+        "juvenile diabetes",
+        "type 1 vaccine research",
+        "misfolded proteins"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Diabetes symptoms",
+      "summary": "Symptoms include excessive thirst, frequent urination, constant hunger, unexplained weight loss, fatigue, blurred vision, numbness in hands and feet, slow-healing wounds, and frequent infections. The hosts note many symptoms overlap with ordinary life.",
+      "topics": [
+        "diabetes symptoms",
+        "polydipsia",
+        "polyuria",
+        "blurred vision",
+        "numb hands and feet",
+        "slow healing wounds"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "How high blood sugar causes symptoms",
+      "summary": "Glucose overloads the kidneys, causing frequent urination, dehydration, thirst, and thick blood. Thick blood leads to poor circulation, numbness, slow healing, infections, and gangrene. Ketoacidosis from fat breakdown can cause breath changes, heart and nervous system problems, and coma.",
+      "topics": [
+        "polyuria",
+        "kidney glucose overload",
+        "dehydration",
+        "thick blood",
+        "poor circulation",
+        "gangrene",
+        "diabetic ketoacidosis",
+        "ketosis"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Hypoglycemia and insulin shock",
+      "summary": "Too much insulin or insulin with too little food causes low blood sugar, leading to lightheadedness, shakiness, and in severe cases insulin shock and coma. Treatment includes juice or candy for quick sugar.",
+      "topics": [
+        "hypoglycemia",
+        "low blood sugar",
+        "insulin shock",
+        "diabetic coma",
+        "insulin dosing"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Reversibility, treatment, and islet transplantation",
+      "summary": "A small study of thirty people on a very low calorie diet found many had normal fasting glucose after eight weeks and some stayed there after six months. Management covers diet, exercise, testing, oral medications for type two, and pancreatic islet transplantation as an experimental type one treatment that faces tissue rejection.",
+      "topics": [
+        "reversing type 2 diabetes",
+        "very low calorie diet",
+        "diabetes medication",
+        "blood glucose monitoring apps",
+        "pancreatic islet transplantation",
+        "tissue rejection"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18398,
+    "output_tokens": 3279
+  }
+}

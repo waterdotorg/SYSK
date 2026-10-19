@@ -1,0 +1,237 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-06-06_What_is_perfect_pitch_43min.txt",
+  "title": "What is perfect pitch?",
+  "date": "2019-06-06",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-is-perfect-pitch",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a169cb32-041f-4616-a28f-ae28004b9914/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a169cb32-041f-4616-a28f-ae28004b9914/transcript?format=TextWithTimestamps&t=1700543695",
+  "summary": "Josh and Chuck explain perfect (absolute) pitch versus relative pitch: the ability to name or reproduce a musical note without a reference, and why it is a sliding scale rather than all-or-nothing. They cover the Western twelve-note scale, half and whole steps, sharps and flats, and major versus minor keys. They discuss the debate over whether perfect pitch helps musicians (Nicholas Slonimsky's autobiography, Tchaikovsky and Wagner lacking it), prevalence estimates (about 4 percent per a study Slonimsky cited), and the role of early musical training before age six, tone languages, autism, and genetics versus nurture. Also covered: the Shepard tone, Diana Deutsch's audio illusions, a theory that singing predated language, famous people said to have perfect pitch, and listener mail about postal carriers reporting deaths to government agencies.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "perfect pitch",
+    "absolute pitch",
+    "relative pitch",
+    "Western musical scale",
+    "half step whole step",
+    "sharps and flats",
+    "major and minor keys",
+    "tone deafness",
+    "Shepard tone",
+    "Diana Deutsch audio illusions",
+    "Nicholas Slonimsky",
+    "early musical training critical period",
+    "tone languages",
+    "perfect pitch and autism",
+    "nature versus nurture music",
+    "singing before language evolution",
+    "famous people with perfect pitch",
+    "Charlie Pooth",
+    "listener mail",
+    "postal service reporting deaths"
+  ],
+  "entities": [
+    {
+      "name": "Perfect pitch",
+      "type": "other"
+    },
+    {
+      "name": "Absolute pitch",
+      "type": "other"
+    },
+    {
+      "name": "Charlie Pooth",
+      "type": "person"
+    },
+    {
+      "name": "John Mayer",
+      "type": "person"
+    },
+    {
+      "name": "Nicholas Slonimsky",
+      "type": "person"
+    },
+    {
+      "name": "Diana Deutsch",
+      "type": "person"
+    },
+    {
+      "name": "Roger Shepard",
+      "type": "person"
+    },
+    {
+      "name": "Tchaikovsky",
+      "type": "person"
+    },
+    {
+      "name": "Wagner",
+      "type": "person"
+    },
+    {
+      "name": "Christopher Nolan",
+      "type": "person"
+    },
+    {
+      "name": "Michael Jackson",
+      "type": "person"
+    },
+    {
+      "name": "Mariah Carey",
+      "type": "person"
+    },
+    {
+      "name": "Ella Fitzgerald",
+      "type": "person"
+    },
+    {
+      "name": "Jimi Hendrix",
+      "type": "person"
+    },
+    {
+      "name": "Yanni",
+      "type": "person"
+    },
+    {
+      "name": "Billy Joel",
+      "type": "person"
+    },
+    {
+      "name": "Shepard tone",
+      "type": "work"
+    },
+    {
+      "name": "Western musical scale",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Charlie Pooth",
+      "summary": "Josh recounts testing his own pitch at home and mentions Charlie Pooth, a guest on John Mayer's Instagram show said to have near-perfect pitch. The hosts introduce perfect or absolute pitch as the ability to name or produce a note without a reference.",
+      "topics": [
+        "perfect pitch",
+        "absolute pitch",
+        "Charlie Pooth",
+        "John Mayer"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Absolute pitch versus relative pitch",
+      "summary": "The hosts discuss whether perfect pitch is useful, noting it is an asset for singers and bandmates. They contrast it with relative pitch, using a shower singing example and a choir that uses a pitch pipe or piano note as a starting reference.",
+      "topics": [
+        "relative pitch",
+        "pitch pipe",
+        "choir reference note",
+        "perfect pitch usefulness"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Pitch, frequency, and the Western scale",
+      "summary": "The hosts explain pitch as the frequency of a sound wave, the twelve-note Western scale, half and whole steps, sharps and flats, octaves, and major versus minor keys.",
+      "topics": [
+        "Western musical scale",
+        "half step whole step",
+        "sharps and flats",
+        "octaves",
+        "major and minor keys"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Perfect pitch as a sliding scale and the Shepard tone",
+      "summary": "Perfect pitch is described as a spectrum rather than a yes-or-no trait. Identifying the same note in different octaves is hard, which leads to the Shepard tone, an auditory illusion used in Christopher Nolan films, credited to Roger Shepard. Diana Deutsch's audio illusions are also recommended.",
+      "topics": [
+        "Shepard tone",
+        "Roger Shepard",
+        "Diana Deutsch audio illusions",
+        "octave identification"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Nicholas Slonimsky and whether perfect pitch helps",
+      "summary": "Composer Nicholas Slonimsky wrote in his autobiography that his perfect pitch made him complacent in music school until he started working harder. Tchaikovsky and Wagner, who lacked perfect pitch, were still master composers. Prevalence estimates are discussed, with a figure of about four percent of the population.",
+      "topics": [
+        "Nicholas Slonimsky",
+        "perfect pitch prevalence",
+        "Tchaikovsky",
+        "Wagner",
+        "perfect pitch usefulness for composers"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Causes: training, tone languages, autism",
+      "summary": "Early musical training before about age six, speaking a tone language such as Mandarin or Cantonese, and autism are linked to higher rates of perfect pitch. Two theories for the autism link are mentioned: piecemeal processing and more developed sensory input. Synesthesia and Billy Joel are briefly mentioned.",
+      "topics": [
+        "critical period for music training",
+        "tone languages",
+        "perfect pitch and autism",
+        "synesthesia",
+        "Billy Joel"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Nature versus nurture and genetics",
+      "summary": "The hosts discuss whether perfect pitch is genetic or learned, noting families like the Wainwrights and the hosts' own family experiences. The consensus is that it is likely both a genetic propensity and environmental exposure, with some learning possible later in life, including mention of valproate and second-language fluency.",
+      "topics": [
+        "nature versus nurture",
+        "genetics of perfect pitch",
+        "valproate neural plasticity",
+        "second language fluency"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Singing before language and famous perfect-pitch figures",
+      "summary": "The hosts consider the theory that singing or tonal communication predated language. They then list people said to have perfect pitch, including Michael Jackson, Mariah Carey, Ella Fitzgerald, Bing Crosby, Florence Henderson, Mozart, Beethoven, Paul Shaffer, Jimi Hendrix, and Yanni.",
+      "topics": [
+        "evolution of music and language",
+        "famous people with perfect pitch",
+        "Jimi Hendrix",
+        "Ella Fitzgerald",
+        "Mozart"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: postal carriers reporting deaths",
+      "summary": "A listener who is a New Rochelle mail carrier confirms that postal workers can be asked by government agencies such as the IRS or Social Security to locate people, and can report a death. Also a shout-out to a listener's Etsy shop that donates to the David Sheldrick Wildlife Trust.",
+      "topics": [
+        "postal service reporting deaths",
+        "listener mail",
+        "IRS and Social Security",
+        "David Sheldrick Wildlife Trust"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14040,
+    "output_tokens": 2795
+  }
+}

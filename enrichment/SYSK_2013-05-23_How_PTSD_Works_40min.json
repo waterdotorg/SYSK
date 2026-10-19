@@ -1,0 +1,233 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-05-23_How_PTSD_Works_40min.txt",
+  "title": "How PTSD Works",
+  "date": "2013-05-23",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ptsd-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/82633966-b6a2-40e4-8c58-ae2800a02d5c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/82633966-b6a2-40e4-8c58-ae2800a02d5c/transcript?format=TextWithTimestamps&t=1700543900",
+  "summary": "Josh and Chuck explain PTSD (post-traumatic stress disorder), tracing its history from \"soldier's heart\" in the Civil War (Jacob Mendes Da Costa) through \"shell shock\" in World War One (Charles Myers) to the modern diagnosis around 1980. They cover the four symptom clusters (re-experiencing, avoidance, numbing, hyperarousal), acute, chronic and delayed-onset types, child presentation, risk and protective factors (prior trauma, glucocorticoids, cortisol, personality/optimism, education, sex differences, serotonin transporter gene, epigenetics, social support), mild traumatic brain injury in the Iraq War, and treatments (cognitive processing therapy, exposure therapy, SSRIs such as Zoloft and Paxil, D-cycloserine, beta blockers, propranolol, hydrocortisone, stellate ganglion block, transcranial magnetic stimulation, Army resilience training). Credits Will Sovey for updating the article. Ends with listener mail about a Dungeons and Dragons story and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "PTSD",
+    "post-traumatic stress disorder",
+    "shell shock",
+    "soldier's heart",
+    "history of PTSD",
+    "PTSD symptoms",
+    "re-experiencing trauma",
+    "hyperarousal",
+    "PTSD risk factors",
+    "PTSD treatment",
+    "cognitive processing therapy",
+    "exposure therapy",
+    "SSRIs PTSD",
+    "cortisol and memory",
+    "epigenetics PTSD",
+    "mild traumatic brain injury",
+    "veterans PTSD",
+    "PTSD awareness month",
+    "resilience training",
+    "military mental health"
+  ],
+  "entities": [
+    {
+      "name": "PTSD",
+      "type": "other"
+    },
+    {
+      "name": "Will Sovey",
+      "type": "person"
+    },
+    {
+      "name": "Jacob Mendes Da Costa",
+      "type": "person"
+    },
+    {
+      "name": "Charles Myers",
+      "type": "person"
+    },
+    {
+      "name": "Walter Reed Hospital",
+      "type": "organization"
+    },
+    {
+      "name": "Veterans Affairs",
+      "type": "organization"
+    },
+    {
+      "name": "Zoloft",
+      "type": "other"
+    },
+    {
+      "name": "Paxil",
+      "type": "other"
+    },
+    {
+      "name": "D-cycloserine",
+      "type": "other"
+    },
+    {
+      "name": "Iroquois",
+      "type": "organization"
+    },
+    {
+      "name": "Army resilience training",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Introduction and thanks to Will Sovey",
+      "summary": "Hosts introduce the episode, thank clinician Will Sovey for annotating and updating the outdated PTSD article, and note that June is PTSD Awareness Month.",
+      "topics": [
+        "PTSD awareness month",
+        "Will Sovey",
+        "stuff you should know PTSD episode"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "History: soldier's heart, shell shock, and modern PTSD",
+      "summary": "Early names for PTSD: Da Costa's soldier's heart after the Civil War, Charles Myers' shell shock in World War One (linked to mild traumatic brain injury), and the modern diagnosis around 1980 after Vietnam-era studies.",
+      "topics": [
+        "soldier's heart",
+        "shell shock",
+        "history of PTSD",
+        "Jacob Mendes Da Costa",
+        "Charles Myers",
+        "mild traumatic brain injury"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "What counts as trauma and PTSD diagnosis criteria",
+      "summary": "PTSD is a set of symptoms following trauma, which can be direct or indirect. Diagnosis requires symptoms lasting a certain period, with re-experiencing as the cornerstone. Excessive retrieval, nightmares and flashbacks are described.",
+      "topics": [
+        "PTSD diagnosis",
+        "trauma",
+        "re-experiencing",
+        "excessive retrieval",
+        "flashbacks",
+        "nightmares"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "The four symptom clusters",
+      "summary": "The four symptom clusters are re-experiencing, avoidance, numbing with alcohol and drug use, and hyperarousal such as jumpiness, insomnia and constant guard. The hosts note the health toll of prolonged stress.",
+      "topics": [
+        "avoidance",
+        "numbing",
+        "hyperarousal",
+        "fight or flight",
+        "PTSD symptoms",
+        "substance abuse and PTSD"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Acute, chronic, and delayed-onset PTSD; PTSD in children",
+      "summary": "Acute PTSD lasts about three months, chronic lasts longer, and delayed onset appears at least six months after the trauma. Children can show PTSD through behavior and play.",
+      "topics": [
+        "acute PTSD",
+        "chronic PTSD",
+        "delayed onset PTSD",
+        "children PTSD"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Risk and protective factors",
+      "summary": "Prior trauma, depleted glucocorticoids, personality traits like optimism and tackling problems head on, college education, and social support affect PTSD risk. Women are reported less likely than men, citing the Vietnam study figures.",
+      "topics": [
+        "PTSD risk factors",
+        "protective factors",
+        "optimism",
+        "glucocorticoids",
+        "social support",
+        "gender differences PTSD"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Genetics, epigenetics, and cortisol research",
+      "summary": "Research on the serotonin transporter gene and epigenetic changes, including a Detroit study of 100 people with PTSD showing more epigenetic changes, and a 2008 hydrocortisone study with soldiers.",
+      "topics": [
+        "serotonin transporter gene",
+        "epigenetics",
+        "cortisol",
+        "hydrocortisone",
+        "Detroit study"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Iraq War, roadside bombs, and brain injury",
+      "summary": "Head injuries from IEDs in the Iraq War are discussed as a major factor, as improved treatment saves lives but leaves brain changes. Guerrilla warfare is described as a PTSD risk.",
+      "topics": [
+        "Iraq War",
+        "IED",
+        "traumatic brain injury",
+        "guerrilla warfare",
+        "military PTSD"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "PTSD treatments: therapy, medication, and experimental approaches",
+      "summary": "Cognitive processing therapy, exposure therapy, SSRIs Zoloft and Paxil (the only FDA-approved PTSD drugs), D-cycloserine, beta blockers, stellate ganglion block, MDMA, and transcranial magnetic stimulation are discussed, along with the Army's resilience training and historical Iroquois post-war practices.",
+      "topics": [
+        "cognitive processing therapy",
+        "exposure therapy",
+        "Zoloft",
+        "Paxil",
+        "D-cycloserine",
+        "beta blockers",
+        "stellate ganglion block",
+        "MDMA",
+        "transcranial magnetic stimulation",
+        "Army resilience training",
+        "Iroquois"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: D&D story from Christina",
+      "summary": "Listener Christina from Cleveland shares a story of her parents' and uncles' 1980s Dungeons and Dragons sessions recorded on tape. Hosts respond and give contact info.",
+      "topics": [
+        "listener mail",
+        "Dungeons and Dragons",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13376,
+    "output_tokens": 2777
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-08-01_How_Fingerprinting_Works_35min.txt",
+  "title": "How Fingerprinting Works",
+  "date": "2013-08-01",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-fingerprinting-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b2595008-aa77-4090-98d2-ae28009ec524/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b2595008-aa77-4090-98d2-ae28009ec524/transcript?format=TextWithTimestamps&t=1700543898",
+  "summary": "Josh and Chuck explain how fingerprints form in the womb (friction ridges buckling as the basal skin layer grows), their uniqueness and the odds of matches, the loop/whorl/arch classification and minutiae, how rolled and flat prints and optical scanners work, latent versus visible prints and dusting, criticisms of fingerprint evidence as subjective, the history from Babylon and China through Herschel, Faulds, Galton, Bertillon, Juan Vucetich, Edward Henry, Scotland Yard, to AFIS and IAFIS, other biometrics (iris, retina, ears, voice, DNA swabs after a Supreme Court ruling), and a listener-mail plea for donations to a cancer charity bike ride.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "fingerprinting",
+    "fingerprints",
+    "fingerprint history",
+    "friction ridges",
+    "fingerprint classification",
+    "Henry classification system",
+    "minutiae",
+    "latent prints",
+    "rolled prints",
+    "optical fingerprint scanner",
+    "AFIS",
+    "IAFIS",
+    "biometrics",
+    "dactyloscopy",
+    "anthropometry",
+    "fingerprint evidence reliability",
+    "DNA swab arrest ruling",
+    "iris scan",
+    "retina scan",
+    "voice print analysis",
+    "fetal fingerprint development",
+    "fingerprint databases",
+    "biometric car ignition",
+    "Galton fingerprint classification",
+    "cancer charity bike ride listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Sir Francis Galton",
+      "type": "person"
+    },
+    {
+      "name": "Sir William Herschel",
+      "type": "person"
+    },
+    {
+      "name": "Henry Faulds",
+      "type": "person"
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Alphonse Bertillon",
+      "type": "person"
+    },
+    {
+      "name": "Juan Vucetich",
+      "type": "person"
+    },
+    {
+      "name": "Sir Edward Henry",
+      "type": "person"
+    },
+    {
+      "name": "Scotland Yard",
+      "type": "organization"
+    },
+    {
+      "name": "FBI",
+      "type": "organization"
+    },
+    {
+      "name": "Automated Fingerprint Identification System (AFIS)",
+      "type": "other"
+    },
+    {
+      "name": "Integrated Automated Fingerprint Identification System (IAFIS)",
+      "type": "other"
+    },
+    {
+      "name": "Federal Bureau of Investigation audio lab in Quantico, Virginia",
+      "type": "place"
+    },
+    {
+      "name": "Hooghly District, India",
+      "type": "place"
+    },
+    {
+      "name": "Buenos Aires",
+      "type": "place"
+    },
+    {
+      "name": "Whitney Bramlin",
+      "type": "person"
+    },
+    {
+      "name": "Pelotonia",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and fetal fingerprint formation",
+      "summary": "Hosts open with casual banter, then Josh explains how fingerprints form in the womb: the basal skin layer buckles under pressure from growth, creating ridge patterns that persist for life beneath the epidermis.",
+      "topics": [
+        "fetal fingerprint development",
+        "friction ridges",
+        "basal layer",
+        "fingerprints permanence"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Uniqueness of fingerprints and classification patterns",
+      "summary": "Discussion of fingerprint uniqueness, Galton's one in sixty-four billion estimate, and comparison with DNA and twins. The loop, whorl and arch patterns are described, along with minutiae such as spurs, bifurcations, islands and deltas.",
+      "topics": [
+        "fingerprint uniqueness",
+        "Galton odds",
+        "loops whorls arches",
+        "minutiae",
+        "dermatoglyphics"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Why fingerprints are used and fingerprint databases",
+      "summary": "Fingerprints are favored as a biometric over toe prints; about one in six people have prints on record through job applications, child ID programs and other sources. Mention of fingerprint-based phone and car authentication and the risk of finger-cutting.",
+      "topics": [
+        "biometric authentication",
+        "fingerprint databases",
+        "toe prints",
+        "fingerprint car ignition",
+        "iPhone fingerprint rumor"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Taking prints: rolled, flat and optical scanning",
+      "summary": "Explanation of the traditional ink process for rolled and flat prints and modern optical scanners, which produce an inverted image.",
+      "topics": [
+        "rolled fingerprint",
+        "flat prints",
+        "optical scanner",
+        "fingerprint card",
+        "ink fingerprinting"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Visible and latent prints and fingerprint dusting",
+      "summary": "Visible prints left in substances like blood or clay versus latent prints made by sweat and oils, which are dusted with powder and lifted. Discussion of wiping prints and dusting powder composition.",
+      "topics": [
+        "latent prints",
+        "visible prints",
+        "fingerprint dusting powder",
+        "lifting prints",
+        "wiping fingerprints"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Criticism of fingerprint evidence reliability",
+      "summary": "Discussion of a paper arguing fingerprint analysis is subjective compared with DNA, that latent prints are poor quality, that rolled prints vary, and that public faith in prints may have led to wrongful convictions.",
+      "topics": [
+        "fingerprint evidence reliability",
+        "subjective fingerprint analysis",
+        "wrongful convictions",
+        "DNA versus fingerprints"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "History of fingerprinting from Babylon to Galton",
+      "summary": "Early uses of fingerprints in Babylonian clay and Chinese ink records. Nineteenth-century developments: William Herschel's use in India, Henry Faulds' pottery observations, Darwin's cousin Francis Galton's classification book, and Bertillon's anthropometry in Paris.",
+      "topics": [
+        "fingerprint history",
+        "Babylon clay fingerprints",
+        "William Herschel",
+        "Henry Faulds",
+        "Francis Galton",
+        "Bertillon system"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "First criminal convictions, Henry system, and automation",
+      "summary": "Juan Vucetich's Argentine case where prints convicted a mother, Edward Henry's classification system and Scotland Yard's bureau, and the move to computerized systems including Japan's APIS, the US systems, and the FBI's integrated database.",
+      "topics": [
+        "Juan Vucetich Argentina case",
+        "Henry classification system",
+        "Scotland Yard fingerprint bureau",
+        "AFIS",
+        "IAFIS",
+        "fingerprint database automation"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:34:30",
+      "kind": "content",
+      "title": "Other biometrics and DNA swab ruling",
+      "summary": "Brief overview of iris, retina, ear and voice biometrics, the FBI audio lab, and a Supreme Court ruling allowing DNA swabs at arrest for serious crimes.",
+      "topics": [
+        "iris scan",
+        "retina scan",
+        "ear recognition",
+        "voice print",
+        "DNA swab at arrest",
+        "Supreme Court DNA ruling"
+      ]
+    },
+    {
+      "start": "00:34:30",
+      "end": "00:35:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: charity bike ride",
+      "summary": "A listener asks the hosts to promote Whitney Bramlin's Pelotonia bike ride fundraiser for cancer research at the James Cancer Center in memory of her grandmother.",
+      "topics": [
+        "charity fundraiser",
+        "Pelotonia",
+        "cancer research"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:35:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and invite listeners to find more on the topic and contact the show.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11922,
+    "output_tokens": 2874
+  }
+}

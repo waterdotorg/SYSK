@@ -1,0 +1,235 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-05-01_How_did_language_evolve_28min.txt",
+  "title": "How did language evolve?",
+  "date": "2012-05-01",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-did-language-evolve",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1527ab71-580b-4ba3-a308-ae2800a89dc7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1527ab71-580b-4ba3-a308-ae2800a89dc7/transcript?format=TextWithTimestamps&t=1700543921",
+  "summary": "Josh and Chuck discuss how human language evolved, opening with a story about MIT linguist Noam Chomsky's colleague who recorded his son's language acquisition, then comparing animal communication and the lack of fossil evidence for language. They lay out two competing theories: Pinker and Bloom's gradual adaptation through natural selection (with the Took and Morty hunting example), and Chomsky and Stephen Jay Gould's view that language was a spandrel or exaptation arising from toolmaking and brain changes. They cover Broca's area and Wernicke's area (Tan the patient, Homo habilis and early stone tools), the time-frame debate (chimps and humans diverging six million years ago), neural plasticity and mirror neurons, Chomsky's universal grammar and recursion, and the Pirahã people as a challenge to it. The episode ends with listener mail about a listener who avoided being hit by a car thanks to the show and moved to Finland after listening to the Sauna and Viking podcasts.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "language evolution",
+    "origin of language",
+    "evolution of human language",
+    "Pinker and Bloom",
+    "natural selection and language",
+    "Noam Chomsky",
+    "universal grammar",
+    "recursion",
+    "Stephen Jay Gould",
+    "spandrel",
+    "exaptation",
+    "pre-adaptation",
+    "Broca's area",
+    "Wernicke's area",
+    "Tan patient Broca",
+    "Homo habilis",
+    "proto language",
+    "cranial endocast",
+    "Pirahã language",
+    "animal communication",
+    "mirror neurons",
+    "neural plasticity",
+    "stone tools and language",
+    "MIT linguistics",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Noam Chomsky",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Jay Gould",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Pinker",
+      "type": "person"
+    },
+    {
+      "name": "Bloom",
+      "type": "person"
+    },
+    {
+      "name": "Paul Broca",
+      "type": "person"
+    },
+    {
+      "name": "Carl Wernicke",
+      "type": "person"
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Ringo Starr",
+      "type": "person"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "type": "organization"
+    },
+    {
+      "name": "Pirahã",
+      "type": "other"
+    },
+    {
+      "name": "Homo habilis",
+      "type": "other"
+    },
+    {
+      "name": "Caveman",
+      "type": "work"
+    },
+    {
+      "name": "Quest for Fire",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and MIT child language study",
+      "summary": "Josh and Chuck open with chair banter, then discuss MIT researcher who recorded about 90,000 hours of his son's early years to study language acquisition.",
+      "topics": [
+        "language acquisition",
+        "MIT linguistics",
+        "child language development"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Animal communication and lack of evidence",
+      "summary": "The hosts note animals communicate but not in true language, and that fossil evidence for language evolution is scarce; they discuss cranial endocasts and the vocal tract timing of modern speech sounds, and proto-language ideas.",
+      "topics": [
+        "animal communication",
+        "fossil evidence language",
+        "cranial endocast",
+        "proto language",
+        "vocal tract evolution"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Adaptation theory: Took, Morty and natural selection",
+      "summary": "Chuck explains the adaptation view that language evolved because it helped early humans survive, using a hunting story about Took and his friend Morty, and the role of settled village life and warning others.",
+      "topics": [
+        "adaptation theory",
+        "natural selection",
+        "Pinker and Bloom",
+        "evolution of speech",
+        "survival and communication"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Movies Quest for Fire and Caveman",
+      "summary": "A brief digression on prehistoric life in the films Quest for Fire and Caveman, including a Ringo Starr caption joke.",
+      "topics": [
+        "Quest for Fire",
+        "Caveman film",
+        "Ringo Starr",
+        "prehistoric films"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Spandrels and exaptation: Gould and Chomsky",
+      "summary": "The competing view from Stephen Jay Gould and Chomsky: language as a spandrel or exaptation that arose as a byproduct, specifically of toolmaking, with the architectural spandrel and feathers examples.",
+      "topics": [
+        "spandrel",
+        "exaptation",
+        "Stephen Jay Gould",
+        "Noam Chomsky",
+        "byproduct evolution"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Broca's area, Wernicke's area and Homo habilis",
+      "summary": "Discussion of brain areas linked to speech: Broca's area named after Paul Broca and the patient Tan, and the area associated with comprehension named after a German neurosurgeon. Links to Homo habilis, early stone tools, and cranial endocasts.",
+      "topics": [
+        "Broca's area",
+        "Wernicke's area",
+        "Tan patient",
+        "Homo habilis",
+        "brain lesions and speech",
+        "stone tools"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Time frame debate and gradual versus sudden emergence",
+      "summary": "The hosts compare the gradual Pinker and Bloom timeline (about 300,000 generations since chimp-human divergence) with Gould's view that there was not enough time, and Pinker's high rax analogy.",
+      "topics": [
+        "chimpanzee human divergence",
+        "gradual language evolution",
+        "timeline debate",
+        "Pinker high rax analogy"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Universal grammar, recursion and the Pirahã challenge",
+      "summary": "Chomsky's universal grammar and recursion are described, along with the claim by a linguist that the Amazonian Pirahã language lacks recursion, and brain plasticity and mirror neuron evidence.",
+      "topics": [
+        "universal grammar",
+        "recursion",
+        "Pirahã",
+        "neural plasticity",
+        "mirror neurons",
+        "Chomsky theory challenge"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: saved from a car and moved to Finland",
+      "summary": "A listener writes that the show saved him from being hit by a car while walking his dog while listening with headphones, and that the Sauna and Viking podcasts inspired him to become an exchange student in Finland.",
+      "topics": [
+        "listener mail",
+        "Sauna podcast",
+        "Viking podcast",
+        "Finland"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:00",
+      "kind": "outro",
+      "title": "Outro and contact info",
+      "summary": "Hosts give contact information for listener feedback and promote the Stuff from the Future video podcast.",
+      "topics": [
+        "show contact",
+        "Stuff from the Future"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9490,
+    "output_tokens": 2543
+  }
+}

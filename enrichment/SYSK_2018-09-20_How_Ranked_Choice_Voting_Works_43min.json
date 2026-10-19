@@ -1,0 +1,270 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-09-20_How_Ranked_Choice_Voting_Works_43min.txt",
+  "title": "How Ranked Choice Voting Works",
+  "date": "2018-09-20",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ranked-choice-voting-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5bd44fe0-5e2e-4350-b13d-ae28005c349d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5bd44fe0-5e2e-4350-b13d-ae28005c349d/transcript?format=TextWithTimestamps&t=1700543726",
+  "summary": "Josh and Chuck open with banter about a recent trip to Australia and New Zealand, then turn to ranked choice voting (also called instant runoff voting). They explain how ballots are ranked and tallied in rounds, contrast it with plurality winner-take-all voting, and cover the 2000 Florida recount and Ralph Nader spoiler debate, Maine's 2018 adoption and governor's veto, the history of ranked choice voting in New York City in the 1930s and Burlington, Vermont, Oakland's 2010 mayoral race, ballot exhaustion, and criticisms about cost and complexity. The episode closes with a listener email from a retired NYPD detective about double-blind lineups and witness testimony.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ranked choice voting",
+    "instant runoff voting",
+    "plurality voting",
+    "winner takes all elections",
+    "electoral college",
+    "spoiler effect",
+    "Ralph Nader",
+    "2000 Florida election",
+    "Maine ranked choice voting",
+    "Paul LePage veto",
+    "Australia elections",
+    "Burlington Vermont ranked choice voting",
+    "New York City 1937 city council election",
+    "Oakland mayoral election 2010",
+    "ballot exhaustion",
+    "voter turnout",
+    "polarization",
+    "third party candidates",
+    "election cost",
+    "double-blind lineups",
+    "eyewitness identification",
+    "Robert's Rules of Order"
+  ],
+  "entities": [
+    {
+      "name": "Ranked choice voting",
+      "type": "other"
+    },
+    {
+      "name": "Ralph Nader",
+      "type": "person"
+    },
+    {
+      "name": "George W. Bush",
+      "type": "person"
+    },
+    {
+      "name": "Al Gore",
+      "type": "person"
+    },
+    {
+      "name": "Paul LePage",
+      "type": "person"
+    },
+    {
+      "name": "Jane Kim",
+      "type": "person"
+    },
+    {
+      "name": "Don Perata",
+      "type": "person"
+    },
+    {
+      "name": "Maine",
+      "type": "place"
+    },
+    {
+      "name": "Oakland, California",
+      "type": "place"
+    },
+    {
+      "name": "Burlington, Vermont",
+      "type": "place"
+    },
+    {
+      "name": "New York City",
+      "type": "place"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Robert's Rules of Order",
+      "type": "work"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "person"
+    },
+    {
+      "name": "Ted Cruz",
+      "type": "person"
+    },
+    {
+      "name": "Leonid Bershidsky",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Australia trip",
+      "summary": "Josh and Chuck chat about movies, sports, and their recent ten-flight trip to Australia and New Zealand, including Melbourne, Sydney, and the Mornington Peninsula.",
+      "topics": [
+        "Australia trip",
+        "New Zealand",
+        "casual banter"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Australia as a ranked choice voting user",
+      "summary": "Josh notes Australia, Malta, and Ireland use ranked choice voting, and says the system has roots tied to Robert's Rules of Order. He transitions into the US context.",
+      "topics": [
+        "ranked choice voting Australia",
+        "Malta",
+        "Ireland",
+        "Robert's Rules of Order"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "2000 election and the spoiler problem",
+      "summary": "Josh recounts the 2000 presidential election, the Florida margin between Bush and Gore, and the popular vote versus electoral college split. The hosts discuss Ralph Nader being blamed as a spoiler, and how plurality voting can hand an election to a least-favored candidate.",
+      "topics": [
+        "2000 presidential election",
+        "Florida recount",
+        "electoral college",
+        "spoiler effect",
+        "Ralph Nader",
+        "plurality voting"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "How ranked choice voting works",
+      "summary": "The hosts explain ranking candidates on a ballot, and that if no candidate has a majority, the last-place candidate is eliminated and their votes redistributed to next choices in successive rounds, also called instant runoff voting.",
+      "topics": [
+        "ranked choice voting mechanics",
+        "instant runoff voting",
+        "majority winner",
+        "ballot tabulation"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:24:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A short break for sponsor messages before the show continues.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Polarization, centrism, and incentives",
+      "summary": "The hosts argue that winner-take-all elections encourage polarizing campaigns, while ranked choice voting rewards candidates for appealing to a broad base. They note a Kansas primary decided by under 200 votes and discuss whether centrist politicians would be favored and the ideological split of voters.",
+      "topics": [
+        "polarization",
+        "centrist candidates",
+        "incentives in campaigns",
+        "Kansas gubernatorial primary"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Maine's adoption and governor's veto",
+      "summary": "Maine's record of governors elected with under 50 percent is discussed, along with Governor Paul LePage's veto of a ranked choice voting bill, his stated cost and process objections, and the earlier voter referendum that approved keeping the system. The hosts also mention higher turnout and a University of Missouri study.",
+      "topics": [
+        "Maine ranked choice voting",
+        "Paul LePage veto",
+        "voter turnout",
+        "ballot referendum",
+        "election cost",
+        "University of Missouri study"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Ranked choice voting history: New York and Burlington",
+      "summary": "The hosts describe earlier American use of ranked choice voting in New York, where a 1937 city council election elected a Communist, followed by repeal. They also cover Burlington, Vermont, where the system was repealed after a mayoral scandal.",
+      "topics": [
+        "New York City 1937 council election",
+        "Burlington Vermont repeal",
+        "ranked choice voting history",
+        "repeal"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Oakland 2010, ballot exhaustion, and criticisms",
+      "summary": "The hosts discuss Oakland's 2010 mayoral race, where Jane Kim won after rounds of redistribution despite trailing in first-choice votes, and San Francisco's top-three ranking. They cover ballot exhaustion rates from a 2015 study and the debate over whether ranking every candidate is better.",
+      "topics": [
+        "Oakland mayoral election 2010",
+        "Jane Kim",
+        "Don Perata",
+        "ballot exhaustion",
+        "San Francisco ranked choice voting"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Trump, primaries, and wrap-up",
+      "summary": "The hosts speculate how a ranked choice primary in 2016 might have changed the Republican field, referencing a Bloomberg View column, and conclude that the system is worth trying while urging listeners to learn more.",
+      "topics": [
+        "2016 Republican primary",
+        "Donald Trump",
+        "centrist candidates",
+        "ranked choice voting debate"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:03:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: retired NYPD detective on lineups",
+      "summary": "A retired NYPD detective writes about double-blind lineups, photo arrays being inadmissible as trial evidence in New York, defense lawyers' role at lineups, and the limited value of witness testimony compared to other evidence.",
+      "topics": [
+        "double-blind lineups",
+        "photo arrays",
+        "eyewitness testimony",
+        "NYPD",
+        "police investigations"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:04:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck thank listeners, invite contact through social media and email, and sign off.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14144,
+    "output_tokens": 2908
+  }
+}

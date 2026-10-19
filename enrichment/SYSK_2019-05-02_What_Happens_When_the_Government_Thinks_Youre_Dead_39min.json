@@ -1,0 +1,233 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-05-02_What_Happens_When_the_Government_Thinks_Youre_Dead_39min.txt",
+  "title": "What Happens When the Government Thinks You're Dead?",
+  "date": "2019-05-02",
+  "duration": "39 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-happens-when-the-government-thinks-youre-dead",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6d7cb0d0-694f-4aa6-83c5-ae28004dc0fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6d7cb0d0-694f-4aa6-83c5-ae28004dc0fb/transcript?format=TextWithTimestamps&t=1700543697",
+  "summary": "Josh and Chuck explain the Social Security Death Master File: how Social Security numbers were created (1936) and expanded beyond earnings tracking, how deceased people's numbers are retired, how the death file became public after a 1980 Freedom of Information Act lawsuit, and why businesses use it to screen for fraud. They cover the high error rate (tens of thousands wrongly listed as dead, millions of dead people missing), causes of errors (clerical mistakes, the default-to-the-fifteenth policy, a tax-return click), the harm to people wrongly listed (frozen bank accounts, Judy Rivers living in her car), the lack of notification and enforcement, and the 2017 Equifax/TransUnion-era breach context. They also cover India's \"killing people on paper\" land fraud and Lal Bahadur's seventeen-year fight to be declared alive, with his Uttar Pradesh Dead People's Association. Steps to fix a wrong listing include visiting a local Social Security office with ID. The episode ends with a listener mail follow-up on hospital sexual assault billing programs (rape kits episode) and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Social Security number",
+    "Death Master File",
+    "Social Security Death Index",
+    "wrongly listed as dead",
+    "identity theft",
+    "identity fraud",
+    "Social Security Administration",
+    "death record errors",
+    "bureaucracy",
+    "Freedom of Information Act lawsuit",
+    "credit report monitoring",
+    "Judy Rivers",
+    "Lal Bahadur",
+    "Uttar Pradesh Dead People's Association",
+    "killing people on paper India",
+    "land fraud",
+    "Ig Nobel",
+    "data breach",
+    "Social Security number privacy",
+    "rape kit billing follow-up listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Social Security Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Death Master File",
+      "type": "work"
+    },
+    {
+      "name": "National Technical Information Service",
+      "type": "organization"
+    },
+    {
+      "name": "Scripps Howard News Service",
+      "type": "organization"
+    },
+    {
+      "name": "Judy Rivers",
+      "type": "person"
+    },
+    {
+      "name": "Lal Bahadur",
+      "type": "person"
+    },
+    {
+      "name": "Uttar Pradesh Dead People's Association",
+      "type": "organization"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "type": "place"
+    },
+    {
+      "name": "Candice Atkins",
+      "type": "person"
+    },
+    {
+      "name": "Brazil",
+      "type": "work"
+    },
+    {
+      "name": "TransUnion",
+      "type": "organization"
+    },
+    {
+      "name": "Ancestry.com",
+      "type": "organization"
+    },
+    {
+      "name": "Ig Nobel Prize",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Social Security number refresher",
+      "summary": "Hosts open with off-topic banter, then recall a past Social Security number episode and explain that SSNs began in 1936 to track lifetime earnings, later spreading to passports and bank accounts and becoming an identifier. They discuss privacy annoyances and Josh's recent trip to a Social Security office.",
+      "topics": [
+        "Social Security number",
+        "Social Security Administration",
+        "identity privacy",
+        "Brazil film reference"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "What the Death Master File is and why it exists",
+      "summary": "The hosts introduce the Death Master File, also called the Social Security Death Index, explaining that a dead person's SSN is retired and the file was created in 1936. A 1980 Freedom of Information Act lawsuit made it public. Reports come from funeral homes, hospitals, family, and others. The file's purpose is to stop benefit payments, tax refund fraud, and fraudulent accounts.",
+      "topics": [
+        "Death Master File",
+        "Social Security Death Index",
+        "Freedom of Information Act lawsuit",
+        "death reporting",
+        "fraud prevention"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Who uses the file and the error rate",
+      "summary": "Businesses such as banks, insurers, car dealers, cable companies and employers check applicants against the public file. Roughly 2.7 million Americans die each year. A 2011 Scripps Howard investigation found about 32,000 living people listed as dead, and a Social Security inspector general report in 2008 cited tens of thousands of errors with about 99.5 percent accuracy.",
+      "topics": [
+        "Death Master File errors",
+        "background checks",
+        "Scripps Howard investigation",
+        "inspector general",
+        "error rate"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Causes of errors, distribution, and the fifteenth-of-the-month default",
+      "summary": "The hosts cover how the file is distributed through the National Technical Information Service and genealogy sites, and the requirement to keep copies updated. Causes include clerical mistakes and family members misreporting. Examples include a 2007 default to the fifteenth of the month affecting over two million Americans, and Candice Atkins clicking deceased on an electronic tax return. Some dead people are still listed alive, enabling fraud of about three billion dollars in income reported in 2006 to 2011.",
+      "topics": [
+        "Death Master File distribution",
+        "clerical error",
+        "fraudulent tax refunds",
+        "identity fraud",
+        "Candice Atkins",
+        "default date error"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Harm to people wrongly listed as dead",
+      "summary": "Wrongly listed people lose access to bank accounts, credit, insurance, Medicaid and disability payments, and jobs. Judy Rivers was frozen out of her accounts and lived out of her car for months, and the hosts describe how hard it is to reverse the listing, which may take most of a year. The Social Security Administration does not notify affected people and is not required to enforce list updates.",
+      "topics": [
+        "wrongly declared dead",
+        "frozen bank accounts",
+        "Judy Rivers",
+        "reversing death record",
+        "lack of notification",
+        "Privacy Act"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Reforms, credit report advice, and the SSN breach problem",
+      "summary": "The Social Security Administration has begun investigator checks and stopped accepting state reports, which removed millions of records. The hosts recommend checking credit reports three times a year. They discuss the 2017 credit bureau breach exposing about 137 million SSNs, companies moving away from SSN authentication, and blockchain as a possible future.",
+      "topics": [
+        "credit report checks",
+        "data breach",
+        "Social Security number authentication",
+        "blockchain",
+        "credit bureau hack 2017",
+        "SSN reforms"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Dead people in India and Lal Bahadur",
+      "summary": "The hosts describe killing people on paper in India, where officials can be bribed to declare someone dead to seize land. Lal Bahadur was declared dead in 1976 by relatives seeking his land, and took seventeen years to be declared alive. He founded the Uttar Pradesh Dead People's Association, staged public protests, and won an Ig Nobel Prize. Two others had their deaths overturned through the group's efforts.",
+      "topics": [
+        "killing people on paper",
+        "India land fraud",
+        "Lal Bahadur",
+        "Uttar Pradesh Dead People's Association",
+        "Ig Nobel Prize",
+        "bureaucratic absurdity"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "How to fix a wrong death listing",
+      "summary": "The hosts relay advice from a Social Security Administration representative: go in person to a local office with a driver's license or passport. Once the file is updated, a letter is sent, which can take weeks or months. One person needed a doctor's note.",
+      "topics": [
+        "fixing death record",
+        "Social Security office",
+        "driver's license passport proof of life",
+        "correction letter"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:39:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on rape kit billing",
+      "summary": "A medical biller describes a hospital program, in partnership with the state, that covers charges for sexual assault exams and keeps patients from receiving bills, as a follow-up to the rape kits episode. The hosts also mention a negative listener email.",
+      "topics": [
+        "rape kit costs",
+        "sexual assault billing",
+        "listener mail",
+        "state victim compensation"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:39:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give contact information for the show.",
+      "topics": [
+        "listener contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12561,
+    "output_tokens": 3057
+  }
+}

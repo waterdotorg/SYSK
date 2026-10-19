@@ -1,0 +1,252 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-07-12_How_Lightning_Works_40min.txt",
+  "title": "How Lightning Works",
+  "date": "2012-07-12",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-lightning-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/265d5f1d-b104-4055-bd08-ae2800a6c60c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/265d5f1d-b104-4055-bd08-ae2800a6c60c/transcript?format=TextWithTimestamps&t=1700543915",
+  "summary": "Josh and Chuck explain how lightning works, starting with the water cycle and cloud charge separation, then covering step leaders and positive streamers, the return stroke, and why thunder sounds the way it does. They discuss lightning statistics (casualties by time, day, month, and state), the types of lightning (cloud-to-ground, intra-cloud, sheet, heat, ball), and lightning myths: tallest object getting struck, lightning striking the same place twice, surge protectors, lightning rods, the Faraday cage and car shelter, and safety advice. They also cover Roy Sullivan, the park ranger struck seven times, and a listener email about college admission. The episode opens with banter about Jim Morrison and The Doors' \"Riders on the Storm.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "lightning",
+    "how lightning works",
+    "lightning formation",
+    "step leaders",
+    "positive streamers",
+    "return stroke",
+    "thunder",
+    "charge separation",
+    "lightning statistics",
+    "lightning casualties",
+    "types of lightning",
+    "heat lightning",
+    "ball lightning",
+    "sheet lightning",
+    "lightning rods",
+    "Ben Franklin",
+    "Faraday cage",
+    "lightning safety",
+    "lightning myths",
+    "surge protectors",
+    "Roy Sullivan",
+    "fulgurology",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Roy Sullivan",
+      "type": "person"
+    },
+    {
+      "name": "Ben Franklin",
+      "type": "person"
+    },
+    {
+      "name": "Michael Faraday",
+      "type": "person"
+    },
+    {
+      "name": "Jim Morrison",
+      "type": "person"
+    },
+    {
+      "name": "The Doors",
+      "type": "organization"
+    },
+    {
+      "name": "Riders on the Storm",
+      "type": "work"
+    },
+    {
+      "name": "Shenandoah National Park",
+      "type": "place"
+    },
+    {
+      "name": "Raging Planet",
+      "type": "work"
+    },
+    {
+      "name": "Discovery Channel",
+      "type": "organization"
+    },
+    {
+      "name": "St. Olaf College",
+      "type": "organization"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Guinness World Records",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Jim Morrison",
+      "summary": "Josh and Chuck open with small talk about Jim Morrison, The Doors, and the song Riders on the Storm.",
+      "topics": [
+        "The Doors",
+        "Jim Morrison",
+        "Riders on the Storm"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Roy Sullivan and lightning survival",
+      "summary": "Chuck recalls Roy Sullivan, a Shenandoah National Park ranger struck by lightning seven times, who died years later from a household electrical shock. The hosts note most lightning victims survive.",
+      "topics": [
+        "Roy Sullivan",
+        "lightning strike survival",
+        "Guinness record lightning"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Lightning statistics",
+      "summary": "Josh gives stats from a study of lightning strikes: about 9,818 people struck and 3,239 died immediately; men four times likelier than women; most casualties between noon and 4 pm, peaking at 4 pm; Sunday and Wednesday most common; July the peak month; Florida the top state.",
+      "topics": [
+        "lightning statistics",
+        "lightning casualties",
+        "lightning risk by demographics",
+        "Florida lightning"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Lightning facts: color, width, temperature",
+      "summary": "The hosts note lightning can look white or yellow depending on background, is about an inch to two inches in diameter, and is roughly six times hotter than the sun's surface.",
+      "topics": [
+        "lightning temperature",
+        "lightning color",
+        "lightning diameter"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Water cycle, clouds and charge separation",
+      "summary": "Explanation of evaporation, condensation and precipitation, and how collisions among water particles knock electrons loose so that the cloud's bottom becomes negatively charged and the top positive, creating an electric field charge separation.",
+      "topics": [
+        "water cycle and lightning",
+        "cloud charge separation",
+        "electric field in clouds",
+        "cloud electrification"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Step leaders, positive streamers and the lightning strike",
+      "summary": "Strong charge pushes electrons into the ground; air ionizes into plasma; step leaders descend in roughly fifty-yard jolts and positive streamers rise from the ground or objects. When they connect, a return stroke carries current back up, producing the visible flash. Intra-cloud and cloud-to-cloud lightning are also discussed, and a Discovery slow-motion strike is mentioned.",
+      "topics": [
+        "step leaders",
+        "positive streamers",
+        "ionization of air",
+        "plasma channel",
+        "return stroke",
+        "intra-cloud lightning",
+        "slow motion lightning footage"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Thunder and distance counting",
+      "summary": "The hosts explain that thunder comes from the rapid heating and expansion of air around the channel, with three parts tied to step leaders, positive streamers and the explosion. They describe the divide-by-five rule for distance and explain it comes from the speed of light versus the speed of sound.",
+      "topics": [
+        "thunder explanation",
+        "distance from lightning",
+        "speed of sound vs light",
+        "thunder rule of thumb"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Lightning myths and multiple strokes",
+      "summary": "Myths covered: the tallest object is not always struck, since lightning can jump and follow low-resistance paths; lightning strikes often consist of forty or fifty strokes, so it can strike the same place more than once.",
+      "topics": [
+        "lightning myths",
+        "lightning strikes same place twice",
+        "lightning path of least resistance",
+        "multiple return strokes"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Types of lightning and surge protectors",
+      "summary": "Overview of cloud-to-ground, ground-to-cloud, sheet, heat and ball lightning. Heat lightning is distant lightning reflected by warm air. Ball lightning exists but is not well understood and has not been filmed in its natural form. Surge protectors are said not to protect against direct strikes; a lightning arrestor is suggested.",
+      "topics": [
+        "types of lightning",
+        "heat lightning",
+        "ball lightning",
+        "sheet lightning",
+        "surge protector myth",
+        "lightning arrestor"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Lightning rods and Ben Franklin",
+      "summary": "Ben Franklin is credited with developing lightning rods in the 1740s. The hosts explain a lightning rod diverts strikes to ground and does not attract lightning. They also discuss the disputed kite experiment and French experimenters.",
+      "topics": [
+        "lightning rods",
+        "Ben Franklin",
+        "kite experiment",
+        "lightning protection"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Faraday cage, car shelter and safety tips",
+      "summary": "The hosts say a car is a Faraday cage that offers protection, not because of rubber tires. Safety advice includes staying inside a car or building, crouching with feet together and head low without touching the ground, avoiding water, trees, phones and bathtubs. Thunder signals that a strike is possible at any moment. Fulgurology and Chuck's grandfather's electrical accident are also mentioned.",
+      "topics": [
+        "Faraday cage",
+        "lightning safety",
+        "lightning shelter",
+        "fulgurology",
+        "lightning injuries"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:40:00",
+      "kind": "outro",
+      "title": "Listener mail and sign-off",
+      "summary": "A listener writes that the podcast helped with a college application essay, and the hosts congratulate him; they invite listeners to share stories and sign off.",
+      "topics": [
+        "listener mail",
+        "college application"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13658,
+    "output_tokens": 2907
+  }
+}

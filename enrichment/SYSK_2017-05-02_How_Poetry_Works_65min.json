@@ -1,0 +1,445 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-05-02_How_Poetry_Works_65min.txt",
+  "title": "How Poetry Works",
+  "date": "2017-05-02",
+  "duration": "65 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-poetry-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0e3241f3-48db-464f-b63f-ae280078e469/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0e3241f3-48db-464f-b63f-ae280078e469/transcript?format=TextWithTimestamps&t=1700543809",
+  "summary": "Josh Clark and Chuck Bryant explore how poetry works and how to approach and appreciate it. They open with personal anecdotes about poetry (Josh's rejected poem sent to The New Yorker, Chuck's distaste for it), then cover advice from the essay \"How to Read a Poem\" on poets.org, including three false assumptions readers make. The hosts trace poetry's history from oral epics like Gilgamesh, Homer, and the Greek and Roman epics, through Chaucer, Shakespeare and Marlowe, the Enlightenment, the Romantics, Whitman, modernism, and the Beat poets. They then explain poetic basics: the three main genres (narrative, dramatic, lyric), reading poems aloud, rhyme including slant rhyme, alliteration, assonance, onomatopoeia, meter and feet (iambic pentameter, trochee, dactyl, anapest, amphibrach, spondee-type terms, and the critic/cretic), caesura and enjambment, concrete poetry, and fixed forms (sonnet, ballad, haiku, sestina, villanelle, ode, elegy, epigram, aubade, epistle). They read examples including Dylan Thomas, Philip Larkin, John Ashbery, Robert Creeley, Derek Brown, and David Berman, and discuss metaphor, illustrations (Shel Silverstein), and poetry slams. The episode ends with a listener mail about band names and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "poetry",
+    "how to read a poem",
+    "poetry history",
+    "epic poetry",
+    "Gilgamesh",
+    "Homer",
+    "Shakespeare verse drama",
+    "Romantic poetry",
+    "Walt Whitman",
+    "modernist poetry",
+    "beat poets",
+    "poetic genres",
+    "narrative poetry",
+    "dramatic poetry",
+    "lyric poetry",
+    "reading poetry aloud",
+    "rhyme",
+    "slant rhyme",
+    "alliteration",
+    "assonance",
+    "onomatopoeia",
+    "meter",
+    "iambic pentameter",
+    "poetic feet",
+    "enjambment",
+    "caesura",
+    "concrete poetry",
+    "poetic forms",
+    "sonnet",
+    "ballad",
+    "haiku",
+    "sestina",
+    "villanelle",
+    "ode",
+    "elegy",
+    "epigram",
+    "aubade",
+    "epistle",
+    "metaphor",
+    "poetry slam",
+    "poetry appreciation",
+    "band names listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Epic of Gilgamesh",
+      "type": "work"
+    },
+    {
+      "name": "Homer",
+      "type": "person"
+    },
+    {
+      "name": "Iliad",
+      "type": "work"
+    },
+    {
+      "name": "Odyssey",
+      "type": "work"
+    },
+    {
+      "name": "Virgil",
+      "type": "person"
+    },
+    {
+      "name": "Chaucer",
+      "type": "person"
+    },
+    {
+      "name": "Canterbury Tales",
+      "type": "work"
+    },
+    {
+      "name": "William Shakespeare",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Marlowe",
+      "type": "person"
+    },
+    {
+      "name": "Walt Whitman",
+      "type": "person"
+    },
+    {
+      "name": "Leaves of Grass",
+      "type": "work"
+    },
+    {
+      "name": "Emily Dickinson",
+      "type": "person"
+    },
+    {
+      "name": "Robert Frost",
+      "type": "person"
+    },
+    {
+      "name": "The Road Not Taken",
+      "type": "work"
+    },
+    {
+      "name": "E. E. Cummings",
+      "type": "person"
+    },
+    {
+      "name": "Allen Ginsberg",
+      "type": "person"
+    },
+    {
+      "name": "Howl",
+      "type": "work"
+    },
+    {
+      "name": "Jack Kerouac",
+      "type": "person"
+    },
+    {
+      "name": "Dylan Thomas",
+      "type": "person"
+    },
+    {
+      "name": "Do Not Go Gentle into That Good Night",
+      "type": "work"
+    },
+    {
+      "name": "Philip Larkin",
+      "type": "person"
+    },
+    {
+      "name": "This Be The Verse",
+      "type": "work"
+    },
+    {
+      "name": "John Ashbery",
+      "type": "person"
+    },
+    {
+      "name": "Farm Implements and Rutabagas in a Landscape",
+      "type": "work"
+    },
+    {
+      "name": "Robert Creeley",
+      "type": "person"
+    },
+    {
+      "name": "Derek Brown",
+      "type": "person"
+    },
+    {
+      "name": "David Berman",
+      "type": "person"
+    },
+    {
+      "name": "Silver Jews",
+      "type": "organization"
+    },
+    {
+      "name": "Charles Bernstein",
+      "type": "person"
+    },
+    {
+      "name": "Dear Mr. Finelli",
+      "type": "work"
+    },
+    {
+      "name": "Thomas James Martin",
+      "type": "person"
+    },
+    {
+      "name": "Shel Silverstein",
+      "type": "person"
+    },
+    {
+      "name": "Thoreau",
+      "type": "person"
+    },
+    {
+      "name": "Ralph Waldo Emerson",
+      "type": "person"
+    },
+    {
+      "name": "Dead Poets Society",
+      "type": "work"
+    },
+    {
+      "name": "The New Yorker",
+      "type": "organization"
+    },
+    {
+      "name": "Poetry Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "poets.org",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter about poetry",
+      "summary": "Hosts joke about their feelings toward poetry, Josh's rejected poem sent to The New Yorker, and Chuck's dislike of poetry compared with prose.",
+      "topics": [
+        "poetry appreciation",
+        "personal anecdotes"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "How to Read a Poem: three false assumptions",
+      "summary": "Josh summarizes the poets.org essay 'How to Read a Poem' and its three false assumptions: that a poem should be understood on first reading, that it hides a single code, and that it can mean anything the reader wants. They agree poetry should be approached as a carefully crafted work that rewards effort.",
+      "topics": [
+        "how to read a poem",
+        "poetry appreciation",
+        "interpretation"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Poetry's origins and oral tradition",
+      "summary": "Poetry predates literacy; epics like Gilgamesh were used to memorize stories and history, and poems were meant to be read aloud. Discussion of Homer's Iliad and Odyssey, and Virgil and Hesiod-era Greek and Roman epics.",
+      "topics": [
+        "poetry history",
+        "oral tradition",
+        "epic poetry",
+        "Gilgamesh",
+        "Homer",
+        "Iliad",
+        "Odyssey"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Medieval, Renaissance and Enlightenment poetry",
+      "summary": "Chaucer wrote in common English rather than Latin, making him hard for modern readers. Renaissance brought Shakespeare and Marlowe and verse drama. The Enlightenment venerated Greek and Roman traditions, and the Romantics rebelled.",
+      "topics": [
+        "Chaucer",
+        "Canterbury Tales",
+        "Shakespeare",
+        "Marlowe",
+        "verse drama",
+        "Enlightenment poetry",
+        "Romantic poetry"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Transcendentalists, Whitman and modernism",
+      "summary": "Discussion of Transcendentalists Emerson and Thoreau, Walt Whitman breaking with traditional meter in Leaves of Grass, and the early twentieth-century modernists who favored short, concise poems.",
+      "topics": [
+        "Transcendentalism",
+        "Walt Whitman",
+        "Leaves of Grass",
+        "modernist poetry",
+        "free verse"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Modernists, Beat poets and the poetry-as-life debate",
+      "summary": "The hosts discuss modernist favorites like E. E. Cummings, Yeats, Gertrude Stein and Sylvia Plath, and the reasons poetry can feel inaccessible when taught backward in time. They then turn to the Beat poets, Ginsberg's Howl and Kerouac.",
+      "topics": [
+        "beat poets",
+        "Allen Ginsberg",
+        "Howl",
+        "Jack Kerouac",
+        "modernism",
+        "teaching poetry"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the discussion of poetry's technical elements.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Poetic genres and reading aloud",
+      "summary": "Narrative, dramatic and lyric poetry are defined, with Shakespeare as an example of dramatic poetry. The hosts note that poems are meant to be read aloud, and that sound effects such as rhyme are central.",
+      "topics": [
+        "narrative poetry",
+        "dramatic poetry",
+        "lyric poetry",
+        "reading poetry aloud",
+        "poetic genres"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Sound devices: rhyme, slant rhyme, alliteration, assonance, onomatopoeia",
+      "summary": "Explanation of rhyme, near or slant rhyme (Emily Dickinson's style, bear and far), alliteration, assonance, and onomatopoeia, with playful examples.",
+      "topics": [
+        "rhyme",
+        "slant rhyme",
+        "near rhyme",
+        "alliteration",
+        "assonance",
+        "onomatopoeia",
+        "Emily Dickinson"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Meter and poetic feet",
+      "summary": "Meter as rhythmic structure defined by stressed and unstressed syllables. Iamb, trochee, dactyl, anapest, amphibrach and cretic feet are described, and iambic pentameter is explained with the example of 'partake'.",
+      "topics": [
+        "meter",
+        "iambic pentameter",
+        "poetic feet",
+        "iamb",
+        "trochee",
+        "dactyl",
+        "anapest",
+        "amphibrach",
+        "cretic"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:03:00",
+      "kind": "content",
+      "title": "Line breaks, caesura, enjambment and concrete poetry",
+      "summary": "The hosts discuss line breaks and punctuation, enjambment, caesura, and concrete poetry shaped on the page. Robert Creeley is cited as a master of enjambment.",
+      "topics": [
+        "enjambment",
+        "caesura",
+        "concrete poetry",
+        "line breaks",
+        "Robert Creeley"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Rhyme scheme and fixed poetic forms",
+      "summary": "Rhyme scheme notation and fixed forms: sonnet, ballad (alternating tetrameter and trimeter), haiku (five-seven-five), and sestina with repeated end words, illustrated with John Ashbery's poem.",
+      "topics": [
+        "rhyme scheme",
+        "sonnet",
+        "ballad",
+        "haiku",
+        "sestina",
+        "John Ashbery"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:16:00",
+      "kind": "content",
+      "title": "Villanelle, ode, elegy, epigram, aubade and epistle",
+      "summary": "Dylan Thomas's villanelle 'Do Not Go Gentle into That Good Night' is read and discussed. Also covered are ode, elegy (Thomas James Martin's poem on five women drowned in a car), epigram, aubade, and epistle (Charles Bernstein's 'Dear Mr. Finelli').",
+      "topics": [
+        "villanelle",
+        "Dylan Thomas",
+        "ode",
+        "elegy",
+        "epigram",
+        "aubade",
+        "epistle",
+        "Charles Bernstein"
+      ]
+    },
+    {
+      "start": "01:16:00",
+      "end": "01:24:00",
+      "kind": "content",
+      "title": "Metaphor, illustrated poetry and poetry slams",
+      "summary": "Metaphor and simile are contrasted using Frost's The Road Not Taken. Shel Silverstein's illustrated poems are mentioned. Derek Brown's poem 'Ringlets' is read, and poetry slams are briefly discussed. Philip Larkin's 'This Be The Verse' and David Berman's poem are read.",
+      "topics": [
+        "metaphor",
+        "simile",
+        "Robert Frost",
+        "Shel Silverstein",
+        "Derek Brown",
+        "poetry slam",
+        "Philip Larkin",
+        "David Berman"
+      ]
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:28:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: band names",
+      "summary": "Listener Matt Burns from Gilroy, California writes about his wife's accidental band name 'Pig Chesterton in the Knuckle Ducks'. The hosts react and mention a band name generator.",
+      "topics": [
+        "listener mail",
+        "band names"
+      ]
+    },
+    {
+      "start": "01:28:00",
+      "end": "01:29:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and email contact info and sign off.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20331,
+    "output_tokens": 4488
+  }
+}

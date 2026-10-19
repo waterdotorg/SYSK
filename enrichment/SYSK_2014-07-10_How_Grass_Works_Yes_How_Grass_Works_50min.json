@@ -1,0 +1,280 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-07-10_How_Grass_Works_Yes_How_Grass_Works_50min.txt",
+  "title": "How Grass Works? Yes, How Grass Works",
+  "date": "2014-07-10",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-grass-works-yes-how-grass-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c88c96b7-c165-483d-995d-ae2800960284/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c88c96b7-c165-483d-995d-ae2800960284/transcript?format=TextWithTimestamps&t=1700543881",
+  "summary": "Josh and Chuck explore grass and lawns: the history of the American lawn from English imports and the golf-driven search for suitable turf grass, the invention of the reel mower by Edwin Budding, the grass plant's anatomy (roots, crown, calm, nodes, sheath, blade, ligule, stolons, rhizomes), soil and pH preparation, choosing warm versus cool season grasses, establishing a lawn by seed, sod, or sprigs and plugs, and lawn maintenance (watering, mowing height, fertilizing, aerating, weeding, pest control). The episode also includes casual banter about squirrels, gardening, and aging, and a listener mail segment about a fish bowl at the La Brea Tar Pits.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "grass",
+    "lawn history",
+    "American lawns",
+    "reel mower",
+    "Edwin Budding",
+    "turf grass",
+    "lawn care",
+    "soil pH",
+    "loam",
+    "warm season grass",
+    "cool season grass",
+    "Bermuda grass",
+    "Kentucky bluegrass",
+    "Zoysia",
+    "lawn establishment",
+    "sod",
+    "sprigs and plugs",
+    "overseeding and seeding",
+    "watering lawns",
+    "mowing height",
+    "grass clippings and thatch",
+    "fertilizing lawns",
+    "aerating lawns",
+    "weed and feed",
+    "biological pest control",
+    "Bacillus thuringiensis",
+    "grass anatomy",
+    "rhizomes and stolons"
+  ],
+  "entities": [
+    {
+      "name": "Edwin Budding",
+      "type": "person"
+    },
+    {
+      "name": "United States Golf Association",
+      "type": "organization"
+    },
+    {
+      "name": "U.S. Department of Agriculture",
+      "type": "organization"
+    },
+    {
+      "name": "American Garden Club",
+      "type": "organization"
+    },
+    {
+      "name": "Bermuda grass",
+      "type": "other"
+    },
+    {
+      "name": "Kentucky bluegrass",
+      "type": "other"
+    },
+    {
+      "name": "Zoysia",
+      "type": "other"
+    },
+    {
+      "name": "Ringer",
+      "type": "organization"
+    },
+    {
+      "name": "La Brea Tar Pits",
+      "type": "place"
+    },
+    {
+      "name": "Page Museum",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and squirrel talk",
+      "summary": "The hosts open with casual banter about grass and yards, then joke about a persistent squirrel stealing from Chuck's bird feeder.",
+      "topics": [
+        "squirrels",
+        "bird feeder",
+        "casual banter"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "History of the American lawn",
+      "summary": "Americans, after visiting England and seeing lawns, wanted lawns of their own, but native grasses were unsuitable. The USGA, USDA, and American Garden Club worked together for about fifteen years to find grass combinations that would grow in the U.S. Irrigation and cutting were major barriers, and lawns were historically expensive.",
+      "topics": [
+        "lawn history",
+        "American lawns",
+        "English lawns",
+        "USGA turf research",
+        "USDA grass trials"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Invention of the reel mower",
+      "summary": "Edwin Budding, an English engineer, developed the reel mower, based on a machine used to cut the nap on velvet. Reel mowers became affordable and lawns spread in America. The adjustable wrench is also mentioned as an offshoot of the same era, with its English name 'adjustable spanner'.",
+      "topics": [
+        "reel mower",
+        "Edwin Budding",
+        "lawn mowers history",
+        "adjustable wrench"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Lawn as civic duty in 1950s suburbia",
+      "summary": "In the 1950s the American Garden Club promoted perfect lawns through contests, publicity, and public service announcements. The hosts cite spending on lawn care of about thirty billion dollars a year and discuss neighborhood association expectations.",
+      "topics": [
+        "suburban lawns",
+        "American Garden Club",
+        "lawn care spending",
+        "neighborhood associations"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "What grass is and grass anatomy",
+      "summary": "Grass belongs to the Poaceae family with over nine thousand species, including corn, rice, oats, and bamboo. Parts of the plant are described: fibrous roots, crown, stem called a culm, nodes, sheath, blade, and ligule. Stolons above ground and rhizomes below ground let grass spread, and seeds are also a means of reproduction.",
+      "topics": [
+        "grass anatomy",
+        "culm",
+        "rhizomes",
+        "stolons",
+        "grass reproduction",
+        "photosynthesis",
+        "grass family"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:30:00",
+      "kind": "ad",
+      "title": "Message break",
+      "summary": "A message break interrupts the episode.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Soil preparation and pH",
+      "summary": "Good lawns need good soil, ideally loam, a mix of sand, silt, and clay, with a pH around six and a half to seven. Home test kits or professional testing can measure pH, and sulfur or lime can adjust it. Compost, manure, or fertilizer can improve soil; composted manure is recommended over raw.",
+      "topics": [
+        "soil",
+        "loam",
+        "soil pH",
+        "lime and sulfur",
+        "composted manure",
+        "soil amendment"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Choosing grass types and sun or shade",
+      "summary": "The hosts distinguish warm season grasses such as Bermuda, which goes dormant and turns brown in winter, from cool season grasses like Kentucky bluegrass that grow mainly in spring and fall, with a transition zone in between. Mixtures combine types while blends combine varieties. Shade tolerance matters, and alternatives like monkey grass or zero-scape are mentioned. Blue grass gets its name from the seed heads.",
+      "topics": [
+        "warm season grass",
+        "cool season grass",
+        "transition zone",
+        "grass mixtures and blends",
+        "shade tolerant grass",
+        "bluegrass name origin"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Establishing a lawn: seed, sod, sprigs, plugs",
+      "summary": "Steps for starting a lawn: tilling and leveling the soil while checking for underground cables, spreading seed with a walk-behind spreader, raking, optionally rolling, and covering with straw or mulch. Sod is laid green side up in staggered rows. Sprigs and plugs are planted in holes six to twelve inches apart, a method useful for zoysia.",
+      "topics": [
+        "lawn establishment",
+        "seeding lawn",
+        "sod installation",
+        "sprigs and plugs",
+        "tilling soil",
+        "lawn roller"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Weed and feed products",
+      "summary": "Weed and feed combines herbicide and fertilizer. Experts say the best fertilizing time and the best weed killing time differ, and targeted low-level herbicide is preferred over blanket spraying.",
+      "topics": [
+        "weed and feed",
+        "pre-emergent herbicide",
+        "post-emergent herbicide"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Lawn maintenance: watering and mowing",
+      "summary": "Watering should be deep and infrequent, ideally in the morning, with about an inch of water collected above ground as a rule of thumb; the hosts disagree on how to measure this. Mowing height should be kept higher, around three inches for cool season grasses, and clippings can be left on the lawn to avoid thatch, while mowing direction should be varied.",
+      "topics": [
+        "lawn watering",
+        "mowing height",
+        "grass clippings",
+        "thatch",
+        "mowing patterns"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:05:00",
+      "kind": "content",
+      "title": "Fertilizing, aerating, weeding, and pests",
+      "summary": "Granular fertilizer once or twice a year is recommended over spray. Aerating once a year relieves compaction, using a hollow-spike roller or aerating shoes. Weeds can indicate soil problems, such as dandelions for alkaline or compacted soil and clover for low nitrogen. Bacillus thuringiensis is a biological control for certain lawn pests.",
+      "topics": [
+        "fertilizing lawn",
+        "aerating lawn",
+        "weeds as soil indicators",
+        "Bacillus thuringiensis",
+        "biological pest control",
+        "lawn pests"
+      ]
+    },
+    {
+      "start": "01:05:00",
+      "end": "01:08:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: fish bowl at the Page Museum",
+      "summary": "A listener named Caitlin describes a viewing fish bowl at the La Brea Tar Pits' Page Museum and a story about a child tapping on the glass during surgery on a fish, which led a veterinarian to scold the child.",
+      "topics": [
+        "listener mail",
+        "La Brea Tar Pits",
+        "Page Museum",
+        "aquarium"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:10:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts ask for listener stories and direct listeners to social media, email, and the website.",
+      "topics": [
+        "sign-off",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17243,
+    "output_tokens": 3344
+  }
+}

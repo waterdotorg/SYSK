@@ -1,0 +1,372 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-05-18_How_Juries_Work_57min.txt",
+  "title": "How Juries Work",
+  "date": "2023-05-18",
+  "duration": "57 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-juries-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aa4c2b4d-d8b5-4398-91cc-b00500fc8afe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/aa4c2b4d-d8b5-4398-91cc-b00500fc8afe/transcript?format=TextWithTimestamps&t=1714052948",
+  "summary": "Josh and Chuck (with the co-host's name garbled as \"iHeart Intro\" in the transcript) discuss how jury systems work in the United States and England. Topics include the history of juries from the Magna Carta and English common law through the Pilgrims and the Constitution's Sixth, Seventh and Fifth Amendments; which cases get juries and bench trials; petit (petty) juries versus grand juries and their roles; foremen; the low rate of trials due to plea bargains, discovery, and pretrial detention; juror qualifications, exemptions, pay, and employer obligations; voir dire and peremptory challenges including Batson v. Kentucky and the 1995 long-hair case; death qualification and Witherspoon v. Illinois; non-unanimous verdicts and Florida's 2023 change to death sentencing; jury nullification; research on jury deliberation and bench versus jury acquittal rates; runaway jury myths and the McDonald's coffee case. The episode closes with a listener mail about NERF toys and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "jury",
+    "how juries work",
+    "trial by jury",
+    "grand jury",
+    "petit jury",
+    "petty jury",
+    "jury selection",
+    "voir dire",
+    "peremptory challenge",
+    "Batson challenge",
+    "death qualified jury",
+    "jury nullification",
+    "non-unanimous verdict",
+    "bench trial",
+    "plea bargain",
+    "jury duty",
+    "jury exemptions",
+    "pretrial detention",
+    "runaway jury myth",
+    "Magna Carta",
+    "Sixth Amendment",
+    "Florida death penalty non-unanimous jury",
+    "juror pay",
+    "McDonald's coffee case",
+    "Witherspoon v. Illinois",
+    "NERF"
+  ],
+  "entities": [
+    {
+      "name": "Magna Carta",
+      "type": "work"
+    },
+    {
+      "name": "Batson v. Kentucky",
+      "type": "event"
+    },
+    {
+      "name": "Witherspoon v. Illinois",
+      "type": "event"
+    },
+    {
+      "name": "Marjory Stoneman Douglas High School shooting",
+      "type": "event"
+    },
+    {
+      "name": "McDonald's coffee case",
+      "type": "event"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Oregon",
+      "type": "place"
+    },
+    {
+      "name": "Louisiana",
+      "type": "place"
+    },
+    {
+      "name": "Alabama",
+      "type": "place"
+    },
+    {
+      "name": "North Carolina",
+      "type": "place"
+    },
+    {
+      "name": "Connecticut",
+      "type": "place"
+    },
+    {
+      "name": "Pennsylvania",
+      "type": "place"
+    },
+    {
+      "name": "Amazon",
+      "type": "organization"
+    },
+    {
+      "name": "Morgan and Morgan",
+      "type": "organization"
+    },
+    {
+      "name": "American Bar Association",
+      "type": "organization"
+    },
+    {
+      "name": "Twelve Angry Men",
+      "type": "work"
+    },
+    {
+      "name": "Law and Order",
+      "type": "work"
+    },
+    {
+      "name": "NERF",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and jury duty experiences",
+      "summary": "The hosts open with banter about Chuck's new studio and chair, then discuss their own jury duty experiences; Chuck was called once and nearly reached trial before a last-second settlement, and Josh was told to go away after moving counties.",
+      "topics": [
+        "jury duty",
+        "personal stories",
+        "new studio"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Why juries exist and the trust placed in peers",
+      "summary": "Josh introduces the article by Livia and argues that the legal system relies on twelve laypeople to decide guilt or innocence, which is justified by trusting peers. The hosts note most jurors take the duty seriously.",
+      "topics": [
+        "jury system",
+        "peer judgment",
+        "legal system"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:45",
+      "kind": "content",
+      "title": "History of juries from England to the colonies",
+      "summary": "The hosts trace juries to England, citing the Magna Carta's 1215 judgment-of-peers provision and common law around the fifteenth century. Henry II's legal reforms and the early colonial jury are discussed, including the 1630 Plymouth murder trial, and the Sixth, Seventh and Fifth Amendments are mentioned as jury protections.",
+      "topics": [
+        "Magna Carta",
+        "jury history",
+        "common law",
+        "Henry II",
+        "Plymouth colony",
+        "Sixth Amendment",
+        "Seventh Amendment",
+        "grand jury Fifth Amendment"
+      ]
+    },
+    {
+      "start": "00:08:45",
+      "end": "00:11:20",
+      "kind": "content",
+      "title": "When defendants get a jury and bench trials",
+      "summary": "The hosts explain that jury rights depend on the offense and court type; misdemeanors, drug and mental health courts, and most juvenile courts typically lack juries, though juveniles tried as adults generally have one. Defendants can waive a jury for a bench trial, in which the judge also sentences except in capital cases.",
+      "topics": [
+        "right to jury",
+        "bench trial",
+        "misdemeanor",
+        "juvenile court",
+        "waiving jury trial",
+        "capital sentencing"
+      ]
+    },
+    {
+      "start": "00:11:20",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Petit juries versus grand juries",
+      "summary": "The hosts distinguish the petit (petty) jury, usually twelve members, from the grand jury, which can have up to about twenty-three. A grand jury decides probable cause and indictment, not guilt, and operates in secrecy over months with a prosecutor and court reporter. The foreperson's role is described, along with the fact that Connecticut and Pennsylvania do not use grand juries for state indictments.",
+      "topics": [
+        "grand jury",
+        "petit jury",
+        "indictment",
+        "probable cause",
+        "foreperson",
+        "grand jury secrecy"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Grand jury service and who serves",
+      "summary": "The hosts contrast the length of grand jury service, which can run for months with weekly meetings, against shorter petit trials. Grand juries are not sequestered but are sworn to secrecy, and retirees often make up large shares of them, which the hosts note is not a perfect community representation.",
+      "topics": [
+        "grand jury service",
+        "grand jury composition",
+        "jury representation"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:22:00",
+      "kind": "ad",
+      "title": "Break and trial statistics",
+      "summary": "After a break, the hosts cite declining trial rates: federal civil jury trials fell from twelve percent in 1962 to about one percent, and criminal jury trials fell from about twenty percent in the early eighties to about two percent.",
+      "topics": [
+        "trial statistics",
+        "federal civil trials",
+        "criminal trial rate"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Discovery, settlements and civil cases",
+      "summary": "Josh explains that broad discovery reveals each side's case so most civil suits settle before trial. Lawyers are compared to poker players with cards face up. Summary judgments and contracts requiring arbitration or mediation are also discussed.",
+      "topics": [
+        "civil trial",
+        "discovery",
+        "settlement",
+        "summary judgment",
+        "arbitration",
+        "mediation"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Plea bargains and pretrial detention",
+      "summary": "Josh explains that sentencing guidelines from the eighties lead most defendants to accept plea deals; a cited study found post-trial convictions bring sentences about five times longer. Pretrial detention also pushes people toward pleas, with a finding that detained defendants are three times likelier to plead. A lighthearted Law and Order tangent follows.",
+      "topics": [
+        "plea bargain",
+        "sentencing guidelines",
+        "pretrial detention",
+        "plea deal"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Juror qualifications, exemptions and pay",
+      "summary": "The hosts describe juror qualifications: age eighteen, residency, English ability, and the myth that voter registration is required. Accommodations exist for disabilities. Exemptions include felony convictions, active military, public officials, age over seventy, and recent service. Jurors receive small daily pay, and employer pay policies are discussed, with Amazon singled out as paying full salary minus jury fees. Statistics show about twenty-seven percent of adults have served, about thirty-two million are summoned yearly, and about twenty-two percent of those who show up are selected.",
+      "topics": [
+        "juror qualifications",
+        "jury exemptions",
+        "juror pay",
+        "employer pay for jury duty",
+        "jury duty statistics",
+        "accommodations for jurors"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Voir dire and peremptory challenges",
+      "summary": "The hosts explain voir dire, the jury selection process in which attorneys question jurors to seat sympathetic panels. Questionnaires, social media research, and indirect questioning are used. Peremptory challenges allow dismissals without reason but cannot be based on race or sex under Batson v. Kentucky (1986). The 1995 case involving long hair and a goatee is described as allowed. A North Carolina study found Black jurors removed twice as often in death penalty cases.",
+      "topics": [
+        "voir dire",
+        "jury selection",
+        "peremptory challenge",
+        "Batson challenge",
+        "racial discrimination in jury selection",
+        "social media jury research",
+        "North Carolina death penalty study"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:30",
+      "kind": "content",
+      "title": "Death qualification and Witherspoon",
+      "summary": "The hosts describe death qualified juries in capital cases and the concern that excluding opponents of the death penalty produces a jury more likely to convict and recommend death. They discuss Witherspoon v. Illinois (1969) and Josh and Chuck's personal reactions to imposing the death penalty.",
+      "topics": [
+        "death qualified jury",
+        "Witherspoon v. Illinois",
+        "capital cases",
+        "death penalty jury"
+      ]
+    },
+    {
+      "start": "00:42:30",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Non-unanimous verdicts and death sentences in Florida",
+      "summary": "The hosts explain that non-unanimous verdicts have been used in some misdemeanor and civil cases, and that in 2020 the Supreme Court required unanimity for felony verdicts, with Oregon and Louisiana changing their laws. They describe Florida's newer law allowing death sentences by as few as eight of twelve jurors, linked to the 2018 Parkland shooting case. Alabama is noted among states that do not require unanimity for death sentences.",
+      "topics": [
+        "non-unanimous verdict",
+        "Ramos unanimity",
+        "Florida death sentence law",
+        "Parkland shooting",
+        "Alabama death penalty",
+        "Oregon non-unanimous verdict",
+        "Louisiana"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:49:30",
+      "kind": "content",
+      "title": "Jury nullification",
+      "summary": "Jury nullification is explained as a tradition dating to colonial juries refusing to convict under unjust British laws, used by abolitionists opposing the fugitive slave clause and by white juries in lynching cases, and seen in Prohibition and marijuana cases. Legal theorists disagree on whether it is a jury right.",
+      "topics": [
+        "jury nullification",
+        "fugitive slave clause",
+        "abolition",
+        "Prohibition",
+        "marijuana possession",
+        "jury conscience"
+      ]
+    },
+    {
+      "start": "00:49:30",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Jury deliberation research and bench versus jury outcomes",
+      "summary": "Research on deliberations finds juries either verdict-driven or evidence-driven, that about ten percent of juries change their initial verdict, and that a leniency effect favors acquittal. A 2018 Pew report found thirty-eight percent acquittal in bench trials versus fourteen percent before juries. The hosts discuss when a bench trial may be preferable.",
+      "topics": [
+        "jury deliberation",
+        "twelve angry men",
+        "leniency effect",
+        "bench trial acquittal rate",
+        "Pew Research Center",
+        "jury verdict research"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Runaway jury myth and interactive jury selection",
+      "summary": "The hosts describe the runaway jury myth promoted by defendants and note studies showing juries do award more against large corporations but generally act within normal bounds. A mock jury example is cited. The McDonald's coffee case of 1994 is discussed as a misreported example, and a New York Times jury selection quiz is mentioned.",
+      "topics": [
+        "runaway jury myth",
+        "McDonald's coffee case",
+        "mock jury",
+        "civil damages",
+        "New York Times jury quiz"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:57:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: NERF follow-up",
+      "summary": "Listener Kevin from McKinney, Texas writes about the NERF Hoop and the Vortex Football, which the hosts had not covered in the earlier NERF episode. The hosts recall the toys and the sign-off asks listeners to send childhood memories.",
+      "topics": [
+        "NERF",
+        "NERF Hoop",
+        "Vortex football",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:57:30",
+      "end": "00:57:31",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The episode ends with the standard iHeartRadio closing credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20458,
+    "output_tokens": 4683
+  }
+}

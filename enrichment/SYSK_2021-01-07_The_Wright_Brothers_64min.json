@@ -1,0 +1,272 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-01-07_The_Wright_Brothers_64min.txt",
+  "title": "The Wright Brothers",
+  "date": "2021-01-07",
+  "duration": "64 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-wright-brothers",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8fd02316-b8c2-416d-80e3-ae280024fd70/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8fd02316-b8c2-416d-80e3-ae280024fd70/transcript?format=TextWithTimestamps&t=1700543604",
+  "summary": "Josh and Chuck profile the Wright brothers, Wilbur and Orville, covering their childhood and family (including sister Catherine), their bicycle shop in Dayton, Ohio, and their glider experiments at Kitty Hawk. They build a wind tunnel and their own lift and drag tables, correcting Smeaton's coefficient, then design a powered flyer with a hip-cradle control system and a homemade aluminum engine. The episode covers the first powered flight on December 17 (Orville's turn, after Wilbur's failed attempt), the slow press response, the French challengers, the 1908 European demonstrations, Selfridge's fatal crash, Wilbur's death from typhoid, and Orville's and Catherine's later lives. It ends with a listener mail asking for a Titanic episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Wright brothers",
+    "Wilbur Wright",
+    "Orville Wright",
+    "Catherine Wright",
+    "first powered flight",
+    "Kitty Hawk",
+    "wind tunnel",
+    "Smeaton's coefficient",
+    "glider experiments",
+    "aviation history",
+    "aerodynamics",
+    "flight control",
+    "wing warping",
+    "propeller design",
+    "aluminum aircraft engine",
+    "Charlie Taylor",
+    "Otto Lilienthal",
+    "Samuel Langley",
+    "Smithsonian",
+    "Dayton Ohio bike shop",
+    "Thomas Selfridge crash",
+    "Alberto Santos-Dumont",
+    "Henri Farman",
+    "Wilbur typhoid death",
+    "early aviation",
+    "Tony Hale biopic",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Wilbur Wright",
+      "type": "person"
+    },
+    {
+      "name": "Orville Wright",
+      "type": "person"
+    },
+    {
+      "name": "Catherine Wright",
+      "type": "person"
+    },
+    {
+      "name": "Charlie Taylor",
+      "type": "person"
+    },
+    {
+      "name": "Otto Lilienthal",
+      "type": "person"
+    },
+    {
+      "name": "Samuel Langley",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Selfridge",
+      "type": "person"
+    },
+    {
+      "name": "Alberto Santos-Dumont",
+      "type": "person"
+    },
+    {
+      "name": "Henri Farman",
+      "type": "person"
+    },
+    {
+      "name": "Smeaton",
+      "type": "person"
+    },
+    {
+      "name": "Kitty Hawk, North Carolina",
+      "type": "place"
+    },
+    {
+      "name": "Dayton, Ohio",
+      "type": "place"
+    },
+    {
+      "name": "Smithsonian Institution",
+      "type": "organization"
+    },
+    {
+      "name": "Gleanings in Bee Culture",
+      "type": "work"
+    },
+    {
+      "name": "First powered flight, 1903",
+      "type": "event"
+    },
+    {
+      "name": "Selfridge crash, 1908",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter on the Wright brothers",
+      "summary": "Josh and Chuck open by saying a Wright brothers biopic is overdue and mention a short film starring Tony Hale. They frame the brothers as self-taught bike shop owners who became the first to achieve powered flight.",
+      "topics": [
+        "Wright brothers",
+        "Tony Hale biopic",
+        "self-taught engineers"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Family background and the brothers' bond",
+      "summary": "The hosts describe the Wright family of seven children, with five reaching adulthood, and their parents Milton and Susan. They discuss Wilbur and Orville's close lifelong partnership, Wilbur's hockey injury and depression, and Catherine's role as the only sibling to graduate college.",
+      "topics": [
+        "Wright family",
+        "Catherine Wright",
+        "Wilbur depression",
+        "Wright brothers relationship"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Bike shop and the decision to build a flying machine",
+      "summary": "The brothers open a bike shop in Dayton, Ohio, with Catherine managing it. Wilbur writes to the Smithsonian, and Secretary Samuel Langley sends them reference material. They study Otto Lilienthal's data and identify aircraft control as the central problem.",
+      "topics": [
+        "bike shop Dayton",
+        "Smithsonian letter",
+        "Samuel Langley",
+        "Otto Lilienthal",
+        "flight control problem"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Wing warping and early kite experiments",
+      "summary": "Wilbur gets the idea for wing warping from a bent cardboard box. They test box-kite-style gliders with wires controlling the wings, then turn to weather data and choose Kitty Hawk, North Carolina for its wind and sandy landings.",
+      "topics": [
+        "wing warping",
+        "box kite",
+        "Kitty Hawk",
+        "weather data",
+        "glider testing"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Glider crashes, wind tunnel and Smeaton's coefficient",
+      "summary": "A 1900 glider fails to lift a passenger, and the 1901 glider crashes with Wilbur aboard. The brothers doubt earlier data, build a wind tunnel and about 200 model wings with homemade balances, and revise Smeaton's coefficient.",
+      "topics": [
+        "wind tunnel",
+        "Smeaton's coefficient",
+        "glider crash",
+        "lift and drag measurement",
+        "homemade balances"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:40:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Short ad break before the discussion of powering the aircraft.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Propellers, engine, and hip-cradle controls",
+      "summary": "The brothers carve propellers and realize they work like wings turned vertically. Charlie Taylor builds an aluminum four-cylinder engine of about twelve horsepower. Bicycle chains drive counter-rotating propellers, and a hip cradle with wires controls warping, rudder, and elevators. The plane launches from a rail.",
+      "topics": [
+        "propeller design",
+        "aluminum engine",
+        "bicycle chain drive",
+        "hip cradle control",
+        "elevators and rudder",
+        "launch rail"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "First powered flight and the press response",
+      "summary": "Wilbur's first attempt on December 17 crashes after the elevators break. Orville makes the first controlled powered flight of about twelve seconds, and Wilbur later flies 852 feet. A gust then destroys the flyer. Their press release gets little response, and John Culver's article in Gleanings in Bee Culture is the first published account.",
+      "topics": [
+        "first powered flight",
+        "December 17 1903",
+        "Orville Wright flight",
+        "press release",
+        "Gleanings in Bee Culture",
+        "media skepticism"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "European competition and the 1908 demonstrations",
+      "summary": "Santos-Dumont and Henri Farman are presented as French rivals who flew in Europe. Wilbur flies in France in August 1908 and impresses the French. Katherine helps negotiate an army contract, and the brothers become celebrities.",
+      "topics": [
+        "Santos-Dumont",
+        "Henri Farman",
+        "French aviation",
+        "1908 demonstration",
+        "army contract",
+        "European tour"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Selfridge crash, Wilbur's death, and later lives",
+      "summary": "Thomas Selfridge dies in a 1908 crash with Orville, who survives. Wilbur dies of typhoid in 1912 at age 45. Orville sells the company, lives at Hawthorne Hill, and stops speaking to Catherine after her marriage. She dies of pneumonia, and Orville dies three days after a heart attack.",
+      "topics": [
+        "Selfridge crash",
+        "Wilbur death typhoid",
+        "Orville later life",
+        "Catherine death",
+        "Hawthorne Hill"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:10:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Quinn about a Titanic episode",
+      "summary": "A ten-year-old listener named Quinn asks for a Titanic episode. The hosts say one is planned.",
+      "topics": [
+        "listener mail",
+        "Titanic episode request"
+      ]
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:10:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode and give the contact address for listener mail.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19896,
+    "output_tokens": 3072
+  }
+}

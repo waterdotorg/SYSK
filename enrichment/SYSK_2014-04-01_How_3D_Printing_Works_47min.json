@@ -1,0 +1,159 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-04-01_How_3D_Printing_Works_47min.txt",
+  "title": "How 3D Printing Works",
+  "date": "2014-04-01",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-3d-printing-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ce5b0b50-1833-4f1b-af6e-ae2800998253/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ce5b0b50-1833-4f1b-af6e-ae2800998253/transcript?format=TextWithTimestamps&t=1700543884",
+  "summary": "Josh Clark opens with an unusual intro: Chuck Bryant is absent, and Ben Boldin sits in as co-host. After a dream-themed tangent, the hosts explain 3D printing (additive manufacturing) as layer-by-layer construction. They cover its history (rapid prototyping in the mid-1980s, Charles Hull's stereolithography and 3D Systems), the main processes (direct/extrusion printing, binder jetting, multi-jet modeling, fused deposition modeling, selective laser sintering), the CAD-to-STL workflow and printing steps, and applications in industry, medicine, dental work, art, commerce, home inventing, the open-source RepRap and Mendel printers, and 3D-printed food. They also discuss downsides (energy use, emissions, plastics), intellectual property piracy, and 3D-printed guns. The episode closes with listener mail about wild parrots and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "3D printing",
+    "additive manufacturing",
+    "rapid prototyping",
+    "stereolithography",
+    "Charles Hull",
+    "3D Systems",
+    "direct 3D printing",
+    "binder printing",
+    "multi-jet modeling",
+    "fused deposition modeling",
+    "selective laser sintering",
+    "CAD software",
+    "STL file format",
+    "RepRap",
+    "open source 3D printer",
+    "3D printed food",
+    "3D printed guns",
+    "3D printed prosthetics",
+    "3D printing energy use",
+    "3D printing piracy",
+    "industrial revolution",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Ben Boldin",
+      "type": "person"
+    },
+    {
+      "name": "Charles Hull",
+      "type": "person"
+    },
+    {
+      "name": "Cody Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "type": "person"
+    },
+    {
+      "name": "Peter Jackson",
+      "type": "person"
+    },
+    {
+      "name": "George Lucas",
+      "type": "person"
+    },
+    {
+      "name": "3D Systems",
+      "type": "organization"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "type": "organization"
+    },
+    {
+      "name": "RepRap",
+      "type": "work"
+    },
+    {
+      "name": "Mendel",
+      "type": "work"
+    },
+    {
+      "name": "Yoda",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Chuck's absence and Ben Boldin's debut; dream tangent",
+      "summary": "Josh announces that Chuck Bryant has been called away and Ben Boldin is sitting in as co-host. The hosts joke about Josh's dream that the show went on without him, then set up the 3D printing topic.",
+      "topics": [
+        "Chuck Bryant absence",
+        "Ben Boldin",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "What 3D printing is; additive manufacturing",
+      "summary": "The hosts introduce 3D printing as additive manufacturing, building objects layer by layer, contrasting it with CNC machining from a block. They discuss the range of objects that can be made and speculate about it as a possible new industrial revolution, including custom home-made items.",
+      "topics": [
+        "3D printing",
+        "additive manufacturing",
+        "layer by layer manufacturing",
+        "CNC machining comparison",
+        "industrial revolution"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "13:30:00",
+      "kind": "content",
+      "title": "History: rapid prototyping and stereolithography",
+      "summary": "The hosts describe 3D printing's introduction to industry in the mid-1980s as rapid prototyping, which shortened prototype cycles. They credit MIT and several parallel efforts, note car companies as early buyers, and describe Charles Hull's laser-based photopolymerization technique and his company 3D Systems.",
+      "topics": [
+        "rapid prototyping",
+        "stereolithography",
+        "Charles Hull",
+        "3D Systems",
+        "photopolymerization",
+        "MIT"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Direct, binder, multi-jet and fused deposition printing",
+      "summary": "The hosts explain direct 3D printing, which extrudes melted plastic or wax like a hot glue gun, and binder printing, which spreads powder and sprays a liquid binder. They also cover multi-jet modeling and fused deposition modeling, and predict that one technology will become the consumer standard, as inkjet did.",
+      "topics": [
+        "direct 3D printing",
+        "binder printing",
+        "multi-jet modeling",
+        "fused deposition modeling",
+        "technology competition"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "23:00:00",
+      "kind": "content",
+      "title": "Laser-based methods and why layered printing matters",
+      "summary": "The hosts discuss using UV lasers and selective laser sintering for powders and metals. They explain that printed objects can be hollow or lattice-structured, reducing material waste and weight, with the airplane hinge example.",
+      "topics": [
+        "selective laser sintering",
+        "lattice structures",
+        "material waste",
+        "lightweight manufacturing",
+        "aircraft parts"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15425,
+    "output_tokens": 1814
+  }
+}

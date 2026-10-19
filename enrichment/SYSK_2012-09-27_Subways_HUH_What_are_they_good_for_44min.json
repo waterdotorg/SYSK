@@ -1,0 +1,242 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-09-27_Subways_HUH_What_are_they_good_for_44min.txt",
+  "title": "Subways: HUH! What are they good for?",
+  "date": "2012-09-27",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/subways-huh-what-are-they-good-for",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3a1e5b4c-c724-4cf8-90e5-ae2800a55ac6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a1e5b4c-c724-4cf8-90e5-ae2800a55ac6/transcript?format=TextWithTimestamps&t=1700543913",
+  "summary": "Josh and Chuck discuss the history and engineering of subways, drawing on a HowStuffWorks article by Tracy V. Wilson. They open with banter about New York subway navigation and the A Train, then cover subway systems in Paris, London, and New York, and the shift from horse-drawn omnibuses to underground transit. Construction methods are covered in depth: tunnel boring machines, the New Austrian tunneling method, cut-and-cover, dealing with aquifers and rivers, compressed-air work and the bends, and ground freezing with calcium chloride. Other topics include abandoned stations such as the Brooklyn Bridge loop, subway shelters during the Blitz and wartime, the Tokyo sarin attack and 9/11 damage to subways, electrification via third rails, keying-by signals, the geometry train that checks track alignment, subway car lifespans and disposal at sea, the Coney Island shop, ridership and cleanliness rankings, and Atlanta's MARTA. The episode ends with listener mail about a couple who bonded over the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "subways",
+    "subway history",
+    "London Underground",
+    "Paris Metro",
+    "New York subway",
+    "mass transit",
+    "Industrial Revolution urbanization",
+    "omnibus horse-drawn transit",
+    "tunnel boring machine",
+    "New Austrian tunneling method",
+    "cut and cover tunneling",
+    "tunneling hazards",
+    "compressed air tunneling bends",
+    "ground freezing calcium chloride",
+    "abandoned subway stations",
+    "City Hall loop Brooklyn Bridge station",
+    "wartime subway shelters",
+    "Tokyo sarin gas attack",
+    "subway third rail electricity",
+    "keying by signals",
+    "geometry train track alignment",
+    "subway car lifespan and disposal",
+    "Coney Island subway shop",
+    "MARTA Atlanta subway",
+    "subway ridership rankings",
+    "subway ventilation"
+  ],
+  "entities": [
+    {
+      "name": "London Underground",
+      "type": "other"
+    },
+    {
+      "name": "Paris Metro",
+      "type": "other"
+    },
+    {
+      "name": "New York City subway",
+      "type": "other"
+    },
+    {
+      "name": "MARTA",
+      "type": "organization"
+    },
+    {
+      "name": "Tracy V. Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Duke Ellington",
+      "type": "person"
+    },
+    {
+      "name": "The Devil in the White City",
+      "type": "work"
+    },
+    {
+      "name": "Great Escape",
+      "type": "work"
+    },
+    {
+      "name": "Dark Days",
+      "type": "work"
+    },
+    {
+      "name": "Tokyo sarin gas attack",
+      "type": "event"
+    },
+    {
+      "name": "Brooklyn Bridge City Hall loop station",
+      "type": "place"
+    },
+    {
+      "name": "Coney Island overhaul and repair shop",
+      "type": "place"
+    },
+    {
+      "name": "Brooklyn Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Denmark driverless metro",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and the A Train",
+      "summary": "The hosts open with banter about the A Train song and their experiences navigating the New York subway together.",
+      "topics": [
+        "A Train song",
+        "New York subway navigation",
+        "Duke Ellington"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Subway systems of Paris, London and New York",
+      "summary": "They compare station density in Paris, the London Tube, and the New York subway, and note that the London Underground opened first in 1863, followed by the Paris Metro and then New York in 1904, all during the Industrial Revolution's urban growth.",
+      "topics": [
+        "Paris Metro",
+        "London Underground history",
+        "New York subway history",
+        "Industrial Revolution urbanization",
+        "subway station counts"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Horse-drawn omnibuses and the move underground",
+      "summary": "Above-ground transit used horses and omnibuses, which produced large amounts of manure, so cities turned to underground mass transit.",
+      "topics": [
+        "omnibus",
+        "horse-drawn transit",
+        "urban transit history",
+        "buses in New York"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Tunnel boring machines and early hand digging",
+      "summary": "Modern tunnel boring machines are contrasted with the hand-digging of early projects using picks, shovels and dynamite. Workers died in large numbers on New York projects, and the hosts discuss bedrock.",
+      "topics": [
+        "tunnel boring machine",
+        "early subway construction",
+        "bedrock",
+        "construction worker deaths"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "New Austrian tunneling method and cut-and-cover",
+      "summary": "The New Austrian tunneling method is described as a collection of techniques. Cut-and-cover is explained as digging a trench in a street, building the subway, and then rebuilding the street above it.",
+      "topics": [
+        "New Austrian tunneling method",
+        "cut and cover",
+        "subway construction methods",
+        "pilings and trestles"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Obstacles, utility lines, aquifers and river tunneling",
+      "summary": "Obstacles such as utility lines and old pipes are discussed, along with hitting aquifers and tunneling under rivers. In Paris, compressed-air pods were used under water, and workers got the bends. Ground was frozen with calcium chloride to remove wet mud. Cut-and-cover was used under San Francisco Bay.",
+      "topics": [
+        "tunneling under rivers",
+        "aquifers",
+        "compressed air caisson",
+        "decompression sickness bends",
+        "ground freezing",
+        "San Francisco Bay subway tunnel"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Abandoned stations, quarries and the City Hall loop",
+      "summary": "Underground finds in Paris include catacombs and deep quarries. The hosts describe the loop on the six train near City Hall, which passes an abandoned stained-glass station, and discuss whether passengers can still get off there.",
+      "topics": [
+        "Paris catacombs",
+        "Paris quarries",
+        "abandoned subway stations",
+        "City Hall station loop",
+        "stained glass station"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Signals, electrification, geometry train and rail maintenance",
+      "summary": "Keying-by signals are described, followed by third rail electrification and the geometry train that uses lasers to check track alignment and extinguishes hot spots.",
+      "topics": [
+        "keying by signals",
+        "third rail",
+        "subway electricity",
+        "geometry train",
+        "track alignment",
+        "rail maintenance"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Car lifespan, Coney Island shop, rankings, wartime and terror history",
+      "summary": "The hosts cover subway car lifespans and their disposal at sea, the Coney Island shop, cleanliness and ridership rankings, subway shelters in World War II, the Tokyo sarin attack, and the 2005 London attacks. They also discuss fares, MARTA in Atlanta, and the Q line.",
+      "topics": [
+        "subway car lifespan",
+        "Coney Island shop",
+        "subway ridership rankings",
+        "wartime subway shelter",
+        "Tokyo sarin attack",
+        "MARTA Atlanta",
+        "subway fares"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:45:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: anniversary",
+      "summary": "A listener writes about her three-year anniversary, saying the show brought her and her boyfriend together.",
+      "topics": [
+        "listener mail",
+        "listener anniversary"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14469,
+    "output_tokens": 2740
+  }
+}

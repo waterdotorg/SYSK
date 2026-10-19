@@ -1,0 +1,319 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-08-07_How_Search_and_Rescue_Works_60min.txt",
+  "title": "How Search and Rescue Works",
+  "date": "2018-08-07",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-search-and-rescue-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a7033fa4-b001-494b-8466-ae28005e6c61/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a7033fa4-b001-494b-8466-ae28005e6c61/transcript?format=TextWithTimestamps&t=1700543741",
+  "summary": "Josh and Chuck (with guest producer Dylan) open with promotion for a live Christmas show in Atlanta at Center Stage Theater on December 8, with a password-protected presale, then turn to search and rescue (SAR). They cover the Coast Guard and its National Search and Rescue School in Yorktown, Virginia, including the rescue swimmer test; mounted search with horses; urban search and rescue (US&R) task forces under FEMA after disasters like 9/11, with structural engineers, shoring, and equipment; the Coast Guard's Rescue 21 system and distress beacons, plus NASA's satellite role; combat search and rescue (CSAR) and the Scott O'Grady rescue in Bosnia; search techniques such as establishing the last seen point, choke points, hasty and grid/clue teams; and cost-recovery laws for rescues, including New Hampshire's billing case. The episode ends with a drone SAR app, a personal vaping anecdote, and a listener email about a golf range picker hit by a driving-range ball.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "search and rescue",
+    "Coast Guard rescue swimmer training",
+    "National Search and Rescue School",
+    "urban search and rescue",
+    "FEMA US&R task forces",
+    "9/11 rescue response",
+    "combat search and rescue",
+    "Scott O'Grady rescue",
+    "mounted search and rescue horses",
+    "distress beacons",
+    "Rescue 21",
+    "NASA search and rescue satellites",
+    "search techniques",
+    "hasty search team",
+    "choke point search",
+    "last known position",
+    "search and rescue billing laws",
+    "New Hampshire rescue billing",
+    "Civil Air Patrol",
+    "search and rescue drones",
+    "structural collapse rescue",
+    "Atlanta live show",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Coast Guard",
+      "type": "organization"
+    },
+    {
+      "name": "National Search and Rescue School",
+      "type": "organization"
+    },
+    {
+      "name": "FEMA",
+      "type": "organization"
+    },
+    {
+      "name": "Civil Air Patrol",
+      "type": "organization"
+    },
+    {
+      "name": "Scott O'Grady",
+      "type": "person"
+    },
+    {
+      "name": "John Roderick",
+      "type": "person"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Air Force",
+      "type": "organization"
+    },
+    {
+      "name": "Rescue 21",
+      "type": "other"
+    },
+    {
+      "name": "Colorado Search and Rescue Board",
+      "type": "organization"
+    },
+    {
+      "name": "Return with Honor",
+      "type": "work"
+    },
+    {
+      "name": "Behind Enemy Lines",
+      "type": "work"
+    },
+    {
+      "name": "Bosnia",
+      "type": "place"
+    },
+    {
+      "name": "New Hampshire",
+      "type": "place"
+    },
+    {
+      "name": "Oklahoma City bombing",
+      "type": "event"
+    },
+    {
+      "name": "Hurricane Katrina",
+      "type": "event"
+    },
+    {
+      "name": "Center Stage Theater",
+      "type": "place"
+    },
+    {
+      "name": "Drones SAR",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Atlanta live Christmas show promo and opening banter",
+      "summary": "Hosts promote the first live Christmas show at Center Stage Theater in Atlanta on December 8, with a presale using a code, and introduce guest producer Dylan and the show's other podcasts. They preview upcoming episodes on Civil Air Patrol and getting lost.",
+      "topics": [
+        "Atlanta live show",
+        "Center Stage Theater",
+        "ticket presale",
+        "Civil Air Patrol"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Types of search and rescue and volunteer searchers",
+      "summary": "Hosts outline types of search and rescue: urban, marine/water, combat, and wilderness searches, and mention volunteer searchers who train on their own. They discuss how searches can turn into recovery operations and community searches for missing children.",
+      "topics": [
+        "search and rescue types",
+        "volunteer search and rescue",
+        "searching recovery",
+        "missing child searches"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Coast Guard search and rescue and its training school",
+      "summary": "The Coast Guard is presented as the heart of search and rescue. The National Search and Rescue School in Yorktown, Virginia, operated by the Air Force and Coast Guard, trains students with a goal of a two-hour total response time.",
+      "topics": [
+        "Coast Guard",
+        "National Search and Rescue School",
+        "Yorktown Virginia",
+        "response time"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Rescue swimmer training and physical test",
+      "summary": "The hosts describe the grueling rescue swimmer test: pull-ups, a obstacle course carrying dumbbells, a mile march with a rescue litter, and a timed swim with fins and snorkel. Inland training includes rope work and a dummy hung in a tree.",
+      "topics": [
+        "rescue swimmer training",
+        "Coast Guard rescue swimmer test",
+        "rescue swimmer washout rate",
+        "Stokes litter"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Mounted search and rescue with horses",
+      "summary": "Horses are used in mounted search and rescue for covering ground, reaching difficult terrain, and pulling rescuers up cliffs. Horses carrying radios could form a relay network.",
+      "topics": [
+        "mounted search and rescue",
+        "horses in search and rescue",
+        "radio relay"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:36:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-show break before the urban search and rescue segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Urban search and rescue and FEMA task forces",
+      "summary": "Urban search and rescue (US&R) involves collapsed buildings and is run by local authorities with FEMA task forces assisting. Teams deployed after events including 9/11, Oklahoma City, and Katrina. Structural engineers assess rubble and crews use inflatable Kevlar bags and shoring to create safe passage.",
+      "topics": [
+        "urban search and rescue",
+        "FEMA US&R task forces",
+        "9/11 rescue response",
+        "structural collapse rescue",
+        "Oklahoma City bombing",
+        "Hurricane Katrina"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Coast Guard distress beacons and Rescue 21",
+      "summary": "The hosts discuss the Coast Guard's Rescue 21 system with geolocation that cuts down on prank calls, newer 406 MHz distress beacons that can activate automatically, and NASA's satellite network that relays distress signals globally.",
+      "topics": [
+        "distress beacons",
+        "Rescue 21",
+        "406 MHz beacons",
+        "NASA satellite search and rescue",
+        "prank distress calls"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "Combat search and rescue and the Scott O'Grady rescue",
+      "summary": "Combat search and rescue (CSAR) is led by the Air Force, with expeditionary rescue squadrons using helicopters and refueling aircraft. Authentication of distress calls is covered. Scott O'Grady's six-day evasion in Bosnia and the rescue are described, along with his lawsuit over the film Behind Enemy Lines.",
+      "topics": [
+        "combat search and rescue",
+        "Scott O'Grady rescue",
+        "Bosnia",
+        "expeditionary rescue squadron",
+        "Behind Enemy Lines lawsuit"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:04:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-show break before search techniques.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:16:00",
+      "kind": "content",
+      "title": "Search techniques: last known position, choke points, hasty and clue teams",
+      "summary": "Searchers establish the last place seen and last known position, use choke points, deploy hasty teams first and then slower clue-finding teams in grid patterns, and sometimes use track traps.",
+      "topics": [
+        "last known position",
+        "choke point search",
+        "hasty search team",
+        "grid search",
+        "track traps",
+        "clue searching"
+      ]
+    },
+    {
+      "start": "01:16:00",
+      "end": "01:25:00",
+      "kind": "content",
+      "title": "Rescue cost recovery and billing laws",
+      "summary": "The hosts debate whether lost hikers should be billed for rescues, citing arguments for and against. New Hampshire billing law is discussed, including a case where a man with an artificial hip lost at the state Supreme Court. Some states have voluntary fee programs and the federal government does not charge.",
+      "topics": [
+        "search and rescue billing",
+        "rescue cost recovery",
+        "New Hampshire rescue billing",
+        "rescue fee programs",
+        "Colorado Search and Rescue Board"
+      ]
+    },
+    {
+      "start": "01:25:00",
+      "end": "01:30:00",
+      "kind": "content",
+      "title": "Drone search and rescue app",
+      "summary": "The Drones SAR app takes over a volunteer's drone to fly search patterns. Hosts share an anecdote about a drone fail video.",
+      "topics": [
+        "drone search and rescue",
+        "Drones SAR app"
+      ]
+    },
+    {
+      "start": "01:30:00",
+      "end": "01:33:00",
+      "kind": "content",
+      "title": "Vaping anecdote",
+      "summary": "Josh describes trying a flavored vape with nicotine that a friend uses, saying he will not do it again.",
+      "topics": [
+        "vaping"
+      ]
+    },
+    {
+      "start": "01:33:00",
+      "end": "01:36:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: golf range picker",
+      "summary": "A listener named Brian, a golf pro, recounts hitting a range picker in a cart with a three iron, with the shot landing on his wallet. He invites the hosts to play golf in Carmel.",
+      "topics": [
+        "listener mail",
+        "golf range picker",
+        "golf"
+      ]
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:37:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners, invite emails and website contact, and sign off.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19421,
+    "output_tokens": 3588
+  }
+}

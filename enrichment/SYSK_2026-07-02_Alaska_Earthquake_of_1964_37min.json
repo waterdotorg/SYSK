@@ -1,0 +1,364 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-07-02_Alaska_Earthquake_of_1964_37min.txt",
+  "title": "Alaska Earthquake of 1964",
+  "date": "2026-07-02",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/alaska-earthquake-of-1964",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/48109605-021f-4a87-81fe-b47400fd9e33/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48109605-021f-4a87-81fe-b47400fd9e33/transcript?format=TextWithTimestamps&t=1782401541",
+  "summary": "Josh and Chuck cover the 1964 Good Friday earthquake in Alaska, a magnitude 9.2 megathrust quake on March 27, 1964, the second largest ever recorded. They explain megathrust subduction at the Alaska-Aleutian Subduction Zone, the seiche waves felt across the US and abroad, the tsunamis that killed most victims (including Chenega and Port Valdez), liquefaction and land subsidence in Anchorage, the relocation of Valdez, and how the quake helped confirm plate tectonics and birth paleoseismology and land-slide tsunami science. They discuss a fungus (Cryptococcus gattii) carried inland by tsunami, the rise of seismograph networks and building codes, the 2018 Anchorage quake and 2002 Denali fault quake near the Trans-Alaska Pipeline. The episode ends with a promotional segment about the hosts' Virgin Cruises \"Stuff at Sea\" voyage to Bermuda.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Alaska earthquake 1964",
+    "Good Friday earthquake",
+    "megathrust earthquake",
+    "subduction zone",
+    "Alaska-Aleutian Subduction Zone",
+    "magnitude 9.2 earthquake",
+    "tsunami",
+    "seiche waves",
+    "Chenega tsunami",
+    "Port Valdez",
+    "Anchorage land subsidence",
+    "liquefaction",
+    "plate tectonics evidence",
+    "paleoseismology",
+    "landslide tsunami",
+    "Cryptococcus gattii",
+    "seismograph network",
+    "building codes Alaska",
+    "National Seismic Hazard Map",
+    "Trans-Alaska Pipeline",
+    "Denali fault earthquake 2002",
+    "Anchorage earthquake 2018",
+    "Stuff at Sea cruise"
+  ],
+  "entities": [
+    {
+      "name": "Good Friday earthquake",
+      "type": "event"
+    },
+    {
+      "name": "Alaska",
+      "type": "place"
+    },
+    {
+      "name": "Chile",
+      "type": "place"
+    },
+    {
+      "name": "Chenega",
+      "type": "place"
+    },
+    {
+      "name": "Port Valdez",
+      "type": "place"
+    },
+    {
+      "name": "Valdez",
+      "type": "place"
+    },
+    {
+      "name": "Anchorage",
+      "type": "place"
+    },
+    {
+      "name": "Seward",
+      "type": "place"
+    },
+    {
+      "name": "Kamchatka Peninsula",
+      "type": "place"
+    },
+    {
+      "name": "Cascadia subduction zone",
+      "type": "place"
+    },
+    {
+      "name": "Denali fault",
+      "type": "place"
+    },
+    {
+      "name": "Trans-Alaska Pipeline",
+      "type": "work"
+    },
+    {
+      "name": "Cryptococcus gattii",
+      "type": "other"
+    },
+    {
+      "name": "Smithsonian Magazine",
+      "type": "organization"
+    },
+    {
+      "name": "US Geological Survey",
+      "type": "organization"
+    },
+    {
+      "name": "Lyndon Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Christian Elliott",
+      "type": "person"
+    },
+    {
+      "name": "Space Needle",
+      "type": "place"
+    },
+    {
+      "name": "National Tsunami Warning Center",
+      "type": "organization"
+    },
+    {
+      "name": "US Array",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:05",
+      "kind": "intro",
+      "title": "Opening banter and earthquake anecdotes",
+      "summary": "Hosts introduce the episode on the 1964 Alaska earthquake and trade personal earthquake experiences, including Chuck feeling a quake in Central Florida from Cuba.",
+      "topics": [
+        "Alaska earthquake 1964",
+        "earthquake experiences"
+      ]
+    },
+    {
+      "start": "00:02:05",
+      "end": "00:04:36",
+      "kind": "content",
+      "title": "Overview of the Good Friday earthquake",
+      "summary": "The quake was magnitude 9.2, second largest recorded behind Chile's 9.5 in 1960. It killed about 131 people, with roughly 15 from the shaking itself and most from tsunamis.",
+      "topics": [
+        "Good Friday earthquake",
+        "magnitude 9.2 earthquake",
+        "Chile 1960 earthquake"
+      ]
+    },
+    {
+      "start": "00:04:36",
+      "end": "00:06:02",
+      "kind": "content",
+      "title": "Megathrust earthquakes and subduction",
+      "summary": "Explanation of how megathrust quakes occur when a heavier plate subducts beneath a lighter one and locks until it slips, and that most of the largest recorded quakes are megathrust events.",
+      "topics": [
+        "megathrust earthquake",
+        "subduction zone",
+        "plate tectonics"
+      ]
+    },
+    {
+      "start": "00:06:02",
+      "end": "00:07:19",
+      "kind": "content",
+      "title": "Alaska-Aleutian Subduction Zone and rupture size",
+      "summary": "The quake occurred at the Alaska-Aleutian Subduction Zone; the rupture area was about 500 by 125 miles and land moved tens of feet within seconds.",
+      "topics": [
+        "Alaska-Aleutian Subduction Zone",
+        "rupture area"
+      ]
+    },
+    {
+      "start": "00:07:19",
+      "end": "00:09:42",
+      "kind": "content",
+      "title": "Timing and seiche waves across the world",
+      "summary": "The quake struck March 27, 1964 around 5:36 pm and lasted about four minutes. Water level changes were recorded across US states and seiche waves reached Australia, South Africa, and the Gulf of Mexico, where boats sank off Louisiana.",
+      "topics": [
+        "seiche waves",
+        "far-reaching effects",
+        "Gulf of Mexico boats sunk"
+      ]
+    },
+    {
+      "start": "00:09:42",
+      "end": "00:11:12",
+      "kind": "content",
+      "title": "Coastline changes and drowned forests",
+      "summary": "Coastal land rose up to forty feet in some places and dropped in others, changing the coastline by as much as fifty feet. Entire forest stands dropped into the ocean.",
+      "topics": [
+        "coastline changes",
+        "land uplift and subsidence",
+        "drowned forest"
+      ]
+    },
+    {
+      "start": "00:11:12",
+      "end": "00:13:01",
+      "kind": "content",
+      "title": "Tsunamis and casualties",
+      "summary": "Most deaths came from tsunamis, including a wave reaching about 200 feet and deaths as far away as California. Chenega was washed away within four minutes, with 23 of 68 residents dying.",
+      "topics": [
+        "tsunami deaths",
+        "Chenega tsunami",
+        "200-foot wave"
+      ]
+    },
+    {
+      "start": "00:13:01",
+      "end": "00:15:04",
+      "kind": "content",
+      "title": "Port Valdez fires and soil liquefaction",
+      "summary": "Port Valdez was hit by tsunamis, with 32 deaths and burning oil tankers. Because the town sat on sand and gravel, liquefaction swallowed parts of it.",
+      "topics": [
+        "Port Valdez",
+        "liquefaction",
+        "oil tankers fire"
+      ]
+    },
+    {
+      "start": "00:15:04",
+      "end": "00:16:31",
+      "kind": "content",
+      "title": "Anchorage landslides and subsidence",
+      "summary": "Triggered landslides in Anchorage and the business district sank about nine feet, with nearby areas dropping up to twenty feet.",
+      "topics": [
+        "Anchorage subsidence",
+        "landslides",
+        "Life magazine photos"
+      ]
+    },
+    {
+      "start": "00:16:31",
+      "end": "00:18:50",
+      "kind": "content",
+      "title": "Aftermath, disaster declaration, and communication",
+      "summary": "Lyndon Johnson declared Alaska a major disaster area; roads and phone lines were down. Damage was about three billion dollars in today's dollars. Shipping lanes were redrawn and Valdez was relocated about four miles away.",
+      "topics": [
+        "disaster declaration",
+        "damage costs",
+        "Valdez relocation",
+        "Army Corps of Engineers"
+      ]
+    },
+    {
+      "start": "00:18:50",
+      "end": "00:19:18",
+      "kind": "content",
+      "title": "Hiking the old Valdez site",
+      "summary": "Chuck notes that the original Valdez townsite can be hiked, with street signs and plaques marking former locations.",
+      "topics": [
+        "old Valdez townsite",
+        "hiking Alaska"
+      ]
+    },
+    {
+      "start": "00:19:18",
+      "end": "00:21:04",
+      "kind": "content",
+      "title": "Role in confirming plate tectonics",
+      "summary": "The quake provided evidence that plate tectonics explained the land uplift, subsidence and tsunamis, at a time when the theory was still debated; USGS scientists studied the site.",
+      "topics": [
+        "plate tectonics acceptance",
+        "USGS research",
+        "Smithsonian article"
+      ]
+    },
+    {
+      "start": "00:21:04",
+      "end": "00:23:05",
+      "kind": "content",
+      "title": "Buried forests and paleoseismology",
+      "summary": "Scientists found older buried land plants beneath the sunken forests, showing such events had happened before. This birthed paleoseismology and led to searches for similar records at the Cascadia subduction zone.",
+      "topics": [
+        "paleoseismology",
+        "buried forests",
+        "Cascadia subduction zone"
+      ]
+    },
+    {
+      "start": "00:23:05",
+      "end": "00:25:06",
+      "kind": "content",
+      "title": "Landslide tsunamis in fjords",
+      "summary": "Tsunamis hit some coastal areas within minutes because quake-triggered underwater landslides from glacier-fed fjord sediment produced waves, a new concept called landslide tsunami.",
+      "topics": [
+        "landslide tsunami",
+        "fjords",
+        "underwater landslides"
+      ]
+    },
+    {
+      "start": "00:25:06",
+      "end": "00:28:35",
+      "kind": "content",
+      "title": "Cryptococcus gattii fungus spread by tsunami",
+      "summary": "A fungus native to tropics, Cryptococcus gattii, arrived in the Pacific Northwest via ship ballast around 1900 and was spread inland by the 1964 tsunami; it later caused infections in the 1990s, traced by epidemiologists.",
+      "topics": [
+        "Cryptococcus gattii",
+        "fungal outbreak",
+        "ship ballast water"
+      ]
+    },
+    {
+      "start": "00:28:35",
+      "end": "00:31:16",
+      "kind": "content",
+      "title": "Building codes, seismographs, and hazard maps",
+      "summary": "The quake led to better building codes and more seismograph stations; the nuclear arms race drove early seismograph deployment. Later networks and the National Seismic Hazard Map followed, including the USArray project.",
+      "topics": [
+        "building codes",
+        "seismograph network",
+        "National Seismic Hazard Map",
+        "USArray"
+      ]
+    },
+    {
+      "start": "00:31:16",
+      "end": "00:33:02",
+      "kind": "content",
+      "title": "Tsunami warning and later Alaska quakes",
+      "summary": "Tsunami warning systems improved and the National Tsunami Warning Center was established. Hosts mention the 2018 Anchorage quake (magnitude 7.0, no deaths) and a larger 2021 quake of 8.2 in a remote area.",
+      "topics": [
+        "National Tsunami Warning Center",
+        "2018 Anchorage earthquake",
+        "2021 Alaska earthquake"
+      ]
+    },
+    {
+      "start": "00:33:02",
+      "end": "00:34:18",
+      "kind": "content",
+      "title": "Trans-Alaska Pipeline and Denali fault",
+      "summary": "The 2002 magnitude 7.9 Denali fault earthquake did not cause much damage to the Trans-Alaska Pipeline, which crosses the fault.",
+      "topics": [
+        "Trans-Alaska Pipeline",
+        "Denali fault",
+        "2002 earthquake"
+      ]
+    },
+    {
+      "start": "00:34:18",
+      "end": "00:36:28",
+      "kind": "ad",
+      "title": "Listener mail skipped; Stuff at Sea cruise promo",
+      "summary": "Hosts skip listener mail and promote an October cruise to Bermuda with Virgin Cruises, with a live show and onboard events.",
+      "topics": [
+        "Stuff at Sea cruise",
+        "Virgin Cruises",
+        "Bermuda"
+      ]
+    },
+    {
+      "start": "00:36:28",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off and give the listener email address.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14035,
+    "output_tokens": 3899
+  }
+}

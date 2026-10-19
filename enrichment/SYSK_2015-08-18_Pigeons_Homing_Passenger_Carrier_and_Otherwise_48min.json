@@ -1,0 +1,269 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-08-18_Pigeons_Homing_Passenger_Carrier_and_Otherwise_48min.txt",
+  "title": "Pigeons: Homing, Passenger, Carrier and Otherwise",
+  "date": "2015-08-18",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/pigeons-homing-passenger-carrier-and-otherwise",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4fdf8328-bc14-4ece-a1d7-ae28008c09a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4fdf8328-bc14-4ece-a1d7-ae28008c09a4/transcript?format=TextWithTimestamps&t=1700543851",
+  "summary": "Josh Clark and Chuck Bryant explore the different kinds of pigeons. They distinguish homing pigeons (bred to find their way home and used for racing), messenger pigeons (homing pigeons carrying messages), carrier pigeons (fancy show birds with wattles, not actually carriers), and passenger pigeons (a native North American species driven to extinction by hunting and deforestation, with Martha as the last known bird). They cover theories of homing navigation (sun, magnetic field, smell, infrasound), military messenger pigeon history (Siege of Paris, Genghis Khan, World War One, and the Argonne rescue by Cher Ami, spelled here as Sharemy/Jereh me), pigeon fancier culture, city pigeons and feeding laws, a guide to caring for and training a stranded homing pigeon, and a listener mail correction about Kepler planets and orbital tilt.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "pigeons",
+    "homing pigeons",
+    "messenger pigeons",
+    "carrier pigeons",
+    "passenger pigeon",
+    "passenger pigeon extinction",
+    "Martha passenger pigeon",
+    "pigeon racing",
+    "pigeon fanciers",
+    "wattle",
+    "homing navigation",
+    "magnetic field navigation",
+    "infrasound pigeons",
+    "release site bias",
+    "military pigeons",
+    "World War One pigeons",
+    "Cher Ami",
+    "Siege of Paris pigeons",
+    "Genghis Khan pigeon relay",
+    "city pigeons",
+    "feeding pigeons laws",
+    "rock pigeon",
+    "caring for stranded pigeon",
+    "training homing pigeons",
+    "Kepler planets listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Martha",
+      "type": "other"
+    },
+    {
+      "name": "Cher Ami",
+      "type": "other"
+    },
+    {
+      "name": "Genghis Khan",
+      "type": "person"
+    },
+    {
+      "name": "John James Audubon",
+      "type": "person"
+    },
+    {
+      "name": "John Hagstrom",
+      "type": "person"
+    },
+    {
+      "name": "Siege of Paris",
+      "type": "event"
+    },
+    {
+      "name": "Battle of the Argonne",
+      "type": "event"
+    },
+    {
+      "name": "Battle of the Marne",
+      "type": "event"
+    },
+    {
+      "name": "Brookfield Zoo",
+      "type": "place"
+    },
+    {
+      "name": "Cincinnati Zoo",
+      "type": "place"
+    },
+    {
+      "name": "Smithsonian",
+      "type": "organization"
+    },
+    {
+      "name": "Yellowstone",
+      "type": "place"
+    },
+    {
+      "name": "Kepler",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and pigeon types",
+      "summary": "The hosts open with banter and introduce the confusing terminology around homing, messenger, carrier, and passenger pigeons, plus the rock pigeon ancestry.",
+      "topics": [
+        "pigeon types",
+        "rock pigeon",
+        "pigeon terminology"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Carrier pigeons, wattles, and pigeon fanciers",
+      "summary": "Carrier pigeons are described as fancy show birds with fleshy wattles on the bill. Pigeon fanciers, US import history from Europe in 1860, early racing clubs, and Philadelphia's fancier community are covered, along with pigeon speeds and distances including the homing pigeon Charlie's flight from the UK to Brazil.",
+      "topics": [
+        "carrier pigeons",
+        "wattle",
+        "pigeon fanciers",
+        "pigeon racing",
+        "homing pigeon speed"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Racing homers and how pigeons find home",
+      "summary": "Homing pigeons are bred for racing and are trained by releasing them from distant points. The hosts discuss theories of navigation: sun, compass and map, magnetic fields, smell, and infrasound (John Hagstrom's proposal), plus the Yellowstone lake pigeon anecdote and release site bias.",
+      "topics": [
+        "homing navigation",
+        "magnetic field navigation",
+        "infrasound pigeons",
+        "release site bias",
+        "racing homers"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Lighthearted break on Will Ferrell film",
+      "summary": "The hosts take a break and banter about a Lifetime movie starring Kristen Wiig and Will Ferrell and a film about a blind pianist.",
+      "topics": [
+        "banter",
+        "Will Ferrell",
+        "Kristen Wiig"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Clarifying messenger versus carrier versus homing",
+      "summary": "The hosts clarify that a messenger pigeon is a homing pigeon carrying a message, while carrier pigeons are show birds that do not carry anything.",
+      "topics": [
+        "messenger pigeons",
+        "carrier pigeons",
+        "homing pigeons",
+        "pigeon terminology"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "History of messenger pigeons in war",
+      "summary": "Ancient uses of messenger pigeons include Egypt, Phoenicia, Rome chariot race reports, and Genghis Khan's relay system. German World War One camera pigeons and French wartime use are covered, including the Siege of Paris and the Battle of the Marne lofts.",
+      "topics": [
+        "messenger pigeons history",
+        "Genghis Khan pigeon relay",
+        "Siege of Paris pigeons",
+        "Battle of the Marne pigeons",
+        "World War One pigeons",
+        "wartime pigeon laws"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Cher Ami and the Battle of the Argonne",
+      "summary": "Cher Ami, a homing pigeon with the New York company at the Battle of the Argonne in October 1918, was shot in the chest and lost a leg but delivered the message that led to the rescue of 194 men. The pigeon was awarded the Croix de Guerre with palm and died in 1919; he is preserved and displayed.",
+      "topics": [
+        "Cher Ami",
+        "Battle of the Argonne",
+        "World War One pigeons",
+        "Croix de Guerre pigeon",
+        "pigeon heroism"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Transition to passenger pigeons",
+      "summary": "The hosts pause and introduce the passenger pigeon as a separate, now-extinct North American species.",
+      "topics": [
+        "passenger pigeon",
+        "transition"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Passenger pigeon extinction",
+      "summary": "Passenger pigeons were native to North America and once in huge flocks, including estimated billions in the 1870s and a flock blotting out the sky described by Audubon. Hunting for food and deforestation of mast-producing forests led to extinction; the last wild bird was seen in 1899 and Martha, the last captive bird, died in 1914. Debate over pre-Columbian population and the ethics of de-extinction is discussed.",
+      "topics": [
+        "passenger pigeon extinction",
+        "Martha passenger pigeon",
+        "deforestation",
+        "de-extinction",
+        "Audubon",
+        "Charles Mann"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Pigeon drug smuggling, city pigeons, and feeding lawsuits",
+      "summary": "Pigeons have reportedly been used to smuggle small amounts of heroin in Afghanistan and Pakistan. City pigeons are discussed, including bans on feeding in Paris and French lawsuits over feeding and pigeon droppings.",
+      "topics": [
+        "city pigeons",
+        "feeding pigeons laws",
+        "pigeon lawsuits",
+        "pigeon smuggling"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:03:00",
+      "kind": "content",
+      "title": "Caring for a stranded homing pigeon and training",
+      "summary": "Advice for helping a stranded homing pigeon: give water in a shallow dish, offer seed, keep it in a safe, cool box, then release it after a day or two. The hosts also describe training homers with a second roost and food removal, and list famous pigeon fanciers.",
+      "topics": [
+        "stranded pigeon care",
+        "training homing pigeons",
+        "pigeon fanciers famous",
+        "pigeon roost"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:05:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Kepler planets",
+      "summary": "A listener named Jim from New Jersey writes that planets whose orbits are not aligned with Earth's view cannot be detected by the Kepler method, and the hosts thank him.",
+      "topics": [
+        "Kepler planets",
+        "exoplanets",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "01:05:00",
+      "end": "01:06:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners and give their social and web contact information.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16009,
+    "output_tokens": 3189
+  }
+}

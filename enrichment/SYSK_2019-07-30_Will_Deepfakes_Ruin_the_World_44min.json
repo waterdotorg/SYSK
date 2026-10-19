@@ -1,0 +1,272 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-07-30_Will_Deepfakes_Ruin_the_World_44min.txt",
+  "title": "Will Deepfakes Ruin the World?",
+  "date": "2019-07-30",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/will-deepfakes-ruin-the-world",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9c93eaa8-7d3c-4535-bdea-ae280048d68f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9c93eaa8-7d3c-4535-bdea-ae280048d68f/transcript?format=TextWithTimestamps&t=1700543688",
+  "summary": "Josh and Chuck explain deep fakes: AI-generated or AI-altered videos showing people saying or doing things they never did. They trace the name to a Reddit user \"deepfake\" in late 2017 who posted celebrity face-swapped porn using Keras and TensorFlow, then how a downloadable desktop app spread the technique in early 2018. They explain the generative adversarial network (GAN) concept from Ian Goodfellow, the role of data set size (celebrities and world leaders as early targets, one-picture demos from Samsung), and examples like Nick Cage movie swaps, the Mona Lisa and Marilyn Monroe demos, de-aging actors, and the Jordan Peele and BuzzFeed Obama deep fake. They cover harms: non-consensual deep fake porn, an app that \"undressed\" photos of women and was shut down within days, political and nuclear-threat fears, erosion of shared reality, and the \"death of truth.\" They discuss detection clues (blinking, lighting, compression, audio room acoustics), BuzzFeed's tips for spotting fakes, takedown options via hosting sites, and the lack of direct laws, with revenge porn statutes and First Amendment satire as considerations. The episode closes with listener mail about swearing and the Neanderthal episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "deep fakes",
+    "deepfake videos",
+    "deepfake porn",
+    "non-consensual synthetic porn",
+    "generative adversarial network",
+    "GAN",
+    "Ian Goodfellow",
+    "artificial neural network",
+    "machine learning",
+    "AI face swapping",
+    "Keras TensorFlow",
+    "Reddit deepfake origins",
+    "desktop deepfake app",
+    "Jordan Peele Obama deepfake",
+    "Samsung Mona Lisa deepfake",
+    "de-aging actors",
+    "digital forensics",
+    "detecting deepfakes",
+    "fake news",
+    "misinformation",
+    "death of truth",
+    "revenge porn laws",
+    "First Amendment satire",
+    "undress app",
+    "Nicolas Cage deepfakes"
+  ],
+  "entities": [
+    {
+      "name": "Ian Goodfellow",
+      "type": "person"
+    },
+    {
+      "name": "Jordan Peele",
+      "type": "person"
+    },
+    {
+      "name": "Nicolas Cage",
+      "type": "person"
+    },
+    {
+      "name": "Obama deepfake video",
+      "type": "event"
+    },
+    {
+      "name": "Samsung Mona Lisa demo",
+      "type": "event"
+    },
+    {
+      "name": "Keras",
+      "type": "other"
+    },
+    {
+      "name": "TensorFlow",
+      "type": "other"
+    },
+    {
+      "name": "Reddit",
+      "type": "organization"
+    },
+    {
+      "name": "BuzzFeed",
+      "type": "organization"
+    },
+    {
+      "name": "Motherboard",
+      "type": "organization"
+    },
+    {
+      "name": "Giphy",
+      "type": "organization"
+    },
+    {
+      "name": "Dartmouth",
+      "type": "organization"
+    },
+    {
+      "name": "Marco Rubio",
+      "type": "person"
+    },
+    {
+      "name": "Marilyn Monroe",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and content warning",
+      "summary": "The hosts open with a welcome, joke about a producer, and a content warning that the episode covers dark, harmful material. They joke about fake lip-reading videos and tease the topic of fake videos.",
+      "topics": [
+        "content warning",
+        "fake lip reading videos"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Definition and history of altered video",
+      "summary": "The hosts define a deep fake as a video of someone saying or doing something they never did. They note older doctored video and early newsreel staging, and contrast deep fakes as a more realistic leap beyond earlier manipulation.",
+      "topics": [
+        "deep fake definition",
+        "altered video history",
+        "newsreel staging",
+        "doctored video"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Origins of deep fakes on Reddit",
+      "summary": "In late 2017 a Reddit user going by deepfake posted celebrity face-swapped pornography made with Keras and TensorFlow. Within months a downloadable desktop app spread the technique, and it was downloaded about a hundred thousand times in the first month. Early uses included putting Nicolas Cage into movies.",
+      "topics": [
+        "Reddit deepfake origins",
+        "Keras and TensorFlow",
+        "desktop deepfake app",
+        "Nicolas Cage deepfakes"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "How the technology works: GANs",
+      "summary": "The hosts explain machine learning and the generative adversarial network developed by Ian Goodfellow, with a generator producing images and a discriminator judging them, using a cat-picture analogy. They describe the feedback loop that improves the generator's output.",
+      "topics": [
+        "generative adversarial network",
+        "Ian Goodfellow",
+        "artificial neural network",
+        "machine learning",
+        "generator and discriminator"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Data sets, de-aging, and realism",
+      "summary": "The hosts explain that larger data sets of celebrities and world leaders make better fakes, and that Samsung showed convincing fakes from a single picture of the Mona Lisa and Marilyn Monroe. They discuss de-aged actors in films and how the technology is improving.",
+      "topics": [
+        "training data sets",
+        "Samsung Mona Lisa demo",
+        "de-aging actors",
+        "one-picture deepfakes"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Democratization and the Obama deep fake",
+      "summary": "The hosts describe apps that scrape social media and match faces to porn performers, making deep fakes widely accessible. They discuss Jordan Peele's BuzzFeed-produced Obama deep fake demonstration and how mouth-matching tools have advanced since.",
+      "topics": [
+        "social media scraping",
+        "Jordan Peele Obama deepfake",
+        "BuzzFeed",
+        "lip-sync technology",
+        "democratized deepfakes"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Political threats and death of truth",
+      "summary": "The hosts discuss fears that deep fakes could fake news about world leaders or nuclear threats, with Marco Rubio comparing them to nuclear bombs. They note that deep fakes could erode trust in democracy and lead to a loss of shared objective reality, though people may become more discerning.",
+      "topics": [
+        "political deepfakes",
+        "fake news",
+        "death of truth",
+        "trust in democracy",
+        "Marco Rubio"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "A short break before returning to the porn discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Non-consensual deep fake porn and harms",
+      "summary": "The hosts discuss deep fake porn as harmful to the people whose faces are used and to performers. They describe an app that digitally undressed photos of women, which its creator shut down within days, and the threat to individuals such as through blackmail. Congress held hearings on the topic this year.",
+      "topics": [
+        "deepfake porn",
+        "non-consensual pornography",
+        "undress app",
+        "blackmail",
+        "congressional hearings"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "Detecting deep fakes",
+      "summary": "The hosts explain that deep fakes often fail to blink because training data lacks closed eyes, and mention lighting, compression, and audio room acoustics as detection clues. They note that digital forensic experts like Henry Farid at Dartmouth work on detection and that some detection is now automated.",
+      "topics": [
+        "detecting deepfakes",
+        "digital forensics",
+        "blinking",
+        "audio forensics",
+        "Henry Farid"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:10:00",
+      "kind": "content",
+      "title": "Tips for spotting fakes and legal options",
+      "summary": "The hosts list BuzzFeed's tips: consider the source, check whether reputable outlets carry the story, look closely at mouths, and slow the video down. They say takedown requests to hosting sites work, that there are few direct laws, and that revenge porn statutes and First Amendment satire defenses may apply.",
+      "topics": [
+        "spotting fake videos",
+        "takedown requests",
+        "revenge porn laws",
+        "First Amendment",
+        "satire defense"
+      ]
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:15:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: swearing and Neanderthals",
+      "summary": "A listener writes about remnants of Neanderthal language in modern speech and how swear words activate a different part of the brain, linking it to the How Swearing Works episode. The hosts read the mail and thank the new producer.",
+      "topics": [
+        "listener mail",
+        "Neanderthal language",
+        "swearing"
+      ]
+    },
+    {
+      "start": "01:15:00",
+      "end": "01:16:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners, share social media and email contact information, and sign off.",
+      "topics": [
+        "contact information",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14750,
+    "output_tokens": 3231
+  }
+}

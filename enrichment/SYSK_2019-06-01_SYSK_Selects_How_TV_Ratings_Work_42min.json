@@ -1,0 +1,259 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-06-01_SYSK_Selects_How_TV_Ratings_Work_42min.txt",
+  "title": "SYSK Selects: How TV Ratings Work",
+  "date": "2019-06-01",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-tv-ratings-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/daf65a12-458a-4a5e-a763-ae28004bed7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/daf65a12-458a-4a5e-a763-ae28004bed7f/transcript?format=TextWithTimestamps&t=1700543695",
+  "summary": "SYSK Selects rerun (originally aired September 2014) explaining how TV ratings work. Hosts trace Nielsen's history from radio diaries and recording devices to TV set meters and people meters, the audio-watermark method that identifies shows, and the paper diaries used in sweeps. They cover how sweeps weeks, share versus rating, and advertising rates (including ad prices and the 18-49 demographic) connect to ratings, and how DVRs, DVR time-shifted viewing (Live plus 3/7), online and mobile viewing, cookies, and competitors like comScore and Rentrak are challenging Nielsen. They close with Twitter trend data, Community's renewal, and a listener mail letter from a Long Island Rail Road conductor.",
+  "episode_kind": "rerun",
+  "rerun_of": "How TV Ratings Work",
+  "topics": [
+    "TV ratings",
+    "Nielsen ratings",
+    "Nielsen history",
+    "people meters",
+    "TV set meters",
+    "audio watermark",
+    "sweeps week",
+    "paper diaries",
+    "share vs rating",
+    "advertising rates",
+    "DVR ratings",
+    "Live plus 3",
+    "online TV viewing",
+    "cookies tracking",
+    "comScore",
+    "Rentrak",
+    "Twitter TV trends",
+    "demographics 18-49",
+    "stunt casting",
+    "broadcast vs cable advertising",
+    "listener mail",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "Nielsen",
+      "type": "organization"
+    },
+    {
+      "name": "A. C. Nielsen Company",
+      "type": "organization"
+    },
+    {
+      "name": "comScore",
+      "type": "organization"
+    },
+    {
+      "name": "Rentrak",
+      "type": "organization"
+    },
+    {
+      "name": "TiVo",
+      "type": "organization"
+    },
+    {
+      "name": "NBC",
+      "type": "organization"
+    },
+    {
+      "name": "Twitter",
+      "type": "organization"
+    },
+    {
+      "name": "Community",
+      "type": "work"
+    },
+    {
+      "name": "Freaks and Geeks",
+      "type": "work"
+    },
+    {
+      "name": "Happy Days",
+      "type": "work"
+    },
+    {
+      "name": "Murder, She Wrote",
+      "type": "work"
+    },
+    {
+      "name": "Janet Jackson Super Bowl nip slip",
+      "type": "event"
+    },
+    {
+      "name": "Sochi Olympics",
+      "type": "event"
+    },
+    {
+      "name": "Donna Gallery Furniture ad",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:03",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Selects intro and TV show cancellation banter",
+      "summary": "Chuck introduces this Selects episode about TV ratings. Hosts joke about their own sitcom and cancellation, and say Nielsen's antiquated system affected them.",
+      "topics": [
+        "SYSK Selects",
+        "TV ratings",
+        "show cancellation"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Origins of Nielsen ratings",
+      "summary": "Radio ratings began with phone surveys asking families what they listened to. Nielsen then placed recording devices in randomly chosen homes, and its dominance in broadcast ratings followed.",
+      "topics": [
+        "Nielsen history",
+        "radio ratings",
+        "A. C. Nielsen Company",
+        "audience measurement"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Paper diaries and people meters",
+      "summary": "Nielsen still mails paper diaries with a one-dollar bill, though it said it would stop in 2006. It also uses TV set meters and people meters in roughly 30,000 homes across the US and Canada.",
+      "topics": [
+        "paper diaries",
+        "people meters",
+        "TV set meters",
+        "sample households"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Audio watermark tracking and sample size",
+      "summary": "Nielsen identifies shows through inaudible audio codes that broadcasters embed in their audio. Hosts question how a small sample can represent the country and how statistics are weighted and audited.",
+      "topics": [
+        "audio watermark",
+        "audio fingerprint",
+        "sample representativeness",
+        "statistics",
+        "Nielsen audits"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Why ratings matter: ad rates and demographics",
+      "summary": "Ratings set advertising rates worth about $78 billion a year in TV ads. Advertisers care about viewers of commercials and the 18-49 demographic, and the hosts describe how a half-hour show's ad time is split between national and local ads.",
+      "topics": [
+        "advertising rates",
+        "18-49 demographic",
+        "ad revenue",
+        "national vs local ad spots",
+        "TV commercials"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:16:00",
+      "kind": "ad",
+      "title": "Ad segment placeholder",
+      "summary": "No sponsor read is present in the transcript at this point.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Sweeps week origins and stunt casting",
+      "summary": "Sweeps began with geographic TV diary surveys in the 1950s. Networks started loading stunts into the sweeps period, and the hosts cite examples including Happy Days' jump-the-shark episode. Sweeps now runs as four four-week periods.",
+      "topics": [
+        "sweeps week",
+        "stunt casting",
+        "jump the shark",
+        "Happy Days",
+        "ratings periods"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "DVRs, time-shifted viewing and share vs rating",
+      "summary": "DVRs prompted advertisers to fear fast-forwarding, but product placement and popbusters kept ads effective. Nielsen moved to Live plus 3 and Live plus 7 measurement, and the hosts define share versus rating.",
+      "topics": [
+        "DVR ratings",
+        "Live plus 3",
+        "fast forward ads",
+        "popbusters",
+        "share vs rating",
+        "TiVo"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Online, mobile viewing and competition for Nielsen",
+      "summary": "Viewing has moved to computers, tablets, and smartphones, which Nielsen has trouble measuring. Cookies, companies such as comScore and Rentrak, and a Nielsen-Twitter partnership are all trying to take over or add to measurement.",
+      "topics": [
+        "online TV viewing",
+        "cookies tracking",
+        "comScore",
+        "Rentrak",
+        "mobile TV",
+        "Twitter trends",
+        "TV measurement competition"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Future of TV measurement and Community",
+      "summary": "Hosts predict cross-platform tracking with ads traveling with shows, and say NBC kept Community on air because of its Twitter buzz. They also discuss Freaks and Geeks and the Luke Ryan connection.",
+      "topics": [
+        "future of TV ratings",
+        "Community NBC",
+        "Twitter buzz",
+        "Freaks and Geeks",
+        "targeted ads"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: train conductor",
+      "summary": "A Long Island Rail Road conductor from Bethel, Connecticut writes that the show keeps him awake on his late-night commute. Hosts discuss pronunciation of his name and ask for listener feedback.",
+      "topics": [
+        "listener mail",
+        "Long Island Rail Road",
+        "podcast feedback"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give contact information and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13863,
+    "output_tokens": 2704
+  }
+}

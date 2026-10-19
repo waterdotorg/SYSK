@@ -1,0 +1,444 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-09-12_Special_Effects_A_Short_History_55min.txt",
+  "title": "Special Effects: A Short History",
+  "date": "2019-09-12",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/special-effects-a-short-history",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1c3bd678-beaf-41a1-b64b-ae2800462388/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1c3bd678-beaf-41a1-b64b-ae2800462388/transcript?format=TextWithTimestamps&t=1751062307",
+  "summary": "Josh and Chuck open with lawn-mower banter, then cover the history and techniques of movie special effects. They sort effects into practical, in-camera, and post-production categories, and trace early tricks from Alfred Clark's 1895 stop trick and Georges Méliès through matte painting (Norman Dorn's original negative matte painting), rear and front projection, the Williams process and optical printers, blue and green screen, and motion control (Dykstra Flex on Star Wars). They discuss stop-motion pioneers (Willis O'Brien, Ray Harryhausen), makeup artists (Lon Chaney, Dick Smith, Rick Baker, Stan Winston, Tom Savini), Millicent Patrick's uncredited Gill Man design, and the move to CGI, motion capture (Gollum, WETA, ILM), and de-aging. A listener email about roofing and rooftop solar panels closes the episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "special effects",
+    "movie special effects history",
+    "practical effects",
+    "in-camera effects",
+    "post-production effects",
+    "CGI",
+    "matte painting",
+    "original negative matte painting",
+    "Norman Dorn",
+    "stop motion animation",
+    "Georges Méliès",
+    "Alfred Clark",
+    "stop trick",
+    "optical printer",
+    "Williams process",
+    "blue screen",
+    "green screen",
+    "motion control camera",
+    "Dykstra Flex",
+    "Star Wars special effects",
+    "King Kong 1933",
+    "Willis O'Brien",
+    "Ray Harryhausen",
+    "Millicent Patrick",
+    "Creature from the Black Lagoon",
+    "Dick Smith",
+    "Rick Baker",
+    "Stan Winston",
+    "Tom Savini",
+    "motion capture",
+    "Gollum",
+    "de-aging",
+    "rear projection",
+    "front projection",
+    "Invisible Man 1933",
+    "Jurassic Park effects",
+    "Lon Chaney"
+  ],
+  "entities": [
+    {
+      "name": "Alfred Clark",
+      "type": "person"
+    },
+    {
+      "name": "Georges Méliès",
+      "type": "person"
+    },
+    {
+      "name": "Norman Dorn",
+      "type": "person"
+    },
+    {
+      "name": "James Cameron",
+      "type": "person"
+    },
+    {
+      "name": "John Dykstra",
+      "type": "person"
+    },
+    {
+      "name": "Willis O'Brien",
+      "type": "person"
+    },
+    {
+      "name": "Ray Harryhausen",
+      "type": "person"
+    },
+    {
+      "name": "Millicent Patrick",
+      "type": "person"
+    },
+    {
+      "name": "Dick Smith",
+      "type": "person"
+    },
+    {
+      "name": "Rick Baker",
+      "type": "person"
+    },
+    {
+      "name": "Stan Winston",
+      "type": "person"
+    },
+    {
+      "name": "Tom Savini",
+      "type": "person"
+    },
+    {
+      "name": "Lon Chaney",
+      "type": "person"
+    },
+    {
+      "name": "Industrial Light and Magic",
+      "type": "organization"
+    },
+    {
+      "name": "WETA",
+      "type": "organization"
+    },
+    {
+      "name": "A Trip to the Moon",
+      "type": "work"
+    },
+    {
+      "name": "The Execution of Mary, Queen of Scots",
+      "type": "work"
+    },
+    {
+      "name": "Star Wars",
+      "type": "work"
+    },
+    {
+      "name": "King Kong (1933)",
+      "type": "work"
+    },
+    {
+      "name": "Jurassic Park",
+      "type": "work"
+    },
+    {
+      "name": "The Invisible Man (1933)",
+      "type": "work"
+    },
+    {
+      "name": "Sky Captain and the World of Tomorrow",
+      "type": "work"
+    },
+    {
+      "name": "Sin City",
+      "type": "work"
+    },
+    {
+      "name": "Creature from the Black Lagoon",
+      "type": "work"
+    },
+    {
+      "name": "Escape from New York",
+      "type": "work"
+    },
+    {
+      "name": "The Abyss",
+      "type": "work"
+    },
+    {
+      "name": "Looker",
+      "type": "work"
+    },
+    {
+      "name": "The Wrath of Khan",
+      "type": "work"
+    },
+    {
+      "name": "Young Sherlock Holmes",
+      "type": "work"
+    },
+    {
+      "name": "Friday the 13th Part 2",
+      "type": "work"
+    },
+    {
+      "name": "Gemini Man",
+      "type": "work"
+    },
+    {
+      "name": "The Irishman",
+      "type": "work"
+    },
+    {
+      "name": "Oh Brother, Where Art Thou?",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and tour dates",
+      "summary": "Tour dates in Orlando and New Orleans are announced, followed by off-topic chat about hats, lawn mowers, and the film The Changeling.",
+      "topics": [
+        "tour dates",
+        "lawn mowers",
+        "The Changeling"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:20",
+      "kind": "content",
+      "title": "Overview of special effects categories",
+      "summary": "Josh and Chuck introduce special effects and sort them into practical, in-camera, and post-production effects, giving examples like prosthetics and fake fire.",
+      "topics": [
+        "special effects",
+        "practical effects",
+        "in-camera effects",
+        "post-production effects",
+        "Sky Captain",
+        "Sin City"
+      ]
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "In-camera effects and early basis of trickery",
+      "summary": "Examples of in-camera effects such as slow motion, fast motion, stop-motion animation, and double exposure from still photography, which gave early filmmakers a basis of trickery.",
+      "topics": [
+        "in-camera effects",
+        "stop motion animation",
+        "double exposure",
+        "slow motion",
+        "fast motion"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:20",
+      "kind": "content",
+      "title": "Early pioneers: Alfred Clark and Georges Méliès",
+      "summary": "Alfred Clark's 1895 stop trick in The Execution of Mary, Queen of Scots is described. Georges Méliès, called the father of special effects, discovered the substitution splice by accident in Paris in 1896 and made A Trip to the Moon in 1902.",
+      "topics": [
+        "Alfred Clark",
+        "stop trick",
+        "Georges Méliès",
+        "A Trip to the Moon",
+        "early cinema special effects"
+      ]
+    },
+    {
+      "start": "00:15:20",
+      "end": "00:16:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Ad break between segments.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:23:10",
+      "kind": "content",
+      "title": "Matte painting, rear projection, and shaken car shots",
+      "summary": "Matte painting is explained, including original negative matte painting pioneered by Norman Dorn, James Cameron's early matte painting job on Escape from New York, and examples in Mary Poppins and Superman. Rear and front projection are covered, along with the car-shaking technique used for driving scenes.",
+      "topics": [
+        "matte painting",
+        "original negative matte painting",
+        "Norman Dorn",
+        "set extension",
+        "rear projection",
+        "front projection",
+        "Escape from New York",
+        "Pulp Fiction",
+        "driving scene effects"
+      ]
+    },
+    {
+      "start": "00:23:10_",
+      "end": "00:26:20",
+      "kind": "content",
+      "title": "Green screen, blue screen, and the Williams process",
+      "summary": "Early green screen used sodium vapor lights. The Invisible Man (1933) used black-screen filming, which is the Williams process, relying on an optical printer. Blue screen gave way to green screen.",
+      "topics": [
+        "green screen",
+        "blue screen",
+        "Williams process",
+        "The Invisible Man",
+        "optical printer",
+        "chroma key"
+      ]
+    },
+    {
+      "start": "00:26:20",
+      "end": "00:29:36",
+      "kind": "content",
+      "title": "Optical printers and compositing",
+      "summary": "Chuck and Josh explain how an optical printer projects and re-films separate elements to combine them into one shot.",
+      "topics": [
+        "optical printer",
+        "compositing",
+        "multiple exposure"
+      ]
+    },
+    {
+      "start": "00:29:36",
+      "end": "00:33:36",
+      "kind": "content",
+      "title": "Motion control cameras and Star Wars",
+      "summary": "Motion control cameras repeat precise camera moves. Star Wars used them, along with an optical printer, to make static models appear to move, with John Dykstra's Dykstraflex rig.",
+      "topics": [
+        "motion control camera",
+        "Star Wars special effects",
+        "Dykstraflex",
+        "ILM",
+        "miniature models"
+      ]
+    },
+    {
+      "start": "00:33:36",
+      "end": "00:34:40",
+      "kind": "content",
+      "title": "Jurassic Park and Academy Award history",
+      "summary": "Jurassic Park's raptor kitchen scene mixed puppets, costumes, animatronics, and CGI. The Abyss is discussed as an early CGI Oscar winner.",
+      "topics": [
+        "Jurassic Park",
+        "raptor kitchen scene",
+        "animatronics",
+        "The Abyss",
+        "Academy Award for visual effects"
+      ]
+    },
+    {
+      "start": "00:34:40",
+      "end": "00:36:05",
+      "kind": "content",
+      "title": "Wire removal and Forrest Gump",
+      "summary": "Wire removal is discussed, including the Mad Max and Forrest Gump examples.",
+      "topics": [
+        "wire removal",
+        "Forrest Gump",
+        "Mad Max Beyond Thunderdome"
+      ]
+    },
+    {
+      "start": "00:36:05",
+      "end": "00:38:10",
+      "kind": "content",
+      "title": "Industry changes and return to practical effects",
+      "summary": "John Dykstra expresses tiredness with excessive spectacle. Josh predicts a return to practical effects, and Chuck notes that indie filmmakers now have cheap computer tools.",
+      "topics": [
+        "embarrassment of riches in effects",
+        "return to practical effects",
+        "indie filmmakers",
+        "digital tools"
+      ]
+    },
+    {
+      "start": "00:38:10_",
+      "end": "00:43:25",
+      "kind": "content",
+      "title": "Key effects artists: stop motion and makeup pioneers",
+      "summary": "Lon Chaney, Willis O'Brien, Ray Harryhausen, Millicent Patrick (uncredited Gill Man designer), Dick Smith, Rick Baker, Stan Winston, and Tom Savini are discussed. King Kong (1933) took about seven weeks for its fight scene.",
+      "topics": [
+        "Lon Chaney",
+        "Willis O'Brien",
+        "King Kong 1933 stop motion",
+        "Ray Harryhausen",
+        "Millicent Patrick",
+        "Creature from the Black Lagoon",
+        "Dick Smith",
+        "Rick Baker",
+        "Stan Winston",
+        "Tom Savini",
+        "makeup effects"
+      ]
+    },
+    {
+      "start": "00:43:25",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Studios, motion capture, and first CGI",
+      "summary": "ILM and WETA are discussed, with motion capture explained and Gollum cited. Young Sherlock Holmes is claimed as the first full CGI character, and The Wrath of Khan and Looker are noted as early CGI milestones.",
+      "topics": [
+        "Industrial Light and Magic",
+        "WETA",
+        "motion capture",
+        "Gollum",
+        "first CGI character",
+        "Young Sherlock Holmes",
+        "Looker",
+        "The Wrath of Khan",
+        "Tron"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:51:10",
+      "kind": "content",
+      "title": "Modern CGI, de-aging, and color grading",
+      "summary": "De-aging in The Irishman and Gemini Man is discussed, as are digital color grading in O Brother, Where Art Thou? and deepfakes.",
+      "topics": [
+        "de-aging",
+        "The Irishman",
+        "Gemini Man",
+        "color grading",
+        "deepfake",
+        "O Brother, Where Art Thou?"
+      ]
+    },
+    {
+      "start": "00:51:10",
+      "end": "00:52:00",
+      "kind": "intro",
+      "title": "Movie Crush plug and The Matrix",
+      "summary": "Chuck plugs his podcast Movie Crush. Josh mentions an upcoming episode on The Matrix, and the hosts briefly discuss the film and its cast.",
+      "topics": [
+        "Movie Crush",
+        "The Matrix"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:54:40",
+      "kind": "listener_mail",
+      "title": "Listener email on roofs and solar panels",
+      "summary": "A listener who works as a roofer writes that people should check the age of their roof before installing solar panels, since reroofing with panels installed costs considerably more. The hosts read it as a PSA.",
+      "topics": [
+        "listener mail",
+        "solar panels",
+        "roofing",
+        "reroofing costs"
+      ]
+    },
+    {
+      "start": "00:54:40",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck invites listeners to get in touch through the website and email. The episode closes with the iHeartRadio credit.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 22802,
+    "output_tokens": 4295
+  }
+}

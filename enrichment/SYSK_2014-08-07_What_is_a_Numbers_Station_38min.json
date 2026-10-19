@@ -1,0 +1,249 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-08-07_What_is_a_Numbers_Station_38min.txt",
+  "title": "What is a Numbers Station?",
+  "date": "2014-08-07",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-is-a-numbers-station",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/23cf32df-43ec-4770-b26b-ae28009564ef/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/23cf32df-43ec-4770-b26b-ae28009564ef/transcript?format=TextWithTimestamps&t=1700543876",
+  "summary": "Josh and Chuck explain numbers stations: shortwave radio transmissions of coded messages, widely believed to be used by intelligence services to send one-way messages to spies. They cover their origins in World War One, the Cold War peak, famous examples (the Swedish Rhapsody, Atención, Lincolnshire Poacher, Yosemite Sam station), why shortwave skywave propagation makes them hard to stop, the one-time pad encryption method and its vulnerabilities, the ENIGMA monitoring group, Soviet jamming efforts, spy busts linked to shortwave radios, and the 2013 film The Number Station. The episode closes with a listener mail segment about sushi and modern Japanese food production.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "numbers stations",
+    "shortwave radio",
+    "espionage",
+    "one-time pad",
+    "cryptography",
+    "ENIGMA numbers station monitoring group",
+    "skywave propagation",
+    "ionosphere",
+    "Cold War spying",
+    "Swedish Rhapsody numbers station",
+    "Atención numbers station",
+    "Yosemite Sam numbers station",
+    "frequency jamming",
+    "pirate radio",
+    "spy codes",
+    "The Number Station film",
+    "Content Project compilation",
+    "Cuban intelligence radio",
+    "listener mail",
+    "sushi",
+    "Japanese food production"
+  ],
+  "entities": [
+    {
+      "name": "Numbers stations",
+      "type": "other"
+    },
+    {
+      "name": "ENIGMA",
+      "type": "organization"
+    },
+    {
+      "name": "Swedish Rhapsody",
+      "type": "work"
+    },
+    {
+      "name": "Yosemite Sam numbers station",
+      "type": "work"
+    },
+    {
+      "name": "The Number Station",
+      "type": "work"
+    },
+    {
+      "name": "The Content Project",
+      "type": "work"
+    },
+    {
+      "name": "Edward Snowden",
+      "type": "person"
+    },
+    {
+      "name": "Cecil Adams",
+      "type": "person"
+    },
+    {
+      "name": "John Cusack",
+      "type": "person"
+    },
+    {
+      "name": "Radio Havana",
+      "type": "organization"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "other"
+    },
+    {
+      "name": "Cuba",
+      "type": "place"
+    },
+    {
+      "name": "Lear",
+      "type": "organization"
+    },
+    {
+      "name": "Flaming Lips",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Opening banter and introduction to numbers stations",
+      "summary": "The hosts banter about the topic and introduce numbers stations as shortwave transmissions of strange numbers and letters, dating back to World War One and peaking in the Cold War.",
+      "topics": [
+        "numbers stations",
+        "shortwave radio",
+        "Cold War spying"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "What numbers stations broadcast and who runs them",
+      "summary": "Examples include the Swedish Rhapsody station, the Atención station, and British folk tunes used as tone signals. Experts widely believe they are government espionage transmissions, though no government has officially acknowledged them; a UK trade agency spokesperson said people should not be mystified by them. The reasons for suspicion include their pirate-like unlicensed status and the lack of any investigation.",
+      "topics": [
+        "numbers stations",
+        "Swedish Rhapsody numbers station",
+        "Atención numbers station",
+        "espionage",
+        "pirate radio",
+        "espionage speculation"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Why spies use shortwave instead of digital communication",
+      "summary": "The hosts argue that email and computers leave digital traces and can be intercepted, citing Edward Snowden, whereas one-way shortwave radio is anonymous and hard to trace in either direction.",
+      "topics": [
+        "secure communication",
+        "espionage",
+        "email surveillance",
+        "Edward Snowden"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "How shortwave radio travels: skywave and the ionosphere",
+      "summary": "Shortwave signals bounce off the ionosphere (skywave or skip), letting a modest transmitter reach across the planet. Reception varies with atmospheric and solar conditions, and the signal can be received by anyone, so the recipient cannot be identified.",
+      "topics": [
+        "shortwave radio",
+        "skywave",
+        "skip",
+        "ionosphere",
+        "solar activity",
+        "radio propagation"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "The one-time pad encryption method",
+      "summary": "The hosts explain the one-time pad: a random key shared in advance by two parties, used once and then destroyed, making the code theoretically unbreakable. They walk through a worked example and discuss its weakness of needing a secure key exchange and the limit of key length. Computers cannot generate truly random numbers.",
+      "topics": [
+        "one-time pad",
+        "cryptography",
+        "encryption",
+        "random key",
+        "code breaking",
+        "random number generation"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "ENIGMA monitoring group and the Yosemite Sam transmission",
+      "summary": "The ENIGMA group (European Numbers Information Gathering and Monitoring Association) of shortwave enthusiasts catalogued stations and named them by language, and later a successor group put archives online. The hosts play and discuss the Yosemite Sam station broadcast from New Mexico, which they think may be an enthusiast.",
+      "topics": [
+        "ENIGMA",
+        "numbers station catalog",
+        "Yosemite Sam numbers station",
+        "shortwave enthusiasts",
+        "numbers station archives"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Jamming, the Content Project, and the Number Station film",
+      "summary": "The Soviets spent billions jamming shortwave frequencies during the Cold War but could not fully block them. Recordings were compiled on the Content Project CD set, and a 2013 film called The Number Station starring John Cusack was mentioned.",
+      "topics": [
+        "frequency jamming",
+        "Soviet jamming",
+        "Content Project",
+        "The Number Station film",
+        "Cold War"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Why numbers stations persist and real spy cases",
+      "summary": "The hosts discuss reasons stations continue: dummy messages, keeping methods active, and possible drug-running use. They recount espionage arrests in Germany in 2011 and the United States in 2001 involving shortwave radios and code sheets.",
+      "topics": [
+        "numbers stations persistence",
+        "dummy messages",
+        "drug runners",
+        "spy arrests",
+        "Cuban intelligence",
+        "shortwave radio espionage cases"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Wrap-up on numbers stations",
+      "summary": "The hosts summarize the topic and suggest listeners search for numbers stations or the spy numbers website to explore further.",
+      "topics": [
+        "numbers stations",
+        "shortwave radio hobby"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:30",
+      "kind": "listener_mail",
+      "title": "Listener mail on sushi and Japanese food",
+      "summary": "A listener from Japan writes that modern production has degraded traditional Japanese foods like miso and mirin. The hosts share their experience of gummy sushi rice.",
+      "topics": [
+        "listener mail",
+        "sushi",
+        "Japanese food production",
+        "miso",
+        "mirin"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:38:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts list social media and email contact information and sign off.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11944,
+    "output_tokens": 2700
+  }
+}

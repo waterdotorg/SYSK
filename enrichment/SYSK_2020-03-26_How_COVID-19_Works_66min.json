@@ -1,0 +1,303 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-03-26_How_COVID-19_Works_66min.txt",
+  "title": "How COVID-19 Works",
+  "date": "2020-03-26",
+  "duration": "66 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-covid-19-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2b0ac6bd-3d76-47e0-ab71-ae28003965af/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2b0ac6bd-3d76-47e0-ab71-ae28003965af/transcript?format=TextWithTimestamps&t=1700543656",
+  "summary": "Josh and Chuck record remotely in March 2020 to give a level-headed explainer on COVID-19 (coronavirus disease 2019), caused by the novel coronavirus SARS-CoV-2. They cover the name and virus origins (suspected animal-to-human jump via a pangolin at a Wuhan live animal market, with debated patient zero and timeline), how it spreads (zoonotic, person-to-person, community spread, aerosolized droplets, fomites like cardboard and plastic), symptoms (fever, dry cough, shortness of breath, warning signs like bluish lips and chest pain), severity and fatality rates compared with SARS and seasonal flu, the cytokine storm and ARDS, testing gaps, masks, hand washing, self-quarantine, social distancing and flattening the curve, hospital bed and ventilator capacity, South Korea, Singapore, Italy and Japan comparisons, vaccine development, and remdesivir and its orphan drug designation. Political and economic commentary is mostly set aside, though some comes up. The episode ends with personal fears and a self-triage tool suggestion; no listener mail is read.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "COVID-19",
+    "coronavirus disease 2019",
+    "SARS-CoV-2",
+    "novel coronavirus",
+    "coronavirus origins",
+    "pangolin",
+    "zoonotic transmission",
+    "Wuhan wet market",
+    "social distancing",
+    "flattening the curve",
+    "community spread",
+    "fomites",
+    "aerosol transmission",
+    "COVID-19 symptoms",
+    "ARDS",
+    "cytokine storm",
+    "fatality rate",
+    "hand washing",
+    "self-quarantine",
+    "ventilators",
+    "hospital beds",
+    "vaccine development",
+    "remdesivir",
+    "orphan drug act",
+    "pandemic",
+    "coronavirus"
+  ],
+  "entities": [
+    {
+      "name": "COVID-19",
+      "type": "event"
+    },
+    {
+      "name": "SARS-CoV-2",
+      "type": "other"
+    },
+    {
+      "name": "SARS",
+      "type": "event"
+    },
+    {
+      "name": "Spanish flu",
+      "type": "event"
+    },
+    {
+      "name": "Wuhan, China",
+      "type": "place"
+    },
+    {
+      "name": "Hubei province",
+      "type": "place"
+    },
+    {
+      "name": "pangolin",
+      "type": "other"
+    },
+    {
+      "name": "South Korea",
+      "type": "place"
+    },
+    {
+      "name": "Singapore",
+      "type": "place"
+    },
+    {
+      "name": "Italy",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "National Institutes of Health",
+      "type": "organization"
+    },
+    {
+      "name": "Walter Reed Army Institute of Research",
+      "type": "organization"
+    },
+    {
+      "name": "Gilead Sciences",
+      "type": "organization"
+    },
+    {
+      "name": "remdesivir",
+      "type": "other"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Journal of the American Medical Association",
+      "type": "organization"
+    },
+    {
+      "name": "The Lancet",
+      "type": "organization"
+    },
+    {
+      "name": "Ebola",
+      "type": "event"
+    },
+    {
+      "name": "MERS",
+      "type": "event"
+    },
+    {
+      "name": "Contagion",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and remote recording",
+      "summary": "The hosts open with banter about recording from home and their outfits, then explain they are doing a COVID-19 episode at listeners' request, and decide to stay out of politics and economics. They note the name COVID-19 and the virus name SARS-CoV-2, and briefly digress into movies.",
+      "topics": [
+        "COVID-19 episode announcement",
+        "SARS-CoV-2 name",
+        "coronavirus disease 2019"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "What coronaviruses are and where this one came from",
+      "summary": "Coronaviruses are a family that usually causes upper respiratory infections and colds. This novel strain is thought to have jumped from animal to human, possibly at a live animal market in Wuhan, China, with a pangolin as an intermediate host. A suspected patient zero, a 55-year-old man from Hubei province, is unconfirmed, and the timeline is debated. China has closed wildlife markets, and pangolin trade continues elsewhere, including Nigeria.",
+      "topics": [
+        "coronavirus origins",
+        "novel coronavirus",
+        "pangolin trade",
+        "Wuhan wildlife market",
+        "patient zero",
+        "zoonotic origin"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "How the virus spreads",
+      "summary": "The hosts explain zoonotic transmission, then animal-to-person, person-to-person through close contact within about six feet or droplets from coughs and sneezes, and community spread where people get infected with no known contact. Community spread is described as the stage where control becomes difficult.",
+      "topics": [
+        "transmission stages",
+        "person-to-person transmission",
+        "community spread",
+        "droplets",
+        "six-foot rule"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Symptoms and when to seek care",
+      "summary": "Common symptoms are fever, dry cough, and later shortness of breath, which on average appears within about five days, according to JAMA. Emergency warning signs include severe chest pain or pressure, bluish lips or face, and sudden confusion. Allergy season makes dry cough harder to distinguish.",
+      "topics": [
+        "COVID-19 symptoms",
+        "dry cough",
+        "shortness of breath",
+        "emergency warning signs",
+        "allergy season"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Severity, pneumonia, ARDS and cytokine storm",
+      "summary": "Most cases are mild and treated like the flu with rest and fluids. Older people and those with weakened immune systems or diabetes are at higher risk. Severe cases can lead to pneumonia and ARDS, which the hosts say is fatal in about 30 percent of cases. A cytokine storm, an overblown immune response, may explain deaths in some young healthy people.",
+      "topics": [
+        "mild vs severe cases",
+        "pneumonia",
+        "ARDS",
+        "cytokine storm",
+        "risk groups",
+        "ventilators"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Fatality rate and testing",
+      "summary": "Estimates of the fatality rate vary, roughly under 1 to above 2 percent, with some sources citing 4 percent. Testing gaps in the US likely skewed numbers toward hospitalized patients. South Korea, with widespread testing, estimated about 0.7 percent, compared with about 0.1 percent for seasonal flu and about 10 percent for SARS. Asymptomatic carriers complicate counts.",
+      "topics": [
+        "fatality rate",
+        "case fatality",
+        "testing shortage",
+        "asymptomatic spread",
+        "SARS comparison",
+        "seasonal flu comparison"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Surfaces, fomites and aerosol survival",
+      "summary": "The hosts discuss infected surfaces, called fomites, and a NIH study finding aerosolized virus could survive about three hours in air, four hours on copper, 24 hours on cardboard, and two to three days on plastic and stainless steel. The CDC reported no documented infections from fomites so far. Chuck describes opening deliveries outdoors and discarding cardboard boxes.",
+      "topics": [
+        "fomites",
+        "surface transmission",
+        "cardboard packages",
+        "aerosol survival",
+        "grocery cart"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "How the virus infects cells and prevention basics",
+      "summary": "The spike proteins let the virus enter cells through the enzyme furin, which is present on many human cell types, explaining why it can affect multiple organs. Prevention includes avoiding face touching, disinfecting surfaces, washing hands with soap and water for at least 20 seconds. Masks are not necessary for healthy people, and the mask shortage has hurt the medical supply chain.",
+      "topics": [
+        "furin",
+        "spike proteins",
+        "cell entry",
+        "hand washing",
+        "face masks",
+        "surgical mask shortage"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Social distancing, flattening the curve and hospital capacity",
+      "summary": "Until there is a vaccine, containment relies on social distancing. The hosts explain flattening the curve, which spreads infections over time to avoid overwhelming medical staff and equipment. They compare hospital beds per thousand people across countries, with the US at about 2.8. They contrast Singapore and Italy and urge people to stay home. Self-quarantine for 14 days is recommended after exposure.",
+      "topics": [
+        "social distancing",
+        "flattening the curve",
+        "hospital beds",
+        "self-quarantine",
+        "14-day incubation",
+        "Singapore",
+        "Italy",
+        "South Korea",
+        "Japan"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:04:00",
+      "kind": "content",
+      "title": "Vaccines, remdesivir and drug patent concerns",
+      "summary": "Vaccine development is underway at NIH, Walter Reed, and elsewhere, with trials possibly in full swing by fall and an mRNA candidate that was originally developed for MERS. Remdesivir, from Gilead Sciences and originally developed for Ebola with taxpayer funding, received FDA orphan drug designation granting seven years of exclusivity, which the hosts criticize.",
+      "topics": [
+        "vaccine development",
+        "mRNA vaccine",
+        "remdesivir",
+        "Gilead Sciences",
+        "orphan drug act",
+        "FDA exclusivity",
+        "clinical trials"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:06:00",
+      "kind": "outro",
+      "title": "Personal fears, self-triage tool and sign-off",
+      "summary": "The hosts share their biggest fears, mainly loved ones dying and wider disruption. They mention an online COVID-19 self-triage questionnaire and encourage listeners to be kind, cautious, and positive. Listener mail is skipped, and the show signs off with an email address.",
+      "topics": [
+        "self-triage tool",
+        "personal fears",
+        "listener encouragement",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20430,
+    "output_tokens": 3632
+  }
+}

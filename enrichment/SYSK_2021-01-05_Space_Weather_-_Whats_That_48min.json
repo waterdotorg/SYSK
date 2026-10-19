@@ -1,0 +1,240 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-01-05_Space_Weather_-_Whats_That_48min.txt",
+  "title": "Space Weather - What's That?!",
+  "date": "2021-01-05",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/space-weather-whats-that",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4d6a84e9-030f-4d4a-b12b-ae280025a785/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d6a84e9-030f-4d4a-b12b-ae280025a785/transcript?format=TextWithTimestamps&t=1700543605",
+  "summary": "Josh and Chuck revisit the Sun with a focused episode on space weather, centering on solar flares and how they relate to coronal mass ejections and geomagnetic storms. They cover sunspots and the roughly eleven-year solar cycle, magnetic reconnection, the flare classification scale (A, B, C, M, X), and the Halloween Storms of 2003. They explain how coronal mass ejections interact with Earth's magnetosphere and ionosphere to produce auroras. The Carrington Event of 1859 is covered in detail, including the telegraph disruptions, followed by modern vulnerabilities such as grounding, power grid transformers, GPS, aviation radio, satellites, and astronauts. The episode closes with space weather forecasting and a listener mail segment about Rush fans.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "space weather",
+    "solar flares",
+    "coronal mass ejections",
+    "geomagnetic storms",
+    "sunspots",
+    "solar cycle",
+    "solar maximum",
+    "magnetic reconnection",
+    "solar flare classification",
+    "Halloween Storms of 2003",
+    "Carrington Event",
+    "Richard Carrington",
+    "1859 solar storm",
+    "aurora",
+    "magnetosphere",
+    "ionosphere",
+    "power grid vulnerability",
+    "GPS disruption",
+    "satellites and solar storms",
+    "astronaut radiation exposure",
+    "space weather forecasting",
+    "plasma",
+    "solar corona",
+    "telegraph disruption"
+  ],
+  "entities": [
+    {
+      "name": "Richard Carrington",
+      "type": "person"
+    },
+    {
+      "name": "Carrington Event",
+      "type": "event"
+    },
+    {
+      "name": "Halloween Storms of 2003",
+      "type": "event"
+    },
+    {
+      "name": "solar flare",
+      "type": "other"
+    },
+    {
+      "name": "coronal mass ejection",
+      "type": "other"
+    },
+    {
+      "name": "sunspot",
+      "type": "other"
+    },
+    {
+      "name": "magnetosphere",
+      "type": "other"
+    },
+    {
+      "name": "ionosphere",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "National Weather Service",
+      "type": "organization"
+    },
+    {
+      "name": "International Space Station",
+      "type": "other"
+    },
+    {
+      "name": "Sandra Bullock",
+      "type": "person"
+    },
+    {
+      "name": "Gravity",
+      "type": "work"
+    },
+    {
+      "name": "Rush",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and space weather introduction",
+      "summary": "Josh and Chuck introduce the episode as a redo of their earlier Sun episode, with a focus on solar flares as part of space weather, and briefly describe the Sun's plasma and magnetic activity.",
+      "topics": [
+        "space weather",
+        "plasma",
+        "solar flares"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Solar cycle, sunspots, and magnetic fields",
+      "summary": "They explain magnetic fields on the Sun, the roughly eleven-year solar cycle and solar maximum, and sunspots, which are cooler, magnetically strong dark spots that can be as wide as Neptune.",
+      "topics": [
+        "solar cycle",
+        "solar maximum",
+        "sunspots",
+        "solar magnetic fields"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Solar flares, magnetic reconnection, and flare classification",
+      "summary": "Solar flares are described as bursts caused by magnetic field lines interacting, with magnetic reconnection proposed to explain their fast energy release. The flares are classified A, B, C, M, and X, each ten times stronger than the last, and the November 2003 flare was estimated around X28 to X45.",
+      "topics": [
+        "solar flares",
+        "magnetic reconnection",
+        "solar flare classification",
+        "X-class flare",
+        "Halloween Storms of 2003"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": []
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Coronal mass ejections and Earth's magnetosphere",
+      "summary": "Coronal mass ejections are described as large eruptions of plasma and charged particles that travel to Earth over about three days. Earth's magnetosphere and ionosphere protect life, and interaction with a CME can produce auroras that appear even near the equator.",
+      "topics": [
+        "coronal mass ejections",
+        "magnetosphere",
+        "ionosphere",
+        "aurora",
+        "solar wind"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "The Carrington Event of 1859",
+      "summary": "Richard Carrington observed and sketched a solar flare on September 1, 1859, the first recorded. That night auroras appeared worldwide, and telegraph systems overloaded, sparking, shocking operators, and in one case sending messages with the batteries disconnected.",
+      "topics": [
+        "Carrington Event",
+        "Richard Carrington",
+        "1859 solar storm",
+        "aurora",
+        "telegraph disruption"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Modern vulnerability: grounding, power grid, and infrastructure",
+      "summary": "Modern electrical grids use Earth as a ground, and buried metal infrastructure can carry currents induced by a geomagnetic storm, potentially failing transformers. A 1972 solar flare disrupted phone service in Illinois and set off magnetic sea mines in Vietnam. Replacing transformers is costly.",
+      "topics": [
+        "power grid vulnerability",
+        "grounding",
+        "geomagnetic storm",
+        "transformers",
+        "1972 solar event"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Satellites, GPS, aviation, astronauts, and forecasting",
+      "summary": "Solar storms can disrupt GPS, satellites, and high-frequency aviation radio, and expose astronauts on spacewalks, though the ISS is shielded. The 2003 event disrupted satellites and blacked out a city in Sweden. Ice core nitrate records suggest the Carrington Event is a roughly 500-year event. Space weather forecasters at NOAA and the National Weather Service give about eight to ten minutes of warning.",
+      "topics": [
+        "GPS disruption",
+        "satellites and solar storms",
+        "aviation radio",
+        "astronaut radiation exposure",
+        "space weather forecasting",
+        "ice core records"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Digression on movies and live shows",
+      "summary": "The hosts discuss the film Gravity, the movie The Revenant, and anecdotes from a tour show.",
+      "topics": [
+        "Gravity film",
+        "movie anecdotes"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Rush fans",
+      "summary": "A listener named Megan writes that her future mother-in-law is a major Rush fan, and mentions the term 'getty corns' for female Rush fans. The hosts respond and thank listeners.",
+      "topics": [
+        "listener mail",
+        "Rush fans"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and remind listeners how to send feedback.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15610,
+    "output_tokens": 2632
+  }
+}

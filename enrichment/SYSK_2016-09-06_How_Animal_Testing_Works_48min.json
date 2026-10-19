@@ -1,0 +1,289 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-09-06_How_Animal_Testing_Works_48min.txt",
+  "title": "How Animal Testing Works",
+  "date": "2016-09-06",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-animal-testing-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dfdbf016-04b3-4821-a2a2-ae28008099b3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dfdbf016-04b3-4821-a2a2-ae28008099b3/transcript?format=TextWithTimestamps&t=1700543826",
+  "summary": "Josh and Chuck explore the history and ethics of animal testing, from ancient Greek vivisection and Galen's public pig demonstration, through Robert Koch's anthrax work, Dmitri Belyaev's domesticated silver foxes, and Pavlov's surgically altered dogs, to the 1937 Elixir Sulfanilamide poisonings that led to the FDA's expanded oversight. They cover animal choice (fruit flies, nematodes, mice, beagles, macaques, pigs in live tissue trauma training), cruelty-free labeling caveats, China's cosmetics testing rules, life expectancy gains, arguments for and against animal research, Darwin and the UK Cruelty to Animals Act, the Three Rs (replacement, reduction, refinement), and alternatives like organ-on-a-chip and microdosing. The episode ends with a teaser for the next episode and two-part listener mail.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "animal testing",
+    "animal experimentation",
+    "vivisection",
+    "animal research ethics",
+    "Elixir Sulfanilamide",
+    "FDA Cosmetic Act",
+    "Galen",
+    "Aristotle",
+    "Robert Koch anthrax",
+    "Dmitri Belyaev silver foxes",
+    "Pavlov's dogs",
+    "Charles Darwin Cruelty to Animals Act",
+    "three Rs replacement reduction refinement",
+    "organ-on-a-chip",
+    "microdosing",
+    "live tissue trauma training",
+    "cruelty-free labeling",
+    "China cosmetics animal testing",
+    "life expectancy twentieth century",
+    "drug development failure rate",
+    "animal welfare",
+    "lab animals",
+    "PLOS ONE animal studies survey",
+    "Peter ethical treatment of animals"
+  ],
+  "entities": [
+    {
+      "name": "Elixir Sulfanilamide",
+      "type": "event"
+    },
+    {
+      "name": "S. E. Massengill Company",
+      "type": "organization"
+    },
+    {
+      "name": "Harold Cole Watkins",
+      "type": "person"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "American Medical Association",
+      "type": "organization"
+    },
+    {
+      "name": "Aristotle",
+      "type": "person"
+    },
+    {
+      "name": "Galen",
+      "type": "person"
+    },
+    {
+      "name": "Hippocrates",
+      "type": "person"
+    },
+    {
+      "name": "Alexander of Aphrodisias",
+      "type": "person"
+    },
+    {
+      "name": "Robert Koch",
+      "type": "person"
+    },
+    {
+      "name": "Dmitri Belyaev",
+      "type": "person"
+    },
+    {
+      "name": "Ivan Pavlov",
+      "type": "person"
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Russell and Burch",
+      "type": "person"
+    },
+    {
+      "name": "Cruelty to Animals Act 1876",
+      "type": "work"
+    },
+    {
+      "name": "People for the Ethical Treatment of Animals",
+      "type": "organization"
+    },
+    {
+      "name": "Primer Stories",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and teeth",
+      "summary": "Hosts open with casual banter about colds, dental work, and bite guards, then introduce the habit of using animals as stand-ins for humans.",
+      "topics": [
+        "banter",
+        "dental bite guards"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Elixir Sulfanilamide poisoning",
+      "summary": "S. E. Massengill Company's liquid sulfanilamide, dissolved in diethylene glycol, killed roughly a hundred people in 1937 because it was never tested on animals or humans. The AMA and the nascent FDA responded, the company's chemist Harold Cole Watkins killed himself, and Congress passed the FDA Cosmetic Act requiring animal testing.",
+      "topics": [
+        "Elixir Sulfanilamide",
+        "diethylene glycol poisoning",
+        "FDA Cosmetic Act",
+        "drug safety history",
+        "Massengill"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Ancient vivisection and Galen's pig demonstration",
+      "summary": "Greek thinkers including Aristotle, Erasistratus and Hippocrates performed vivisection, the cutting of live animals for experiments. In second-century Rome, Galen publicly cut nerves of a pig to show the nervous system controls movement, over the objection of the philosopher Alexander of Aphrodisias.",
+      "topics": [
+        "vivisection",
+        "Galen",
+        "ancient Greek anatomy",
+        "Aristotle",
+        "empiricism debate",
+        "Roman medicine"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Robert Koch, anthrax, and Belyaev's silver foxes",
+      "summary": "Robert Koch used a mouse to show that anthrax in cow blood caused death, an early medical use of animal testing. Later, Dmitri Belyaev bred silver foxes for tameness to study domestication and behavior.",
+      "topics": [
+        "Robert Koch anthrax",
+        "mouse experiments",
+        "Dmitri Belyaev silver foxes",
+        "domestication research",
+        "behavioral studies"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Pavlov's dogs and choice of research animals",
+      "summary": "Pavlov surgically altered dogs to collect saliva and gastric juices. The hosts discuss why fruit flies and nematodes are used for fast breeding and conserved biological processes, and why mice, beagles, and macaques are used for specific diseases and neuroscience.",
+      "topics": [
+        "Pavlov",
+        "fruit flies",
+        "nematodes",
+        "mice",
+        "beagles",
+        "macaque monkeys",
+        "animal model selection"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Armadillos, koalas, and live tissue trauma training",
+      "summary": "Armadillos can carry leprosy and are used in leprosy vaccine research. Koalas can contract chlamydia. Pigs and goats are used in live tissue trauma training for military medics and Coast Guard, with animals deeply anesthetized and then euthanized.",
+      "topics": [
+        "armadillo leprosy",
+        "koala chlamydia",
+        "live tissue trauma training",
+        "battlefield medic training",
+        "pigs in research"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:38:00",
+      "kind": "ad",
+      "title": "Primer Stories sponsor plug",
+      "summary": "Hosts promote Primer Stories, an animated essay site whose season includes an episode on animal rights tied to this episode.",
+      "topics": [
+        "Primer Stories",
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Cruelty-free labels, China rules, and life expectancy",
+      "summary": "Cruelty-free and not-tested-on-animals labels may refer only to the final product while ingredients were tested earlier. The EU banned imports of animal-tested cosmetics while China requires them. Life expectancy rose about three months per year over the twentieth century, which advocates credit partly to animal testing.",
+      "topics": [
+        "cruelty-free labeling",
+        "China cosmetics animal testing",
+        "EU cosmetics ban",
+        "life expectancy gains",
+        "antibiotics and vaccines"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Arguments for and against animal testing",
+      "summary": "A 2011 Nature poll of biomedical researchers found many agreed animal research is essential. Critics note animal models failed for HIV vaccines and that most drugs fail in humans after animal success. A 2009 PLOS ONE survey found many animal studies omitted hypotheses, statistics, randomization, or blinding.",
+      "topics": [
+        "animal research arguments",
+        "drug failure in humans",
+        "HIV vaccine primates",
+        "PLOS ONE study quality",
+        "wasted animal lives"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Darwin, the Three Rs, and alternatives",
+      "summary": "After 1875 controversy over dogs in UK experiments, Darwin favored a humane law leading to the Cruelty to Animals Act. Russell and Burch proposed the Three Rs: replacement, reduction, refinement. PETA argues for computer models, organ-on-a-chip, CT/MRI, and microdosing as alternatives.",
+      "topics": [
+        "Darwin",
+        "Cruelty to Animals Act",
+        "three Rs",
+        "organ-on-a-chip",
+        "microdosing",
+        "computer modeling alternatives",
+        "PETA"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Tradeoffs and next-episode teaser",
+      "summary": "Hosts note the debate on both sides, including freezing in trauma medics that is hard to replace with mannequins, and tease the next episode on whether humans have the right to use animals.",
+      "topics": [
+        "replacement limits",
+        "medic training tradeoffs",
+        "animal rights question"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:58:00",
+      "kind": "listener_mail",
+      "title": "Listener mail part one",
+      "summary": "A listener named Evan says his ten-year-old son and fiance react to the show, and points out the hosts covered customs twice.",
+      "topics": [
+        "listener mail",
+        "repeat episode topics"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "00:58:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and contact information and sign off.",
+      "topics": [
+        "show contact",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15374,
+    "output_tokens": 3375
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-12-05_Short_Stuff_Dolphin_Detectors_15min.txt",
+  "title": "Short Stuff: Dolphin Detectors",
+  "date": "2018-12-05",
+  "duration": "15 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-dolphin-detectors",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8a57654f-782e-43c7-8b68-ae2800578f66/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8a57654f-782e-43c7-8b68-ae2800578f66/transcript?format=TextWithTimestamps&t=1700543714",
+  "summary": "Short Stuff episode on how the U.S. Navy and other navies use dolphins to find (not disarm) underwater sea mines. The hosts explain dolphins locate mines with echolocation, signal the human handlers, and get a fish reward; a transponder is then attached to mark the mine. They trace the Navy's use of dolphins to a 1960 study on torpedo design, describe the dolphin-sea lion teams that also hunt underwater saboteurs, and discuss the harms of transporting dolphins, the moral objections, and an animal rights protest in Puget Sound involving knitted sweaters.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "dolphins sea mines",
+    "military dolphins",
+    "navy marine mammals",
+    "mine detection",
+    "dolphin echolocation",
+    "animal sonar",
+    "naval dolphin program",
+    "sea lion navy teams",
+    "underwater saboteurs",
+    "dolphin transport stress",
+    "animal rights military dolphins",
+    "Puget Sound Army port",
+    "naval mine countermeasures",
+    "dolphin fish reward",
+    "dolphin sonar vs human sonar"
+  ],
+  "entities": [
+    {
+      "name": "U.S. Navy",
+      "type": "organization"
+    },
+    {
+      "name": "Russia",
+      "type": "place"
+    },
+    {
+      "name": "Ukraine",
+      "type": "place"
+    },
+    {
+      "name": "Crimea",
+      "type": "place"
+    },
+    {
+      "name": "Puget Sound",
+      "type": "place"
+    },
+    {
+      "name": "Washington State",
+      "type": "place"
+    },
+    {
+      "name": "Sea World",
+      "type": "organization"
+    },
+    {
+      "name": "Star Dogs",
+      "type": "work"
+    },
+    {
+      "name": "sea mine",
+      "type": "other"
+    },
+    {
+      "name": "echolocation",
+      "type": "other"
+    },
+    {
+      "name": "sonar",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and dolphin mine-finding setup",
+      "summary": "The hosts open with banter, then introduce the topic: the U.S. Navy and other militaries use dolphins to find underwater mines, not to disarm them.",
+      "topics": [
+        "dolphins sea mines",
+        "military dolphins"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "How dolphins find and mark mines",
+      "summary": "Dolphins are trained to locate mines, signal handlers with a bell or flare, and then guide a transponder placed on the mine. They receive a fish as a reward.",
+      "topics": [
+        "mine detection",
+        "naval dolphin program",
+        "dolphin fish reward",
+        "acoustic transponder"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Dolphin echolocation compared to human sonar",
+      "summary": "The hosts explain that dolphins use echolocation, producing clicks through the nasal passages and focusing them through the melon, then receiving echoes through a fat passage in the jaw to the inner ear. They say dolphins can distinguish a BB pellet from a corn kernel at about fifty feet.",
+      "topics": [
+        "dolphin echolocation",
+        "animal sonar",
+        "dolphin sonar vs human sonar"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:09:30",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "A short break before the second half of the episode.",
+      "topics": []
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Navy origins of dolphin program and transport concerns",
+      "summary": "The Navy began using dolphins after a 1960 study on whether dolphin movement could improve torpedo design; the study found nothing for torpedoes but led to training dolphins for mine detection. The hosts then discuss the stress of transporting dolphins between oceans and the animal welfare concerns.",
+      "topics": [
+        "navy marine mammals",
+        "dolphin transport stress",
+        "animal rights military dolphins"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Dolphin-sea lion teams, saboteurs, and Puget Sound protest",
+      "summary": "The hosts describe naval teams pairing dolphins and sea lions to catch underwater saboteurs, and a planned Puget Sound patrol in Washington State that drew an animal rights protest, including knitted sweaters for the dolphins.",
+      "topics": [
+        "sea lion navy teams",
+        "underwater saboteurs",
+        "Puget Sound Army port",
+        "animal rights military dolphins"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:15:00",
+      "kind": "outro",
+      "title": "Closing remarks and listener contact",
+      "summary": "The hosts summarize that dolphins find rather than disarm mines, note the moral debate, and invite listeners to email the show.",
+      "topics": [
+        "military dolphins"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6093,
+    "output_tokens": 1722
+  }
+}

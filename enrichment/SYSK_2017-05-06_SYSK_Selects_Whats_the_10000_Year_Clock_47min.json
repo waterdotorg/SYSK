@@ -1,0 +1,228 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-05-06_SYSK_Selects_Whats_the_10000_Year_Clock_47min.txt",
+  "title": "SYSK Selects: What's the 10,000 Year Clock?",
+  "date": "2017-05-06",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-whats-the-10-000-year-clock",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c7ded01f-3281-4325-95d7-ae280078d017/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c7ded01f-3281-4325-95d7-ae280078d017/transcript?format=TextWithTimestamps&t=1700543809",
+  "summary": "SYSK Selects rerun of the episode on the Clock of the Long Now, the ten thousand year clock. Josh introduces it as his pick for the week. The hosts cover the Long Now Foundation and its long-term thinking philosophy, Danny Hillis's original proposal, the design principles (low maintenance, simple, understandable, improvable, table-sized prototype), power sources considered and rejected (atomic, chemical, geothermal, tidal, pressure, water, wind) versus the chosen human winding and diurnal temperature change, pendulum and escapement timekeeping, Geneva drive and mechanical chime computation with Brian Eno's chime algorithm, the London prototype, Jeff Bezos's Texas mountain site with its jade door, staircase, counterweights and cap stand, the solar synchronizer that resets the clock at solar noon, ceramic ball bearings instead of oil, and how to join the Long Now Foundation. The episode closes with listener mail about cone snail venom (ziconotide) used for chronic cancer pain.",
+  "episode_kind": "rerun",
+  "rerun_of": "What's the 10,000 Year Clock?",
+  "topics": [
+    "10,000 year clock",
+    "Clock of the Long Now",
+    "Long Now Foundation",
+    "long-term thinking",
+    "Danny Hillis",
+    "Brian Eno",
+    "Jeff Bezos clock",
+    "Texas clock mountain",
+    "Geneva drive",
+    "pendulum",
+    "escapement",
+    "solar synchronizer",
+    "diurnal temperature change energy",
+    "ceramic ball bearings",
+    "mechanical clock",
+    "chime algorithm",
+    "Science Museum London prototype",
+    "cone snail venom",
+    "ziconotide",
+    "listener mail",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "Clock of the Long Now",
+      "type": "work"
+    },
+    {
+      "name": "Long Now Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Danny Hillis",
+      "type": "person"
+    },
+    {
+      "name": "Brian Eno",
+      "type": "person"
+    },
+    {
+      "name": "Jeff Bezos",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Rose",
+      "type": "person"
+    },
+    {
+      "name": "Christiaan Huygens",
+      "type": "person"
+    },
+    {
+      "name": "Blue Origin",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Science Museum London",
+      "type": "place"
+    },
+    {
+      "name": "West Texas",
+      "type": "place"
+    },
+    {
+      "name": "Wired",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Selects intro and opening banter",
+      "summary": "Josh introduces this SYSK Selects pick, the ten thousand year clock episode, while sick. The hosts banter about illness, air travel, and whether they would want to live to a thousand.",
+      "topics": [
+        "SYSK Selects",
+        "air travel illness",
+        "living to 1000"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Long Now Foundation and long-term thinking",
+      "summary": "The hosts describe the Long Now Foundation's goal of promoting long-term thinking, the origin of the name from Brian Eno, and the idea that a long clock can prompt people to think further ahead. They note the Danny Hillis proposal and the cuckoo idea.",
+      "topics": [
+        "Long Now Foundation",
+        "long-term thinking",
+        "Brian Eno",
+        "Danny Hillis",
+        "10,000 year clock"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Five-digit date and design goals",
+      "summary": "The hosts discuss the zero placed before the year (01999 style dates), why the clock starts at 01999 rather than zero, the expected run until about 12,000, and the five design principles: low maintenance, simple to maintain, understandable, improvable, and table-sized prototype.",
+      "topics": [
+        "five-digit year",
+        "clock design principles",
+        "Bronze Age technology",
+        "10,000 year clock design"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Power source options",
+      "summary": "The hosts go through power sources Hillis considered and rejected, including atomic, chemical, geothermal, tidal, gravitational, seismic, pressure, water, and wind, due to scalability, maintenance, or exposure concerns. They settle on human winding and temperature change.",
+      "topics": [
+        "clock power sources",
+        "human winding",
+        "temperature change power",
+        "scalability"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Pendulum and escapement timekeeping",
+      "summary": "The hosts explain Christiaan Huygens's use of the pendulum for accurate timekeeping, that pendulum period depends only on length and gravity, and how an escapement advances the second hand and returns energy to the pendulum.",
+      "topics": [
+        "pendulum",
+        "escapement",
+        "mechanical clock",
+        "Huygens",
+        "timekeeping"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Geneva drive and mechanical chime computer",
+      "summary": "The hosts describe the Geneva drive as a slow ticking mechanism, the binary mechanical computer built from pins and holes, and the chime algorithm composed by Brian Eno that produces varied chimes, with a shortfall of about ninety thousand days versus ten thousand years.",
+      "topics": [
+        "Geneva drive",
+        "mechanical computer",
+        "chime algorithm",
+        "Brian Eno chimes"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Prototype and Bezos Texas site",
+      "summary": "The eight-foot prototype is at the Science Museum in London and started in 2001. The full-scale clock is being built in a mountain in West Texas on Jeff Bezos's property, funded by him, roughly 200 feet tall, with a jade door, a carved stair, and alcoves for later artifacts. Bezos says his Blue Origin spaceport is unrelated.",
+      "topics": [
+        "London prototype",
+        "Texas clock",
+        "Jeff Bezos",
+        "Blue Origin",
+        "jade door",
+        "millennium clock"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Winding, solar synchronizer, and energy priorities",
+      "summary": "Visitors wind the counterweights using a cap stand or hand wheel, and the clock reads time from the sun through a sapphire prism. A solar synchronizer resets the clock at solar noon, and the thermoelectric effect supplies power. Energy goes first to timekeeping, then to the weights, then to the chimes.",
+      "topics": [
+        "cap stand",
+        "counterweights",
+        "solar synchronizer",
+        "thermoelectric effect",
+        "energy priorities",
+        "diurnal temperature"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Ceramic bearings and joining the Long Now",
+      "summary": "The clock uses ceramic ball bearings instead of oil to avoid leaks, dirt, and galvanic corrosion, and stainless steel parts with loose tolerances. The hosts point listeners to longnow.org and the Bezos clock site.",
+      "topics": [
+        "ceramic bearings",
+        "galvanic corrosion",
+        "Long Now membership",
+        "longnow.org"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: cone snail venom",
+      "summary": "Listener David Miami writes that cone snail venom, delivered as ziconotide by an implanted pump, has helped control his chronic cancer pain. The hosts close with listener contact information and the newsletter.",
+      "topics": [
+        "listener mail",
+        "cone snail venom",
+        "ziconotide",
+        "chronic pain"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15442,
+    "output_tokens": 2749
+  }
+}

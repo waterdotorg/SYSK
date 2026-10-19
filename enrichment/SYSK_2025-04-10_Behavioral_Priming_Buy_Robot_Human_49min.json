@@ -1,0 +1,324 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-04-10_Behavioral_Priming_Buy_Robot_Human_49min.txt",
+  "title": "Behavioral Priming: Buy, Robot Human!",
+  "date": "2025-04-10",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/behavioral-priming-buy-robot-human",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/306d9d9f-1f5c-4d37-b2c9-b2ba015697f2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/306d9d9f-1f5c-4d37-b2c9-b2ba015697f2/transcript?format=TextWithTimestamps&t=1744231976",
+  "summary": "Josh and Chuck explain priming, the psychological effect where exposure to a stimulus (a word, image, temperature, or metaphor) unconsciously shapes later responses. They cover cognitive priming examples (lexical decision, word-completion, repetition priming), fMRI evidence, and how marketing and media use agenda setting, framing, and priming. They then trace social priming studies from the late 1970s and John Bargh's elderly-walking study, the Ten Commandments and honesty-pledge experiments by Dan Ariely, and the Nobel-winning endorsements by Daniel Kahneman and Richard Thaler. The episode then turns critical: the replication crisis, p-hacking, fabricated data (Diederik Stapel), questionable research practices, and why social priming is now largely discredited, with only narrow, legitimate effects remaining. A listener mail segment about the Sea Monkeys episode closes the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "priming",
+    "behavioral priming",
+    "social priming",
+    "cognitive priming",
+    "implicit memory",
+    "explicit memory",
+    "lexical decision task",
+    "repetition priming",
+    "replication crisis",
+    "questionable research practices",
+    "p-hacking",
+    "John Bargh",
+    "elderly walking study",
+    "Daniel Kahneman",
+    "Thinking Fast and Slow",
+    "Dan Ariely",
+    "Richard Thaler",
+    "nudge economics",
+    "Diederik Stapel",
+    "implicit bias",
+    "dog whistling",
+    "agenda setting",
+    "framing",
+    "media priming",
+    "power poses",
+    "research fabrication",
+    "social psychology"
+  ],
+  "entities": [
+    {
+      "name": "John Bargh",
+      "type": "person"
+    },
+    {
+      "name": "Daniel Kahneman",
+      "type": "person"
+    },
+    {
+      "name": "Dan Ariely",
+      "type": "person"
+    },
+    {
+      "name": "Richard Thaler",
+      "type": "person"
+    },
+    {
+      "name": "Diederik Stapel",
+      "type": "person"
+    },
+    {
+      "name": "Francesca Gino",
+      "type": "person"
+    },
+    {
+      "name": "Ulrich Schimmack",
+      "type": "person"
+    },
+    {
+      "name": "Thinking Fast and Slow",
+      "type": "work"
+    },
+    {
+      "name": "Nudge: Improving Decisions about Health, Wealth, and Happiness",
+      "type": "work"
+    },
+    {
+      "name": "Stanford prison experiment",
+      "type": "event"
+    },
+    {
+      "name": "Open science movement",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and definition of priming",
+      "summary": "The hosts introduce the episode and define priming as being prompted to respond or choose in a certain way based on an unnoticed stimulus.",
+      "topics": [
+        "priming",
+        "definition of priming"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Explicit vs implicit memory and lexical decision",
+      "summary": "Explanation of explicit (conscious) and implicit (unconscious) memory, and the lexical decision task where a priming word such as doctor speeds recognition of related words such as nurse.",
+      "topics": [
+        "explicit memory",
+        "implicit memory",
+        "lexical decision task",
+        "semantic priming"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Word completion and repetition priming",
+      "summary": "Examples of word-stem completion (soup versus soap) primed by surrounding words, and repetition priming where repeated pairs are recognized faster; fMRI studies show different brain regions activate under priming.",
+      "topics": [
+        "word completion priming",
+        "repetition priming",
+        "fMRI priming studies",
+        "cognitive priming"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:40",
+      "kind": "content",
+      "title": "Shift from cognitive to social priming",
+      "summary": "The hosts note that cognitive priming has real-world uses in marketing and advertising, setting up the move into social psychology and the nudge economics trend.",
+      "topics": [
+        "social priming",
+        "marketing and priming",
+        "nudge economics"
+      ]
+    },
+    {
+      "start": "00:10:40",
+      "end": "00:13:40",
+      "kind": "ad",
+      "title": "Sponsor break and Burger King ad anecdote",
+      "summary": "A short break; Chuck jokes about repetitive Burger King commercials during TV reruns, illustrating repetition in advertising.",
+      "topics": [
+        "advertising repetition",
+        "Burger King ads"
+      ]
+    },
+    {
+      "start": "00:13:40",
+      "end": "00:17:10",
+      "kind": "content",
+      "title": "Media and politics: agenda setting, framing, priming",
+      "summary": "The hosts describe how media and politicians use agenda setting, framing, and priming, using crime coverage as an example of shaping public fear.",
+      "topics": [
+        "agenda setting",
+        "framing",
+        "media priming",
+        "political priming",
+        "crime coverage"
+      ]
+    },
+    {
+      "start": "00:17:10",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Dog whistling and implicit bias tests",
+      "summary": "Dog whistling is defined as coded language tied to implicit bias. The hosts discuss implicit bias tests, the response-time thresholds, and that people who reject stereotypes still show bias on these tests.",
+      "topics": [
+        "dog whistling",
+        "implicit bias",
+        "implicit association test",
+        "implicit bias test"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Early social priming experiments: hostility and temperature",
+      "summary": "The 1979 scrambled-sentence hostility study (Donald and the landlord) and the warm versus cold beverage study by John Bargh shaped impressions of strangers.",
+      "topics": [
+        "hostility priming 1979 study",
+        "temperature priming",
+        "warm cold metaphor",
+        "John Bargh"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:27:45",
+      "kind": "content",
+      "title": "John Bargh elderly walking study and its collapse",
+      "summary": "Bargh's study in which students primed with elderly-related words walked more slowly down a hall; the hosts say it was ridiculed and that the field has been largely discredited.",
+      "topics": [
+        "elderly walking study",
+        "John Bargh",
+        "old-age priming",
+        "discredited priming research"
+      ]
+    },
+    {
+      "start": "00:27:45",
+      "end": "00:31:50",
+      "kind": "content",
+      "title": "Questionable social priming findings",
+      "summary": "The hosts list dubious findings: fishy smells and trust, frowning and self-reported upset, money priming and selfishness, stabbing a coworker and buying cleaning products, and lying and mouthwash versus soap preference. They also discuss the power pose claim.",
+      "topics": [
+        "fishy smell trust study",
+        "power poses",
+        "money priming",
+        "Lady Macbeth effect",
+        "questionable priming studies"
+      ]
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:34:50",
+      "kind": "content",
+      "title": "Kahneman, Thaler, and Ariely endorsements of nudge priming",
+      "summary": "Daniel Kahneman's Thinking Fast and Slow insisted priming results were true; Thaler's Nudge promoted social priming; Dan Ariely's Ten Commandments and honesty pledge studies showed less cheating on tests and less mileage fudging.",
+      "topics": [
+        "Thinking Fast and Slow",
+        "Nudge book",
+        "Ten Commandments cheating study",
+        "honesty pledge insurance study",
+        "Dan Ariely"
+      ]
+    },
+    {
+      "start": "00:34:50",
+      "end": "00:36:20",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before the replication discussion.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:36:20",
+      "end": "00:40:30",
+      "kind": "content",
+      "title": "Replication crisis and Kahneman's open letter",
+      "summary": "Replication failures in psychology, especially social psychology; Kahneman's open letter to John Bargh warning of a train wreck; the Replicability Index blog by Ulrich Schimmack; and the hosts' view that the field's fame came from splashy results.",
+      "topics": [
+        "replication crisis",
+        "Kahneman open letter",
+        "Replicability Index",
+        "social psychology replication",
+        "train wreck"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Fraud, data massaging, and open science",
+      "summary": "Accusations against Dan Ariely and Francesca Gino over data massaging, the honesty pledge data mismatch, fabrication by Diederik Stapel, and open science measures such as preregistration to prevent HARKing.",
+      "topics": [
+        "data massaging",
+        "Diederik Stapel fabrication",
+        "Francesca Gino",
+        "preregistration",
+        "HARKing",
+        "open science movement",
+        "p-hacking",
+        "file drawer problem",
+        "publication bias"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:20",
+      "kind": "content",
+      "title": "Why priming is unreliable and what remains legitimate",
+      "summary": "Humans are not predictable; results vary by person and experimenter; the Stanford prison experiment is cited. Legitimate priming works mainly when it points toward existing goals, such as dieting menu words. The hosts then discuss why the field was attractive, including the non-player character idea.",
+      "topics": [
+        "priming reliability",
+        "Stanford prison experiment",
+        "goal-directed priming",
+        "non-player character theory",
+        "why priming was popular"
+      ]
+    },
+    {
+      "start": "00:46:20",
+      "end": "00:47:15",
+      "kind": "content",
+      "title": "Cheeseburger tangent",
+      "summary": "Lighthearted banter about cheeseburgers after the word was repeated throughout the episode.",
+      "topics": [
+        "cheeseburger banter"
+      ]
+    },
+    {
+      "start": "00:47:15",
+      "end": "00:48:50",
+      "kind": "listener_mail",
+      "title": "Listener mail: Sea Monkeys episode",
+      "summary": "Listener Katie Sesenler from Istanbul describes falling asleep during the Sea Monkeys episode and waking to discussion of white supremacists and the KKK, and thanks the hosts.",
+      "topics": [
+        "listener mail",
+        "Sea Monkeys episode"
+      ]
+    },
+    {
+      "start": "00:48:50",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing reminder of listener mail address and show credits.",
+      "topics": [
+        "show outro",
+        "listener mail address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16632,
+    "output_tokens": 3552
+  }
+}

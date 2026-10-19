@@ -1,0 +1,247 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-01-11_Little_Fluffy_Clouds_33min.txt",
+  "title": "Little, Fluffy Clouds",
+  "date": "2011-01-11",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/little-fluffy-clouds",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6a0ef8a7-9130-452c-b5f9-ae2800b26aa9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6a0ef8a7-9130-452c-b5f9-ae2800b26aa9/transcript?format=TextWithTimestamps&t=1700543950",
+  "summary": "Josh and Chuck explain clouds: Luke Howard's 1802 classification of clouds (cumulus, stratus, cirrus, nimbus) by shape, size and altitude, the high/mid/low level cloud families and prefixes (cirro-, alto-, strato-), how clouds form from evaporation and warm moist air meeting cooler air, condensation nuclei, precipitation types (rain, snow, sleet, freezing rain, hail), clouds' role in moving dust and regulating heat, cloud seeding, contrails, lenticular and cap clouds, mammatus clouds, noctilucent clouds and the Smith Cloud. The episode closes with a listener mail request for Frankie, who has leukemia.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "clouds",
+    "cloud classification",
+    "Luke Howard",
+    "cloud types",
+    "cumulus clouds",
+    "stratus clouds",
+    "cirrus clouds",
+    "cumulonimbus",
+    "nimbostratus",
+    "altitude cloud families",
+    "how clouds form",
+    "condensation nuclei",
+    "precipitation",
+    "freezing rain",
+    "sleet",
+    "hail",
+    "cloud seeding",
+    "contrails",
+    "lenticular clouds",
+    "cap clouds",
+    "mammatus clouds",
+    "noctilucent clouds",
+    "Krakatoa",
+    "Smith Cloud",
+    "meteorology",
+    "Saharan dust transport",
+    "Royal Air Force cloud seeding disaster"
+  ],
+  "entities": [
+    {
+      "name": "Luke Howard",
+      "type": "person"
+    },
+    {
+      "name": "Krakatoa",
+      "type": "event"
+    },
+    {
+      "name": "Smith Cloud",
+      "type": "other"
+    },
+    {
+      "name": "Cloud Appreciation Society",
+      "type": "organization"
+    },
+    {
+      "name": "Royal Air Force",
+      "type": "organization"
+    },
+    {
+      "name": "Montana",
+      "type": "place"
+    },
+    {
+      "name": "Big Sur",
+      "type": "place"
+    },
+    {
+      "name": "The Orb",
+      "type": "work"
+    },
+    {
+      "name": "Little Fluffy Clouds",
+      "type": "work"
+    },
+    {
+      "name": "National Bone Marrow Registry",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Luke Howard",
+      "summary": "The hosts joke about a chaotic producer lineup, then introduce Luke Howard, the young Englishman who renamed clouds from 'essences' and whose 1802 paper classified them.",
+      "topics": [
+        "Luke Howard",
+        "cloud naming",
+        "Askesian Society",
+        "hosts banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Four main cloud types",
+      "summary": "The hosts describe the basic cloud types Howard identified by shape, size, and altitude: cumulus, stratus, cirrus, and nimbus, with their Latin meanings and the Orb song named after fluffy clouds.",
+      "topics": [
+        "cumulus",
+        "stratus",
+        "cirrus",
+        "nimbus",
+        "cloud shape classification"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "High-level clouds",
+      "summary": "High clouds carry the prefix cirro- (cirrus, cirrocumulus, cirrostratus), with cloud bases usually 20,000 to 40,000 feet; cirrostratus can create halos around the moon.",
+      "topics": [
+        "high clouds",
+        "cirrus",
+        "cirrocumulus",
+        "cirrostratus",
+        "halo around the moon",
+        "cloud altitude"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Mid-level clouds",
+      "summary": "Mid-level clouds carry the prefix alto- (altocumulus, altostratus), with bases starting around 6,000 to 20,000 feet; altostratus can darken a sunny day.",
+      "topics": [
+        "mid-level clouds",
+        "altocumulus",
+        "altostratus",
+        "cloud altitude"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Low-level clouds and vertical clouds",
+      "summary": "Low clouds include stratus that resemble fog, fair-weather cumulus, stratocumulus, and nimbostratus; cumulonimbus are thunderstorm clouds, and vertically developed clouds span multiple altitude levels.",
+      "topics": [
+        "low clouds",
+        "stratocumulus",
+        "fair-weather cumulus",
+        "cumulonimbus",
+        "thunderstorm clouds",
+        "vertically developed clouds"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "How clouds form and move",
+      "summary": "Clouds form when warm moist air meets cooler air, from evaporated surface water; fronts and condensation or freezing nuclei such as dust, sea salt, soot, and bacteria help droplets form. Clouds continuously change form as part of the water cycle.",
+      "topics": [
+        "cloud formation",
+        "evaporation",
+        "convective clouds",
+        "cold front",
+        "condensation nuclei",
+        "water cycle",
+        "bacteria in clouds"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Precipitation types: rain, snow, sleet, freezing rain, hail",
+      "summary": "The hosts explain how rain, snow, sleet, freezing rain, and hail form, with hail growing in strong updrafts in severe storms until too heavy to stay aloft.",
+      "topics": [
+        "precipitation",
+        "freezing rain",
+        "sleet",
+        "hail",
+        "snowflake formation"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Clouds' effects: dust, cloud seeding, and climate",
+      "summary": "Clouds carry dust across oceans, and particulate matter can speed precipitation, the basis of cloud seeding; the hosts cite the Royal Air Force seeding disaster in Britain and China's seeding efforts. Clouds also reflect and trap solar heat, so cloudless nights are colder.",
+      "topics": [
+        "dust transport",
+        "cloud seeding",
+        "Royal Air Force cloud seeding disaster",
+        "albedo",
+        "greenhouse effect",
+        "desertification"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Unusual clouds",
+      "summary": "Contrails, lenticular and cap clouds, mammatus clouds, shadows cast upward in cloud, and noctilucent clouds formed after Krakatoa's 1883 eruption, with a mention of the Smith Cloud.",
+      "topics": [
+        "contrails",
+        "lenticular clouds",
+        "cap clouds",
+        "mammatus clouds",
+        "noctilucent clouds",
+        "Krakatoa",
+        "Smith Cloud"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Frankie",
+      "summary": "A listener writes on behalf of Brendan and his fiancée Jody, known as Frankie, who has leukemia, asking for a shout-out and a plug for the National Bone Marrow Registry.",
+      "topics": [
+        "listener mail",
+        "leukemia",
+        "National Bone Marrow Registry",
+        "bone marrow donation"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:33:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts point listeners to the website, Facebook page, and email, and mention the HowStuffWorks iPhone app.",
+      "topics": [
+        "show contact",
+        "Facebook",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11802,
+    "output_tokens": 2661
+  }
+}

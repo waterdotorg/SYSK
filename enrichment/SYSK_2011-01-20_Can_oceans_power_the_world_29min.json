@@ -1,0 +1,214 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-01-20_Can_oceans_power_the_world_29min.txt",
+  "title": "Can oceans power the world?",
+  "date": "2011-01-20",
+  "duration": "29 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-oceans-power-the-world",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dc762671-adaa-4d87-a0d8-ae2800b226fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dc762671-adaa-4d87-a0d8-ae2800b226fb/transcript?format=TextWithTimestamps&t=1700543947",
+  "summary": "Josh and Chuck discuss capturing energy from the ocean. They cover the history of wave and tidal power, starting with an early French lever-on-boat wave device and the 1966 La Rance tidal plant in France. They explain how waves form from solar-driven wind, and how wave energy converters, tidal barrages, and tidal currents turbines work. They also cover ocean thermal energy conversion (OTEC) in closed, open, and hybrid designs, including its potential to produce fresh water. They discuss Verdant Power's East River turbines and their phase three progress, the Bay of Fundy's high tides, environmental impacts on marine life, and the drawbacks of tidal barrages. Wave energy is presented as the most promising option. The episode ends with a listener mail about ocular migraines and a request to identify an actor's movie.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ocean energy",
+    "wave energy",
+    "tidal power",
+    "tidal barrage",
+    "tidal current turbines",
+    "ocean thermal energy conversion",
+    "OTEC",
+    "Verdant Power",
+    "East River turbines",
+    "Bay of Fundy",
+    "La Rance tidal plant",
+    "Salter's duck",
+    "desalination",
+    "renewable energy",
+    "underwater turbines",
+    "marine environmental impact",
+    "ocular migraine",
+    "listener mail",
+    "Bill O'Reilly tides comment"
+  ],
+  "entities": [
+    {
+      "name": "Verdant Power",
+      "type": "organization"
+    },
+    {
+      "name": "East River",
+      "type": "place"
+    },
+    {
+      "name": "Bay of Fundy",
+      "type": "place"
+    },
+    {
+      "name": "Salter's duck",
+      "type": "other"
+    },
+    {
+      "name": "Bill O'Reilly",
+      "type": "person"
+    },
+    {
+      "name": "Head of the Atheists of America",
+      "type": "person"
+    },
+    {
+      "name": "La Rance",
+      "type": "place"
+    },
+    {
+      "name": "Ross River",
+      "type": "place"
+    },
+    {
+      "name": "France",
+      "type": "place"
+    },
+    {
+      "name": "United Kingdom",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "Josh and Chuck open with banter, recall earlier discussion of capturing energy, and introduce the topic of ocean energy, including Verdant Power's East River turbines.",
+      "topics": [
+        "ocean energy",
+        "Verdant Power",
+        "East River turbines"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "History of wave and tidal power in France and Britain",
+      "summary": "A early French father-and-son lever-on-boat wave device is described, followed by a French heat-based ocean power attempt. The 1966 tidal plant on the Rance River in France is named as the most successful ocean energy operation, producing about 240 megawatts.",
+      "topics": [
+        "wave energy history",
+        "La Rance tidal plant",
+        "tidal power",
+        "France ocean energy history"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "How waves form from solar energy",
+      "summary": "The hosts explain that the sun heats the air unevenly, creating wind, which pushes the ocean into waves. Wave energy is stored as kinetic energy that moves like a conveyor belt and can be captured by a wave converter.",
+      "topics": [
+        "wave formation",
+        "solar energy and wind",
+        "kinetic energy of waves",
+        "wave energy converter"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Tides, the moon, and tidal barrages",
+      "summary": "The hosts mention a Bill O'Reilly interview in which he said tides were unexplained, and note that the moon's gravity causes tides. Only about forty sites worldwide have a tidal range of at least sixteen feet. The Bay of Fundy, with the world's highest tides, produces about 20 megawatts. Tidal barrages work like dams, with gates that open to let water turn turbines.",
+      "topics": [
+        "tides and the moon",
+        "Bay of Fundy",
+        "tidal barrage",
+        "tidal power sites",
+        "Bill O'Reilly tides comment"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Tidal currents and underwater turbines",
+      "summary": "Tidal currents are created by tides moving in and out, and they are inconsistent, flowing twice a day. Underwater turbines work like underwater wind farms, with propellers around sixty feet across, as used in the East River.",
+      "topics": [
+        "tidal currents",
+        "underwater turbines",
+        "tidal current turbines",
+        "Verdant Power East River"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Ocean thermal energy conversion (OTEC)",
+      "summary": "The sun's heat stored in the ocean is discussed as an enormous energy source. OTEC uses warm surface water and cold deep water. Closed systems use ammonia as a low-boiling-point fluid, while open systems boil seawater in a vacuum to produce steam. Hybrid systems combine both. Open and hybrid systems can also produce fresh water as a byproduct.",
+      "topics": [
+        "ocean thermal energy conversion",
+        "OTEC",
+        "closed cycle ammonia",
+        "open cycle OTEC",
+        "hybrid OTEC",
+        "desalination",
+        "fresh water from seawater"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Verdant Power progress and wave energy potential",
+      "summary": "Verdant Power is in phase three after demonstration problems. It produced 70 megawatt-hours for end users and applied for a permit. The UK leads tidal turbine research. Wave energy is described as potentially able to supply the whole planet with a tiny fraction of its energy, and wave power has about three times the energy density of wind.",
+      "topics": [
+        "Verdant Power phase three",
+        "UK tidal turbine research",
+        "wave energy potential",
+        "energy density of waves versus wind"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Environmental impacts and tidal barrage drawbacks",
+      "summary": "The hosts discuss that underwater turbines are quiet and hidden, but ocean energy still affects marine life, such as fish kills and disrupted spawning, and OTEC leaks could spill ammonia. Tidal barrages can trap silt and reduce water purity in bays, and dams may cause earthquakes. The hosts favor wave energy converters.",
+      "topics": [
+        "marine environmental impact",
+        "ocean energy drawbacks",
+        "tidal barrage drawbacks",
+        "wave energy converters preferred"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:30",
+      "kind": "outro",
+      "title": "Sign-off and web resources",
+      "summary": "Josh recommends How Stuff Works articles on Salter's duck, wave energy, and ocean power, and the episode closes.",
+      "topics": [
+        "Salter's duck",
+        "wave energy",
+        "ocean power"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:29:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on ocular migraines",
+      "summary": "A listener named David from the UK describes his ocular migraine symptoms, including tunnel vision and visual distortions. Josh and Chuck discuss the symptoms and a movie with an actor whose eyes twitch, and invite listeners to identify the film.",
+      "topics": [
+        "ocular migraine",
+        "migraine symptoms",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10170,
+    "output_tokens": 2629
+  }
+}

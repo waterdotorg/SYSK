@@ -1,0 +1,328 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-06-19_The_Stuff_You_Should_Know_Doin_Science_Playlist_Can_Nuclear_Fusion_Reactors_Save_44min.txt",
+  "title": "The Stuff You Should Know Doin’ Science Playlist: Can Nuclear Fusion Reactors Save The World?",
+  "date": "2026-06-19",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-nuclear-fusion-reactors-save-the-world-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4b6c5e78-b2d7-4bf3-b511-b46e00fde7d7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4b6c5e78-b2d7-4bf3-b511-b46e00fde7d7/transcript?format=TextWithTimestamps&t=1781883205",
+  "summary": "Stuff You Should Know Doin' Science playlist rerun episode on nuclear fusion reactors as a possible energy solution. Josh and Chuck cover the ITER project in Cadarache, France, and its cost and delays; how fusion differs from fission; the Sun as a model; plasma; the history from Lyman Spitzer's stellarator through the Soviet tokamak; deuterium-tritium and deuterium-deuterium fuels, tritium and helium supply; radioactive waste; magnetic versus inertial confinement including the NIF laser facility; Lockheed Martin's compact fusion claim; cold fusion history; international funding; and a listener mail about skywriting in Australia. A Kiva team shout-out is included.",
+  "episode_kind": "rerun",
+  "rerun_of": "Can Nuclear Fusion Reactors Save The World?",
+  "topics": [
+    "nuclear fusion",
+    "nuclear fusion reactor",
+    "ITER",
+    "Eider project",
+    "fusion vs fission",
+    "plasma",
+    "fourth state of matter",
+    "tokamak",
+    "stellarator",
+    "Lyman Spitzer",
+    "magnetic confinement",
+    "inertial confinement",
+    "National Ignition Facility",
+    "deuterium",
+    "tritium",
+    "helium shortage",
+    "radioactive waste from fusion",
+    "net energy gain",
+    "Lockheed Martin fusion reactor",
+    "cold fusion",
+    "pyroelectric fusion",
+    "Taylor Wilson",
+    "Sun energy",
+    "international fusion funding",
+    "skywriting",
+    "Kiva team"
+  ],
+  "entities": [
+    {
+      "name": "ITER",
+      "type": "organization"
+    },
+    {
+      "name": "Cadarache",
+      "type": "place"
+    },
+    {
+      "name": "Lyman Spitzer",
+      "type": "person"
+    },
+    {
+      "name": "Lockheed Martin",
+      "type": "organization"
+    },
+    {
+      "name": "Taylor Wilson",
+      "type": "person"
+    },
+    {
+      "name": "National Ignition Facility",
+      "type": "organization"
+    },
+    {
+      "name": "Lawrence Livermore Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "UCLA",
+      "type": "organization"
+    },
+    {
+      "name": "Star in a Bottle",
+      "type": "work"
+    },
+    {
+      "name": "Rachel Kachroudi",
+      "type": "person"
+    },
+    {
+      "name": "Fukushima",
+      "type": "event"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Cold open and ITER recommendation",
+      "summary": "Josh introduces the episode, recommends the New Yorker article 'Star in a Bottle' about the ITER fusion reactor in Europe, and notes its delayed start date.",
+      "topics": [
+        "ITER",
+        "Star in a Bottle",
+        "fusion reactor"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and ITER overview",
+      "summary": "Josh and Chuck banter, then describe ITER in Cadarache, France, its acronym, its roughly fifty billion dollar cost, and its delayed schedule.",
+      "topics": [
+        "ITER",
+        "Cadarache",
+        "fusion project cost"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Promise of fusion energy",
+      "summary": "The hosts discuss why fusion matters: low radioactivity, abundant fuel, no greenhouse emissions, and reuse of existing grid infrastructure. They compare energy yield per kilogram of fuel with fission and coal.",
+      "topics": [
+        "fusion energy benefits",
+        "clean energy",
+        "energy per kilogram fuel",
+        "fusion vs coal"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "The Sun as a model and Taylor Wilson",
+      "summary": "The hosts explain that stars are natural fusion reactors and that the Sun fuses hydrogen every second. They mention Taylor Wilson, a teenager who built a small fusion device at home.",
+      "topics": [
+        "the Sun fusion",
+        "star in a box",
+        "Taylor Wilson",
+        "home fusion device"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:15",
+      "kind": "content",
+      "title": "Net energy gain challenge",
+      "summary": "The hosts discuss the two main challenges: containment material science and achieving net energy gain. They note that ITER's current output is around ten megawatts, with a projected five hundred megawatts once operational.",
+      "topics": [
+        "net energy gain",
+        "material science challenge",
+        "fusion breakeven"
+      ]
+    },
+    {
+      "start": "00:11:15",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "History: Spitzer, stellarator, and the Soviet tokamak",
+      "summary": "The hosts trace fusion history to Lyman Spitzer's 1950s work and his figure-eight stellarator. They describe how the US and Soviets shared research and how the Soviet tokamak donut design using electromagnets became standard.",
+      "topics": [
+        "Lyman Spitzer",
+        "stellarator",
+        "tokamak",
+        "history of fusion research",
+        "plasma confinement"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "What plasma is and why temperature matters",
+      "summary": "Josh explains plasma as a fourth state of matter in which electrons are stripped from atoms. The hosts note the Sun's gravity and explain that Earth must reach higher temperatures, about six times the Sun's core, to compensate for lower density.",
+      "topics": [
+        "plasma",
+        "fourth state of matter",
+        "fusion temperature",
+        "solar core temperature"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:45",
+      "kind": "content",
+      "title": "How fusion and fission release energy",
+      "summary": "Josh explains fission versus fusion, the electromagnetic repulsion between protons, the strong nuclear force, and mass-energy conversion. He describes how released neutrons carry energy into a blanket that heats water to drive a turbine.",
+      "topics": [
+        "fission vs fusion",
+        "strong nuclear force",
+        "electromagnetic repulsion",
+        "E=mc2",
+        "neutrons and blanket",
+        "steam turbine"
+      ]
+    },
+    {
+      "start": "00:20:45",
+      "end": "00:24:15",
+      "kind": "content",
+      "title": "Fusion fuels: deuterium, tritium, and helium",
+      "summary": "The hosts discuss the deuterium-tritium reaction, tritium's radioactivity and lithium sourcing, and deuterium from seawater. They discuss isotopes of hydrogen and a possible helium shortage.",
+      "topics": [
+        "deuterium",
+        "tritium",
+        "hydrogen isotopes",
+        "lithium",
+        "helium shortage",
+        "seawater fuel"
+      ]
+    },
+    {
+      "start": "00:24:15",
+      "end": "00:26:50",
+      "kind": "content",
+      "title": "Radioactive waste and safety",
+      "summary": "The hosts explain that fusion produces less long-lived radioactive waste than fission, mainly from activated structural materials, and that fusion cannot melt down like a fission reactor.",
+      "topics": [
+        "fusion radioactive waste",
+        "meltdown safety",
+        "fusion vs fission safety",
+        "activation of materials"
+      ]
+    },
+    {
+      "start": "00:26:50",
+      "end": "00:30:25",
+      "kind": "content",
+      "title": "Magnetic confinement and the ITER design",
+      "summary": "The hosts explain magnetic confinement in a donut-shaped chamber with electromagnetic rings, the power needed to start a reaction, and the ITER target output. They also describe Lockheed Martin's claimed compact reactor and its scientific skepticism.",
+      "topics": [
+        "magnetic confinement",
+        "tokamak design",
+        "ITER power output",
+        "Lockheed Martin compact fusion"
+      ]
+    },
+    {
+      "start": "00:30:25",
+      "end": "00:34:15",
+      "kind": "content",
+      "title": "Lockheed Martin claim and stellarator skepticism",
+      "summary": "The hosts discuss the Lockheed Martin Skunk Works claim, low beta ratio, lack of released data, and the stellarator figure-eight configuration with mirrors that try to contain escaping plasma. They note scientific skepticism.",
+      "topics": [
+        "Lockheed Martin Skunk Works",
+        "beta ratio",
+        "stellarator",
+        "scientific skepticism"
+      ]
+    },
+    {
+      "start": "00:34:15",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Inertial confinement and NIF lasers",
+      "summary": "Chuck describes inertial confinement at the National Ignition Facility at Lawrence Livermore, where 192 lasers compress a fuel pellet inside a target chamber. Josh and Chuck discuss how it avoids the need for electromagnets.",
+      "topics": [
+        "inertial confinement",
+        "National Ignition Facility",
+        "laser fusion",
+        "Lawrence Livermore"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Cold fusion history and international funding",
+      "summary": "The hosts discuss the 1989 cold fusion claims with palladium, failed replication, and a 2005 UCLA pyroelectric fusion result with negative net energy. They then discuss funding for ITER from the EU, South Korea, China, the US, and Russia.",
+      "topics": [
+        "cold fusion",
+        "1989 cold fusion claims",
+        "pyroelectric fusion",
+        "ITER funding",
+        "international collaboration"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:39:45",
+      "kind": "outro",
+      "title": "Wrap-up and DIY fusion",
+      "summary": "Josh recommends the New Yorker article. Chuck mentions instructables for home fusion projects and notes that Taylor Wilson's device was legitimate.",
+      "topics": [
+        "DIY fusion",
+        "fusion home projects"
+      ]
+    },
+    {
+      "start": "00:39:45",
+      "end": "00:43:20",
+      "kind": "ad",
+      "title": "Kiva team shout-out",
+      "summary": "The hosts promote the stuff you should know Kiva lending team, reporting its loan totals and encouraging listeners to join.",
+      "topics": [
+        "Kiva",
+        "microlending",
+        "Kiva team"
+      ]
+    },
+    {
+      "start": "00:43:20",
+      "end": "00:44:10",
+      "kind": "listener_mail",
+      "title": "Listener mail: skywriting from Australia",
+      "summary": "A listener from Sydney, Australia recounts watching a plane skywrite the word Hooters backwards as a child, and the hosts discuss the backwards writing.",
+      "topics": [
+        "skywriting",
+        "listener mail",
+        "skywriting backwards"
+      ]
+    },
+    {
+      "start": "00:44:10",
+      "end": "00:44:16",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners and give contact and website information.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17659,
+    "output_tokens": 3691
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-07-02_How_Pollen_Works_28min.txt",
+  "title": "How Pollen Works",
+  "date": "2013-07-02",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-pollen-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/00ce7eaf-e905-43c2-8793-ae28009f6422/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/00ce7eaf-e905-43c2-8793-ae28009f6422/transcript?format=TextWithTimestamps&t=1700543899",
+  "summary": "Josh and Chuck explain how pollen works, starting with a casual pollen-count banter about Atlanta and the pollen scale, then covering how plants evolved pollen (around 350 million years ago per the hosts' article), the look and shapes of pollen grains, the difference between gymnosperms (naked seed, e.g., pine cones) and angiosperms (flowering plants that protect seed in fruit), self- versus cross-pollination and the mechanisms plants use to avoid selfing, the stinky Devil's tongue and flower-animal co-evolution, and the complications GMO crops create for cross-pollination and patents. The episode closes with listener mail correcting a mix-up between propranolol and propofol from an earlier PTSD episode, a plug for the How Allergies Work episode, and sign-off. Includes ad reads for Audible and a message break.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "pollen",
+    "how pollen works",
+    "pollination",
+    "gymnosperms",
+    "angiosperms",
+    "naked seed",
+    "pollen tube",
+    "self-pollination",
+    "cross-pollination",
+    "plant reproduction",
+    "pine cones",
+    "dandelion",
+    "corn pollination",
+    "devil's tongue",
+    "corpse flower",
+    "philodendron",
+    "flower and pollinator coevolution",
+    "nectar",
+    "pollen count",
+    "pollen scale",
+    "plant phytonutrients",
+    "GMO crops cross-pollination",
+    "patent infringement GMO",
+    "allergies",
+    "listener mail",
+    "propranolol propofol correction"
+  ],
+  "entities": [
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Devil's tongue",
+      "type": "other"
+    },
+    {
+      "name": "Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Michael Jackson",
+      "type": "person"
+    },
+    {
+      "name": "Propofol",
+      "type": "other"
+    },
+    {
+      "name": "Propranolol",
+      "type": "other"
+    },
+    {
+      "name": "How Allergies Work",
+      "type": "work"
+    },
+    {
+      "name": "Adaptation",
+      "type": "other"
+    },
+    {
+      "name": "Dandelion",
+      "type": "other"
+    },
+    {
+      "name": "Lodgepole pine",
+      "type": "other"
+    },
+    {
+      "name": "Corn",
+      "type": "other"
+    },
+    {
+      "name": "Peanut",
+      "type": "other"
+    },
+    {
+      "name": "Foxglove",
+      "type": "other"
+    },
+    {
+      "name": "Bananas",
+      "type": "other"
+    },
+    {
+      "name": "Philodendron",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and pollen count",
+      "summary": "Hosts joke about itchy sneezy edition and discuss Atlanta's pollen count of 39 (moderate) on the pollen scale, with peak counts near 9,000 and yellow-coated streets.",
+      "topics": [
+        "pollen count",
+        "pollen scale",
+        "Atlanta allergies"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Pollen's role in food and early plant evolution",
+      "summary": "Hosts note that about a third of foods come from pollinated plants and discuss bananas as sterile clones propagated by humans. They cover pollen's history, which predates bees, with plants spreading seed via pollen around 350 million years ago, and the purpose of pollen's shapes and wings.",
+      "topics": [
+        "pollen history",
+        "banana sterility",
+        "pollinated crops",
+        "wind-carried pollen",
+        "pollen shapes"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Phytonutrients and bitter plants",
+      "summary": "Discussion of phytonutrients, bitter taste and dandelion greens, and how food breeding moved toward sweeter, less bitter plants.",
+      "topics": [
+        "phytonutrients",
+        "dandelion greens",
+        "bitter taste"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Basics of pollination and flower anatomy",
+      "summary": "Explanation of pollination as the transfer of male pollen to the female ovule, with the pistil (ovary, style, stigma) and stamen (filament, anther) described.",
+      "topics": [
+        "pollination",
+        "pistil",
+        "stamen",
+        "stigma",
+        "ovary",
+        "flower anatomy"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Gymnosperms vs. angiosperms and self-pollination",
+      "summary": "The two main plant groups are defined: gymnosperms (naked seed) and angiosperms (seed protected by fruit or shell). The hosts describe dandelion self-pollination and the mechanisms plants use to avoid self-pollinating, such as timing differences, separate male and female plants, biochemical blocking, and corn's timing mismatch, with peanuts as self-pollinators.",
+      "topics": [
+        "gymnosperms",
+        "angiosperms",
+        "self-pollination",
+        "cross-pollination",
+        "gene pool diversity",
+        "dandelion"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "How conifers like pine cones reproduce",
+      "summary": "Lodgepole pine example: male and female cones, sticky female cones, pollen tubes fertilizing ovules, and seeds released unprotected and dispersed by birds and other animals.",
+      "topics": [
+        "conifers",
+        "pine cone reproduction",
+        "pollen tube",
+        "seed dispersal"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Flowers, animal pollinators, and pollen grain formation",
+      "summary": "Angiosperm flowers attract bees, birds, bats and other animals with color, scent and nectar; examples include bumblebee and foxglove, Darwin's orchid prediction, and fruit dispersal by animals. Pollen formation from meiosis and the two sperm cells in angiosperm pollen, with endosperm nourishing the seedling, are covered.",
+      "topics": [
+        "pollinators",
+        "flower coevolution",
+        "nectar",
+        "fruit dispersal",
+        "endosperm",
+        "meiosis",
+        "pollen grains"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Devil's tongue and stinky pollination",
+      "summary": "Corpse-flower-like Sumatran plant that smells like decomposing flesh to attract carrion beetles, and the philodendron's heat-generated odor.",
+      "topics": [
+        "devil's tongue",
+        "carrion beetle pollination",
+        "stinking flowers"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "GMO crops, cross-pollination and patents",
+      "summary": "Hosts discuss the conflict between GMO farmers, organic farmers and seed patent holders when pollen drifts between fields, including distance studies and crop-timing strategies.",
+      "topics": [
+        "GMO crops",
+        "cross-pollination",
+        "patent infringement",
+        "organic farming",
+        "pollen drift"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: propranolol vs. propofol correction",
+      "summary": "A listener corrects the hosts' earlier mix-up of propranolol and propofol from the PTSD episode, explaining the drugs' differences and the risks of propofol.",
+      "topics": [
+        "propranolol",
+        "propofol",
+        "listener mail",
+        "correction",
+        "Michael Jackson drug"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:35:00",
+      "kind": "outro",
+      "title": "Sign-off and audible ad",
+      "summary": "Closing with contact options and a sponsor read for Audible.",
+      "topics": [
+        "ad read",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10130,
+    "output_tokens": 2691
+  }
+}

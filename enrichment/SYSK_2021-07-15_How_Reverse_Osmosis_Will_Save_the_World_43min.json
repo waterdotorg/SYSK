@@ -1,0 +1,215 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-07-15_How_Reverse_Osmosis_Will_Save_the_World_43min.txt",
+  "title": "How Reverse Osmosis Will Save the World",
+  "date": "2021-07-15",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-reverse-osmosis-will-save-the-world",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef16b61e-cab5-481a-b48e-ae28001208b3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ef16b61e-cab5-481a-b48e-ae28001208b3/transcript?format=TextWithTimestamps&t=1700543586",
+  "summary": "Josh and Chuck explain osmosis and reverse osmosis, starting with basic chemistry (solvent, solute, semi-permeable membrane, osmotic pressure) and how reverse osmosis forces water through a membrane against its natural direction using roughly 50 to 60 bars of pressure, leaving concentrated brine behind. They cover the history of the cellulose acetate membrane developed by UCLA engineering grad students Sidney Loeb and Srinivasa Sourirajan, the 1965 Coalinga, California plant, the global growth of desalination (about 16,000 plants, 100 million cubic meters per day as of 2019), and industrial uses such as beverage production, dairy, wine, maple syrup, recycling and wastewater treatment. Also discussed: home under-sink systems, energy use and carbon footprint, the brine \"reject stream\" and its harm to sea floor life, anti-fouling chemicals, proposed efficiency improvements (switchable polarity solvents at Idaho National Laboratory, a double-piston design from Purdue), uses for brine in aquaculture, and the debate over whether demineralized RO water is healthy, with remineralization filters as a response. Ends with a listener email from Tamara in Perth, Australia, and a sign-off. Much of the opening is unrelated banter about bands and COVID.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "reverse osmosis",
+    "osmosis",
+    "osmotic pressure",
+    "desalination",
+    "desalinated seawater",
+    "semi-permeable membrane",
+    "cellulose acetate membrane",
+    "UCLA reverse osmosis history",
+    "Sidney Loeb",
+    "Srinivasa Sourirajan",
+    "Coalinga California desalination plant",
+    "brine reject stream",
+    "saltwater disposal ocean environmental impact",
+    "water filtration",
+    "under-sink water filter",
+    "wastewater treatment reverse osmosis",
+    "energy use desalination",
+    "remineralization water",
+    "demineralized water health debate",
+    "switchable polarity solvents",
+    "Purdue double piston desalination",
+    "aquaculture brine",
+    "Perth Australia desalinated water",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Sidney Loeb",
+      "type": "person"
+    },
+    {
+      "name": "Srinivasa Sourirajan",
+      "type": "person"
+    },
+    {
+      "name": "UCLA",
+      "type": "organization"
+    },
+    {
+      "name": "Coalinga, California",
+      "type": "place"
+    },
+    {
+      "name": "Perth, Australia",
+      "type": "place"
+    },
+    {
+      "name": "Idaho National Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Purdue University",
+      "type": "organization"
+    },
+    {
+      "name": "Kuberpedy",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "Josh and Chuck chat about hip-hop and rock albums, Chuck's Osmosis Jones reference, and the plan to cover reverse osmosis.",
+      "topics": [
+        "Osmosis Jones",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Osmosis and reverse osmosis basics",
+      "summary": "Chuck explains solutions, solvents and solutes, and a semi-permeable membrane, describing how water moves toward equilibrium by osmotic pressure. Josh explains that reverse osmosis works against that pressure, pushing water through a membrane to leave concentrated brine, and that membrane pores are small enough to pass only water molecules.",
+      "topics": [
+        "osmosis",
+        "osmotic pressure",
+        "reverse osmosis",
+        "semi-permeable membrane",
+        "water molecule size"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "History of desalination and the UCLA membrane",
+      "summary": "Desalination began with distillation, and in the 1960s researchers turned to reverse osmosis. UCLA engineering grad students Sidney Loeb and Srinivasa Sourirajan developed a practical cellulose acetate membrane. A small plant in Coalinga, California opened in 1965 and ran for seven years.",
+      "topics": [
+        "desalination history",
+        "distillation vs reverse osmosis",
+        "cellulose acetate membrane",
+        "Sidney Loeb",
+        "Srinivasa Sourirajan",
+        "Coalinga plant 1965"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Global scale of desalination and how the process works",
+      "summary": "As of 2019 there were about 16,000 desalination plants in 177 countries, mostly in Africa and the Middle East, producing about 100 million cubic meters of fresh water per day. Plants are sited near the sea, use pumps to pressurize seawater to around 60 bars, and pass it over membranes wrapped around inner tubes that collect fresh water, with the concentrate leaving as the reject stream.",
+      "topics": [
+        "desalination plants worldwide",
+        "pressurized membrane process",
+        "reject stream",
+        "seawater intake"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Industrial and household uses of reverse osmosis",
+      "summary": "Reverse osmosis is used to filter fluoride, produce ultrapure water for electronics and pharmaceuticals, treat wastewater, make beverages consistent across locations, separate water from milk, concentrate wine and maple sap, and recycle materials. Under-sink and countertop home systems are widely sold, often for about 250 dollars.",
+      "topics": [
+        "fluoride removal",
+        "ultrapure water",
+        "wastewater treatment",
+        "beverage industry",
+        "dairy and wine processing",
+        "maple syrup",
+        "home RO systems",
+        "under-sink filters"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Downsides: energy, carbon footprint and brine disposal",
+      "summary": "Desalination is energy intensive, which raises cost and carbon footprint, since pumps often run on fossil fuels. The brine reject stream is harmful when discharged. The hosts say it can harm sea-floor life within about 1,600 feet of the outfall, and anti-fouling chemicals added to the feed also end up in the ocean. Suggested fixes include UV treatment, filtering out chemicals for reuse, and better dispersal.",
+      "topics": [
+        "energy use desalination",
+        "carbon footprint",
+        "brine discharge environmental impact",
+        "marine ecosystem harm",
+        "anti-fouling chemicals",
+        "reject stream disposal"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Efficiency research and uses for brine",
+      "summary": "Researchers at Idaho National Laboratory have tested switchable polarity solvents that drive water out of solution with less energy. A Purdue design uses a double-piston system to keep water moving and recover pressure. Brine is also being explored for aquaculture (tilapia, bream), sea beans, animal feed and biofuel.",
+      "topics": [
+        "switchable polarity solvents",
+        "Idaho National Laboratory",
+        "Purdue double piston desalination",
+        "brine reuse",
+        "aquaculture",
+        "energy efficiency"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Is demineralized reverse osmosis water healthy?",
+      "summary": "Online debate claims RO water is too pure and lacks trace minerals humans need. Remineralization filters add minerals such as calcium and boron after treatment, and some people add sea salt or Himalayan salt. The hosts say they find the claim plausible but saw little academic debate on it.",
+      "topics": [
+        "demineralized water health",
+        "remineralization filters",
+        "trace minerals in drinking water",
+        "mineral water"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:30",
+      "kind": "listener_mail",
+      "title": "Listener email from Tamara in Perth",
+      "summary": "Tamara, a listener from Perth, Western Australia, writes about traveling Australia and mentions the opal town of Coober Pedy and the Cave Dwelling episode. The hosts thank her and shout out Perth.",
+      "topics": [
+        "listener mail",
+        "Perth",
+        "Coober Pedy opals"
+      ]
+    },
+    {
+      "start": "00:42:30",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck close the episode and give the email address for contact.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13926,
+    "output_tokens": 2973
+  }
+}

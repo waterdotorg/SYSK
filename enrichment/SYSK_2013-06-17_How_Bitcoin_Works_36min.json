@@ -1,0 +1,271 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-06-17_How_Bitcoin_Works_36min.txt",
+  "title": "How Bitcoin Works",
+  "date": "2013-06-17",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-bitcoin-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78c03de3-9a50-482c-b89e-ae28009fa5f8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/78c03de3-9a50-482c-b89e-ae28009fa5f8/transcript?format=TextWithTimestamps&t=1700543900",
+  "summary": "Josh and Chuck explain Bitcoin: its origins as a digital, decentralized, peer-to-peer currency published under the pseudonym Satoshi Nakamoto in 2008, how coins are created through \"mining\" and blocks of transactions released roughly every ten minutes, the halving of rewards every four years, the 21 million coin cap, wallets and exchanges like Mt. Gox, security risks such as hacks and the need for backups, price volatility and speculation, and the Silk Road darknet marketplace and related crime and government action. The episode opens with a discussion of the history of US currency (fiat money replacing the gold standard, post-Civil War private bank notes) and closes with a listener mail story about electroconvulsive therapy and memory loss.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Bitcoin",
+    "cryptocurrency",
+    "digital currency",
+    "Satoshi Nakamoto",
+    "bitcoin mining",
+    "blockchain ledger",
+    "peer-to-peer network",
+    "bitcoin wallet",
+    "Mt. Gox",
+    "Silk Road",
+    "deep web",
+    "darknet marketplace",
+    "bitcoin speculation",
+    "bitcoin price volatility",
+    "bitcoin security and hacking",
+    "fiat currency",
+    "gold standard",
+    "private bank currency",
+    "Federal Reserve",
+    "anonymous payments",
+    "electroconvulsive therapy",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Bitcoin",
+      "type": "other"
+    },
+    {
+      "name": "Satoshi Nakamoto",
+      "type": "person"
+    },
+    {
+      "name": "Mt. Gox",
+      "type": "organization"
+    },
+    {
+      "name": "Silk Road",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Reserve",
+      "type": "organization"
+    },
+    {
+      "name": "Amazon",
+      "type": "organization"
+    },
+    {
+      "name": "Nathan Chandler",
+      "type": "person"
+    },
+    {
+      "name": "Winklevoss twins",
+      "type": "person"
+    },
+    {
+      "name": "Lance G",
+      "type": "person"
+    },
+    {
+      "name": "BitPay",
+      "type": "organization"
+    },
+    {
+      "name": "BitSpark",
+      "type": "organization"
+    },
+    {
+      "name": "The Armory",
+      "type": "organization"
+    },
+    {
+      "name": "Black Market Reloaded",
+      "type": "organization"
+    },
+    {
+      "name": "Tor",
+      "type": "other"
+    },
+    {
+      "name": "Ian Bremer",
+      "type": "person"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "type": "organization"
+    },
+    {
+      "name": "Electroconvulsive therapy",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "Hosts introduce the tech edition topic, note listener requests for Bitcoin, and joke about accents before turning to money.",
+      "topics": [
+        "Bitcoin requests",
+        "tech edition",
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "History of money: gold standard to fiat currency",
+      "summary": "Hosts describe modern government-issued money, the Federal Reserve's creation in the early 20th century, the thousands of private banks issuing currency during and after the Civil War, and the move from the gold standard to fiat currency.",
+      "topics": [
+        "fiat currency",
+        "gold standard",
+        "Federal Reserve",
+        "private bank currency",
+        "Civil War currency"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "What Bitcoin is and its origin",
+      "summary": "Bitcoin is introduced as the first entirely digital, decentralized currency with no central authority. Its origin is mysterious; a pseudonym, Satoshi Nakamoto, published a document in 2008 and reportedly mined the first fifty coins in 2009.",
+      "topics": [
+        "Bitcoin origin",
+        "Satoshi Nakamoto",
+        "decentralized currency",
+        "digital currency"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Double-spending problem and the public ledger",
+      "summary": "Satoshi's document addressed the problem of copying digital currency and spending it repeatedly, using a public ledger instead of a trusted keeper, with coin creation tied to maintaining the ledger.",
+      "topics": [
+        "double spending",
+        "public ledger",
+        "blockchain ledger",
+        "digital currency problem"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Using bitcoins: wallets, exchanges and fees",
+      "summary": "Explanation of how to get bitcoins: set up a software wallet, buy from exchanges such as Mt. Gox, and spend at merchants or convert to cash. Hosts say fees are lower than with bank transfers, and that bitcoin is seen as a digital form of cash because of anonymity.",
+      "topics": [
+        "bitcoin wallet",
+        "Mt. Gox",
+        "buying bitcoin",
+        "transaction fees",
+        "anonymous payments"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Speculation and the Winklevoss twins",
+      "summary": "Bitcoin can be held and traded like a stock for speculation; the Winklevoss twins are mentioned as bitcoin holders worth millions.",
+      "topics": [
+        "bitcoin speculation",
+        "Winklevoss twins",
+        "trading bitcoin"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Peer-to-peer network and bitcoin mining",
+      "summary": "Bitcoin runs on a peer-to-peer network. Miners solve a math problem for each ten-minute block of transactions and the first to solve it receives newly minted coins. The reward halves every four years, with a 21 million coin cap, and the process also keeps the ledger updated and secure. Mining has become costly in electricity and hardware, and individuals rarely mine alone.",
+      "topics": [
+        "bitcoin mining",
+        "block reward",
+        "peer-to-peer network",
+        "21 million bitcoin cap",
+        "mining electricity cost",
+        "mining pools"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Security, open source code and hacking risks",
+      "summary": "The code is open source and the ledger is verified across the network, but exchanges and wallet companies are vulnerable to hacks. Hosts advise keeping backups of wallets on removable drives, citing a user who lost bitcoins when a laptop crashed.",
+      "topics": [
+        "bitcoin security",
+        "hacking",
+        "wallet backup",
+        "exchange vulnerability"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Price volatility, Silk Road and government action",
+      "summary": "Bitcoin's price swung widely from cents to around two hundred dollars, driven by speculation. The darknet marketplace Silk Road sold drugs and other goods; it was reportedly shut down by a blackmailer's DDoS threat. The Department of Homeland Security froze Mt. Gox accounts, and a DDoS attack on Mt. Gox was mentioned.",
+      "topics": [
+        "bitcoin price volatility",
+        "Silk Road",
+        "darknet marketplace",
+        "DDoS attack",
+        "Mt. Gox freeze",
+        "government regulation"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:34:30",
+      "kind": "content",
+      "title": "Future outlook and mainstream adoption",
+      "summary": "Hosts discuss predictions that Bitcoin may not last, that rivals could replace it, and that Amazon has introduced its own coins for the Kindle network. A hitman case involving a metal singer's bitcoin purchase is mentioned.",
+      "topics": [
+        "bitcoin future",
+        "Amazon coins",
+        "bitcoin rivals",
+        "bitcoin crime"
+      ]
+    },
+    {
+      "start": "00:34:30",
+      "end": "00:35:30",
+      "kind": "outro",
+      "title": "Sign-off and where to learn more",
+      "summary": "Hosts suggest further reading on HowStuffWorks, Wired, The Economist and Mother Jones, and sign off with a sponsor-style closing.",
+      "topics": [
+        "further reading",
+        "sign-off"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:36:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on electroconvulsive therapy memory loss",
+      "summary": "A listener named Chris Pinkerton describes a friend who lost memories of their shared high school years after electroconvulsive therapy for depression, and the hosts respond supportively.",
+      "topics": [
+        "electroconvulsive therapy",
+        "ECT memory loss",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12646,
+    "output_tokens": 3007
+  }
+}

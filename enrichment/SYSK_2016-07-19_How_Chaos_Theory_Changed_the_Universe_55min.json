@@ -1,0 +1,266 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-07-19_How_Chaos_Theory_Changed_the_Universe_55min.txt",
+  "title": "How Chaos Theory Changed the Universe",
+  "date": "2016-07-19",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-chaos-theory-changed-the-universe",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a442ef3c-2d89-4d10-b609-ae2800821849/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a442ef3c-2d89-4d10-b609-ae2800821849/transcript?format=TextWithTimestamps&t=1700543831",
+  "summary": "Josh and Chuck explain chaos theory and how it changed scientific understanding of the universe. They trace the path from pre-scientific views and the scientific revolution (Descartes, Newton) through determinism, then Henri Poincaré's three-body (N-body) problem and the King Oscar II prize, which showed that tiny errors in initial conditions can produce wildly different outcomes. They cover Edward Lorenz's accidental discovery with a weather model on a Royal McBee computer, the resulting butterfly effect and Lorenz attractor, the grocery-store analogy for attractors and strange attractors, Stephen Smale's horseshoe map, and Robert May's population model, which led James Yorke to coin the term \"chaos\" in 1975. They close with modern chaos-based data modeling and a listener mail segment. The episode includes a lot of off-topic movie banter.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "chaos theory",
+    "determinism",
+    "butterfly effect",
+    "Lorenz attractor",
+    "strange attractor",
+    "three-body problem",
+    "N-body problem",
+    "King Oscar II prize",
+    "Henri Poincaré",
+    "Edward Lorenz",
+    "Royal McBee computer",
+    "weather prediction",
+    "horseshoe map",
+    "Stephen Smale",
+    "Robert May",
+    "logistic difference equation",
+    "James Yorke",
+    "period three implies chaos",
+    "Newton's laws",
+    "scientific revolution",
+    "uncertainty principle",
+    "nonlinear dynamics",
+    "complex systems",
+    "David Hume causation",
+    "fractals",
+    "history of science"
+  ],
+  "entities": [
+    {
+      "name": "Chaos theory",
+      "type": "other"
+    },
+    {
+      "name": "Henri Poincaré",
+      "type": "person"
+    },
+    {
+      "name": "Edward Lorenz",
+      "type": "person"
+    },
+    {
+      "name": "Isaac Newton",
+      "type": "person"
+    },
+    {
+      "name": "René Descartes",
+      "type": "person"
+    },
+    {
+      "name": "King Oscar II",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Smale",
+      "type": "person"
+    },
+    {
+      "name": "Robert May",
+      "type": "person"
+    },
+    {
+      "name": "James Yorke",
+      "type": "person"
+    },
+    {
+      "name": "David Hume",
+      "type": "person"
+    },
+    {
+      "name": "Royal McBee",
+      "type": "other"
+    },
+    {
+      "name": "Lorenz attractor",
+      "type": "other"
+    },
+    {
+      "name": "Period Three Implies Chaos",
+      "type": "work"
+    },
+    {
+      "name": "Jurassic Park",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and movie talk",
+      "summary": "Hosts open with a Squarespace sponsor line, then banter about Event Horizon and Jurassic Park's chaos scene and Jeff Goldblum's character, and introduce chaos as the idea that complex systems don't behave in neat, predictable ways.",
+      "topics": [
+        "chaos theory introduction",
+        "Jurassic Park",
+        "Event Horizon",
+        "chaos misconceptions"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Determinism and the scientific revolution",
+      "summary": "Before the scientific revolution, explanations were theistic. Descartes linked cause and effect and seeded determinism, and Newton's laws led scientists to believe that accurate starting measurements could predict a system's future. Neptune's mathematical prediction fueled confidence.",
+      "topics": [
+        "determinism",
+        "scientific revolution",
+        "Descartes",
+        "Newton's laws",
+        "Neptune discovery",
+        "scientific hubris"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Hosts take a break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "The N-body problem and King Oscar II's prize",
+      "summary": "King Oscar II offered a prize for proving the stability of the solar system. Poincaré shrank the problem to three bodies and found that tiny differences in initial conditions produce wildly different outcomes, so the stability could not be proven. This undermined determinism.",
+      "topics": [
+        "N-body problem",
+        "three-body problem",
+        "King Oscar II prize",
+        "Poincaré",
+        "sensitive dependence on initial conditions",
+        "measurement precision"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Lorenz's weather model and the butterfly effect",
+      "summary": "Meteorologist and mathematician Edward Lorenz tried to model weather on the Royal McBee computer. Rerunning a simulation with rounded inputs gave a very different result. Simplifying to a rolling convection current, he got three variables whose graph never repeated its path, and his talk and paper introduced the butterfly effect.",
+      "topics": [
+        "Edward Lorenz",
+        "butterfly effect",
+        "Royal McBee",
+        "weather prediction",
+        "convection current",
+        "chaos in meteorology"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:30:00",
+      "kind": "ad",
+      "title": "Break and movie tangent",
+      "summary": "Hosts take a break and discuss movies.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Lorenz attractor and strange attractors",
+      "summary": "The Lorenz attractor is the graph that resulted from the convection model. The hosts explain attractors and strange attractors with a town and grocery store analogy: equilibrium is an attractor, and a system that keeps seeking equilibrium with periods of stability is a strange attractor.",
+      "topics": [
+        "Lorenz attractor",
+        "strange attractor",
+        "attractor",
+        "equilibrium",
+        "dynamic systems"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Chaos as a view of nature and David Hume",
+      "summary": "The hosts discuss how chaos means nature is unpredictable rather than unstable, and how order is the exception. They tie this to David Hume's skepticism about causation.",
+      "topics": [
+        "chaos philosophy",
+        "David Hume",
+        "causation skepticism",
+        "predictability",
+        "order and disorder"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Smale's horseshoe and Robert May's population model",
+      "summary": "Stephen Smale's horseshoe map illustrates how nearby points diverge. Robert May's logistic difference equation for animal populations showed period doubling and chaos, and James Yorke co-authored the 1975 paper Period Three Implies Chaos, which first used the word chaos.",
+      "topics": [
+        "horseshoe map",
+        "Stephen Smale",
+        "Robert May",
+        "logistic difference equation",
+        "period doubling",
+        "James Yorke",
+        "Period Three Implies Chaos",
+        "origin of the word chaos"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Chaos in the 80s and 90s and modern applications",
+      "summary": "Chaos became popular in the 1980s and 1990s, then matured into a deeper field. Modern chaos work feeds raw data into models to find patterns instead of forcing nature into formulas, which helps with forecasting and population estimates. The hosts mention a Quanta article about a chaos researcher.",
+      "topics": [
+        "chaos theory history",
+        "data modeling",
+        "forecasting",
+        "Quanta magazine",
+        "modern chaos research"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:53:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from John and Rachel",
+      "summary": "A deployed listener named John thanks the hosts and sends a shout-out to his girlfriend Rachel.",
+      "topics": [
+        "listener mail",
+        "shout-out"
+      ]
+    },
+    {
+      "start": "00:53:30",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and email contacts and mention howstuffworks.com for more on chaos theory, fractals and LSD searches.",
+      "topics": [
+        "contact information",
+        "website",
+        "fractals"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16812,
+    "output_tokens": 2837
+  }
+}

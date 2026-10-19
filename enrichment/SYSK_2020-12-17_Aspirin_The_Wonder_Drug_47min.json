@@ -1,0 +1,284 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-12-17_Aspirin_The_Wonder_Drug_47min.txt",
+  "title": "Aspirin: The Wonder Drug",
+  "date": "2020-12-17",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/aspirin-the-wonder-drug",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ebe7beb8-dfca-4d85-8af9-ae280026fd94/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ebe7beb8-dfca-4d85-8af9-ae280026fd94/transcript?format=TextWithTimestamps&t=1700543605",
+  "summary": "Josh and Chuck explore the history of aspirin, from willow bark remedies in ancient Sumer and Egypt, through salicylic acid isolation, Edward Stone's 1763 willow bark study, and the German chemists at Bayer who made synthetic aspirin (with the disputed credit of Felix Hoffman, Arthur Eichengrün, and Heinrich Dreser). They cover the trademark and patent history, Bayer's tablet and cotton-ball packaging, the World War One phenol embargo and Thomas Edison sale, the discovery of how aspirin works via prostaglandins and COX enzymes, its shift to blood thinner and preventive use for heart attack and stroke, possible cancer benefits, Reye's syndrome in children, and modern formulations. The episode also includes off-topic banter about Josh's book, headache powders, and a listener mail segment about a Bay of Pigs film.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "aspirin",
+    "aspirin history",
+    "salicylic acid",
+    "willow bark",
+    "Bayer",
+    "Felix Hoffman",
+    "aspirin patent",
+    "aspirin trademark",
+    "Edward Stone willow study",
+    "cinchona bark malaria",
+    "phenol embargo World War One",
+    "Thomas Edison phenol sale",
+    "prostaglandins",
+    "COX enzymes",
+    "aspirin mechanism",
+    "blood thinner",
+    "low dose aspirin heart attack prevention",
+    "Reye syndrome",
+    "aspirin colorectal cancer",
+    "headache powder",
+    "Goody's powder",
+    "Alka-Seltzer",
+    "Advil ibuprofen comparison",
+    "cotton ball pill bottles",
+    "non-steroidal anti-inflammatory drug",
+    "IG Farben"
+  ],
+  "entities": [
+    {
+      "name": "Aspirin",
+      "type": "other"
+    },
+    {
+      "name": "Bayer",
+      "type": "organization"
+    },
+    {
+      "name": "Felix Hoffman",
+      "type": "person"
+    },
+    {
+      "name": "Arthur Eichengrün",
+      "type": "person"
+    },
+    {
+      "name": "Heinrich Dreser",
+      "type": "person"
+    },
+    {
+      "name": "Carl Duisberg",
+      "type": "person"
+    },
+    {
+      "name": "Edward Stone",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "Lawrence Craven",
+      "type": "person"
+    },
+    {
+      "name": "John Vane",
+      "type": "person"
+    },
+    {
+      "name": "Reye's syndrome",
+      "type": "other"
+    },
+    {
+      "name": "IG Farben",
+      "type": "organization"
+    },
+    {
+      "name": "Ebers Papyrus",
+      "type": "work"
+    },
+    {
+      "name": "Advil",
+      "type": "other"
+    },
+    {
+      "name": "Goody's headache powder",
+      "type": "other"
+    },
+    {
+      "name": "Red Zone, Cuba",
+      "type": "work"
+    },
+    {
+      "name": "Bay of Pigs",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter and headache powders",
+      "summary": "Josh and Chuck open with banter about headache powders such as Goody's and BC, the taste of aspirin, and Josh's new book, and introduce aspirin as the most-sold drug in history.",
+      "topics": [
+        "headache powder",
+        "Goody's powder",
+        "BC powder",
+        "aspirin sales history",
+        "Josh Clark book"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Willow bark and ancient remedies",
+      "summary": "The hosts describe willow bark as an early remedy used by the Sumerians and Egyptians, with salicylic acid as its active ingredient, and mention the Ebers Papyrus.",
+      "topics": [
+        "willow bark",
+        "salicylic acid",
+        "ancient medicine",
+        "Ebers Papyrus",
+        "Sumerians"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Cinchona, Edward Stone, and isolating salicylic acid",
+      "summary": "Cinchona bark was used for malaria but was expensive to import. Reverend Edward Stone studied willow bark in 1763 as an alternative, and later chemists isolated salicylic acid, which occurs in many plants.",
+      "topics": [
+        "cinchona bark",
+        "malaria treatment",
+        "Edward Stone",
+        "salicylic acid isolation",
+        "plant hormones"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Gerhardt and synthetic salicylates",
+      "summary": "A French chemist, Gerhardt, made an impure early version of aspirin by accident. German chemists later learned the structure of salicylate and produced it synthetically, making it cheap and popular despite stomach side effects.",
+      "topics": [
+        "Gerhardt aspirin",
+        "synthetic salicylate",
+        "salicylate side effects",
+        "stomach irritation",
+        "tinnitus"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Bayer and the invention of aspirin",
+      "summary": "Bayer, a dye company that started a pharmaceutical division, sought a gentler version of salicylate. Felix Hoffman's August 10 notebook entry is cited as the invention, with competing claims from Arthur Eichengrün and Heinrich Dreser, and Carl Duisberg's marketing role noted.",
+      "topics": [
+        "Bayer history",
+        "Felix Hoffman",
+        "Arthur Eichengrün",
+        "Heinrich Dreser",
+        "aspirin invention",
+        "Carl Duisberg"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Aspirin trademark, patents, and World War One",
+      "summary": "The name aspirin is explained as a combination of acetyl and Spiraea. Germany lost its patents after World War One, retaining only some trademarks. England embargoed phenol, and Thomas Edison reportedly sold phenol to Germany during the war.",
+      "topics": [
+        "aspirin name origin",
+        "aspirin trademark",
+        "patent surrender after World War One",
+        "phenol embargo",
+        "Thomas Edison phenol"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Tablets, cotton balls, and aspirin sales",
+      "summary": "Bayer helped popularize compressed aspirin tablets and introduced the cotton ball in pill bottles. The hosts discuss aspirin sales figures and its popularity in Argentina.",
+      "topics": [
+        "aspirin tablets",
+        "cotton ball in pill bottle",
+        "aspirin sales statistics",
+        "Bayer packaging"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "How aspirin works: prostaglandins and COX enzymes",
+      "summary": "Researchers in the late 1960s and early 1970s, including John Vane, found that aspirin blocks prostaglandin release by inhibiting cyclooxygenase enzymes, which earned Vane a Nobel Prize. Advil is compared as a reversible alternative.",
+      "topics": [
+        "prostaglandins",
+        "COX enzymes",
+        "aspirin mechanism",
+        "John Vane Nobel Prize",
+        "ibuprofen comparison"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Blood thinning and heart attack prevention",
+      "summary": "Lawrence Craven noticed patients who took aspirin bled more during surgery, revealing its blood-thinning effect. Aspirin's role shifted toward preventing clots, heart attacks, and strokes, with cautions about bleeding and talking to a doctor first.",
+      "topics": [
+        "blood thinner",
+        "anticoagulant",
+        "Lawrence Craven",
+        "heart attack prevention",
+        "stroke prevention",
+        "low dose aspirin"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Other uses, cancer, Reye's syndrome, and newer formulations",
+      "summary": "Aspirin is linked to possible reductions in colorectal cancer and dementia, use in transplants, and a warning about Reye's syndrome in children. Bayer's later IG Farben ownership and newer formulations are also covered.",
+      "topics": [
+        "aspirin cancer prevention",
+        "Reye syndrome",
+        "aspirin in children",
+        "IG Farben",
+        "enteric coated aspirin",
+        "Bayer formulations"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:12:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Bay of Pigs film",
+      "summary": "A listener writes about the film Red Zone, Cuba, a Coleman Francis movie partly about the Bay of Pigs, and plugs his artwork. The hosts also correct a Roberto Clemente discharge misstatement.",
+      "topics": [
+        "listener mail",
+        "Red Zone, Cuba",
+        "Bay of Pigs",
+        "Mystery Science Theater 3000"
+      ]
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck close the episode and invite listeners to send email.",
+      "topics": [
+        "outro",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15400,
+    "output_tokens": 3205
+  }
+}

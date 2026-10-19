@@ -1,0 +1,157 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-01-02_Short_Stuff_Khipu_15min.txt",
+  "title": "Short Stuff: Khipu",
+  "date": "2019-01-02",
+  "duration": "15 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-khipu",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5cf1d272-3ccc-4b55-ba6d-ae280054ee2d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5cf1d272-3ccc-4b55-ba6d-ae280054ee2d/transcript?format=TextWithTimestamps&t=1700543713",
+  "summary": "Josh and Chuck discuss whether the Inca Empire had a written language. They cover the Inca's scale (roads of roughly 25,000 miles, a large population across the Andes) and their administration of tribute. The main subject is the khipu, a cord device of knotted strings. Leland Locke in the 1920s argued khipus recorded information, and they were used for numerical record keeping such as censuses and tribute. Gary Urton, a Harvard anthropologist, later argued from the 1990s onward that khipus also encode names and abstract ideas. His student Manny Madrono reportedly extended the decoding, and Scottish researcher analysis of colonial-era khipus found narrative-like symbols. The hosts conclude a written language likely existed but remains undeciphered, and that much of it was lost when khipus were destroyed by the Spanish.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Inca writing system",
+    "khipu",
+    "quipu",
+    "Inca Empire",
+    "Inca record keeping",
+    "knotted cord recording",
+    "Leland Locke",
+    "Gary Urton",
+    "Manny Madrono",
+    "Inca tribute system",
+    "Inca roads",
+    "undeciphered writing",
+    "Spanish conquest khipu destruction",
+    "pre-Columbian writing",
+    "Andean civilization"
+  ],
+  "entities": [
+    {
+      "name": "Inca Empire",
+      "type": "organization"
+    },
+    {
+      "name": "khipu",
+      "type": "other"
+    },
+    {
+      "name": "Leland Locke",
+      "type": "person"
+    },
+    {
+      "name": "Gary Urton",
+      "type": "person"
+    },
+    {
+      "name": "Manny Madrono",
+      "type": "person"
+    },
+    {
+      "name": "Andes",
+      "type": "place"
+    },
+    {
+      "name": "Spanish conquistadors",
+      "type": "organization"
+    },
+    {
+      "name": "St. Andrews University",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck joke about dad jokes and puns, then introduce the topic of whether the Inca had a written language.",
+      "topics": [
+        "dad jokes",
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Inca Empire overview",
+      "summary": "The hosts describe the Inca Empire's size, including roughly 25,000 miles of roads through the Andes and millions of people. They explain the tribute system between clans, villages, and Inca rulers, and note they built a large empire without an apparent written language.",
+      "topics": [
+        "Inca Empire",
+        "Inca roads",
+        "Inca tribute system",
+        "Andean civilization"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "What the khipu is and early views",
+      "summary": "The khipu is described as a cord of knotted strings, often cotton or llama or alpaca wool, hung from a thicker cord. Early observers thought it was art or crafts, and many were destroyed by the Spanish.",
+      "topics": [
+        "khipu",
+        "quipu",
+        "Spanish conquest khipu destruction"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Leland Locke and khipu as record keeping",
+      "summary": "In the 1920s Leland Locke, studying khipus at the American Museum of Natural History in New York, argued they encode information. The hosts say they were used for numerical record keeping, such as tribute and censuses, working like an abacus.",
+      "topics": [
+        "Leland Locke",
+        "khipu numerical records",
+        "knotted cord recording",
+        "Inca record keeping"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "How khipu knots encode numbers",
+      "summary": "Knot position, type, color, material, direction, and loop count all carry meaning. Knots in decimal positions represent place value, so the knots' arrangement encodes numbers.",
+      "topics": [
+        "khipu numerical system",
+        "decimal place value",
+        "khipu encoding"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Gary Urton, Manny Madrono, and evidence of language",
+      "summary": "Gary Urton, a Harvard anthropologist, argued from the 1990s that khipus include names and abstract ideas. His student Manny Madrono reportedly extended the decoding. Evidence includes khipus found in burials and a St. Andrews University researcher's analysis of colonial-era khipus that describe a war. The hosts conclude the Inca likely had a written language that is still undeciphered, and that it was lost much as if English monks had died out.",
+      "topics": [
+        "Gary Urton",
+        "Manny Madrono",
+        "Inca writing system",
+        "undeciphered writing",
+        "khipu narrative",
+        "khipu burial"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and point listeners to the web and email.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5871,
+    "output_tokens": 1787
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-01-13_Short_Stuff_Silverfish_10min.txt",
+  "title": "Short Stuff: Silverfish",
+  "date": "2021-01-13",
+  "duration": "10 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-silverfish",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/746f5d92-5a89-4208-8a2f-ae280024a33e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/746f5d92-5a89-4208-8a2f-ae280024a33e/transcript?format=TextWithTimestamps&t=1700543604",
+  "summary": "Short Stuff episode on silverfish. Josh and Chuck (with Jerry in the background) discuss whether people should fear silverfish, noting they are harmless to people, rarely form infestations, and reproduce slowly. They cover their Devonian-era ancestry and hardiness (surviving about six months with only water or only food), their attraction to starch in clothing and to the starchy glues and animal proteins in old books, and what they look like (thin, silvery-gray scales, fish-like tail appendages, the source of the name). They describe their habitat (humid, warm basements and crawl spaces, around 78 degrees Fahrenheit) and erratic darting movement, and the female laying about 100 eggs in a lifetime, three to six at a time, hatching in three to six weeks. Advice for control: reduce clutter and cardboard storage, use plastic bins, lower humidity, vacuum them up, or call a professional.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "silverfish",
+    "silverfish infestation",
+    "insect pests",
+    "household pests",
+    "silverfish appearance",
+    "silverfish movement",
+    "silverfish reproduction",
+    "silverfish habitat humidity",
+    "silverfish eating starch",
+    "silverfish books and bookbinding glue",
+    "silverfish control",
+    "pest removal",
+    "Devonian period insects",
+    "insect hardiness",
+    "storing items in plastic bins",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Silverfish",
+      "type": "other"
+    },
+    {
+      "name": "Devonian period",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh opens the Short Stuff episode with Jerry in the background and asks whether anyone has seen a silverfish, with a Cobra Commander joke.",
+      "topics": [
+        "Short Stuff",
+        "silverfish"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Are silverfish scary, and their ancient origins",
+      "summary": "The hosts discuss why people are scared of silverfish. They note the bugs have existed since the Devonian period, are harmless to people, rarely form infestations because they reproduce slowly, and can survive about six months with only water or only food.",
+      "topics": [
+        "silverfish",
+        "Devonian period insects",
+        "insect hardiness",
+        "silverfish infestation",
+        "silverfish reproduction"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Silverfish and books and starch",
+      "summary": "Silverfish are drawn to the starchy, sugary glues and animal proteins in old book bindings and to starch in clothing. Modern books are not put together that way, but antique book collections can be damaged.",
+      "topics": [
+        "silverfish books and bookbinding glue",
+        "silverfish eating starch",
+        "antique book collecting",
+        "silverfish damage to clothing"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Silverfish appearance and movement",
+      "summary": "The hosts describe silverfish as skinny, pointy, and silvery-gray with fish-like tail appendages, which explains the name. They also describe their erratic darting movement and tendency to flee from people.",
+      "topics": [
+        "silverfish appearance",
+        "silverfish movement",
+        "silverfish name origin"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:20",
+      "kind": "content",
+      "title": "Habitat, reproduction, and getting rid of them",
+      "summary": "Silverfish prefer humid, warm places around 78 degrees Fahrenheit, like basements and crawl spaces. Females lay about 100 eggs in a lifetime, three to six at a time, hatching in three to six weeks. Control tips include reducing clutter, using plastic bins, lowering humidity, vacuuming, or calling a professional.",
+      "topics": [
+        "silverfish habitat humidity",
+        "silverfish reproduction",
+        "silverfish control",
+        "storing items in plastic bins",
+        "pest removal"
+      ]
+    },
+    {
+      "start": "00:09:20",
+      "end": "00:10:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck wrap up telling listeners to leave silverfish alone and close the episode.",
+      "topics": [
+        "Short Stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4384,
+    "output_tokens": 1557
+  }
+}

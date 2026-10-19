@@ -1,0 +1,274 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-09-24_Do_zombies_really_exist_36min.txt",
+  "title": "Do zombies really exist?",
+  "date": "2009-09-24",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/do-zombies-really-exist",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ae462b1f-ace8-4941-a58c-ae2800bcc808/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ae462b1f-ace8-4941-a58c-ae2800bcc808/transcript?format=TextWithTimestamps&t=1700543978",
+  "summary": "Josh and Chuck explore whether zombies really exist. They open with a cold-open zombie-apocalypse bit and banter about Ecuador's fish rain. The main section covers Haitian zombies: Clairvius Narcisse, ethnobotanist Wade Davis's Zombie Project, the Bizango society and zombification as punishment, the zombie powder (tetrodotoxin from puffer fish, toads, tree frogs, human remains), the zombie cucumber, and criticisms of Davis's science. They then move to fictional zombies, starting with George Romero's Night of the Living Dead rules, the Ottawa mathematicians' \"When Zombies Attack!\" study, survival advice (retreat to a superstore, avoid getting surrounded), Reanimator and brain-reanimation research, and zombie movie trivia. The episode closes with listener mail from the band Henry Clay People, who say the show helped their tour.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "zombies",
+    "Haitian zombies",
+    "zombification",
+    "Wade Davis",
+    "Serpent and the Rainbow",
+    "Clairvius Narcisse",
+    "zombie powder",
+    "tetrodotoxin",
+    "puffer fish",
+    "fugu",
+    "Bizango society",
+    "voodoo",
+    "bokor",
+    "George Romero",
+    "Night of the Living Dead",
+    "zombie movies",
+    "When Zombies Attack mathematical model",
+    "zombie survival",
+    "Reanimator",
+    "brain reanimation",
+    "Haitian Penal Code",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Wade Davis",
+      "type": "person"
+    },
+    {
+      "name": "Clairvius Narcisse",
+      "type": "person"
+    },
+    {
+      "name": "Lamarck Du Wan",
+      "type": "person"
+    },
+    {
+      "name": "George Romero",
+      "type": "person"
+    },
+    {
+      "name": "Robert Smith",
+      "type": "person"
+    },
+    {
+      "name": "Tracy Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Matt Frederick",
+      "type": "person"
+    },
+    {
+      "name": "Night of the Living Dead",
+      "type": "work"
+    },
+    {
+      "name": "The Serpent and the Rainbow",
+      "type": "work"
+    },
+    {
+      "name": "Return of the Living Dead",
+      "type": "work"
+    },
+    {
+      "name": "Re-Animator",
+      "type": "work"
+    },
+    {
+      "name": "28 Days Later",
+      "type": "work"
+    },
+    {
+      "name": "Resident Evil",
+      "type": "work"
+    },
+    {
+      "name": "Zombieland",
+      "type": "work"
+    },
+    {
+      "name": "Bizango",
+      "type": "organization"
+    },
+    {
+      "name": "Haiti",
+      "type": "place"
+    },
+    {
+      "name": "Henry Clay People",
+      "type": "organization"
+    },
+    {
+      "name": "Ecuador",
+      "type": "place"
+    },
+    {
+      "name": "University of Ottawa",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Zombie apocalypse cold open and opening banter",
+      "summary": "A mock news exchange with Chief McLellan about fighting zombies, which the hosts tie to George Romero's zombie films. Josh and Chuck then banter about the rain of blind fish in Ecuador and set up the zombie topic.",
+      "topics": [
+        "zombies",
+        "George Romero",
+        "fish rain Ecuador"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Clairvius Narcisse and Wade Davis's Zombie Project",
+      "summary": "Introduces the claim of real zombies in Haiti. Clairvius Narcisse, who had been pronounced dead in 1962 by American doctors, reappeared in 1980. Dr. Lamarck Du Wan interviewed him, and Dr. Nathan Klein sent ethnobotanist Wade Davis to Haiti for the Zombie Project, which was partly aimed at finding anesthetics.",
+      "topics": [
+        "Clairvius Narcisse",
+        "Wade Davis",
+        "Zombie Project",
+        "Lamarck Du Wan",
+        "Haitian zombies"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Bizango society and zombification as punishment",
+      "summary": "Davis found that the Bizango secret society, with some voodoo priests (bokors) as members, used zombification as a punishment for transgressions against the group or a family. Narcisse said his brothers had him zombified over a land sale. Davis found no financial motive. Haitian Penal Code Article 245 treats attempted zombification as murder.",
+      "topics": [
+        "Bizango society",
+        "bokor",
+        "zombification punishment",
+        "Haitian Penal Code",
+        "tibon ange"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Zombie powder and the zombification process",
+      "summary": "Davis analyzed zombie powder samples and found common ingredients: puffer fish with tetrodotoxin, marine toads, a highlight tree frog, human remains, and skin irritants. The powder is applied to the skin. The victim is paralyzed and pronounced dead but stays aware. The victim is later exhumed and given a 'zombie cucumber' (sweet potato and jimsonweed). Tetrodotoxin symptoms match fugu poisoning.",
+      "topics": [
+        "zombie powder",
+        "tetrodotoxin",
+        "puffer fish",
+        "fugu",
+        "zombie cucumber",
+        "jimsonweed",
+        "toad toxins",
+        "zombie poison"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Criticism of Davis's research and cultural belief",
+      "summary": "Davis argued that the process only works in a culture that believes in zombies. Critics questioned his ethics, including digging up bodies. They also questioned his experiments on monkeys and rats, the lack of tetrodotoxin in some samples, and whether the reported zombies were actually mental illness or mistaken identity. Davis's academic reputation remained intact.",
+      "topics": [
+        "Wade Davis criticism",
+        "zombie science skepticism",
+        "mistaken identity",
+        "Jerusalem syndrome",
+        "zombie rats"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Hollywood zombies and George Romero's rules",
+      "summary": "The hosts move from real zombies to fictional ones. Romero's Night of the Living Dead set the rules: destroy the brain to kill a zombie, zombies beget zombies, and the dead are reanimated by radiation from a returning satellite. Earlier films had zombies, but Romero brought them into the mainstream.",
+      "topics": [
+        "George Romero",
+        "Night of the Living Dead",
+        "zombie movie rules",
+        "zombie origins"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "When Zombies Attack! mathematical study",
+      "summary": "Mathematicians Robert Smith and a colleague at the University of Ottawa used contagious disease models to study whether humans could survive a slow-moving zombie attack. Their paper, When Zombies Attack!, found that humans would be in serious trouble unless they strike fast and escalate. Fast-moving zombies in 28 Days Later and Resident Evil are discussed.",
+      "topics": [
+        "When Zombies Attack",
+        "Robert Smith",
+        "University of Ottawa",
+        "zombie mathematics",
+        "fast zombies",
+        "28 Days Later",
+        "Resident Evil"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Zombie survival tips and weapons",
+      "summary": "The hosts discuss weapons (pump shotgun, samurai sword, battle axe, crossbow) and survival: retreat to a superstore with supplies, avoid populated areas, avoid getting surrounded or cornered, and don't give weapons to hysterical people. They also mention Zombieland and actor Woody Harrelson's courtroom excuse.",
+      "topics": [
+        "zombie survival",
+        "zombie weapons",
+        "shotgun",
+        "Zombieland",
+        "avoiding zombies"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:30",
+      "kind": "content",
+      "title": "Re-Animator and brain reanimation research",
+      "summary": "The hosts discuss Re-Animator, in which a decapitated head and body are both reanimated. They relate this to Max Planck Institute research into keeping brains functioning after death.",
+      "topics": [
+        "Re-Animator",
+        "brain reanimation",
+        "Max Planck Institute",
+        "reanimation research"
+      ]
+    },
+    {
+      "start": "00:33:30",
+      "end": "00:34:30",
+      "kind": "content",
+      "title": "Zombie movie preferences and trivia",
+      "summary": "Brief talk about favorite zombie movies, Return of the Living Dead, Night of the Comet, and a Patrick Swayze zombie cameo planned for Zombieland.",
+      "topics": [
+        "zombie movies",
+        "Return of the Living Dead",
+        "Night of the Comet",
+        "Patrick Swayze"
+      ]
+    },
+    {
+      "start": "00:34:30",
+      "end": "00:36:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Henry Clay People",
+      "summary": "A touring indie band says the podcast changed their van time, and they mention an upcoming Atlanta show at the Variety Playhouse on October 7, opening for Airborne Toxic Event.",
+      "topics": [
+        "listener mail",
+        "Henry Clay People",
+        "podcast fans"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13052,
+    "output_tokens": 3264
+  }
+}

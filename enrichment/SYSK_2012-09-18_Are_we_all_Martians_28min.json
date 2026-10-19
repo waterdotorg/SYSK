@@ -1,0 +1,204 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-09-18_Are_we_all_Martians_28min.txt",
+  "title": "Are we all Martians?",
+  "date": "2012-09-18",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/are-we-all-martians",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d0b78059-53b4-42d7-a6f1-ae2800a596e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d0b78059-53b4-42d7-a6f1-ae2800a596e7/transcript?format=TextWithTimestamps&t=1700543914",
+  "summary": "Hosts Josh and Chuck open with announcements about a New York trip: an October 12, 2012 \"Stuff You Should Know Day\" in the five boroughs, a live podcast during Comic Con, and a trivia night with a celebrity team. They then cover panspermia, the idea that life arrived on Earth from space, starting with Lord Kelvin's 1870s proposal that seed-bearing meteorites brought life, and Svante Arrhenius's 1906 coinage and microbe-based version. They discuss Mars meteorites (including the 1984 ALH84001 meteorite and its heat-exposure study at Caltech), NASA estimates of Martian rocks hitting early Earth, bacteria surviving space exposure, gun-launch and centrifuge-style acceleration tests, and ancient bacteria revived from amber and salt crystals. Then they promote the Sweet Sixteen horror fiction reader-voting bracket, and close with a listener email about auto-parts invoice fraud and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "panspermia",
+    "Are we all Martians",
+    "Mars meteorites",
+    "ALH84001 meteorite",
+    "Lord Kelvin panspermia",
+    "Svante Arrhenius",
+    "origin of life",
+    "abiogenesis",
+    "biogenesis",
+    "RNA world",
+    "Viking probes Mars atmosphere",
+    "Martian rocks hitting Earth",
+    "bacteria surviving space",
+    "extremophiles",
+    "halophiles",
+    "Rhodococcus spores in amber",
+    "bacteria in salt crystal",
+    "Bacillus subtilis orbit experiment",
+    "Stuff You Should Know New York trip",
+    "Sweet Sixteen horror fiction contest",
+    "listener mail auto parts fraud"
+  ],
+  "entities": [
+    {
+      "name": "Lord Kelvin",
+      "type": "person"
+    },
+    {
+      "name": "Svante Arrhenius",
+      "type": "person"
+    },
+    {
+      "name": "ALH84001",
+      "type": "other"
+    },
+    {
+      "name": "Viking probes",
+      "type": "other"
+    },
+    {
+      "name": "Mars",
+      "type": "place"
+    },
+    {
+      "name": "Earth",
+      "type": "place"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Caltech",
+      "type": "organization"
+    },
+    {
+      "name": "Lynn Rothschild",
+      "type": "person"
+    },
+    {
+      "name": "Rocco Mancinelli",
+      "type": "person"
+    },
+    {
+      "name": "Gerda Horneck",
+      "type": "person"
+    },
+    {
+      "name": "Comic Con",
+      "type": "event"
+    },
+    {
+      "name": "Worlds in the Making",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and New York trip announcement",
+      "summary": "Hosts banter about the show and announce Stuff You Should Know Day in New York City on October 12, 2012, a live podcast during Comic Con, and a trivia night with a celebrity team.",
+      "topics": [
+        "Stuff You Should Know New York trip",
+        "Comic Con live podcast",
+        "trivia night",
+        "Bloomberg proclamation"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Panspermia and Lord Kelvin",
+      "summary": "Introduction to the origin-of-life debate: abiogenesis (RNA-based) versus panspermia. Panspermia was proposed by Lord Kelvin, who suggested seed-bearing meteorites, possibly from Mars, brought life to Earth. Svante Arrhenius coined the term in 1906 and later argued microbes travel via starlight or radiation pressure rather than inside rocks.",
+      "topics": [
+        "panspermia",
+        "Lord Kelvin",
+        "Svante Arrhenius",
+        "abiogenesis",
+        "origin of life",
+        "RNA world"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Viking probes and Mars meteorites",
+      "summary": "The Viking probes measured Mars atmosphere, which matched gases trapped in Mars meteorites found on Earth. Researchers identified 104 meteorites from Mars and showed rocks can travel from Mars to Earth and survive intact.",
+      "topics": [
+        "Viking probes",
+        "Mars meteorites",
+        "Martian atmosphere composition"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "ALH84001 and heat survival",
+      "summary": "The ALH84001 meteorite, found in Antarctica's Allan Hills, was studied for possible microbial fossils. Caltech researchers used its magnetic signature to show it never got hotter than about 104 degrees Fahrenheit, so microbes could survive. NASA scientists estimated many Martian rocks hit early Earth, and the inner solar system likely allows life exchange, while interstellar odds are very low.",
+      "topics": [
+        "ALH84001",
+        "Allan Hills meteorite",
+        "magnetite microfossils",
+        "Caltech meteorite heat study",
+        "NASA Martian rock impacts",
+        "inner solar system life exchange"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Bacteria surviving space and launch",
+      "summary": "Lynn Rothschild and Rocco Mancinelli exposed halophile bacteria on a satellite, and about ten survived two weeks. Gerda Horneck's group fired bacteria in bullets and sent Bacillus subtilis into orbit for six years, where spores formed protective shells and about thirty survived.",
+      "topics": [
+        "bacteria surviving space",
+        "halophiles",
+        "Bacillus subtilis spores",
+        "Gerda Horneck",
+        "Rothschild Mancinelli experiment",
+        "ejection from planets"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Ancient bacteria in amber and salt crystal",
+      "summary": "Bacteria isolated from a bee gut preserved in roughly 40-million-year-old amber were still alive, and bacteria from a 250-million-year-old salt crystal were also reported alive. The hosts conclude a Martian origin is possible but not probable and raise the question of where life began.",
+      "topics": [
+        "bacteria in amber",
+        "250 million year old salt crystal bacteria",
+        "dormant bacteria revival",
+        "Martian origin of life"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:26:00",
+      "kind": "ad",
+      "title": "Sweet Sixteen horror fiction contest",
+      "summary": "Hosts promote the Sweet Sixteen horror fiction reader-voting bracket on the HowStuffWorks blog for the Halloween episode.",
+      "topics": [
+        "Sweet Sixteen horror fiction contest",
+        "Halloween horror story reading"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:28:00",
+      "kind": "listener_mail",
+      "title": "Listener email on auto parts invoice fraud",
+      "summary": "A former counter employee at an auto repair shop describes discovering that a coworker altered and photocopied invoices to steal money. The hosts comment on whether this counts as white collar crime, and they close with contact information and sign-off.",
+      "topics": [
+        "listener mail",
+        "invoice fraud",
+        "white collar crime",
+        "auto parts store theft"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9872,
+    "output_tokens": 2552
+  }
+}

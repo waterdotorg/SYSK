@@ -1,0 +1,145 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-12-09_Short_Stuff_Cramming_13min.txt",
+  "title": "Short Stuff: Cramming",
+  "date": "2020-12-09",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-cramming",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c33a69aa-fe35-4efd-89af-ae280027c2e2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c33a69aa-fe35-4efd-89af-ae280027c2e2/transcript?format=TextWithTimestamps&t=1700543606",
+  "summary": "Short Stuff episode on cramming for tests versus effective long-term learning. Josh and Chuck explain why cramming produces short-term recall but poor retention, and cover the spacing effect, spacing study sessions and changing study locations, effortful recall (struggling to remember names), writing things out by hand, and interleaving (mixing subjects during study). They cite a UCLA psychology researcher on forgetting after tests, a 2009 UCLA study by Dr. Nate Kornell finding spacing beat cramming for most participants, and a 2015 study with middle schoolers learning algebra and geometry where interleaving scored better, with the interleaved group reportedly up 76 percent a month later. They also share personal study habits and joke about TV characters taking speed to study.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "cramming",
+    "studying techniques",
+    "spacing effect",
+    "interleaving",
+    "long-term learning",
+    "memory retention",
+    "forgetting curve",
+    "effortful recall",
+    "study habits",
+    "learning methods",
+    "encoding memory",
+    "test preparation",
+    "handwriting notes",
+    "varying study location",
+    "Dr. Robert Bjork",
+    "Nate Kornell study",
+    "UCLA memory research",
+    "middle school algebra geometry study"
+  ],
+  "entities": [
+    {
+      "name": "Robert Bjork",
+      "type": "person"
+    },
+    {
+      "name": "Nate Kornell",
+      "type": "person"
+    },
+    {
+      "name": "UCLA",
+      "type": "organization"
+    },
+    {
+      "name": "Family Ties",
+      "type": "work"
+    },
+    {
+      "name": "Saved by the Bell",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening and why cramming is bad",
+      "summary": "Josh introduces the episode on cramming, admitting he crammed through school. He and Chuck argue cramming yields short-term test results but little learning or retention, which matters for building blocks like language and math.",
+      "topics": [
+        "cramming",
+        "long-term learning",
+        "forgetting after tests"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break; hosts return after a brief pause.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Spacing effect",
+      "summary": "Studying material, taking a break, then returning retains more than studying twice in a row. Changing study location can help encoding differently. Hosts say there seems to be a sweet spot, since too-close repetition adds little.",
+      "topics": [
+        "spacing effect",
+        "spaced repetition",
+        "study location",
+        "encoding memory"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Effortful recall and remembering names",
+      "summary": "Trying to recall information after a delay strengthens learning more than immediate repetition, illustrated by remembering someone's name an hour later rather than thirty seconds later. Hosts joke about struggling to remember names.",
+      "topics": [
+        "effortful recall",
+        "retrieval practice",
+        "remembering names"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Spacing vs. cramming study and interleaving",
+      "summary": "A 2009 UCLA study by Nate Kornell found spacing beat cramming for most participants, though most still believed cramming worked. The hosts then describe interleaving, mixing subjects during study, and a 2015 study of middle schoolers learning algebra and geometry where interleaved students scored better, with the group reportedly up 76 percent a month later.",
+      "topics": [
+        "interleaving",
+        "Nate Kornell study",
+        "middle school algebra geometry study",
+        "spacing vs cramming"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Personal study habits and handwriting",
+      "summary": "Chuck describes spacing out reading across laptop and printed copies with highlighting and underlining. Both discuss writing things out by hand as an aid to memory and the value of studying in different places. Josh jokes about his hard-to-read handwriting.",
+      "topics": [
+        "handwriting notes",
+        "personal study habits",
+        "writing to remember",
+        "varying study environment"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts wrap up urging listeners to stop cramming, and the show closes with credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5326,
+    "output_tokens": 1614
+  }
+}

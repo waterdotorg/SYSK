@@ -1,0 +1,419 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-05-14_NYC_Trash_A_study_in_persistence_50min.txt",
+  "title": "NYC Trash: A study in persistence",
+  "date": "2024-05-14",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/nyc-trash-a-study-in-persistence",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f3c3985b-09cc-4612-8b1f-b16b0102036b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f3c3985b-09cc-4612-8b1f-b16b0102036b/transcript?format=TextWithTimestamps&t=1715677773",
+  "summary": "Josh and Chuck explore New York City's trash and sanitation system, from the 1650s filth laws and George Waring's 1890s street-cleaning reforms through the 1968 strike, the switch from cans to bags, and the shutdown of Fresh Kills. They cover how much residential and commercial trash the city generates, the DSNY's trucks, workers, pay and union, the mob-run private carting industry and its worker and pedestrian safety problems, waste-to-energy and out-of-state landfill shipping via the marine transfer stations, and the 2024 push to replace black and blue bags with bins. The episode closes with a listener mail story about an arson in Saint Paul.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "New York City trash",
+    "NYC sanitation department",
+    "DSNY",
+    "George Waring",
+    "Department of Street Cleaning history",
+    "Tammany Hall patronage",
+    "1968 sanitation strike",
+    "trash bags vs cans",
+    "Fresh Kills landfill",
+    "garbage trucks",
+    "private carting industry",
+    "mafia in carting",
+    "sanitation worker pay and union",
+    "Teamsters Local 831",
+    "marine transfer stations",
+    "waste to energy",
+    "residential trash collection",
+    "New York City composting",
+    "trash bin pilot Harlem",
+    "Business Integrity Commission",
+    "Ellis Island landfill land",
+    "Jessica Tish",
+    "Eric Adams sanitation reforms",
+    "rat control",
+    "garbage juice hazards",
+    "Lost Valuable Search"
+  ],
+  "entities": [
+    {
+      "name": "New York City Department of Sanitation",
+      "type": "organization"
+    },
+    {
+      "name": "George Waring",
+      "type": "person"
+    },
+    {
+      "name": "Jessica Tish",
+      "type": "person"
+    },
+    {
+      "name": "Eric Adams",
+      "type": "person"
+    },
+    {
+      "name": "Robin Nagel",
+      "type": "person"
+    },
+    {
+      "name": "Fresh Kills Landfill",
+      "type": "place"
+    },
+    {
+      "name": "Ellis Island",
+      "type": "place"
+    },
+    {
+      "name": "Harlem",
+      "type": "place"
+    },
+    {
+      "name": "Staten Island",
+      "type": "place"
+    },
+    {
+      "name": "Teamsters Local 831",
+      "type": "organization"
+    },
+    {
+      "name": "Business Integrity Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Gambino crime family",
+      "type": "organization"
+    },
+    {
+      "name": "Genovese crime family",
+      "type": "organization"
+    },
+    {
+      "name": "Michael Hanley",
+      "type": "person"
+    },
+    {
+      "name": "Typhoid Mary",
+      "type": "work"
+    },
+    {
+      "name": "Memphis sewage system",
+      "type": "event"
+    },
+    {
+      "name": "Kiara Feldman",
+      "type": "person"
+    },
+    {
+      "name": "ProPublica",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "kind": "ad",
+      "title": "Live show tour promo",
+      "summary": "Promotion for Stuff You Should Know Live dates in Medford, Washington DC, and New York City, with ticket information.",
+      "topics": [
+        "Stuff You Should Know Live",
+        "live tour"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening and topic setup",
+      "summary": "The hosts introduce the episode on New York City trash and sanitation, noting it follows their earlier USPS episode.",
+      "topics": [
+        "New York City trash",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:50",
+      "kind": "content",
+      "title": "Eric Adams and Jessica Tish's cleanup push",
+      "summary": "The hosts describe the current mayor's cleanup campaign and sanitation commissioner Jessica Tish, whose family is wealthy and who has worked in civil service.",
+      "topics": [
+        "Eric Adams sanitation reforms",
+        "Jessica Tish",
+        "NYC sanitation commissioner"
+      ]
+    },
+    {
+      "start": "00:04:50",
+      "end": "00:07:10",
+      "kind": "content",
+      "title": "Filthy old New York and land made from garbage",
+      "summary": "Early New York was very dirty, with a 1650s law banning filth and manure in streets. Lower Manhattan and Ellis Island grew from landfill, with Ellis Island growing from three acres to twenty-eight.",
+      "topics": [
+        "old New York sanitation",
+        "Ellis Island landfill",
+        "Manhattan made land",
+        "1650s filth law"
+      ]
+    },
+    {
+      "start": "00:07:10",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Tammany Hall and the Department of Street Cleaning",
+      "summary": "The earlier Department of Street Cleaning was a source of patronage jobs for the Tammany Hall machine, and money meant for cleanup was stolen or diverted.",
+      "topics": [
+        "Tammany Hall patronage",
+        "Department of Street Cleaning history",
+        "corruption"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:40",
+      "kind": "content",
+      "title": "George Waring's cleanup",
+      "summary": "Union colonel George Waring led street cleaning from about 1895 with a uniformed, military-style hierarchy, a dramatic change from earlier years. He had previously designed the Memphis sewage system. Robin Nagel is mentioned as an NYU professor who acts as an unpaid sanitation anthropologist.",
+      "topics": [
+        "George Waring",
+        "Robin Nagel",
+        "street cleaning reform",
+        "Memphis sewage system"
+      ]
+    },
+    {
+      "start": "00:10:40",
+      "end": "00:12:10",
+      "kind": "content",
+      "title": "Incinerators and closing landfills",
+      "summary": "Apartment incinerators were banned in 1989, and landfills inside city limits were shut down, ending with Fresh Kills on Staten Island in 2001, which had taken waste from the World Trade Center.",
+      "topics": [
+        "incinerator ban",
+        "Fresh Kills landfill",
+        "World Trade Center debris"
+      ]
+    },
+    {
+      "start": "00:12:10",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Trash cans to bags and manual collection",
+      "summary": "The city moved from metal cans to trash bags in the 1968 sanitation strike era and in 1971 dropped cans entirely. Lack of alleys means bags are placed on sidewalks, and workers collect them by hand.",
+      "topics": [
+        "1968 sanitation strike",
+        "trash bags vs cans",
+        "sidewalk trash pickup",
+        "manual garbage collection"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:16:40",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Break before the discussion of how much trash New York produces.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:16:40",
+      "end": "00:19:10",
+      "kind": "content",
+      "title": "How much trash NYC produces and the DSNY fleet",
+      "summary": "The city produces about four and a half million tons of residential trash a year. The DSNY collects residential trash two or three times weekly from fifty-nine districts with over two thousand trucks, which drive about four and a half million miles a year.",
+      "topics": [
+        "NYC trash volume",
+        "residential trash collection",
+        "garbage truck fleet",
+        "DSNY districts"
+      ]
+    },
+    {
+      "start": "00:19:10",
+      "end": "00:21:20",
+      "kind": "content",
+      "title": "Garbage truck types and equipment",
+      "summary": "Trucks include dual-bin recycling models, top loaders, and twelve-ton single-bin 'white elephant' trucks. Garbage trucks have dual steering and brake pedals. The DSNY also operates street sweepers, salt spreaders, and snowplows, which are being electrified.",
+      "topics": [
+        "garbage trucks",
+        "street sweepers",
+        "truck electrification",
+        "dual controls"
+      ]
+    },
+    {
+      "start": "00:21:20",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "DSNY duties beyond trash",
+      "summary": "The DSNY also handles composting, snow removal, vacant lots, abandoned cars, and abandoned bikes. Graffiti removal was added in 2023, with eight hundred of one thousand backlogged requests cleared in one month.",
+      "topics": [
+        "abandoned cars",
+        "abandoned bikes",
+        "graffiti removal",
+        "composting",
+        "snow removal"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:10",
+      "kind": "content",
+      "title": "Worker danger and garbage juice",
+      "summary": "Sanitation work is hazardous because of sharp objects, garbage juice, and compactors. In 1996, worker Michael Hanley died after hydrofluoric acid thrown in regular trash exploded in a compactor hopper.",
+      "topics": [
+        "sanitation worker safety",
+        "garbage juice",
+        "Michael Hanley",
+        "hydrofluoric acid accident"
+      ]
+    },
+    {
+      "start": "00:27:10",
+      "end": "00:30:15",
+      "kind": "content",
+      "title": "Physical toll and sanitation worker pay",
+      "summary": "Workers lift heavy cans by hand, and COVID and Ground Zero illnesses took a toll. Teamsters Local 831 represents them, with entry pay about $43,000 rising to about $89,000 after five and a half years, and early retirement with full benefits.",
+      "topics": [
+        "sanitation worker pay",
+        "Teamsters Local 831",
+        "sanitation worker health",
+        "pension and retirement",
+        "Ground Zero cleanup"
+      ]
+    },
+    {
+      "start": "00:30:15",
+      "end": "00:31:35",
+      "kind": "content",
+      "title": "Training and driving garbage trucks",
+      "summary": "Becoming a sanitation worker requires a civil service exam, a CDL, and about a month of training, with a practice obstacle course. Driving in traffic is hard and dangerous.",
+      "topics": [
+        "sanitation worker training",
+        "CDL",
+        "civil service exam"
+      ]
+    },
+    {
+      "start": "00:31:35",
+      "end": "00:33:30",
+      "kind": "content",
+      "title": "Waste-to-energy and marine transfer stations",
+      "summary": "Some trash goes to incinerators that now produce energy, but most leaves the city by barge and rail to landfills in Virginia, South Carolina, Ohio, and elsewhere. Five marine transfer stations were built starting in the early 2000s, with odor control and hawk calls to deter seagulls.",
+      "topics": [
+        "waste to energy",
+        "marine transfer stations",
+        "barge and rail trash shipping",
+        "out-of-state landfills"
+      ]
+    },
+    {
+      "start": "00:33:30",
+      "end": "00:36:40",
+      "kind": "content",
+      "title": "Where NYC trash goes and lost-item search",
+      "summary": "Manhattan trash goes mainly to New Jersey, Staten Island trash to South Carolina, and the rest to Pennsylvania and Ohio. A Lost Valuable Search program lets people search a pile at the marine transfer station for lost items for ninety minutes.",
+      "topics": [
+        "landfill destinations",
+        "Lost Valuable Search",
+        "lost items in trash"
+      ]
+    },
+    {
+      "start": "00:36:40",
+      "end": "00:38:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break before the private carting section.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:41:10",
+      "kind": "content",
+      "title": "Private carting, mob history, and worker conditions",
+      "summary": "Commercial trash has been handled by private carters since the 1950s, and the Gambino and Genovese crime families controlled much of it until the 1990s. Today's private haulers have weak unions, and drivers earn less than a helper did in 1985. About two hundred fifty private handlers are overseen by the Business Integrity Commission. Private trucks have more pedestrian fatalities than DSNY trucks.",
+      "topics": [
+        "private carting",
+        "mafia in carting",
+        "Business Integrity Commission",
+        "commercial trash",
+        "pedestrian deaths garbage trucks"
+      ]
+    },
+    {
+      "start": "00:41:10",
+      "end": "00:43:05",
+      "kind": "content",
+      "title": "Exploitation of day laborers and zoning reform",
+      "summary": "Some private companies hired unlicensed day laborers, and Mukhtar Diallo was crushed by a truck. A 2019 law divided the city into zones with no more than three companies each and required safety contracts.",
+      "topics": [
+        "day laborers",
+        "Mukhtar Diallo",
+        "commercial waste zoning law",
+        "carting reform"
+      ]
+    },
+    {
+      "start": "00:43:05",
+      "end": "00:47:30",
+      "kind": "content",
+      "title": "Bins replacing bags and Harlem pilot",
+      "summary": "The city plans to replace bags with bins, with smaller wheelie bins for small buildings and dumpsters for large ones, costing about 150,000 parking spots. A Harlem pilot in September 2023 cut rat sightings by 68 percent. Composting is a newer program aimed at food waste.",
+      "topics": [
+        "trash bins",
+        "parking spots",
+        "Harlem pilot",
+        "rat sightings",
+        "composting",
+        "black bags"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:48:05",
+      "kind": "content",
+      "title": "Wrap-up on NYC trash",
+      "summary": "The hosts close the trash discussion and mention composting and visiting New York.",
+      "topics": [
+        "composting",
+        "episode wrap-up"
+      ]
+    },
+    {
+      "start": "00:48:05",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Saint Paul arson",
+      "summary": "Listener Teagan describes how a roommate who was a firefighter EMT set a couch on fire in the basement of a Saint Paul house in 2019, and the fire was later admitted.",
+      "topics": [
+        "listener mail",
+        "arson",
+        "Saint Paul"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:50:16",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank the listener and invite more listener stories, followed by the production credit.",
+      "topics": [
+        "outro",
+        "listener mail submissions"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18582,
+    "output_tokens": 4701
+  }
+}

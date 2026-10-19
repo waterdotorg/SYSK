@@ -1,0 +1,425 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-01-11_How_Cranes_Work_51min.txt",
+  "title": "How Cranes Work",
+  "date": "2024-01-11",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-cranes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/322f14b1-6850-4fdf-a62b-b0c901016098/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/322f14b1-6850-4fdf-a62b-b0c901016098/transcript?format=TextWithTimestamps&t=1713664805",
+  "summary": "Josh and Chuck (with iHeart intro voice) explain tower cranes, the construction cranes seen on building sites. They cover crane history from ancient Greece and Hans Liebherr's 1949 mobile tower crane, the 1960s Favelle brothers' climbing \"kangaroo\" cranes, and the parts of a hammerhead tower crane: foundation and mast, cat's head, slewing unit, jib arm and trolley, hoist unit and cable reeving, counter jib and counterweights, and operator cab. They describe top-climbing and bottom-climbing methods for raising cranes, luffing jib cranes, and self-erecting cranes. The episode also covers crane operator working conditions and training, licensing gaps across states, the signal person and lift director roles, rental costs, crane safety incidents including a Manhattan jib collapse, power line hazards, fatality statistics, and wind protocol (letting the jib weathervane). The episode ends with a listener email from Dan about scuba diving with his brother and father.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "tower cranes",
+    "construction cranes",
+    "how cranes work",
+    "hammerhead tower crane",
+    "climbing cranes",
+    "top climbing crane",
+    "bottom climbing crane",
+    "jib arm",
+    "trolley",
+    "slewing unit",
+    "cat's head",
+    "counterweights",
+    "hoist unit",
+    "luffing jib crane",
+    "self-erecting crane",
+    "crane operator",
+    "crane safety",
+    "crane fatalities",
+    "Hans Liebherr",
+    "Favelle brothers",
+    "Kroll K10000 crane",
+    "crane wind protocol",
+    "crane licensing",
+    "NCCCO certification",
+    "lift director",
+    "signal person",
+    "Manhattan crane collapse",
+    "power line electrocution"
+  ],
+  "entities": [
+    {
+      "name": "Hans Liebherr",
+      "type": "person"
+    },
+    {
+      "name": "Ted and Eric Favelle",
+      "type": "person"
+    },
+    {
+      "name": "Marshall Brain",
+      "type": "person"
+    },
+    {
+      "name": "Kroll K10000",
+      "type": "other"
+    },
+    {
+      "name": "National Commission for the Certification of Crane Operators",
+      "type": "organization"
+    },
+    {
+      "name": "OSHA",
+      "type": "organization"
+    },
+    {
+      "name": "Twin Towers",
+      "type": "place"
+    },
+    {
+      "name": "Toronto",
+      "type": "place"
+    },
+    {
+      "name": "Manhattan",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:48",
+      "kind": "ad",
+      "title": "Tour announcement",
+      "summary": "Hosts announce live tour dates in Seattle, Portland, and San Francisco Sketch Fest in January.",
+      "topics": [
+        "live tour"
+      ]
+    },
+    {
+      "start": "00:00:48",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and episode title",
+      "summary": "Hosts joke about the confusing title 'How Cranes Work' and reveal the episode is about construction tower cranes, not bird cranes.",
+      "topics": [
+        "episode banter",
+        "Tonka"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:05",
+      "kind": "content",
+      "title": "Why cranes matter on construction sites",
+      "summary": "Hosts discuss the fascination with construction cranes, the prevalence of cranes in Toronto, and global crane counts during the 2010s construction boom. They note cranes are essential for height and moving heavy materials.",
+      "topics": [
+        "construction industry",
+        "crane usage statistics",
+        "Toronto cranes"
+      ]
+    },
+    {
+      "start": "00:04:05",
+      "end": "00:07:37",
+      "kind": "content",
+      "title": "Kroll K10000 and crane operator demands",
+      "summary": "Hosts describe the Kroll K10000 crane's lifting capacity and the high-pressure, precise work of crane operators using two joysticks. They compare the cab controls to an arcade game.",
+      "topics": [
+        "Kroll K10000",
+        "crane operator job",
+        "crane controls"
+      ]
+    },
+    {
+      "start": "00:07:37",
+      "end": "00:08:49",
+      "kind": "content",
+      "title": "History: Hans Liebherr and early cranes",
+      "summary": "Hans Liebherr, a post-WWII German engineer, developed a mobile tower crane in 1949 to rebuild German cities. Hosts note cranes date back to the sixth century BCE with the Greeks.",
+      "topics": [
+        "Hans Liebherr",
+        "crane history",
+        "post-WWII Germany"
+      ]
+    },
+    {
+      "start": "00:08:49",
+      "end": "00:10:01",
+      "kind": "content",
+      "title": "Climbing cranes and the Favelle brothers",
+      "summary": "The Australian Favelle brothers, Ted and Eric, introduced climbing cranes in 1962, nicknamed kangaroo jumping cranes. Such cranes helped erect the Twin Towers.",
+      "topics": [
+        "climbing cranes",
+        "Favelle brothers",
+        "kangaroo cranes",
+        "World Trade Center construction"
+      ]
+    },
+    {
+      "start": "00:10:01",
+      "end": "00:13:09",
+      "kind": "content",
+      "title": "Hammerhead tower crane and the base and mast",
+      "summary": "Hosts introduce the hammerhead tower crane shape and describe the foundation, a concrete pad, and the truss-based mast. Typical height ranges from about 250 feet, with taller ones over 400 feet.",
+      "topics": [
+        "hammerhead tower crane",
+        "crane foundation",
+        "crane mast",
+        "truss design"
+      ]
+    },
+    {
+      "start": "00:13:09",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Cat's head and slewing unit",
+      "summary": "The cat's head is the top of the crane. The slewing unit is a large disk that lets the crane rotate 360 degrees. Chuck defines slew as to turn violently or uncontrollably.",
+      "topics": [
+        "cat's head",
+        "slewing unit",
+        "crane rotation"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:17:07",
+      "kind": "content",
+      "title": "Jib arm and load charts",
+      "summary": "The jib is the long horizontal working arm. Lifting capacity depends on the load's distance from the center, as described by a load chart.",
+      "topics": [
+        "jib arm",
+        "load chart",
+        "crane lifting capacity"
+      ]
+    },
+    {
+      "start": "00:17:07",
+      "end": "00:19:24",
+      "kind": "content",
+      "title": "Trolley and the static jib arm",
+      "summary": "The jib arm stays static while a trolley moves loads along it. Hosts compare this to moving one's arm while the hand slides along it.",
+      "topics": [
+        "trolley",
+        "jib arm mechanics"
+      ]
+    },
+    {
+      "start": "00:19:24",
+      "end": "00:21:34",
+      "kind": "content",
+      "title": "Hook, reeving, and hoist unit",
+      "summary": "The hook is raised and lowered through a system of pulleys called reeving. The hoist unit contains a motor and drum that winds steel cable, like a fishing reel.",
+      "topics": [
+        "hoist unit",
+        "reeving",
+        "crane cable",
+        "pulleys"
+      ]
+    },
+    {
+      "start": "00:21:34",
+      "end": "00:23:11",
+      "kind": "content",
+      "title": "Cable strength and counter jib counterweights",
+      "summary": "Hosts note steel cable's strength. The counter jib holds counterweights to balance the load, with the K10000 needing about 491,000 pounds.",
+      "topics": [
+        "crane cable strength",
+        "counter jib",
+        "counterweights"
+      ]
+    },
+    {
+      "start": "00:23:11",
+      "end": "00:24:23",
+      "kind": "content",
+      "title": "Tower peak, counterweight wobble, and operator cab",
+      "summary": "Hammerhead cranes usually lack a peak, though some have a sail-like mast to support the jib. Counterweights cause the crane to tip slightly when loads are lifted or released. The operator cab sits at the top.",
+      "topics": [
+        "tower peak",
+        "crane sway",
+        "operator cab"
+      ]
+    },
+    {
+      "start": "00:24:23",
+      "end": "00:27:32",
+      "kind": "content",
+      "title": "Operator cab conditions and bathroom problem",
+      "summary": "Hosts discuss the operator's climb up a ladder taking around ten minutes, the lack of a bathroom in the cab, the glass floor view, and the need for operators to care for their health.",
+      "topics": [
+        "crane operator cab",
+        "crane operator working conditions",
+        "bathroom access"
+      ]
+    },
+    {
+      "start": "00:27:32",
+      "end": "00:28:05",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:28:05",
+      "end": "00:31:41",
+      "kind": "content",
+      "title": "Top climbing cranes",
+      "summary": "Top climbing uses a three-sided climbing frame with hydraulic jacks around the mast to lift and insert new mast truss sections, with a tenuous moment during unbolting.",
+      "topics": [
+        "top climbing crane",
+        "climbing frame",
+        "hydraulic jacks",
+        "mast sections"
+      ]
+    },
+    {
+      "start": "00:31:41",
+      "end": "00:36:04",
+      "kind": "content",
+      "title": "Bottom climbing cranes",
+      "summary": "Bottom climbing builds the crane inside a building's core, with climbing rails and jacks raising the crane about three stories at a time and the building built around the shaft. This allows very tall buildings.",
+      "topics": [
+        "bottom climbing crane",
+        "building construction",
+        "crane anchoring to building"
+      ]
+    },
+    {
+      "start": "00:36:04",
+      "end": "00:37:37",
+      "kind": "content",
+      "title": "Luffing jib and self-erecting cranes",
+      "summary": "Luffing jib cranes raise and lower the horizontal arm, useful in tight spaces. Self-erecting cranes mount on trucks and unfold.",
+      "topics": [
+        "luffing jib crane",
+        "self-erecting crane",
+        "crane types"
+      ]
+    },
+    {
+      "start": "00:37:37",
+      "end": "00:38:33",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:38:33",
+      "end": "00:41:23",
+      "kind": "content",
+      "title": "Crane operator pay and roles",
+      "summary": "Hosts discuss crane operator pay ranges, the NCCCO certification body, the signal person, and the rigger who prepares loads.",
+      "topics": [
+        "crane operator salary",
+        "NCCCO",
+        "signal person",
+        "rigger"
+      ]
+    },
+    {
+      "start": "00:41:23",
+      "end": "00:43:02",
+      "kind": "content",
+      "title": "Lift director and licensing requirements",
+      "summary": "A lift director plans heavy or dangerous lifts. Sixteen states and seven cities require crane operator licenses; elsewhere formal training is not required.",
+      "topics": [
+        "lift director",
+        "crane operator licensing",
+        "crane certification requirements"
+      ]
+    },
+    {
+      "start": "00:43:02",
+      "end": "00:45:13",
+      "kind": "content",
+      "title": "Crane rental costs and safety",
+      "summary": "Hosts give rental costs for a flat-top tower crane, around thirty-five thousand dollars a month, and note safety is the top concern for operators.",
+      "topics": [
+        "crane rental cost",
+        "crane safety"
+      ]
+    },
+    {
+      "start": "00:45:13",
+      "end": "00:46:04",
+      "kind": "content",
+      "title": "Manhattan jib arm collapse",
+      "summary": "Hosts recount a July crane jib arm collapse in Manhattan that killed one person in a nearby apartment, with a fire in the hoist unit reported.",
+      "topics": [
+        "Manhattan crane collapse",
+        "crane accidents"
+      ]
+    },
+    {
+      "start": "00:46:04",
+      "end": "00:46:40",
+      "kind": "content",
+      "title": "Power line hazards",
+      "summary": "Crane contact with a 13,000-volt power line can electrocute a worker holding a load connected to the crane.",
+      "topics": [
+        "crane power line electrocution",
+        "crane hazards"
+      ]
+    },
+    {
+      "start": "00:46:40",
+      "end": "00:47:27",
+      "kind": "content",
+      "title": "Crane fatality statistics and falls",
+      "summary": "From 2011 to 2017, crane-related deaths averaged 42 per year, with about half from falling objects. A worker fell 45 stories from a platform with no railing during crane disassembly, per an OSHA report.",
+      "topics": [
+        "crane fatalities",
+        "OSHA crane deaths",
+        "fall hazards"
+      ]
+    },
+    {
+      "start": "00:47:27",
+      "end": "00:48:16",
+      "kind": "content",
+      "title": "High wind protocol",
+      "summary": "In high winds, cranes are unbolted so the jib can weathervane with the wind rather than be held rigid, a practice learned to reduce risk.",
+      "topics": [
+        "crane wind safety",
+        "weathervane crane"
+      ]
+    },
+    {
+      "start": "00:48:16",
+      "end": "00:48:48",
+      "kind": "outro",
+      "title": "Sign-off and promo",
+      "summary": "Hosts wrap up, mention a HowStuffWorks article by Marshall Brain and CGI videos, and introduce listener mail.",
+      "topics": [
+        "episode wrap-up"
+      ]
+    },
+    {
+      "start": "00:48:48",
+      "end": "00:50:23",
+      "kind": "listener_mail",
+      "title": "Listener email from Dan about scuba and his brother",
+      "summary": "Dan writes about learning to scuba with his brother and father and his brother's death by suicide, thanking the hosts for handling mental illness with compassion.",
+      "topics": [
+        "listener mail",
+        "scuba diving",
+        "mental illness"
+      ]
+    },
+    {
+      "start": "00:50:23",
+      "end": "00:50:48",
+      "kind": "outro",
+      "title": "Closing credits",
+      "summary": "Hosts invite listener mail and close the show with production credits.",
+      "topics": [
+        "closing credits"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19622,
+    "output_tokens": 4587
+  }
+}

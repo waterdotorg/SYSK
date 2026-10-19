@@ -1,0 +1,125 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-05-22_Does_Gum_Stay_in_your_Stomach_for_Seven_Years_6min.txt",
+  "title": "Does Gum Stay in your Stomach for Seven Years?",
+  "date": "2008-05-22",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/does-gum-stay-in-your-stomach-for-seven-years",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2b05d711-ba8d-4aaa-9a13-ae2800c44b6a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2b05d711-ba8d-4aaa-9a13-ae2800c44b6a/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chuck Bryant debunk the myth that swallowed chewing gum stays in the body for seven years. They explain that gum is made of flavor, sweetener, softener, and gum base; the base is the part that is not broken down by digestion. They describe how food moves through the esophagus, stomach, intestines, and colon, and note that the gum base passes through as a one-way trip. They also mention the chicle history: General Antonio Lopez de Santa Anna introduced chicle to Thomas Adams around 1860, and Adams allegedly did not honor their contract. They close with the case of \"poor kid,\" a four-year-old whose parents gave him gum as a potty-training reward; he had severe constipation and doctors found a taffy-like fecal mass that was removed.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "chewing gum digestion",
+    "does gum stay in your stomach seven years",
+    "swallowed gum myth",
+    "gum base",
+    "chicle",
+    "Thomas Adams chicle gum history",
+    "Santa Anna chicle",
+    "gum ingredients",
+    "digestive system",
+    "constipation from gum",
+    "potty training gum case",
+    "poor kid case study",
+    "gum and intestines",
+    "gastrointestinal myths",
+    "Stuff You Should Know gum episode"
+  ],
+  "entities": [
+    {
+      "name": "Antonio Lopez de Santa Anna",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Adams",
+      "type": "person"
+    },
+    {
+      "name": "chicle",
+      "type": "other"
+    },
+    {
+      "name": "gum base",
+      "type": "other"
+    },
+    {
+      "name": "poor kid",
+      "type": "person"
+    },
+    {
+      "name": "Alamo",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Introduction and seven-year gum myth",
+      "summary": "Hosts introduce the show and ask whether swallowed gum really stays in the body for seven years. Chuck says he was told this as a child; the hosts say it is a myth.",
+      "topics": [
+        "does gum stay in your stomach seven years",
+        "swallowed gum myth",
+        "gum myth origins"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:00",
+      "kind": "content",
+      "title": "What gum is made of",
+      "summary": "Chuck explains gum is four things: flavor, sweetener, softener, and gum base. Three of these can be broken down by the body. Flavor loss is why people usually discard gum.",
+      "topics": [
+        "gum ingredients",
+        "gum base",
+        "gum flavor loss"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "History of chicle and Thomas Adams",
+      "summary": "The gum base is chicle, dating to about 1860. General Antonio Lopez de Santa Anna introduced chicle to Thomas Adams, who made gum from it. Adams allegedly did not honor a profit-sharing contract, leaving Santa Anna in exile and destitute.",
+      "topics": [
+        "chicle",
+        "Santa Anna chicle",
+        "Thomas Adams chicle gum history",
+        "gum history"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "How digestion handles swallowed gum",
+      "summary": "Swallowed food goes through the esophagus into the stomach, where enzymes and acids break it down. Remaining material is broken down in the intestines with help from the liver and pancreas. The indigestible gum base moves into the colon and passes through.",
+      "topics": [
+        "digestive system",
+        "gum and intestines",
+        "gum base passage through colon"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "The poor kid case and outro",
+      "summary": "A four-year-old, nicknamed poor kid, had chronic constipation after parents rewarded potty training with gum, which he swallowed. Doctors found a taffy-like fecal mass and removed it. The hosts note he was only four, so the seven-year claim was not reached, and sign off.",
+      "topics": [
+        "poor kid case study",
+        "constipation from gum",
+        "potty training gum case",
+        "gum digestion cautionary tale"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3487,
+    "output_tokens": 1484
+  }
+}

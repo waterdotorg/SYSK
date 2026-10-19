@@ -1,0 +1,227 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-05-23_Is_a_head_transplant_really_a_thing_44min.txt",
+  "title": "Is a head transplant really a thing?",
+  "date": "2017-05-23",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-a-head-transplant-really-a-thing",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d7c58efe-fc39-4159-a04b-ae280077ee01/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d7c58efe-fc39-4159-a04b-ae280077ee01/transcript?format=TextWithTimestamps&t=1700543808",
+  "summary": "Josh and Chuck discuss the proposed human head transplant (more accurately a whole-body transplant) championed by Italian surgeon Sergio Canavero, who planned to attempt it with Russian computer engineer Valery Spiridonov, who has Werdnig-Hoffmann disease. They cover the history of animal head transplants (Demikhov's dog experiments, Robert White's 1970 monkey head transplant in Cleveland), the scientific criticism from the medical community, Wren's mouse spinal cord work in China, the proposed surgical procedure (therapeutic hypothermia, color-coded reattachment, PEG glue, Texas nanostructure scaffolds, medically induced coma), ethical and psychological concerns, funding problems, and the \"yuck factor.\" The episode ends with a listener mail segment from John Patrick Vitti about the show's anniversary.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "head transplant",
+    "human head transplant",
+    "body transplant",
+    "Sergio Canavero",
+    "spinal cord transplant",
+    "spinal cord reconnection",
+    "polyethylene glycol PEG",
+    "Robert White monkey head transplant 1970",
+    "Vladimir Demikhov dog two-headed experiment",
+    "therapeutic hypothermia",
+    "Ren Xiaoping mice spinal cord",
+    "Werdnig-Hoffmann disease",
+    "medically induced coma",
+    "bioethics",
+    "yuck factor",
+    "organ transplantation",
+    "animal experimentation ethics",
+    "graphene nanospirals Texas peg",
+    "Frankenstein",
+    "identity and body transplant psychology"
+  ],
+  "entities": [
+    {
+      "name": "Sergio Canavero",
+      "type": "person"
+    },
+    {
+      "name": "Valery Spiridonov",
+      "type": "person"
+    },
+    {
+      "name": "Robert White",
+      "type": "person"
+    },
+    {
+      "name": "Vladimir Demikhov",
+      "type": "person"
+    },
+    {
+      "name": "Xiaoping Ren",
+      "type": "person"
+    },
+    {
+      "name": "Werdnig-Hoffmann disease",
+      "type": "other"
+    },
+    {
+      "name": "Surgical Neurology International",
+      "type": "work"
+    },
+    {
+      "name": "The Atlantic",
+      "type": "work"
+    },
+    {
+      "name": "Polyethylene glycol",
+      "type": "other"
+    },
+    {
+      "name": "Frankenstein",
+      "type": "work"
+    },
+    {
+      "name": "Cleveland",
+      "type": "place"
+    },
+    {
+      "name": "Harbin",
+      "type": "place"
+    },
+    {
+      "name": "Rice University",
+      "type": "organization"
+    },
+    {
+      "name": "Konkuk University",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Introduction to head transplant debate",
+      "summary": "The hosts introduce the topic of human head transplants, note the controversy in the medical community, and mention Sergio Canavero's plan to attempt the surgery with Valery Spiridonov, who has Werdnig-Hoffmann disease.",
+      "topics": [
+        "head transplant",
+        "Sergio Canavero",
+        "Valery Spiridonov",
+        "Werdnig-Hoffmann disease",
+        "medical ethics"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "History of animal head transplants",
+      "summary": "Discussion of Vladimir Demikhov's dog experiments with grafted heads and legs, and Robert White's 1970 monkey head transplant in Cleveland, including the unconnected spinal cord and critics' accounts of the experiment.",
+      "topics": [
+        "Vladimir Demikhov dog experiments",
+        "Robert White monkey head transplant 1970",
+        "animal head transplant history",
+        "spinal cord connection"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Canavero's critics and mouse research",
+      "summary": "The hosts describe recent mouse spinal cord studies in China and South Korea, scientists' skepticism, Ren Xiaoping's call to slow down, and Canavero's brash public style and funding claims.",
+      "topics": [
+        "Ren Xiaoping mice spinal cord",
+        "scientific criticism of Canavero",
+        "head transplant funding",
+        "medical community objections"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Canavero's 2013 proposed procedure and survival odds",
+      "summary": "Overview of Canavero's 2013 paper in Surgical Neurology International, the survival rates in rat studies, and the claimed nine percent chance of a normal life that doctors dispute.",
+      "topics": [
+        "Surgical Neurology International 2013 paper",
+        "rat head transplant survival",
+        "surgical risk",
+        "spinal cord surgery"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Step-by-step surgical plan",
+      "summary": "The hosts walk through the proposed procedure: cooling both patients with therapeutic hypothermia, a one-hour time window, color-coding muscles, precise spinal cord severing, PEG glue fusion, the Texas peg graphene nanospiral scaffold, and electrical stimulation.",
+      "topics": [
+        "therapeutic hypothermia surgery",
+        "PEG polyethylene glycol spinal cord repair",
+        "graphene nanospirals",
+        "spinal cord severing",
+        "electrical stimulation nerve regrowth",
+        "surgical head transplant procedure"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Recovery, ethics, and psychological concerns",
+      "summary": "Discussion of the planned medically induced coma, the recovery goals, psychological identity concerns, ethical questions about gender change and wealthy patients, and the rejection risk.",
+      "topics": [
+        "medically induced coma",
+        "psychological identity after transplant",
+        "transplant ethics",
+        "organ donor ethics",
+        "rejection risk"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Funding, animal ethics, and the yuck factor",
+      "summary": "Canavero's funding efforts, Russian government refusal, the ethics of animal experiments, and the concept of the yuck factor and folk biology.",
+      "topics": [
+        "funding for transplant research",
+        "yuck factor",
+        "folk biology",
+        "animal experimentation ethics"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:44:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: podcast anniversary",
+      "summary": "Listener John Patrick Vitti writes about how the show has influenced him over four years and mentions the hosts' Tuesday and Thursday schedule.",
+      "topics": [
+        "listener mail",
+        "podcast anniversary"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:44:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank the listener and give contact information and the website.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13181,
+    "output_tokens": 2487
+  }
+}

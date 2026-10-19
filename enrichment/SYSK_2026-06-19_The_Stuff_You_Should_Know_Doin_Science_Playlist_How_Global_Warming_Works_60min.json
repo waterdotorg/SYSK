@@ -1,0 +1,344 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-06-19_The_Stuff_You_Should_Know_Doin_Science_Playlist_How_Global_Warming_Works_60min.txt",
+  "title": "The Stuff You Should Know Doin’ Science Playlist: How Global Warming Works",
+  "date": "2026-06-19",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-global-warming-works-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0bd416e7-e6f0-4bc7-97b4-b46e00fde7db/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0bd416e7-e6f0-4bc7-97b4-b46e00fde7db/transcript?format=TextWithTimestamps&t=1781883335",
+  "summary": "Playlist rerun of a Stuff You Should Know episode on how global warming works. The hosts distinguish global warming from climate change and weather versus climate, explain natural ice age cycles and the greenhouse effect (with a hot-car analogy), and review the main greenhouse gases: carbon dioxide, nitrous oxide, methane, and short-lived climate pollutants. They cover effects such as sea level rise (including why melting Arctic sea ice adds nothing and thermal expansion of water), more intense hurricanes, droughts, wildfires, flooding, crop losses, and ecosystem disruption. They discuss IPCC confidence language and scientific consensus, the Paris Agreement and US withdrawal, personal carbon footprint actions, and a listener mail about why reading makes you sleepy.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Global Warming Works",
+  "topics": [
+    "global warming",
+    "climate change",
+    "weather vs climate",
+    "greenhouse effect",
+    "carbon dioxide",
+    "methane",
+    "nitrous oxide",
+    "short-lived climate pollutants",
+    "IPCC",
+    "sea level rise",
+    "melting glaciers and ice sheets",
+    "thermal expansion of water",
+    "extreme weather",
+    "hurricanes intensity",
+    "droughts and desertification",
+    "crop losses",
+    "ecosystem disruption",
+    "scientific consensus",
+    "scientific uncertainty and confidence levels",
+    "Paris Agreement",
+    "carbon footprint",
+    "carbon offsets",
+    "ice age cycles",
+    "listener mail",
+    "reading sleepiness"
+  ],
+  "entities": [
+    {
+      "name": "IPCC",
+      "type": "organization"
+    },
+    {
+      "name": "Intergovernmental Panel on Climate Change",
+      "type": "organization"
+    },
+    {
+      "name": "Paris Accords",
+      "type": "event"
+    },
+    {
+      "name": "Carnegie Institution",
+      "type": "organization"
+    },
+    {
+      "name": "Merchants of Doubt",
+      "type": "work"
+    },
+    {
+      "name": "Peter Cigaris",
+      "type": "person"
+    },
+    {
+      "name": "Hurricane Harvey",
+      "type": "event"
+    },
+    {
+      "name": "Houston",
+      "type": "place"
+    },
+    {
+      "name": "Green Bay, Wisconsin",
+      "type": "place"
+    },
+    {
+      "name": "Miami Beach",
+      "type": "place"
+    },
+    {
+      "name": "Maldives",
+      "type": "place"
+    },
+    {
+      "name": "Greenland",
+      "type": "place"
+    },
+    {
+      "name": "Antarctica",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:50",
+      "kind": "intro",
+      "title": "Opening banter and movie show plug",
+      "summary": "Hosts introduce the episode and mention new movie interview episodes being dropped into the feed.",
+      "topics": [
+        "podcast announcements"
+      ]
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Global warming vs climate change",
+      "summary": "Global warming is described as one component of broader climate change, which includes extreme weather, drought, and sea level rise.",
+      "topics": [
+        "global warming",
+        "climate change",
+        "definitions"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:20",
+      "kind": "content",
+      "title": "Weather versus climate",
+      "summary": "Climate is long-term average regional weather; a single snowfall or anomaly is weather, not climate change.",
+      "topics": [
+        "weather vs climate",
+        "climate change definition"
+      ]
+    },
+    {
+      "start": "00:07:20",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Natural ice age cycles",
+      "summary": "Earth naturally swings between glacial and interglacial periods; a roughly five degree Celsius drop can trigger an ice age, and natural warming takes tens of thousands of years.",
+      "topics": [
+        "ice age",
+        "glacial periods",
+        "natural climate cycles"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:13:10",
+      "kind": "content",
+      "title": "IPCC and observed warming",
+      "summary": "The IPCC, a group of roughly 2,500 scientists, reported warming, warmer oceans, stronger westerly winds, more intense droughts, and an accelerating warming rate.",
+      "topics": [
+        "IPCC",
+        "observed warming",
+        "ocean temperature",
+        "droughts"
+      ]
+    },
+    {
+      "start": "00:13:10",
+      "end": "00:19:40",
+      "kind": "content",
+      "title": "The greenhouse effect",
+      "summary": "Hosts explain the greenhouse effect using a hot car analogy, then describe how atmospheric particles absorb and re-emit infrared heat, keeping Earth habitable and enabling the water cycle.",
+      "topics": [
+        "greenhouse effect",
+        "infrared radiation",
+        "atmosphere",
+        "water cycle"
+      ]
+    },
+    {
+      "start": "00:19:40",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the discussion of greenhouse gases.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Carbon dioxide and the carbon cycle",
+      "summary": "CO2 makes up a small share of the atmosphere; the natural carbon cycle is roughly balanced, but fossil fuel burning and deforestation upset it. CO2 passed 400 ppm, up about 124 ppm since preindustrial times, with fossil-fuel isotope signatures confirming human origin.",
+      "topics": [
+        "carbon dioxide",
+        "carbon cycle",
+        "fossil fuels",
+        "parts per million"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:26:10",
+      "kind": "content",
+      "title": "Nitrous oxide",
+      "summary": "Nitrous oxide absorbs far more energy than CO2 per molecule and is released by combustion and nitrogen fertilizer; it persists for about 114 years.",
+      "topics": [
+        "nitrous oxide",
+        "fertilizer emissions",
+        "greenhouse gases"
+      ]
+    },
+    {
+      "start": "00:26:10",
+      "end": "00:29:50",
+      "kind": "content",
+      "title": "Methane and short-lived climate pollutants",
+      "summary": "Methane comes from coal mining, livestock, and landfills and converts to CO2; short-lived climate pollutants such as black carbon and HFCs could yield quick results if cut.",
+      "topics": [
+        "methane",
+        "livestock emissions",
+        "landfills",
+        "short-lived climate pollutants",
+        "black carbon"
+      ]
+    },
+    {
+      "start": "00:29:50",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Sea level rise and melting ice",
+      "summary": "Melting Arctic sea ice adds no sea level rise since it already floats, while land ice from Antarctica and Greenland does. Sea levels rose about 6.5 inches in the twentieth century and could rise up to 22 inches by 2100; water also expands as it warms.",
+      "topics": [
+        "sea level rise",
+        "Arctic sea ice",
+        "Antarctica",
+        "Greenland",
+        "thermal expansion",
+        "glacier loss"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:30",
+      "kind": "content",
+      "title": "Impacts on humans: drought, flooding, and hurricanes",
+      "summary": "Warming shifts evaporation and soil moisture, causing droughts, wildfires, and severe flooding; hurricanes are becoming more intense, drawing energy from warm ocean surfaces.",
+      "topics": [
+        "droughts",
+        "wildfires",
+        "flooding",
+        "hurricanes",
+        "extreme weather",
+        "soil moisture"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "Ecosystems and salmon",
+      "summary": "Hosts discuss how warming disrupts interconnected ecosystems, such as coral reef decline and forests turning to grassland; salmon are given as an example of nutrient transport between ecosystems.",
+      "topics": [
+        "ecosystems",
+        "coral reefs",
+        "salmon",
+        "extinction",
+        "ecological impacts"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Crop losses and global impact",
+      "summary": "Carnegie Institution estimates about five billion dollars in annual crop losses; poorer nations are hit hardest, but effects reach everyone, including Houston residents after Hurricane Harvey.",
+      "topics": [
+        "crop losses",
+        "food security",
+        "Carnegie Institution",
+        "Hurricane Harvey",
+        "global inequity"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:49:30",
+      "kind": "content",
+      "title": "Climate models and scientific consensus",
+      "summary": "IPCC computer models only matched current climate when human contributions were included. Hosts discuss the scientific consensus and how scientists use uncertainty and confidence language.",
+      "topics": [
+        "climate models",
+        "scientific consensus",
+        "scientific uncertainty",
+        "IPCC confidence levels"
+      ]
+    },
+    {
+      "start": "00:49:30",
+      "end": "00:52:30",
+      "kind": "content",
+      "title": "Doubt, cost of inaction, and industry",
+      "summary": "Hosts discuss Peter Cigaris's 2007 cost analysis favoring mitigation, the Merchants of Doubt book, and fossil fuel companies acknowledging the issue.",
+      "topics": [
+        "Merchants of Doubt",
+        "climate denial",
+        "cost of inaction",
+        "fossil fuel industry"
+      ]
+    },
+    {
+      "start": "00:52:30",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Paris Accords and US withdrawal",
+      "summary": "The 2014 Paris Accords had 195 countries pledge decentralized national plans to hold warming near two degrees Celsius; the US withdrew in 2017 and some cities stayed committed.",
+      "topics": [
+        "Paris Agreement",
+        "Paris Accords",
+        "US withdrawal",
+        "two degree target"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "00:59:00",
+      "kind": "content",
+      "title": "Personal actions: carbon footprint and offsets",
+      "summary": "Hosts suggest reducing carbon footprint through energy use, recycling, and transport; they note hybrid and electric cars have smaller footprints and mention a future episode on carbon offsets and voting.",
+      "topics": [
+        "carbon footprint",
+        "carbon offsets",
+        "electric cars",
+        "recycling",
+        "energy conservation"
+      ]
+    },
+    {
+      "start": "00:59:00",
+      "end": "01:00:08",
+      "kind": "listener_mail",
+      "title": "Listener mail: why reading makes you sleepy",
+      "summary": "A chiropractor listener explains reading engages eye muscles and the nervous system in a way that dampens sympathetic response, relaxing the reader. Contact info and sign-off.",
+      "topics": [
+        "listener mail",
+        "reading sleepiness",
+        "nervous system"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20779,
+    "output_tokens": 3639
+  }
+}

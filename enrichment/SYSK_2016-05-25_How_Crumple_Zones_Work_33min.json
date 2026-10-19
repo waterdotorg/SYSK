@@ -1,0 +1,262 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-05-25_How_Crumple_Zones_Work_33min.txt",
+  "title": "How Crumple Zones Work",
+  "date": "2016-05-25",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-crumple-zones-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/df8a3756-a2ab-4ef2-bf98-ae2800836a0d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/df8a3756-a2ab-4ef2-bf98-ae2800836a0d/transcript?format=TextWithTimestamps&t=1700543833",
+  "summary": "Josh and Chuck explain crumple zones, the car body designs that deform in a crash to lengthen deceleration time and reduce the force transmitted to passengers. They cover the history of auto safety (early driver-blame thinking, rigid 'tank' cars, Reader's Digest 'Death Tax'-era criticism of deadly cars), Mercedes-Benz W111 Fintail and Bela Barenyi's patent, the physics of force and deceleration, the passenger compartment kept rigid, engine and gas tank placement trade-offs, the Ford Pinto fuel tank scandal, battery safety in electric cars, small-car designs like the smart car, NASCAR safety after Michael Waltrip's Bristol crash and Dale Earnhardt's 2001 death, the Car of Tomorrow and HANS device. The episode closes with a listener email about lead testing of children's products and doll heads.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "crumple zones",
+    "auto safety",
+    "car crash physics",
+    "force and deceleration",
+    "crash design history",
+    "passenger compartment",
+    "Ford Pinto fuel tank",
+    "gas tank safety",
+    "electric car battery safety",
+    "smart car crash design",
+    "NASCAR safety",
+    "Michael Waltrip Bristol crash",
+    "Dale Earnhardt death",
+    "basilar skull fracture",
+    "HANS device",
+    "Car of Tomorrow",
+    "Mercedes-Benz W111 Fintail",
+    "Bela Barenyi",
+    "crash test dummies",
+    "airbags",
+    "lead testing children's products"
+  ],
+  "entities": [
+    {
+      "name": "Crumple zones",
+      "type": "other"
+    },
+    {
+      "name": "Bela Barenyi",
+      "type": "person"
+    },
+    {
+      "name": "Mercedes-Benz W111 Fintail",
+      "type": "work"
+    },
+    {
+      "name": "Ford Pinto",
+      "type": "work"
+    },
+    {
+      "name": "Michael Waltrip",
+      "type": "person"
+    },
+    {
+      "name": "Dale Earnhardt",
+      "type": "person"
+    },
+    {
+      "name": "NASCAR",
+      "type": "organization"
+    },
+    {
+      "name": "Bristol Motor Speedway",
+      "type": "place"
+    },
+    {
+      "name": "Car of Tomorrow",
+      "type": "other"
+    },
+    {
+      "name": "HANS device",
+      "type": "other"
+    },
+    {
+      "name": "Tesla Roadster",
+      "type": "work"
+    },
+    {
+      "name": "Smart car",
+      "type": "work"
+    },
+    {
+      "name": "Smithsonian National Museum of American History",
+      "type": "organization"
+    },
+    {
+      "name": "Reader's Digest",
+      "type": "organization"
+    },
+    {
+      "name": "Roman Mars",
+      "type": "person"
+    },
+    {
+      "name": "Reply All",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and awards",
+      "summary": "Hosts discuss winning a People's Voice Webby, congratulate other podcasts, and introduce the crumple zones topic, plugging the sister show Car Stuff.",
+      "topics": [
+        "Webby Awards",
+        "podcast awards",
+        "Car Stuff"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "History of auto safety and driver blame",
+      "summary": "Early thinking blamed drivers for crashes, citing the horse analogy. Manufacturers knew of design flaws for decades before public acceptance. Early cars were rigid and deadly, with plate glass windows and steel dashboards, and the Reader's Digest article criticized them.",
+      "topics": [
+        "auto safety history",
+        "driver error blame",
+        "horseless carriage",
+        "early car dangers",
+        "Reader's Digest death traps article"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Béla Barényi and the first crumple zone patent",
+      "summary": "Bela Barenyi is credited with the crumple zone concept and a 1952 patent, shown on the Mercedes-Benz W111 Fintail. The idea was to absorb impact in the car body so occupants absorb less force.",
+      "topics": [
+        "Bela Barenyi",
+        "Mercedes-Benz Fintail",
+        "crumple zone patent",
+        "1952 patent"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Physics of crashes: force and deceleration",
+      "summary": "A crash is a collision that creates force, equal to mass times deceleration. Extending deceleration time, even by fractions of a second, greatly reduces force. Crumple zones aim to reduce and redistribute that force away from occupants.",
+      "topics": [
+        "force and mass",
+        "deceleration time",
+        "crash physics",
+        "impact force"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:23:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Rigid passenger compartment and design trade-offs",
+      "summary": "The passenger compartment must stay rigid while the front and rear crumple. The engine is rigid and can intrude into the cabin, and gas tanks must be protected. Hosts discuss the budget analogy for spent crash energy and the limits of distributing all force away from people.",
+      "topics": [
+        "passenger compartment",
+        "engine placement",
+        "design trade-offs",
+        "energy budget analogy"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Ford Pinto fuel tank scandal",
+      "summary": "Rear-end crashes in 1970s Ford Pintos caused fuel tanks to rupture and burn occupants. An internal memo weighed recall cost against lawsuit payouts. Later fixes moved the gas tank and added small improvements. Modern rear crumple zones lift the gas tank away from impact.",
+      "topics": [
+        "Ford Pinto",
+        "gas tank rupture",
+        "rear-end collision",
+        "recall cost memo",
+        "fuel tank placement"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Electric cars, small cars, and Smart car design",
+      "summary": "Battery packs in electric cars need protection; the Tesla Roadster cuts power when it senses an emergency. Small cars like the Smart car use crash boxes and clever parts like the transmission and wheels to absorb energy. High-end sports cars use honeycomb structures and trains use crumple zones on each car.",
+      "topics": [
+        "electric car battery safety",
+        "Tesla Roadster",
+        "Smart car",
+        "crash boxes",
+        "honeycomb structures",
+        "train crumple zones"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "NASCAR crashes, Earnhardt death, and the Car of Tomorrow",
+      "summary": "Michael Waltrip survived a Bristol crash into a concrete pylon. NASCAR's rigid car designs changed after 2001 when Dale Earnhardt died from a basilar skull fracture. The Car of Tomorrow and HANS device followed to improve driver safety.",
+      "topics": [
+        "NASCAR safety",
+        "Michael Waltrip Bristol crash",
+        "Dale Earnhardt death",
+        "basilar skull fracture",
+        "Car of Tomorrow",
+        "HANS device"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Wrap-up",
+      "summary": "Hosts wrap up the crumple zones topic and point listeners to the website's search.",
+      "topics": [
+        "crumple zones"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:54:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: lead testing and doll heads",
+      "summary": "A listener who works at a consumer product certification company describes lead testing of children's products, the lowering of the lead limit after 2007, and scraping painted doll eyebrows for analysis.",
+      "topics": [
+        "lead testing",
+        "children's product safety",
+        "lead toy panic 2007",
+        "consumer product testing"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give contact info and sign off.",
+      "topics": [
+        "contact information",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11378,
+    "output_tokens": 2875
+  }
+}

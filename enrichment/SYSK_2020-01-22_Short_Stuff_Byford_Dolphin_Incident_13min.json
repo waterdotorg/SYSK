@@ -1,0 +1,145 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-01-22_Short_Stuff_Byford_Dolphin_Incident_13min.txt",
+  "title": "Short Stuff: Byford Dolphin Incident",
+  "date": "2020-01-22",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-byford-dolphin-incident",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72607de6-5079-44ba-a696-ae28003e83f2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/72607de6-5079-44ba-a696-ae28003e83f2/transcript?format=TextWithTimestamps&t=1700543667",
+  "summary": "Short Stuff episode on the 1983 Byford Dolphin diving accident in the North Sea. The hosts explain saturation diving, where divers live in pressurized chambers on a ship and travel to the seabed in a pressurized diving bell, so they decompress only once at the end of a multi-week hitch. They then describe the November 5 incident, in which a dive tender unclamped the diving bell from the trunk before the hatch was shut, causing a decompression explosion that killed four divers. They discuss the gruesome injuries, the lack of fear or pain, the regulatory response from the Norwegian Petroleum Directorate and Det Norske Veritas requiring retrofits and fail-safes, the original finding of human error, and later claims that the equipment was faulty. They close by crediting sources including a History Channel program and a Reddit post.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Byford Dolphin",
+    "Byford Dolphin accident",
+    "saturation diving",
+    "decompression explosion",
+    "diving bell",
+    "North Sea diving accident",
+    "commercial diving safety",
+    "decompression sickness",
+    "diver deaths",
+    "Frigg gas field",
+    "Norwegian Petroleum Directorate",
+    "Det Norske Veritas",
+    "dive tender",
+    "hyperbaric chamber",
+    "diving accidents",
+    "1983 North Sea accident",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Byford Dolphin",
+      "type": "other"
+    },
+    {
+      "name": "Frigg gas field",
+      "type": "place"
+    },
+    {
+      "name": "North Sea",
+      "type": "place"
+    },
+    {
+      "name": "Norwegian Petroleum Directorate",
+      "type": "organization"
+    },
+    {
+      "name": "Det Norske Veritas",
+      "type": "organization"
+    },
+    {
+      "name": "BP",
+      "type": "organization"
+    },
+    {
+      "name": "History Channel",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Introduction and content warning",
+      "summary": "Josh introduces the episode and warns listeners that the story is graphic, involving people dying and being mutilated. He names the Byford Dolphin drilling rig, contracted by BP, and the November accident in the North Sea.",
+      "topics": [
+        "Byford Dolphin",
+        "content warning",
+        "North Sea"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "What is saturation diving",
+      "summary": "The hosts explain saturation diving. Divers work hundreds of feet down and would otherwise need hours of daily decompression, so they live under pressure on a ship, travel to the seabed in a pressurized diving bell, and decompress only once at the end of a multi-week hitch.",
+      "topics": [
+        "saturation diving",
+        "decompression",
+        "diving bell",
+        "pressurized living chambers",
+        "diver hitch"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Brief break before the account of the accident.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "The November accident",
+      "summary": "On November 5, a team of four divers was working in the Frigg gas field. A dive tender unclamped the diving bell from the trunk before the hatch was shut. The chambers at nine atmospheres were exposed to one atmosphere in under a second, causing an explosion that killed all four divers and the dive tender.",
+      "topics": [
+        "Byford Dolphin accident",
+        "decompression explosion",
+        "Frigg gas field",
+        "dive tender error",
+        "diver deaths"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Injuries, aftermath, and investigation",
+      "summary": "The hosts describe the injuries, including the diver closest to the door being torn apart, and say the deaths were instant with no pain or fear. They discuss the regulatory response requiring retrofits and fail-safes, the original finding of human error and fatigue, and later family claims that the equipment was faulty.",
+      "topics": [
+        "decompression injuries",
+        "Norwegian Petroleum Directorate",
+        "Det Norske Veritas",
+        "safety regulations",
+        "human error",
+        "faulty equipment claims"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:30",
+      "kind": "outro",
+      "title": "Sources and sign-off",
+      "summary": "The hosts credit a History Channel program and a Reddit post explaining saturation diving and the accident, then sign off.",
+      "topics": [
+        "sources",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5380,
+    "output_tokens": 1637
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-02-27_How_GPS_Works_48min.txt",
+  "title": "How GPS Works",
+  "date": "2025-02-27",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-gps-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62cc6275-1c4a-4f91-9cd1-b290013ff807/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/62cc6275-1c4a-4f91-9cd1-b290013ff807/transcript?format=TextWithTimestamps&t=1740598430",
+  "summary": "Hosts Josh and Chuck open with a tribute to HowStuffWorks founder Marshall Brain, who died last November at 63, and use one of his original articles as the basis for an episode on how GPS works. They cover the GNSS terminology, the three GPS components (satellites, ground control, receivers), the history from Ivan Getting and the Sputnik-era Doppler tracking through Navstar and the 1995 operational date, the 1983 Korean Air Lines Flight 007 shootdown and the decision to open GPS to civilians, and the signal basics: atomic clocks, satellite position, pseudorandom codes, and the speed of light. They explain trilateration in two and three dimensions with a Boise, Minneapolis, and Tucson analogy, differential GPS with known ground points, and Wi-Fi-based positioning. They discuss accuracy improvements (L1 and L5 dual frequency), uses in agriculture, construction, tunneling, and science, and vulnerabilities to jamming and spoofing, including the 2019 Iranian seizure of a British tanker and airline jamming studies. The episode closes with listener mail about the RICE method being updated to PEACE and LOVE.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "GPS",
+    "how GPS works",
+    "global navigation satellite system",
+    "GNSS",
+    "trilateration",
+    "differential GPS",
+    "Navstar",
+    "Sputnik crisis",
+    "Ivan Getting",
+    "Korean Air Lines Flight 007",
+    "GPS jamming",
+    "GPS spoofing",
+    "Wi-Fi positioning",
+    "atomic clocks in GPS",
+    "L1 and L5 signals",
+    "GPS accuracy",
+    "Marshall Brain tribute",
+    "HowStuffWorks",
+    "GPS satellites",
+    "Doppler effect satellite tracking",
+    "PEACE and LOVE injury method",
+    "RICE method"
+  ],
+  "entities": [
+    {
+      "name": "Marshall Brain",
+      "type": "person"
+    },
+    {
+      "name": "Ivan Getting",
+      "type": "person"
+    },
+    {
+      "name": "GPS",
+      "type": "other"
+    },
+    {
+      "name": "Navstar",
+      "type": "other"
+    },
+    {
+      "name": "Sputnik",
+      "type": "other"
+    },
+    {
+      "name": "Korean Air Lines Flight 007",
+      "type": "event"
+    },
+    {
+      "name": "Boise, Idaho",
+      "type": "place"
+    },
+    {
+      "name": "Minneapolis",
+      "type": "place"
+    },
+    {
+      "name": "Tucson",
+      "type": "place"
+    },
+    {
+      "name": "Denver",
+      "type": "place"
+    },
+    {
+      "name": "HowStuffWorks",
+      "type": "organization"
+    },
+    {
+      "name": "Space Force",
+      "type": "organization"
+    },
+    {
+      "name": "Iran",
+      "type": "place"
+    },
+    {
+      "name": "Pokemon Go",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:40",
+      "kind": "intro",
+      "title": "Tribute to Marshall Brain",
+      "summary": "Josh and Chuck pay tribute to HowStuffWorks founder Marshall Brain, who died last November at 63, and his influence on their careers and the show.",
+      "topics": [
+        "Marshall Brain tribute",
+        "HowStuffWorks",
+        "Marshall Brain death"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "What GPS is and its satellites",
+      "summary": "GPS is defined as a space-based radio navigation system owned by the US government, with GNSS as the generic term. Satellites orbit about 11,000 miles up, with at least 24 and usually more than 30 in service, and the system has three components: satellites, ground control run by the Space Force, and user receivers.",
+      "topics": [
+        "GPS definition",
+        "GNSS",
+        "GPS satellites",
+        "medium Earth orbit",
+        "GPS control segment"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:10",
+      "kind": "content",
+      "title": "Origins: Ivan Getting, Sputnik, and Navstar",
+      "summary": "Physicist Ivan Getting proposed locating positions using radio signal timing. American scientists used Doppler tracking of Sputnik to show satellites could be tracked, leading to Navstar in 1973 and the first precise clocks on satellites in 1967. The full system became operational in 1995.",
+      "topics": [
+        "Ivan Getting",
+        "Sputnik crisis",
+        "Doppler effect",
+        "Navstar",
+        "GPS history",
+        "GPS operational 1995"
+      ]
+    },
+    {
+      "start": "00:09:10",
+      "end": "00:13:16",
+      "kind": "content",
+      "title": "Military origins and the 1983 Korean Air Lines shootdown",
+      "summary": "The hosts discuss the two GPS signals, L1 for civilian use and L2 for the military, and say the decision to open GPS to the public followed the 1983 shootdown of Korean Air Lines Flight 007 over Soviet airspace, which killed 269 people.",
+      "topics": [
+        "L1 and L2 signals",
+        "Korean Air Lines Flight 007",
+        "GPS civilian access",
+        "Cold War"
+      ]
+    },
+    {
+      "start": "00:13:16",
+      "end": "00:13:51",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-show ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:13:51",
+      "end": "00:17:14",
+      "kind": "content",
+      "title": "Signals, atomic clocks, and the speed of light",
+      "summary": "GPS satellites broadcast microwave signals that include the time from atomic clocks, the satellite's location, and a pseudorandom ID code. Slightly different frequencies let signals from several satellites arrive together. Knowing the speed of light lets a receiver compute distance from a satellite.",
+      "topics": [
+        "GPS signals",
+        "atomic clocks",
+        "pseudorandom code",
+        "speed of light distance calculation",
+        "GPS receivers"
+      ]
+    },
+    {
+      "start": "00:17:14",
+      "end": "00:19:07",
+      "kind": "content",
+      "title": "Differential GPS and correcting errors",
+      "summary": "Stationary known-point ground antennas compare GPS readings to their known positions and broadcast the discrepancy so nearby receivers can correct their readings. This is called differential GPS.",
+      "topics": [
+        "differential GPS",
+        "known points",
+        "GPS error correction",
+        "signal interference"
+      ]
+    },
+    {
+      "start": "00:19:07",
+      "end": "00:22:22",
+      "kind": "content",
+      "title": "Trilateration explained",
+      "summary": "The hosts explain trilateration as distance-based positioning, using circles and the Boise, Minneapolis, and Tucson analogy. Two circles leave two candidate points and a third circle narrows it to one. In three dimensions, spheres from four satellites determine latitude, longitude, and altitude.",
+      "topics": [
+        "trilateration",
+        "triangulation vs trilateration",
+        "3D trilateration",
+        "distance-based positioning"
+      ]
+    },
+    {
+      "start": "00:22:22",
+      "end": "00:29:09",
+      "kind": "content",
+      "title": "Trilateration in 3D and terminology",
+      "summary": "The hosts summarize how a receiver uses satellite positions and computed distances to locate itself in three dimensions, with four satellites giving latitude, longitude, and altitude. They joke about the pronunciation of trilateration.",
+      "topics": [
+        "3D trilateration",
+        "receiver positioning",
+        "trilateration pronunciation"
+      ]
+    },
+    {
+      "start": "00:29:09",
+      "end": "00:29:45",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Second ad break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:29:45",
+      "end": "00:31:42",
+      "kind": "content",
+      "title": "Wi-Fi-based positioning",
+      "summary": "The hosts explain that phones ask users to turn on Wi-Fi to improve location accuracy because they use the known signal strengths of nearby Wi-Fi access points, not just satellites.",
+      "topics": [
+        "Wi-Fi positioning",
+        "location services",
+        "phone location accuracy"
+      ]
+    },
+    {
+      "start": "00:31:42",
+      "end": "00:36:44",
+      "kind": "content",
+      "title": "GPS accuracy and error sources",
+      "summary": "GPS accuracy was once about 100 meters 95 percent of the time and is now about two meters, with a 2021 global average a bit over two feet. Buildings, weather, dense canopy, and satellite and Earth orientation changes affect accuracy. Dual-frequency L1 and L5 receivers and planned improvements are discussed.",
+      "topics": [
+        "GPS accuracy",
+        "L5 signal",
+        "dual frequency GPS",
+        "GPS error sources",
+        "receiver accuracy"
+      ]
+    },
+    {
+      "start": "00:36:44",
+      "end": "00:38:32",
+      "kind": "content",
+      "title": "Uses of GPS",
+      "summary": "GPS is used for airplane landings, soil moisture tracking, glacier measurement, whale migration tracking, agricultural equipment, self-driving cars, construction layout, and tunneling. The hosts cite about 94 billion dollars in generated economic activity in 2020 and a projected near-300 billion in five years.",
+      "topics": [
+        "GPS applications",
+        "precision agriculture",
+        "construction GPS",
+        "tunneling",
+        "GPS economic impact"
+      ]
+    },
+    {
+      "start": "00:38:32",
+      "end": "00:43:27",
+      "kind": "content",
+      "title": "GPS jamming and spoofing",
+      "summary": "The hosts discuss the vulnerability of GPS to jamming and spoofing. They cite Iran's 2019 spoofing that led to a British cargo ship being held for ten weeks, and a study of intentional airline jamming, with over 70,000 flights affected in three regions between February and August 2022. Gamers also spoof GPS in Pokemon Go.",
+      "topics": [
+        "GPS jamming",
+        "GPS spoofing",
+        "airline GPS interference",
+        "Iran ship seizure",
+        "Pokemon Go cheating"
+      ]
+    },
+    {
+      "start": "00:43:27",
+      "end": "00:45:23",
+      "kind": "content",
+      "title": "Satellite aging and modernization",
+      "summary": "The hosts note that the average GPS satellite is about 13 years old and that the oldest in the constellation is 27 years old. They say the US is adding L5 satellites to modernize the system, and they wrap the topic.",
+      "topics": [
+        "GPS satellite age",
+        "GPS modernization",
+        "L5 satellites"
+      ]
+    },
+    {
+      "start": "00:45:23",
+      "end": "00:47:29",
+      "kind": "listener_mail",
+      "title": "Listener mail: RICE to PEACE and LOVE",
+      "summary": "Listener Sarah PT writes that the RICE method for musculoskeletal injuries has been updated to PEACE and LOVE, and the hosts discuss the acronym components.",
+      "topics": [
+        "RICE method",
+        "PEACE and LOVE",
+        "sports injury treatment",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:47:29",
+      "end": "00:48:05",
+      "kind": "listener_mail",
+      "title": "Listener mail sign-off",
+      "summary": "The hosts thank Sarah and invite listeners to send in email.",
+      "topics": [
+        "listener mail",
+        "contact"
+      ]
+    },
+    {
+      "start": "00:48:05",
+      "end": "00:48:20",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "Closing credits: Stuff You Should Know is a production of iHeartRadio.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18987,
+    "output_tokens": 3845
+  }
+}

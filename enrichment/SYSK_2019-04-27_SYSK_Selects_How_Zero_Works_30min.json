@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-04-27_SYSK_Selects_How_Zero_Works_30min.txt",
+  "title": "SYSK Selects: How Zero Works",
+  "date": "2019-04-27",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-zero-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ff1ba765-f5c0-4e47-adb7-ae28004df94a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ff1ba765-f5c0-4e47-adb7-ae28004df94a/transcript?format=TextWithTimestamps&t=1700543697",
+  "summary": "SYSK Selects rerun of the episode about the number zero. Josh introduces it as a selected favorite. The hosts trace zero's history: Sumerian placeholder wedges, Babylonian place-value and abacus, Roman numerals lacking zero, the Indian origin of zero as a number in the fifth century, Arabic transmission and Fibonacci's introduction of Hindu-Arabic numerals to the West, and Maya use of zero in calendars. They cover the Gregorian calendar's lack of a year zero, Cassini's astronomical year zero, zero as an integer and its role in decimals and fractions, zero's arithmetic properties (additive identity, additive inverse, multiplication, division by zero, zero exponent), and zero floor numbering in elevators. Closing segments include a listener mail about coffee blends and a listener's coffee song.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Zero Works",
+  "topics": [
+    "zero",
+    "history of zero",
+    "zero as placeholder",
+    "Sumerian numerals",
+    "Babylonian numbering",
+    "Indian origin of zero",
+    "Brahmagupta",
+    "Fibonacci",
+    "Hindu-Arabic numerals",
+    "Maya zero calendar",
+    "Roman numerals",
+    "year zero",
+    "Gregorian calendar",
+    "Jacques Cassini",
+    "decimal system",
+    "properties of zero",
+    "dividing by zero",
+    "zero exponent",
+    "elevator floor numbering",
+    "SYSK Selects",
+    "listener mail",
+    "coffee"
+  ],
+  "entities": [
+    {
+      "name": "Zero",
+      "type": "other"
+    },
+    {
+      "name": "Sumer",
+      "type": "place"
+    },
+    {
+      "name": "Babylonians",
+      "type": "organization"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "Maya",
+      "type": "organization"
+    },
+    {
+      "name": "Fibonacci",
+      "type": "person"
+    },
+    {
+      "name": "Rome",
+      "type": "place"
+    },
+    {
+      "name": "Jacques Cassini",
+      "type": "person"
+    },
+    {
+      "name": "Robert Kaplan",
+      "type": "person"
+    },
+    {
+      "name": "The Nothing That Is: A Natural History of Zero",
+      "type": "work"
+    },
+    {
+      "name": "Stephen Wright",
+      "type": "person"
+    },
+    {
+      "name": "Ottoman Turks",
+      "type": "organization"
+    },
+    {
+      "name": "Gregorian calendar",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Selects intro and opening banter",
+      "summary": "Josh introduces this SYSK Selects episode, calling How Zero Works a selected favorite. Hosts banter about zero's etymology across languages and Robert Kaplan's speculation about the origin of the symbol.",
+      "topics": [
+        "zero",
+        "etymology of zero",
+        "Robert Kaplan"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Zero as placeholder in Sumerian and Babylonian numbering",
+      "summary": "The hosts describe Sumerian clay tablets with diagonal wedges used as a placeholder for a missing digit, the problem of blank spaces, and the place-value column system later used by the Babylonians.",
+      "topics": [
+        "Sumerian numerals",
+        "zero as placeholder",
+        "place value",
+        "Babylonian numbering",
+        "abacus"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Zero's fear and rejection in the West and Roman numerals",
+      "summary": "The hosts discuss how nothingness was viewed with discomfort, linked to void and chaos in Christian thought, and note that Romans did not use zero in their numeral system, though they briefly used the word nulla.",
+      "topics": [
+        "Roman numerals",
+        "fear of zero",
+        "void and chaos",
+        "nulla"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Zero as a number in India and transmission to the West",
+      "summary": "Zero is described as first conceived as a number in fifth-century India, possibly by Aryabhata, then spreading to Arab nations. Fibonacci, taught by Arabic tutors, introduced Arabic numerals to the West through his book.",
+      "topics": [
+        "Indian origin of zero",
+        "Aryabhata",
+        "Arabic numerals",
+        "Fibonacci",
+        "Leonardo of Pisa"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Maya zero and calendars",
+      "summary": "The hosts note that the Maya independently used zero, mainly in their calendar, as a base for counting days.",
+      "topics": [
+        "Maya numerals",
+        "Maya calendar",
+        "independent invention of zero"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Year zero and calendar counting",
+      "summary": "The hosts discuss the Gregorian calendar having no year zero, which affected millennium celebrations, and how Jacques Cassini's astronomical system placed year zero at 1 BC with negative and positive years around it.",
+      "topics": [
+        "year zero",
+        "Gregorian calendar",
+        "millennium debate",
+        "Jacques Cassini",
+        "astronomical year numbering"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Zero as integer and the decimal system",
+      "summary": "Zero is described as the integer between negative one and one, neither positive nor negative, and as essential to decimals and fractions, enabling precise measurements such as machine parts.",
+      "topics": [
+        "integers",
+        "decimal system",
+        "fractions",
+        "precision measurement",
+        "negative numbers"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Mathematical properties of zero",
+      "summary": "The hosts cover zero's additive identity, additive inverses, multiplication by zero, why division by zero is undefined with a multiplication-based explanation, and the zero exponent rule.",
+      "topics": [
+        "additive identity",
+        "additive inverse",
+        "multiplication by zero",
+        "division by zero",
+        "zero exponent",
+        "properties of zero"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Elevator floor numbering and Ottoman influence",
+      "summary": "The hosts note that elevators in some countries once conquered by the Ottoman Turks, such as Hungary and Spain, label the ground floor as zero with basements as negative numbers.",
+      "topics": [
+        "elevator floor numbering",
+        "Ottoman influence",
+        "zero floor"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Further reading and show notes",
+      "summary": "Hosts recommend the How Stuff Works zero article, an online article titled Zero in Four Dimensions by Hassain Arsham, and Robert Kaplan's book on zero.",
+      "topics": [
+        "zero reading list",
+        "Robert Kaplan book",
+        "Hassain Arsham"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:29:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: coffee blends and coffee song",
+      "summary": "A listener from Edmonton, Alberta writes about coffee blends used by cafes and Starbucks, and shares a coffee song recorded with her coworkers, which the hosts play.",
+      "topics": [
+        "listener mail",
+        "coffee blends",
+        "coffee song"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:30:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank the listener and explain how to send song submissions and contact the show.",
+      "topics": [
+        "listener submissions",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9915,
+    "output_tokens": 2663
+  }
+}

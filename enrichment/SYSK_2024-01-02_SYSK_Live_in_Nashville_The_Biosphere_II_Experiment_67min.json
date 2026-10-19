@@ -1,0 +1,503 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-01-02_SYSK_Live_in_Nashville_The_Biosphere_II_Experiment_67min.txt",
+  "title": "SYSK Live in Nashville: The Biosphere II Experiment",
+  "date": "2024-01-02",
+  "duration": "67 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-live-in-nashville-the-biosphere-ii-experiment",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a4b3eb08-61af-460c-aa4c-b0de0114bb3d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a4b3eb08-61af-460c-aa4c-b0de0114bb3d/transcript?format=TextWithTimestamps&t=1713683091",
+  "summary": "Live recording at the Schermerhorn Symphony Center in Nashville, Tennessee of Stuff You Should Know covering the Biosphere 2 experiment. The hosts trace its roots to John Allen's Synergia group (Synergians) in 1960s San Francisco, their move to the Synergia Ranch in New Mexico, and their ship Heraclitus. They explain the project's goal of a sealed, self-sustaining habitat for studying biospherics and Mars-habitat research, funded by billionaire Ed Bass. They describe the eight biospherians who sealed in on September 26, 1991, the five biomes, the design flaws (unsealed biomes, weak lashed trees, ocean turning to algae, concrete carbon sink), hunger and food shortages, the breathing crisis and oxygen injection, the press and scientific backlash, Ed Bass's takeover with Steve Bannon as CEO, the breaking of the seal in 1993, and the project's lasting scientific legacy and current University of Arizona operation. The episode is a live show with a lot of banter and some ads; the hosts also mention the trip to Oracle, Arizona.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Biosphere 2",
+    "Biosphere II experiment",
+    "biospherics",
+    "Synergia Ranch",
+    "Synergians",
+    "John Allen",
+    "Johnny Dolphin",
+    "Ed Bass",
+    "Space Biosphere Ventures",
+    "biospherians",
+    "closed ecological system",
+    "Oracle Arizona",
+    "University of Arizona Biosphere 2",
+    "Roy Walford",
+    "Caloric restriction diet",
+    "oxygen crisis Biosphere 2",
+    "concrete carbon sink",
+    "Steve Bannon Biosphere 2",
+    "Biodome movie",
+    "Spaceship Earth documentary",
+    "live show Nashville",
+    "Stuff You Should Know live",
+    "ecological experiment failure",
+    "Mars habitat research"
+  ],
+  "entities": [
+    {
+      "name": "Biosphere 2",
+      "type": "place"
+    },
+    {
+      "name": "John Allen",
+      "type": "person"
+    },
+    {
+      "name": "Ed Bass",
+      "type": "person"
+    },
+    {
+      "name": "Synergia Ranch",
+      "type": "place"
+    },
+    {
+      "name": "Synergians",
+      "type": "organization"
+    },
+    {
+      "name": "Space Biosphere Ventures",
+      "type": "organization"
+    },
+    {
+      "name": "Mark Nelson",
+      "type": "person"
+    },
+    {
+      "name": "Abigail Alling",
+      "type": "person"
+    },
+    {
+      "name": "Jane Poynter",
+      "type": "person"
+    },
+    {
+      "name": "Roy Walford",
+      "type": "person"
+    },
+    {
+      "name": "Mark van Thillo",
+      "type": "person"
+    },
+    {
+      "name": "Sally Silverstone",
+      "type": "person"
+    },
+    {
+      "name": "Taber MacCallum",
+      "type": "person"
+    },
+    {
+      "name": "Linda Leigh",
+      "type": "person"
+    },
+    {
+      "name": "Margaret Augustine",
+      "type": "person"
+    },
+    {
+      "name": "Phil Hawes",
+      "type": "person"
+    },
+    {
+      "name": "Steve Bannon",
+      "type": "person"
+    },
+    {
+      "name": "Perry Bass",
+      "type": "person"
+    },
+    {
+      "name": "Buckminster Fuller",
+      "type": "person"
+    },
+    {
+      "name": "Research vessel Heraclitus",
+      "type": "work"
+    },
+    {
+      "name": "Spaceship Earth",
+      "type": "work"
+    },
+    {
+      "name": "Biodome",
+      "type": "work"
+    },
+    {
+      "name": "Oracle, Arizona",
+      "type": "place"
+    },
+    {
+      "name": "Time magazine 100 worst ideas of the twentieth century",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Live show opening in Nashville",
+      "summary": "Hosts greet the live audience at the Schermerhorn Symphony Center in Nashville and mention their January research trip to Oracle, Arizona.",
+      "topics": [
+        "live show Nashville",
+        "Oracle Arizona",
+        "Spaceship Earth documentary"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:04:10",
+      "kind": "content",
+      "title": "What Biosphere 2 was",
+      "summary": "Hosts frame Biosphere 2 as a sealed attempt to replicate Earth and introduce the idea that the group was not a cult.",
+      "topics": [
+        "Biosphere 2",
+        "closed ecological system",
+        "biospherics"
+      ]
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:07:10",
+      "kind": "content",
+      "title": "John Allen and the Synergians in 1960s San Francisco",
+      "summary": "John Allen, nicknamed Johnny Dolphin, gathers a creative group in San Francisco that stages performance art as the Theater of All Possibilities and tours as the Caravan of Dreams. They move to New Mexico and form Synergia Ranch.",
+      "topics": [
+        "John Allen",
+        "Synergians",
+        "Theater of All Possibilities",
+        "Synergia Ranch",
+        "Caravan of Dreams"
+      ]
+    },
+    {
+      "start": "00:07:10",
+      "end": "00:10:20",
+      "kind": "content",
+      "title": "Research vessel Heraclitus and the project's origins",
+      "summary": "The Synergians build the research ship Heraclitus from scratch. The hosts explain the biosphere idea, which grew from concern about Earth's ecosystems and the new field of biospherics.",
+      "topics": [
+        "Research vessel Heraclitus",
+        "biospherics",
+        "Margaret Augustine",
+        "environmental concern early 1980s"
+      ]
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:13:45",
+      "kind": "content",
+      "title": "Lab versus field science and the project's purpose",
+      "summary": "The hosts discuss the tradeoff between lab and field studies and how a compact biosphere could speed up carbon cycle studies and serve as a testbed for Mars habitation. Linda Lee's small-jungle idea is mentioned.",
+      "topics": [
+        "lab vs field science",
+        "carbon cycle research",
+        "Mars habitation testbed",
+        "Linda Lee"
+      ]
+    },
+    {
+      "start": "00:13:45",
+      "end": "00:16:05",
+      "kind": "content",
+      "title": "Ed Bass funding and the business plan",
+      "summary": "Billionaire Ed Bass, son of Texas oil tycoon Perry Bass, funds the project at roughly 150 to 200 million dollars. The plan includes patentable research and charging tourists admission through Space Biosphere Ventures.",
+      "topics": [
+        "Ed Bass",
+        "Perry Bass",
+        "Space Biosphere Ventures",
+        "biosphere funding",
+        "tourism revenue"
+      ]
+    },
+    {
+      "start": "00:16:05",
+      "end": "00:18:18",
+      "kind": "content",
+      "title": "Architecture and original one-hundred-year plan",
+      "summary": "The architect Phil Hawes designs the facility with aluminum tubing and a geodesic dome. The original plan was a 100-year sealed experiment with rotating crews.",
+      "topics": [
+        "Phil Hawes",
+        "geodesic dome",
+        "100-year experiment",
+        "Biosphere 2 architecture"
+      ]
+    },
+    {
+      "start": "00:18:18",
+      "end": "00:18:40",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Message break with sponsor reads.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:18:40",
+      "end": "00:19:40",
+      "kind": "intro",
+      "title": "Return from break and sealing in",
+      "summary": "Hosts return and note the start of the mission on September 26, 1991.",
+      "topics": [
+        "September 1991 start"
+      ]
+    },
+    {
+      "start": "00:19:40",
+      "end": "00:22:40",
+      "kind": "content",
+      "title": "The eight biospherians",
+      "summary": "The hosts introduce the eight crew members, including Mark Nelson, Abigail Alling, Jane Poynter, Roy Walford, Mark van Thillo, Sally Silverstone, Taber MacCallum and Linda Lee. Poynter leaves briefly after a rice huller accident and returns with duffel bags.",
+      "topics": [
+        "biospherians",
+        "Mark Nelson",
+        "Jane Poynter",
+        "Roy Walford",
+        "Taber MacCallum",
+        "rice huller accident",
+        "duffel bags controversy"
+      ]
+    },
+    {
+      "start": "00:22:40",
+      "end": "00:26:04",
+      "kind": "content",
+      "title": "Crew relationships and roles",
+      "summary": "The hosts describe the crew's roles, the couples within the group, and Sally Silverstone as the cook.",
+      "topics": [
+        "Biosphere 2 crew",
+        "Sally Silverstone",
+        "crew couples"
+      ]
+    },
+    {
+      "start": "00:26:04",
+      "end": "00:30:10",
+      "kind": "content",
+      "title": "Biomes, species and the human wing",
+      "summary": "The facility has five biomes, including a rainforest with a waterfall, savannah, coastal fog desert, freshwater and mangrove marshes, and a 700,000-gallon ocean, plus a purple human wing and a farm. About 3,800 species were introduced.",
+      "topics": [
+        "five biomes",
+        "species introduction",
+        "ocean biome",
+        "anthropogenic biome"
+      ]
+    },
+    {
+      "start": "00:30:10",
+      "end": "00:33:16",
+      "kind": "content",
+      "title": "Facility size and life inside",
+      "summary": "The three-acre facility is compared to a Sears at Rivergate Mall. Life inside is described as isolated, with visitors paying to watch the crew.",
+      "topics": [
+        "facility size",
+        "tourists watching crew",
+        "human zoo"
+      ]
+    },
+    {
+      "start": "00:33:16",
+      "end": "00:36:05",
+      "kind": "content",
+      "title": "Design flaws",
+      "summary": "The biomes were not sealed from one another, and the hosts describe the flaws in the design and the lack of realistic science because of this.",
+      "topics": [
+        "design flaws",
+        "biome isolation",
+        "unsealed biomes"
+      ]
+    },
+    {
+      "start": "00:36:05",
+      "end": "00:39:12",
+      "kind": "content",
+      "title": "Desert turning to scrub, algae ocean and lashed trees",
+      "summary": "Excess moisture from the rainforest turned the desert to scrub, the ocean became choked with algae from nutrients, and trees grew weak without wind and had to be lashed to the dome.",
+      "topics": [
+        "desert scrub",
+        "algae ocean",
+        "stress wood",
+        "lashed trees"
+      ]
+    },
+    {
+      "start": "00:39:12",
+      "end": "00:42:57",
+      "kind": "content",
+      "title": "Species loss, invasive ants and pollination",
+      "summary": "The biosphere lost about 40 percent of species, better than predicted. Morning glory and crazy ants thrived, and crops had to be hand-pollinated. A bush baby died in an electrical panel.",
+      "topics": [
+        "species extinction",
+        "crazy ant",
+        "hand pollination",
+        "bush babies"
+      ]
+    },
+    {
+      "start": "00:42:57",
+      "end": "00:43:29",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Message break with sponsor reads.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:43:29",
+      "end": "00:47:15",
+      "kind": "content",
+      "title": "Hunger and the farm",
+      "summary": "Calorie counts fell well short of plans as the crew farmed and got hungry. Roy Walford's calorie-restricted diet results showed weight loss and improved blood markers.",
+      "topics": [
+        "hunger in Biosphere 2",
+        "calorie restriction",
+        "Roy Walford",
+        "farming problems"
+      ]
+    },
+    {
+      "start": "00:47:15",
+      "end": "00:49:28",
+      "kind": "content",
+      "title": "Food shortages and coffee",
+      "summary": "The hosts describe the crew's diet of sweet potatoes, beets, bananas and goat milk, and a coffee shortage that limited each person to a few cups.",
+      "topics": [
+        "sweet potatoes beets diet",
+        "coffee shortage",
+        "banana wine"
+      ]
+    },
+    {
+      "start": "00:49:28",
+      "end": "00:50:08",
+      "kind": "content",
+      "title": "Factions and tension",
+      "summary": "Crew members split into factions over John Allen's authority, and tension grew, including Abigail Alling saying she was spat at.",
+      "topics": [
+        "crew factions",
+        "John Allen authority",
+        "crew conflict"
+      ]
+    },
+    {
+      "start": "00:50:08",
+      "end": "00:53:22",
+      "kind": "content",
+      "title": "Oxygen decline and CO2 problem",
+      "summary": "Oxygen fell and CO2 rose to the equivalent of high altitude, caused by rich soil microbes and a concrete carbon sink. The team considered leaving or pumping in oxygen and chose to pump oxygen.",
+      "topics": [
+        "oxygen crisis",
+        "CO2 levels",
+        "concrete carbon sink",
+        "soil microbes"
+      ]
+    },
+    {
+      "start": "00:53:22",
+      "end": "00:56:43",
+      "kind": "content",
+      "title": "Undisclosed scrubber and press backlash",
+      "summary": "The media first praised the project and then turned on it. Undisclosed CO2 scrubbers and the duffel bags added to the backlash, and scientists distanced themselves.",
+      "topics": [
+        "media backlash",
+        "CO2 scrubber",
+        "Time magazine worst ideas",
+        "scientific community backlash"
+      ]
+    },
+    {
+      "start": "00:56:43",
+      "end": "00:58:05",
+      "kind": "content",
+      "title": "PR failure and end of the first mission",
+      "summary": "The hosts discuss the failure of public relations, with the crew denying problems. The crew emerged on September 23, 1993.",
+      "topics": [
+        "public relations failure",
+        "Mark Nelson 1996 article",
+        "mission end 1993"
+      ]
+    },
+    {
+      "start": "00:58:05",
+      "end": "01:00:21",
+      "kind": "content",
+      "title": "Mission two, Biodome and Ed Bass's takeover",
+      "summary": "The second mission had three crew members. Ed Bass staged a takeover, John Allen was removed, and Steve Bannon became CEO.",
+      "topics": [
+        "mission two",
+        "Biodome movie",
+        "Ed Bass takeover",
+        "Steve Bannon CEO"
+      ]
+    },
+    {
+      "start": "01:00:21",
+      "end": "01:01:50",
+      "kind": "content",
+      "title": "Breaking the seal",
+      "summary": "Mark van Thillo and Abigail Alling broke the seal to the facility to protect the crew from the new direction.",
+      "topics": [
+        "breaking the seal",
+        "Mark van Thillo",
+        "Abigail Alling",
+        "end of closed system"
+      ]
+    },
+    {
+      "start": "01:01:50",
+      "end": "01:04:00",
+      "kind": "content",
+      "title": "Legacy and University of Arizona",
+      "summary": "The facility is no longer closed. The hosts discuss research that came from the project, including wastewater treatment and coral bleaching from ocean acidification. The University of Arizona now runs it.",
+      "topics": [
+        "Biosphere 2 legacy",
+        "University of Arizona",
+        "ocean acidification coral bleaching",
+        "constructed wetlands wastewater"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:05:23",
+      "kind": "content",
+      "title": "Environmental legacy and visiting",
+      "summary": "The hosts reflect on the project's effect on environmentalism and mention the bush babies' reproduction and visiting tips.",
+      "topics": [
+        "environmentalism legacy",
+        "visiting Biosphere 2",
+        "Tucson"
+      ]
+    },
+    {
+      "start": "01:05:23",
+      "end": "01:05:53",
+      "kind": "content",
+      "title": "Tucson restaurant recommendation and ghost story",
+      "summary": "The hosts recommend a restaurant in Tucson and share a ghost legend about the bush babies at the facility.",
+      "topics": [
+        "Tucson restaurant",
+        "ghost legend"
+      ]
+    },
+    {
+      "start": "01:05:53",
+      "end": "01:06:10",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank Nashville and close the episode.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 24111,
+    "output_tokens": 5318
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-03-01_How_El_Nino_Works_35min.txt",
+  "title": "How El Nino Works",
+  "date": "2016-03-01",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-el-nino-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c575b1c9-3949-451e-9984-ae2800865333/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c575b1c9-3949-451e-9984-ae2800865333/transcript?format=TextWithTimestamps&t=1700543841",
+  "summary": "Josh and Chuck explain El Nino, the periodic warming of Pacific Ocean surface waters off Peru caused by weakened trade winds, and its opposite La Nina and the neutral period between them (together the El Nino Southern Oscillation). They cover the naming origin (Spanish for 'the boy' / 'Christ Child' coined by Peruvian colonizers around Christmas), historical records and paleoclimate evidence, how the jet stream spreads effects worldwide, how scientists declare an El Nino (0.9 F / 0.5 C threshold, five overlapping three-month periods), the 1982-83 event and its damage, the current strong El Nino in early 2016 and its milder-than-expected effects, the impacts on rainfall, drought, fisheries, malaria, Indonesian forest fires and tree falls, climate change's unpredictable influence, and a digression on smart devices and privacy. The episode closes with corrections and listener mail about a New York Times crossword marriage proposal.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "El Nino",
+    "La Nina",
+    "El Nino Southern Oscillation",
+    "ENSO",
+    "trade winds",
+    "Pacific Ocean sea surface temperature",
+    "jet stream",
+    "weather patterns",
+    "1982-83 El Nino",
+    "climate change and El Nino",
+    "El Nino naming origin",
+    "Peru rainfall",
+    "drought",
+    "malaria",
+    "fisheries and anchovies",
+    "Indonesia forest fires",
+    "tree falls after drought",
+    "meteorology",
+    "Stuff You Should Know listener mail",
+    "smart devices privacy"
+  ],
+  "entities": [
+    {
+      "name": "El Nino",
+      "type": "event"
+    },
+    {
+      "name": "La Nina",
+      "type": "event"
+    },
+    {
+      "name": "Peru",
+      "type": "place"
+    },
+    {
+      "name": "Indonesia",
+      "type": "place"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "Pacific Ocean",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Mexico El Chichon eruption",
+      "type": "event"
+    },
+    {
+      "name": "Tim De Liberto",
+      "type": "person"
+    },
+    {
+      "name": "Chris Farley",
+      "type": "person"
+    },
+    {
+      "name": "Black Francis",
+      "type": "person"
+    },
+    {
+      "name": "Pixies",
+      "type": "organization"
+    },
+    {
+      "name": "climate.gov",
+      "type": "organization"
+    },
+    {
+      "name": "NOAA",
+      "type": "organization"
+    },
+    {
+      "name": "Amazon Echo",
+      "type": "other"
+    },
+    {
+      "name": "A.J. Hackett",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and El Nino name",
+      "summary": "Josh and Chuck joke about El Nino as a name, Chris Farley's SNL sketch, and a Pixies lyric. They note that El Nino means 'the boy' in Spanish but the capitalized form refers to the Christ Child, coined by Peruvian colonizers around Christmas, and that El Nino events have been recorded for centuries and possibly far back in geological evidence.",
+      "topics": [
+        "El Nino name origin",
+        "Christ Child",
+        "Chris Farley SNL",
+        "Pixies"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "How El Nino forms",
+      "summary": "Warm Pacific water near the equator, trade winds, and rising humid air that forms thunderstorms are explained. Normally warm water is pushed west; when trade winds weaken, the warm water stays off the coast of Peru, causing El Nino.",
+      "topics": [
+        "trade winds",
+        "Pacific warm water",
+        "tropical thunderstorms",
+        "El Nino mechanism"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Global effects of El Nino",
+      "summary": "Typical US effects: cooler, wetter south; warmer upper Midwest, Pacific Northwest and Alaska; fewer Atlantic hurricanes and more Pacific typhoons. Warm dry Southeast Asia and Australia, wetter Central Africa, mixed South America. Events occur every two to seven years, and the cause of trade wind failure remains unknown.",
+      "topics": [
+        "El Nino effects by region",
+        "hurricanes and typhoons",
+        "weather around the world",
+        "El Nino frequency"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Jet streams and weather",
+      "summary": "Jet streams act as conveyor belts moving weather systems west to east, and troughs and ridges determine whether an area is cold and wet or warm and dry. This is how El Nino's effects spread thousands of miles, including colder, wetter conditions in the southeastern US.",
+      "topics": [
+        "jet stream",
+        "troughs and ridges",
+        "weather mechanics",
+        "teleconnection"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Declaring El Nino and history",
+      "summary": "Meteorologists look for sea surface temperatures about 0.9 F (0.5 C) above normal and five overlapping three-month periods. The current El Nino peaked at 3.1 F, the strongest on record, while the 1982-83 event peaked at 2.8. The 1982-83 event caught scientists off guard, causing large damage and about 2,000 deaths, which led to buoys, weather balloons and expanded study. La Nina is described as the sister phenomenon, and each cycle lasts nine to twelve months.",
+      "topics": [
+        "El Nino detection criteria",
+        "sea surface temperature",
+        "1982-83 El Nino",
+        "La Nina",
+        "NOAA buoys",
+        "strongest El Nino on record",
+        "El Nino Southern Oscillation"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Current El Nino and California drought",
+      "summary": "The current El Nino is strong but its effects have been milder than predicted, which scientists attribute partly to climate change without fully explaining why. Southern California, in a long drought, hoped for heavy rain as in 1997 but received less than expected.",
+      "topics": [
+        "current El Nino 2016",
+        "California drought",
+        "El Nino forecast",
+        "climate change"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Damage and impacts of El Nino",
+      "summary": "The hosts discuss economic damage (about 33 billion dollars worldwide for the 1982-83 event, with about half a billion in California), effects on Pacific islands' fresh water, crops, Peru's record rainfall of eleven feet against a normal six inches, fisheries shifting away from cold-water anchovies, rising malaria with mosquito breeding, and about 24 million acres of unchecked forest fires in Indonesia. Heavy rain after drought can topple shallow-rooted trees, and a tree-fall death in Atlanta is recalled.",
+      "topics": [
+        "El Nino damage",
+        "Peru flooding",
+        "anchovy fisheries",
+        "malaria",
+        "Indonesia wildfires",
+        "tree falls after drought",
+        "crop damage"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Climate change and dimmer switch analogy",
+      "summary": "Climate change is said to be affecting El Nino in unpredictable ways. Tim De Liberto, a climate.gov blogger, compares climate change to a child messing with the dimmer switches of a light. Scientists have had success forecasting El Nino effects that let Peruvian farmers plant in dry areas, but climate change has added unpredictability.",
+      "topics": [
+        "climate change El Nino",
+        "Tim De Liberto",
+        "climate.gov",
+        "El Nino prediction",
+        "dimmer switch analogy"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Smart devices and privacy tangent",
+      "summary": "The hosts discuss the Amazon Echo as an always-listening voice device, smart TVs and phones with microphone and camera permissions, a documentary about Snowden, and hacked baby cameras. This segment is loosely tied to the episode via a closing reference.",
+      "topics": [
+        "Amazon Echo",
+        "smart device privacy",
+        "always-listening devices",
+        "hacked baby monitors",
+        "Snowden"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Wrap-up and corrections",
+      "summary": "Josh and Chuck point listeners to the website for more on El Nino. The hosts correct earlier mistakes: skim milk does not have hydrogenated corn sugar, and bungee pioneer A.J. Hackett was from New Zealand, not Australia.",
+      "topics": [
+        "corrections",
+        "New Zealand bungee jumping"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:56:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: crossword marriage proposal",
+      "summary": "Adam in Chicago writes that he proposed to his wife Hannah using a custom New York Times crossword puzzle, with clues tied to their relationship, and the phrase 'Will you marry me' spelled out. He says the podcast was a constant in their relationship.",
+      "topics": [
+        "listener mail",
+        "New York Times crossword",
+        "marriage proposal"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:58:00",
+      "kind": "outro",
+      "title": "Sign-off and contact info",
+      "summary": "Hosts give social media, email and website information and sign off.",
+      "topics": [
+        "show contact info",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11898,
+    "output_tokens": 3352
+  }
+}

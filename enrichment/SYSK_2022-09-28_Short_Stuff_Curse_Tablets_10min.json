@@ -1,0 +1,151 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-09-28_Short_Stuff_Curse_Tablets_10min.txt",
+  "title": "Short Stuff: Curse Tablets",
+  "date": "2022-09-28",
+  "duration": "10 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-curse-tablets",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3c97ee1-74f7-42bc-88f1-af0300ceca5f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d3c97ee1-74f7-42bc-88f1-af0300ceca5f/transcript?format=TextWithTimestamps&t=1700557175",
+  "summary": "Short Stuff episode on curse tablets (defixiones), ancient Greek and Roman inscribed curses often written on lead. Josh and Chuck (with Jerry sitting in for Dave) cover a famous Pompeii tomb curse, why lead was used, the fad-like popularity spikes around 500-350 BC, a link to Julian Jaynes's bicameral mind idea, targets like political, business, legal and romantic rivals, and the template-style \"magic mad lib\" services used by people who couldn't write. They also mention counter-curse clauses, rubber-and-glue reversal, and amulets such as the evil eye and the eye of Osiris. The episode closes with a sign-off.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "curse tablets",
+    "defixiones",
+    "ancient Rome curses",
+    "ancient Greece curses",
+    "Pompeii curse tablet",
+    "lead curse tablets",
+    "magic curses",
+    "counter curses",
+    "amulets against curses",
+    "evil eye",
+    "eye of Osiris",
+    "Julian Jaynes bicameralism",
+    "ancient magic",
+    "magical templates",
+    "ancient superstition",
+    "chariot racing curses"
+  ],
+  "entities": [
+    {
+      "name": "Pompeii",
+      "type": "place"
+    },
+    {
+      "name": "Athens",
+      "type": "place"
+    },
+    {
+      "name": "Julian Jaynes",
+      "type": "person"
+    },
+    {
+      "name": "Tom Cruise",
+      "type": "person"
+    },
+    {
+      "name": "Matt Lauer",
+      "type": "person"
+    },
+    {
+      "name": "Helen",
+      "type": "person"
+    },
+    {
+      "name": "Romulus",
+      "type": "person"
+    },
+    {
+      "name": "Aristophanes",
+      "type": "person"
+    },
+    {
+      "name": "Osiris",
+      "type": "other"
+    },
+    {
+      "name": "curse tablets",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and introduction to curse tablets",
+      "summary": "Josh and Chuck open with banter, introduce curse tablets as inscribed curses from ancient Rome and Greece, and read a Pompeii tomb curse about a man who sued the writer.",
+      "topics": [
+        "curse tablets",
+        "Pompeii curse tablet",
+        "defixiones"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Materials, popularity spikes, and bicameralism",
+      "summary": "The hosts discuss curse tablets written on lead, sometimes papyrus, clay, or lamps, depending on wealth. Lead was plentiful from silver mining near Athens and easy to carve. Popularity came in sharp fads around 500 to 350 BC. Josh links this timing to the bicameralism episode.",
+      "topics": [
+        "lead curse tablets",
+        "ancient Greece curses",
+        "Julian Jaynes bicameralism",
+        "ancient superstition"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:20",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Break for sponsor and show promotion, with a Tom Cruise and Matt Lauer clip mentioned during the lead-in.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Who was cursed and the magic mad lib templates",
+      "summary": "Curses targeted political, business, legal, and romantic rivals, and even chariot teams. Less wealthy people went to magicians who used fill-in-the-blank templates, sometimes squeezing long names onto the tablets.",
+      "topics": [
+        "curse targets",
+        "magical templates",
+        "chariot racing curses",
+        "magic mad lib"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:40",
+      "kind": "content",
+      "title": "Counter-curses, amulets, and modern parallels",
+      "summary": "Curse tablets included counter-curse clauses that would reverse a curse onto the sender. Amulets like the evil eye and the eye of Osiris were worn for protection. The hosts joke that modern social media resembles cursing.",
+      "topics": [
+        "counter curses",
+        "amulets",
+        "evil eye",
+        "eye of Osiris"
+      ]
+    },
+    {
+      "start": "00:09:40",
+      "end": "00:10:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and the show credits are read.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4471,
+    "output_tokens": 1570
+  }
+}

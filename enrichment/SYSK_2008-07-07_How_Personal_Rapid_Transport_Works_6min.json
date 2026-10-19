@@ -1,0 +1,135 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-07-07_How_Personal_Rapid_Transport_Works_6min.txt",
+  "title": "How Personal Rapid Transport Works",
+  "date": "2008-07-07",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-personal-rapid-transport-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/82b22210-e3ee-41bd-bd32-ae2800c3c1f5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/82b22210-e3ee-41bd-bd32-ae2800c3c1f5/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh Clark and Chris Pallette discuss personal rapid transit (PRT), a small-car, automated, grade-separated rail taxi-like system. They cover its 1950s American origins, claimed lower build cost than light rail (about $16 million per mile versus about $40 million for light rail, with a Heathrow Airport installation cited), safety and reliability concerns such as a failed car stopping the whole line, a Simpsons \"Marge vs. the Monorail\" reference as a criticism, and installations planned in Sweden and Abu Dhabi, including Masdar City aiming to be a zero-carbon city. Opening and closing segments include chatter about Chris shaving his goatee and on-air ad reads for the sponsors and the camera promo.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "personal rapid transit",
+    "PRT",
+    "personal rapid transport",
+    "automated taxi",
+    "driverless transit",
+    "light rail cost comparison",
+    "Heathrow Airport PRT",
+    "Masdar City",
+    "Abu Dhabi transit",
+    "zero carbon city",
+    "Simpsons monorail episode",
+    "PRT safety concerns",
+    "future of taxis",
+    "urban transit alternatives",
+    "1950s urban design"
+  ],
+  "entities": [
+    {
+      "name": "Personal rapid transit",
+      "type": "other"
+    },
+    {
+      "name": "Heathrow Airport",
+      "type": "place"
+    },
+    {
+      "name": "Masdar City",
+      "type": "place"
+    },
+    {
+      "name": "Abu Dhabi",
+      "type": "place"
+    },
+    {
+      "name": "Sweden",
+      "type": "place"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Opening banter and sponsor read",
+      "summary": "Josh introduces the episode and guest writer Chris Pallette, with banter about Chris shaving his goatee. A sponsor read and camera promo are included.",
+      "topics": [
+        "podcast intro",
+        "sponsor read"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "What personal rapid transit is",
+      "summary": "Josh and Chris introduce personal rapid transit (PRT) as a idea with roots in 1950s American urban design, combining features of subways and taxis, with small cars on a rail line that riders don't share.",
+      "topics": [
+        "personal rapid transit",
+        "PRT",
+        "1950s urban design",
+        "subway and taxi hybrid"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Cost compared with light rail",
+      "summary": "The hosts say PRT is cheaper to build than light rail, citing about $16 million per mile of track versus about $40 million for light rail, and a system being built at Heathrow Airport. Chris explains that light rail needs larger cars and wider track.",
+      "topics": [
+        "light rail cost comparison",
+        "Heathrow Airport PRT",
+        "PRT construction cost"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Criticisms and the Simpsons monorail",
+      "summary": "Opponents question PRT's reliability, since a failed car could stop the cars behind it on a shared track. The hosts also discuss a Simpsons monorail episode as a satirical take on the system.",
+      "topics": [
+        "PRT safety concerns",
+        "driverless transit reliability",
+        "Simpsons monorail episode"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:05:50",
+      "kind": "content",
+      "title": "PRT in Sweden and Abu Dhabi",
+      "summary": "The hosts note PRT systems being installed in Sweden and Abu Dhabi, and describe Masdar City, a development outside Abu Dhabi aiming to be the first zero carbon footprint city, which includes a planned PRT system.",
+      "topics": [
+        "Masdar City",
+        "Abu Dhabi transit",
+        "zero carbon city",
+        "PRT installations"
+      ]
+    },
+    {
+      "start": "00:05:50",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Closing and sponsor read",
+      "summary": "Josh points listeners to the related article on HowStuffWorks and invites feedback by email, followed by a repeated sponsor read.",
+      "topics": [
+        "sign-off",
+        "sponsor read"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3461,
+    "output_tokens": 1543
+  }
+}

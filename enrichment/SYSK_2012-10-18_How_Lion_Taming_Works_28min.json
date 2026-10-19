@@ -1,0 +1,263 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-10-18_How_Lion_Taming_Works_28min.txt",
+  "title": "How Lion Taming Works",
+  "date": "2012-10-18",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-lion-taming-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/11fb765b-dc0c-4813-aa77-ae2800a4a0b1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/11fb765b-dc0c-4813-aa77-ae2800a4a0b1/transcript?format=TextWithTimestamps&t=1700543913",
+  "summary": "Hosts Josh and Chuck open with Simpsons prediction banter, then explore the history of lion taming and wild animal training, from Martin Ari and Isaac Van Amburgh through Clyde Beatty, Siegfried and Roy, and Gunther Gebel-Williams. They explain training psychology (operant and classical conditioning, shaping, the chair and whip), tell the story of Christian the Lion, cover the 2003 Siegfried and Roy attack on Roy Horn, and discuss animal welfare concerns and circus regulation. The episode closes with a listener email from a former Marine who kicked heroin and listened to the show during detox.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "lion taming",
+    "lion trainer",
+    "wild animal training",
+    "history of lion taming",
+    "Isaac Van Amburgh",
+    "Clyde Beatty",
+    "Siegfried and Roy",
+    "Roy Horn attack",
+    "Gunther Gebel-Williams",
+    "Christian the Lion",
+    "operant conditioning",
+    "classical conditioning",
+    "B.F. Skinner",
+    "circus animal welfare",
+    "Animal Welfare Act",
+    "USDA circus inspections",
+    "Big Apple Circus",
+    "Cat Dancers documentary",
+    "Fast, Cheap and Out of Control",
+    "Simpsons predictions",
+    "heroin detox listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Isaac Van Amburgh",
+      "type": "person"
+    },
+    {
+      "name": "Martin Ari",
+      "type": "person"
+    },
+    {
+      "name": "Clyde Beatty",
+      "type": "person"
+    },
+    {
+      "name": "Siegfried and Roy",
+      "type": "organization"
+    },
+    {
+      "name": "Roy Horn",
+      "type": "person"
+    },
+    {
+      "name": "Montecore",
+      "type": "other"
+    },
+    {
+      "name": "Gunther Gebel-Williams",
+      "type": "person"
+    },
+    {
+      "name": "Christian the Lion",
+      "type": "other"
+    },
+    {
+      "name": "John Rendall",
+      "type": "person"
+    },
+    {
+      "name": "Ace Bourke",
+      "type": "person"
+    },
+    {
+      "name": "B. F. Skinner",
+      "type": "person"
+    },
+    {
+      "name": "Dave Hoover",
+      "type": "person"
+    },
+    {
+      "name": "Errol Morris",
+      "type": "person"
+    },
+    {
+      "name": "Cat Dancers",
+      "type": "work"
+    },
+    {
+      "name": "Fast, Cheap and Out of Control",
+      "type": "work"
+    },
+    {
+      "name": "Big Apple Circus",
+      "type": "organization"
+    },
+    {
+      "name": "Ringling Brothers",
+      "type": "organization"
+    },
+    {
+      "name": "USDA",
+      "type": "organization"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    },
+    {
+      "name": "Harrods",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Simpsons predictions",
+      "summary": "Hosts introduce the episode, a Summer of Sam pick written by Debbie Ronca. Josh and Chuck discuss Simpsons episodes they believe predicted real events, including a crayon removed from Homer's brain, the voting machine episode, and the Siegfried and Roy tiger episode. They note that the tamest animals can still turn on people.",
+      "topics": [
+        "Simpsons predictions",
+        "Summer of Sam",
+        "Jack Hanna quote on taming",
+        "Gunther Gebel-Williams quote"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Early lion tamers: Martin Ari and Isaac Van Amburgh",
+      "summary": "Martin Ari, a retired horse trainer in the 1810s, worked a tiger by gradually entering its cage and earning trust. Isaac Van Amburgh, around 1833, was an American tamer who used violence such as crowbars, justified his methods with Genesis, and finished shows by having lions lick his boots.",
+      "topics": [
+        "Martin Ari",
+        "Isaac Van Amburgh",
+        "history of lion taming",
+        "early circus animal acts",
+        "violent animal training"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Fast, Cheap and Out of Control and Cat Dancers",
+      "summary": "Hosts recommend two documentaries. Fast, Cheap and Out of Control by Errol Morris follows a topiary gardener, a robot scientist, and a lion tamer, with Dave Hoover as the tamer. Cat Dancers is described as a heartbreaking documentary about people and their big cats.",
+      "topics": [
+        "Fast, Cheap and Out of Control",
+        "Errol Morris",
+        "Cat Dancers documentary",
+        "Dave Hoover",
+        "documentaries about big cats"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Clyde Beatty and the pistol-and-chair method",
+      "summary": "Clyde Beatty performed in the 1920s using a pistol and a whip. The chair is explained as a tool because the four chair legs confuse a lion's single-minded focus, according to Dave Hoover. The hosts trace the progression from Martin Ari's gentle approach to Van Amburgh's beatings, to Beatty, and then to modern trainers such as Siegfried and Roy and Gunther Gebel-Williams.",
+      "topics": [
+        "Clyde Beatty",
+        "lion taming chair",
+        "whip and pistol",
+        "history of lion trainers",
+        "Gunther Gebel-Williams",
+        "Siegfried and Roy"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Animal psychology: operant and classical conditioning",
+      "summary": "Hosts discuss B.F. Skinner and operant conditioning, which pairs a behavior with a signal and a reward. Trainers shape behavior step by step, for example turning an animal with food, then replacing the stick with a clap or verbal cue, which leads to classical conditioning. The whip today is used to mark space rather than to strike.",
+      "topics": [
+        "operant conditioning",
+        "classical conditioning",
+        "B.F. Skinner",
+        "shaping behavior",
+        "animal training psychology",
+        "Skinner box"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Christian the Lion",
+      "summary": "Christian the Lion was bought by John Rendall and Ace Bourke from Harrods in London in the late 1960s and was raised as a pet. The lion grew too big and was released into the wild with help from the Born Free organization. A famous later reunion video shows the lion greeting the men.",
+      "topics": [
+        "Christian the Lion",
+        "Harrods lion",
+        "Born Free",
+        "lion released to the wild",
+        "animal reunion video"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Siegfried and Roy attack and animal welfare",
+      "summary": "In 2003, a tiger named Montecore grabbed Roy Horn by the neck during a Las Vegas performance and dragged him offstage. Roy was partially paralyzed with a crushed trachea. Theories include a stroke and a woman with a beehive hairdo. Roy's six-years-later final performance with Montecore is mentioned. The hosts discuss USDA inspections and animal welfare concerns with circuses and zoos.",
+      "topics": [
+        "Roy Horn attack 2003",
+        "Montecore tiger",
+        "Siegfried and Roy",
+        "USDA animal inspections",
+        "Animal Welfare Act",
+        "circus animal welfare"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Dangers of lion taming and modern circus",
+      "summary": "The hosts describe a lion's jaw strength and claw length and question the purpose of modern lion acts. They contrast older circuses built on exotic animals with the Big Apple Circus, which has no big cats. They also point to the circus arts section of HowStuffWorks as a source.",
+      "topics": [
+        "lion jaw strength",
+        "dangers of lion taming",
+        "Big Apple Circus",
+        "modern circus",
+        "circus arts"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: kicking heroin",
+      "summary": "A former female Marine writes that after an injury she became addicted to painkillers and then heroin. She went through detox with no music or TV, but her doctor approved listening to the show. She marks a year off drugs on her birthday and asks for a shout-out.",
+      "topics": [
+        "listener mail",
+        "heroin detox",
+        "addiction recovery",
+        "female Marines"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:30",
+      "kind": "outro",
+      "title": "Sign-off and contact information",
+      "summary": "Hosts thank the listener and give contact information: Twitter handle, Facebook page, and an email address for the show.",
+      "topics": [
+        "listener feedback",
+        "social media contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9940,
+    "output_tokens": 3088
+  }
+}

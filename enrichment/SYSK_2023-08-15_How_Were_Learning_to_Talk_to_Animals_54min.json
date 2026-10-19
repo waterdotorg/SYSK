@@ -1,0 +1,442 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-08-15_How_Were_Learning_to_Talk_to_Animals_54min.txt",
+  "title": "How We’re Learning to Talk to Animals",
+  "date": "2023-08-15",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-we-re-learning-to-talk-to-animals",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/058a0288-7c82-450f-a409-b05f00daf377/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/058a0288-7c82-450f-a409-b05f00daf377/transcript?format=TextWithTimestamps&t=1713863815",
+  "summary": "Josh and Chuck explore research into decoding and possibly speaking animal languages, reversing the usual approach of teaching animals human language. Topics include pets and facial expressions (dog eyebrow muscle, adoption rates), horse-human communication, honeyguide birds and the Jahua and Hadza people, bird song recording and the Merlin app, early primate alarm-call research (vervet monkeys, Campbell's monkeys and suffixes), prairie dog vocal language, Japanese tit word order experiments, honeybee waggle dance, dialects in great apes and naked mole rats, Roger Payne's humpback whale album and Save the Whales movement, sperm whale clan codas, orca and dolphin vocal learning and signature whistles, spindle cells and empathy, AI-driven animal translation projects (Project CETI, Earth Species Project), and a listener mail segment.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "animal communication",
+    "decoding animal language",
+    "animal language research",
+    "dog facial expressions",
+    "puppy dog eyes",
+    "horse human communication",
+    "honeyguide birds",
+    "Jahua people honey hunting",
+    "bird song",
+    "Merlin bird app",
+    "vervet monkeys alarm calls",
+    "Campbell's monkeys suffixes",
+    "prairie dog language",
+    "Japanese tit grammar",
+    "honeybee waggle dance",
+    "animal dialects",
+    "naked mole rat",
+    "humpback whale songs album",
+    "Save the Whales movement",
+    "sperm whale codas",
+    "orca vocal learning",
+    "dolphin signature whistles",
+    "spindle cells empathy",
+    "AI animal translation",
+    "Project CETI",
+    "Earth Species Project",
+    "Descartes animal minds",
+    "Cornell Lab of Ornithology"
+  ],
+  "entities": [
+    {
+      "name": "Descartes",
+      "type": "person"
+    },
+    {
+      "name": "Janet Jones",
+      "type": "person"
+    },
+    {
+      "name": "Robert Seyfarth",
+      "type": "person"
+    },
+    {
+      "name": "Dorothy Cheney",
+      "type": "person"
+    },
+    {
+      "name": "Peter Marler",
+      "type": "person"
+    },
+    {
+      "name": "Klaus Zuberbühler",
+      "type": "person"
+    },
+    {
+      "name": "Constantine Slobodchikoff",
+      "type": "person"
+    },
+    {
+      "name": "Carl von Frisch",
+      "type": "person"
+    },
+    {
+      "name": "Roger Payne",
+      "type": "person"
+    },
+    {
+      "name": "David Gruber",
+      "type": "person"
+    },
+    {
+      "name": "Carl Safina",
+      "type": "person"
+    },
+    {
+      "name": "Jane Goodall",
+      "type": "person"
+    },
+    {
+      "name": "Errol Morris",
+      "type": "person"
+    },
+    {
+      "name": "Vervet monkey",
+      "type": "other"
+    },
+    {
+      "name": "Campbell's monkey",
+      "type": "other"
+    },
+    {
+      "name": "Japanese tit",
+      "type": "other"
+    },
+    {
+      "name": "Prairie dog",
+      "type": "other"
+    },
+    {
+      "name": "Honeyguide",
+      "type": "other"
+    },
+    {
+      "name": "Sperm whale",
+      "type": "other"
+    },
+    {
+      "name": "Orca",
+      "type": "other"
+    },
+    {
+      "name": "Bottlenose dolphin",
+      "type": "other"
+    },
+    {
+      "name": "Humpback whale",
+      "type": "other"
+    },
+    {
+      "name": "Naked mole rat",
+      "type": "other"
+    },
+    {
+      "name": "Honeybee",
+      "type": "other"
+    },
+    {
+      "name": "Siberian husky",
+      "type": "other"
+    },
+    {
+      "name": "Merlin",
+      "type": "work"
+    },
+    {
+      "name": "Songs of the Humpback Whale",
+      "type": "work"
+    },
+    {
+      "name": "Project CETI",
+      "type": "organization"
+    },
+    {
+      "name": "Earth Species Project",
+      "type": "organization"
+    },
+    {
+      "name": "Jahua people",
+      "type": "organization"
+    },
+    {
+      "name": "Hadza people",
+      "type": "organization"
+    },
+    {
+      "name": "Cornell Lab of Ornithology",
+      "type": "organization"
+    },
+    {
+      "name": "Mozambique",
+      "type": "place"
+    },
+    {
+      "name": "Tanzania",
+      "type": "place"
+    },
+    {
+      "name": "Kenya",
+      "type": "place"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "type": "place"
+    },
+    {
+      "name": "Dominica",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and framing",
+      "summary": "Hosts joke about dolphin sounds and introduce the episode on research into understanding and possibly speaking animal languages, distinct from teaching animals human language.",
+      "topics": [
+        "animal communication",
+        "decoding animal language"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:08:50",
+      "kind": "content",
+      "title": "Pets, dogs and Descartes",
+      "summary": "Discussion of science long denying animal inner lives, Descartes' influence, and dog facial expressions such as the eyebrow muscle that helped dogs get adopted faster, plus MRI studies of dogs' brains.",
+      "topics": [
+        "dog facial expressions",
+        "puppy dog eyes",
+        "Descartes animal minds",
+        "dog brain MRI"
+      ]
+    },
+    {
+      "start": "00:08:50",
+      "end": "00:11:10",
+      "kind": "content",
+      "title": "Horses and human communication",
+      "summary": "Horse trainer and neuroscientist Janet Jones's view that horses and humans communicate through body cues, with horses' wide visual range and prey origins; riders become a kind of super organism.",
+      "topics": [
+        "horse human communication",
+        "horse body language",
+        "Becoming a Centaur"
+      ]
+    },
+    {
+      "start": "00:11:10",
+      "end": "00:14:03",
+      "kind": "content",
+      "title": "Honeyguide birds and human calls",
+      "summary": "Jahua people in Mozambique and Hadza people in Tanzania use calls to attract honeyguide birds, which lead them to honey in a mutually beneficial relationship; the calls are passed down through generations.",
+      "topics": [
+        "honeyguide birds",
+        "Jahua people honey hunting",
+        "Hadza people",
+        "hunting calls"
+      ]
+    },
+    {
+      "start": "00:14:03",
+      "end": "00:16:28",
+      "kind": "content",
+      "title": "Bird song and recording",
+      "summary": "History of notating bird song and modern collections at Cornell, plus the Merlin bird identification app.",
+      "topics": [
+        "bird song",
+        "Merlin bird app",
+        "Cornell Lab of Ornithology"
+      ]
+    },
+    {
+      "start": "00:16:28",
+      "end": "00:18:15",
+      "kind": "content",
+      "title": "Seventies research on primate alarm calls",
+      "summary": "Seyfarth, Cheney and Marler found vervet monkeys in Kenya use different calls for eagles and snakes, prompting recognition that animal calls may carry meaning.",
+      "topics": [
+        "vervet monkeys alarm calls",
+        "primate communication research",
+        "1970s animal communication"
+      ]
+    },
+    {
+      "start": "00:18:15",
+      "end": "00:23:19",
+      "kind": "content",
+      "title": "Campbell's monkey suffixes and cross-species learning",
+      "summary": "Zuberbühler found Campbell's monkeys in Côte d'Ivoire combine alarm calls with suffixes that change meaning; other species nearby learn these calls, and Chuck compares it to pet food cues.",
+      "topics": [
+        "Campbell's monkeys suffixes",
+        "monkey grammar",
+        "interspecies communication"
+      ]
+    },
+    {
+      "start": "00:23:19",
+      "end": "00:26:11",
+      "kind": "content",
+      "title": "Prairie dog vocal language",
+      "summary": "Slobodchikoff's research on prairie dogs: distinct sounds describe predator type, size, color and speed, can combine them to describe new threats, and have a tonal language; they describe humans by features.",
+      "topics": [
+        "prairie dog language",
+        "prairie dog alarm calls",
+        "animal tonal language"
+      ]
+    },
+    {
+      "start": "00:26:11",
+      "end": "00:29:14",
+      "kind": "content",
+      "title": "Japanese tits, honeybees and learned versus innate communication",
+      "summary": "Japanese tits respond to word order of snake calls, showing grammar. Honeybee waggle dance is partly innate and partly learned, per a 2023 study; Carl von Frisch decoded it with a Nobel Prize in 1973.",
+      "topics": [
+        "Japanese tit grammar",
+        "honeybee waggle dance",
+        "innate vs learned animal communication",
+        "Carl von Frisch"
+      ]
+    },
+    {
+      "start": "00:29:14",
+      "end": "00:32:16",
+      "kind": "content",
+      "title": "Great ape gestures, dialects and naked mole rats",
+      "summary": "Great apes share similar gestures with regional variation, comparable to dialects; naked mole rats respond to colony-specific chirps. The come-here gesture may be ancient.",
+      "topics": [
+        "animal dialects",
+        "great ape gestures",
+        "naked mole rat",
+        "gesture communication"
+      ]
+    },
+    {
+      "start": "00:32:16",
+      "end": "00:32:38",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-episode break before the whale section.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:32:38",
+      "end": "00:35:09",
+      "kind": "content",
+      "title": "Roger Payne and humpback whale songs",
+      "summary": "Navy listening station recordings of whale song reached scientists, and Roger Payne's 1970 album Songs of the Humpback Whale helped fuel the Save the Whales movement. Chuck and Josh differ on listening to it.",
+      "topics": [
+        "humpback whale songs album",
+        "Roger Payne",
+        "Save the Whales movement",
+        "whale song recordings"
+      ]
+    },
+    {
+      "start": "00:35:09",
+      "end": "00:37:20",
+      "kind": "content",
+      "title": "Sperm whale clan codas and loudness",
+      "summary": "Sperm whale clans use distinct coda click patterns as identifiers, with clicks around 236 decibels. Josh's Don't Be Dumb reference.",
+      "topics": [
+        "sperm whale codas",
+        "whale clans",
+        "whale echolocation clicks"
+      ]
+    },
+    {
+      "start": "00:37:20",
+      "end": "00:39:28",
+      "kind": "content",
+      "title": "Orca and dolphin vocal learning",
+      "summary": "Orcas babble as calves and learn vocalizations until puberty; orcas eavesdrop on dolphins; bottlenose dolphins create individual signature whistles as names.",
+      "topics": [
+        "orca vocal learning",
+        "dolphin signature whistles",
+        "dolphin names"
+      ]
+    },
+    {
+      "start": "00:39:28",
+      "end": "00:42:04",
+      "kind": "content",
+      "title": "Brain spindle cells and empathy",
+      "summary": "Spindle cells in the anterior cingulate cortex and frontal insula support self-monitoring and empathy; sperm whales have more of them than humans, and great apes and other cetaceans also have them.",
+      "topics": [
+        "spindle cells",
+        "empathy in animals",
+        "anterior cingulate cortex",
+        "frontal insula"
+      ]
+    },
+    {
+      "start": "00:42:04",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Crows and AI as a translation tool",
+      "summary": "Crows have complex vocalizations beyond human listening ability; AI language models are being used to detect patterns in animal sounds, starting with Deep Squeak for rodents.",
+      "topics": [
+        "crow vocalizations",
+        "AI animal translation",
+        "Deep Squeak"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:47:53",
+      "kind": "content",
+      "title": "Project CETI and Earth Species Project",
+      "summary": "Project CETI listens to a sperm whale clan off Dominica with robotic fish and needs millions of recordings; Earth Species Project aims to map species languages and speak to animals. Hosts discuss implications for humanity and meat eating.",
+      "topics": [
+        "Project CETI",
+        "Earth Species Project",
+        "whale translation",
+        "AI animal language",
+        "ethics of animal communication"
+      ]
+    },
+    {
+      "start": "00:47:53",
+      "end": "00:50:18",
+      "kind": "content",
+      "title": "Whale conversation hopes and AI risks",
+      "summary": "Discussion of what humans and whales could talk about, shared concepts like grief and joy, and the risk that AI-whale conversations could be unintelligible.",
+      "topics": [
+        "whale conversation",
+        "shared concepts across species",
+        "AI risks"
+      ]
+    },
+    {
+      "start": "00:50:18",
+      "end": "00:53:25",
+      "kind": "listener_mail",
+      "title": "Listener mail: subject spreadsheet and Reese's email",
+      "summary": "Listener Robert Fiddler sent a spreadsheet grouping episodes into subjects. A listener named Reese, an eleven-year-old, wrote about a road trip to Australian Zoo and requested a voice from a past Halloween special.",
+      "topics": [
+        "listener mail",
+        "episode categories"
+      ]
+    },
+    {
+      "start": "00:53:25",
+      "end": "00:53:48",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give the email address and close the show.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19752,
+    "output_tokens": 4351
+  }
+}

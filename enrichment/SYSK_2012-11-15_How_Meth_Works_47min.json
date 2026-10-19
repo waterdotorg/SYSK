@@ -1,0 +1,293 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-11-15_How_Meth_Works_47min.txt",
+  "title": "How Meth Works",
+  "date": "2012-11-15",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-meth-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2c095e74-2cf9-435d-8f8b-ae2800a4469e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2c095e74-2cf9-435d-8f8b-ae2800a4469e/transcript?format=TextWithTimestamps&t=1700543912",
+  "summary": "Josh and Chuck explain methamphetamine (\"meth\"): street names, how long a high lasts, dopamine effects and addiction/withdrawal, methods of use, meth mouth and physical damage, psychosis, the history from ephedrine discovery and WWII military use (Germany's Pervitin, Allied dexedrine/benzedrine, Japanese military speed) through 1950s-60s diet pills and Jack Kerouac, government precursor controls (P2P, pseudoephedrine), Hell's Angels and the 1980s Mexican trafficking brothers, home and superlab production, the basic cooking process and toxic chemicals, blue \"smurf\" meth, meth lab cleanup, and US usage statistics. Also includes a Breaking Bad discussion, a mustache charity plug, a podcast plug, and listener mail about expungement and criminal records.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "meth",
+    "methamphetamine",
+    "crystal meth",
+    "meth addiction",
+    "dopamine and stimulants",
+    "meth mouth",
+    "meth history",
+    "World War II Nazi Pervitin",
+    "military speed amphetamines",
+    "benzedrine and dexedrine",
+    "Jack Kerouac benzedrine",
+    "pseudoephedrine",
+    "ephedrine",
+    "precursor chemical controls",
+    "P2P phenylacetone",
+    "Hell's Angels crank",
+    "Mexican meth cartels",
+    "superlabs",
+    "meth lab cleanup",
+    "blue meth",
+    "Breaking Bad",
+    "meth street names",
+    "meth stimulant abuse statistics",
+    "expungement and criminal records"
+  ],
+  "entities": [
+    {
+      "name": "Breaking Bad",
+      "type": "work"
+    },
+    {
+      "name": "Jesse Pinkman",
+      "type": "person"
+    },
+    {
+      "name": "Jack Kerouac",
+      "type": "person"
+    },
+    {
+      "name": "Hell's Angels",
+      "type": "organization"
+    },
+    {
+      "name": "Pervitin",
+      "type": "other"
+    },
+    {
+      "name": "Benzedrine",
+      "type": "other"
+    },
+    {
+      "name": "Dexedrine",
+      "type": "other"
+    },
+    {
+      "name": "Ephedrine",
+      "type": "other"
+    },
+    {
+      "name": "Pseudoephedrine",
+      "type": "other"
+    },
+    {
+      "name": "P2P",
+      "type": "other"
+    },
+    {
+      "name": "Drug Enforcement Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Nancy Reagan",
+      "type": "person"
+    },
+    {
+      "name": "Yuma, Arizona",
+      "type": "place"
+    },
+    {
+      "name": "Mexico",
+      "type": "place"
+    },
+    {
+      "name": "World War II",
+      "type": "event"
+    },
+    {
+      "name": "Stand Up Mixtape",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and mustache plug",
+      "summary": "Josh plugs his November mustache fundraiser for prostate cancer research. Hosts chat about watching Breaking Bad and introduce the episode on meth.",
+      "topics": [
+        "Breaking Bad",
+        "Movember fundraiser",
+        "meth introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Meth duration and street names",
+      "summary": "Meth highs can last three to twenty-four hours, longer with binge use. Street names discussed include crank, speed, chalk, ice, glass, crystal, tina, and tweak, with regional usage of tweak in Yuma, Arizona.",
+      "topics": [
+        "meth high duration",
+        "meth street names",
+        "tweak slang",
+        "binge use"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Pharmacology, dopamine, and addiction",
+      "summary": "Meth stimulates the central nervous system to release dopamine, producing euphoria and hyperactivity. Tolerance builds, and after quitting dopamine receptors are reduced, causing depression and craving. Dopamine levels reportedly recover over time, though some studies suggest effects may last after two years of abstinence.",
+      "topics": [
+        "dopamine",
+        "meth addiction",
+        "withdrawal and depression",
+        "stimulant tolerance"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Methods of use and meth mouth",
+      "summary": "The four common ways to take meth are snorting, smoking, injecting, and oral use. Smoking can cause meth mouth: decay, cracking, and tooth loss, attributed to chemicals, reduced blood flow, dry mouth, and teeth grinding. A sheriff's mug-shot before-and-after collection is mentioned.",
+      "topics": [
+        "meth mouth",
+        "routes of meth use",
+        "dental damage",
+        "meth mug shots"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Physical and psychological effects",
+      "summary": "Effects include a racing heart, sweating, talkativeness, and a feeling of superhuman intelligence. Users may fixate on repetitive tasks and develop skin lesions from scratching. Meth suppresses appetite, which made it a diet drug. Long-term use leads to psychosis, hallucinations, and violent behavior.",
+      "topics": [
+        "meth side effects",
+        "psychosis",
+        "meth and appetite",
+        "meth violence"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Meth-related crime stories",
+      "summary": "Hosts describe reported meth-fueled violence and attempts to cook meth inside Walmart stores in St. Louis and Ohio.",
+      "topics": [
+        "meth crime",
+        "Walmart meth cooking",
+        "meth psychosis violence"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Nazi military use and World War II speed",
+      "summary": "A rumor that the Nazis invented meth is false, but the German military gave troops large amounts of speed, including Pervitin, with reported tablet counts over a four-month period. The Allies used Dexedrine and Benzedrine, and Japan had its own military stimulants. A late-war Nazi combination pill of Pervitin, cocaine, and a painkiller reportedly never reached the street.",
+      "topics": [
+        "World War II",
+        "Pervitin",
+        "Nazi amphetamines",
+        "military speed",
+        "Allied stimulants"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Early history, ephedra, and postwar speed culture",
+      "summary": "Ephedrine was isolated in 1887 by a Japanese chemist and later converted to methamphetamine and crystal form. After the war, amphetamines became popular in the US for diet and mood, and Jack Kerouac's On the Road is linked to benzedrine use. Government control of speed followed.",
+      "topics": [
+        "ephedrine history",
+        "amphetamine history",
+        "Jack Kerouac",
+        "postwar amphetamine use",
+        "diet pills"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Hell's Angels, P2P, and precursor controls",
+      "summary": "Motorcycle gangs made crank from P2P until it was restricted, then switched to ephedrine and accidentally found a stronger product using a 1919 recipe. Government precursor controls and the DEA's temporary licensing system are discussed.",
+      "topics": [
+        "Hell's Angels",
+        "P2P precursor",
+        "ephedrine ban",
+        "precursor chemical controls",
+        "DEA licenses"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Mexican cartels, superlabs, and pseudoephedrine laws",
+      "summary": "Jesus and Luis Amezcua, Mexican brothers, imported ephedrine in the 1980s and came to dominate US meth supply. Mexico later banned pseudoephedrine imports, shifting production to smaller California labs. Behind-the-counter and prescription-only rules are discussed, along with production trends in Iran and Asia.",
+      "topics": [
+        "Amezcua brothers",
+        "Mexican cartels",
+        "superlabs",
+        "pseudoephedrine regulation",
+        "California meth production"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "How meth is made and its dangers",
+      "summary": "A general outline of the cooking process: extracting pseudoephedrine, reacting with red phosphorus and hydriodic acid, neutralizing, and producing crystals. The hosts note the process is dangerous, with explosive solvents, toxic byproducts, and many chemicals. Blue 'smurf' meth is discussed. Meth lab cleanup and house contamination are described.",
+      "topics": [
+        "meth production process",
+        "meth lab hazards",
+        "toxic chemicals",
+        "blue meth",
+        "meth lab cleanup"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Usage statistics and related episodes",
+      "summary": "Hosts discuss US and global meth use trends, with lifetime abuse rates among eighth, tenth, and twelfth graders. They mention prior drug-related episodes.",
+      "topics": [
+        "meth statistics",
+        "drug abuse trends",
+        "drug episodes"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:02:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on expungement",
+      "summary": "Listener Asher, a former prosecutor, clarifies that expunged records remain available to law enforcement and that traffic offenses can appear on criminal records.",
+      "topics": [
+        "expungement",
+        "criminal records",
+        "traffic offenses"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:03:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts plug a comedy podcast and sign off, inviting listeners to send corrections and feedback.",
+      "topics": [
+        "podcast sign-off",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15490,
+    "output_tokens": 3437
+  }
+}

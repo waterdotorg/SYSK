@@ -1,0 +1,229 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-03-30_What_the_heck_is_a_hiccup_24min.txt",
+  "title": "What the heck is a hiccup?",
+  "date": "2010-03-30",
+  "duration": "24 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-the-heck-is-a-hiccup",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/aaef2d91-4f67-45bd-9379-ae2800b8d489/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/aaef2d91-4f67-45bd-9379-ae2800b8d489/transcript?format=TextWithTimestamps&t=1700543967",
+  "summary": "Josh and Chuck explore hiccups: Chuck attempts to induce hiccups by chugging a Barq's root beer, then listener Jess's question about personal hiccup patterns. They cover intractable and persistent hiccups, theories on why humans hiccup (Galen's angry-emotions idea, a 2003 amphibian gill-ventilation/relic theory, the fetal recapitulation theory, premature babies hiccupping more), the physiology involving the phrenic nerve, diaphragm and epiglottis, common triggers (overeating, spicy food, smoking, alcohol, temperature changes, stress), medical treatments (chlorpromazine, medical marijuana, surgery, stomach emptying), folk cures and why they may work (interrupting the respiratory cycle, stimulating the nasopharynx, distraction), record-long hiccup cases such as Charles Osborne, Jennifer Mee and others, and a listener email from an Australian fan.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "hiccups",
+    "why do we hiccup",
+    "hiccup causes",
+    "intractable hiccups",
+    "persistent hiccups",
+    "phrenic nerve",
+    "diaphragm",
+    "epiglottis",
+    "hiccup cures",
+    "home remedies for hiccups",
+    "hiccup physiology",
+    "recapitulation theory",
+    "amphibian gill ventilation hypothesis",
+    "Charles Osborne hiccups",
+    "Jennifer Mee hiccups",
+    "chlorpromazine hiccups",
+    "medical marijuana hiccups",
+    "premature babies hiccups",
+    "Galen hiccups theory",
+    "nasopharynx stimulation",
+    "carbonated drinks and hiccups",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Charles Osborne",
+      "type": "person"
+    },
+    {
+      "name": "Jennifer Mee",
+      "type": "person"
+    },
+    {
+      "name": "Jamie",
+      "type": "person"
+    },
+    {
+      "name": "David Willis",
+      "type": "person"
+    },
+    {
+      "name": "Galen",
+      "type": "person"
+    },
+    {
+      "name": "Wayne Coyne",
+      "type": "person"
+    },
+    {
+      "name": "Flaming Lips",
+      "type": "organization"
+    },
+    {
+      "name": "Salpêtrière Hospital",
+      "type": "organization"
+    },
+    {
+      "name": "Guinness Book of World Records",
+      "type": "work"
+    },
+    {
+      "name": "Today",
+      "type": "work"
+    },
+    {
+      "name": "phrenic nerve",
+      "type": "other"
+    },
+    {
+      "name": "diaphragm",
+      "type": "other"
+    },
+    {
+      "name": "epiglottis",
+      "type": "other"
+    },
+    {
+      "name": "chlorpromazine",
+      "type": "other"
+    },
+    {
+      "name": "Barq's root beer",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and root beer hiccup attempt",
+      "summary": "Hosts introduce the episode on hiccups. Chuck attempts to give himself hiccups by chugging a root beer, without success.",
+      "topics": [
+        "hiccups",
+        "carbonated drinks and hiccups"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:00",
+      "kind": "listener_mail",
+      "title": "Listener question on hiccup patterns",
+      "summary": "Listener Jess asks about hiccups. The hosts mention that people may have a personal hiccup pattern, that hiccup spells usually last minutes to hours, and that Chuck and Josh have their own cures.",
+      "topics": [
+        "hiccup patterns",
+        "hiccups"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Intractable and persistent hiccups",
+      "summary": "Hiccups lasting over 48 hours are called persistent, and those lasting over a month are intractable; intractable hiccups are prevalent among AIDS patients. A Spanish patient reportedly had his hiccups cured by marijuana, which returned 24 hours later.",
+      "topics": [
+        "intractable hiccups",
+        "persistent hiccups",
+        "medical marijuana hiccups"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Theories on why we hiccup",
+      "summary": "No one knows why humans hiccup. Galen proposed angry emotions from the stomach; researchers at Salpêtrière Hospital in 2003 proposed hiccups are a relic of amphibian gill ventilation; the recapitulation theory suggests fetuses use hiccups before lungs develop. Premature babies hiccup more, and hormones may play a role.",
+      "topics": [
+        "why do we hiccup",
+        "Galen hiccups theory",
+        "amphibian gill ventilation hypothesis",
+        "recapitulation theory",
+        "premature babies hiccups",
+        "hormones and hiccups"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Physiology of a hiccup",
+      "summary": "The phrenic nerve controls the diaphragm; irritation causes diaphragm spasms producing a quick breath, and the epiglottis closing produces the hiccup sound. The vagus nerve can also be involved. The breathing path is described.",
+      "topics": [
+        "phrenic nerve",
+        "diaphragm",
+        "epiglottis",
+        "hiccup physiology"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Triggers of hiccups",
+      "summary": "Causes include overeating, spicy or hot food, smoking and excessive drinking, rapid temperature changes in the stomach, and stress, emotion, and possibly mental illness. Chlorpromazine, an antipsychotic, can cure long-term hiccups.",
+      "topics": [
+        "hiccup causes",
+        "hiccup triggers",
+        "chlorpromazine hiccups",
+        "stress and hiccups"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Josh's hiccup story and Flaming Lips",
+      "summary": "Josh recounts having hiccups for about six hours after drinking at a Flaming Lips show in Athens. Wayne Coyne's reaction is joked about.",
+      "topics": [
+        "hiccup anecdote",
+        "Flaming Lips"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Home remedies and medical treatments",
+      "summary": "Mental distraction and home remedies such as drinking from the far side of a glass, biting a lemon, tongue-pulling, and tickling the roof of the mouth work by stimulating the nasopharynx. Breathing tricks like the paper bag or holding breath interrupt the respiratory cycle. Medical options include seeing a doctor after 48 hours, neck massage, carotid pressure, surgery to disconnect the phrenic nerve, and stomach emptying by tube. Warnings are given against pressing the eyeball.",
+      "topics": [
+        "hiccup cures",
+        "home remedies for hiccups",
+        "nasopharynx stimulation",
+        "medical treatments for hiccups",
+        "phrenic nerve surgery"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Record and long-lasting hiccup cases",
+      "summary": "Charles Osborne reportedly hiccupped from 1922 to 1990 (about 430 million hiccups, per Guinness). Jennifer Mee hiccupped for five weeks in 2007. Jamie hiccupped for eight months, and David Willis had two unsuccessful surgeries for a five-year bout.",
+      "topics": [
+        "Charles Osborne hiccups",
+        "Jennifer Mee hiccups",
+        "longest hiccups",
+        "hiccup record"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:24:00",
+      "kind": "listener_mail",
+      "title": "Listener email from a fan in Australia",
+      "summary": "A listener from Wagga Wagga, Australia, now in Sydney, writes a playful email about the hosts' selection preferences and his desire to be read on air.",
+      "topics": [
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9195,
+    "output_tokens": 2787
+  }
+}

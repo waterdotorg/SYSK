@@ -1,0 +1,242 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-06-11_How_Carbon_Capture_and_Storage_Works_30min.txt",
+  "title": "How Carbon Capture and Storage Works",
+  "date": "2009-06-11",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-carbon-capture-and-storage-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18f30e37-cc44-4036-9734-ae2800be7f36/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/18f30e37-cc44-4036-9734-ae2800be7f36/transcript?format=TextWithTimestamps&t=1700543985",
+  "summary": "Josh Clark and Chuck Bryant revisit carbon capture and storage (CCS), noting they covered it in an earlier short episode. They discuss the greenhouse effect and rising CO2 emissions since 1972, the three capture methods (post-combustion, pre-combustion, oxyfuel), the oil industry's use of CO2 for enhanced oil recovery, CO2 pipelines and their safety record, transport as gas, liquid or solid, underground storage in basalt and other formations, and ocean storage concerns including carbon sinks and ocean acidification. They also mention a sodium-hydroxide/baking-soda idea attributed to a company called Skymine. The episode closes with a plug for their spoken-word audio book on economics and a listener email from Hannah of Tennessee, who was struck by a side strike of lightning.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "carbon capture and storage",
+    "CCS",
+    "carbon sequestration",
+    "greenhouse effect",
+    "carbon dioxide emissions",
+    "post-combustion capture",
+    "pre-combustion capture",
+    "oxyfuel combustion",
+    "enhanced oil recovery",
+    "CO2 pipelines",
+    "pipeline safety",
+    "underground carbon storage",
+    "basalt storage",
+    "ocean carbon storage",
+    "carbon sink",
+    "ocean acidification",
+    "baking soda carbon capture",
+    "Skymine",
+    "lightning strike",
+    "side strike",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Southern Company",
+      "type": "organization"
+    },
+    {
+      "name": "Juliette, Georgia",
+      "type": "place"
+    },
+    {
+      "name": "Norway",
+      "type": "place"
+    },
+    {
+      "name": "Brazil",
+      "type": "place"
+    },
+    {
+      "name": "Skymine",
+      "type": "organization"
+    },
+    {
+      "name": "Debbie Ranka",
+      "type": "person"
+    },
+    {
+      "name": "Hannah of Tennessee",
+      "type": "person"
+    },
+    {
+      "name": "Water World",
+      "type": "work"
+    },
+    {
+      "name": "Green Peace",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and rerun note",
+      "summary": "Hosts joke about jute rugs and Berber, then say they are revisiting carbon capture and storage, which they covered in an earlier short episode that did not do it justice.",
+      "topics": [
+        "podcast intro",
+        "carbon capture and storage",
+        "earlier episode"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Greenhouse effect and rising CO2 emissions",
+      "summary": "The hosts explain that the greenhouse effect keeps Earth warm (without it, about minus 22 F), but excess trapped heat is a problem. Greenhouse gas emissions rose from 1972 to 2004, and carbon dioxide roughly doubled in that period.",
+      "topics": [
+        "greenhouse effect",
+        "carbon dioxide emissions",
+        "greenhouse gases",
+        "anthropogenic emissions"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "CCS basics and enhanced oil recovery",
+      "summary": "CCS is defined as capture, separation and transport for storage. The oil and gas industry has used pumped CO2 for decades to repressurize depleted reservoirs and enhance oil recovery, and existing pipelines are already in place.",
+      "topics": [
+        "carbon capture and storage",
+        "enhanced oil recovery",
+        "CO2 pipelines"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Three capture methods: post-combustion, pre-combustion, oxyfuel",
+      "summary": "Post-combustion captures CO2 from flue gas at a power plant, using compounds such as a silica-based material. Pre-combustion captures CO2 before fuel is burned, producing hydrogen and CO2 and using amine to hold the CO2. Post-combustion can be retrofitted to old plants, while pre-combustion generally requires new plants. Oxyfuel burns fuel in oxygen, producing steam and CO2 that are separated by cooling and compression.",
+      "topics": [
+        "post-combustion capture",
+        "pre-combustion capture",
+        "oxyfuel combustion",
+        "flue gas",
+        "amine",
+        "power plant emissions",
+        "retrofit"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Large emitters and power plant CO2",
+      "summary": "Power plants are the main focus of capture. The hosts cite a Southern Company plant in Juliette, Georgia, said to emit more CO2 than all of Brazil's power infrastructure, and compare this to the size of Vatican City.",
+      "topics": [
+        "power plant emissions",
+        "Juliette Georgia plant",
+        "Brazil energy",
+        "Vatican City"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "CO2 transport and pipeline safety",
+      "summary": "CO2 can be transported as gas, liquid or solid, with gas being most efficient and solid being costly. Pipeline records show only twelve CO2 pipeline leaks from 1996 to 2006 with no injuries, compared with over five thousand accidents and 107 fatalities for liquid petroleum pipelines. Listener Debbie Ranka wrote a related piece.",
+      "topics": [
+        "CO2 transport",
+        "pipeline safety",
+        "pipeline accidents",
+        "compressors",
+        "Debbie Ranka"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Underground storage in basalt and risks",
+      "summary": "Underground storage is preferred over ocean storage. The planet is estimated to hold up to ten trillion tons of CO2 underground, about a hundred years of human emissions. CO2 seeps into porous rock, and basalt converts to limestone when injected. The hosts voice caution about unknown long-term effects. The oldest CO2 storage site is under the seafloor in Norway, about thirteen years old.",
+      "topics": [
+        "underground storage",
+        "basalt",
+        "limestone mineralization",
+        "Norway storage site",
+        "storage capacity",
+        "long-term risks"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Ocean storage, carbon sinks and baking soda idea",
+      "summary": "Ocean storage involves liquefied CO2 pumped into large bags on the abyssal plain, which can hold only a day or ten days of captured carbon. The hosts strongly oppose it, and note Greenpeace's objections. They also describe the ocean as an existing carbon sink where Southern Ocean acidification harms marine life. Skymine's process reacting CO2 with salt, water and sodium hydroxide to form baking soda is discussed.",
+      "topics": [
+        "ocean carbon storage",
+        "carbon sink",
+        "ocean acidification",
+        "Southern Ocean",
+        "Skymine",
+        "baking soda",
+        "Greenpeace"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Closing thoughts on CCS and fossil fuels",
+      "summary": "The hosts argue that carbon capture may distract from harder choices such as electric cars, solar power and biofuels. They end the discussion with jokes about a future CO2 eruption.",
+      "topics": [
+        "carbon capture debate",
+        "fossil fuels",
+        "electric cars",
+        "renewable energy",
+        "biofuels"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "ad",
+      "title": "Audio book plug",
+      "summary": "Chuck plugs the Stuff You Should Know spoken-word audio book on economics, available in the iTunes store.",
+      "topics": [
+        "audio book",
+        "economics"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Hannah of Tennessee's lightning side strike",
+      "summary": "Listener Hannah describes being struck by a side strike of lightning about half a block away, which left her blinded, deafened and rooted in place, and singed her dog Pucci. Both were checked and reported fine.",
+      "topics": [
+        "lightning strike",
+        "side strike",
+        "lightning injuries",
+        "listener mail",
+        "spontaneous human combustion"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:54:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to send true stories by email and sign off.",
+      "topics": [
+        "sign-off",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11492,
+    "output_tokens": 2970
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-07-14_Why_Bowling_is_Awesome_60min.txt",
+  "title": "Why Bowling is Awesome",
+  "date": "2022-07-14",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-bowling-is-awesome",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e008d61e-0655-4c99-93bc-aed2010fadd2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e008d61e-0655-4c99-93bc-aed2010fadd2/transcript?format=TextWithTimestamps&t=1700553441",
+  "summary": "Josh and Chuck explain ten-pin bowling, a listener-suggested topic from Mark Bowles. They cover the basics of the game and frame scoring (strikes, spares, the perfect 300 game), the history of bowling balls from lignum wood through rubber, mineralite, plastic, and reactive resin, and how the 1990s ball changes sharply raised perfect-game counts. They discuss pins, lanes and lane oil patterns, bowling shoes, and the history of the automatic pin setter from pin boys through the American Machine and Foundry (AMF) machine, including how it works. The episode also covers bowling's history from ancient and medieval roots and the ten-pin origin rumor, the ABC, action bowling, and Don Carter's million-dollar contract, plus the decline and recent comeback of bowling, the seven-ten split, and a listener pronunciation tip about English county names ending in -shire.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ten-pin bowling",
+    "bowling history",
+    "bowling scoring",
+    "strike",
+    "spare",
+    "perfect game",
+    "bowling balls",
+    "reactive resin bowling ball",
+    "mineralite bowling ball",
+    "bowling lanes",
+    "lane oil patterns",
+    "automatic pin setter",
+    "American Machine and Foundry",
+    "AMF pin setter",
+    "magic triangle",
+    "pin boys",
+    "bowling shoes",
+    "seven-ten split",
+    "action bowling",
+    "Don Carter million dollar contract",
+    "bowling decline and comeback",
+    "Pete Webber",
+    "Camper Van Beethoven",
+    "pronunciation tip -shire"
+  ],
+  "entities": [
+    {
+      "name": "Mark Bowles",
+      "type": "person"
+    },
+    {
+      "name": "Ed Grabinowski",
+      "type": "person"
+    },
+    {
+      "name": "Fred Schmidt",
+      "type": "person"
+    },
+    {
+      "name": "Don Carter",
+      "type": "person"
+    },
+    {
+      "name": "Harry Smith",
+      "type": "person"
+    },
+    {
+      "name": "Pete Webber",
+      "type": "person"
+    },
+    {
+      "name": "Dick Webber",
+      "type": "person"
+    },
+    {
+      "name": "Anthony Newer",
+      "type": "person"
+    },
+    {
+      "name": "Matt Boland",
+      "type": "person"
+    },
+    {
+      "name": "Joe Thum",
+      "type": "person"
+    },
+    {
+      "name": "American Machine and Foundry Company",
+      "type": "organization"
+    },
+    {
+      "name": "USBC",
+      "type": "organization"
+    },
+    {
+      "name": "American Bowling Congress",
+      "type": "organization"
+    },
+    {
+      "name": "Professional Bowlers Association",
+      "type": "organization"
+    },
+    {
+      "name": "Lucky Strike",
+      "type": "organization"
+    },
+    {
+      "name": "Highland Park Bowl",
+      "type": "place"
+    },
+    {
+      "name": "Shelby, Ohio",
+      "type": "place"
+    },
+    {
+      "name": "Kingpin",
+      "type": "work"
+    },
+    {
+      "name": "Jobs of Bygone Eras",
+      "type": "work"
+    },
+    {
+      "name": "Take the Skinheads Bowling",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and listener suggestion",
+      "summary": "Josh and Chuck joke about doctors' names and introduce the topic, a listener suggestion from Mark Bowles about bowling's backstory.",
+      "topics": [
+        "listener suggestion",
+        "bowling introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Describing ten-pin bowling",
+      "summary": "The hosts describe ten-pin bowling as an American invention, with pin arrangement, lane dimensions, the foul line, gutters, and the pocket. They also discuss personal bowling experiences.",
+      "topics": [
+        "ten-pin bowling",
+        "bowling lane dimensions",
+        "foul line",
+        "gutters",
+        "headpin pocket"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Bowling scoring: strikes, spares, and perfect games",
+      "summary": "The hosts explain frame structure, strikes and spares with bonus points, the tenth frame, and the 300 perfect game. They note that computerized scoring has changed how people understand the game.",
+      "topics": [
+        "bowling scoring",
+        "strike",
+        "spare",
+        "perfect game",
+        "turkey",
+        "tenth frame"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:14:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Brief break before the next section on bowling gear.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "History of bowling balls",
+      "summary": "Early balls were made of lignum vitae wood. Rubber balls followed, then the mineralite process from the 1910s. Later balls used plastic, polyurethane, and resin. The reactive resin cover of the 1990s changed the game, and perfect games jumped from 905 in the 1969 season to 34,470 thirty years later. Regulation size and weight limits are covered.",
+      "topics": [
+        "bowling balls",
+        "lignum vitae",
+        "mineralite bowling ball",
+        "reactive resin",
+        "polyurethane",
+        "perfect game increase",
+        "regulation bowling ball"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Pins, lanes, and lane construction",
+      "summary": "Pins were once solid maple and have been glued in sections since the 1950s. Lanes were originally built from pine and maple boards and are now synthetic, reportedly made from phenolic resin.",
+      "topics": [
+        "bowling pins",
+        "bowling lane construction",
+        "maple and pine lanes",
+        "synthetic bowling lanes"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Lane oil patterns",
+      "summary": "Lanes are coated in mineral oil in patterns. House oil is forgiving for amateurs, while PBA patterns, often named after animals or past bowlers, are harder. A Chris Paul pattern is mentioned.",
+      "topics": [
+        "lane oil",
+        "oil patterns",
+        "house oil",
+        "PBA oil patterns",
+        "Chris Paul"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Bowling shoes and other equipment",
+      "summary": "Rental bowling shoes are described as slip-and-grip shoes that are ugly and uncomfortable. Other gear includes wrist braces and rosin bags, and the ball-return air blowers are mentioned.",
+      "topics": [
+        "bowling shoes",
+        "rental shoes",
+        "wrist brace",
+        "rosin bag"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "History of pin boys and early pin machines",
+      "summary": "Human pin boys set and cleared pins by hand. Later mechanical helpers were used. Fred Schmidt's automatic pin setter was bought by AMF in 1941, and AMF built about 40,000 machines in the 1950s. This was called rhythm bowling.",
+      "topics": [
+        "pin boys",
+        "pin monkeys",
+        "automatic pin setter history",
+        "Fred Schmidt",
+        "American Machine and Foundry",
+        "rhythm bowling"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "How the automatic pin setter works",
+      "summary": "The sensors, backstop, sweep, conveyor, accelerator and ball return, spotting tongs, pin elevator with buckets, and centering wedges are described in order. The hosts recommend online animations and live-action videos.",
+      "topics": [
+        "automatic pin setter mechanics",
+        "pin elevator",
+        "spotting tongs",
+        "ball return",
+        "sweep",
+        "magic triangle"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Bowling origins and early history",
+      "summary": "Bowling-like games may be ancient, with possible Egyptian and medieval lawn bowling roots and German religious roots. Ten-pin's origin is uncertain, and a rumor says the tenth pin was added to avoid nine-pin gambling bans. The ABC was formed under Joe Thum.",
+      "topics": [
+        "bowling origins",
+        "nine-pin bowling",
+        "ten-pin origin rumor",
+        "American Bowling Congress",
+        "Joe Thum"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Bowling's popularity, money, and decline",
+      "summary": "Action bowling in New York involved gambling and the Mafia. Don Carter got a million-dollar contract in 1964. The PBA was bought in 2000 for five million dollars. Bowling alleys and regular bowlers declined sharply, and a comeback is starting.",
+      "topics": [
+        "action bowling",
+        "Don Carter",
+        "bowling popularity",
+        "PBA purchase",
+        "bowling decline",
+        "bowling comeback"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "00:59:00",
+      "kind": "content",
+      "title": "Seven-ten split and closing",
+      "summary": "The seven-ten split is rare, reportedly done only four times on televised pro tournaments. Anthony Newer is mentioned as the most recent bowler to convert it. The episode closes with the hosts' plans to go bowling again.",
+      "topics": [
+        "seven-ten split",
+        "Anthony Newer",
+        "bowling closing"
+      ]
+    },
+    {
+      "start": "00:59:00",
+      "end": "01:00:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: pronouncing -shire",
+      "summary": "Teresa from Melbourne, Australia, explains that county names ending in -shire rhyme with 'beer' when used as a suffix, using Worcestershire and Oxfordshire as examples.",
+      "topics": [
+        "listener mail",
+        "pronunciation",
+        "English county names",
+        "-shire"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19758,
+    "output_tokens": 3400
+  }
+}

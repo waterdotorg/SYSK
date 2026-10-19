@@ -1,0 +1,244 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-09-27_Seriously_What_Is_Dark_Matter_43min.txt",
+  "title": "Seriously, What Is Dark Matter?",
+  "date": "2018-09-27",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/seriously-what-is-dark-matter",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1eb50a6d-51cb-4f10-b433-ae28005bdb15/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1eb50a6d-51cb-4f10-b433-ae28005bdb15/transcript?format=TextWithTimestamps&t=1700543725",
+  "summary": "Josh and Chuck explain dark matter: the mass of galaxies and galaxy clusters appears far greater than the visible (baryonic) matter they contain, first noticed through stellar rotation speeds that contradict Newtonian expectations. The episode covers Jan Oort's 1932 coinage of the term, the galactic cluster hot gas finding, gravitational lensing (Einstein rings and crosses), computer simulations of a dark matter web, observational mapping (the bullet-like cluster from Chandra data in 2011 and the CFHT survey in 2012), candidate explanations (MACHOs, WIMPs, the WIMP miracle, the strong force candidate), MOND and its critics, Dragan Hajdukovic's gravitational dipole idea, and the critical density and possible fates of the universe. The episode opens with a short-stuff announcement and closes with listener mail about a game show movie and an upcoming End of the World series.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "dark matter",
+    "baryonic matter",
+    "dark energy",
+    "galaxy rotation curves",
+    "Newton's second law of motion",
+    "galactic clusters",
+    "gravitational lensing",
+    "Einstein ring",
+    "Einstein cross",
+    "Chandra X-ray observatory",
+    "bullet cluster",
+    "Canada-France-Hawaii Telescope survey",
+    "cosmic web simulation",
+    "MACHOs",
+    "WIMPs",
+    "WIMP miracle",
+    "strong nuclear force dark matter",
+    "MOND modified Newtonian dynamics",
+    "gravitational dipoles antimatter",
+    "critical density",
+    "open universe",
+    "closed universe big crunch",
+    "heat death of the universe",
+    "Big Bang expansion",
+    "cosmology",
+    "astrophysics"
+  ],
+  "entities": [
+    {
+      "name": "Jan Oort",
+      "type": "person"
+    },
+    {
+      "name": "Isaac Newton",
+      "type": "person"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "Mordehai Milgrom",
+      "type": "person"
+    },
+    {
+      "name": "Dragan Hajdukovic",
+      "type": "person"
+    },
+    {
+      "name": "Chandra X-ray Observatory",
+      "type": "organization"
+    },
+    {
+      "name": "Canada-France-Hawaii Telescope",
+      "type": "organization"
+    },
+    {
+      "name": "CERN",
+      "type": "organization"
+    },
+    {
+      "name": "Bullet cluster",
+      "type": "place"
+    },
+    {
+      "name": "The End of the World",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and short stuff announcement",
+      "summary": "The hosts joke about physics and announce a new short-form spin-off feed called Short Stuff, about ten to fifteen minutes per episode.",
+      "topics": [
+        "Short Stuff podcast",
+        "show announcement"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Mass of the universe and the dark matter problem",
+      "summary": "Astronomers aim to measure the mass of the universe. Visible matter seems too small for the mass implied by galaxies and clusters, creating a cosmological mystery. Jan Oort first used the term dark matter in 1932 as a placeholder for invisible mass.",
+      "topics": [
+        "dark matter",
+        "baryonic matter",
+        "mass of the universe",
+        "Jan Oort",
+        "luminosity and stellar mass"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Galaxy rotation curves and Newton's second law",
+      "summary": "Using Newtonian reasoning, outer stars should orbit more slowly than inner ones. Observations in the 1950s and 1960s showed outer stars and outer galaxies in clusters orbit as fast as inner ones, implying missing mass.",
+      "topics": [
+        "galaxy rotation curves",
+        "Newton's second law",
+        "stellar rotation velocity",
+        "galactic clusters",
+        "missing mass"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Hot gas clouds and gravitational lensing",
+      "summary": "Hot gas in galaxy clusters accounts for only part of the missing mass. Massive clusters bend light, producing Einstein rings, Einstein crosses, and arcs, which allow mass estimates that conflict with luminosity-based estimates by large factors.",
+      "topics": [
+        "hot gas in galaxy clusters",
+        "gravitational lensing",
+        "Einstein ring",
+        "Einstein cross",
+        "spacetime distortion"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Computer simulations and mapping dark matter",
+      "summary": "Computer models of baryonic and dark matter produced a web-like structure. Teams later mapped dark matter directly, including a 2011 Chandra X-ray study of a football-shaped cluster and a 2012 CFHT survey of ten million galaxies.",
+      "topics": [
+        "cosmic web simulation",
+        "dark matter mapping",
+        "Chandra X-ray observatory",
+        "bullet cluster",
+        "Canada-France-Hawaii Telescope survey"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:24:45",
+      "kind": "content",
+      "title": "Break before candidate explanations",
+      "summary": "The hosts take a short break before discussing what dark matter might be.",
+      "topics": [
+        "transition"
+      ]
+    },
+    {
+      "start": "00:24:45",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Candidate explanations: MACHOs, WIMPs, and modified gravity",
+      "summary": "Explanations include MACHOs (dim massive objects such as neutron stars, black holes, and brown dwarfs), and hypothetical WIMPs that interact only weakly and gravitationally, with the WIMP miracle and a shift toward strong-force candidates. Mordehai Milgrom's MOND modifies Newton's law at low accelerations and drew criticism, and a 2007 study found Newton's law held at very low accelerations.",
+      "topics": [
+        "MACHOs",
+        "WIMPs",
+        "WIMP miracle",
+        "strong nuclear force",
+        "MOND",
+        "modified gravity",
+        "Newton's second law tests"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Gravitational dipoles and antimatter gravity",
+      "summary": "Dragan Hajdukovic proposes that particles and antiparticles carry opposite gravitational charges, forming gravitational dipoles that could strengthen gravity in place of dark matter. The hosts note antimatter would then fall upward.",
+      "topics": [
+        "gravitational dipoles",
+        "antimatter gravity",
+        "Hajdukovic",
+        "alternative dark matter theories"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Critical density and the fate of the universe",
+      "summary": "The critical density of about 10^-29 grams per cubic centimeter determines whether the universe expands forever, slows and recollapses in a big crunch, or coasts. Knowing total matter, including dark matter, is needed to predict the universe's end.",
+      "topics": [
+        "critical density",
+        "big crunch",
+        "heat death of the universe",
+        "open universe",
+        "flat universe",
+        "universe expansion"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Dark energy teaser and upcoming series",
+      "summary": "The hosts decline to cover dark energy in this episode and mention Josh's upcoming series The End of the World.",
+      "topics": [
+        "dark energy",
+        "The End of the World series"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:43:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: game show movie coincidence",
+      "summary": "Kristen writes that she and her fiancé watched Quiz Show the day after hearing the episode on rigged 1950s game shows, and thanks the hosts for their podcast.",
+      "topics": [
+        "listener mail",
+        "quiz show",
+        "rigged game shows"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:43:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts give contact information and sign off.",
+      "topics": [
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13862,
+    "output_tokens": 2860
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-03-17_How_Anesthesia_Works_52min.txt",
+  "title": "How Anesthesia Works",
+  "date": "2015-03-17",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-anesthesia-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0db3fdda-70e3-4f3d-a36a-ae2800900bd1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0db3fdda-70e3-4f3d-a36a-ae2800900bd1/transcript?format=TextWithTimestamps&t=1700543865",
+  "summary": "Josh Clark and Chuck Bryant explore the history and practice of anesthesia. They open with spelling and definition banter, then cover pre-anesthesia methods (alcohol, opium, blood loss, distractions), the 1840s discovery of ether, chloroform and nitrous oxide, and the slow medical adoption of anesthesia. They describe types of anesthesia: twilight sedation, local anesthesia (including how novocaine/lidocaine and epinephrine work), regional anesthesia and nerve blocks, epidurals and spinal blocks, and general anesthesia, including its theorized mechanisms, the four stages, pre-op evaluation, and drugs like propofol. They discuss anesthesiologist and nurse anesthetist training, anesthesia awareness (including the Sherman Sizemore case and rates of about two per thousand), and anesthesia-related death rates. The episode closes with a listener mail about intuition and ESP from a listener named Joy.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "anesthesia",
+    "general anesthesia",
+    "local anesthesia",
+    "twilight sedation",
+    "twilight sleep",
+    "regional anesthesia",
+    "nerve block",
+    "epidural",
+    "spinal block",
+    "anesthesia awareness",
+    "history of anesthesia",
+    "ether",
+    "chloroform",
+    "nitrous oxide",
+    "Crawford Long",
+    "William Morton",
+    "Horace Wells",
+    "novocaine",
+    "lidocaine",
+    "epinephrine",
+    "propofol",
+    "anesthesiologist",
+    "nurse anesthetist",
+    "anesthesia death rate",
+    "four stages of general anesthesia",
+    "pre-operative fasting",
+    "awake brain surgery",
+    "medical history of surgery",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Crawford Long",
+      "type": "person"
+    },
+    {
+      "name": "William Morton",
+      "type": "person"
+    },
+    {
+      "name": "Horace Wells",
+      "type": "person"
+    },
+    {
+      "name": "Humphry Davy",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Priestley",
+      "type": "person"
+    },
+    {
+      "name": "James Simpson",
+      "type": "person"
+    },
+    {
+      "name": "Charles Jackson",
+      "type": "person"
+    },
+    {
+      "name": "Sherman Sizemore Jr.",
+      "type": "person"
+    },
+    {
+      "name": "Michael Jackson",
+      "type": "person"
+    },
+    {
+      "name": "ether",
+      "type": "other"
+    },
+    {
+      "name": "chloroform",
+      "type": "other"
+    },
+    {
+      "name": "nitrous oxide",
+      "type": "other"
+    },
+    {
+      "name": "novocaine",
+      "type": "other"
+    },
+    {
+      "name": "lidocaine",
+      "type": "other"
+    },
+    {
+      "name": "propofol",
+      "type": "other"
+    },
+    {
+      "name": "ketamine",
+      "type": "other"
+    },
+    {
+      "name": "anesthesia awareness",
+      "type": "event"
+    },
+    {
+      "name": "Atlantic article 'Awakening' by Joshua Lang",
+      "type": "work"
+    },
+    {
+      "name": "Deutsches Ärzteblatt",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and definition of anesthesia",
+      "summary": "Hosts joke about a hardware store errand and spelling of anesthesia, then Chuck gives the Greek-derived meaning (loss of sensation). They note general anesthesia is scary and that the medical mechanism is not fully understood.",
+      "topics": [
+        "anesthesia definition",
+        "anesthesia spelling",
+        "general anesthesia"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Pre-anesthesia pain methods",
+      "summary": "Before modern anesthesia, patients were given alcohol, opium, marijuana, nettles, blood loss, or knocked unconscious. These distracted or dulled pain but were not true anesthesia. Modern anesthesia removes consciousness and memory as well.",
+      "topics": [
+        "history of surgery without anesthesia",
+        "pre-anesthesia pain relief",
+        "opium and alcohol surgery"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "1840s discovery of ether and early anesthetics",
+      "summary": "Crawford Long used ether in surgery in 1842 but was regional and low-profile. William Morton publicly demonstrated ether in 1846 and gained the credit. Horace Wells used nitrous oxide on a tooth and failed; he later took chloroform, threw acid on women, and died by self-inflicted wound while anesthetized. Humphry Davy's earlier nitrous oxide experiments are mentioned.",
+      "topics": [
+        "Crawford Long ether",
+        "William Morton ether demonstration",
+        "Horace Wells nitrous oxide",
+        "Humphry Davy nitrous oxide",
+        "chloroform history",
+        "early anesthesia history"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Slow adoption of anesthesia",
+      "summary": "Anesthesia took about fifty years to be widely adopted by the medical establishment. Pain was seen as a sign of being alive and a macho element, and there was reluctance to highlight how painful surgery was. Early dosing was trial and error, with accidental overdoses in procedures such as castration and circumcision.",
+      "topics": [
+        "adoption of anesthesia",
+        "early anesthesia dosing",
+        "castration history"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the discussion of anesthesia types.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Twilight sedation",
+      "summary": "Twilight sleep or conscious sedation is used for procedures like wisdom teeth removal and endoscopy. Patients are sedated with drugs such as ketamine, valium or Ativan, a dissociative, and an analgesic, but can still breathe on their own and follow instructions, often without remembering it.",
+      "topics": [
+        "twilight sedation",
+        "conscious sedation",
+        "procedural sedation",
+        "ketamine sedation",
+        "wisdom teeth removal"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Local anesthesia and how it works",
+      "summary": "Local anesthesia numbs a small area by blocking nerve signaling through sodium and potassium ion channels. Novocaine, derived from cocaine, was developed as a safer synthetic, later replaced in many cases by lidocaine. Epinephrine is added to counteract vasodilation and improve effect, and a preservative in the mix can cause allergic reactions. Awake brain surgery uses local anesthesia.",
+      "topics": [
+        "local anesthesia",
+        "novocaine",
+        "lidocaine",
+        "epinephrine in anesthetics",
+        "dental anesthesia",
+        "awake brain surgery"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Regional anesthesia, epidurals and spinal blocks",
+      "summary": "Regional anesthesia numbs a larger area through a nerve block. Epidurals are injected via catheter into the epidural space in the lower back, commonly used in childbirth, while spinal blocks go into the cerebrospinal fluid. Rarely the numbing can rise above the intended area, and complications such as infection can occur. Patients may move from regional to general anesthesia if pain relief fails.",
+      "topics": [
+        "regional anesthesia",
+        "nerve block",
+        "epidural",
+        "spinal block",
+        "childbirth anesthesia",
+        "epidural complications"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "General anesthesia theory and duration",
+      "summary": "The hosts explain the working theory of general anesthesia: drugs depress spinal cord activity causing paralysis, affect the brainstem reticular activating system tied to wakefulness, and affect the cerebral cortex so memories and associations are not formed. Procedures can last a few hours up to about six hours. Transplant cases lasting longer are raised as a question for follow-up.",
+      "topics": [
+        "general anesthesia mechanism",
+        "reticular activating system",
+        "anesthesia duration",
+        "consciousness research"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Pre-op evaluation, fasting and the four stages",
+      "summary": "Before general anesthesia, an anesthesiologist asks about lifestyle, medical history, age, and substance use to adjust doses. Fasting advice is discussed, with rising evidence that aspiration is rare, so eating may be less risky than fasting. The patient wears a breathing mask and is monitored for vitals. The four stages are induction, excitement/twitching, surgical anesthesia, and overdose, which is a medical emergency. Propofol is a common induction drug.",
+      "topics": [
+        "pre-operative fasting",
+        "aspiration risk",
+        "four stages of anesthesia",
+        "propofol",
+        "anesthesia monitoring",
+        "anesthesia overdose"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Anesthesiologists, nurse anesthetists, and recovery",
+      "summary": "The hosts describe anesthesiologist training as physician training with residency and certification, and nurse anesthetists as registered nurses with additional two to three years of training. After surgery, patients are monitored in the recovery unit and reversal drugs like flumazenil and naloxone can be used to wake them.",
+      "topics": [
+        "anesthesiologist training",
+        "nurse anesthetist",
+        "post-anesthesia care",
+        "reversal drugs",
+        "flumazenil",
+        "naloxone"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Anesthesia awareness and death rates",
+      "summary": "Anesthesia awareness is when a patient is paralyzed and taped-eyed but conscious during surgery and forms memories, with about two per thousand patients affected. The Sherman Sizemore Jr. case, drawn from an Atlantic article 'Awakening', is discussed; he later died by suicide and his family settled a lawsuit. Historical death rates fell from about 640 per million in the 1940s to 4 per million in the 1980s, with a reported rise to about 7 per million, though older patient age is a likely factor.",
+      "topics": [
+        "anesthesia awareness",
+        "intraoperative recall",
+        "anesthesia PTSD",
+        "anesthesia death rate",
+        "Sherman Sizemore Jr. lawsuit",
+        "BIS monitor consciousness measure"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:03:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: ESP and intuition",
+      "summary": "Listener Joy from Canberra, Australia writes about her grandmother in Hong Kong who called fifteen minutes after Joy's mother died at home in Vancouver, sensing something was wrong. Hosts discuss intuition and ESP.",
+      "topics": [
+        "listener mail",
+        "ESP",
+        "intuition",
+        "psychic experience"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:05:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to share stories via Twitter, Facebook, email, and the website, and suggest searching the spelling of anesthesia.",
+      "topics": [
+        "sign-off",
+        "listener contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16977,
+    "output_tokens": 3939
+  }
+}

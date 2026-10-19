@@ -1,0 +1,244 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-02-01_SYSK_Selects_How_Maglev_Trains_Work_31min.txt",
+  "title": "SYSK Selects: How Maglev Trains Work",
+  "date": "2020-02-01",
+  "duration": "31 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-maglev-trains-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/686229fd-3069-43d3-976b-ae28003ddaee/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/686229fd-3069-43d3-976b-ae28003ddaee/transcript?format=TextWithTimestamps&t=1700543663",
+  "summary": "SYSK Selects rerun of the episode on maglev (magnetic levitation) trains. The hosts explain how maglev trains float above tracks using magnets and why they can run with little friction, compare the German electromagnetic suspension (EMS) system (TransRapid), the Japanese electrodynamic suspension (EDS) system using superconductors and the Meissner effect, and the Inductrack design using permanent magnets (Halbach arrays). They cover the Shanghai maglev line, Japan's Chuo Shinkansen plans, proposed US routes such as Washington-Baltimore, the 2006 German test-track crash, cost and funding problems, Elon Musk's Hyperloop, and a Michio Kaku idea of a tunnel through the Earth. The episode closes with a listener mail item about a children's film festival, Legacy Quest, run by Antiquity Now.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Maglev Trains Work",
+  "topics": [
+    "maglev trains",
+    "magnetic levitation",
+    "maglev",
+    "electromagnetic suspension",
+    "electrodynamic suspension",
+    "Meissner effect",
+    "Inductrack",
+    "Halbach array",
+    "TransRapid",
+    "Shanghai maglev",
+    "Japan maglev",
+    "Chuo Shinkansen",
+    "Hyperloop",
+    "Elon Musk",
+    "high-speed rail",
+    "superconductors",
+    "maglev accidents",
+    "maglev funding and cost",
+    "Northeast Maglev",
+    "Washington Baltimore maglev",
+    "Michio Kaku",
+    "evacuated tube transport",
+    "Legacy Quest film festival",
+    "Antiquity Now",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Maglev",
+      "type": "other"
+    },
+    {
+      "name": "TransRapid",
+      "type": "organization"
+    },
+    {
+      "name": "Shanghai maglev",
+      "type": "work"
+    },
+    {
+      "name": "JR Central",
+      "type": "organization"
+    },
+    {
+      "name": "Hyperloop",
+      "type": "other"
+    },
+    {
+      "name": "Elon Musk",
+      "type": "person"
+    },
+    {
+      "name": "Michio Kaku",
+      "type": "person"
+    },
+    {
+      "name": "Northeast Maglev",
+      "type": "organization"
+    },
+    {
+      "name": "Antiquity Now",
+      "type": "organization"
+    },
+    {
+      "name": "Legacy Quest International Children's Film and Video Festival",
+      "type": "event"
+    },
+    {
+      "name": "Tesla",
+      "type": "person"
+    },
+    {
+      "name": "Meissner effect",
+      "type": "other"
+    },
+    {
+      "name": "Inductrack",
+      "type": "other"
+    },
+    {
+      "name": "Washington Baltimore",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta Chattanooga",
+      "type": "place"
+    },
+    {
+      "name": "Shanghai",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and rerun intro",
+      "summary": "Josh introduces the Selects episode and notes that a contest mentioned in the listener mail is likely defunct. Josh and Chuck banter and recall the earlier magnets episode and a short on maglev.",
+      "topics": [
+        "SYSK Selects",
+        "maglev introduction"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Maglev basics, speed records, and Hyperloop",
+      "summary": "The hosts explain that maglev trains float above the track using magnets, so there is no friction, only air resistance. They compare speed records of maglev and steel-wheel trains and the ride experience, and mention Elon Musk's Hyperloop vacuum-tube concept.",
+      "topics": [
+        "maglev trains",
+        "maglev speed record",
+        "Hyperloop",
+        "Elon Musk",
+        "vacuum tube transport"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Confusing terminology and the German EMS system",
+      "summary": "The hosts note that many technologies are called maglev. They describe the German electromagnetic suspension (EMS) system, in which electromagnets attract the train up to the guideway, with computer control adjusting current and guidance magnets keeping the train off the rails.",
+      "topics": [
+        "electromagnetic suspension",
+        "TransRapid",
+        "maglev technology types",
+        "German maglev"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A short message break.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Propulsion, Shanghai line, and Japan's superconducting system",
+      "summary": "The hosts explain how magnets ahead of the train pull it forward and magnets behind push it. They cover the Shanghai maglev line that opened in 2002 for airport transport and the later halt over radiation fears. They then explain Japan's electrodynamic suspension using superconductors and the Meissner effect, which levitates the train, and note it needs wheels for low speeds and that liquid nitrogen cooling is expensive.",
+      "topics": [
+        "maglev propulsion",
+        "Shanghai maglev",
+        "Japan electrodynamic suspension",
+        "Meissner effect",
+        "superconductors",
+        "JR Central"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Inductrack, proposed US routes, and funding",
+      "summary": "The hosts describe the Inductrack design using room-temperature permanent magnets in Halbach arrays, with three designs for high-speed, slow-speed, and heavy-load use. They mention past and proposed maglev projects in London, Atlanta-Chattanooga, DC-Baltimore, Las Vegas, and Pittsburgh, and note funding and cost difficulties.",
+      "topics": [
+        "Inductrack",
+        "Halbach array",
+        "permanent magnets",
+        "maglev proposals United States",
+        "maglev funding"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Maglev accidents and Northeast Maglev funding",
+      "summary": "The hosts discuss safety, including a 2006 German test-track crash with a repair car that killed 29 people and a Shanghai fire. They report that Northeast Maglev raised fifty million dollars in private funds for the Washington-Baltimore route, with an estimated ten billion dollar cost.",
+      "topics": [
+        "maglev accidents",
+        "2006 German maglev crash",
+        "Northeast Maglev",
+        "Washington Baltimore maglev"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Tunnel through the Earth and closing bet",
+      "summary": "The hosts describe Michio Kaku's idea of a vacuum tunnel through the Earth that would take an hour between two points, calling it unrealistic. They make a bet about riding a maglev in the US within their lifetimes.",
+      "topics": [
+        "gravity train",
+        "Michio Kaku",
+        "maglev bet",
+        "theoretical transport"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "listener_mail",
+      "title": "Legacy Quest film festival listener mail",
+      "summary": "Listener mail from Chandra Goldfinger of Antiquity Now about the Legacy Quest International Children's Film and Video Festival for ages 12 to 15, held May 9 through an unspecified day in Eugene, Oregon, alongside the Archaeology Channel festival.",
+      "topics": [
+        "Legacy Quest",
+        "Antiquity Now",
+        "children's film festival",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:31:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing contact information and credits.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10255,
+    "output_tokens": 2714
+  }
+}

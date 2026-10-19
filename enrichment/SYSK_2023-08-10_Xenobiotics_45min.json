@@ -1,0 +1,383 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-08-10_Xenobiotics_45min.txt",
+  "title": "Xenobiotics",
+  "date": "2023-08-10",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/xenobiotics",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2d1ef409-c93f-4039-96e0-b05a00e5981d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2d1ef409-c93f-4039-96e0-b05a00e5981d/transcript?format=TextWithTimestamps&t=1713868372",
+  "summary": "Josh and Chuck explain xenobiotics, defined as foreign chemicals that are not used as nutrients by an organism and that affect its body. They cover how many exist, how they enter the body, and the four things the body does with them (absorb, distribute, biotransform/metabolize, eliminate). They discuss the liver and cytochrome P450 enzymes, half-lives, and how wetlands and ecosystems filter toxins. They turn to persistent pollutants, including PFAS (\"forever chemicals\") and the chlordane case of journalist Anna Turns, and to microplastics and the 2015 Microbead-Free Waters Act. They touch on the difficulty of classifying xenobiotics, cancer risk from repeated exposure, and metabolomics. The episode closes with a listener email about a stereoscope and a \"aloha\" greeting.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "xenobiotics",
+    "foreign chemicals",
+    "toxicology",
+    "biotransformation",
+    "metabolism",
+    "half-life",
+    "cytochrome P450",
+    "liver detoxification",
+    "persistent organic pollutants",
+    "POPs",
+    "PFAS",
+    "forever chemicals",
+    "microplastics",
+    "microbeads",
+    "Microbead-Free Waters Act",
+    "chlordane",
+    "wetlands filtration",
+    "ecosystems pollution",
+    "bioaccumulation",
+    "carcinogens and cancer",
+    "alcohol metabolism acetaldehyde",
+    "chemical classification",
+    "metabolomics",
+    "shredded cheese cellulose",
+    "dose makes the poison"
+  ],
+  "entities": [
+    {
+      "name": "Xenobiotics",
+      "type": "other"
+    },
+    {
+      "name": "PFAS",
+      "type": "other"
+    },
+    {
+      "name": "Microplastics",
+      "type": "other"
+    },
+    {
+      "name": "Microbead-Free Waters Act",
+      "type": "work"
+    },
+    {
+      "name": "Chlordane",
+      "type": "other"
+    },
+    {
+      "name": "Anna Turns",
+      "type": "person"
+    },
+    {
+      "name": "Paracelsus",
+      "type": "person"
+    },
+    {
+      "name": "ChemSec",
+      "type": "organization"
+    },
+    {
+      "name": "Stockholm Convention",
+      "type": "organization"
+    },
+    {
+      "name": "DuPont",
+      "type": "organization"
+    },
+    {
+      "name": "Lou Bega",
+      "type": "person"
+    },
+    {
+      "name": "Wham",
+      "type": "work"
+    },
+    {
+      "name": "Stockholm Convention on Persistent Organic Pollutants",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:15",
+      "kind": "intro",
+      "title": "Opening banter and defining xenobiotics",
+      "summary": "Hosts joke about microplastics and introduce the word xenobiotics, noting that it does not refer to xenobiology.",
+      "topics": [
+        "xenobiotics",
+        "xenobiology"
+      ]
+    },
+    {
+      "start": "00:02:15",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "Textbook definition and what counts as a xenobiotic",
+      "summary": "The hosts read a definition of a xenobiotic as a chemical not used by the reference organism as a nutrient, and explain that essential amino acids do not count. They note that xenobiotics can enter by ingestion, inhalation, or skin contact, and that dose makes the poison, citing Paracelsus.",
+      "topics": [
+        "xenobiotic definition",
+        "foreign chemicals",
+        "dose makes the poison",
+        "Paracelsus",
+        "soy isoflavones"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:08:20",
+      "kind": "content",
+      "title": "Numbers of chemicals and hazard statistics",
+      "summary": "The hosts cite tens of millions of substances, around 39 million commercially available, and an estimated one to three million xenobiotic exposures per person. They cite ChemSec's finding that 65 percent of chemicals in use in EU countries are harmful to human health, and critique toxicology's focus on proving harm.",
+      "topics": [
+        "chemical exposure statistics",
+        "ChemSec",
+        "EU chemicals",
+        "toxicology research gaps"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:12:22",
+      "kind": "content",
+      "title": "Ecosystems, pollution and microbeads law",
+      "summary": "The hosts note that xenobiotics affect animals and plants and move up food chains and ecosystems. They discuss the Microbead-Free Waters Act of 2015, which bans microbeads only in rinse-off cosmetics, leaving them in products like lipstick and mascara.",
+      "topics": [
+        "ecosystem pollution",
+        "microbeads",
+        "Microbead-Free Waters Act",
+        "rinse-off cosmetics"
+      ]
+    },
+    {
+      "start": "00:12:22",
+      "end": "00:14:20",
+      "kind": "content",
+      "title": "Difficulty classifying xenobiotics",
+      "summary": "The hosts explain that xenobiotics overlap across chemical families, uses, and effects, making classification hard. The EU has seventeen groups of concern. Classification matters for research funding. Xenobiotics are found in cosmetics, packaging, water, air, breast milk, blood, and the Arctic.",
+      "topics": [
+        "chemical classification",
+        "EU concern groups",
+        "ubiquity of xenobiotics",
+        "breast milk contamination"
+      ]
+    },
+    {
+      "start": "00:14:20",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Keeping perspective on breast milk and cosmetics",
+      "summary": "The hosts say they are not trying to cause panic, noting health organizations still recommend breastfeeding. They comment on cosmetic companies describing microbeads as no big deal.",
+      "topics": [
+        "breastfeeding and chemicals",
+        "public health messaging",
+        "cosmetics industry"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments with light banter about a Wham documentary and Netflix.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:36",
+      "kind": "content",
+      "title": "Four fates in the body: absorb, distribute, biotransform, eliminate",
+      "summary": "The hosts describe the four things the body does with ingested substances. Vitamin B causing bright yellow urine is given as an example of intact elimination. THC is described as absorbed into fat, where it can be released later.",
+      "topics": [
+        "absorption",
+        "distribution",
+        "biotransformation",
+        "elimination",
+        "THC fat storage",
+        "vitamin B urine"
+      ]
+    },
+    {
+      "start": "00:19:36",
+      "end": "00:22:38",
+      "kind": "content",
+      "title": "Liver metabolism, cytochrome P450, and alcohol",
+      "summary": "The liver is the main processing site, where cytochrome P450 enzymes convert xenobiotics into less harmful forms. Alcohol is broken down into acetaldehyde, a carcinogen, before becoming acetate, which can cause genetic damage and cirrhosis.",
+      "topics": [
+        "liver metabolism",
+        "cytochrome P450",
+        "alcohol metabolism",
+        "acetaldehyde",
+        "cirrhosis"
+      ]
+    },
+    {
+      "start": "00:22:38",
+      "end": "00:24:35",
+      "kind": "content",
+      "title": "Half-lives and drug design",
+      "summary": "The hosts explain that half-lives of xenobiotics vary with age, weight, and health. Alprazolam is given as an example with a six to twelve hour half-life. Knowing half-lives helps design targeted drugs.",
+      "topics": [
+        "half-life",
+        "alprazolam",
+        "drug design",
+        "personalized medicine"
+      ]
+    },
+    {
+      "start": "00:24:35",
+      "end": "00:27:52",
+      "kind": "content",
+      "title": "Ecosystems as kidneys: wetlands and environmental breakdown",
+      "summary": "Wetlands are called Earth's kidneys for trapping toxins in sediment and breaking them down biologically. Algae and microbes can eat gasoline. Environmental half-lives depend on rain, groundwater, and reactions with other chemicals.",
+      "topics": [
+        "wetlands filtration",
+        "bioremediation",
+        "environmental half-life",
+        "gasoline-eating microbes"
+      ]
+    },
+    {
+      "start": "00:27:52",
+      "end": "00:28:44",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break with a teaser about how worried listeners should be.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:28:44",
+      "end": "00:30:26",
+      "kind": "content",
+      "title": "Forever chemicals and chlordane",
+      "summary": "Some xenobiotics do not break down. Journalist Anna Turns had oxychlordane, a metabolite of the pesticide chlordane, in her body decades after its ban. Chlordane has a half-life of about thirty years, so the chemical may effectively persist for a lifetime.",
+      "topics": [
+        "forever chemicals",
+        "chlordane",
+        "oxychlordane",
+        "Stockholm Convention",
+        "half-life of chlordane",
+        "Anna Turns"
+      ]
+    },
+    {
+      "start": "00:30:26",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "PFAS: uses, washing release, and blood levels",
+      "summary": "The hosts describe PFAS as persistent organic pollutants used in Scotchgard, Gore-Tex, Teflon, and firefighter flame retardants. PFAS wash out of clothing into wastewater. The carbon-fluorine bond makes them durable, and a CDC report found them in 97 percent of Americans' blood.",
+      "topics": [
+        "PFAS",
+        "persistent organic pollutants",
+        "Scotchgard",
+        "Gore-Tex",
+        "Teflon",
+        "carbon-fluorine bond",
+        "PFAS in blood"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:33",
+      "kind": "content",
+      "title": "PFAS health evidence and corporate knowledge",
+      "summary": "The hosts say the NIH is cautious, while the EPA and CDC link PFAS to endocrine disruption, low birth weight, immune effects, and cancers. DuPont is said to have known of harm since at least 1961, and the hosts discuss how science handles unproven harm.",
+      "topics": [
+        "PFAS health effects",
+        "EPA guidance",
+        "DuPont lawsuits",
+        "precautionary principle"
+      ]
+    },
+    {
+      "start": "00:35:33",
+      "end": "00:38:08",
+      "kind": "content",
+      "title": "Microplastics: definition, sources, and Arctic spread",
+      "summary": "Microplastics are defined as plastics under five millimeters, either primary (manufactured) or secondary (broken down). Teflon coatings on food wrappers and microfibers from washed outdoor clothing enter water, evaporate, and fall as Arctic snow.",
+      "topics": [
+        "microplastics definition",
+        "primary microplastics",
+        "secondary microplastics",
+        "Arctic microplastics",
+        "microfibers"
+      ]
+    },
+    {
+      "start": "00:38:08",
+      "end": "00:39:19",
+      "kind": "content",
+      "title": "Shredded cheese and cellulose additives",
+      "summary": "The hosts discuss the anti-caking agent in shredded cheese, which is cellulose, a wood pulp. They joke about avoiding it and note that avoiding all xenobiotics is impossible but cosmetics and additives can be reduced.",
+      "topics": [
+        "shredded cheese",
+        "cellulose",
+        "anti-caking agents",
+        "avoiding xenobiotics"
+      ]
+    },
+    {
+      "start": "00:39:19",
+      "end": "00:42:12",
+      "kind": "content",
+      "title": "Cancer risk, treatment, and metabolomics",
+      "summary": "The hosts explain that acute poisoning can be treated with antidotes, while cancer usually results from buildup from repeated exposure to persistent xenobiotics that cause DNA damage. They discuss AI for studying interactions and metabolomics, which measures metabolic processes in the body.",
+      "topics": [
+        "cancer from chemical exposure",
+        "antidotes",
+        "DNA damage",
+        "AI in toxicology",
+        "metabolomics"
+      ]
+    },
+    {
+      "start": "00:42:12",
+      "end": "00:42:55",
+      "kind": "content",
+      "title": "Metabolomics and future episode ideas",
+      "summary": "The hosts describe metabolomics as still new and mostly hypothetical, with testing done through urine, bone, or fatty tissue. They consider revisiting the topic later.",
+      "topics": [
+        "metabolomics",
+        "future episodes"
+      ]
+    },
+    {
+      "start": "00:42:55",
+      "end": "00:44:03",
+      "kind": "listener_mail",
+      "title": "Listener mail: stereoscope and aloha",
+      "summary": "A listener writes about a handheld stereoscope used with their kids at a Mount St. Helens cabin and about the Magic Eye episode. The hosts discuss the 'aloha' greeting and a kid's mispronunciation of pajamas.",
+      "topics": [
+        "listener mail",
+        "stereoscope",
+        "Magic Eye",
+        "aloha"
+      ]
+    },
+    {
+      "start": "00:44:03",
+      "end": "00:45:12",
+      "kind": "listener_mail",
+      "title": "Listener mail: customs and aloha reply",
+      "summary": "The hosts note a listener pointed out a repeated customs episode and reply to the email with thanks. They invite listeners to email in.",
+      "topics": [
+        "listener mail",
+        "customs episode",
+        "email"
+      ]
+    },
+    {
+      "start": "00:45:12",
+      "end": "00:45:12",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck reads the closing credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16287,
+    "output_tokens": 4524
+  }
+}

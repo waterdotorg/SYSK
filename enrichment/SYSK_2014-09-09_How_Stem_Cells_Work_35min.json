@@ -1,0 +1,256 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-09-09_How_Stem_Cells_Work_35min.txt",
+  "title": "How Stem Cells Work",
+  "date": "2014-09-09",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-stem-cells-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24e52518-bf9b-423c-9a7e-ae280094a559/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/24e52518-bf9b-423c-9a7e-ae280094a559/transcript?format=TextWithTimestamps&t=1700543875",
+  "summary": "Josh and Chuck explain stem cells: what they are, why they matter for diseases like Parkinson's, type 1 diabetes and heart failure, and the differences between totipotent, pluripotent, multipotent and induced pluripotent stem cells. They cover adult stem cells and bone marrow transplants, embryonic stem cells (including the blastocyst and therapeutic cloning controversy), induced pluripotent stem cells (Yamanaka, 2006, Nobel Prize 2012 with Gurdon), using stem cells for drug testing and heart repair, and the US federal funding history from Clinton through Bush's executive orders and vetoes to Obama's expanded policy. The episode closes with a listener mail about banana flavoring and the Cavendish versus Gros Michel banana.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "stem cells",
+    "stem cell therapy",
+    "embryonic stem cells",
+    "adult stem cells",
+    "induced pluripotent stem cells",
+    "iPSC",
+    "potency",
+    "totipotent",
+    "pluripotent",
+    "multipotent",
+    "therapeutic cloning",
+    "blastocyst",
+    "bone marrow transplant",
+    "federal funding stem cell research",
+    "Dickey-Wicker Amendment",
+    "Bush executive order stem cells",
+    "Obama stem cell policy",
+    "Parkinson's disease",
+    "type 1 diabetes",
+    "heart failure stem cell repair",
+    "drug testing with stem cells",
+    "transdifferentiation",
+    "Shinya Yamanaka",
+    "listener mail",
+    "Cavendish banana",
+    "Gros Michel banana"
+  ],
+  "entities": [
+    {
+      "name": "Shinya Yamanaka",
+      "type": "person"
+    },
+    {
+      "name": "John Gurdon",
+      "type": "person"
+    },
+    {
+      "name": "Bill Clinton",
+      "type": "person"
+    },
+    {
+      "name": "George W. Bush",
+      "type": "person"
+    },
+    {
+      "name": "Barack Obama",
+      "type": "person"
+    },
+    {
+      "name": "Newt Gingrich",
+      "type": "person"
+    },
+    {
+      "name": "Dickey-Wicker Amendment",
+      "type": "event"
+    },
+    {
+      "name": "Stem Cell Research Enhancement Act",
+      "type": "event"
+    },
+    {
+      "name": "Parkinson's disease",
+      "type": "other"
+    },
+    {
+      "name": "type 1 diabetes",
+      "type": "other"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Cavendish banana",
+      "type": "other"
+    },
+    {
+      "name": "Gros Michel banana",
+      "type": "other"
+    },
+    {
+      "name": "Panama disease",
+      "type": "other"
+    },
+    {
+      "name": "zebrafish",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck open the episode, joke around about the topic and their moods, and introduce stem cells as the subject, including Josh's view that stem cell therapy means injecting cells that turn into needed cells.",
+      "topics": [
+        "stem cells",
+        "stem cell therapy"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Diseases stem cells might treat",
+      "summary": "The hosts describe diseases involving cell death, including Parkinson's (loss of dopamine-producing neurons), heart failure, and type 1 diabetes (loss of insulin-producing pancreas cells). They note the hope is to reverse effects rather than eradicate these diseases, and explain that stem cells are the body's limited repair system.",
+      "topics": [
+        "Parkinson's disease",
+        "type 1 diabetes",
+        "heart failure stem cell repair",
+        "stem cells"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Potency and types of stem cells",
+      "summary": "The hosts explain that stem cells are rare compared with regular cells (about one in a thousand in blood, more rarely in bone), and describe potency levels from totipotent to pluripotent to multipotent. They discuss stromal stem cells in bone marrow, the roughly 28-day lifespan of blood-making cells, and how bone marrow transplants are an early form of stem cell therapy.",
+      "topics": [
+        "potency",
+        "totipotent",
+        "pluripotent",
+        "multipotent",
+        "bone marrow transplant",
+        "stromal stem cells"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Embryonic, adult and induced pluripotent stem cells",
+      "summary": "Overview of the three main categories: embryonic stem cells (found in embryos, fetuses and umbilical cord blood, pluripotent or totipotent very early), adult stem cells (found from infancy on, multipotent), and induced pluripotent stem cells discovered in 2006 by Japanese researchers, who reverted ordinary cells to a stem-like state. Yamanaka and Gurdon shared the 2012 Nobel Prize.",
+      "topics": [
+        "embryonic stem cells",
+        "adult stem cells",
+        "induced pluripotent stem cells",
+        "Shinya Yamanaka",
+        "John Gurdon",
+        "Nobel Prize"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Embryonic stem cells, blastocysts and therapeutic cloning",
+      "summary": "Explains that leftover IVF embryos can be donated for research, that harvesting embryonic stem cells requires destroying a blastocyst, and why this is controversial for those who believe life begins at conception. Therapeutic cloning is described as merging a patient's nucleus into a donor egg, which raises further controversy.",
+      "topics": [
+        "blastocyst",
+        "therapeutic cloning",
+        "IVF embryos",
+        "embryonic stem cell ethics",
+        "embryonic stem cell lines"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Adult stem cells, cell marking and transdifferentiation",
+      "summary": "Adult stem cells are described as less controversial and as cells that keep tissues repaired. The hosts discuss researchers tagging stem cells with fluorescent molecules bound to surface receptors, transdifferentiation such as liver stem cells producing insulin, and a zebrafish study showing blood stem cells need a 'buddy cell'.",
+      "topics": [
+        "adult stem cells",
+        "cell marking fluorescent",
+        "transdifferentiation",
+        "hemopoietic stem cells",
+        "zebrafish",
+        "receptors"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Induced pluripotent stem cells and future uses",
+      "summary": "Explains that induced pluripotent cells are made by introducing stem cell factors that switch off gene expression, and that directing them into specific cell types is still unresolved. Future uses discussed include drug testing on human-derived cells instead of animals, and injecting heart stem cells into mice with bad hearts. Rejection is less likely when cells come from the patient.",
+      "topics": [
+        "induced pluripotent stem cells",
+        "epigenetics",
+        "drug trials",
+        "heart repair in mice",
+        "transplant rejection"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "US federal funding and the stem cell policy debate",
+      "summary": "Covers the policy history: Clinton's NIH panel advice, the 1996 Dickey-Wicker Amendment limiting federal funding for embryo-destroying research, Bush's 2001 executive order allowing funding only on existing lines, the Stem Cell Research Enhancement Acts of 2005 and 2007 that Bush vetoed, and Obama's executive order expanding funding, followed by a court ruling on the amendment's breadth.",
+      "topics": [
+        "federal funding stem cell research",
+        "Dickey-Wicker Amendment",
+        "Bush executive order stem cells",
+        "Obama stem cell policy",
+        "Stem Cell Research Enhancement Act",
+        "stem cell policy history"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:41:00",
+      "kind": "ad",
+      "title": "Sign-off and promotion",
+      "summary": "Hosts mention the search function on the website and close the main topic discussion.",
+      "topics": [
+        "stem cells"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: banana flavoring",
+      "summary": "A listener named Elliott explains that banana flavoring tastes different because most banana candy is based on the Gros Michel banana, which was wiped out by Panama disease, while the Cavendish banana is the common modern variety. He also notes cherry flavoring is based on Maraschino cherries flavored with almond extract.",
+      "topics": [
+        "listener mail",
+        "Cavendish banana",
+        "Gros Michel banana",
+        "Panama disease",
+        "banana flavoring"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "Hosts thank listeners, invite contact via Twitter, Facebook and email, and point to the website.",
+      "topics": [
+        "podcast outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11789,
+    "output_tokens": 3158
+  }
+}

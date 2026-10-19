@@ -1,0 +1,227 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-03-20_SYSK_Distraction_Playlist_How_Rogue_Waves_Work_33min.txt",
+  "title": "SYSK Distraction Playlist: How Rogue Waves Work",
+  "date": "2020-03-20",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-distraction-playlist-how-rogue-waves-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e2ac17b4-18dd-4310-a096-ae28003a6c40/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e2ac17b4-18dd-4310-a096-ae28003a6c40/transcript?format=TextWithTimestamps&t=1700543660",
+  "summary": "A distraction-playlist rerun episode about rogue waves (freak or killer waves): their definition as huge waves much larger than surrounding waves, the 1995 Draupner platform capture off Norway as the first scientifically recorded rogue wave, anecdotal sailor accounts (Queen Elizabeth, Edmund Fitzgerald), proposed causes such as current-wave interaction (Gulf Stream, Agulhas) and wave reinforcement, the Peregrine soliton, satellite data from the European Space Agency's MaxWave project, and how rogue waves differ from tsunamis. The episode closes with a listener mail from Kyle about career dissatisfaction, answered with advice not to quit a stable job while exploring options.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Rogue Waves Work",
+  "topics": [
+    "rogue waves",
+    "freak waves",
+    "killer waves",
+    "first scientifically recorded rogue wave",
+    "Draupner platform",
+    "Peregrine soliton",
+    "wave reinforcement",
+    "rogue wave causes",
+    "Gulf Stream",
+    "Agulhas current",
+    "MaxWave project",
+    "European Space Agency",
+    "Edmund Fitzgerald",
+    "Queen Elizabeth ship rogue wave",
+    "tsunami vs rogue wave",
+    "wave physics",
+    "wave height and period",
+    "fetch and wind waves",
+    "Bermuda Triangle",
+    "shipping container losses",
+    "Navy strength gin",
+    "listener mail career advice",
+    "Gordon Lightfoot",
+    "SYSK distraction playlist"
+  ],
+  "entities": [
+    {
+      "name": "Rogue waves",
+      "type": "other"
+    },
+    {
+      "name": "Draupner platform",
+      "type": "place"
+    },
+    {
+      "name": "Peregrine soliton",
+      "type": "other"
+    },
+    {
+      "name": "European Space Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Edmund Fitzgerald",
+      "type": "work"
+    },
+    {
+      "name": "Arthur Anderson",
+      "type": "work"
+    },
+    {
+      "name": "Queen Elizabeth",
+      "type": "work"
+    },
+    {
+      "name": "Gulf Stream",
+      "type": "place"
+    },
+    {
+      "name": "Bermuda Triangle",
+      "type": "place"
+    },
+    {
+      "name": "Gordon Lightfoot",
+      "type": "person"
+    },
+    {
+      "name": "Wave Atlas",
+      "type": "other"
+    },
+    {
+      "name": "Kyle",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and cruise chat",
+      "summary": "The hosts joke around about nicknames and Josh asks Chuck about a cruise, including seasickness and whether he encountered a rogue wave. They transition into defining rogue waves.",
+      "topics": [
+        "cruise seasickness",
+        "banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Definition of rogue waves",
+      "summary": "Rogue waves are described as huge waves, often defined as about twice the size of the next tallest wave in an area, that appear to come out of nowhere and break over ships like a wall of water. Other events like glacial calving, underwater earthquakes, and coastal landslides can cause big waves but are not considered rogue waves because their origin is known.",
+      "topics": [
+        "rogue waves",
+        "freak waves",
+        "killer waves",
+        "rogue wave definition",
+        "glacial calving",
+        "coastal landslides"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Early sailor accounts and the Draupner capture",
+      "summary": "Sailor anecdotes long dismissed by scientists are discussed, including the Queen Elizabeth ship hit near Greenland in World War Two. Science accepted rogue waves after the Draupner platform off Norway recorded a 66-foot wave on New Year's Day.",
+      "topics": [
+        "sailor stories",
+        "Draupner platform",
+        "first scientifically recorded rogue wave",
+        "Queen Elizabeth",
+        "Norway"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Wave physics basics",
+      "summary": "The hosts review wave anatomy from the earlier surfing episode: crest, trough, height, length, period, and energy. They note the wave math applies to optics, microwaves, and more, and explain how ordinary wind waves form over fetch.",
+      "topics": [
+        "wave physics",
+        "crest and trough",
+        "wave period",
+        "fetch",
+        "wind waves"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Causes of rogue waves: currents and wave reinforcement",
+      "summary": "One proposed cause is a wave meeting an opposing current, such as the Gulf Stream, which can enlarge it. Another is the Peregrine soliton, a mathematical model predicting rogue waves, along with wave reinforcement where waves combine into one large wave.",
+      "topics": [
+        "rogue wave causes",
+        "Gulf Stream",
+        "Peregrine soliton",
+        "wave reinforcement",
+        "wave interference",
+        "Bermuda Triangle"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Frequency of rogue waves and the MaxWave data",
+      "summary": "Rogue waves were once thought rare. ESA satellite data from the MaxWave project recorded ten waves over 82 feet in three weeks, far more than expected. Rogue waves may also occur in threes. The Edmund Fitzgerald sinking is mentioned, along with shipping container losses.",
+      "topics": [
+        "rogue wave frequency",
+        "MaxWave project",
+        "European Space Agency satellites",
+        "Edmund Fitzgerald",
+        "shipping container losses",
+        "Wave Atlas"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Tsunamis versus rogue waves and ship safety",
+      "summary": "Tsunamis are contrasted with rogue waves: they are generated underwater and grow into walls of water at the coast, while rogue waves are unexpected and not tied to a known cause. Ships cannot be built to withstand them, and better prediction could help.",
+      "topics": [
+        "tsunami vs rogue wave",
+        "ship safety",
+        "rogue wave prediction",
+        "ballast and stability"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Digression on Navy strength gin and fade-out songs",
+      "summary": "Hosts discuss Navy strength gin, sailor rations, and a tangent about song fade-outs and Gordon Lightfoot's song about the Edmund Fitzgerald.",
+      "topics": [
+        "Navy strength gin",
+        "fade-out songs",
+        "Gordon Lightfoot"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:31:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Kyle on career fulfillment",
+      "summary": "Listener Kyle, a recent history and web design grad with a steady desk job, asks for advice on finding a fulfilling career. The hosts advise not to quit his job, to explore options alongside it, and to check the career section of the website.",
+      "topics": [
+        "listener mail",
+        "career advice",
+        "career change"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:33:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "The hosts thank listeners and list ways to contact the show and find more at the website.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11556,
+    "output_tokens": 2591
+  }
+}

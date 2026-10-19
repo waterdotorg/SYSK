@@ -1,0 +1,422 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-01-16_Dry_Cleaning_Not_Really_Dry_52min.txt",
+  "title": "Dry Cleaning: Not Really Dry(!)",
+  "date": "2024-01-16",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/dry-cleaning-not-really-dry",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dd71f75a-8e58-4492-a492-b0f90105f093/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dd71f75a-8e58-4492-a492-b0f90105f093/transcript?format=TextWithTimestamps&t=1713653185",
+  "summary": "Josh and Chuck explore dry cleaning, starting with the fact that it is not actually dry: clothes are cleaned in solvents rather than water. They cover early history (Thomas Jennings' 1821 patent, Jean Baptiste Jolie's camphene accident, flammable early solvents), the switch to carbon tetrachloride and trichloroethylene, and the adoption of perchloroethylene (perc) promoted by the One Hour Martinizing chain. They describe how dry cleaning machines recover solvent, the finishing process, stain treatment, and the health and environmental harms of perc, including EPA findings, Cape Cod contamination, California's ban, and cleanup costs. They close with alternatives to perc (wet cleaning, liquid CO2, hydrocarbon DF-2000, and Green Earth silicon-based solvent) and greenwashing concerns, followed by listener mail about Marie Tharp.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "dry cleaning",
+    "perchloroethylene",
+    "perc solvent",
+    "dry cleaning history",
+    "Thomas Jennings patent",
+    "Jean Baptiste Jolie",
+    "One Hour Martinizing",
+    "dry cleaning machines",
+    "fifth generation dry cleaning machine",
+    "stain removal",
+    "pre-spotting and post-spotting",
+    "pressing and finishing",
+    "carbon tetrachloride",
+    "trichloroethylene",
+    "EPA perc regulation",
+    "perc contamination",
+    "Cape Cod groundwater contamination",
+    "dry cleaning site cleanup",
+    "green dry cleaning",
+    "wet cleaning",
+    "liquid CO2 dry cleaning",
+    "Green Earth silicone solvent",
+    "DF-2000 hydrocarbon solvent",
+    "greenwashing",
+    "Korean American dry cleaners",
+    "listener mail",
+    "Marie Tharp"
+  ],
+  "entities": [
+    {
+      "name": "Thomas Jennings",
+      "type": "person"
+    },
+    {
+      "name": "Jean Baptiste Jolie",
+      "type": "person"
+    },
+    {
+      "name": "Martin",
+      "type": "person"
+    },
+    {
+      "name": "Marie Tharp",
+      "type": "person"
+    },
+    {
+      "name": "Bruce Heezen",
+      "type": "person"
+    },
+    {
+      "name": "perchloroethylene",
+      "type": "other"
+    },
+    {
+      "name": "carbon tetrachloride",
+      "type": "other"
+    },
+    {
+      "name": "trichloroethylene",
+      "type": "other"
+    },
+    {
+      "name": "Stoddard solvent",
+      "type": "other"
+    },
+    {
+      "name": "camphene",
+      "type": "other"
+    },
+    {
+      "name": "One Hour Martinizing",
+      "type": "organization"
+    },
+    {
+      "name": "Green Earth",
+      "type": "organization"
+    },
+    {
+      "name": "DF-2000",
+      "type": "other"
+    },
+    {
+      "name": "Exxon Mobil",
+      "type": "organization"
+    },
+    {
+      "name": "Shout",
+      "type": "other"
+    },
+    {
+      "name": "US EPA",
+      "type": "organization"
+    },
+    {
+      "name": "Cape Cod",
+      "type": "place"
+    },
+    {
+      "name": "King County",
+      "type": "place"
+    },
+    {
+      "name": "Smithsonian",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "intro",
+      "title": "Live show announcements",
+      "summary": "Hosts announce January 2024 live shows in Seattle (Paramount Theater) and San Francisco (SF Sketch Fest).",
+      "topics": [
+        "live shows",
+        "tour dates"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:02:12",
+      "kind": "intro",
+      "title": "Opening banter about dry cleaners",
+      "summary": "Hosts joke about martinizing and creases, and discuss how the pandemic and casual offices hurt dry cleaners.",
+      "topics": [
+        "dry cleaning industry decline",
+        "pandemic effects on dry cleaners"
+      ]
+    },
+    {
+      "start": "00:02:12",
+      "end": "00:04:56",
+      "kind": "content",
+      "title": "Personal dry cleaning stories and Korean American dry cleaner ownership",
+      "summary": "Josh recalls a friend's father's closet of dry-cleaned shirts. They note dry cleaner counts and that many owners are ethnic minority small business owners, many Korean Americans.",
+      "topics": [
+        "dry cleaner ownership demographics",
+        "Korean American dry cleaners",
+        "small business owners"
+      ]
+    },
+    {
+      "start": "00:04:56",
+      "end": "00:06:08",
+      "kind": "content",
+      "title": "Dry cleaning is not dry",
+      "summary": "Josh and Chuck explain that dry cleaning means no water is used, and that the storefront sends clothes to a separate facility.",
+      "topics": [
+        "dry cleaning process",
+        "dry cleaning terminology"
+      ]
+    },
+    {
+      "start": "00:06:08",
+      "end": "00:08:45",
+      "kind": "content",
+      "title": "Thomas Jennings and early dry cleaning patent",
+      "summary": "Chuck describes Thomas Jennings, a Black tailor in New York City who received an 1821 patent for dry scouring; the patent was lost in an 1836 fire. Josh notes he was the first African American to receive a US patent and was recognized as a citizen through it.",
+      "topics": [
+        "Thomas Jennings patent",
+        "dry scouring",
+        "African American inventors",
+        "1836 patent office fire"
+      ]
+    },
+    {
+      "start": "00:08:45",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Jean Baptiste Jolie and flammable early solvents",
+      "summary": "Jolie, a dyer in France, accidentally found that spilled camphene cleaned a tablecloth. Early solvents such as kerosene, gasoline, and turpentine were flammable and dangerous.",
+      "topics": [
+        "Jean Baptiste Jolie",
+        "camphene",
+        "flammable solvents",
+        "early dry cleaning solvents"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:11",
+      "kind": "content",
+      "title": "Shift to carbon tetrachloride, trichloroethylene, and perc",
+      "summary": "Dry cleaners moved to synthetic solvents carbon tetrachloride and trichloroethylene, which had serious health and equipment problems. They then settled on perchloroethylene (perc), which was safer and more effective.",
+      "topics": [
+        "carbon tetrachloride",
+        "trichloroethylene",
+        "perchloroethylene adoption",
+        "Stoddard solvent"
+      ]
+    },
+    {
+      "start": "00:12:11",
+      "end": "00:13:36",
+      "kind": "content",
+      "title": "One Hour Martinizing and perc's rise",
+      "summary": "Chuck explains that perc allowed smaller storefront dry cleaning and that a chemist started One Hour Martinizing shops, which could return clothes in an hour with on-site facilities. Hosts joke about the name and note early workers' health complaints.",
+      "topics": [
+        "One Hour Martinizing",
+        "perc storefronts",
+        "early worker health"
+      ]
+    },
+    {
+      "start": "00:13:36",
+      "end": "00:15:08",
+      "kind": "content",
+      "title": "Transition before break",
+      "summary": "Brief tangent about a TV show, then the hosts set up the explanation of what happens when clothes are dropped off.",
+      "topics": [
+        "dry cleaning intake"
+      ]
+    },
+    {
+      "start": "00:15:08",
+      "end": "00:16:56",
+      "kind": "content",
+      "title": "Dropping off clothes and inspection",
+      "summary": "Staff inspect garments and write down existing damage and stains to protect against later complaints. Stains are noted and pre-treated.",
+      "topics": [
+        "dry cleaning intake",
+        "stain inspection",
+        "pre-spotting"
+      ]
+    },
+    {
+      "start": "00:16:56",
+      "end": "00:20:42",
+      "kind": "content",
+      "title": "Dry-to-dry machines and solvent recovery",
+      "summary": "Machines use perc in a closed drum that washes and dries in one unit. Fifth generation machines recover nearly all solvent, filter it, separate water, and condense vapor, with refills only every few years.",
+      "topics": [
+        "dry-to-dry machines",
+        "solvent recovery",
+        "fifth generation machines",
+        "perc filtration",
+        "water separator"
+      ]
+    },
+    {
+      "start": "00:20:42",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Quality control and stain removal by hand",
+      "summary": "Hosts discuss human quality control, dirty filters causing dingy clothes and dye problems, and post-spotting by hand for stains that machines miss. Stains are classed as wet-side or dry-side, requiring different solvents or enzyme treatments.",
+      "topics": [
+        "quality control",
+        "post-spotting",
+        "wet-side and dry-side stains",
+        "stain removal"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:48",
+      "kind": "content",
+      "title": "Home stain treatment and Shout",
+      "summary": "Hosts advise that customers should tell the dry cleaner about stains and discuss home pre-treatment, with the Smithsonian as a reference. Chuck praises Shout and its online stain guide. Some stains are permanent.",
+      "topics": [
+        "home stain removal",
+        "Shout stain remover",
+        "stain advice",
+        "permanent stains"
+      ]
+    },
+    {
+      "start": "00:27:48",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Pressing and finishing process",
+      "summary": "Finishing uses shirt bucks that puff with steam and air, then ironing presses or human ironers. Chinos and cotton pants are hardest to press. Dry cleaning solvents penetrate fabric less than water, which reduces shrinkage.",
+      "topics": [
+        "pressing and finishing",
+        "shirt buck",
+        "steam finishing",
+        "why dry clean only",
+        "fabric shrinkage"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:20",
+      "kind": "content",
+      "title": "Plastic bags and home garment care",
+      "summary": "Hosts discuss plastic covers used on dry-cleaned clothes, advising removal and recycling at home, and the harm of storing clothes in them. Also brief laundering comparisons.",
+      "topics": [
+        "dry cleaning plastic bags",
+        "garment storage",
+        "recycling plastic film"
+      ]
+    },
+    {
+      "start": "00:34:20",
+      "end": "00:37:05",
+      "kind": "content",
+      "title": "Perc use statistics and EPA regulation",
+      "summary": "About 60 to 65 percent of US dry cleaners use perc, around 85 percent in Europe. EU countries mandate fifth generation machines. US rules limit new installations to fifth generation machines.",
+      "topics": [
+        "perc usage statistics",
+        "machine generation rules",
+        "EU dry cleaning regulation"
+      ]
+    },
+    {
+      "start": "00:37:05",
+      "end": "00:39:15",
+      "kind": "content",
+      "title": "Perc health hazards and Cape Cod study",
+      "summary": "Perc is a neurotoxin and carcinogen that moves through soil and groundwater and vapor. An EPA study of Cape Cod communities linked prolonged perc exposure to pregnancy issues, bipolar disorder, PTSD, vision problems and some cancers, though not all attributed solely to perc.",
+      "topics": [
+        "perc health risks",
+        "perc neurotoxin",
+        "Cape Cod perc contamination",
+        "EPA studies"
+      ]
+    },
+    {
+      "start": "00:39:15",
+      "end": "00:41:47",
+      "kind": "content",
+      "title": "Perc bans and cleanup costs",
+      "summary": "EPA set deadlines, and California banned perc as of 2023. Former dry cleaning sites are contaminated, with cleanup costing millions and owners held liable even when sites were previously permitted. Estimates place the US cleanup cost near eight billion dollars.",
+      "topics": [
+        "perc ban California",
+        "dry cleaning site cleanup",
+        "environmental liability",
+        "contaminated dry cleaning sites"
+      ]
+    },
+    {
+      "start": "00:41:47",
+      "end": "00:43:38",
+      "kind": "content",
+      "title": "Green dry cleaning and wet cleaning",
+      "summary": "Four green dry cleaning methods are introduced. Wet cleaning uses water and mild detergents; King County in Washington offers grants covering roughly forty to sixty thousand dollars for switching.",
+      "topics": [
+        "green dry cleaning",
+        "wet cleaning",
+        "King County grant"
+      ]
+    },
+    {
+      "start": "00:43:38",
+      "end": "00:46:21",
+      "kind": "content",
+      "title": "Liquid CO2 and DF-2000 hydrocarbon solvent",
+      "summary": "Liquid CO2 machines cost about 150,000 dollars each and use captured industrial CO2. DF-2000, a petroleum-based hydrocarbon solvent from Exxon Mobil, is marketed as organic, which the hosts call a possible greenwashing term.",
+      "topics": [
+        "liquid CO2 cleaning",
+        "DF-2000",
+        "hydrocarbon solvent",
+        "organic greenwashing"
+      ]
+    },
+    {
+      "start": "00:46:21",
+      "end": "00:49:07",
+      "kind": "content",
+      "title": "Green Earth silicone solvent",
+      "summary": "Green Earth uses liquid silicone, which is inert and odorless. Silicone is reported to release dioxin during production, and a siloxane has been shown to be carcinogenic in rats, so its safety is uncertain. The hosts conclude liquid CO2 seems greenest but is costly.",
+      "topics": [
+        "Green Earth",
+        "liquid silicone",
+        "siloxane safety",
+        "green alternatives comparison"
+      ]
+    },
+    {
+      "start": "00:49:07",
+      "end": "00:49:45",
+      "kind": "content",
+      "title": "Josh's rug cleaning experience",
+      "summary": "Josh describes a rug sent out to a facility that came back with a sour wet smell and a stain not fully removed.",
+      "topics": [
+        "rug cleaning",
+        "dry cleaning complaints"
+      ]
+    },
+    {
+      "start": "00:49:45",
+      "end": "00:51:43",
+      "kind": "listener_mail",
+      "title": "Listener mail: Marie Tharp",
+      "summary": "Natalie, a paleoclimatology postdoc, writes that Marie Tharp mapped the Atlantic seafloor and was underacknowledged; the hosts say they will consider an episode on Tharp and Thomas Jennings.",
+      "topics": [
+        "listener mail",
+        "Marie Tharp",
+        "plate tectonics",
+        "Thomas Jennings episode request"
+      ]
+    },
+    {
+      "start": "00:51:43",
+      "end": "00:52:10",
+      "kind": "outro",
+      "title": "Sign-off and contact info",
+      "summary": "Hosts give the email address for listener mail and sign off.",
+      "topics": [
+        "contact info",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19052,
+    "output_tokens": 4875
+  }
+}

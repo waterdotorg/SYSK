@@ -1,0 +1,386 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-07-18_Insomnia_Why_you_cant_sleep_50min.txt",
+  "title": "Insomnia: Why you can't sleep",
+  "date": "2023-07-18",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/insomnia-why-you-cant-sleep",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6bd56e5b-67bb-4f26-aabd-b043000bddf5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6bd56e5b-67bb-4f26-aabd-b043000bddf5/transcript?format=TextWithTimestamps&t=1713886935",
+  "summary": "Josh and Chuck explore insomnia: its definition, the 20-minute sleep-onset norm, transient, acute and chronic categories, the older primary/secondary classification (psychophysiological, idiopathic, paradoxical), and common causes including age, pregnancy, mental health disorders and medications. They cover prevalence statistics, sleep diaries, sleep hygiene (bedroom use, screens, exercise, bedtime yoga, regular schedules), supplements like melatonin, valerian and CBD, prescription sleep aids and their risks, the record-setting sleeplessness history (Randy Gardner), cognitive behavioral therapy for insomnia with sleep boot camp and stimulus control therapy, passive wakefulness, and the counting-sheep myth. The episode ends with a listener mail from Nova.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "insomnia",
+    "sleep disorders",
+    "chronic insomnia",
+    "acute insomnia",
+    "transient insomnia",
+    "primary insomnia",
+    "secondary insomnia",
+    "psychophysiological insomnia",
+    "paradoxical insomnia",
+    "idiopathic insomnia",
+    "sleep onset insomnia",
+    "sleep maintenance insomnia",
+    "sleep hygiene",
+    "sleep diary",
+    "cognitive behavioral therapy for insomnia",
+    "CBT-I",
+    "stimulus control therapy",
+    "sleep boot camp",
+    "passive wakefulness",
+    "melatonin",
+    "sleep medications",
+    "sedative hypnotics",
+    "Ambien",
+    "counting sheep",
+    "sleep deprivation",
+    "sleep records",
+    "Randy Gardner",
+    "how much sleep you need",
+    "insomnia statistics",
+    "valerian",
+    "CBD sleep gummies",
+    "bedtime yoga",
+    "SSRIs and sleep",
+    "sleep and aging"
+  ],
+  "entities": [
+    {
+      "name": "Randy Gardner",
+      "type": "person"
+    },
+    {
+      "name": "William Dement",
+      "type": "person"
+    },
+    {
+      "name": "Robert MacDonald",
+      "type": "person"
+    },
+    {
+      "name": "Maureen Weston",
+      "type": "person"
+    },
+    {
+      "name": "John Hodgman",
+      "type": "person"
+    },
+    {
+      "name": "Guinness World Records",
+      "type": "organization"
+    },
+    {
+      "name": "Ambien",
+      "type": "other"
+    },
+    {
+      "name": "Lunesta",
+      "type": "other"
+    },
+    {
+      "name": "Melatonin",
+      "type": "other"
+    },
+    {
+      "name": "Valerian",
+      "type": "other"
+    },
+    {
+      "name": "Ramelteon",
+      "type": "other"
+    },
+    {
+      "name": "Edward Norton",
+      "type": "person"
+    },
+    {
+      "name": "Fight Club",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:38",
+      "kind": "ad",
+      "title": "Tour dates promo",
+      "summary": "Hosts promote upcoming live tour shows in Orlando, Nashville and Atlanta and direct listeners to the website for tickets.",
+      "topics": [
+        "tour dates",
+        "live shows"
+      ]
+    },
+    {
+      "start": "00:00:38",
+      "end": "00:02:05",
+      "kind": "intro",
+      "title": "Opening banter and insomnia introduction",
+      "summary": "Hosts banter about sleepiness and falling back asleep, then introduce insomnia as a topic they hadn't covered before, with sources cited.",
+      "topics": [
+        "sleep habits",
+        "insomnia introduction"
+      ]
+    },
+    {
+      "start": "00:02:05",
+      "end": "00:07:05",
+      "kind": "content",
+      "title": "Sleep needs by age and aging sleep",
+      "summary": "Recommended sleep hours by age are given, along with the point that people get less sleep as they age, and the hosts discuss their own early rising habits.",
+      "topics": [
+        "how much sleep you need",
+        "sleep and aging",
+        "sleep needs by age"
+      ]
+    },
+    {
+      "start": "00:07:05",
+      "end": "00:09:02",
+      "kind": "content",
+      "title": "Definition and sleep-onset norms",
+      "summary": "Insomnia is defined as difficulty falling asleep, staying asleep, or both. Around twenty minutes to fall asleep is the normal range, and sleep-onset insomnia and worry about sleep are discussed.",
+      "topics": [
+        "insomnia definition",
+        "sleep onset insomnia",
+        "sleep anxiety"
+      ]
+    },
+    {
+      "start": "00:09:02",
+      "end": "00:11:10",
+      "kind": "content",
+      "title": "Consequences and insomnia statistics",
+      "summary": "Lack of sleep is linked to health problems and accidents. Prevalence statistics are given for Americans with sleep disorders and insomnia, and worldwide data on people not getting enough sleep. A sleep doctor's view that sleep problems are a modern phenomenon is mentioned.",
+      "topics": [
+        "insomnia statistics",
+        "sleep deprivation health risks",
+        "modern sleep problems"
+      ]
+    },
+    {
+      "start": "00:11:10",
+      "end": "00:13:11",
+      "kind": "content",
+      "title": "Causes and risk groups",
+      "summary": "Insomnia has many causes, mostly physiological arousal at bedtime, with possible genetic and age links. Women and pregnant people are more affected, and insomnia often co-occurs with depression and anxiety.",
+      "topics": [
+        "causes of insomnia",
+        "insomnia risk factors",
+        "insomnia and depression"
+      ]
+    },
+    {
+      "start": "00:13:11",
+      "end": "00:15:52",
+      "kind": "content",
+      "title": "Transient, acute and chronic insomnia; primary subtypes",
+      "summary": "Insomnia is classified by duration: transient, acute, and chronic (three or more days a week for over three months), with daytime impairment required. The older primary subtypes (psychophysiological, idiopathic, paradoxical) are discussed and noted as largely dropped.",
+      "topics": [
+        "transient insomnia",
+        "acute insomnia",
+        "chronic insomnia",
+        "primary insomnia subtypes",
+        "psychophysiological insomnia",
+        "idiopathic insomnia",
+        "paradoxical insomnia",
+        "insomnia diagnosis"
+      ]
+    },
+    {
+      "start": "00:15:52",
+      "end": "00:17:44",
+      "kind": "content",
+      "title": "Secondary insomnia and medication causes",
+      "summary": "Secondary insomnia arises from another disorder and is the majority of cases. Triggers include depression, anxiety, bipolar disorder, and medications such as SSRIs, beta blockers and alpha blockers.",
+      "topics": [
+        "secondary insomnia",
+        "medication side effects insomnia",
+        "SSRIs insomnia",
+        "beta blockers"
+      ]
+    },
+    {
+      "start": "00:17:44",
+      "end": "00:18:16",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:18:16",
+      "end": "00:20:03",
+      "kind": "content",
+      "title": "Sleep loss by decade and other high-risk groups",
+      "summary": "Sleep quality reportedly declines by about twenty-seven minutes per night each decade from middle age. Low-income households, chronic pain, diabetes, sleep apnea and restless leg syndrome are named as risk factors.",
+      "topics": [
+        "sleep loss by decade",
+        "low income and sleep",
+        "chronic pain and sleep",
+        "sleep apnea",
+        "restless leg syndrome"
+      ]
+    },
+    {
+      "start": "00:20:03",
+      "end": "00:22:25",
+      "kind": "content",
+      "title": "Diagnosis and sleep diaries",
+      "summary": "Diagnosis starts with a doctor visit, where a sleep diary may be recommended to track habits like drinking, eating, exercise, and bedtime.",
+      "topics": [
+        "insomnia diagnosis",
+        "sleep diary",
+        "doctor visit for sleep"
+      ]
+    },
+    {
+      "start": "00:22:25",
+      "end": "00:26:09",
+      "kind": "content",
+      "title": "Sleep hygiene and bedroom habits",
+      "summary": "Sleep hygiene covers habits and environment: avoiding screens, stimulants and alcohol before bed, exercise timing, bedtime yoga, consistent sleep and wake times, and a bedroom used only for sleep. John Hodgman's advice on large beds and separate bedrooms is discussed, along with the hosts' personal sleep experiences.",
+      "topics": [
+        "sleep hygiene",
+        "bedtime yoga",
+        "bedroom for sleep only",
+        "consistent sleep schedule",
+        "separate bedrooms",
+        "bed partners and sleep"
+      ]
+    },
+    {
+      "start": "00:26:09",
+      "end": "00:29:28",
+      "kind": "content",
+      "title": "TV and screens at bedtime",
+      "summary": "Watching TV in bed and screen light before sleep are discussed, with advice to move TVs out of the bedroom and use warmer screen settings.",
+      "topics": [
+        "screen time before bed",
+        "TV in bedroom",
+        "blue light"
+      ]
+    },
+    {
+      "start": "00:29:28",
+      "end": "00:31:17",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:31:17",
+      "end": "00:34:33",
+      "kind": "content",
+      "title": "Relaxation, passive wakefulness and supplements",
+      "summary": "Relaxation techniques and passive wakefulness are discussed, with advice to leave the bedroom during the day. Melatonin use is covered, including its source, short-term versus chronic use, and risks to children. Aromatherapy, valerian and tripping a fan are also mentioned.",
+      "topics": [
+        "relaxation techniques",
+        "passive wakefulness",
+        "melatonin",
+        "valerian",
+        "aromatherapy",
+        "supplements for sleep"
+      ]
+    },
+    {
+      "start": "00:34:33",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "CBD and celebrity tangents",
+      "summary": "CBD sleep gummies are discussed as a wild-west area needing study. The hosts digress into a tangent about Woody Harrelson and Matthew McConaughey possibly being related, and other celebrity-related anecdotes.",
+      "topics": [
+        "CBD sleep gummies",
+        "CBD for sleep",
+        "celebrity tangents"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:39:18",
+      "kind": "content",
+      "title": "Prescription sleep drugs and risks",
+      "summary": "Prescription sleep aids such as Ambien, Lunesta and ramelteon are discussed. They are meant for short-term use due to dependence risk, and sedative hypnotics can cause risky sleep behaviors. A butter anecdote follows.",
+      "topics": [
+        "prescription sleep aids",
+        "Ambien",
+        "Lunesta",
+        "ramelteon",
+        "sedative hypnotics risks",
+        "sleepwalking behaviors"
+      ]
+    },
+    {
+      "start": "00:39:18",
+      "end": "00:42:22",
+      "kind": "content",
+      "title": "Sleep deprivation records and Randy Gardner",
+      "summary": "The history of sleeplessness record attempts is covered, including Guinness stopping tracking in 1997, Robert MacDonald's eighteen-day record in 1986, and Randy Gardner's eleven-day experiment in 1963 supervised by William Dement, with reported lasting effects.",
+      "topics": [
+        "sleep deprivation records",
+        "Randy Gardner",
+        "Robert MacDonald",
+        "Guinness record sleep",
+        "William Dement sleep experiment"
+      ]
+    },
+    {
+      "start": "00:42:22",
+      "end": "00:46:30",
+      "kind": "content",
+      "title": "Cognitive behavioral therapy, sleep boot camp and stimulus control",
+      "summary": "Cognitive behavioral therapy for insomnia is described as the gold standard, including sleep boot camp and stimulus control therapy. An Australian study found five weeks of combined treatment effective without drugs. Most insomnia is treatable, but many people never seek help.",
+      "topics": [
+        "cognitive behavioral therapy for insomnia",
+        "sleep boot camp",
+        "stimulus control therapy",
+        "Australian insomnia study",
+        "seeking help for insomnia"
+      ]
+    },
+    {
+      "start": "00:46:30",
+      "end": "00:48:04",
+      "kind": "content",
+      "title": "Counting sheep myth",
+      "summary": "Counting sheep is described as not effective and possibly keeping people up longer. Researchers suggest imagining a relaxing place instead.",
+      "topics": [
+        "counting sheep",
+        "sleep myths",
+        "visualization for sleep"
+      ]
+    },
+    {
+      "start": "00:48:04",
+      "end": "00:49:23",
+      "kind": "listener_mail",
+      "title": "Listener mail from Nova",
+      "summary": "A listener named Nova, a recent mechanical engineering graduate, shares how the show helped through tough times and inspired their studies.",
+      "topics": [
+        "listener mail",
+        "listener feedback"
+      ]
+    },
+    {
+      "start": "00:49:23",
+      "end": "00:49:58",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank Nova, invite listener email, and close with the iHeartRadio production credit.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19304,
+    "output_tokens": 4360
+  }
+}

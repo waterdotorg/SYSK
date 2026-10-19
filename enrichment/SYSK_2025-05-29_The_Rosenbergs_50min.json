@@ -1,0 +1,418 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-05-29_The_Rosenbergs_50min.txt",
+  "title": "The Rosenbergs",
+  "date": "2025-05-29",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-rosenbergs",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/27d0f978-3cd9-4d02-9215-b2ec00219e20/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/27d0f978-3cd9-4d02-9215-b2ec00219e20/transcript?format=TextWithTimestamps&t=1748484944",
+  "summary": "Josh and Chuck (credited in the transcript as \"iHeart Intro\" for Chuck's lines) cover the Rosenberg espionage case: Julius and Ethel Rosenberg, their Soviet spy ring, the atomic bomb secrets passed through David Greenglass, the 1950-51 arrests and trial, the death sentences, the last-minute appeals and the June 1953 executions, and the later release of the Venona cables. The episode opens with banter about \"We Didn't Start the Fire\" and Billy Joel, and closes with listener mail about Cole's Notes.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Rosenberg case",
+    "Julius Rosenberg",
+    "Ethel Rosenberg",
+    "Rosenberg espionage",
+    "atomic bomb espionage",
+    "Soviet spy ring",
+    "Cold War espionage",
+    "David Greenglass",
+    "Ruth Greenglass",
+    "Venona cables",
+    "Klaus Fuchs",
+    "Harry Gold",
+    "Espionage Act of 1917",
+    "Rosenberg execution",
+    "Rosenberg trial 1951",
+    "Manny Block",
+    "Irving Kaufman judge",
+    "Roy Cohn",
+    "Morton Sobell",
+    "Los Alamos Manhattan Project spying",
+    "Cole's Notes listener mail",
+    "Billy Joel",
+    "Susie and the Banshees Strange Fruit"
+  ],
+  "entities": [
+    {
+      "name": "Julius Rosenberg",
+      "type": "person"
+    },
+    {
+      "name": "Ethel Rosenberg",
+      "type": "person"
+    },
+    {
+      "name": "David Greenglass",
+      "type": "person"
+    },
+    {
+      "name": "Ruth Greenglass",
+      "type": "person"
+    },
+    {
+      "name": "Morton Sobell",
+      "type": "person"
+    },
+    {
+      "name": "Klaus Fuchs",
+      "type": "person"
+    },
+    {
+      "name": "Harry Gold",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Feklisov",
+      "type": "person"
+    },
+    {
+      "name": "Semyon Semyonov",
+      "type": "person"
+    },
+    {
+      "name": "Manny Block",
+      "type": "person"
+    },
+    {
+      "name": "Irving Kaufman",
+      "type": "person"
+    },
+    {
+      "name": "Irving Saypol",
+      "type": "person"
+    },
+    {
+      "name": "Roy Cohn",
+      "type": "person"
+    },
+    {
+      "name": "Elizabeth Bentley",
+      "type": "person"
+    },
+    {
+      "name": "J. Edgar Hoover",
+      "type": "person"
+    },
+    {
+      "name": "Venona cables",
+      "type": "work"
+    },
+    {
+      "name": "Los Alamos",
+      "type": "place"
+    },
+    {
+      "name": "Knickerbocker Village",
+      "type": "place"
+    },
+    {
+      "name": "Seward Park High School",
+      "type": "organization"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "place"
+    },
+    {
+      "name": "Espionage Act of 1917",
+      "type": "work"
+    },
+    {
+      "name": "Cole's Notes",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:11",
+      "kind": "intro",
+      "title": "Show open",
+      "summary": "Standard iHeart intro and show opening.",
+      "topics": [
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:00:11",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "The hosts joke about the We Didn't Start the Fire song and Billy Joel's music before turning to the Rosenbergs.",
+      "topics": [
+        "We Didn't Start the Fire",
+        "Billy Joel"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "Overview of the Rosenberg case",
+      "summary": "Julius and Ethel Rosenberg were a married New York couple convicted of espionage in 1951 and executed. Historians dispute Ethel's guilt. Julius was a Soviet spy, and the couple were the only Cold War spies convicted and executed.",
+      "topics": [
+        "Rosenberg case overview",
+        "Cold War espionage",
+        "Rosenberg execution"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:06:20",
+      "kind": "content",
+      "title": "Early lives and meeting",
+      "summary": "Ethel and Julius were both born in New York and attended Seward Park High School. They met at City College and became committed communists, meeting at a charity benefit for a union.",
+      "topics": [
+        "Ethel Rosenberg early life",
+        "Julius Rosenberg early life",
+        "Communism in New York"
+      ]
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:08:05",
+      "kind": "content",
+      "title": "Julius's early involvement and 1941 FBI loyalty meeting",
+      "summary": "Julius joined a Young Communist League affiliated group and trained as an electrical engineer. He was hired by the US Army Signal Corps. In 1941 he faced an FBI loyalty meeting and the case was dropped. The couple moved to Knickerbocker Village in 1942.",
+      "topics": [
+        "Young Communist League",
+        "Army Signal Corps",
+        "FBI loyalty investigation",
+        "Knickerbocker Village"
+      ]
+    },
+    {
+      "start": "00:08:05",
+      "end": "00:10:05",
+      "kind": "content",
+      "title": "How Julius became a spy",
+      "summary": "Accounts differ on how Julius started spying. Julius's own claim of framing is false. Hosts cite a Soviet agent introduction at a Labor Day rally and his anti-fascism motives.",
+      "topics": [
+        "Julius Rosenberg spy recruitment",
+        "anti-fascism",
+        "Soviet intelligence handlers"
+      ]
+    },
+    {
+      "start": "00:10:05",
+      "end": "00:12:25",
+      "kind": "content",
+      "title": "Passing weapons secrets and failed Pitt Machine business",
+      "summary": "Julius passed weapons information such as the proximity fuse to the Soviets, handled first by Semyonov then Feklisov. He recruited David Greenglass, and they started Pitt Machine Products, which failed by 1948 amid family tension.",
+      "topics": [
+        "proximity fuse",
+        "Pitt Machine Products",
+        "family business conflict"
+      ]
+    },
+    {
+      "start": "00:12:25",
+      "end": "00:14:08",
+      "kind": "content",
+      "title": "Family animosity and Ruth's accident",
+      "summary": "Tension grew between David and Julius over debts and business. In February 1950 David's wife Ruth was badly burned in an apartment fire.",
+      "topics": [
+        "David Greenglass animosity",
+        "Ruth Greenglass fire"
+      ]
+    },
+    {
+      "start": "00:14:08",
+      "end": "00:16:50",
+      "kind": "content",
+      "title": "Klaus Fuchs, Venona cables, and David Greenglass's arrest",
+      "summary": "The case began in February 1950 with Klaus Fuchs's confession. Venona cables helped identify spies; Harry Gold led investigators to David Greenglass, who was arrested June 15, 1950 and confessed.",
+      "topics": [
+        "Klaus Fuchs",
+        "Venona cables",
+        "Harry Gold",
+        "David Greenglass arrest"
+      ]
+    },
+    {
+      "start": "00:16:50",
+      "end": "00:18:20",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a break before continuing the story.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:18:20",
+      "end": "00:19:50",
+      "kind": "content",
+      "title": "Arrests of Julius and Ethel",
+      "summary": "The FBI questioned Julius in June 1950 and had enough to arrest him July 17. Ethel testified before a grand jury and was arrested August 11, 1950. Both were charged with conspiracy under the Espionage Act of 1917.",
+      "topics": [
+        "Julius Rosenberg arrest",
+        "Ethel Rosenberg arrest",
+        "Espionage Act"
+      ]
+    },
+    {
+      "start": "00:19:50",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Atomic secrets from Los Alamos and the Jell-O box plan",
+      "summary": "David Greenglass worked at Los Alamos on the Manhattan Project from August 1944. Ruth recruited him as a spy. Julius devised a plan B courier system using a torn Jell-O box as a recognition token; Harry Gold later used the matching half to contact David and Ruth. Gold paid $500.",
+      "topics": [
+        "Los Alamos",
+        "Manhattan Project espionage",
+        "Jell-O box plan B",
+        "Harry Gold courier"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Later atomic information and the frying pan",
+      "summary": "In September 1945 David returned to New York and gave Julius more notes and a sketch of the bomb. Julius reportedly burned the notes in a frying pan and paid David $200.",
+      "topics": [
+        "atomic bomb notes",
+        "Julius burned notes"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:27:43",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts pause the episode with a break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:27:43",
+      "end": "00:31:02",
+      "kind": "content",
+      "title": "David Greenglass's deal and false testimony against Ethel",
+      "summary": "David's attorney advised him to blame the Rosenbergs. David testified before the grand jury that Ethel was not involved, then at trial implicated her. In 2001 David admitted he lied about Ethel to protect his wife.",
+      "topics": [
+        "David Greenglass testimony",
+        "perjury",
+        "Ethel Rosenberg leverage",
+        "J. Edgar Hoover FBI"
+      ]
+    },
+    {
+      "start": "00:31:02",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Trial lawyers, judge, and jury",
+      "summary": "Julius and Ethel were tried with Morton Sobell. Their lawyers were Manny Block and Alexander Rosenberg. Prosecutor Irving Saypol and Judge Irving Kaufman were known for anti-communism. The jury had one Black man, one white woman, and no Jewish members.",
+      "topics": [
+        "Rosenberg trial",
+        "Manny Block",
+        "Irving Kaufman",
+        "Irving Saypol",
+        "jury selection"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:37",
+      "kind": "content",
+      "title": "Trial witnesses and digressions",
+      "summary": "Witnesses included Max Elitcher, Lewis Abel, George Bernhard, Harry Gold, and Elizabeth Bentley. Julius's doctor said Julius asked about inoculations for Mexico. The hosts digress on Cole's Notes-style jokes and Sir Mix-a-Lot.",
+      "topics": [
+        "Rosenberg trial witnesses",
+        "Elizabeth Bentley",
+        "Max Elitcher",
+        "trial testimony"
+      ]
+    },
+    {
+      "start": "00:37:37",
+      "end": "00:40:23",
+      "kind": "content",
+      "title": "Verdict and sentencing",
+      "summary": "The trial lasted three weeks; all three were found guilty in March 1951. Sobell got thirty years; the Rosenbergs got death sentences, the judge citing Korean War aggression.",
+      "topics": [
+        "Rosenberg verdict",
+        "death sentence",
+        "Korean War"
+      ]
+    },
+    {
+      "start": "00:40:23",
+      "end": "00:43:05",
+      "kind": "content",
+      "title": "Appeals, public campaign, and the execution standoff",
+      "summary": "Manny Block's appeals and a National Guardian article drew international support, including from Picasso and Einstein. Officials reportedly offered clemency for names; the Rosenbergs refused, and they were executed.",
+      "topics": [
+        "Rosenberg appeals",
+        "international clemency campaign",
+        "game of chicken",
+        "National Guardian"
+      ]
+    },
+    {
+      "start": "00:43:05",
+      "end": "00:45:19",
+      "kind": "content",
+      "title": "Execution timing and funeral",
+      "summary": "The execution was moved earlier to before the Sabbath. The Rosenbergs were put to death at 8 pm, and a June 1953 funeral in Brooklyn drew about ten thousand people. They were buried at Wellwood Jewish Cemetery.",
+      "topics": [
+        "Rosenberg execution date",
+        "Wellwood Jewish Cemetery",
+        "Rosenberg funeral"
+      ]
+    },
+    {
+      "start": "00:45:19",
+      "end": "00:47:23",
+      "kind": "content",
+      "title": "Sons and legacy",
+      "summary": "Their sons Michael and Robert were adopted by Anne and Abel Meeropol. Michael became an economist and Robert an attorney, and they worked to clear their parents' names. Venona cables released in the 1990s confirmed Julius's espionage.",
+      "topics": [
+        "Rosenberg sons",
+        "Venona cables release",
+        "clearing names",
+        "Abel Meeropol"
+      ]
+    },
+    {
+      "start": "00:47:23",
+      "end": "00:47:51",
+      "kind": "outro",
+      "title": "Wrap-up banter",
+      "summary": "Hosts reflect on the jokes in the episode.",
+      "topics": [
+        "episode wrap-up"
+      ]
+    },
+    {
+      "start": "00:47:51",
+      "end": "00:49:14",
+      "kind": "listener_mail",
+      "title": "Listener mail: Cole's Notes",
+      "summary": "Natalie from Alberta explains Cole's Notes were common Canadian study guides sold at Coles bookstores.",
+      "topics": [
+        "Cole's Notes",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:49:14",
+      "end": "00:49:40",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Standard iHeart sign-off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19575,
+    "output_tokens": 4584
+  }
+}

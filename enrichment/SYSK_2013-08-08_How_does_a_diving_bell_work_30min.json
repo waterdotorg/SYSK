@@ -1,0 +1,182 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-08-08_How_does_a_diving_bell_work_30min.txt",
+  "title": "How does a diving bell work?",
+  "date": "2013-08-08",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-does-a-diving-bell-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d2cab846-5ea1-462f-9afa-ae28009e8c42/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d2cab846-5ea1-462f-9afa-ae28009e8c42/transcript?format=TextWithTimestamps&t=1700543898",
+  "summary": "Josh Clark and Chuck Bryant explain how diving bells work, tracing their history from Aristotle's description in the fourth century BC and Alexander the Great's reported use, through Dennis Papin's bellows-and-hose air supply in the late 1600s, Edmund Halley's pressurized barrel system in the 1700s, and John Smeaton's mechanized air pump. They cover the physics of compressed air, the bends (decompression sickness), the pressurized caissons used to build the Brooklyn Bridge, and the 2013 survival of Perrison O'Kenny, a cook trapped for sixty hours in a capsized tugboat's bathroom about 100 feet down. The episode also includes a listener letter from a first-year teacher and a Sharknado joke.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "diving bell",
+    "diving bells history",
+    "Aristotle diving bell",
+    "Alexander the Great diving bell",
+    "Dennis Papin",
+    "Edmund Halley diving bell",
+    "John Smeaton air pump",
+    "compressed air diving",
+    "pressurized diving bell",
+    "decompression sickness",
+    "the bends",
+    "nitrogen narcosis",
+    "caisson",
+    "Brooklyn Bridge caisson",
+    "carbon dioxide poisoning",
+    "Boyle's law",
+    "Perrison O'Kenny",
+    "Chevron tugboat survival",
+    "underwater saboteurs",
+    "Sharknado",
+    "listener mail",
+    "scuba diving history"
+  ],
+  "entities": [
+    {
+      "name": "Aristotle",
+      "type": "person"
+    },
+    {
+      "name": "Alexander the Great",
+      "type": "person"
+    },
+    {
+      "name": "Dennis Papin",
+      "type": "person"
+    },
+    {
+      "name": "Edmund Halley",
+      "type": "person"
+    },
+    {
+      "name": "John Smeaton",
+      "type": "person"
+    },
+    {
+      "name": "Washington Roebling",
+      "type": "person"
+    },
+    {
+      "name": "Perrison O'Kenny",
+      "type": "person"
+    },
+    {
+      "name": "Brooklyn Bridge",
+      "type": "place"
+    },
+    {
+      "name": "Siege of Tyre",
+      "type": "event"
+    },
+    {
+      "name": "Chevron tugboat",
+      "type": "other"
+    },
+    {
+      "name": "Sharknado",
+      "type": "work"
+    },
+    {
+      "name": "Pirates of the Caribbean",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to diving bells",
+      "summary": "Hosts joke about the studio heat and the Chuck-written HowStuffWorks article on diving bells, and note the history of early divers' deaths.",
+      "topics": [
+        "diving bells",
+        "show banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Ancient diving bells and Aristotle",
+      "summary": "Diving bells were used by the twelfth century and described by Aristotle in the fourth century BC. The hosts explain the basic physics: an inverted vessel pushed straight down traps air against the water. Alexander the Great's reported use at the Siege of Tyre is discussed as plausible.",
+      "topics": [
+        "Aristotle diving bell",
+        "Alexander the Great diving bell",
+        "diving bell physics",
+        "history of diving bells"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Air pressure, compression, and the bends",
+      "summary": "The hosts explain that a bell holds compressed air at depth, and that nitrogen dissolves in the blood under pressure and forms bubbles on rapid ascent, causing decompression sickness, or the bends, which can lead to strokes, heart attacks, and joint pain.",
+      "topics": [
+        "compressed air",
+        "the bends",
+        "decompression sickness",
+        "nitrogen in the blood"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Early improvements: Papin's hoses and Halley's pressurized barrels",
+      "summary": "In the late 1600s Dennis Papin supplied fresh air by hose and bellows. In the 1700s Edmund Halley used weighted wooden barrels with air and a faucet to pressurize the bell, letting divers go deeper and stay longer.",
+      "topics": [
+        "Dennis Papin",
+        "Edmund Halley diving bell",
+        "bellows air supply",
+        "pressurized diving bell"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Caissons, Brooklyn Bridge, and mechanized air pumps",
+      "summary": "Pressurized caissons were used to build the Brooklyn Bridge, where workers faced burst eardrums and decompression sickness. Washington Roebling was left lifelong crippled after an inspection dive. John Smeaton then built a mechanized air pump, enabling larger bells used for bridges, dock repair, and sabotage of anchor lines.",
+      "topics": [
+        "caisson",
+        "Brooklyn Bridge construction",
+        "Washington Roebling",
+        "John Smeaton air pump",
+        "underwater sabotage"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Perrison O'Kenny's sixty hours trapped underwater",
+      "summary": "A Nigerian cook, Perrison O'Kenny, survived sixty hours in a trapped air pocket in a bathroom after his Chevron tugboat capsized in the Atlantic and sank about 100 feet. The hosts discuss how carbon dioxide, not lack of oxygen, is the main danger, and how pressure and cold water absorbing CO2 helped him survive, with Boyle's law explaining the denser air.",
+      "topics": [
+        "Perrison O'Kenny",
+        "Chevron tugboat capsizing",
+        "carbon dioxide poisoning",
+        "Boyle's law",
+        "air pocket survival"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:30:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Message break and sponsor read for State Farm.",
+      "topics": [
+        "sponsor"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10734,
+    "output_tokens": 2134
+  }
+}

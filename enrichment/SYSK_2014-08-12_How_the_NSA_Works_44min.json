@@ -1,0 +1,309 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-08-12_How_the_NSA_Works_44min.txt",
+  "title": "How the NSA Works",
+  "date": "2014-08-12",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-nsa-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5c387bb3-3700-445b-a8ae-ae2800955e42/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5c387bb3-3700-445b-a8ae-ae2800955e42/transcript?format=TextWithTimestamps&t=1700543876",
+  "summary": "Josh and Chuck explain the National Security Agency (NSA): its founding under Harry Truman in 1952, its dual mission of signals intelligence (SIGINT) and information assurance, and its relationship with the Central Security Service and the CIA. They trace the legal history from the Church Committee hearings and the FISA Court through the USA Patriot Act, George W. Bush's warrantless surveillance order, and Barack Obama's 2008 expansion covering metadata collection. They cover Edward Snowden's revelations, including PRISM, XKeyscore, Dropout Jeep, Muscular, and fiber optic splitters, along with the Cuban Missile Crisis and 9/11 intelligence failures, criticisms of data overload, privacy arguments (\"nothing to hide\"), and the Salt Lake City data center. The episode closes with a listener mail clarification on how progressive tax brackets work.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "NSA",
+    "National Security Agency",
+    "Edward Snowden revelations",
+    "PRISM surveillance program",
+    "XKeyscore",
+    "Dropout Jeep iPhone implant",
+    "Muscular wiretap Google Yahoo",
+    "FISA Court",
+    "Foreign Intelligence Surveillance Act",
+    "Church Committee hearings",
+    "USA Patriot Act surveillance",
+    "warrantless surveillance",
+    "metadata collection",
+    "signals intelligence SIGINT",
+    "information assurance",
+    "Central Security Service",
+    "Cuban Missile Crisis NSA",
+    "9/11 intelligence failure",
+    "Salt Lake City data center",
+    "privacy vs nothing to hide argument",
+    "mass surveillance",
+    "Section 702 warrants",
+    "Glenn Greenwald",
+    "Tor surveillance",
+    "fiber optic splitter AT&T room 641A",
+    "Harry Truman NSA founding",
+    "tax brackets listener mail"
+  ],
+  "entities": [
+    {
+      "name": "National Security Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Central Security Service",
+      "type": "organization"
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "type": "organization"
+    },
+    {
+      "name": "FISA Court",
+      "type": "organization"
+    },
+    {
+      "name": "Edward Snowden",
+      "type": "person"
+    },
+    {
+      "name": "Glenn Greenwald",
+      "type": "person"
+    },
+    {
+      "name": "Harry Truman",
+      "type": "person"
+    },
+    {
+      "name": "George W. Bush",
+      "type": "person"
+    },
+    {
+      "name": "Barack Obama",
+      "type": "person"
+    },
+    {
+      "name": "Keith Alexander",
+      "type": "person"
+    },
+    {
+      "name": "Daniel J. Solove",
+      "type": "person"
+    },
+    {
+      "name": "PRISM",
+      "type": "work"
+    },
+    {
+      "name": "XKeyscore",
+      "type": "work"
+    },
+    {
+      "name": "Dropout Jeep",
+      "type": "work"
+    },
+    {
+      "name": "Muscular",
+      "type": "work"
+    },
+    {
+      "name": "USA Patriot Act",
+      "type": "work"
+    },
+    {
+      "name": "Foreign Intelligence Surveillance Act",
+      "type": "work"
+    },
+    {
+      "name": "Church Committee",
+      "type": "event"
+    },
+    {
+      "name": "Cuban Missile Crisis",
+      "type": "event"
+    },
+    {
+      "name": "Salt Lake City data center",
+      "type": "place"
+    },
+    {
+      "name": "No Place to Hide",
+      "type": "work"
+    },
+    {
+      "name": "United States of Secrets",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening and reading recommendations",
+      "summary": "Hosts introduce the episode on the NSA and recommend Glenn Greenwald's No Place to Hide, Daniel Solove's essay on privacy, and the Frontline documentary United States of Secrets. They note the story is constantly evolving and say they are presenting facts with their opinion limited to saying the NSA should exist but operate properly.",
+      "topics": [
+        "NSA",
+        "No Place to Hide",
+        "United States of Secrets",
+        "Glenn Greenwald"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Origins and dual mission of the NSA",
+      "summary": "The NSA was created under Harry Truman in 1952 with a dual mission: signals intelligence (SIGINT, eavesdropping) and information assurance (encryption and safeguarding). Its existence was not publicly acknowledged until the mid-1970s after the Church Committee hearings exposed CIA abuses. The NSA differs from the CIA, which acts on intelligence in the field.",
+      "topics": [
+        "NSA origins",
+        "Harry Truman",
+        "signals intelligence SIGINT",
+        "information assurance",
+        "Church Committee",
+        "NSA vs CIA"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "NSA growth, the internet, and the Central Security Service",
+      "summary": "The hosts describe the NSA's growing prominence since 2001 as its work aligned with the internet, and the size of its workforce, including military personnel, the Central Security Service, and contractors. They discuss Snowden's contractor status and his claim to be a highly trained spy.",
+      "topics": [
+        "NSA workforce",
+        "Central Security Service",
+        "NSA contractors",
+        "Snowden contractor status",
+        "internet surveillance"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Data center in Salt Lake City and NSA hiring",
+      "summary": "The hosts discuss the NSA's Salt Lake City data center, said to be capable of storing yottabyte-scale data, and the agency's hiring of non-computer majors for cryptanalysis, as well as its internships and training. They also cover Cuban Missile Crisis intelligence successes.",
+      "topics": [
+        "Salt Lake City data center",
+        "NSA hiring",
+        "cryptanalysis",
+        "Cuban Missile Crisis",
+        "NSA intelligence successes"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "9/11 failures and data overload criticism",
+      "summary": "The hosts discuss criticism that the NSA missed 9/11 warnings, and that lone-wolf plots such as the Times Square bomber were caught through regular police work. They argue the agency is drowning in data, citing missed plots like the Boston bombing, and that Glenn Greenwald advocates more targeted collection.",
+      "topics": [
+        "9/11 intelligence failure",
+        "data overload",
+        "lone wolf terrorism",
+        "Times Square bomber",
+        "Boston bombing",
+        "targeted surveillance"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "FISA Court and the legal history of warrants",
+      "summary": "The Foreign Intelligence Surveillance Act set up the FISA Court, which allowed foreign surveillance but required warrants for domestic targets. Between 1979 and 2004 the court approved nearly all of about 34,000 warrant applications, eleven were not approved. The USA Patriot Act after 9/11 broadened the NSA's domestic powers, including business records described as any tangible thing.",
+      "topics": [
+        "FISA Court",
+        "FISA warrants",
+        "USA Patriot Act",
+        "business records surveillance",
+        "warrant approval rates",
+        "Bush executive order"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Bush and Obama expansions and metadata collection",
+      "summary": "George W. Bush's executive order allowed monitoring of international communications generated in the US without a warrant, and the New York Times delayed reporting on it until after the election. Obama's 2008 changes allowed monitoring of US nationals communicating with targeted foreigners and removed the warrant requirement for bulk metadata, with retention rules for American data.",
+      "topics": [
+        "Bush warrantless surveillance order",
+        "Obama 2008 FISA amendment",
+        "metadata collection",
+        "bulk communications collection",
+        "data retention rules"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "PRISM, XKeyscore, Dropout Jeep, and corporate complicity",
+      "summary": "Snowden documents revealed PRISM, which routes requests through the FBI to internet companies for user data, with companies' complicity still disputed. The hosts discuss XKeyscore for near-real-time monitoring, Dropout Jeep as a software implant in iPhones, and AT&T fiber optic splitters. Muscular tapped Google and Yahoo links directly. The hosts also discuss hardware intercepted in supply chains.",
+      "topics": [
+        "PRISM",
+        "XKeyscore",
+        "Dropout Jeep",
+        "Muscular",
+        "fiber optic splitter",
+        "tech company complicity",
+        "supply chain interception"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Privacy debate, nothing-to-hide argument, and abuses",
+      "summary": "The hosts discuss the nothing-to-hide argument and Daniel Solove's essay on dossiers, the scale of collection (124 billion phone calls in one month in 2013), Tor users being treated as potential extremists, surveillance of Muslim Americans and political figures, and the abuse of surveillance against partners, termed LOVEINT. They also cover spying on diplomats and economic targets for information superiority.",
+      "topics": [
+        "nothing to hide argument",
+        "privacy",
+        "Tor users surveillance",
+        "LOVEINT",
+        "Muslim Americans surveillance",
+        "economic espionage",
+        "information superiority",
+        "Daniel Solove"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Snowden's legacy and public apathy",
+      "summary": "The hosts assess Edward Snowden's role, with some calling him a hero and others a traitor, and say the revelations would likely have remained secret otherwise. They worry that public fatigue could lead people to stop caring about surveillance, and close the main discussion.",
+      "topics": [
+        "Edward Snowden legacy",
+        "public apathy surveillance",
+        "whistleblowers",
+        "privacy concerns"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:58:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: tax brackets clarification",
+      "summary": "A listener writes in to clarify that tax brackets are marginal, so a raise cannot push all of a person's income into a higher bracket, correcting an example from a previous trickle-down economics episode.",
+      "topics": [
+        "tax brackets",
+        "marginal tax rates",
+        "trickle down economics",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "00:59:00",
+      "kind": "outro",
+      "title": "Outro and contact information",
+      "summary": "The hosts point listeners to further reading and to the how stuff works site, and give social media and email contact details.",
+      "topics": [
+        "podcast contact",
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13914,
+    "output_tokens": 3739
+  }
+}

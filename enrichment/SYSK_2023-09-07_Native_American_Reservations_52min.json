@@ -1,0 +1,394 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-09-07_Native_American_Reservations_52min.txt",
+  "title": "Native American Reservations",
+  "date": "2023-09-07",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/native-american-reservations",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/76d62355-e422-4532-a680-b07600d75bfe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/76d62355-e422-4532-a680-b07600d75bfe/transcript?format=TextWithTimestamps&t=1713839715",
+  "summary": "Hosts give a broad overview of Native American reservations in the United States: how the reservation system evolved from forced removal and treaties through the Indian Appropriations Act of 1851, the Dawes Act, the Indian Reorganization Act of 1934, the termination era, and the Indian Self-Determination and Education Act of 1975. They explain the trust-land status and tribal sovereignty, the patchwork of tribal courts, law enforcement and schools, Alaska's shared reservation and dividend system, and language and culture revitalization. They compare the Navajo Nation (largest, unusually returned to ancestral lands), Pine Ridge in South Dakota (severe poverty, low life expectancy, White Clay beer sales), and the Seminole Tribe of Florida (casino wealth, Hard Rock brand). They also discuss federal administrations' Native policy, voter registration efforts, and close with a listener email about diaries.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Native American reservations",
+    "American Indian reservations",
+    "tribal sovereignty",
+    "trust land",
+    "Indian Appropriations Act of 1851",
+    "Dawes Act",
+    "Indian Reorganization Act of 1934",
+    "termination era",
+    "Indian Self-Determination and Education Act of 1975",
+    "American Indian Movement",
+    "Navajo Nation",
+    "Pine Ridge Reservation",
+    "Oglala Sioux",
+    "Seminole Tribe of Florida",
+    "Hard Rock casino",
+    "Native American casinos",
+    "Alaska Native dividends",
+    "Native language revitalization",
+    "Indian boarding schools",
+    "Native American voter registration",
+    "McGirt v. Oklahoma",
+    "Cherokee Nation language preservation",
+    "tribal courts and law enforcement"
+  ],
+  "entities": [
+    {
+      "name": "Navajo Nation",
+      "type": "organization"
+    },
+    {
+      "name": "Pine Ridge Reservation",
+      "type": "place"
+    },
+    {
+      "name": "Oglala Sioux Tribe",
+      "type": "organization"
+    },
+    {
+      "name": "Seminole Tribe of Florida",
+      "type": "organization"
+    },
+    {
+      "name": "Oneida Indian Nation",
+      "type": "organization"
+    },
+    {
+      "name": "Cherokee Nation",
+      "type": "organization"
+    },
+    {
+      "name": "Wounded Knee massacre",
+      "type": "event"
+    },
+    {
+      "name": "Standing Rock",
+      "type": "event"
+    },
+    {
+      "name": "Dakota Access pipeline",
+      "type": "event"
+    },
+    {
+      "name": "White Clay, Nebraska",
+      "type": "place"
+    },
+    {
+      "name": "McGirt v. Oklahoma",
+      "type": "event"
+    },
+    {
+      "name": "Indian Appropriations Act of 1851",
+      "type": "work"
+    },
+    {
+      "name": "Dawes Act",
+      "type": "work"
+    },
+    {
+      "name": "Indian Reorganization Act",
+      "type": "work"
+    },
+    {
+      "name": "Indian Self-Determination and Education Act",
+      "type": "work"
+    },
+    {
+      "name": "American Indian Movement",
+      "type": "organization"
+    },
+    {
+      "name": "Reservation Dogs",
+      "type": "work"
+    },
+    {
+      "name": "Trail of Tears",
+      "type": "event"
+    },
+    {
+      "name": "Alaska",
+      "type": "place"
+    },
+    {
+      "name": "Durbin Feeling Language Center",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:40",
+      "kind": "intro",
+      "title": "Opening banter and framing",
+      "summary": "Hosts open with banter, a recommendation of the TV show Reservation Dogs and the film Smoke Signals, and frame the episode as a broad overview. They discuss land taken from Native peoples through both treaties and seizure, and the lasting effects of the reservation system.",
+      "topics": [
+        "Reservation Dogs",
+        "Smoke Signals",
+        "Native American land history",
+        "reservation system"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Population and reservation sovereignty",
+      "summary": "Census figures show about 9.7 million people identified as Alaska Native or American Indian in 2020, with about 1.2 million (13 percent) living on reservations. Reservations are described as sovereign nations with their own rules, which explains casinos and cheap cigarettes and limits state jurisdiction.",
+      "topics": [
+        "2020 census Native population",
+        "tribal sovereignty",
+        "reservation casinos",
+        "state jurisdiction"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "McGirt v. Oklahoma",
+      "summary": "Oklahoma, about half reservation land, tried to prosecute tribal members for crimes on tribal land. A 2020 Supreme Court ruling in McGirt v. Oklahoma held states lack jurisdiction, leading to dismissed cases.",
+      "topics": [
+        "McGirt v. Oklahoma",
+        "Oklahoma reservations",
+        "criminal jurisdiction",
+        "Supreme Court ruling"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:35",
+      "kind": "content",
+      "title": "History: removal, treaties, and allotment",
+      "summary": "Hosts trace the history from forced westward removal and broken treaties, to the Indian Appropriations Act of 1851 creating a federal reservation system, the 1850s to 1880s period of food dependence, the Dawes Act of 1887 breaking reservations into family plots, the Indian Reorganization Act of 1934 allowing land repurchase, the termination era, and the 1975 Indian Self-Determination and Education Act.",
+      "topics": [
+        "Indian Appropriations Act of 1851",
+        "Dawes Act",
+        "Indian Reorganization Act",
+        "termination era",
+        "American Indian Movement",
+        "Indian Self-Determination and Education Act",
+        "Trail of Tears",
+        "removal"
+      ]
+    },
+    {
+      "start": "00:14:35",
+      "end": "00:15:10",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Brief break before returning to the modern system.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:15:10",
+      "end": "00:16:40",
+      "kind": "content",
+      "title": "Shifting federal policies and their toll",
+      "summary": "Hosts reflect on repeated policy shifts by successive administrations and the whiplash of removal and reservation policy over less than a century, and on why the public tends to forget this history.",
+      "topics": [
+        "federal Indian policy shifts",
+        "forced relocation",
+        "historical whiplash"
+      ]
+    },
+    {
+      "start": "00:16:40",
+      "end": "00:18:10",
+      "kind": "content",
+      "title": "Modern land trust and reservation types",
+      "summary": "There are 325 tracts of land held in trust by the US government, with varied names such as reservations, villages, missions, pueblos, and rancherias. The Navajo Nation is the largest and the Likely Rancheria in California is among the smallest. Trust status keeps land out of state taxation and jurisdiction.",
+      "topics": [
+        "trust land",
+        "rancherias",
+        "Navajo Nation size",
+        "Likely Rancheria",
+        "state taxation"
+      ]
+    },
+    {
+      "start": "00:18:10",
+      "end": "00:21:20",
+      "kind": "content",
+      "title": "Non-native residents, Oneida, California rancherias, and patchwork systems",
+      "summary": "Non-Native people can live on reservations, and the Oneida Indian Nation in upstate New York has about 500 American Indian residents among about 60,000 total. The Oneida's Turning Stone Resort and casino is a major employer. California rancherias were created in the twentieth century. Reservation arrangements vary and developed locally.",
+      "topics": [
+        "Oneida Indian Nation",
+        "Turning Stone Resort",
+        "non-native residents on reservations",
+        "California rancherias",
+        "patchwork reservation system"
+      ]
+    },
+    {
+      "start": "00:21:20",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Alaska's shared reservation and dividends",
+      "summary": "Alaska has 279 federally recognized tribes, more than half of the federally recognized tribes, sharing one reservation. Resource extraction revenue funds dividends to enrolled Alaska Natives. Hawaii has a similar system but no reservations.",
+      "topics": [
+        "Alaska Native tribes",
+        "Alaska dividends",
+        "mineral rights",
+        "Hawaii Native programs"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:25:40",
+      "kind": "content",
+      "title": "Sovereignty and Marshall's domestic dependent nations",
+      "summary": "Tribes are recognized as sovereign nations under the Constitution. Chief Justice John Marshall's 1831 ruling called tribes domestic dependent nations, a status the hosts say is confusing and open to interpretation.",
+      "topics": [
+        "John Marshall 1831 ruling",
+        "domestic dependent nations",
+        "tribal sovereignty",
+        "Constitution"
+      ]
+    },
+    {
+      "start": "00:25:40",
+      "end": "00:27:55",
+      "kind": "content",
+      "title": "Tribal courts, police, and schools",
+      "summary": "Some tribes have their own courts, while others are served by five Courts of Indian Offenses. Tribes often run their own law enforcement, sometimes alongside Bureau of Indian Affairs police, and Alaska has a Village Public Safety Officer program. Reservations have their own school districts and boarding schools.",
+      "topics": [
+        "tribal courts",
+        "Courts of Indian Offenses",
+        "tribal law enforcement",
+        "Village Public Safety Officer",
+        "reservation schools",
+        "Bureau of Indian Education"
+      ]
+    },
+    {
+      "start": "00:27:55",
+      "end": "00:30:05",
+      "kind": "content",
+      "title": "Boarding schools and language revitalization",
+      "summary": "Hosts describe abusive boarding schools and the current push to restore Native culture and languages. The Cherokee Nation has about 2,000 fluent speakers left, losing about 150 a year, and runs the Durbin Feeling Language Center. In 2022 the US government gave seven million dollars in grants to 45 tribes for language preservation.",
+      "topics": [
+        "Indian boarding schools",
+        "Cherokee language",
+        "Durbin Feeling Language Center",
+        "language revitalization",
+        "Native language grants"
+      ]
+    },
+    {
+      "start": "00:30:05",
+      "end": "00:32:40",
+      "kind": "content",
+      "title": "Federal administrations and Native policy",
+      "summary": "Hosts compare the Obama, Trump, and Biden administrations on Native issues. Biden-era items include seven million for languages, twenty-one million for road safety, and 135 million for climate-related relocation; Deb Haaland is noted as the first Native American Interior Secretary. Trump-era criticisms include the Council on Native American Affairs not being re-established and the Winnemucca reservation being disestablished.",
+      "topics": [
+        "Deb Haaland",
+        "federal Native policy",
+        "Obama Council on Native American Affairs",
+        "Biden administration tribal funding",
+        "Trump administration tribal policy"
+      ]
+    },
+    {
+      "start": "00:32:40",
+      "end": "00:34:05",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break before the reservation case studies.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:34:05",
+      "end": "00:38:20",
+      "kind": "content",
+      "title": "Navajo Nation",
+      "summary": "The Navajo Nation spans Utah, Arizona, and New Mexico, with about 400,000 enrolled members and 170,000 on the reservation. Unusually, the Navajo negotiated a treaty to return to ancestral lands within four years of removal. Its government has twenty-four districts, a council, and eleven court districts. Thirty-six percent of households are below poverty level and about the same share lack running water. Internet access is patchy.",
+      "topics": [
+        "Navajo Nation",
+        "Navajo treaty and return",
+        "Tuba City",
+        "reservation poverty",
+        "broadband access",
+        "Navajo government"
+      ]
+    },
+    {
+      "start": "00:38:20",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Pine Ridge Reservation and Oglala Sioux",
+      "summary": "Pine Ridge, about 4,000 square miles in South Dakota, is the largest Lakota reservation. It is tied to the Wounded Knee massacre of 1890, the 1970s AIM protests, and Standing Rock in 2015. It has very high unemployment, an infant mortality rate about five times the national average, and a life expectancy of 48 for men and 52 for women. White Clay, Nebraska sells beer to Lakota residents of the dry reservation.",
+      "topics": [
+        "Pine Ridge Reservation",
+        "Oglala Sioux",
+        "Wounded Knee massacre",
+        "Standing Rock",
+        "Dakota Access pipeline",
+        "White Clay Nebraska",
+        "Native American poverty",
+        "life expectancy"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:48:40",
+      "kind": "content",
+      "title": "Seminole Tribe of Florida and Hard Rock",
+      "summary": "The Seminole Tribe of Florida, descended from people who hid in the Florida swamps, adopted a constitution in the 1950s and is thriving through casinos. The tribe owns the Hard Rock brand, bought in 2006, and its per-member payouts are large. The first Hard Rock was in Jackson, Tennessee, per the hosts' anecdote. The Seminole casino was the first Native casino, and its state lawsuit helped spark the spread of casinos.",
+      "topics": [
+        "Seminole Tribe of Florida",
+        "Hard Rock brand",
+        "Hard Rock casino Hollywood Florida",
+        "Native casinos origin",
+        "per capita casino payments",
+        "Seminole Tribe of Oklahoma"
+      ]
+    },
+    {
+      "start": "00:48:40",
+      "end": "00:49:40",
+      "kind": "content",
+      "title": "Native voter registration",
+      "summary": "Native Americans on reservations can vote in federal elections, but only about 60 percent of eligible Native Americans are registered. The Million Vote Opportunity campaign aims to register over a million eligible voters.",
+      "topics": [
+        "Native American voter registration",
+        "Million Vote Opportunity",
+        "NARF"
+      ]
+    },
+    {
+      "start": "00:49:40",
+      "end": "00:52:10",
+      "kind": "listener_mail",
+      "title": "Listener mail: Dear Diary and Martha Ballard",
+      "summary": "A listener named Casey recommends the diary history of Laurel Thatcher Ulrich, author of A Midwife's Tale about Martha Ballard's diary in Augusta, Maine from 1785 to 1812. The hosts thank Casey and ask for emails.",
+      "topics": [
+        "listener mail",
+        "diary history",
+        "Martha Ballard",
+        "Laurel Thatcher Ulrich"
+      ]
+    },
+    {
+      "start": "00:52:10",
+      "end": "00:52:20",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits for iHeartRadio.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18763,
+    "output_tokens": 5009
+  }
+}

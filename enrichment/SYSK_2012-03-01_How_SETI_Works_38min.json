@@ -1,0 +1,246 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-03-01_How_SETI_Works_38min.txt",
+  "title": "How SETI Works",
+  "date": "2012-03-01",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-seti-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cebacf63-7f7c-48dd-8ba1-ae2800a9ec17/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cebacf63-7f7c-48dd-8ba1-ae2800a9ec17/transcript?format=TextWithTimestamps&t=1700543928",
+  "summary": "Josh and Chuck explain SETI (Search for Extraterrestrial Intelligence), timed to Science Channel's Are We Alone? Month. They cover the Wow! signal of 1977 (mis-stated as August fifty seven in the transcript), the SETI Institute's origins with Frank Drake and the Drake equation, the three main challenges (vast sky, choice of radio frequency including the \"water hole\" and prime-number ideas, and limited equipment), search projects like Project Phoenix, SERENDIP, the Allen Telescope Array, and SETI@home, the Fermi paradox, the protocol for announcing a detected signal, and whether humans should send messages. The episode closes with live show announcements for South by Southwest in Austin, a TV pilot for Science Channel, and listener mail about wrestling (razor blades for blading, WWE, TNA, Ring of Honor).",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "SETI",
+    "Search for Extraterrestrial Intelligence",
+    "extraterrestrial life",
+    "Wow! signal",
+    "Drake equation",
+    "Frank Drake",
+    "SETI Institute",
+    "water hole",
+    "prime numbers radio frequency",
+    "SETI@home",
+    "Allen Telescope Array",
+    "Project Phoenix",
+    "SERENDIP",
+    "interferometry",
+    "Fermi paradox",
+    "signal detection protocol",
+    "Are We Alone Month",
+    "Science Channel",
+    "messages to aliens",
+    "Austin live show",
+    "professional wrestling blading",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "SETI Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Frank Drake",
+      "type": "person"
+    },
+    {
+      "name": "Wow! signal",
+      "type": "event"
+    },
+    {
+      "name": "Drake equation",
+      "type": "other"
+    },
+    {
+      "name": "SETI@home",
+      "type": "work"
+    },
+    {
+      "name": "Allen Telescope Array",
+      "type": "other"
+    },
+    {
+      "name": "Project Phoenix",
+      "type": "other"
+    },
+    {
+      "name": "SERENDIP",
+      "type": "other"
+    },
+    {
+      "name": "Jerry Ehman",
+      "type": "person"
+    },
+    {
+      "name": "Philip Morrison",
+      "type": "person"
+    },
+    {
+      "name": "Giuseppe Cocconi",
+      "type": "person"
+    },
+    {
+      "name": "Paul Allen",
+      "type": "person"
+    },
+    {
+      "name": "Enrico Fermi",
+      "type": "person"
+    },
+    {
+      "name": "Carl Sagan",
+      "type": "person"
+    },
+    {
+      "name": "Green Bank Observatory",
+      "type": "place"
+    },
+    {
+      "name": "Science Channel",
+      "type": "organization"
+    },
+    {
+      "name": "Arecibo",
+      "type": "place"
+    },
+    {
+      "name": "Contact",
+      "type": "work"
+    },
+    {
+      "name": "Fermi paradox",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Are We Alone Month",
+      "summary": "Hosts open with banter, a personal announcement, and introduce the topic of aliens, tied to Science Channel's Are We Alone? Month and the SETI topic.",
+      "topics": [
+        "Are We Alone Month",
+        "Science Channel",
+        "SETI introduction"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "The Wow! signal",
+      "summary": "Chuck and Josh describe the Wow! signal, a 72-second narrowband radio burst recorded in 1977 at Ohio State's Big Ear radio telescope, which was never detected again and was named after Jerry Ehman's note on the printout. The transcript gives the date as August fifty seven.",
+      "topics": [
+        "Wow! signal",
+        "radio transmission from aliens",
+        "Jerry Ehman",
+        "Big Ear telescope"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Origins of SETI and the Drake equation",
+      "summary": "SETI's origins in the intellectual push to search for alien life, including Morrison and Cocconi's Nature paper and Frank Drake's founding of the search. The hosts walk through the Drake equation's factors, which yield anywhere from one to billions of communicative civilizations.",
+      "topics": [
+        "Drake equation",
+        "Frank Drake",
+        "Morrison and Cocconi paper",
+        "history of SETI"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Three challenges: sky, frequency, and equipment",
+      "summary": "The hosts outline SETI's three main challenges: the large sky (wide-field versus targeted searches), choosing among billions of radio frequencies, and limited telescope time and funding. They explain the water hole band and the idea that prime-number frequencies might be used.",
+      "topics": [
+        "water hole",
+        "radio frequency search",
+        "targeted search",
+        "wide field search",
+        "SETI funding",
+        "prime numbers"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Search projects: Phoenix, SERENDIP, Allen Telescope Array, SETI@home",
+      "summary": "Projects include Project Phoenix, which rents time on radio telescopes including Arecibo and Green Bank, and SERENDIP, which piggybacks on other observations. The hosts describe using interferometry with backyard satellite dishes and the SETI@home screen saver that distributes data processing. The Allen Telescope Array, funded by Paul Allen, has been short on money and is partly operating on a skeleton crew.",
+      "topics": [
+        "Project Phoenix",
+        "SERENDIP",
+        "interferometry",
+        "SETI@home",
+        "Allen Telescope Array",
+        "Arecibo",
+        "Green Bank"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Fermi paradox and signal detection protocols",
+      "summary": "The hosts discuss the Fermi paradox and SETI's view that life is probably out there. They then describe the protocol after a signal is detected: verifying it by moving the telescope, checking other sources, and notifying the astronomical community, the UN, and the public. They say SETI doesn't believe in a secret alien presence at Roswell.",
+      "topics": [
+        "Fermi paradox",
+        "signal verification protocol",
+        "Declaration of Principles",
+        "Roswell",
+        "first contact"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Sending messages, future of SETI, and sign-off mentions",
+      "summary": "The hosts note that Earth has been unintentionally broadcasting for decades and that SETI is passive, though symbolic messages like the Arecibo message and plaques on Pioneer and Voyager probes were sent. They discuss optical SETI as a future direction and encourage listeners to try SETI@home.",
+      "topics": [
+        "messages to aliens",
+        "optical SETI",
+        "unintentional broadcasts",
+        "SETI future",
+        "SETI@home"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:00",
+      "kind": "ad",
+      "title": "Live show announcements",
+      "summary": "Hosts announce live podcasts at South by Southwest in Austin, a public variety show at Fado Irish Pub, and a Science Channel TV pilot.",
+      "topics": [
+        "South by Southwest",
+        "live podcast",
+        "Austin",
+        "Science Channel TV pilot"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:38:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on wrestling",
+      "summary": "Listener Zack corrects the hosts on wrestling: wrestlers usually use razor blades for blading rather than fake blood packs, and he lists the major U.S. promotions WWE, TNA, and Ring of Honor, plus independent leagues.",
+      "topics": [
+        "professional wrestling",
+        "blading",
+        "WWE",
+        "Ring of Honor",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12582,
+    "output_tokens": 2725
+  }
+}

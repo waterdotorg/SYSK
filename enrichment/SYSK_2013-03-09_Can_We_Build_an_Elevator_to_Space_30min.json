@@ -1,0 +1,229 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-03-09_Can_We_Build_an_Elevator_to_Space_30min.txt",
+  "title": "Can We Build an Elevator to Space?",
+  "date": "2013-03-09",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-we-build-an-elevator-to-space",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef9d13a6-7f9f-4396-9371-ae2800a1a6bb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ef9d13a6-7f9f-4396-9371-ae2800a1a6bb/transcript?format=TextWithTimestamps&t=1700543906",
+  "summary": "Hosts open with off-topic banter about celebrity football scholarships and a Snoop Dogg/Puffy anecdote, then turn to the Space Shuttle program's end in 2011 and its cost per pound. The main discussion covers the space elevator concept: a carbon nanotube ribbon anchored to an ocean platform with a counterweight in space, the materials problem (carbon nanotubes are still short and hard to grow), power via lasers and photovoltaic cells on a climbing lifter, space debris risks and active avoidance, LiftPort's lunar version, cost comparisons (about $200 per pound versus the Shuttle's $10,000), and the history from Tsiolkovsky to Arthur C. Clarke's Fountains of Paradise. The episode closes with a listener mail follow-up about the Dead Sea, including a note comparing it to the Great Salt Lake.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "space elevator",
+    "carbon nanotubes",
+    "space shuttle program",
+    "space shuttle cost per pound",
+    "space debris",
+    "active avoidance",
+    "LiftPort",
+    "lunar space elevator",
+    "graphene",
+    "Arthur C. Clarke",
+    "Fountains of Paradise",
+    "Tsiolkovsky",
+    "laser-powered climber",
+    "counterweight asteroid",
+    "low Earth orbit",
+    "Dead Sea",
+    "Great Salt Lake",
+    "listener mail",
+    "Solo cup measurements",
+    "Michio Kaku"
+  ],
+  "entities": [
+    {
+      "name": "space elevator",
+      "type": "other"
+    },
+    {
+      "name": "Space Shuttle",
+      "type": "other"
+    },
+    {
+      "name": "carbon nanotube",
+      "type": "other"
+    },
+    {
+      "name": "LiftPort",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Arthur C. Clarke",
+      "type": "person"
+    },
+    {
+      "name": "Fountains of Paradise",
+      "type": "work"
+    },
+    {
+      "name": "Konstantin Tsiolkovsky",
+      "type": "person"
+    },
+    {
+      "name": "Michio Kaku",
+      "type": "person"
+    },
+    {
+      "name": "Dead Sea",
+      "type": "place"
+    },
+    {
+      "name": "Great Salt Lake",
+      "type": "place"
+    },
+    {
+      "name": "Challenger",
+      "type": "event"
+    },
+    {
+      "name": "Columbia",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:10",
+      "kind": "intro",
+      "title": "Opening banter: football scholarships and celebrity anecdotes",
+      "summary": "Hosts chat about a celebrity's son earning a football scholarship and recall a story about delivering something to Snoop Dogg's house. They tease a weird show start.",
+      "topics": [
+        "banter",
+        "athletic scholarships",
+        "Snoop Dogg",
+        "Puff Daddy"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Space Shuttle program ends and its cost",
+      "summary": "Josh recalls the final Shuttle launch in July 2011 and the program's reusability. They discuss cost per pound (about ten thousand dollars) and the roughly five million dollar per mission cost against the original fifty million estimate.",
+      "topics": [
+        "space shuttle program",
+        "space shuttle cost per pound",
+        "reusable spacecraft",
+        "Challenger",
+        "Columbia"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Solo cup measurement lines",
+      "summary": "The hosts discuss the measurement lines on a Solo cup for liquor, wine and beer, and a matchbook-to-cigarette-pack tidbit.",
+      "topics": [
+        "Solo cup measurements",
+        "trivia"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "What a space elevator is",
+      "summary": "Hosts describe the space elevator: a carbon nanotube ribbon anchored to an offshore platform in the Pacific, with a counterweight in space, carrying cargo up and down.",
+      "topics": [
+        "space elevator",
+        "counterweight",
+        "offshore platform",
+        "Pacific Ocean"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Carbon nanotubes and the materials problem",
+      "summary": "Discussion of graphene and carbon nanotubes, their strength relative to steel, and the difficulty of growing them long enough. The record cited is four centimeters, and scientists do not fully understand how they grow.",
+      "topics": [
+        "carbon nanotubes",
+        "graphene",
+        "material strength",
+        "nanotube growth",
+        "space ribbon"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Climber power, deployment and anchoring",
+      "summary": "The hosts discuss deploying the ribbon from space, catching it on the platform, and the robotic lifter that climbs it, powered by lasers hitting photovoltaic cells. They mention a planned asteroid or spacecraft counterweight and a climb speed of about 118 miles per hour.",
+      "topics": [
+        "lifter climber",
+        "laser power beaming",
+        "photovoltaic cells",
+        "counterweight asteroid",
+        "ribbon deployment"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Payloads, cost savings and space debris",
+      "summary": "The elevator could carry about thirteen tons per trip and cost roughly two hundred dollars per pound versus the Shuttle's ten thousand. The hosts discuss space debris, NORAD tracking limits of ten centimeters, and active avoidance by moving the platform.",
+      "topics": [
+        "space debris",
+        "NORAD tracking",
+        "active avoidance",
+        "cost per pound",
+        "low Earth orbit",
+        "payload"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "LiftPort, lunar elevator, history and funding",
+      "summary": "The hosts cover LiftPort's shift to a lunar version using zylon, the history from Tsiolkovsky through Arthur C. Clarke's Fountains of Paradise, and whether private funding will drive the project.",
+      "topics": [
+        "LiftPort",
+        "lunar space elevator",
+        "zylon",
+        "Tsiolkovsky",
+        "Arthur C. Clarke",
+        "private space funding"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Dead Sea follow-up",
+      "summary": "A listener mail segment about swimming in the Dead Sea and a listener comparing it to the Great Salt Lake, which is also a high-salinity lake fed by a freshwater lake via the Jordan River.",
+      "topics": [
+        "Dead Sea",
+        "Great Salt Lake",
+        "listener mail",
+        "salinity"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give contact details for Twitter, Facebook and email.",
+      "topics": [
+        "sign-off",
+        "listener contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10540,
+    "output_tokens": 2480
+  }
+}

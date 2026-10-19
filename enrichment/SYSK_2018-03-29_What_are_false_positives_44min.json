@@ -1,0 +1,243 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-03-29_What_are_false_positives_44min.txt",
+  "title": "What are false positives?",
+  "date": "2018-03-29",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-are-false-positives",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f5a3f11b-3e48-4d5a-b219-ae2800665d64/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f5a3f11b-3e48-4d5a-b219-ae2800665d64/transcript?format=TextWithTimestamps&t=1700543767",
+  "summary": "Josh and Chuck explain false positives and false negatives in medical testing, using Bayesian-style examples of how accurate tests can still produce many false positives. They cover the costs and emotional toll of follow-up testing, the Annals of Family Medicine and Cancer Epidemiology Biomarkers studies, and the Choosing Wisely campaign. Discussion moves to Pap smear and mammogram overdiagnosis, colonoscopy versus stool-based colorectal cancer screening, and drug tests, where false positives come from prescription and OTC drugs, poppy seeds, quinine in tonic water, and cocaine on dollar bills. The episode closes with HIV ELISA testing accuracy and a listener email from teacher Mr. Swedman about types of reproductive isolation.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "false positives",
+    "false negatives",
+    "medical testing",
+    "accuracy of medical tests",
+    "positive predictive value",
+    "Bayesian statistics",
+    "follow-up testing costs",
+    "overdiagnosis",
+    "Choosing Wisely campaign",
+    "mammograms",
+    "breast cancer screening",
+    "Pap smear",
+    "PAPs mear cervical cancer",
+    "colonoscopy",
+    "colorectal cancer screening",
+    "stool tests",
+    "colon Guard",
+    "drug testing",
+    "false positive drug test",
+    "poppy seeds opium",
+    "quinine tonic water heroin",
+    "cocaine on dollar bills",
+    "HIV ELISA testing",
+    "reproductive isolation",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Choosing Wisely",
+      "type": "organization"
+    },
+    {
+      "name": "American Cancer Society",
+      "type": "organization"
+    },
+    {
+      "name": "National Academy of Sciences",
+      "type": "organization"
+    },
+    {
+      "name": "Consumer Reports",
+      "type": "organization"
+    },
+    {
+      "name": "Seinfeld",
+      "type": "work"
+    },
+    {
+      "name": "Jack Kerouac",
+      "type": "person"
+    },
+    {
+      "name": "Mr. Swedman",
+      "type": "person"
+    },
+    {
+      "name": "Dr. Papanicolaou",
+      "type": "person"
+    },
+    {
+      "name": "colon Guard",
+      "type": "other"
+    },
+    {
+      "name": "ELISA",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "Josh and Chuck joke about hosting alone and tease the episode on false positives, promising a controversy angle.",
+      "topics": [
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "True and false positives and negatives",
+      "summary": "The hosts define the four possible medical test results: true positive, true negative, false positive, and false negative. They explain that a test's accuracy does not mean a positive result has a 99 percent chance of being correct.",
+      "topics": [
+        "false positives",
+        "false negatives",
+        "true positive",
+        "true negative",
+        "test accuracy"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Bayesian reasoning and follow-up testing",
+      "summary": "Using a 10,000-person example with a 99 percent accurate test, they show that roughly half of positive results can be false positives. They then discuss how follow-up tests can cost money, take time, and cause stress.",
+      "topics": [
+        "Bayesian statistics",
+        "base rate",
+        "follow-up testing",
+        "medical advocacy"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Emotional and financial costs of false positives",
+      "summary": "They cite the Annals of Family Medicine study on false positives across repeated cancer screenings, and a 2008 study finding that follow-up care after false positives cost about a thousand dollars for women and about eleven hundred for men.",
+      "topics": [
+        "false positive cost",
+        "cancer screening",
+        "emotional toll",
+        "medical spending"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Choosing Wisely and wasteful healthcare",
+      "summary": "They describe the National Academy of Sciences finding that about thirty percent of US healthcare spending was wasteful, and the Choosing Wisely campaign from the American Board of Internal Medicine and Consumer Reports.",
+      "topics": [
+        "Choosing Wisely",
+        "wasteful healthcare spending",
+        "unnecessary tests",
+        "overdiagnosis"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Pap smears and mammograms",
+      "summary": "The hosts discuss the Pap smear's false positive rate and cervical cancer deaths. They then cover mammogram false positives, the radiologist's role, the biopsy follow-ups, and the changing screening age recommendations from the American Cancer Society.",
+      "topics": [
+        "Pap smear",
+        "mammograms",
+        "breast cancer screening",
+        "screening age guidelines",
+        "biopsy"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Colorectal cancer screening: colonoscopy and stool tests",
+      "summary": "They explain that colorectal cancer is the second leading cancer death in the US and that many people avoid colonoscopies. They describe the procedure and mention stool-based alternatives like colon Guard, which have high false positive rates.",
+      "topics": [
+        "colonoscopy",
+        "colorectal cancer",
+        "stool tests",
+        "colon Guard",
+        "sedation"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Drug test false positives",
+      "summary": "They explain that prescription and over-the-counter medicines can cause false positive drug tests, and that an estimated seven to fifteen million people a year get one. They note secondhand smoke is not a cause of a marijuana false positive.",
+      "topics": [
+        "drug testing",
+        "false positive drug test",
+        "prescription medicine false positives",
+        "secondhand marijuana"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Surprising sources of false drug test results",
+      "summary": "They cover cocaine traces on dollar bills per an NYU study, poppy seeds and opium residue (Seinfeld reference), ibuprofen, barbiturates, Benzedrine, Kerouac, Sudafed, and quinine in tonic water mimicking heroin.",
+      "topics": [
+        "cocaine on dollar bills",
+        "poppy seeds opium",
+        "quinine tonic water",
+        "Sudafed amphetamine false positive",
+        "heroin testing"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "HIV ELISA testing accuracy",
+      "summary": "The hosts describe the multi-step HIV testing process using ELISA screens with a confirmatory test, which yields a false positive rate of about one in 250,000 tests in the US.",
+      "topics": [
+        "HIV testing",
+        "ELISA",
+        "confirmatory testing",
+        "false positive rate"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:44:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: types of reproductive isolation",
+      "summary": "A listener email from teacher Mr. Swedman describes types of reproductive isolation: geographic, ecological, behavioral, temporal, gametic, and mechanical.",
+      "topics": [
+        "reproductive isolation",
+        "speciation",
+        "listener mail",
+        "evolutionary biology"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:44:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts give social media and email contact details and sign off.",
+      "topics": [
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13814,
+    "output_tokens": 2677
+  }
+}

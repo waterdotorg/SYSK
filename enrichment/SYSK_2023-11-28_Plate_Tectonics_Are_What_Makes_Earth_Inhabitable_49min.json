@@ -1,0 +1,431 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-11-28_Plate_Tectonics_Are_What_Makes_Earth_Inhabitable_49min.txt",
+  "title": "Plate Tectonics Are What Makes Earth Inhabitable",
+  "date": "2023-11-28",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/plate-tectonics-are-what-makes-earth-inhabitable",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/48bd0b4f-bdf2-4a5c-97d7-b0c70005ba57/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48bd0b4f-bdf2-4a5c-97d7-b0c70005ba57/transcript?format=TextWithTimestamps&t=1713751060",
+  "summary": "Josh and Chuck trace how people's ideas about Earth's deep past shifted from folklore and land-bridge theories to the modern understanding of plate tectonics. They cover Helena Blavatsky and the Theosophists' lost continent Lemuria, Philip Sclater's 1864 lemur-based land bridge idea, Ernst Haeckel, Doggerland under the North Sea and H. G. Wells's 1897 Story of the Stone Age, Alfred Wegener's continental drift (1912 book, his death in 1930), mid-century magnetometer and seismograph evidence, and the mechanics of plate tectonics (lithosphere, asthenosphere, convection, slab pull). They describe the three plate boundary types, the link between plate tectonics and volcanoes, ocean salinity, magnetic striping on the seafloor, climate and the carbon cycle thermostat, and future supercontinent Pangaea Proxima. The episode closes with tour dates, off-topic chat, and listener mail from a frustrated veterinarian about home-cooked and grain-free pet food.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "plate tectonics",
+    "continental drift",
+    "Alfred Wegener",
+    "Pangaea",
+    "supercontinent",
+    "Lemuria",
+    "Helena Blavatsky",
+    "Theosophy",
+    "Philip Sclater",
+    "land bridges",
+    "Doggerland",
+    "H. G. Wells",
+    "Ernst Haeckel",
+    "convection currents",
+    "asthenosphere",
+    "lithosphere",
+    "plate boundaries",
+    "divergent convergent transform boundaries",
+    "seafloor magnetic striping",
+    "magnetic pole reversal",
+    "carbon cycle",
+    "climate thermostat",
+    "ocean salinity",
+    "Pangaea Proxima",
+    "history of geology",
+    "continental contraction",
+    "listener mail",
+    "pet nutrition"
+  ],
+  "entities": [
+    {
+      "name": "Helena Blavatsky",
+      "type": "person"
+    },
+    {
+      "name": "Lemuria",
+      "type": "other"
+    },
+    {
+      "name": "Philip Sclater",
+      "type": "person"
+    },
+    {
+      "name": "Ernst Haeckel",
+      "type": "person"
+    },
+    {
+      "name": "Doggerland",
+      "type": "place"
+    },
+    {
+      "name": "H. G. Wells",
+      "type": "person"
+    },
+    {
+      "name": "Alfred Wegener",
+      "type": "person"
+    },
+    {
+      "name": "Pangaea",
+      "type": "place"
+    },
+    {
+      "name": "Rodinia",
+      "type": "place"
+    },
+    {
+      "name": "Pannotia",
+      "type": "place"
+    },
+    {
+      "name": "Pangaea Proxima",
+      "type": "place"
+    },
+    {
+      "name": "San Andreas fault",
+      "type": "place"
+    },
+    {
+      "name": "Mariana trench",
+      "type": "place"
+    },
+    {
+      "name": "The Secret Doctrine",
+      "type": "work"
+    },
+    {
+      "name": "The Origin of Continents and Oceans",
+      "type": "work"
+    },
+    {
+      "name": "The Story of the Stone Age",
+      "type": "work"
+    },
+    {
+      "name": "Fire of Love",
+      "type": "work"
+    },
+    {
+      "name": "Theosophical Society",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:47",
+      "kind": "ad",
+      "title": "Tour announcement",
+      "summary": "Hosts announce January tour dates in Seattle, Portland and San Francisco and where to get tickets.",
+      "topics": [
+        "tour dates",
+        "live shows"
+      ]
+    },
+    {
+      "start": "00:00:47",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Show open",
+      "summary": "Standard show opening and welcome.",
+      "topics": [
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and framing",
+      "summary": "Hosts joke about plate tectonics and introduce the idea of older beliefs about Earth's history giving way to science.",
+      "topics": [
+        "folklore versus science",
+        "pre-scientific thought"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Blavatsky and the Theosophists",
+      "summary": "Chuck and Josh describe Helena Blavatsky's occult claims in The Secret Doctrine, the seven root races, and the nineteenth-century fascination with human origins after Darwin, plus Chuck's caveat that science is not finished.",
+      "topics": [
+        "Helena Blavatsky",
+        "Theosophy",
+        "seven root races",
+        "Darwin",
+        "pseudoscience in the 1800s"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:45",
+      "kind": "content",
+      "title": "Lemuria and Philip Sclater's land bridge",
+      "summary": "Philip Sclater's 1864 essay on Madagascar's lemurs proposed a lost land bridge continent he named Lemuria, which occultists then adopted.",
+      "topics": [
+        "Lemuria",
+        "Philip Sclater",
+        "lemurs of Madagascar",
+        "land bridges",
+        "lost continent"
+      ]
+    },
+    {
+      "start": "00:10:45",
+      "end": "00:13:19",
+      "kind": "content",
+      "title": "Haeckel and Doggerland",
+      "summary": "Ernst Haeckel tied Lemuria to human origins. Doggerland, a real land area now under the North Sea, is described through fishermen's finds and archaeology.",
+      "topics": [
+        "Ernst Haeckel",
+        "Doggerland",
+        "North Sea prehistory",
+        "sunken land"
+      ]
+    },
+    {
+      "start": "00:13:19",
+      "end": "00:15:20",
+      "kind": "content",
+      "title": "H. G. Wells and The Story of the Stone Age",
+      "summary": "Wells set his 1897 story in the land that is now Doggerland, and the hosts digress briefly into The Invisible Man adaptations.",
+      "topics": [
+        "H. G. Wells",
+        "The Story of the Stone Age",
+        "Doggerland in fiction",
+        "The Invisible Man"
+      ]
+    },
+    {
+      "start": "00:15:20",
+      "end": "00:16:37",
+      "kind": "intro",
+      "title": "Off-topic horror chat",
+      "summary": "Hosts discuss horror movies and The Grudge prequel before a break.",
+      "topics": [
+        "horror movies",
+        "Juon origins"
+      ]
+    },
+    {
+      "start": "00:16:37",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-show break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:45",
+      "kind": "content",
+      "title": "Land bridges, supercontinents and continental contraction",
+      "summary": "Josh notes the missed Africa and South America fit. Chuck explains why people had land bridge and contraction theories before continental drift, and fossil and climate evidence raised new questions.",
+      "topics": [
+        "supercontinent",
+        "continental contraction",
+        "land bridge theory",
+        "fossil evidence"
+      ]
+    },
+    {
+      "start": "00:19:45",
+      "end": "00:23:13",
+      "kind": "content",
+      "title": "Alfred Wegener and continental drift",
+      "summary": "Wegener's 1912 book The Origin of Continents and Oceans argued the continents drifted and formed Pangaea. It was ridiculed, and he died in 1930 in a blizzard. Mid-century magnetometer and seismograph work later supported him.",
+      "topics": [
+        "Alfred Wegener",
+        "continental drift",
+        "The Origin of Continents and Oceans",
+        "Pangaea",
+        "magnetometers",
+        "seismographs"
+      ]
+    },
+    {
+      "start": "00:23:13",
+      "end": "00:26:24",
+      "kind": "content",
+      "title": "Earlier supercontinents and plate mechanics",
+      "summary": "Hosts list earlier supercontinents Pannotia and Rodinia and the slow pace of motion. Chuck describes the lithosphere floating on the asthenosphere.",
+      "topics": [
+        "Rodinia",
+        "Pannotia",
+        "lithosphere",
+        "asthenosphere",
+        "plate motion speed"
+      ]
+    },
+    {
+      "start": "00:26:24",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Convection and the mechanism of plate motion",
+      "summary": "The mechanism is still debated. Convection from Earth's interior and radioactive heat are discussed, with the boiling-pot analogy. Slab pull is introduced.",
+      "topics": [
+        "mantle convection",
+        "radioactive decay heat",
+        "slab pull",
+        "mechanism of plate tectonics"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:31:56",
+      "kind": "content",
+      "title": "Plate boundary types",
+      "summary": "Divergent, convergent and transform boundaries are described, with links to earthquakes, mountains and ocean trenches such as the Mariana trench.",
+      "topics": [
+        "divergent boundary",
+        "convergent boundary",
+        "transform boundary",
+        "earthquakes",
+        "mountain formation"
+      ]
+    },
+    {
+      "start": "00:31:56",
+      "end": "00:32:06",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-show break before the next section.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:32:06",
+      "end": "00:34:41",
+      "kind": "content",
+      "title": "Tectonic etymology and volcanoes",
+      "summary": "Chuck explains the word tectonic as builder, and that magma creates new crust. Josh recommends the documentary Fire of Love.",
+      "topics": [
+        "tectonic etymology",
+        "volcanoes",
+        "new crust formation",
+        "Fire of Love"
+      ]
+    },
+    {
+      "start": "00:34:41",
+      "end": "00:36:09",
+      "kind": "content",
+      "title": "Ocean salinity and volcanic gases",
+      "summary": "Undersea volcanoes supply salts that help set ocean salinity, and volcanic eruptions replenish land and soil.",
+      "topics": [
+        "ocean salinity",
+        "undersea volcanoes",
+        "soil replenishment"
+      ]
+    },
+    {
+      "start": "00:36:09",
+      "end": "00:37:14",
+      "kind": "content",
+      "title": "Earthquakes at plate boundaries",
+      "summary": "Earthquakes cluster at plate boundaries, and the San Andreas fault is raised as an example.",
+      "topics": [
+        "earthquakes",
+        "San Andreas fault",
+        "fault lines"
+      ]
+    },
+    {
+      "start": "00:37:14",
+      "end": "00:39:14",
+      "kind": "content",
+      "title": "Seafloor magnetic striping",
+      "summary": "Compass readings over mid-ocean ridges reveal magnetic stripes that record pole reversals, supporting seafloor spreading.",
+      "topics": [
+        "seafloor magnetic striping",
+        "magnetic pole reversal",
+        "mid-ocean ridges",
+        "seafloor spreading"
+      ]
+    },
+    {
+      "start": "00:39:14",
+      "end": "00:40:27",
+      "kind": "content",
+      "title": "Ocean shape and climate",
+      "summary": "The shape of oceans set by continental movement carries warm equatorial water to the poles and moderates temperature gradients.",
+      "topics": [
+        "ocean currents",
+        "climate",
+        "equator to pole temperature"
+      ]
+    },
+    {
+      "start": "00:40:27",
+      "end": "00:42:07",
+      "kind": "content",
+      "title": "Carbon cycle and climate thermostat",
+      "summary": "Chuck explains how weathering, limestone formation, and volcanic CO2 release over geologic time regulate Earth's temperature.",
+      "topics": [
+        "carbon cycle",
+        "climate thermostat",
+        "limestone",
+        "CO2 weathering"
+      ]
+    },
+    {
+      "start": "00:42:07",
+      "end": "00:43:44",
+      "kind": "content",
+      "title": "Future supercontinent Pangaea Proxima",
+      "summary": "Computer simulations suggest a future supercontinent around 250 million years from now, named Pangaea Proxima, with Africa colliding into Europe.",
+      "topics": [
+        "Pangaea Proxima",
+        "future continents",
+        "plate tectonic simulations"
+      ]
+    },
+    {
+      "start": "00:43:44",
+      "end": "00:44:17",
+      "kind": "outro",
+      "title": "Wrap-up",
+      "summary": "Hosts sum up and point listeners to plate tectonics on HowStuffWorks.",
+      "topics": [
+        "wrap-up"
+      ]
+    },
+    {
+      "start": "00:44:17",
+      "end": "00:48:08",
+      "kind": "listener_mail",
+      "title": "Listener mail: pet nutrition",
+      "summary": "A frustrated veterinarian responds to an earlier episode on home-cooked and grain-free dog food, urging listeners to consult veterinary nutritionists and WSAVA guidelines. The hosts mention their own household diet choices.",
+      "topics": [
+        "listener mail",
+        "pet nutrition",
+        "home-cooked dog food",
+        "grain-free dog food",
+        "WSAVA"
+      ]
+    },
+    {
+      "start": "00:48:08",
+      "end": "00:48:42",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Mail address and show credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17556,
+    "output_tokens": 4308
+  }
+}

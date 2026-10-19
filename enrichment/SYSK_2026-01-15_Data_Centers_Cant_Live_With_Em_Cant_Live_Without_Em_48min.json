@@ -1,0 +1,427 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-01-15_Data_Centers_Cant_Live_With_Em_Cant_Live_Without_Em_48min.txt",
+  "title": "Data Centers: Can't Live With Em, Can't Live Without Em",
+  "date": "2026-01-15",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/data-centers-cant-live-with-em-cant-live-without-em",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79c80b54-cafd-4a23-ae5b-b3d001629ac4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/79c80b54-cafd-4a23-ae5b-b3d001629ac4/transcript?format=TextWithTimestamps&t=1768445219",
+  "summary": "Josh and Chuck (with iHeart Intro banter) explore data centers, from early electronic computers like Colossus and ANIAC and 1950s mainframes (LEO, IBM System/360) through the Internet, cloud computing, and Dropbox-style services, to today's AI data centers built on GPUs. They cover the scale of data consumption, hyperscale facilities, AI investment figures and bubble concerns, private credit, and environmental costs: electricity and water use, evaporative cooling, strain on towns like those in Data Center Alley in Northern Virginia, rising power prices, and few jobs created. The episode closes with a listener mail segment from Erica about the BBC and the Open University.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "data centers",
+    "AI data centers",
+    "hyperscale data centers",
+    "mainframe computers",
+    "Colossus computer",
+    "ANIAC",
+    "LEO computer",
+    "IBM System/360",
+    "cloud computing",
+    "GPUs",
+    "Nvidia",
+    "AI bubble",
+    "data center energy use",
+    "data center water use",
+    "evaporative cooling",
+    "Data Center Alley Virginia",
+    "electricity prices",
+    "private credit",
+    "digital economy",
+    "e-commerce history",
+    "zettabytes data consumption",
+    "UK data centers",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Colossus",
+      "type": "other"
+    },
+    {
+      "name": "ANIAC",
+      "type": "other"
+    },
+    {
+      "name": "LEO",
+      "type": "other"
+    },
+    {
+      "name": "IBM System/360",
+      "type": "other"
+    },
+    {
+      "name": "Nvidia",
+      "type": "organization"
+    },
+    {
+      "name": "OpenAI",
+      "type": "organization"
+    },
+    {
+      "name": "ChatGPT",
+      "type": "work"
+    },
+    {
+      "name": "Microsoft",
+      "type": "organization"
+    },
+    {
+      "name": "Amazon Web Services",
+      "type": "organization"
+    },
+    {
+      "name": "Dropbox",
+      "type": "organization"
+    },
+    {
+      "name": "Google",
+      "type": "organization"
+    },
+    {
+      "name": "Meta",
+      "type": "organization"
+    },
+    {
+      "name": "xAI",
+      "type": "organization"
+    },
+    {
+      "name": "Data Center Alley",
+      "type": "place"
+    },
+    {
+      "name": "Bletchley Park",
+      "type": "place"
+    },
+    {
+      "name": "Newton County, Georgia",
+      "type": "place"
+    },
+    {
+      "name": "Phoenix, Arizona",
+      "type": "place"
+    },
+    {
+      "name": "Open University",
+      "type": "organization"
+    },
+    {
+      "name": "BBC",
+      "type": "organization"
+    },
+    {
+      "name": "If Anyone Builds It, Everyone Dies",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts joke around about a glitch and the show's intro, then set up the topic of data centers.",
+      "topics": [
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:02:45",
+      "kind": "content",
+      "title": "What counts as a data center",
+      "summary": "The hosts discuss whether a server room or even a home PC counts as a data center, with Chuck recalling the office server room.",
+      "topics": [
+        "data center definition",
+        "server room"
+      ]
+    },
+    {
+      "start": "00:02:45",
+      "end": "00:04:20",
+      "kind": "content",
+      "title": "Global data consumption growth",
+      "summary": "Data consumption reached about 150 zettabytes in 2024, up from about 2 zettabytes in 2010, which the hosts say is driving exponential growth in data centers.",
+      "topics": [
+        "zettabytes",
+        "data consumption",
+        "data growth"
+      ]
+    },
+    {
+      "start": "00:04:20",
+      "end": "00:07:20",
+      "kind": "content",
+      "title": "Colossus and ENIAC",
+      "summary": "Early electronic computers were military-linked: Colossus at Bletchley Park in World War Two, now the National Museum of Computing, and ENIAC, the first general-purpose electronic computer.",
+      "topics": [
+        "Colossus",
+        "Bletchley Park",
+        "ENIAC",
+        "early electronic computers",
+        "World War Two code breaking"
+      ]
+    },
+    {
+      "start": "00:07:20",
+      "end": "00:10:20",
+      "kind": "content",
+      "title": "Mainframes and the PC",
+      "summary": "In the 1950s companies got their own mainframes, which were centralized and accessed in person. PCs later put computing on employees' desks.",
+      "topics": [
+        "mainframe computers",
+        "PC history",
+        "centralized computing"
+      ]
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:11:55",
+      "kind": "content",
+      "title": "LEO computer and IBM leasing",
+      "summary": "J. Lyons, a UK tea shop chain, ran the LEO, the first business mainframe, which also calculated missile trajectories for the Ministry of Defence. IBM dominated mainframe leasing; the IBM System/360 appeared in the 1960s.",
+      "topics": [
+        "LEO computer",
+        "J. Lyons",
+        "IBM mainframe leasing",
+        "IBM System/360",
+        "mainframe pricing"
+      ]
+    },
+    {
+      "start": "00:11:55",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Mainframes in War Games and today",
+      "summary": "The hosts recall the modem scene in the film WarGames, then note that mainframes remain in use today for security and reliability, by organizations such as banks and the Census Bureau.",
+      "topics": [
+        "WarGames",
+        "modems",
+        "mainframes today"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:14:24",
+      "kind": "intro",
+      "title": "Break transition",
+      "summary": "Brief transition before the ad break.",
+      "topics": [
+        "transition"
+      ]
+    },
+    {
+      "start": "00:14:24",
+      "end": "00:16:04",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break; no sponsor content is transcribed here beyond the tea banter.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:16:04",
+      "end": "00:17:17",
+      "kind": "content",
+      "title": "Internet growth and e-commerce",
+      "summary": "The Internet made data storage needs grow, leading to the dot-com era and e-commerce. Leasing server space on others' mainframes helped create the digital economy.",
+      "topics": [
+        "Internet growth",
+        "dot-com bubble",
+        "e-commerce",
+        "digital economy",
+        "Webvan"
+      ]
+    },
+    {
+      "start": "00:17:17",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Cloud computing and Dropbox",
+      "summary": "Cloud computing in the early 2000s let companies store data remotely and pooled storage. Dropbox buys capacity from Amazon Web Services and sells terabyte plans to users.",
+      "topics": [
+        "cloud computing",
+        "Dropbox",
+        "Amazon Web Services",
+        "remote work",
+        "VPN"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:20:07",
+      "kind": "content",
+      "title": "Hyperscale data centers and Google's Oregon site",
+      "summary": "Hyperscale data centers host over 5,000 servers. Google's first data center was built in 2006 in Oregon, and China Telecom has a 10.7 million square foot facility in Inner Mongolia.",
+      "topics": [
+        "hyperscale data centers",
+        "Google data centers",
+        "China Telecom Inner Mongolia"
+      ]
+    },
+    {
+      "start": "00:20:07",
+      "end": "00:22:36",
+      "kind": "content",
+      "title": "Cloud expansion, COVID and remote work",
+      "summary": "Cloud computing led to a jump in data center demand from 2017, and COVID boosted it further as remote work took hold.",
+      "topics": [
+        "COVID remote work",
+        "data center demand"
+      ]
+    },
+    {
+      "start": "00:22:36",
+      "end": "00:25:44",
+      "kind": "content",
+      "title": "AI data centers and GPUs",
+      "summary": "Since ChatGPT's release in 2022, AI data centers need GPUs for parallel processing, strung together into supercomputers. Nvidia's H100 is the standard; ChatGPT was trained on about 20,000 GPUs. Nvidia stock rose sharply in 2023 and 2024.",
+      "topics": [
+        "AI data centers",
+        "GPU",
+        "Nvidia H100",
+        "parallel processing",
+        "ChatGPT training",
+        "Nvidia stock"
+      ]
+    },
+    {
+      "start": "00:25:44",
+      "end": "00:28:36",
+      "kind": "content",
+      "title": "AI superintelligence risk and xAI Colossus",
+      "summary": "The hosts reference the book If Anyone Builds It, Everyone Dies on AI risk. xAI's Colossus runs about 200,000 GPUs for AI. Meta is also building its own; OpenAI reportedly relies on Microsoft's data centers.",
+      "topics": [
+        "AI risk",
+        "xAI Colossus",
+        "Meta AI data centers",
+        "OpenAI Microsoft"
+      ]
+    },
+    {
+      "start": "00:28:36",
+      "end": "00:30:14",
+      "kind": "content",
+      "title": "Personal AI use and GPU prices for gamers",
+      "summary": "Hosts discuss not using AI much personally, and say Nvidia chip demand has pushed up graphics card prices for gamers.",
+      "topics": [
+        "AI adoption personal",
+        "graphics card prices",
+        "gamers"
+      ]
+    },
+    {
+      "start": "00:30:14",
+      "end": "00:32:46",
+      "kind": "content",
+      "title": "Investment in AI data centers and UK expansion",
+      "summary": "Microsoft, Amazon, Google and Meta are spending billions on data centers; Morgan Stanley projects about three trillion dollars through 2030. The UK is cited as the third-largest data center nation, with Microsoft's thirty billion dollar investment and a Wales site converted from a radiator factory.",
+      "topics": [
+        "AI infrastructure investment",
+        "Morgan Stanley forecast",
+        "UK data centers",
+        "Microsoft UK investment",
+        "Wales data center"
+      ]
+    },
+    {
+      "start": "00:32:46",
+      "end": "00:34:53",
+      "kind": "content",
+      "title": "AI bubble concerns and private credit",
+      "summary": "The hosts discuss the AI bubble, with few businesses seeing returns from AI pilots, and warnings from the Financial Times and the IMF. Financing relies in part on largely unregulated private credit.",
+      "topics": [
+        "AI bubble",
+        "private credit",
+        "Financial Times",
+        "IMF warning",
+        "circular AI economy"
+      ]
+    },
+    {
+      "start": "00:34:53",
+      "end": "00:38:19",
+      "kind": "content",
+      "title": "Environmental cost: electricity and water",
+      "summary": "Data centers draw large amounts of electricity and water. Evaporative cooling uses water heavily. About 11,000 data centers worldwide use 1 to 1.5 percent of global electricity; in Ireland they use about 20 percent.",
+      "topics": [
+        "data center electricity use",
+        "data center water use",
+        "evaporative cooling",
+        "Ireland data centers",
+        "energy consumption"
+      ]
+    },
+    {
+      "start": "00:38:19",
+      "end": "00:41:25",
+      "kind": "content",
+      "title": "Local impact: Virginia, Georgia, Arizona, Meta Hyperion",
+      "summary": "Data Center Alley in northern Virginia uses electricity equal to about 60 percent of Virginia households. Meta's Hyperion site will draw about five gigawatts. A Newton County, Georgia, data center uses a tenth of local water; Phoenix Meta and Microsoft sites use seven million gallons a day.",
+      "topics": [
+        "Data Center Alley",
+        "Meta Hyperion",
+        "Newton County Georgia",
+        "Phoenix water use",
+        "Barclays forecast"
+      ]
+    },
+    {
+      "start": "00:41:25",
+      "end": "00:44:47",
+      "kind": "content",
+      "title": "Rising electricity prices and few jobs",
+      "summary": "Electricity prices near Data Center Alley rose about 267 percent since 2020, spilling costs onto Maryland. A ten billion pound Northumberland, England data center would employ about 400 people. Hosts say data centers are heavily subsidized and lightly regulated.",
+      "topics": [
+        "electricity prices",
+        "data center jobs",
+        "subsidies",
+        "Northumberland data center",
+        "regulation"
+      ]
+    },
+    {
+      "start": "00:44:47",
+      "end": "00:45:51",
+      "kind": "content",
+      "title": "Closing thoughts on regulation",
+      "summary": "Hosts argue data centers are important but need checks, and suggest that AI executives' influence on officials plays a role.",
+      "topics": [
+        "data center regulation",
+        "lobbying"
+      ]
+    },
+    {
+      "start": "00:45:51",
+      "end": "00:47:36",
+      "kind": "listener_mail",
+      "title": "Listener mail: BBC and Open University",
+      "summary": "Erica writes about the BBC's fifty-year partnership with the Open University, which the hosts had not covered in their BBC episode.",
+      "topics": [
+        "listener mail",
+        "BBC",
+        "Open University"
+      ]
+    },
+    {
+      "start": "00:47:36",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank Erica, invite listener topic ideas by email, and sign off.",
+      "topics": [
+        "sign-off",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17904,
+    "output_tokens": 4393
+  }
+}

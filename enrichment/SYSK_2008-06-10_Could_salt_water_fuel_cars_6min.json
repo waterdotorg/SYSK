@@ -1,0 +1,124 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-10_Could_salt_water_fuel_cars_6min.txt",
+  "title": "Could salt water fuel cars?",
+  "date": "2008-06-10",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/could-salt-water-fuel-cars",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0c8725fc-57b6-4a46-a656-ae2800c422ad/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0c8725fc-57b6-4a46-a656-ae2800c422ad/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Candice Gibson discuss whether salt water could fuel cars, centered on John Kanzius, a retired Florida radio broadcast engineer whose radio frequency generator (RFG) split water and set it on fire during desalination tests. They explain that this splits water into hydrogen and oxygen, then cover hydrogen fuel safety (including the Hindenburg, where most passengers survived), and why the process has a negative net energy ratio, so it takes more energy than it yields. Hydrogen is described as a clean-burning fuel whose only emission is essentially water vapor. The episode ends with a pitch for HowStuffWorks articles on the topic. Transcript is rough and contains some garbled ad copy at the start and end.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "salt water fuel",
+    "saltwater as fuel",
+    "John Kanzius",
+    "radio frequency generator",
+    "RFG",
+    "water splitting",
+    "hydrogen fuel",
+    "hydrogen fuel safety",
+    "Hindenburg disaster",
+    "net energy ratio",
+    "desalination",
+    "global water crisis",
+    "clean burning fuel",
+    "alternative fuels",
+    "hydrogen vehicles"
+  ],
+  "entities": [
+    {
+      "name": "John Kanzius",
+      "type": "person"
+    },
+    {
+      "name": "Hindenburg",
+      "type": "event"
+    },
+    {
+      "name": "radio frequency generator",
+      "type": "other"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "ad",
+      "title": "Opening sponsor reads",
+      "summary": "Opening sponsor read for a camera and an automotive product, before the show introduction.",
+      "topics": [
+        "sponsor read"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Introduction and salt water fuel question",
+      "summary": "Hosts introduce the episode and ask whether saltwater could power cars, naming John Kanzius and his radio frequency generator.",
+      "topics": [
+        "salt water fuel",
+        "John Kanzius"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Kanzius's radio frequency generator and burning water",
+      "summary": "Kanzius, a retired Florida radio broadcast engineer, built a radio frequency generator that condenses radio waves into a beam. While trying to desalinate salt water, he aimed it at a test tube, which sparked, and then set water on fire, with a paper towel burning at about 3,000 degrees Fahrenheit.",
+      "topics": [
+        "John Kanzius",
+        "radio frequency generator",
+        "desalination",
+        "water splitting"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "Hydrogen fuel and the Hindenburg",
+      "summary": "The RFG inadvertently separated water into hydrogen and oxygen. The hosts discuss hydrogen fuel safety and argue the Hindenburg is a poor example: hydrogen is lighter than air and burned upward, and most passengers survived; 35 of 37 deaths were from jumping.",
+      "topics": [
+        "hydrogen fuel",
+        "hydrogen fuel safety",
+        "Hindenburg disaster"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Negative net energy ratio",
+      "summary": "The main obstacle is that making this salt water fuel takes more energy than it yields, a negative net energy ratio, so the hosts say it makes little sense compared with using gasoline directly. Hydrogen is still described as a clean-burning fuel whose emissions are essentially water vapor.",
+      "topics": [
+        "net energy ratio",
+        "hydrogen fuel",
+        "clean burning fuel"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Sign-off and website plug",
+      "summary": "Hosts point listeners to HowStuffWorks articles on salt water fuel and hydrogen fuel danger, invite feedback by email, and close with a sponsor read.",
+      "topics": [
+        "HowStuffWorks",
+        "podcast feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3475,
+    "output_tokens": 1506
+  }
+}

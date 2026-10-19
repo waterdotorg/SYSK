@@ -1,0 +1,239 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-11-04_Can_Nuclear_Fusion_Reactors_Save_The_World_43min.txt",
+  "title": "Can Nuclear Fusion Reactors Save The World?",
+  "date": "2014-11-04",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-nuclear-fusion-reactors-save-the-world",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/448dbb0d-6642-4f24-9dea-ae2800932b68/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/448dbb0d-6642-4f24-9dea-ae2800932b68/transcript?format=TextWithTimestamps&t=1700543873",
+  "summary": "Josh and Chuck explain nuclear fusion and why it could be a future energy source. They cover the ITER reactor in Cadarache, Provence, France (about fifty billion dollars, delayed, expected to produce around five hundred megawatts), the fusion-versus-fission difference, the Sun as a model, plasma, and the history from Lyman Spitzer's stellarator through the Russian tokamak. They explain the physics of the strong force and the electromagnetic barrier, the deuterium-tritium and deuterium-deuterium reactions, and the two confinement approaches: magnetic (tokamak) and inertial (NIF lasers). They also discuss Lockheed Martin's skeptically received compact fusion claim, cold fusion and its debunking, Taylor Wilson's garage fusion work, and the Kiva lending team. The episode ends with a listener mail about skywriting.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "nuclear fusion",
+    "fusion reactor",
+    "ITER",
+    "Cadarache",
+    "nuclear fission vs fusion",
+    "plasma",
+    "tokamak",
+    "stellarator",
+    "Lyman Spitzer",
+    "magnetic confinement",
+    "inertial confinement",
+    "National Ignition Facility",
+    "Lockheed Martin fusion reactor",
+    "cold fusion",
+    "deuterium",
+    "tritium",
+    "fusion energy",
+    "clean energy",
+    "Taylor Wilson",
+    "strong nuclear force",
+    "Kiva microlending",
+    "skywriting listener mail"
+  ],
+  "entities": [
+    {
+      "name": "ITER",
+      "type": "organization"
+    },
+    {
+      "name": "Cadarache",
+      "type": "place"
+    },
+    {
+      "name": "Provence",
+      "type": "place"
+    },
+    {
+      "name": "Lyman Spitzer",
+      "type": "person"
+    },
+    {
+      "name": "Taylor Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Lockheed Martin",
+      "type": "organization"
+    },
+    {
+      "name": "National Ignition Facility",
+      "type": "place"
+    },
+    {
+      "name": "Lawrence Livermore Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "tokamak",
+      "type": "other"
+    },
+    {
+      "name": "stellarator",
+      "type": "other"
+    },
+    {
+      "name": "cold fusion",
+      "type": "event"
+    },
+    {
+      "name": "Fukushima",
+      "type": "event"
+    },
+    {
+      "name": "A Star in a Bottle",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to ITER",
+      "summary": "Josh and Chuck open with banter, then introduce ITER, the fusion reactor in Cadarache, Provence, France. They note its cost of about fifty billion dollars and delays, and give the case for fusion as clean, nearly limitless energy. They mention the New Yorker article 'A Star in a Bottle.'",
+      "topics": [
+        "ITER",
+        "fusion energy",
+        "Cadarache",
+        "A Star in a Bottle",
+        "clean energy"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Fusion vs fission, energy output, and the Sun",
+      "summary": "They compare fusion and fission energy per kilogram of fuel and contrast fusion's output with coal. They describe the Sun as a natural fusion reactor, fusing millions of tons of hydrogen per second, and mention Taylor Wilson's garage fusion project. They discuss net energy gain as the key challenge, with the hosts noting ITER's expected five hundred megawatts.",
+      "topics": [
+        "fusion vs fission",
+        "net energy gain",
+        "Sun fusion",
+        "Taylor Wilson",
+        "energy output"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "History: Lyman Spitzer, plasma, and the donut-shaped tokamak",
+      "summary": "They trace fusion history to Lyman Spitzer's 1950s work and his stellarator, which used a figure-eight shape. They define plasma as the fourth state of matter. They describe how the Russians developed the donut-shaped tokamak using electromagnetic coils, which became the standard for about fifty years. They also explain why Earth needs temperatures far above the Sun's core to compensate for lower density.",
+      "topics": [
+        "Lyman Spitzer",
+        "stellarator",
+        "tokamak",
+        "plasma",
+        "Russian fusion research",
+        "history of fusion"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "The physics of fusion: strong force and electromagnetic repulsion",
+      "summary": "They explain that fusion joins nuclei while fission splits them, and that the strong nuclear force releases energy when protons are pushed close enough together to overcome electromagnetic repulsion. They describe the energy carried by neutrons and how heat drives a steam turbine to make electricity.",
+      "topics": [
+        "strong nuclear force",
+        "electromagnetic force",
+        "fusion physics",
+        "neutrons",
+        "mass-energy equivalence",
+        "steam turbine"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Fuel: deuterium, tritium, and radioactive waste",
+      "summary": "They cover fusion fuels. Deuterium-tritium is the reaction currently achievable, but tritium is radioactive and lithium is needed to produce it. Deuterium-deuterium is the long-term goal, with fuel from seawater. They describe helium as a byproduct, the isotopes of hydrogen, and the reduced radioactive waste compared with fission, while noting activation of structural materials. They say fusion reactors have no chain reaction or meltdown risk.",
+      "topics": [
+        "deuterium",
+        "tritium",
+        "fusion fuel",
+        "radioactive waste",
+        "helium shortage",
+        "hydrogen isotopes",
+        "meltdown risk"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Magnetic and inertial confinement, Lockheed Martin, and ITER details",
+      "summary": "They explain magnetic confinement in tokamaks, including the roughly seventy megawatts needed to start ITER versus about five hundred megawatts output. They describe inertial confinement at the National Ignition Facility, which uses about 1.8 million joules from 192 lasers on a pellet. They discuss Lockheed Martin's compact fusion claim, which scientists viewed skeptically because no data had been released, and its mirror-based approach.",
+      "topics": [
+        "magnetic confinement",
+        "inertial confinement",
+        "National Ignition Facility",
+        "lasers fusion",
+        "Lockheed Martin fusion",
+        "compact fusion reactor",
+        "ITER funding"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Cold fusion and ITER funding",
+      "summary": "They describe cold fusion claims from the late 1980s using palladium and heavy water, which other scientists could not replicate. They mention a 2005 UCLA pyroelectric fusion result that had negative net energy. They close the fusion discussion with ITER's funding contributions from the EU, South Korea, China, the US, and Russia.",
+      "topics": [
+        "cold fusion",
+        "pyroelectric fusion",
+        "ITER funding",
+        "palladium",
+        "heavy water"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:40:00",
+      "kind": "ad",
+      "title": "Kiva microlending sponsor segment",
+      "summary": "The hosts promote the Kiva team, noting that the team has loaned about 2.7 million dollars and surpassed 100,000 loans, and invite listeners to join the team.",
+      "topics": [
+        "Kiva",
+        "microlending",
+        "Kiva team"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: skywriting follow-up",
+      "summary": "A listener from Sydney, Australia, Marlin, writes that as a child they saw a skywriting plane spell 'Hooters' backwards, which explains why skywriting appears reversed from the ground.",
+      "topics": [
+        "skywriting",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:42:30",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts give contact information and invite listeners to visit the website and social media.",
+      "topics": [
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14532,
+    "output_tokens": 2918
+  }
+}

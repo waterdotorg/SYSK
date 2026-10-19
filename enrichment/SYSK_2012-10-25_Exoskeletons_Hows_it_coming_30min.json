@@ -1,0 +1,239 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-10-25_Exoskeletons_Hows_it_coming_30min.txt",
+  "title": "Exoskeletons: How's it coming?",
+  "date": "2012-10-25",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/exoskeletons-hows-it-coming",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d90e9a88-dc36-459f-857a-ae2800a496b4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d90e9a88-dc36-459f-857a-ae2800a496b4/transcript?format=TextWithTimestamps&t=1700543912",
+  "summary": "Josh Clark and Chuck Bryant explore exoskeletons, or wearable robots, tracing their history from the 1868 dime novel \"The Steam Man of the Prairies\" and Neil Mehrer's \"man amplifier\" through Pentagon and DARPA funding, Sarcos and Raytheon's XOS, Berkeley Bionics, Argo Medical's ReWalk, and Japan's Cyberdyne HAL. They discuss military goals such as carrying heavy loads and rescuing soldiers, medical uses for paraplegics, and technical hurdles like power, batteries, and actuators. The episode closes with a listener email about abusive grandparents and a request for stories.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "exoskeleton",
+    "exoskeletons",
+    "wearable robots",
+    "human augmentation",
+    "DARPA",
+    "Pentagon exoskeleton program",
+    "Raytheon XOS",
+    "Sarcos",
+    "Berkeley Bionics",
+    "Human Load Carrier",
+    "ReWalk",
+    "Argo Medical Technologies",
+    "Cyberdyne HAL",
+    "Steam Man of the Prairies",
+    "Neil Mehrer man amplifier",
+    "military robotics",
+    "powered armor",
+    "assistive robotics for paralysis",
+    "actuators",
+    "brain-controlled exoskeleton",
+    "Springtail flying vehicle",
+    "listener mail",
+    "abusive grandparents"
+  ],
+  "entities": [
+    {
+      "name": "DARPA",
+      "type": "organization"
+    },
+    {
+      "name": "Pentagon",
+      "type": "organization"
+    },
+    {
+      "name": "Raytheon",
+      "type": "organization"
+    },
+    {
+      "name": "Sarcos",
+      "type": "organization"
+    },
+    {
+      "name": "Berkeley Bionics",
+      "type": "organization"
+    },
+    {
+      "name": "Argo Medical Technologies",
+      "type": "organization"
+    },
+    {
+      "name": "Cyberdyne",
+      "type": "organization"
+    },
+    {
+      "name": "General Electric",
+      "type": "organization"
+    },
+    {
+      "name": "Cornell",
+      "type": "organization"
+    },
+    {
+      "name": "XOS",
+      "type": "work"
+    },
+    {
+      "name": "ReWalk",
+      "type": "work"
+    },
+    {
+      "name": "HAL",
+      "type": "work"
+    },
+    {
+      "name": "The Steam Man of the Prairies",
+      "type": "work"
+    },
+    {
+      "name": "Iron Man",
+      "type": "work"
+    },
+    {
+      "name": "Neil Mehrer",
+      "type": "person"
+    },
+    {
+      "name": "Steve Jacobsen",
+      "type": "person"
+    },
+    {
+      "name": "Edward Sylvester Ellis",
+      "type": "person"
+    },
+    {
+      "name": "Springtail exoskeleton flying vehicle",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Tony Stark comparison",
+      "summary": "Josh and Chuck trade banter about Josh's health and Chuck looking like Tony Stark, then set up the topic of exoskeletons as the Iron Man suit equivalent.",
+      "topics": [
+        "banter",
+        "Iron Man",
+        "exoskeleton introduction"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Early history: Steam Man and Iron Man comics",
+      "summary": "They describe exoskeletons as wearable robots and human augmentation, distinguish them from armor, and discuss the 1868 Steam Man of the Prairies dime novel, which featured a robot pulling a cart rather than a wearable device, along with the 1963 Iron Man comic.",
+      "topics": [
+        "wearable robots",
+        "human augmentation",
+        "Steam Man of the Prairies",
+        "history of exoskeletons",
+        "Iron Man comics"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Pentagon's servo soldier and early designs",
+      "summary": "The Pentagon's early proposals include the servo soldier described by the AP. Neil Mehrer's man amplifier and GE's walking pedipulator are discussed, and the hosts note these early machines were more ride-in vehicles than true exoskeletons.",
+      "topics": [
+        "servo soldier",
+        "Neil Mehrer man amplifier",
+        "General Electric pedipulator",
+        "Cold War-era military exoskeletons"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Why early attempts failed",
+      "summary": "Cost, slow computers, heavy weight, and battery limits stalled early efforts. The hosts note that material science and actuators, the electromechanical muscles, are only now catching up.",
+      "topics": [
+        "technology limits",
+        "batteries",
+        "actuators",
+        "computing power"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "DARPA funding and military goals",
+      "summary": "DARPA launched a program with about seventy five million dollars in funding, with goals including carrying hundreds of pounds of gear, handling heavy weapons with one person, carrying wounded soldiers off the field, being bulletproof, and jumping high. The hosts also discuss the Springtail flying vehicle, which is not an exoskeleton.",
+      "topics": [
+        "DARPA",
+        "Exoskeletons for Human Performance Augmentation",
+        "military load carrying",
+        "Springtail flying vehicle",
+        "soldier casualty evacuation"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Sarcos, Raytheon XOS, and Berkeley Bionics",
+      "summary": "Steve Jacobsen at Sarcos built a system using sensors that detect muscle contractions and hydraulic valves that drive joints. Sarcos later became part of Raytheon, which developed the XOS, running at about ten miles an hour. Berkeley Bionics' Human Load Carrier ran for about twenty hours on one charge.",
+      "topics": [
+        "Sarcos",
+        "Steve Jacobsen",
+        "Raytheon XOS",
+        "Berkeley Bionics",
+        "Human Load Carrier",
+        "hydraulic exoskeleton"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Medical exoskeletons and Cyberdyne HAL",
+      "summary": "Argo Medical's ReWalk helps paralyzed people walk, controlled by leaning. Japan's Cyberdyne developed HAL, which reads electrical signals from the brain instead of relying on muscle contractions, and has a streamlined design.",
+      "topics": [
+        "ReWalk",
+        "Argo Medical Technologies",
+        "paralysis mobility",
+        "Cyberdyne HAL",
+        "brain-computer interface",
+        "assistive exoskeleton cost"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Current state, 2010 XOS, and future outlook",
+      "summary": "The hosts describe the XOS weighing about fifty five pounds and carrying about two hundred pounds. They discuss future features such as GPS, thermal imaging, and computerized fabric, and predict practical versions within ten to fifteen years.",
+      "topics": [
+        "XOS weight and capacity",
+        "future exoskeleton features",
+        "military exoskeleton outlook"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:30:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: abusive grandparents",
+      "summary": "A listener describes being raised by an abusive grandmother, and Josh and Chuck respond. The segment closes with a call for listener stories and a plug for the website and contact channels.",
+      "topics": [
+        "listener mail",
+        "abusive grandparents",
+        "family abuse"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10995,
+    "output_tokens": 2655
+  }
+}

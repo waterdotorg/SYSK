@@ -1,0 +1,211 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-05-16_SYSK_Selects_How_Fire_Works_28min.txt",
+  "title": "SYSK Selects: How Fire Works",
+  "date": "2020-05-16",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-fire-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8de63bfb-383d-4d1e-bcbf-ae28003647c3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8de63bfb-383d-4d1e-bcbf-ae28003647c3/transcript?format=TextWithTimestamps&t=1700543628",
+  "summary": "SYSK Selects rerun of a 2012 episode on how fire works. Josh and Chuck open with the deadly history of the Winecoff Hotel fire in Atlanta and the MGM Grand fire in Las Vegas, and the hubris toward fire. They then explain combustion as a chemical reaction between fuel and oxygen, using wood as the example: ignition temperature, volatile gases, smoke, char, and ash. They cover cellulose and cellophane, charcoal and briquettes, heat and light (incandescence), why flames burn upward and why zero-gravity fire would be spherical, steam versus fire, piloted and unpiloted ignition temperatures, gasoline vapor, surface area and friction fire-starting. The episode closes with a listener mail about an alarm clock song and a sign-off.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Fire Works",
+  "topics": [
+    "how fire works",
+    "combustion",
+    "fire chemistry",
+    "oxidation",
+    "ignition temperature",
+    "piloted ignition temperature",
+    "volatile gases",
+    "wood fire",
+    "char and charcoal",
+    "charcoal filtering",
+    "cellulose",
+    "cellophane",
+    "briquettes",
+    "incandescence",
+    "flame color",
+    "flame direction",
+    "fire in zero gravity",
+    "steam and boiling water",
+    "gasoline vapor ignition",
+    "surface area and fuel",
+    "friction fire starting",
+    "Winecoff Hotel fire",
+    "MGM Grand fire",
+    "fire deaths",
+    "fire safety",
+    "SYSK Selects",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Winecoff Hotel fire",
+      "type": "event"
+    },
+    {
+      "name": "MGM Grand fire",
+      "type": "event"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Las Vegas",
+      "type": "place"
+    },
+    {
+      "name": "Prometheus",
+      "type": "person"
+    },
+    {
+      "name": "Cellophane",
+      "type": "other"
+    },
+    {
+      "name": "Cellulose",
+      "type": "other"
+    },
+    {
+      "name": "Charcoal",
+      "type": "other"
+    },
+    {
+      "name": "Bear Grylls",
+      "type": "person"
+    },
+    {
+      "name": "Les Stroud",
+      "type": "person"
+    },
+    {
+      "name": "Bad to the Bone",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening and fire disaster history",
+      "summary": "Josh introduces the Selects episode and recalls the Winecoff Hotel fire in Atlanta and the MGM Grand fire in Las Vegas, both blamed on fire safety shortcuts. They note fire kills many people and remark on the value of respecting fire.",
+      "topics": [
+        "Winecoff Hotel fire",
+        "MGM Grand fire",
+        "fire safety",
+        "fire deaths"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Fire as a chemical reaction and fire statistics",
+      "summary": "The hosts give US residential fire death statistics, note cooking as the leading cause of building fires, and define fire as the physical manifestation of matter changing form. Combustion is described as a reaction between fuel and oxygen, with ignition temperature and the idea that smoke signals fire.",
+      "topics": [
+        "combustion",
+        "fire chemistry",
+        "ignition temperature",
+        "fire deaths",
+        "fire statistics"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Wood, smoke, char and cellulose",
+      "summary": "Heat decomposes wood: volatile gases escape as smoke while cellulose turns into char. The hosts discuss cellulose as a natural polymer, cellophane as regenerated cellulose, and the difference between smoke and fire.",
+      "topics": [
+        "wood fire",
+        "volatile gases",
+        "cellulose",
+        "cellophane",
+        "char and charcoal"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Charcoal, ash and briquettes",
+      "summary": "Burned wood leaves char (carbon), ash (unburnable minerals) and smoke. Charcoal's use as a filter is discussed, including a survival water-purifying tip. The hosts compare wood charcoal with briquettes, which contain more ash and binding agents.",
+      "topics": [
+        "charcoal filtering",
+        "ash",
+        "briquettes",
+        "charcoal",
+        "survival tips"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Oxidation, self-sustaining fire, heat and light",
+      "summary": "Volatile gases break apart and combine with oxygen, releasing heat; fire is self-sustaining while fuel and oxygen remain. Light is produced by electrons releasing photons, similar to incandescence in a light bulb. Flame color depends on temperature, illustrated with Bunsen burners.",
+      "topics": [
+        "oxidation",
+        "heat release",
+        "incandescence",
+        "flame color",
+        "Bunsen burner"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Flame direction, zero gravity and steam",
+      "summary": "Flames point upward because hot, less dense gases rise into denser air. The hosts speculate about fire in zero gravity, which would burn as a sphere. They contrast steam from boiling water, which does not combust, with fuels such as carbon and hydrogen that readily combine with oxygen.",
+      "topics": [
+        "flame direction",
+        "fire in zero gravity",
+        "steam and boiling water"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Ignition temperatures, gasoline and fuel shape",
+      "summary": "Gasoline vaporizes and its vapor ignites. Piloted and unpiloted ignition temperatures are explained. Surface area affects how easily fuel burns, with small wood shavings catching quickly; friction fire-starting methods are mentioned.",
+      "topics": [
+        "gasoline vapor ignition",
+        "piloted ignition temperature",
+        "surface area and fuel",
+        "friction fire starting"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:27:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Bad to the Bone alarm",
+      "summary": "A listener from Victoria, BC describes her partner's alarm clock set to Bad to the Bone and the year-long alarm battle that ended with a new alarm clock radio.",
+      "topics": [
+        "listener mail",
+        "Bad to the Bone"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts invite listener contact via Twitter, Facebook and email and close the episode.",
+      "topics": [
+        "outro",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10092,
+    "output_tokens": 2370
+  }
+}

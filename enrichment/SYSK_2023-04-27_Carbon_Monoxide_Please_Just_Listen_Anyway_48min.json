@@ -1,0 +1,438 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-04-27_Carbon_Monoxide_Please_Just_Listen_Anyway_48min.txt",
+  "title": "Carbon Monoxide: Please Just Listen Anyway",
+  "date": "2023-04-27",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/carbon-monoxide-please-just-listen-anyway",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3d28456d-d3f0-45e1-9233-aff100e5975f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3d28456d-d3f0-45e1-9233-aff100e5975f/transcript?format=TextWithTimestamps&t=1714089580",
+  "summary": "Stuff You Should Know PSA-edition episode on carbon monoxide. The hosts explain why CO is deadly (it binds hemoglobin far more readily than oxygen), how it forms from incomplete combustion, and its history from the thirteenth-century alchemist Arnaldus de Villa Nova through Helmont and Joseph Priestley. They cover acute and chronic poisoning, sources in homes (unvented space heaters, cars left running in attached garages, generators, incense, hookahs, cigarettes, gas appliances), the 2021 Texas winter storm grill deaths, outdoor and urban CO, Fairbanks temperature inversions, NASA's MOPITT satellite, the catalytic converter, detector advice, and medical uses of CO. The episode also includes a listener mail segment and a few ad/promotional reads.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "carbon monoxide",
+    "CO poisoning",
+    "carbon monoxide poisoning symptoms",
+    "incomplete combustion",
+    "stoichiometric combustion",
+    "hemoglobin and carboxyhemoglobin",
+    "silent killer",
+    "carbon monoxide detectors",
+    "space heater safety",
+    "unvented space heaters",
+    "portable generator carbon monoxide",
+    "car running in garage",
+    "Texas winter storm 2021 carbon monoxide",
+    "catalytic converter",
+    "Fairbanks temperature inversion",
+    "MOPITT satellite",
+    "carbon monoxide and methane hydroxyl radicals",
+    "Clean Air Act",
+    "joseph priestley",
+    "carbon monoxide medical uses",
+    "household air pollution",
+    "PSA",
+    "Stuff You Should Know PSA edition",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Carbon monoxide",
+      "type": "other"
+    },
+    {
+      "name": "Arnaldus de Villa Nova",
+      "type": "person"
+    },
+    {
+      "name": "Johann Baptista van Helmont",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Priestley",
+      "type": "person"
+    },
+    {
+      "name": "Eugene Houdry",
+      "type": "person"
+    },
+    {
+      "name": "Fairbanks, Alaska",
+      "type": "place"
+    },
+    {
+      "name": "Texas winter storm 2021",
+      "type": "event"
+    },
+    {
+      "name": "Beverly Hills Supper Club fire",
+      "type": "event"
+    },
+    {
+      "name": "MOPITT",
+      "type": "other"
+    },
+    {
+      "name": "Terra satellite",
+      "type": "other"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Clean Air Act",
+      "type": "work"
+    },
+    {
+      "name": "Consumer Product Safety Commission",
+      "type": "organization"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Kidde Nighthawk carbon monoxide detector",
+      "type": "other"
+    },
+    {
+      "name": "The Jerky Boys",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:02",
+      "end": "00:01:00",
+      "kind": "ad",
+      "title": "Live show tour announcement",
+      "summary": "Josh and an announcer promote upcoming live shows in Washington D.C., Greater Boston, and Toronto, with ticket info.",
+      "topics": [
+        "live shows",
+        "tour tickets"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:00",
+      "kind": "intro",
+      "title": "Opening banter and PSA framing",
+      "summary": "Hosts introduce the PSA-edition episode, recall past PSAs and the cellophane bags short stuff, and note the serious topic of carbon monoxide.",
+      "topics": [
+        "PSA",
+        "cellophane bags short stuff"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:05:05",
+      "kind": "content",
+      "title": "What carbon monoxide is and how it forms",
+      "summary": "CO is a deadly gas that is produced by combustion, especially incomplete combustion. It has no smell or warning. Perfect (stoichiometric) combustion is theoretical, and inefficiencies from air-fuel mix or cooling produce CO.",
+      "topics": [
+        "carbon monoxide",
+        "incomplete combustion",
+        "stoichiometric combustion",
+        "silent killer"
+      ]
+    },
+    {
+      "start": "00:05:05",
+      "end": "00:07:17",
+      "kind": "content",
+      "title": "History of CO discovery",
+      "summary": "Arnaldus de Villa Nova in the thirteenth century noted poisonous gas from burning wood; Helmont in 1644 described gas carbonum; Joseph Priestley in the 1770s identified air components and called CO heavy inflammable air.",
+      "topics": [
+        "history of carbon monoxide",
+        "Arnaldus de Villa Nova",
+        "Helmont",
+        "Joseph Priestley",
+        "inflammable word origin"
+      ]
+    },
+    {
+      "start": "00:07:17",
+      "end": "00:08:40",
+      "kind": "content",
+      "title": "Word origin tangent: inflammable",
+      "summary": "Hosts discuss how inflammable came to be replaced by flammable because the word confused people.",
+      "topics": [
+        "inflammable vs flammable",
+        "word origins"
+      ]
+    },
+    {
+      "start": "00:08:40",
+      "end": "00:11:08",
+      "kind": "content",
+      "title": "Hosts' banter and the Jerry joke",
+      "summary": "Light banter about the hosts poking fun at each other and at Jerry, and a belly joke.",
+      "topics": [
+        "banter"
+      ]
+    },
+    {
+      "start": "00:11:08",
+      "end": "00:13:24",
+      "kind": "content",
+      "title": "How CO kills: hemoglobin binding",
+      "summary": "CO binds hemoglobin about 210 times more readily than oxygen, displacing oxygen, causing hypoxia. Exposure levels and equilibrium percentages are discussed.",
+      "topics": [
+        "hemoglobin",
+        "oxygen deprivation",
+        "hypoxia",
+        "CO toxicity",
+        "CO binding affinity"
+      ]
+    },
+    {
+      "start": "00:13:24",
+      "end": "00:15:48",
+      "kind": "content",
+      "title": "Symptoms, acute and chronic poisoning",
+      "summary": "Discussion of ppm levels, symptoms like headache, nausea, dizziness, carboxyhemoglobin persisting around four hours, relapse risk, and chronic poisoning at low levels over time.",
+      "topics": [
+        "CO poisoning symptoms",
+        "acute vs chronic carbon monoxide poisoning",
+        "carboxyhemoglobin",
+        "hyperbaric oxygen",
+        "parts per million"
+      ]
+    },
+    {
+      "start": "00:15:48",
+      "end": "00:18:05",
+      "kind": "content",
+      "title": "Banter on prank calls and the Jerky Boys",
+      "summary": "Hosts joke about prank calls and the Jerky Boys cassette and possible future episodes.",
+      "topics": [
+        "prank calling",
+        "The Jerky Boys"
+      ]
+    },
+    {
+      "start": "00:18:05",
+      "end": "00:18:36",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:18:36",
+      "end": "00:21:54",
+      "kind": "content",
+      "title": "Smoking, hookahs, incense and fire deaths",
+      "summary": "Smoke inhalation in fires and CO's role; cigarette smokers' carboxyhemoglobin levels; hookah and incense exposure; hosts share personal incense experiences.",
+      "topics": [
+        "smoking and carbon monoxide",
+        "hookah",
+        "incense",
+        "fire deaths",
+        "Beverly Hills Supper Club fire"
+      ]
+    },
+    {
+      "start": "00:21:54",
+      "end": "00:23:10",
+      "kind": "content",
+      "title": "CO death and injury statistics",
+      "summary": "Around 400 Americans die yearly from accidental CO poisoning, about 100,000 go to the ER and 14,000 are hospitalized overnight; vulnerable groups are more at risk.",
+      "topics": [
+        "CO death statistics",
+        "vulnerable populations",
+        "CO emergency room visits"
+      ]
+    },
+    {
+      "start": "00:23:10",
+      "end": "00:25:44",
+      "kind": "content",
+      "title": "Unvented space heaters and home sources",
+      "summary": "Unvented kerosene and natural gas space heaters are a major hazard; CPSC lists them among dangerous household products. Hosts recall wall-recessed heaters called chill chasers.",
+      "topics": [
+        "unvented space heaters",
+        "kerosene heaters",
+        "Consumer Product Safety Commission",
+        "chill chasers"
+      ]
+    },
+    {
+      "start": "00:25:44",
+      "end": "00:28:43",
+      "kind": "content",
+      "title": "Oxygen sensors on heaters and car left running in garage",
+      "summary": "Newer heaters have oxygen sensors that shut them off. Josh describes accidentally leaving a hybrid running in an attached garage. Banter about hybrid car-on/car-off voice prompts.",
+      "topics": [
+        "oxygen sensor heaters",
+        "car running in garage",
+        "hybrid car carbon monoxide",
+        "attached garage"
+      ]
+    },
+    {
+      "start": "00:28:43",
+      "end": "00:30:39",
+      "kind": "content",
+      "title": "Texas 2021 winter storm and global household air pollution",
+      "summary": "Grills and charcoal used indoors during the 2021 Texas freeze killed eleven people and sent about 1,400 to the ER; Texas rejected requiring detectors. Open fires worldwide and WHO estimate of household air pollution deaths in 2020 are discussed.",
+      "topics": [
+        "Texas winter storm 2021",
+        "grill indoors carbon monoxide",
+        "household air pollution",
+        "World Health Organization",
+        "open fires"
+      ]
+    },
+    {
+      "start": "00:30:39",
+      "end": "00:31:47",
+      "kind": "content",
+      "title": "Portable indoor ventilation hood invention",
+      "summary": "Hosts recall a Carnegie Mellon student invention of a cheap portable ventilation hood for indoor cooking from about 2008.",
+      "topics": [
+        "cookstove ventilation",
+        "Carnegie Mellon invention"
+      ]
+    },
+    {
+      "start": "00:31:47",
+      "end": "00:32:12",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:32:12",
+      "end": "00:34:34",
+      "kind": "content",
+      "title": "Generators and Fairbanks inversion",
+      "summary": "Portable generators placed near homes after disasters can kill; keep at least twenty feet away. Fairbanks, Alaska's temperature inversion traps pollution and CO.",
+      "topics": [
+        "portable generator safety",
+        "Fairbanks inversion",
+        "temperature inversion pollution"
+      ]
+    },
+    {
+      "start": "00:34:34",
+      "end": "00:36:02",
+      "kind": "content",
+      "title": "NASA MOPITT satellite and CO trends",
+      "summary": "NASA's Terra satellite with MOPITT sensor measures CO from high altitude; CO concentrations declined since 2000. Satellites also help check national emissions claims.",
+      "topics": [
+        "NASA",
+        "Terra satellite",
+        "MOPITT",
+        "satellite pollution monitoring",
+        "emissions reporting"
+      ]
+    },
+    {
+      "start": "00:36:02",
+      "end": "00:37:57",
+      "kind": "content",
+      "title": "Clean Air Act and CO's effect on methane and climate",
+      "summary": "The 1970 Clean Air Act helped reduce pollution. CO reacts with hydroxyl radicals, leaving methane to accumulate and indirectly affecting climate change.",
+      "topics": [
+        "Clean Air Act",
+        "methane",
+        "climate change",
+        "hydroxyl radicals"
+      ]
+    },
+    {
+      "start": "00:37:57",
+      "end": "00:40:38",
+      "kind": "content",
+      "title": "Catalytic converters",
+      "summary": "Eugene Houdry's catalytic converter, combined with removal of leaded gas in the mid-1970s, reduced CO. Converters use platinum, palladium, and rhodium to convert CO to CO2. Thefts of converters are mentioned.",
+      "topics": [
+        "catalytic converter",
+        "Eugene Houdry",
+        "leaded gas",
+        "catalytic converter theft",
+        "platinum palladium rhodium"
+      ]
+    },
+    {
+      "start": "00:40:38",
+      "end": "00:42:18",
+      "kind": "content",
+      "title": "Home prevention: furnaces, appliances, tune-ups",
+      "summary": "Keep furnace filters clean, keep exhaust fans working, consider induction cooktops, have gas cooktops tuned up with combustion testing, and clean burner parts.",
+      "topics": [
+        "home CO prevention",
+        "furnace maintenance",
+        "gas stove tune-up",
+        "induction cooktop"
+      ]
+    },
+    {
+      "start": "00:42:18",
+      "end": "00:43:33",
+      "kind": "content",
+      "title": "Carbon monoxide detectors",
+      "summary": "Use CO detectors; newer smoke detectors may combine functions. Plug-in detectors with battery backup are inexpensive. CO mixes with air evenly, so placement high or low does not matter much.",
+      "topics": [
+        "carbon monoxide detectors",
+        "detector placement",
+        "Nighthawk detector"
+      ]
+    },
+    {
+      "start": "00:43:33",
+      "end": "00:45:03",
+      "kind": "content",
+      "title": "Beneficial and medical uses of CO",
+      "summary": "Mention of CO used to keep meat red (deferred as a possible future short stuff) and its medical use at higher concentrations to treat acute respiratory distress syndrome.",
+      "topics": [
+        "medical uses of carbon monoxide",
+        "acute respiratory distress syndrome",
+        "meat color carbon monoxide"
+      ]
+    },
+    {
+      "start": "00:45:03",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Show wrap-up and product mention",
+      "summary": "Hosts wrap the content and mention the Nighthawk detector and its availability.",
+      "topics": [
+        "Nighthawk detector"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:12",
+      "kind": "listener_mail",
+      "title": "Listener mail: Hannah and Amber",
+      "summary": "A listener in Germany and her mother share the podcast on phone calls; they adopted Josh's listener mail catchphrase. Josh invites listener mail.",
+      "topics": [
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:47:12",
+      "end": "00:47:37",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits for Stuff You Should Know, a production of iHeartRadio.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19591,
+    "output_tokens": 4845
+  }
+}

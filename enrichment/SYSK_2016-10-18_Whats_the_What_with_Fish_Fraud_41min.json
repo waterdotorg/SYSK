@@ -1,0 +1,239 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-10-18_Whats_the_What_with_Fish_Fraud_41min.txt",
+  "title": "What's the What with Fish Fraud?",
+  "date": "2016-10-18",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-what-with-fish-fraud",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5c8e13cb-9322-44f2-b016-ae28007f492a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5c8e13cb-9322-44f2-b016-ae28007f492a/transcript?format=TextWithTimestamps&t=1700543824",
+  "summary": "Josh and Chuck discuss seafood fraud (fish fraud), where fish are mislabeled and substituted for more expensive species. They cover Oceana's 2012 study led by Kimberly Warner, which found about a third of tested fish mislabeled, with sushi restaurants worst; the processing of fish at sea and how fraud enters the supply chain; common substitutions such as Patagonian toothfish sold as Chilean sea bass, grouper, red snapper, tilapia, salmon, and white tuna being escolar (butterfish), including escolar's purgative wax esters; health risks and allergies; endangered species and fishery management problems; the limited FDA/NOAA inspection capacity; and tools like the University of South Florida Grouplike DNA test module \"GroupRCheck\". Ends with listener mail from Jason in Montana about hunting for meat.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "fish fraud",
+    "seafood fraud",
+    "mislabeled fish",
+    "Oceana study",
+    "Kimberly Warner",
+    "Patagonian toothfish",
+    "Chilean sea bass",
+    "escolar",
+    "butterfish",
+    "white tuna",
+    "grouper",
+    "grouper check",
+    "sushi mislabeling",
+    "fish processing at sea",
+    "FDA seafood inspection",
+    "NOAA fish imports",
+    "salmon substitution",
+    "tilapia",
+    "bycatch",
+    "purgative effect escolar",
+    "DNA fish testing",
+    "endangered fish species",
+    "listener mail hunting"
+  ],
+  "entities": [
+    {
+      "name": "Oceana",
+      "type": "organization"
+    },
+    {
+      "name": "Kimberly Warner",
+      "type": "person"
+    },
+    {
+      "name": "Patagonian toothfish",
+      "type": "other"
+    },
+    {
+      "name": "Chilean sea bass",
+      "type": "other"
+    },
+    {
+      "name": "escolar",
+      "type": "other"
+    },
+    {
+      "name": "grouper",
+      "type": "other"
+    },
+    {
+      "name": "white tuna",
+      "type": "other"
+    },
+    {
+      "name": "University of South Florida",
+      "type": "organization"
+    },
+    {
+      "name": "FDA",
+      "type": "organization"
+    },
+    {
+      "name": "NOAA",
+      "type": "organization"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Mother Jones",
+      "type": "work"
+    },
+    {
+      "name": "The Atlantic",
+      "type": "work"
+    },
+    {
+      "name": "Chips",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and toothfish",
+      "summary": "Hosts open with banter about Jerry and the Patagonian toothfish fact, then introduce fish fraud and the Oceana organization.",
+      "topics": [
+        "Patagonian toothfish",
+        "fish fraud"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Oceana study findings",
+      "summary": "Oceana's 2012 study led by Kimberly Warner found about a third of tested fish were mislabeled, with sushi restaurants worst, including all tested hamachi (yellowtail) being something else. Fraud occurs at many points in the supply chain, and the hosts discuss a Atlanta sushi restaurant anecdote.",
+      "topics": [
+        "Oceana study",
+        "Kimberly Warner",
+        "sushi mislabeling",
+        "mislabeled fish",
+        "hamachi"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Fish processed at sea and supply chain",
+      "summary": "Most seafood imported to the US is processed at sea into frozen blocks, making verification difficult; Oceana's online map lets users check local studies, including a local newspaper expose on Atlanta restaurants.",
+      "topics": [
+        "fish processing at sea",
+        "supply chain fraud",
+        "Oceana map"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Scale of fraud and inspection limits",
+      "summary": "Seafood fraud is estimated at about a billion dollars annually in the US. The most common fraud is substituting expensive fish with cheaper ones. FDA laws exist, but less than one percent of seafood is inspected, and about ninety NOAA agents inspect imports. Vietnam and Thailand are named as worst offenders, with Canada also mentioned.",
+      "topics": [
+        "seafood fraud cost",
+        "FDA seafood inspection",
+        "NOAA import inspection",
+        "aquaculture laws"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "How fillets are mislabeled and bycatch",
+      "summary": "Fish arrive as fillets with heads and skin removed, which makes identification hard. Processing on conveyor belts is described. Bycatch from longer lines led to renaming Patagonian toothfish as Chilean sea bass, which is now overfished.",
+      "topics": [
+        "bycatch",
+        "Patagonian toothfish",
+        "Chilean sea bass",
+        "fillet identification"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Common substitutions and farmed versus wild fish",
+      "summary": "Lists commonly substituted fish including grouper (many species sold under one name), red snapper, tilapia, Pacific cod, and salmon, with farmed Atlantic salmon often substituted for wild Alaskan or Copper River salmon. Discussion of farmed versus wild fish trade-offs.",
+      "topics": [
+        "grouper",
+        "red snapper",
+        "tilapia",
+        "salmon substitution",
+        "farmed vs wild fish"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Escolar and its purgative effects",
+      "summary": "Escolar, sold as white tuna or butterfish, contains indigestible wax esters causing purgative effects; the Washington state bulletin and Japan and Italy restrictions are mentioned. Snake mackerel is noted as an alternate name.",
+      "topics": [
+        "escolar",
+        "butterfish",
+        "white tuna",
+        "purgative effect",
+        "wax esters"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Health risks, endangered species, and fraud detection tools",
+      "summary": "Health risks from allergies, endangered species being eaten unknowingly, and fishery management are discussed. Tips include buying whole fish and asking restaurants where fish came from. The University of South Florida's grouper check DNA module, which tests in forty five minutes, is described, along with its limitations.",
+      "topics": [
+        "fish allergies",
+        "endangered fish",
+        "buying whole fish",
+        "grouper check",
+        "DNA fish testing"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:41:30",
+      "kind": "listener_mail",
+      "title": "Listener mail on hunting",
+      "summary": "Listener Jason from Montana writes about hunting deer and elk for meat. The hosts respond briefly.",
+      "topics": [
+        "hunting",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:41:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and contact information and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13332,
+    "output_tokens": 2565
+  }
+}

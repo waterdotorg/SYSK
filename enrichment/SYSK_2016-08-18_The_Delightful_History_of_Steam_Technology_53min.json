@@ -1,0 +1,315 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-08-18_The_Delightful_History_of_Steam_Technology_53min.txt",
+  "title": "The Delightful History of Steam Technology",
+  "date": "2016-08-18",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-delightful-history-of-steam-technology",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/cefdaab4-452b-443d-a000-ae2800811714/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cefdaab4-452b-443d-a000-ae2800811714/transcript?format=TextWithTimestamps&t=1700543830",
+  "summary": "Josh and Chuck explain the history of steam technology, from Hero of Alexandria's steam aeolipile through Giovanni Battista della Porta's vacuum idea, Denis Papin's pressure cooker and piston, Thomas Savery's miner's friend, Thomas Newcomen's engine, James Watt's separate condenser, Boulton's partnership, Richard Trevithick's Cornish engine and Puffing Devil, George Stephenson's locomotives, Robert Fulton and steamboats, Charles Parsons's steam turbine, and modern supercritical steam. They also cover boiler explosion dangers, the Industrial Revolution's roots, and a listener mail segment from jingle writer Elaine Osborne. Early in the episode there is off-topic banter about the hosts' tour, Facebook pages, and a horse.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "steam power",
+    "steam technology history",
+    "steam engine",
+    "Hero of Alexandria",
+    "aeolipile",
+    "Denis Papin",
+    "pressure cooker history",
+    "Thomas Savery",
+    "miner's friend",
+    "Thomas Newcomen",
+    "Newcomen engine",
+    "James Watt",
+    "separate condenser",
+    "Matthew Boulton",
+    "flyball governor",
+    "double acting engine",
+    "Richard Trevithick",
+    "Cornish engine",
+    "Puffing Devil",
+    "George Stephenson",
+    "steam locomotive",
+    "Robert Fulton",
+    "steamboat",
+    "Charles Parsons",
+    "steam turbine",
+    "supercritical fluid",
+    "supercritical CO2",
+    "boiler explosions",
+    "Industrial Revolution",
+    "Savannah steamship",
+    "Michael Faraday dynamo",
+    "steam car",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Hero of Alexandria",
+      "type": "person"
+    },
+    {
+      "name": "Giovanni Battista della Porta",
+      "type": "person"
+    },
+    {
+      "name": "Denis Papin",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Savery",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Newcomen",
+      "type": "person"
+    },
+    {
+      "name": "John Calley",
+      "type": "person"
+    },
+    {
+      "name": "James Watt",
+      "type": "person"
+    },
+    {
+      "name": "Matthew Boulton",
+      "type": "person"
+    },
+    {
+      "name": "Richard Trevithick",
+      "type": "person"
+    },
+    {
+      "name": "George Stephenson",
+      "type": "person"
+    },
+    {
+      "name": "Robert Fulton",
+      "type": "person"
+    },
+    {
+      "name": "William Symington",
+      "type": "person"
+    },
+    {
+      "name": "Charles Algernon Parsons",
+      "type": "person"
+    },
+    {
+      "name": "Michael Faraday",
+      "type": "person"
+    },
+    {
+      "name": "Arthur Woolf",
+      "type": "person"
+    },
+    {
+      "name": "Oliver Evans",
+      "type": "person"
+    },
+    {
+      "name": "Nicolas-Joseph Cugnot",
+      "type": "person"
+    },
+    {
+      "name": "Ferdinand Verbiest",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Hulls",
+      "type": "person"
+    },
+    {
+      "name": "Savannah",
+      "type": "work"
+    },
+    {
+      "name": "Charlotte Dundas",
+      "type": "work"
+    },
+    {
+      "name": "Clermont",
+      "type": "work"
+    },
+    {
+      "name": "Puffing Devil",
+      "type": "work"
+    },
+    {
+      "name": "Locomotion No. 1",
+      "type": "work"
+    },
+    {
+      "name": "Cornwall",
+      "type": "place"
+    },
+    {
+      "name": "Industrial Revolution",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and steam basics",
+      "summary": "The hosts open with banter about their UK and Ireland tour and their personal Facebook pages, then introduce water's three states of matter and how steam expands and gains pressure.",
+      "topics": [
+        "UK tour",
+        "states of matter",
+        "water density",
+        "steam pressure"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Hero of Alexandria's steam engine",
+      "summary": "Hero, a Greek mathematician, conceived of a steam-powered spinning sphere called the aeolipile, which he could not build with the technology of his time.",
+      "topics": [
+        "Hero of Alexandria",
+        "aeolipile",
+        "ancient steam engine"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Della Porta's vacuum and Papin's pressure cooker",
+      "summary": "Giovanni Battista della Porta proposed creating a vacuum by condensing steam in a closed chamber. About seventy years later Denis Papin built a digester, an early pressure cooker, and added a piston and pressure release valve, laying groundwork for the steam engine.",
+      "topics": [
+        "della Porta",
+        "vacuum from steam",
+        "Denis Papin",
+        "pressure cooker history",
+        "digester"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Women in history and necessity as invention",
+      "summary": "The hosts discuss how women were limited historically, and how necessity and the availability of better materials drove steam advances.",
+      "topics": [
+        "women in science history",
+        "necessity is the mother of invention",
+        "material science"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Thomas Savery's miner's friend",
+      "summary": "Coal mining deepened into water-filled mines, prompting Thomas Savery's miner's friend, a steam-and-vacuum pump that could lift water but was limited in depth, labor-intensive, and prone to explosions.",
+      "topics": [
+        "Thomas Savery",
+        "miner's friend",
+        "mine drainage",
+        "English coal mining",
+        "timber crisis"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Newcomen engine and James Watt's separate condenser",
+      "summary": "Thomas Newcomen and assistant John Calley built an atmospheric engine that combined a boiler and piston. James Watt later separated the condenser, improving efficiency.",
+      "topics": [
+        "Newcomen engine",
+        "Thomas Newcomen",
+        "James Watt",
+        "separate condenser",
+        "atmospheric engine"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Boulton and Watt's inventions",
+      "summary": "Watt partnered with Matthew Boulton, developing the flyball governor, which used waste steam to automate valves, and the double-acting engine that used steam on both strokes.",
+      "topics": [
+        "Matthew Boulton",
+        "flyball governor",
+        "double acting engine",
+        "Boulton and Watt"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Trevithick's high-pressure Cornish engine and the Industrial Revolution",
+      "summary": "Richard Trevithick of Cornwall avoided patent royalties by developing a high-pressure, compound Cornish engine. Steam powered mills and set up the Industrial Revolution, which began in textiles. Arthur Woolf and Oliver Evans also contributed.",
+      "topics": [
+        "Richard Trevithick",
+        "Cornish engine",
+        "compound engine",
+        "patent royalties",
+        "Industrial Revolution",
+        "Arthur Woolf",
+        "Oliver Evans"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Steam cars, rail, and the locomotive",
+      "summary": "Early steam cars such as Cugnot's 1769 vehicle went nowhere. Trevithick's Puffing Devil hauled ten tons for ten miles on rails, and George Stephenson's Locomotion No. 1 opened a town-to-town line carrying passengers.",
+      "topics": [
+        "steam car",
+        "Cugnot",
+        "Trevithick Puffing Devil",
+        "George Stephenson",
+        "Locomotion No. 1",
+        "steam locomotive",
+        "railways"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Steamboats and the Savannah",
+      "summary": "Early steamboats by Jonathan Hulls, Robert Fulton's Clermont, and William Symington's Charlotte Dundas were followed by the Savannah, the first steam-powered ship to cross the Atlantic, in 1819. Sailmakers lobbied against steam.",
+      "topics": [
+        "steamboat",
+        "Robert Fulton",
+        "Clermont",
+        "Charlotte Dundas",
+        "Savannah",
+        "transatlantic steamship"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Steam turbines, boiler explosions, and supercritical steam",
+      "summary": "Charles Parsons built a steam turbine that drove a dynamo, which generated electricity, building on Faraday's dynamo. The hosts discuss boiler explosion risks and supercritical fluid, including supercritical CO2 for power generation.",
+      "topics": [
+        "steam turbine",
+        "Charles Parsons",
+        "dynamo",
+        "boiler explosions",
+        "supercritical fluid",
+        "supercritical CO2"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16610,
+    "output_tokens": 3150
+  }
+}

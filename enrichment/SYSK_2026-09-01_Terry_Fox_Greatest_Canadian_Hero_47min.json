@@ -1,0 +1,383 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-09-01_Terry_Fox_Greatest_Canadian_Hero_47min.txt",
+  "title": "Terry Fox: Greatest Canadian Hero",
+  "date": "2026-09-01",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/terry-fox-greatest-canadian-hero",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/efc3265a-03c9-43b2-8680-b4b00151f504/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/efc3265a-03c9-43b2-8680-b4b00151f504/transcript?format=TextWithTimestamps&t=1787603662",
+  "summary": "Hosts Josh and Chuck profile Terry Fox, the Canadian athlete who lost his right leg to osteogenic sarcoma at 18, then ran his Marathon of Hope across Canada in 1980 on a prosthetic leg to raise money for cancer research. The episode covers his childhood and athletics, his diagnosis and amputation, his prosthetic leg and running style, the start of the run from Newfoundland, media and sponsor support (including the Toronto Star and Leslie Scribner), his cancer returning in his lungs in Thunder Bay which ended the run after 143 days, the 1980 telethon, his death in 1981, his honors, and the annual Terry Fox Run. Also includes a brief preview of an October cruise, a listener email about words that sound like other words in different accents, and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Terry Fox",
+    "Marathon of Hope",
+    "Terry Fox Run",
+    "osteogenic sarcoma",
+    "bone cancer",
+    "amputation",
+    "prosthetic leg",
+    "cancer research fundraising",
+    "Canadian Cancer Society",
+    "wheelchair basketball",
+    "Canadian history",
+    "Thunder Bay",
+    "1980 telethon",
+    "Toronto Star",
+    "Leslie Scribner",
+    "Dick Traum",
+    "Terry Fox Foundation",
+    "Canadian heroes",
+    "running across Canada",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Terry Fox",
+      "type": "person"
+    },
+    {
+      "name": "Marathon of Hope",
+      "type": "event"
+    },
+    {
+      "name": "Terry Fox Run",
+      "type": "event"
+    },
+    {
+      "name": "Terry Fox Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Canadian Cancer Society",
+      "type": "organization"
+    },
+    {
+      "name": "Toronto Star",
+      "type": "organization"
+    },
+    {
+      "name": "Leslie Scribner",
+      "type": "person"
+    },
+    {
+      "name": "Dick Traum",
+      "type": "person"
+    },
+    {
+      "name": "Ben Spiker",
+      "type": "person"
+    },
+    {
+      "name": "Rika Noda",
+      "type": "person"
+    },
+    {
+      "name": "Doug Alward",
+      "type": "person"
+    },
+    {
+      "name": "Greg Scott",
+      "type": "person"
+    },
+    {
+      "name": "Robert Duvall",
+      "type": "person"
+    },
+    {
+      "name": "Simon Fraser University",
+      "type": "organization"
+    },
+    {
+      "name": "Thunder Bay",
+      "type": "place"
+    },
+    {
+      "name": "Newfoundland",
+      "type": "place"
+    },
+    {
+      "name": "Vancouver",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:27",
+      "kind": "intro",
+      "title": "Canada tour and fan request",
+      "summary": "Hosts recall their Canadian tour and say listeners asked them to cover Terry Fox; two fans, William the First and Chris, are credited with the suggestion.",
+      "topics": [
+        "Canada tour",
+        "Terry Fox episode request"
+      ]
+    },
+    {
+      "lean": false,
+      "start": "00:01:27",
+      "end": "00:02:50",
+      "kind": "ad",
+      "title": "Stuff at Sea cruise promo",
+      "summary": "Hosts promote a live show on an October cruise from Brooklyn to Bermuda, booked through Virgin Voyages.",
+      "topics": [
+        "stuff at sea cruise",
+        "live show"
+      ]
+    },
+    {
+      "start": "00:02:50",
+      "end": "00:04:31",
+      "kind": "intro",
+      "title": "Opening banter on Terry Fox",
+      "summary": "Hosts note Terry Fox's worldwide fame and that he is known for a run across Canada; Josh says he learned of Fox from a 1983 Robert Duvall movie seen on HBO.",
+      "topics": [
+        "Terry Fox fame",
+        "1983 Terry Fox movie",
+        "HBO"
+      ]
+    },
+    {
+      "start": "00:04:31",
+      "end": "00:06:25",
+      "kind": "content",
+      "title": "Early life in Winnipeg and Port Coquitlam",
+      "summary": "Terry Fox is born in Winnipeg on July 20, 1958, and the family moves to Port Coquitlam near Vancouver.",
+      "topics": [
+        "Terry Fox childhood",
+        "Winnipeg",
+        "Port Coquitlam"
+      ]
+    },
+    {
+      "start": "00:06:25",
+      "end": "00:08:20",
+      "kind": "content",
+      "title": "Youth sports and Simon Fraser University",
+      "summary": "Fox is small but determined in sports, improving from eighth grade to co-athlete of the year, and runs cross country. He attends Simon Fraser University and plays JV basketball; after a car accident and months of knee pain he is diagnosed with cancer in March 1977.",
+      "topics": [
+        "youth athletics",
+        "high school basketball",
+        "Simon Fraser University",
+        "cancer diagnosis"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:09:45",
+      "kind": "content",
+      "title": "Bone cancer and amputation",
+      "summary": "Fox has osteogenic sarcoma in his knee and his right leg is amputated about six inches above the knee. Hosts discuss the film's handling of this and a Helen Hunt after-school special aside.",
+      "topics": [
+        "osteogenic sarcoma",
+        "amputation",
+        "bone cancer"
+      ]
+    },
+    {
+      "start": "00:09:45",
+      "end": "00:13:09",
+      "kind": "content",
+      "title": "Wheelchair basketball and training",
+      "summary": "After chemotherapy, Fox joins the Vancouver Cable Cars wheelchair basketball team, leading it to national tournaments in 1978 and 1979. He meets Rika Noda and trains in his wheelchair on mountain passes.",
+      "topics": [
+        "wheelchair basketball",
+        "Vancouver Cable Cars",
+        "Rika Noda",
+        "training"
+      ]
+    },
+    {
+      "start": "00:13:09",
+      "end": "00:15:16",
+      "kind": "content",
+      "title": "Dick Traum article and motivation",
+      "summary": "Fox's high school coach gives him an article about Dick Traum, the first amputee to run the New York City Marathon, and Fox decides to run across Canada for cancer research after a doctor says he would have had worse treatment a few years earlier.",
+      "topics": [
+        "Dick Traum",
+        "inspiration",
+        "cancer research motivation"
+      ]
+    },
+    {
+      "start": "00:15:16",
+      "end": "00:18:45",
+      "kind": "content",
+      "title": "Prosthetic leg design",
+      "summary": "Ben Spiker designs a simple nine-pound prosthetic with no shock absorption; Fox runs with a hop-and-skip style. The leg was repaired along the way and three versions are displayed at the Royal British Columbia Museum.",
+      "topics": [
+        "prosthetic leg",
+        "Ben Spiker",
+        "running prosthetics",
+        "Royal British Columbia Museum"
+      ]
+    },
+    {
+      "start": "00:18:45",
+      "end": "00:21:18",
+      "kind": "content",
+      "title": "First race and early fundraising",
+      "summary": "Fox enters his first race in August 1979, a 17-mile run, finishing last. He approaches the Canadian Cancer Society, which asks him to first secure corporate sponsors.",
+      "topics": [
+        "first race",
+        "Canadian Cancer Society",
+        "sponsorship"
+      ]
+    },
+    {
+      "start": "00:21:18",
+      "end": "00:24:07",
+      "kind": "content",
+      "title": "Corporate sponsors and planning the run",
+      "summary": "Ford donates a camper van, Adidas donates shoes, and Imperial Oil, Safeway and Pacific Western Airlines help; the run goal is about 7,400 km from St. John's, Newfoundland, to Vancouver. Fox breaks the run into single miles and counts telephone poles.",
+      "topics": [
+        "corporate sponsorship",
+        "Ford camper van",
+        "mental strategy",
+        "route planning"
+      ]
+    },
+    {
+      "start": "00:24:07",
+      "end": "00:26:22",
+      "kind": "content",
+      "title": "Health concerns and running with mental distraction",
+      "summary": "Fox gets a certificate of health despite an enlarged heart and dizzy spells; he hides symptoms. Hosts discuss mental endurance in long-distance running.",
+      "topics": [
+        "enlarged heart",
+        "endurance",
+        "mental distraction"
+      ]
+    },
+    {
+      "start": "00:26:44",
+      "end": "00:29:34",
+      "kind": "content",
+      "title": "Start of the Marathon of Hope",
+      "summary": "The run begins April 12, 1980, in Newfoundland with small crowds. The first month raises only about $25,000, and tension grows in the van with Doug Alward.",
+      "topics": [
+        "Marathon of Hope start",
+        "Newfoundland",
+        "fundraising shortfall",
+        "Doug Alward"
+      ]
+    },
+    {
+      "start": "00:29:34",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Tensions, brother Darryl, and reception in Quebec",
+      "summary": "Brother Darryl joins in New Brunswick. Fox gets little publicity or money in Quebec and faces hostile drivers and police removing him from a highway.",
+      "topics": [
+        "Darryl Fox",
+        "Quebec",
+        "New Brunswick"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:45",
+      "kind": "content",
+      "title": "Toronto Star coverage and national fame",
+      "summary": "Toronto Star reporter Leslie Scribner writes the column Running with Terry. By Toronto Fox is a national hero, meets Pierre Trudeau, Bobby Orr and Darryl Sittler, and is asked to kick off a football game.",
+      "topics": [
+        "Toronto Star",
+        "Leslie Scribner",
+        "Pierre Trudeau",
+        "Bobby Orr",
+        "Darryl Sittler"
+      ]
+    },
+    {
+      "start": "00:34:45",
+      "end": "00:37:09",
+      "kind": "content",
+      "title": "Physical toll, press criticism, and Greg Scott",
+      "summary": "Fox has tendonitis and a dry cough and is overwhelmed by interviews and fundraising demands. Some press criticism follows, including a cheating accusation he got retracted. Ten-year-old amputee Greg Scott wants to ride alongside him.",
+      "topics": [
+        "press criticism",
+        "Greg Scott",
+        "fatigue"
+      ]
+    },
+    {
+      "start": "00:37:09",
+      "end": "00:39:55",
+      "kind": "content",
+      "title": "Cancer spreads and run ends in Thunder Bay",
+      "summary": "After about 3,300 miles Fox feels worse and is hospitalized in Thunder Bay, where the cancer is found in both lungs. He ends the run after 143 days, having averaged 23.3 miles a day and raised about $2 million.",
+      "topics": [
+        "Thunder Bay",
+        "cancer metastasis",
+        "end of the run",
+        "fundraising total"
+      ]
+    },
+    {
+      "start": "00:39:55",
+      "end": "00:41:40",
+      "kind": "content",
+      "title": "1980 telethon and later fundraising",
+      "summary": "A September 1980 telethon with Elton John, John Denver, Gordon Lightfoot, Anne Murray and Glen Campbell raises about $10 million more. A later goal of a dollar per Canadian raises about $24.17 million.",
+      "topics": [
+        "1980 telethon",
+        "Canadian fundraising",
+        "Gordon Lightfoot",
+        "Anne Murray"
+      ]
+    },
+    {
+      "start": "00:41:40",
+      "end": "00:43:10",
+      "kind": "content",
+      "title": "Death, honors and legacy",
+      "summary": "Fox dies June 28, 1981, at 22, after pneumonia and a coma. He receives the Companion of the Order of Canada and the Order of the Dogwood, is on postage stamps, and his mother Betty carries the Olympic flag in 2010.",
+      "topics": [
+        "death",
+        "Order of Canada",
+        "legacy",
+        "postage stamps",
+        "Olympic flag"
+      ]
+    },
+    {
+      "start": "00:43:10",
+      "end": "00:44:38",
+      "kind": "content",
+      "title": "Terry Fox Run today",
+      "summary": "The annual Terry Fox Run takes place on the second Sunday after Labor Day, and the Terry Fox Foundation has reached one billion dollars raised for cancer research.",
+      "topics": [
+        "Terry Fox Run",
+        "Terry Fox Foundation",
+        "one billion dollars"
+      ]
+    },
+    {
+      "start": "00:44:38",
+      "end": "00:46:31",
+      "kind": "listener_mail",
+      "title": "Listener mail on accent wordplay",
+      "summary": "A listener named Adam shares examples of words that sound like other words in different accents, such as beer can and bacon, and rise up lights and razor blades.",
+      "topics": [
+        "listener mail",
+        "accent wordplay"
+      ]
+    },
+    {
+      "start": "00:46:31",
+      "end": "00:46:36",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener email and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17732,
+    "output_tokens": 4304
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-05-13_How_the_Human_Microbiome_Project_Works_30min.txt",
+  "title": "How the Human Microbiome Project Works",
+  "date": "2014-05-13",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-human-microbiome-project-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78776272-cbde-4879-9aeb-ae28009818e5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/78776272-cbde-4879-9aeb-ae28009818e5/transcript?format=TextWithTimestamps&t=1700543882",
+  "summary": "Josh and Chuck explore the Human Microbiome Project, launched by the National Institutes of Health in 2007 to map the microbes living in and on the human body. They cover how microbes outnumber human cells, the roles of gut bacteria in digestion, mood (serotonin), vitamin synthesis, immunity, allergies, obesity and possibly cancer, and how metagenomics made the study possible. They note that no single baseline healthy microbiome exists, that everyone's microbiome is individual, and that probiotics and antibiotics raise open questions. The episode includes a sponsor read for NatureBox, and closes with a listener email from a creationist biologist named Eric from South Bend, Indiana, about the overlap between creationism and evolution.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Human Microbiome Project",
+    "microbiome",
+    "gut bacteria",
+    "metagenomics",
+    "microbes",
+    "archaea",
+    "virome",
+    "probiotics",
+    "antibiotics",
+    "Clostridium difficile",
+    "fecal transplant",
+    "serotonin gut connection",
+    "obesity and gut bacteria",
+    "hygiene hypothesis",
+    "allergies and microbiome",
+    "immune system development",
+    "National Institutes of Health",
+    "gum disease bacteria",
+    "baseline healthy microbiome",
+    "personalized medicine",
+    "listener mail",
+    "NatureBox sponsor"
+  ],
+  "entities": [
+    {
+      "name": "Human Microbiome Project",
+      "type": "event"
+    },
+    {
+      "name": "National Institutes of Health",
+      "type": "organization"
+    },
+    {
+      "name": "Human Genome Project",
+      "type": "event"
+    },
+    {
+      "name": "Clostridium difficile",
+      "type": "other"
+    },
+    {
+      "name": "Streptococcus mutans",
+      "type": "other"
+    },
+    {
+      "name": "Escherichia coli",
+      "type": "other"
+    },
+    {
+      "name": "University of Michigan",
+      "type": "organization"
+    },
+    {
+      "name": "NatureBox",
+      "type": "organization"
+    },
+    {
+      "name": "hygiene hypothesis",
+      "type": "other"
+    },
+    {
+      "name": "Crohn's disease",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and gut-mood connection",
+      "summary": "Josh and Chuck open with small talk about an IKEA lamp commercial, then introduce the idea that gut health affects mood, since most serotonin is produced in the gut through the microbiome.",
+      "topics": [
+        "serotonin gut connection",
+        "microbiome",
+        "opening banter"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Microbes in the body and the tree of life",
+      "summary": "The hosts discuss how the three domains and kingdoms of life were classified, how archaea differ from bacteria, and the scale of microbes in the body, including that microbial genes outnumber human genes and microbes outweigh a few pounds of body mass.",
+      "topics": [
+        "archaea",
+        "three domains of life",
+        "microbial biomass",
+        "microbes in the body",
+        "virome"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Balance of microbes: viruses, lions and gazelles",
+      "summary": "The hosts explain that many microbes, including some considered harmful like E. coli, live in balance; viruses in the microbiome keep bacterial populations in check, and disease tends to occur when the microbiome gets out of balance. Chuck and Josh also note that about a third to half of stool is microbial biomass.",
+      "topics": [
+        "virome",
+        "gut bacteria balance",
+        "Clostridium difficile",
+        "E. coli",
+        "stool microbial biomass"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "ad",
+      "title": "NatureBox sponsor read",
+      "summary": "Sponsor read for NatureBox, a subscription snack service, with a discount offer for listeners.",
+      "topics": [
+        "NatureBox sponsor"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Human Microbiome Project origins and metagenomics",
+      "summary": "The NIH launched the Human Microbiome Project in 2007 to map the microbiome, aiming to establish a baseline healthy microbiome; a University of Michigan finding suggests no single baseline exists. The hosts explain metagenomics, which allows scientists to sample and study microbes directly rather than only culturing lab-friendly species.",
+      "topics": [
+        "Human Microbiome Project",
+        "National Institutes of Health",
+        "metagenomics",
+        "baseline healthy microbiome",
+        "culturing microbes"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Findings: gum disease, probiotics, obesity, infancy and immunity",
+      "summary": "The hosts discuss findings including bacteria linked to gum disease and cavities (Streptococcus mutans), uncertainty about probiotics, gut bacteria and obesity in mice, a bacterium that helps infants digest breast milk acquired during birth, and the microbiome's role in training the immune system. They tie this to the hygiene hypothesis and allergies.",
+      "topics": [
+        "gum disease bacteria",
+        "Streptococcus mutans",
+        "probiotics",
+        "obesity and gut bacteria",
+        "breast milk digestion in infants",
+        "immune system development",
+        "hygiene hypothesis",
+        "allergies and microbiome",
+        "Crohn's disease"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Personalized medicine and microbiome links to cancer",
+      "summary": "The hosts discuss that everyone's microbiome is different, pointing toward personalized medicine, and mention reported links between certain cancers and bacteria. They also suggest a future episode on the microbiome.",
+      "topics": [
+        "personalized medicine",
+        "cancer and bacteria",
+        "individual microbiome variation"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:30:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from a creationist biologist",
+      "summary": "Josh reads an email from Eric in South Bend, Indiana, a Christian biologist and creationist who says creationists accept microevolution and natural selection but differ on the age of Earth and the origin of species.",
+      "topics": [
+        "listener mail",
+        "creationism and evolution",
+        "natural selection"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:30:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and invite contact through social media, email, and the website.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10149,
+    "output_tokens": 2311
+  }
+}

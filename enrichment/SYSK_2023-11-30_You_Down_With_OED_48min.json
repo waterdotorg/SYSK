@@ -1,0 +1,281 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-11-30_You_Down_With_OED_48min.txt",
+  "title": "You Down With OED?",
+  "date": "2023-11-30",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/you-down-with-oed",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/767300c6-b8f7-4b0f-919f-b0c80188632f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/767300c6-b8f7-4b0f-919f-b0c80188632f/transcript?format=TextWithTimestamps&t=1713749105",
+  "summary": "Hosts Josh and Chuck welcome new writer Alison Miller with a historical piece on the Oxford English Dictionary (OED): how it differs from ordinary dictionaries, its scale and crowdsourced construction, and its origins in the Philological Society, the Grimm brothers' German dictionary, and early editors Herbert Coleridge and James Murray. The episode covers volunteer contributor William Chester Minor, a Civil War army surgeon institutionalized in Broadmoor, and the 2019-era film The Professor and the Madman. It closes with a listener mail segment on \"Baumol's cost disease\" as an explanation for rising restaurant, health care and childcare costs, and a tour announcement at the top.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Oxford English Dictionary",
+    "OED history",
+    "historical dictionary",
+    "crowdsourcing dictionary slips",
+    "James Murray",
+    "Herbert Coleridge",
+    "William Chester Minor",
+    "Philological Society",
+    "Grimm brothers German dictionary",
+    "Deutsches Woerterbuch",
+    "lexicography",
+    "English dictionary history",
+    "Scriptorium Oxford",
+    "The Professor and the Madman",
+    "Baumol's cost disease",
+    "Alison Miller",
+    "OED supplements",
+    "porch pirate",
+    "dictionary of unregistered words",
+    "Robert Cawdrey Table Alphabetical"
+  ],
+  "entities": [
+    {
+      "name": "Oxford English Dictionary",
+      "type": "work"
+    },
+    {
+      "name": "James Murray",
+      "type": "person"
+    },
+    {
+      "name": "Herbert Coleridge",
+      "type": "person"
+    },
+    {
+      "name": "William Chester Minor",
+      "type": "person"
+    },
+    {
+      "name": "Philological Society",
+      "type": "organization"
+    },
+    {
+      "name": "Jacob and Wilhelm Grimm",
+      "type": "person"
+    },
+    {
+      "name": "Deutsches Woerterbuch",
+      "type": "work"
+    },
+    {
+      "name": "Robert Cawdrey",
+      "type": "person"
+    },
+    {
+      "name": "R. C. Trench",
+      "type": "person"
+    },
+    {
+      "name": "Broadmoor",
+      "type": "place"
+    },
+    {
+      "name": "The Dictionary People",
+      "type": "work"
+    },
+    {
+      "name": "Margaret Ascham Alaski",
+      "type": "person"
+    },
+    {
+      "name": "The Professor and the Madman",
+      "type": "work"
+    },
+    {
+      "name": "Baumol's cost disease",
+      "type": "other"
+    },
+    {
+      "name": "Scriptorium",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:52",
+      "kind": "ad",
+      "title": "Live tour announcement",
+      "summary": "Hosts announce January live shows in Seattle, Portland and SF Sketch Fest and direct listeners to the website for tickets.",
+      "topics": [
+        "live tour",
+        "Pacific Northwest tour",
+        "tickets"
+      ]
+    },
+    {
+      "start": "00:00:52",
+      "end": "00:01:04",
+      "kind": "intro",
+      "title": "Opening",
+      "summary": "Standard show opening and introduction.",
+      "topics": [
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:02:17",
+      "kind": "intro",
+      "title": "Welcoming Alison Miller",
+      "summary": "Hosts introduce new writer Alison Miller, recommended by Livia, and preview her OED episode.",
+      "topics": [
+        "Alison Miller",
+        "new writer"
+      ]
+    },
+    {
+      "start": "00:02:17",
+      "end": "00:08:45",
+      "kind": "content",
+      "title": "What the OED is and its scale",
+      "summary": "The OED is a historical dictionary giving definitions, etymology and dated quotations, with entries going back to 1150. Third edition has over 600,000 entries, 850,000 definitions and 3 million quotations. The first edition (finished 1928) was enormous and costly. Quarterly supplements add new words such as porch pirate.",
+      "topics": [
+        "Oxford English Dictionary",
+        "historical dictionary",
+        "dictionary size",
+        "OED supplements",
+        "porch pirate",
+        "first edition 1928"
+      ]
+    },
+    {
+      "start": "00:08:45",
+      "end": "00:12:29",
+      "kind": "content",
+      "title": "Crowdsourcing and later editions",
+      "summary": "From the beginning the OED relied on volunteers who read books and mailed in quotation slips. Supplements were eventually merged into the main edition in 1989, the work moved to CD-ROM and then online subscription, and a third edition is in progress.",
+      "topics": [
+        "crowdsourcing",
+        "quotation slips",
+        "OED online subscription",
+        "OED third edition"
+      ]
+    },
+    {
+      "start": "00:12:29",
+      "end": "00:15:50",
+      "kind": "content",
+      "title": "Predecessors: Cawdrey and the Brothers Grimm",
+      "summary": "Robert Cawdrey's 1604 Table Alphabetical is cited as the first English dictionary. The Grimm brothers' German dictionary, which traced the language's history, is presented as the OED's spiritual precursor, and the hosts link it to an earlier episode.",
+      "topics": [
+        "Robert Cawdrey",
+        "Grimm brothers",
+        "Deutsches Woerterbuch",
+        "first English dictionary"
+      ]
+    },
+    {
+      "start": "00:15:50",
+      "end": "00:19:36",
+      "kind": "content",
+      "title": "Founding the Philological Society project",
+      "summary": "The Philological Society in London in 1842 proposed an English dictionary; R. C. Trench argued for a new work covering the whole language rather than patching existing dictionaries, and the project covered 1150 onward as an unending work.",
+      "topics": [
+        "Philological Society",
+        "R. C. Trench",
+        "New English Dictionary",
+        "unregistered words"
+      ]
+    },
+    {
+      "start": "00:19:36",
+      "end": "00:25:06",
+      "kind": "content",
+      "title": "Early editors Coleridge and Murray",
+      "summary": "Herbert Coleridge was the first editor, died in 1861 while still working, and the project lost momentum. James Murray, a Scottish language prodigy, later drove the project forward, overran his completion estimate, and widened the scope to include slang and vulgar words.",
+      "topics": [
+        "Herbert Coleridge",
+        "James Murray",
+        "editorial history",
+        "slang in dictionary"
+      ]
+    },
+    {
+      "start": "00:25:06",
+      "end": "00:28:06",
+      "kind": "content",
+      "title": "The Dictionary People and volunteer contributors",
+      "summary": "Sarah Ogilvie's book The Dictionary People is discussed, showing that about one in six volunteers were women, including Murray's wife and daughters. Eleanor Marx is mentioned, and Margaret Alaski contributed over 13,000 quotes from domestic manuals, cookbooks and diaries.",
+      "topics": [
+        "The Dictionary People",
+        "women volunteers",
+        "Margaret Alaski",
+        "Eleanor Marx"
+      ]
+    },
+    {
+      "start": "00:28:06",
+      "end": "00:32:32",
+      "kind": "content",
+      "title": "Scriptorium, slips, and naming the dictionary",
+      "summary": "Murray worked with family and editors in his backyard Scriptorium in Oxford, with a dedicated post office box. Around 1933 a supplement was issued with 140,000 slips left over. The work came to be called the OED.",
+      "topics": [
+        "Scriptorium",
+        "Oxford post box",
+        "quotation slips backlog",
+        "OED name"
+      ]
+    },
+    {
+      "start": "00:32:32",
+      "end": "00:34:04",
+      "kind": "content",
+      "title": "Murray's later career and honors",
+      "summary": "Murray died in 1915 before the final edition appeared. He was knighted in 1908 but remained an outsider at Oxford; he received an honorary degree late in life, during a ceremony where a prank was played on him.",
+      "topics": [
+        "James Murray death",
+        "knighthood",
+        "honorary degree"
+      ]
+    },
+    {
+      "start": "00:34:04",
+      "end": "00:44:38",
+      "kind": "content",
+      "title": "William Chester Minor",
+      "summary": "Minor, a Yale-trained US Army surgeon with schizophrenia, was confined to Broadmoor asylum in England after killing George Merritt in London in 1872. From there he contributed thousands of reading slips to Murray, they met in 1891, and Minor later cut off his penis in 1902. The film The Professor and the Madman is discussed.",
+      "topics": [
+        "William Chester Minor",
+        "Broadmoor asylum",
+        "Civil War army surgeon",
+        "The Professor and the Madman",
+        "schizophrenia history",
+        "OED volunteers"
+      ]
+    },
+    {
+      "start": "00:44:38",
+      "end": "00:47:13",
+      "kind": "listener_mail",
+      "title": "Listener mail: cost of goods",
+      "summary": "Listener Matt Farmer explains rising costs of restaurant meals, health care and childcare via Baumol's cost disease, in response to an earlier question about cost of goods.",
+      "topics": [
+        "Baumol's cost disease",
+        "cost of goods",
+        "listener mail",
+        "restaurant prices"
+      ]
+    },
+    {
+      "start": "00:47:13",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener questions by email and close the show.",
+      "topics": [
+        "outro",
+        "listener questions"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16978,
+    "output_tokens": 3106
+  }
+}

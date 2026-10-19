@@ -1,0 +1,251 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-03-26_How_Desalination_Works_36min.txt",
+  "title": "How Desalination Works",
+  "date": "2015-03-26",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-desalination-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ae4d04a-bc8d-4f4f-8c17-ae28008fce37/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9ae4d04a-bc8d-4f4f-8c17-ae28008fce37/transcript?format=TextWithTimestamps&t=1700543865",
+  "summary": "Josh and Chuck explain how desalination works, starting with the problem of salt water being undrinkable and the history of attempts to make it fresh, including solar stills. They explain why the ocean is salty (rock weathering, sodium and chloride ions), the global water scarcity context, and the two main methods: multi-stage flash distillation and reverse osmosis. They cover brine disposal and mitigation, high costs and energy use, the Carlsbad, California plant and its pricing, critiques based on drought cycles and abandoned plants in Santa Barbara and Australia, and close with a listener email from a fifteen-year-old named Brooke about depression and hope.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "desalination",
+    "how desalination works",
+    "reverse osmosis",
+    "multi-stage flash distillation",
+    "solar still",
+    "seawater",
+    "brine disposal",
+    "water scarcity",
+    "Carlsbad desalination plant",
+    "desalination costs",
+    "energy use of desalination",
+    "why the ocean is salty",
+    "virtual water exporting",
+    "drinking saltwater",
+    "LifeStraw",
+    "World Water Day",
+    "fresh water supply",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Carlsbad, California desalination plant",
+      "type": "place"
+    },
+    {
+      "name": "Santa Barbara desalination plant",
+      "type": "place"
+    },
+    {
+      "name": "Australia desalination plants",
+      "type": "place"
+    },
+    {
+      "name": "reverse osmosis",
+      "type": "other"
+    },
+    {
+      "name": "multi-stage flash distillation",
+      "type": "other"
+    },
+    {
+      "name": "solar still",
+      "type": "other"
+    },
+    {
+      "name": "LifeStraw",
+      "type": "work"
+    },
+    {
+      "name": "Aristotle",
+      "type": "person"
+    },
+    {
+      "name": "Pliny the Elder",
+      "type": "person"
+    },
+    {
+      "name": "Alexander of Aphrodisias",
+      "type": "person"
+    },
+    {
+      "name": "Gemelli Careri",
+      "type": "person"
+    },
+    {
+      "name": "James Cook",
+      "type": "person"
+    },
+    {
+      "name": "Idiocracy",
+      "type": "work"
+    },
+    {
+      "name": "Poseidon",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck chat about internet slang, a New Yorker article on Broad City and a band called the Shags, and a record sent by a friend.",
+      "topics": [
+        "banter",
+        "internet slang",
+        "the Shags"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Why seawater can't be drunk and early history",
+      "summary": "Chuck explains that seawater is undrinkable because salt disrupts the body's homeostasis and leads to dehydration. They note that people in coastal areas have long sought ways to make seawater drinkable, citing accounts from Aristotle, Pliny the Elder, Alexander of Aphrodisias, and others.",
+      "topics": [
+        "drinking seawater",
+        "electrolytes and homeostasis",
+        "history of desalination",
+        "ancient desalination"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Why the ocean is salty",
+      "summary": "They explain that rain made slightly acidic by carbon dioxide breaks down rocks, releasing ions that flow to the ocean, mainly sodium and chloride. Salts make up about 3.5 percent of seawater weight.",
+      "topics": [
+        "why the ocean is salty",
+        "salt origins",
+        "ions",
+        "sodium chloride"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Global water scarcity and desalination's role",
+      "summary": "They discuss water shortages worldwide, the expected growth in people facing water scarcity, World Water Day, and virtual water exporting. They note that desalination output is a small fraction of global water use, with about 17,000 plants online.",
+      "topics": [
+        "water scarcity",
+        "World Water Day",
+        "virtual water",
+        "desalination capacity",
+        "drought"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Two main desalination methods",
+      "summary": "Chuck and Josh introduce the two main methods, multi-stage flash distillation and reverse osmosis, with reverse osmosis being the most widely used. They note the term was coined in the 1950s, with US military involvement.",
+      "topics": [
+        "reverse osmosis",
+        "multi-stage flash",
+        "desalination methods"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Solar still experiment",
+      "summary": "They describe how to build a simple solar still using a bowl, an empty glass, and plastic wrap, which collects evaporated fresh water as condensation.",
+      "topics": [
+        "solar still",
+        "survival water",
+        "evaporation and condensation"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "How reverse osmosis and multi-stage flash work",
+      "summary": "Reverse osmosis pushes seawater through a semipermeable membrane under high pressure so water passes while salt is left behind. Multi-stage flash boils water rapidly in stages and collects the condensed vapor. They explain that osmosis normally moves water toward higher salt concentration, which reverse osmosis reverses.",
+      "topics": [
+        "reverse osmosis mechanism",
+        "osmosis",
+        "multi-stage flash mechanism",
+        "semipermeable membrane"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Brine disposal and environmental concerns",
+      "summary": "Desalination leaves behind brine, which is saltier than seawater and can harm sea life if released. Mitigations include diluting it with wastewater, releasing it slowly and strategically, and burying pipes under the sea floor.",
+      "topics": [
+        "brine",
+        "brine disposal",
+        "marine environment",
+        "desalination environmental impact"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:33:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short transition before the next section; no sponsor read in the transcript.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:33:30",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Cost and energy of desalination, and the Carlsbad plant",
+      "summary": "They discuss the high cost per acre-foot of desalinated water, the Carlsbad, California plant's thirty-year contract and pricing, energy needs from high-pressure pumping and fouling, and comparisons with recycled water and conservation. Critics point to plants abandoned after rains returned in Santa Barbara and Australia, and say Carlsbad will be a test for California.",
+      "topics": [
+        "desalination cost",
+        "acre-foot pricing",
+        "energy use",
+        "Carlsbad plant",
+        "desalination critics",
+        "water pricing"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Global desalination and future research",
+      "summary": "They note that Saudi Arabia, Israel, and Australia are leaders in desalination and that improvements in energy efficiency and smaller portable units are being pursued. They close the topic by pointing to the water search on HowStuffWorks.",
+      "topics": [
+        "desalination around the world",
+        "portable desalination",
+        "future of water"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:45:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Brooke",
+      "summary": "A fifteen-year-old listener named Brooke from Kentucky shares her experience with depression and a suicide attempt, and says there is hope. The hosts thank her and list ways to contact the show.",
+      "topics": [
+        "listener mail",
+        "depression",
+        "teen mental health",
+        "suicide prevention",
+        "hope"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11742,
+    "output_tokens": 2706
+  }
+}

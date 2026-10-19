@@ -1,0 +1,272 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-09-17_How_Election_Polling_Works_and_Doesnt_Work_47min.txt",
+  "title": "How Election Polling Works and Doesn't Work",
+  "date": "2020-09-17",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-election-polling-works-and-doesnt-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fafca8a5-08a9-49ae-badb-ae28002dfcb3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fafca8a5-08a9-49ae-badb-ae28002dfcb3/transcript?format=TextWithTimestamps&t=1700543613",
+  "summary": "Josh and Chuck explain how election polling works and where it goes wrong, prompted by the 2016 U.S. presidential polling controversy. They cover the margin of error, the history from the 1936 Literary Digest straw poll and Gallup's door-to-door sampling to modern random-digit-dial telephone polling, falling response rates, weighting by demographics, likely-voter screens, and the state polling misses in 2016 (non-college-educated white voters, late-deciding voters). They also discuss how probability-based \"chance of winning\" forecasts are misread by media and the public, the role of polls as snapshots of public opinion, and opt-in internet polls. The episode closes with listener mail about black-owned bookstores and the book, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "election polling",
+    "polling margin of error",
+    "2016 presidential election polls",
+    "state polling errors",
+    "Literary Digest 1936 poll",
+    "Gallup polling history",
+    "random digit dialing",
+    "probability sampling",
+    "random sampling",
+    "response rate decline",
+    "demographic weighting",
+    "likely voter screen",
+    "Nate Silver FiveThirtyEight",
+    "chance of winning forecasts",
+    "straw poll",
+    "opt-in internet polls",
+    "shy Trump voters",
+    "Pew Research Center polling",
+    "poll interpretation",
+    "media coverage of polls"
+  ],
+  "entities": [
+    {
+      "name": "Nate Silver",
+      "type": "person"
+    },
+    {
+      "name": "Literary Digest",
+      "type": "organization"
+    },
+    {
+      "name": "Alf Landon",
+      "type": "person"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "type": "person"
+    },
+    {
+      "name": "Gallup",
+      "type": "organization"
+    },
+    {
+      "name": "Pew Research Center",
+      "type": "organization"
+    },
+    {
+      "name": "FiveThirtyEight",
+      "type": "organization"
+    },
+    {
+      "name": "Hillary Clinton",
+      "type": "person"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "person"
+    },
+    {
+      "name": "Joe Biden",
+      "type": "person"
+    },
+    {
+      "name": "Kid Rock",
+      "type": "person"
+    },
+    {
+      "name": "Mark Shields",
+      "type": "person"
+    },
+    {
+      "name": "David Brooks",
+      "type": "person"
+    },
+    {
+      "name": "Wolf Blitzer",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening and polling vs. 2016 media reaction",
+      "summary": "The hosts introduce the episode, tying election season to the controversy over 2016 polls. They argue the polls were not far off and that the media and public misread them, and they note the media is not an enemy but has pressures from the news cycle.",
+      "topics": [
+        "2016 presidential election polls",
+        "media coverage of polls",
+        "election polling"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "How accurate the 2016 polls really were",
+      "summary": "Nate Silver's analysis of twelve presidential cycles since 1972 found national polls had an average error of about 3.1 points and state polls about 5 points. Clinton was predicted to win the popular vote by three points and won by two. Small state misses in swing states made the race look like a landslide when it was close.",
+      "topics": [
+        "Nate Silver FiveThirtyEight",
+        "state polling errors",
+        "2016 presidential election polls",
+        "polling accuracy history"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Margin of error explained",
+      "summary": "The margin of error is typically plus or minus three to four points for each candidate, which means a lead of a few points can fall within it. Error is unavoidable with a random sample, and pollsters aim to keep it within about three points.",
+      "topics": [
+        "polling margin of error",
+        "random sampling",
+        "poll interpretation"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "History: straw polls and the 1936 Literary Digest poll",
+      "summary": "The term straw poll is explained as holding up straw to see the wind. The Literary Digest's 1936 poll, drawn from its wealthy subscribers, predicted a Landon win over Roosevelt, which was wrong, exposing a sampling bias flaw.",
+      "topics": [
+        "straw poll",
+        "Literary Digest 1936 poll",
+        "sampling bias"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Gallup, door-to-door polling, and the move to phones",
+      "summary": "Gallup used door-to-door interviews to get representative samples and was within about three points through the 1940s. It switched to telephone polling in the mid-1980s for cost reasons, which is still considered the gold standard using live interviewers.",
+      "topics": [
+        "Gallup polling history",
+        "probability sampling",
+        "telephone polling"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Random digit dialing and falling response rates",
+      "summary": "Random digit dialing generated numbers and randomized the last four digits. Pollsters then asked for the adult who had the most recent birthday to balance gender. Response rates fell from a peak of about 36 percent to around 9 percent as caller ID spread, raising cost and making robocalls more common.",
+      "topics": [
+        "random digit dialing",
+        "response rate decline",
+        "robocall polling",
+        "caller ID"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Making samples representative: callbacks, weighting, and dual-phone adjustments",
+      "summary": "Hard-to-reach respondents are called repeatedly so their views are represented. Good polls use neutral sponsors, dial cell phones and landlines, adjust for people with two numbers, and weight responses by demographics such as age, race, income and education to match the population.",
+      "topics": [
+        "demographic weighting",
+        "cell phone polling",
+        "non-response bias",
+        "poll methodology"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Marble analogy and interpreting margin of error",
+      "summary": "A marble-jar analogy shows how repeated samples cluster in a bell curve around the true value, so most results fall within a few points. Polls are snapshots of public opinion, not forecasts, and close races within the margin cannot show a clear winner.",
+      "topics": [
+        "margin of error",
+        "bell curve",
+        "sampling variability",
+        "poll interpretation"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Weighting variables, likely voters, and total error",
+      "summary": "Pollsters weight on many variables, such as education, marital status, home ownership, and internet access. Good polls also screen for likely voters. Pew says the real margin of error is closer to six points once non-sampling errors are included.",
+      "topics": [
+        "likely voter screen",
+        "weighting variables",
+        "total survey error",
+        "Pew polling standards"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "What state polls missed in 2016",
+      "summary": "Pollsters did not weight for non-college-educated white voters, who turned out in large numbers for Trump in states like Wisconsin, Michigan, and Pennsylvania. Late-deciding voters also broke for Trump, and pollsters grew overconfident after accurate results in the 2000s.",
+      "topics": [
+        "2016 state polls",
+        "non-college-educated white voters",
+        "undecided voters",
+        "polling overconfidence"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Chance-of-winning forecasts and media misreading",
+      "summary": "Converting poll margins into probability-of-winning figures, as aggregators and the media do, makes close races look like certainties. The hosts compare this to underdog sports results and note the 2016 underdog chances were real. Shy Trump voters are discussed but described as unproven. Polls are described as snapshots of public opinion rather than predictions.",
+      "topics": [
+        "chance of winning forecasts",
+        "probability misinterpretation",
+        "shy Trump voters",
+        "poll purpose"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:46:30",
+      "kind": "content",
+      "title": "Opt-in internet polls and consumer tips",
+      "summary": "Internet opt-in polls differ from random sampling and make polling more accessible, which causes disruption. Listeners are advised to check transparency such as the pollster, question wording, sample size, and weighting, and to remember that polls are not predictions.",
+      "topics": [
+        "opt-in internet polls",
+        "poll transparency",
+        "how to read polls"
+      ]
+    },
+    {
+      "start": "00:46:30",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on black-owned bookstores",
+      "summary": "A listener named Keily suggests buying the book from black-owned bookstores and the hosts share a link to a list of such stores.",
+      "topics": [
+        "listener mail",
+        "black-owned bookstores"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank the listener and close the episode.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15097,
+    "output_tokens": 3164
+  }
+}

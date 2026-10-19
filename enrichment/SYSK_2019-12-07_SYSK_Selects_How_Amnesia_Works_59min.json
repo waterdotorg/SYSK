@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-12-07_SYSK_Selects_How_Amnesia_Works_59min.txt",
+  "title": "SYSK Selects: How Amnesia Works",
+  "date": "2019-12-07",
+  "duration": "59 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-amnesia-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/581ee824-b977-45f7-b77d-ae280041220c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/581ee824-b977-45f7-b77d-ae280041220c/transcript?format=TextWithTimestamps&t=1700543670",
+  "summary": "SYSK Selects rerun of the Stuff You Should Know episode on amnesia, chosen by Josh. The hosts cover Clive Wearing's severe amnesia (anterograde and retrograde, journaling as a coping system), how memory works (sensory, short-term, long-term, encoding, hippocampus, amygdala, cortex), types of long-term memory (episodic, procedural, semantic, emotional, spatial, working memory), neurological vs. dissociative amnesia, retrograde vs. anterograde amnesia and Ribot's law, alcohol blackouts and Korsakoff syndrome, signs to watch for and when to see a doctor, treatments and coping systems, research on fear memory erasure in rats, patient H.M., Benjamin Kyle the unidentified amnesia case, famous amnesia depictions in film, and a listener mail correction about termite treatment.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Amnesia Works",
+  "topics": [
+    "amnesia",
+    "how amnesia works",
+    "Clive Wearing",
+    "memory formation",
+    "encoding",
+    "hippocampus",
+    "short-term memory",
+    "long-term memory",
+    "episodic memory",
+    "procedural memory",
+    "semantic memory",
+    "working memory",
+    "neurological amnesia",
+    "dissociative amnesia",
+    "retrograde amnesia",
+    "anterograde amnesia",
+    "Ribot's law",
+    "alcohol blackout",
+    "Korsakoff syndrome",
+    "thiamine deficiency",
+    "cortisol and memory",
+    "confabulation",
+    "H.M. patient",
+    "Benjamin Kyle",
+    "fear memory research",
+    "amnesia in movies",
+    "Memento",
+    "HSAM highly superior autobiographical memory",
+    "dementia",
+    "termite control listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Clive Wearing",
+      "type": "person"
+    },
+    {
+      "name": "Oliver Sacks",
+      "type": "person"
+    },
+    {
+      "name": "Henry Molaison",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin Kyle",
+      "type": "person"
+    },
+    {
+      "name": "Mary Lou Henner",
+      "type": "person"
+    },
+    {
+      "name": "Rudolf Hess",
+      "type": "person"
+    },
+    {
+      "name": "John McCain",
+      "type": "person"
+    },
+    {
+      "name": "Harold Ramis",
+      "type": "person"
+    },
+    {
+      "name": "Memento",
+      "type": "work"
+    },
+    {
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "type": "work"
+    },
+    {
+      "name": "Vanilla Sky",
+      "type": "work"
+    },
+    {
+      "name": "Mulholland Drive",
+      "type": "work"
+    },
+    {
+      "name": "Groundhog Day",
+      "type": "work"
+    },
+    {
+      "name": "Taxi",
+      "type": "work"
+    },
+    {
+      "name": "Herpes simplex encephalitis",
+      "type": "other"
+    },
+    {
+      "name": "Hippocampus",
+      "type": "other"
+    },
+    {
+      "name": "Amygdala",
+      "type": "other"
+    },
+    {
+      "name": "Korsakoff syndrome",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Intro and Clive Wearing introduction",
+      "summary": "Josh introduces the episode as a Selects rerun. Hosts banter about whether the show has covered memory before, then introduce Clive Wearing, a musician whose memory refreshes every few seconds, and his journaling system.",
+      "topics": [
+        "amnesia",
+        "Clive Wearing",
+        "Oliver Sacks"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Individual differences in memory and perception",
+      "summary": "The hosts discuss how amnesia and memory vary from person to person, and wonder whether people perceive colors like green the same way. They also mention Mary Lou Henner and HSAM, a highly superior autobiographical memory condition.",
+      "topics": [
+        "highly superior autobiographical memory",
+        "individual memory differences",
+        "color perception"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Short-term and long-term memory basics",
+      "summary": "The hosts explain short-term memory, the role of the hippocampus in filtering information, and the process of encoding sensory input into long-term memory through neurons and synapses.",
+      "topics": [
+        "short-term memory",
+        "long-term memory",
+        "sensory memory",
+        "synapses",
+        "encoding",
+        "hippocampus"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Brain regions in memory and the limbic system",
+      "summary": "The hosts discuss the roles of the amygdala and thalamus, emotion's role in memory strength, the idea of long-term potentiation as well-worn neural paths, and where memories are stored in the cortex.",
+      "topics": [
+        "amygdala",
+        "thalamus",
+        "limbic system",
+        "long-term potentiation",
+        "cerebral cortex",
+        "emotion and memory"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Types of long-term memory",
+      "summary": "The hosts describe explicit/episodic, procedural/implicit, semantic, emotional, and spatial memory, plus working memory, with examples such as making coffee, favorite bands, and a menu choice.",
+      "topics": [
+        "episodic memory",
+        "procedural memory",
+        "semantic memory",
+        "spatial memory",
+        "working memory",
+        "muscle memory"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Causes of amnesia and neurological amnesia",
+      "summary": "The hosts list causes of amnesia such as stroke, oxygen deprivation, drugs, alcohol, head trauma, and ECT. They explain Clive Wearing's herpes encephalitis and use a telephone analogy for the hippocampus and cortex. They note neurological amnesia is often permanent but stable.",
+      "topics": [
+        "neurological amnesia",
+        "herpes encephalitis",
+        "amnesia causes",
+        "stroke and memory"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Dissociative amnesia and stress",
+      "summary": "The hosts describe dissociative amnesia caused by intense stress, including global and situational forms, the role of cortisol in affecting the hippocampus, and that it is often temporary. They also discuss fiction versus reality.",
+      "topics": [
+        "dissociative amnesia",
+        "cortisol",
+        "stress and memory",
+        "global dissociative amnesia",
+        "situational dissociative amnesia",
+        "amnesia in fiction"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Retrograde vs. anterograde amnesia and alcohol blackouts",
+      "summary": "The hosts define retrograde and anterograde amnesia, confabulation, and Ribot's law, where recent memories are lost first. They discuss alcohol blackouts as anterograde amnesia and Korsakoff syndrome from thiamine deficiency. Josh shares a story about his grandfather's stroke and aphasia.",
+      "topics": [
+        "retrograde amnesia",
+        "anterograde amnesia",
+        "Ribot's law",
+        "confabulation",
+        "alcohol blackout",
+        "Korsakoff syndrome",
+        "thiamine deficiency",
+        "aphasia"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:04:00",
+      "kind": "content",
+      "title": "Coping strategies and treatment",
+      "summary": "The hosts explain there is no cure for amnesia, so coping relies on routines, journals, tattoos, smartphones, and caregivers. Psychotherapy may help with dissociative amnesia.",
+      "topics": [
+        "amnesia treatment",
+        "memory coping strategies",
+        "journaling",
+        "psychotherapy"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19387,
+    "output_tokens": 2676
+  }
+}

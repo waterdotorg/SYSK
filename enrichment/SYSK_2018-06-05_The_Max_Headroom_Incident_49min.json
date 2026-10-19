@@ -1,0 +1,255 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-06-05_The_Max_Headroom_Incident_49min.txt",
+  "title": "The Max Headroom Incident",
+  "date": "2018-06-05",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-max-headroom-incident",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4c03cc64-20fe-49b3-9ae9-ae2800628b92/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4c03cc64-20fe-49b3-9ae9-ae2800628b92/transcript?format=TextWithTimestamps&t=1700543759",
+  "summary": "Josh and Chuck explain the Max Headroom character, from the 1985 movie and the 1987 TV series about a future where TV networks rule and \"blip vert\" ads cause viewers to explode, to the November 1987 Chicago broadcast signal intrusions in which a man in a Max Headroom mask hijacked WGN and PBS station WTTW's signals during a Bears sportscast and a Doctor Who episode. They cover the bizarre content of the intrusion, the FCC and FBI investigation, the technical theory of how it was done with microwave transmission, the suspects (Eric Fournier and Bowie Pogue) and why the case remains unsolved. The episode closes with a listener mail about the Allman Brothers album Eat a Peach and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Max Headroom",
+    "Max Headroom incident",
+    "Chicago signal intrusion",
+    "1987 Chicago TV hijacking",
+    "WGN broadcast intrusion",
+    "WTTW signal hijack",
+    "Max Headroom TV series",
+    "blip vert",
+    "cyberpunk",
+    "FCC investigation",
+    "unsolved mystery",
+    "Matt Frewer",
+    "New Coke ad",
+    "Doctor Who pirate broadcast",
+    "microwave transmission hijacking",
+    "Motherboard Alex Pasternak",
+    "Eric Fournier",
+    "Bowie Pogue",
+    "Allman Brothers Eat a Peach",
+    "pirate broadcasting"
+  ],
+  "entities": [
+    {
+      "name": "Max Headroom",
+      "type": "other"
+    },
+    {
+      "name": "Matt Frewer",
+      "type": "person"
+    },
+    {
+      "name": "WGN",
+      "type": "organization"
+    },
+    {
+      "name": "WTTW",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Chicago",
+      "type": "place"
+    },
+    {
+      "name": "Dan Roan",
+      "type": "person"
+    },
+    {
+      "name": "Chuck Swirsky",
+      "type": "person"
+    },
+    {
+      "name": "Doctor Who",
+      "type": "work"
+    },
+    {
+      "name": "Alex Pasternak",
+      "type": "person"
+    },
+    {
+      "name": "Motherboard",
+      "type": "organization"
+    },
+    {
+      "name": "Eric Fournier",
+      "type": "person"
+    },
+    {
+      "name": "Bowie Pogue",
+      "type": "person"
+    },
+    {
+      "name": "Michael Marcus",
+      "type": "person"
+    },
+    {
+      "name": "Dwayne Allman",
+      "type": "person"
+    },
+    {
+      "name": "Eat a Peach",
+      "type": "work"
+    },
+    {
+      "name": "New Coke",
+      "type": "other"
+    },
+    {
+      "name": "Clutch Cargo",
+      "type": "work"
+    },
+    {
+      "name": "Blip vert",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "ad",
+      "title": "Live show announcements",
+      "summary": "Hosts promote upcoming live tour dates in Salt Lake City, Phoenix, Melbourne, Perth and Brisbane, with tickets at sysk live.",
+      "topics": [
+        "live tour",
+        "ticket sales"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "intro",
+      "title": "Introduction and Motherboard source",
+      "summary": "Hosts introduce the episode and credit Alex Pasternak's Motherboard article on the Max Headroom incident as the main source.",
+      "topics": [
+        "Motherboard",
+        "Alex Pasternak",
+        "Max Headroom"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "What Max Headroom was",
+      "summary": "Max Headroom was a computer-generated style talk show host played by Matt Frewer in makeup, starting with the 1985 movie and a TV series. He appeared in a New Coke ad with Run DMC and was a cult figure among cyberpunks and geeks.",
+      "topics": [
+        "Max Headroom",
+        "Matt Frewer",
+        "New Coke ad",
+        "cyberpunk",
+        "1980s pop culture"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Max Headroom TV series plot",
+      "summary": "In the series' future, TV networks rule the world and use blip verts, short fast ads, which cause viewers to explode. Reporter Edison Carter is left in a coma after seeing a sign reading Max Headroom 2.3 meters, and his brain is uploaded to create an AI, which pirate broadcasters later use as Max Headroom.",
+      "topics": [
+        "blip vert",
+        "Max Headroom TV series",
+        "Edison Carter",
+        "pirate broadcasting",
+        "television satire"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Special effects and makeup",
+      "summary": "Because computer graphics were not available, the Max Headroom effect used prosthetic makeup, with a four-hour process applied to Matt Frewer; Letterman interview segments were staged with Frewer in another studio.",
+      "topics": [
+        "Max Headroom makeup",
+        "practical effects",
+        "David Letterman"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Chicago broadcast intrusion, November 1987",
+      "summary": "During a WGN sportscast on the evening after the Bears beat the Lions, Dan Roan's broadcast was interrupted by a man in a Max Headroom mask with no audio for about eleven seconds. Engineers switched to a backup transmitter. About two hours later, WTTW's Doctor Who broadcast was interrupted for about a minute and twenty-two seconds.",
+      "topics": [
+        "WGN intrusion",
+        "WTTW intrusion",
+        "Chicago 1987",
+        "Dan Roan",
+        "Doctor Who",
+        "broadcast hijacking"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Content of the second intrusion",
+      "summary": "The masked man, on a warped, rocking corrugated metal background, garbled his speech, mocked WGN and sportscaster Chuck Swirsky, referenced a 'marital aid', drank New Coke, hummed the Clutch Cargo theme, and was spanked with a fly swatter by a person in a bonnet. Reactions from Chicago residents were aired on WGN.",
+      "topics": [
+        "Max Headroom mask",
+        "WGN World's Greatest Newspaper",
+        "Chuck Swirsky",
+        "Clutch Cargo",
+        "New Coke",
+        "public reaction"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "FCC and FBI investigation",
+      "summary": "The FCC got involved, and the offense was a felony with fines and jail time possible. Early investigators assumed it required expensive equipment and high electricity, but Dr. Michael Marcus said a cheap setup on a nearby rooftop could have overpowered the microwave link. The FBI enhanced video frames, but the investigation went cold and no one was charged; the statute of limitations expired.",
+      "topics": [
+        "FCC investigation",
+        "FBI investigation",
+        "microwave link",
+        "statute of limitations",
+        "Michael Marcus",
+        "unsolved case"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Suspects and the unsolved mystery",
+      "summary": "Early online bulletin board posts described the method two days after the event. Two suspects are discussed: Eric Fournier, whose friends denied involvement, and Bowie Pogue, who recalled older Chicago geeks, possibly including a man and his brother, hinting at a big event on the day. Nobody has been confirmed responsible.",
+      "topics": [
+        "Eric Fournier",
+        "Bowie Pogue",
+        "suspects",
+        "bulletin board systems",
+        "hacker culture",
+        "Max Headroom hack"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Eat a Peach",
+      "summary": "A listener notes that Dwayne Allman's 'eat a peach for peace' remark may be the origin of the Allman Brothers album title Eat a Peach.",
+      "topics": [
+        "Allman Brothers",
+        "Eat a Peach",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15917,
+    "output_tokens": 2860
+  }
+}

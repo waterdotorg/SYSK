@@ -1,0 +1,272 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-09-15_How_the_Moon_Works_38min.txt",
+  "title": "How the Moon Works",
+  "date": "2011-09-15",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-moon-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e669cb05-67d6-47a5-8487-ae2800ad9304/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e669cb05-67d6-47a5-8487-ae2800ad9304/transcript?format=TextWithTimestamps&t=1700543935",
+  "summary": "Josh and Chuck explore the Moon: the Lunar Orbiter 2 crash site rediscovered on the dark side, early geocentric vs. heliocentric views (Aristotle, Copernicus, Galileo), maria and terrae, Apollo moon landings and moon rock samples, the Moon's formation theories (double planet, capture, fission, giant impact), its geology (regolith, basalt, breccia, volcanism, no tectonics or magnetic field), tidal locking and phases, temperature extremes, supermoon claims, tides, Earth's rotational stabilization and precession/pole stars, solar and lunar eclipses, and the future of Moon exploration (Constellation cancellation, private companies, possible lunar ice). The episode closes with a plug for the Super Stuff Guide to Happiness audiobook and listener mail from Jason Bartel of Fang Island about a karma toll story.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "moon",
+    "how the moon formed",
+    "giant impact theory",
+    "moon formation hypotheses",
+    "lunar geology",
+    "maria and terrae",
+    "moon rocks",
+    "Apollo moon landings",
+    "Lunar Orbiter 2",
+    "moon phases",
+    "waxing gibbous",
+    "tides",
+    "tidal locking",
+    "supermoon",
+    "solar eclipse",
+    "lunar eclipse",
+    "precession and pole stars",
+    "lunar ice",
+    "Constellation program",
+    "geocentric vs heliocentric",
+    "moon temperature extremes",
+    "regolith",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Moon",
+      "type": "other"
+    },
+    {
+      "name": "Lunar Orbiter 2",
+      "type": "other"
+    },
+    {
+      "name": "Apollo program",
+      "type": "event"
+    },
+    {
+      "name": "Galileo",
+      "type": "person"
+    },
+    {
+      "name": "Aristotle",
+      "type": "person"
+    },
+    {
+      "name": "Copernicus",
+      "type": "person"
+    },
+    {
+      "name": "Neil Armstrong",
+      "type": "person"
+    },
+    {
+      "name": "Buzz Aldrin",
+      "type": "person"
+    },
+    {
+      "name": "Duncan Jones",
+      "type": "person"
+    },
+    {
+      "name": "Moon (film)",
+      "type": "work"
+    },
+    {
+      "name": "Sea of Tranquility",
+      "type": "place"
+    },
+    {
+      "name": "Clementine probe",
+      "type": "other"
+    },
+    {
+      "name": "Constellation program",
+      "type": "event"
+    },
+    {
+      "name": "Fang Island",
+      "type": "organization"
+    },
+    {
+      "name": "Jason Bartel",
+      "type": "person"
+    },
+    {
+      "name": "Polaris",
+      "type": "other"
+    },
+    {
+      "name": "Vega",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and sponsor tag",
+      "summary": "Hosts open with casual banter about a concert and the film Moon, then introduce the episode's topic and the sponsor line.",
+      "topics": [
+        "podcast intro",
+        "Moon movie"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Lunar Orbiter 2 crash site rediscovered",
+      "summary": "Lunar Orbiter 2 took a final side-view photo in 1966 and was crashed on the dark side of the Moon; a later lunar orbiter found its butterfly-shaped impact crater where NASA expected it.",
+      "topics": [
+        "Lunar Orbiter 2",
+        "lunar orbiter",
+        "butterfly crater",
+        "dark side of the Moon"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Early views of the Moon: Aristotle, Galileo, and Copernicus",
+      "summary": "The hosts discuss early ideas about the universe, including the geocentric model attributed to Aristotle and Galileo's heliocentric argument, and Aristotle's description of the Moon's dark and light spots, which were later called maria and terrae.",
+      "topics": [
+        "geocentric vs heliocentric",
+        "Galileo",
+        "Aristotle",
+        "maria",
+        "terrae",
+        "early astronomy"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Apollo landings and moon rocks",
+      "summary": "Buzz Aldrin and Neil Armstrong landed in July 1969 at the Sea of Tranquility; twelve Americans walked on the Moon in total, bringing back about 842 pounds of rock and dust, which settled long-running questions.",
+      "topics": [
+        "Apollo landings",
+        "Sea of Tranquility",
+        "moon rocks",
+        "moon samples",
+        "moon dust"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Moon surface, craters, and volcanism",
+      "summary": "The Moon's surface was shaped by meteorite bombardment billions of years ago and has changed little since; the hosts describe lava flows, rilles, and the composition of maria (basalt) and highlands (breccia), with regolith and no soil because there is no life.",
+      "topics": [
+        "lunar geology",
+        "meteorite bombardment",
+        "basalt",
+        "breccia",
+        "regolith",
+        "lunar volcanism",
+        "lunar craters"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Theories of how the Moon formed",
+      "summary": "The hosts review the double planet, capture, and fission hypotheses and why they were rejected, then describe the giant impact theory, in which a Mars-sized body hit the early Earth, and the magma ocean cooling that followed.",
+      "topics": [
+        "how the moon formed",
+        "giant impact theory",
+        "double planet hypothesis",
+        "capture hypothesis",
+        "fission hypothesis",
+        "magma ocean",
+        "moon formation"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Tidal locking, phases, and temperature extremes",
+      "summary": "The Moon does not spin on its axis, so the same side always faces Earth; the hosts explain the phases, the 29.5-day cycle, and the large temperature difference between lit and shadowed surfaces.",
+      "topics": [
+        "tidal locking",
+        "moon phases",
+        "waxing gibbous",
+        "waning crescent",
+        "lunar temperature",
+        "lunar day and night"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Supermoons, tides, and Earth's rotation",
+      "summary": "The hosts describe perigee and apogee, the supermoon claim linked to earthquakes and floods, how the Moon raises tides, and how the Moon stabilizes Earth's rotation, along with precession and pole star changes.",
+      "topics": [
+        "supermoon",
+        "perigee apogee",
+        "tides",
+        "tidal bulge",
+        "Earth rotation stabilization",
+        "precession",
+        "pole star"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Solar and lunar eclipses",
+      "summary": "The hosts explain that a solar eclipse occurs at new moon and a lunar eclipse at full moon, that both can happen in the same month, and that it is unsafe to stare at a solar eclipse.",
+      "topics": [
+        "solar eclipse",
+        "lunar eclipse",
+        "umbra and penumbra",
+        "eclipse safety"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Future of Moon exploration and lunar ice",
+      "summary": "The hosts discuss possible ice on the Moon found by Clementine and later probes, the value of a moon base, the Constellation program's cancellation under Obama, and the debate over private companies and ownership of space.",
+      "topics": [
+        "lunar ice",
+        "moon base",
+        "Constellation program",
+        "NASA budget",
+        "private space companies",
+        "space ownership"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:00",
+      "kind": "ad",
+      "title": "Audiobook plug and listener mail",
+      "summary": "The hosts promote the Super Stuff Guide to Happiness audiobook, then read listener mail from Jason Bartel of Fang Island about a toll payment karma story.",
+      "topics": [
+        "Super Stuff Guide to Happiness",
+        "listener mail",
+        "karma stories",
+        "Fang Island"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13297,
+    "output_tokens": 2850
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-04-05_Short_Stuff_Beethovens_DNA_10min.txt",
+  "title": "Short Stuff: Beethoven’s DNA",
+  "date": "2023-04-05",
+  "duration": "10 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-beethoven-s-dna",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/45ad994f-5b4e-4317-9e68-afda0157b28a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/45ad994f-5b4e-4317-9e68-afda0157b28a/transcript?format=TextWithTimestamps&t=1700557783",
+  "summary": "Short Stuff episode on the 2023 research into Beethoven's DNA, extracted from eight alleged locks of his hair. Researcher Tristan Begg (UC Santa Cruz biological anthropology student) pieced together fragmented DNA since the hair lacked roots. Two locks with strong provenance records matched each other, and three others matched genetically; one was from a woman and one was probably not Beethoven's (and had previously been used to claim lead poisoning). Findings: hearing loss was not genetic, but genetic markers linked to cirrhosis (two copies of PNPLA3 variant), hemochromatosis gene variants, and evidence of hepatitis B in his final months. Researchers concluded his drinking was likely normal for the time and his liver disease was genetic. The hosts also briefly discuss the films Immortal Beloved and Amadeus.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Beethoven",
+    "Beethoven DNA",
+    "Beethoven hair locks",
+    "ancient DNA analysis",
+    "degraded DNA",
+    "genome sequencing from hair",
+    "Tristan Begg",
+    "Beethoven hearing loss",
+    "Beethoven cirrhosis",
+    "liver disease",
+    "hemochromatosis",
+    "PNPLA3 gene",
+    "hepatitis B",
+    "jaundice",
+    "Beethoven alcohol consumption",
+    "lead poisoning claim",
+    "relic provenance",
+    "Immortal Beloved",
+    "Amadeus",
+    "classical music history"
+  ],
+  "entities": [
+    {
+      "name": "Ludwig van Beethoven",
+      "type": "person"
+    },
+    {
+      "name": "Tristan Begg",
+      "type": "person"
+    },
+    {
+      "name": "UC Santa Cruz",
+      "type": "organization"
+    },
+    {
+      "name": "Immortal Beloved",
+      "type": "work"
+    },
+    {
+      "name": "Amadeus",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Introduction to Beethoven's DNA research",
+      "summary": "Hosts introduce the news story about researchers sequencing Beethoven's DNA, mention his health problems including hearing loss, and introduce Tristan Begg.",
+      "topics": [
+        "Beethoven",
+        "Beethoven DNA",
+        "Tristan Begg"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Challenges of extracting DNA from hair samples",
+      "summary": "Explains that DNA from dead people is hard to get, that teeth or the petrous bone are better sources, and that Beethoven's hair lacked roots and was cut, not plucked, so the DNA was fragmented. Begg pieced fragments together from eight locks.",
+      "topics": [
+        "degraded DNA",
+        "hair DNA",
+        "Beethoven hair locks",
+        "genome sequencing from hair"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Provenance and identity of the hair locks",
+      "summary": "Of eight locks, five were genetically identical; two with strong provenance records are confirmed as Beethoven's, and three others are doubtful. One was from a woman, and one had previously been used to claim lead poisoning but probably was not Beethoven's hair.",
+      "topics": [
+        "relic provenance",
+        "Beethoven hair locks",
+        "lead poisoning claim"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:10",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Short ad break between segments.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:06:10",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Genetic findings on Beethoven's health",
+      "summary": "Hearing loss was not genetic. Genetic findings include variants linked to cirrhosis, hemochromatosis gene variants, and evidence of hepatitis B in his last months. GI problems could not be tied to genetics. Jaundice attacks are noted in historical records.",
+      "topics": [
+        "Beethoven cirrhosis",
+        "hemochromatosis",
+        "hepatitis B",
+        "PNPLA3 gene",
+        "Beethoven hearing loss",
+        "jaundice",
+        "liver disease"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:09:20",
+      "kind": "content",
+      "title": "Beethoven's drinking and liver disease",
+      "summary": "Researchers examined historical records of Beethoven's drinking and concluded he drank a normal amount for the time, so his liver disease was attributed to genetics rather than alcohol.",
+      "topics": [
+        "Beethoven alcohol consumption",
+        "liver disease",
+        "genetics of liver disease"
+      ]
+    },
+    {
+      "start": "00:09:20",
+      "end": "00:10:00",
+      "kind": "outro",
+      "title": "Movie chat and sign-off",
+      "summary": "Hosts chat about the films Immortal Beloved and Amadeus, then sign off.",
+      "topics": [
+        "Immortal Beloved",
+        "Amadeus",
+        "biopic films"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4289,
+    "output_tokens": 1768
+  }
+}

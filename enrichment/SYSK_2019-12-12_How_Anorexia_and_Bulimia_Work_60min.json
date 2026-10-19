@@ -1,0 +1,311 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-12-12_How_Anorexia_and_Bulimia_Work_60min.txt",
+  "title": "How Anorexia and Bulimia Work",
+  "date": "2019-12-12",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-anorexia-and-bulimia-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/33a9bec0-4303-457e-8c2d-ae280040c2fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/33a9bec0-4303-457e-8c2d-ae280040c2fb/transcript?format=TextWithTimestamps&t=1700543669",
+  "summary": "Josh and Chuck explain anorexia nervosa and bulimia nervosa: how the DSM-5 distinguishes and overlaps them, body image distortion, symptoms (physical and behavioral), medical dangers including suicide and starvation, statistics across gender, age and ethnicity, genetics (twin studies, identical vs fraternal), psychological and brain-imaging findings, social pressures and media influence, athletes and military, history (Sir William Gull, Hilda Bruch's The Golden Cage, Karen Carpenter and ipecac), and treatment approaches including family-based therapy and refeeding syndrome. Includes a tangent on a talking robot toy, a personal workout chat, and a closing helpline mention and listener mail teaser.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "anorexia nervosa",
+    "bulimia nervosa",
+    "eating disorders",
+    "anna and mia",
+    "DSM-5 eating disorder classification",
+    "binge and purge",
+    "body image disturbance",
+    "eating disorder symptoms",
+    "lanugo",
+    "amenorrhea",
+    "eating disorder mortality",
+    "eating disorder statistics",
+    "eating disorder genetics twin study",
+    "biopsychosocial model of eating disorders",
+    "brain imaging fMRI eating disorders",
+    "media influence on body image",
+    "fat talk",
+    "athletes and weight cutting",
+    "military eating disorders",
+    "history of anorexia Sir William Gull",
+    "Hilda Bruch The Golden Cage",
+    "Karen Carpenter",
+    "ipecac abuse",
+    "refeeding syndrome",
+    "family-based treatment Maudsley method",
+    "eating disorder helpline",
+    "recovery rates eating disorders"
+  ],
+  "entities": [
+    {
+      "name": "Anorexia nervosa",
+      "type": "other"
+    },
+    {
+      "name": "Bulimia nervosa",
+      "type": "other"
+    },
+    {
+      "name": "DSM-5",
+      "type": "work"
+    },
+    {
+      "name": "Sir William Gull",
+      "type": "person"
+    },
+    {
+      "name": "Hilda Bruch",
+      "type": "person"
+    },
+    {
+      "name": "The Golden Cage",
+      "type": "work"
+    },
+    {
+      "name": "Karen Carpenter",
+      "type": "person"
+    },
+    {
+      "name": "Ipecac",
+      "type": "other"
+    },
+    {
+      "name": "Salvador Minuchin",
+      "type": "person"
+    },
+    {
+      "name": "Queen Victoria",
+      "type": "person"
+    },
+    {
+      "name": "Johns Hopkins",
+      "type": "organization"
+    },
+    {
+      "name": "American Psychological Association",
+      "type": "organization"
+    },
+    {
+      "name": "The Dorito Effect",
+      "type": "work"
+    },
+    {
+      "name": "Jack the Ripper",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction",
+      "summary": "Hosts joke about the studio, then introduce anorexia and bulimia (known as 'anna' and 'mia') as closely related eating disorders that the DSM-5 distinguishes but connects.",
+      "topics": [
+        "anorexia",
+        "bulimia",
+        "anna and mia",
+        "DSM-5"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Definitions and body image distortion",
+      "summary": "Anorexia is defined by calorie restriction, with some patients also binging and purging; bulimia is binging and purging without calorie restriction. Both are tied to distorted body image and an unhealthy relationship with food.",
+      "topics": [
+        "anorexia definition",
+        "bulimia definition",
+        "binge and purge",
+        "body image disturbance",
+        "scale obsession"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Secrecy, social withdrawal and compensatory behaviors",
+      "summary": "Hosts discuss how eating disorders are hidden, how patients hide food and withdraw socially, and compensatory behaviors such as vomiting, laxative misuse, sweating and excessive exercise. They note diagnostic thresholds such as weighing 15 percent below normal.",
+      "topics": [
+        "social withdrawal",
+        "hiding food",
+        "laxative abuse",
+        "excessive exercise",
+        "diagnosis threshold"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Physical symptoms and amenorrhea",
+      "summary": "Physical signs include brittle hair, fainting, anemia, constipation, slowed pulse and lanugo fine body hair. Hosts discuss amenorrhea and its misconception as a sure sign of anorexia.",
+      "topics": [
+        "eating disorder symptoms",
+        "lanugo",
+        "amenorrhea",
+        "anemia",
+        "slowed pulse"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Prevalence and statistics",
+      "summary": "Statistics cited include at least thirty million people with eating disorders in the US, a death every sixty-two minutes, high mortality, and rates among women over fifty, transgender students, and people with comorbid anxiety. Hosts stress eating disorders affect all genders and ages.",
+      "topics": [
+        "eating disorder statistics",
+        "mortality rate",
+        "gender and eating disorders",
+        "midlife eating disorders",
+        "comorbid anxiety"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Suicide, starvation and long-term outcomes",
+      "summary": "Hosts discuss suicide risk among people with anorexia, death by starvation and organ failure, and studies suggesting long-term recovery is possible for patients who want treatment. They discuss effects of onset in adolescence, including stunted growth and infertility.",
+      "topics": [
+        "suicide risk",
+        "starvation",
+        "organ failure",
+        "stunted growth",
+        "infertility",
+        "recovery"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Bulimia health effects",
+      "summary": "Bulimia can damage teeth, cause acid reflux and sore throat, electrolyte imbalances, fainting, and eventually heart attacks and strokes.",
+      "topics": [
+        "bulimia health effects",
+        "dental damage",
+        "electrolyte imbalance",
+        "heart attack risk"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:29:00",
+      "kind": "ad",
+      "title": "Break and off-topic banter",
+      "summary": "Hosts take a break and banter about a talking robot toy that tells jokes, with no sponsor read clearly identified.",
+      "topics": [
+        "banter",
+        "talking robot toy"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Causes: biopsychosocial model and genetics",
+      "summary": "Causes are unknown and thought to be a biological, psychological and social mix. Twin studies show identical twins are more likely to share the disorder than fraternal twins, suggesting genetics, and about forty-three candidate genes have been identified but none pinpointed.",
+      "topics": [
+        "causes of anorexia",
+        "biopsychosocial model",
+        "twin study",
+        "genetics of eating disorders",
+        "candidate genes"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Psychology, personality, ritualized food behaviors and brain structure",
+      "summary": "Comorbid conditions include depression, anxiety and OCD. Ritualized food behaviors such as cutting food small or arranging plates are described. Anorexia and bulimia patients have different personality profiles. Brain imaging shows reward-center activity and structural differences that may resolve with treatment.",
+      "topics": [
+        "ritualized food behaviors",
+        "personality and eating disorders",
+        "fMRI brain imaging",
+        "brain structure",
+        "comorbidity"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Environmental triggers, parenting and fat talk",
+      "summary": "Triggers can include sexual abuse, critical parents, coaches, bullies or friends. Hosts discuss how parents talk about weight and body, and fat talk among peers as a possible driver of eating disorders.",
+      "topics": [
+        "environmental triggers",
+        "parental influence",
+        "fat talk",
+        "childhood body image",
+        "sexual abuse as risk factor"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Social pressure, media and cultural spread",
+      "summary": "Hosts discuss Western thin ideals in media and advertising, and studies linking Western exposure to higher eating disorder rates in places such as Iran, Singapore and Japan. They note that most people exposed to Western media do not develop eating disorders.",
+      "topics": [
+        "media and thin ideal",
+        "Western culture",
+        "cultural spread of eating disorders",
+        "social pressure",
+        "body positivity"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Athletes, weight classes and the military",
+      "summary": "Weight-class sports and dance or gymnastics can push unhealthy weight loss that may trigger eating disorders, and military weigh-ins and fitness standards are linked in one study to increased eating disorders.",
+      "topics": [
+        "athletes and weight loss",
+        "weight classes",
+        "military eating disorders"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "History: Sir William Gull, Hilda Bruch and Karen Carpenter",
+      "summary": "Sir William Gull is credited with naming anorexia nervosa and publishing an early paper; a joke about Jack the Ripper is made. Hilda Bruch's 1978 book The Golden Cage and the death of Karen Carpenter in 1983 from complications of ipecac abuse raised awareness; calls to ban ipecac were made.",
+      "topics": [
+        "history of anorexia",
+        "Sir William Gull",
+        "Hilda Bruch",
+        "Karen Carpenter",
+        "ipecac"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:00:00",
+      "kind": "outro",
+      "title": "Treatment, helpline and sign-off",
+      "summary": "Treatment is multi-pronged, including refeeding under specialists, family-based therapy (Maudsley method) and the view that patients can recover. A helpline is mentioned, and the hosts tease listener mail and sign off.",
+      "topics": [
+        "treatment of eating disorders",
+        "refeeding syndrome",
+        "family-based therapy",
+        "recovery rates",
+        "eating disorder helpline"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19353,
+    "output_tokens": 3594
+  }
+}

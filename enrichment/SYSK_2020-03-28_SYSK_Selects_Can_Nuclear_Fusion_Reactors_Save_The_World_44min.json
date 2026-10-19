@@ -1,0 +1,257 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-03-28_SYSK_Selects_Can_Nuclear_Fusion_Reactors_Save_The_World_44min.txt",
+  "title": "SYSK Selects: Can Nuclear Fusion Reactors Save The World?",
+  "date": "2020-03-28",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-can-nuclear-fusion-reactors-save-the",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/68e92798-17bc-46c0-865f-ae2800395929/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/68e92798-17bc-46c0-865f-ae2800395929/transcript?format=TextWithTimestamps&t=1700543655",
+  "summary": "A SYSK Selects rerun in which Josh and Chuck explain nuclear fusion: how it differs from fission, why it could supply nearly limitless clean energy, and the engineering obstacles to a commercially viable reactor. They cover the ITER project in Cadarache, France, the history from Lyman Spitzer's stellarator through the Soviet tokamak, plasma, deuterium-tritium and deuterium-deuterium reactions, magnetic versus inertial confinement (including the NIF laser facility), cold fusion claims, and Lockheed Martin's compact fusion claim. The episode closes with a Kiva team shout-out and a listener mail about skywriting.",
+  "episode_kind": "rerun",
+  "rerun_of": "Can Nuclear Fusion Reactors Save the World?",
+  "topics": [
+    "nuclear fusion",
+    "fusion reactor",
+    "ITER",
+    "Cadarache France",
+    "plasma",
+    "tokamak",
+    "stellarator",
+    "Lyman Spitzer",
+    "magnetic confinement",
+    "inertial confinement",
+    "National Ignition Facility",
+    "cold fusion",
+    "pyroelectric fusion",
+    "Lockheed Martin fusion reactor",
+    "deuterium",
+    "tritium",
+    "fusion vs fission",
+    "net energy gain",
+    "clean energy",
+    "Kiva",
+    "skywriting"
+  ],
+  "entities": [
+    {
+      "name": "ITER",
+      "type": "organization"
+    },
+    {
+      "name": "Cadarache",
+      "type": "place"
+    },
+    {
+      "name": "Lyman Spitzer",
+      "type": "person"
+    },
+    {
+      "name": "Lockheed Martin",
+      "type": "organization"
+    },
+    {
+      "name": "National Ignition Facility",
+      "type": "organization"
+    },
+    {
+      "name": "Lawrence Livermore Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Taylor Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Rachel Cacha Duran",
+      "type": "person"
+    },
+    {
+      "name": "A Star in a Bottle",
+      "type": "work"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Fukushima",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Selects intro and opening banter",
+      "summary": "Josh introduces the episode as his pick for the Selects week and teases fusion as future energy. Chuck and Josh banter, then Josh introduces ITER in Cadarache, France, a fusion project costing about fifty billion dollars and running late.",
+      "topics": [
+        "ITER",
+        "Cadarache France",
+        "fusion reactor"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Promise of fusion energy",
+      "summary": "The hosts describe fusion's benefits: little radioactivity, nearly limitless fuel, no greenhouse emissions, and use of existing infrastructure. They compare energy per kilogram of fuel with fission and coal and note the main downside is that no commercially viable reactor exists yet. They point to a New Yorker article, A Star in a Bottle, on ITER.",
+      "topics": [
+        "fusion energy benefits",
+        "clean energy",
+        "fusion vs fission",
+        "A Star in a Bottle"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "The Sun as model and net energy gain",
+      "summary": "The Sun is described as a natural fusion reactor. The hosts mention Taylor Wilson's garage fusion device and explain that the key challenge is achieving net energy gain, with two main hurdles: containment materials and net energy output. ITER's record output is discussed.",
+      "topics": [
+        "the Sun fusion",
+        "net energy gain",
+        "Taylor Wilson",
+        "fusion containment"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "History: Lyman Spitzer and the stellarator",
+      "summary": "Lyman Spitzer, a Princeton astrophysicist working on the H bomb in the 1950s, reads a paper about an Argentine fusion claim and develops the idea of harnessing plasma. He builds a figure-eight stellarator. The hosts explain plasma as a fourth state of matter.",
+      "topics": [
+        "Lyman Spitzer",
+        "stellarator",
+        "plasma",
+        "1950s fusion research"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Tokamak and donut-shaped reactors",
+      "summary": "The US and the Soviet Union declassified research. The Russians developed the donut-shaped tokamak, using electromagnets to contain and stabilize plasma. The hosts explain why temperatures must be much higher than the Sun's core, since Earth lacks the Sun's gravity.",
+      "topics": [
+        "tokamak",
+        "toroidal reactor",
+        "Soviet fusion research",
+        "plasma confinement"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "How fusion works: atoms, forces, and neutrons",
+      "summary": "Fission splits atoms, while fusion smashes nuclei together and releases energy through the strong force. The hosts explain the electromagnetic repulsion barrier, the mass-energy relationship, and how neutrons carry energy to a blanket that heats water to drive turbines.",
+      "topics": [
+        "fusion physics",
+        "strong force",
+        "electromagnetic repulsion",
+        "neutrons",
+        "E=mc2"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Fuel: deuterium, tritium, and helium",
+      "summary": "The hosts discuss fuel types: deuterium-tritium reactions, which are currently achievable; tritium's radioactivity and scarcity from lithium; and the goal of deuterium-deuterium reactions using seawater. They define isotopes of hydrogen and mention helium shortage and waste radioactivity.",
+      "topics": [
+        "deuterium",
+        "tritium",
+        "hydrogen isotopes",
+        "fusion fuel",
+        "radioactive waste",
+        "helium shortage"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Temperature and pressure barriers; magnetic confinement",
+      "summary": "The hosts describe the requirement of about one hundred million kelvin and the pressure barrier. They explain magnetic confinement in a tokamak, the power needed to start a reaction (about seventy megawatts) versus output (about five hundred megawatts for ITER), and heating with microwaves.",
+      "topics": [
+        "magnetic confinement",
+        "ITER power output",
+        "plasma heating",
+        "fusion temperature"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Lockheed Martin's compact fusion claim",
+      "summary": "Lockheed Martin's Skunk Works announced a compact fusion reactor claim that the hosts consider doubtful because data was not released. They discuss beta ratio, the figure-eight configuration, and mirrors to contain plasma. Scientists remain skeptical.",
+      "topics": [
+        "Lockheed Martin fusion",
+        "Skunk Works",
+        "compact fusion reactor",
+        "beta ratio",
+        "scientific skepticism"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Inertial confinement and the NIF laser",
+      "summary": "The National Ignition Facility at Lawrence Livermore uses 192 laser beams to compress a deuterium-tritium pellet, with the aim of yielding fifty times more energy than input. The hosts contrast this inertial confinement with magnetic confinement.",
+      "topics": [
+        "inertial confinement",
+        "National Ignition Facility",
+        "laser fusion",
+        "Lawrence Livermore"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Cold fusion and international funding",
+      "summary": "The hosts discuss the cold fusion claims of the 1980s using palladium and heavy water, which other researchers could not replicate, and the 2005 UCLA pyroelectric fusion claim with negative net energy. They describe ITER's international funding from the EU, US, South Korea, China and Russia.",
+      "topics": [
+        "cold fusion",
+        "pyroelectric fusion",
+        "ITER funding",
+        "international collaboration"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:43:30",
+      "kind": "ad",
+      "title": "Kiva team shout-out",
+      "summary": "The hosts thank listeners for the Kiva team, which has loaned about 2.7 million dollars and passed 100,000 loans, and invite listeners to join at kiva.org/teams/stuff you should know.",
+      "topics": [
+        "Kiva",
+        "microlending"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:44:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: skywriting follow-up",
+      "summary": "Marlin from Australia recalls seeing a skywriter spell 'Hooters' backwards as a child and asks why, and the hosts explain the skywriting reversal and sign off.",
+      "topics": [
+        "skywriting",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14782,
+    "output_tokens": 3160
+  }
+}

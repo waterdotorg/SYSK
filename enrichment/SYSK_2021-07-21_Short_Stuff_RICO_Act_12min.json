@@ -1,0 +1,148 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-07-21_Short_Stuff_RICO_Act_12min.txt",
+  "title": "Short Stuff: RICO Act",
+  "date": "2021-07-21",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-rico-act",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6165da19-de43-4001-abcf-ae28001165c9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6165da19-de43-4001-abcf-ae28001165c9/transcript?format=TextWithTimestamps&t=1700543586",
+  "summary": "Short Stuff episode explaining the RICO Act (Racketeer Influenced and Corrupt Organizations Act). The hosts open with banter about mob boss John Gotti (\"Teflon Don\") and the mafia films that reference RICO, then explain that RICO targets people who direct or manage an illegal enterprise rather than the hands-on perpetrators. They cover the two-part proof required (a pattern of racketeering activity and proof the defendant directed the enterprise), how Gotti was convicted using informant Sammy \"the Bull\" Gravano's testimony and wiretaps, and how the act was later used in civil suits, including a 2015 Atlanta Public Schools cheating scandal case and a civil suit against the Catholic Church. A brief ad break for iHeartRadio appears mid-episode, and the episode closes with a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "RICO Act",
+    "Racketeer Influenced and Corrupt Organizations Act",
+    "racketeering",
+    "organized crime law",
+    "John Gotti",
+    "Teflon Don",
+    "Sammy the Bull Gravano",
+    "mafia prosecution",
+    "wiretap evidence",
+    "civil RICO lawsuits",
+    "Atlanta Public Schools cheating scandal",
+    "Catholic Church RICO lawsuit",
+    "white collar crime",
+    "federal prosecution of mob bosses",
+    "statute of limitations RICO",
+    "triple damages",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "RICO Act",
+      "type": "other"
+    },
+    {
+      "name": "John Gotti",
+      "type": "person"
+    },
+    {
+      "name": "Sammy the Bull Gravano",
+      "type": "person"
+    },
+    {
+      "name": "Atlanta Public Schools cheating scandal",
+      "type": "event"
+    },
+    {
+      "name": "Catholic Church",
+      "type": "organization"
+    },
+    {
+      "name": "Joe Pesci",
+      "type": "person"
+    },
+    {
+      "name": "The Sopranos",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and John Gotti",
+      "summary": "The hosts joke about Halloween costumes and John Gotti, the Teflon Don, and introduce the RICO Act as the law that eventually took him down.",
+      "topics": [
+        "John Gotti",
+        "Teflon Don",
+        "Halloween banter",
+        "mafia movies"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:20",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break for sponsor messages.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:03:20",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "What the RICO Act stands for",
+      "summary": "The hosts explain the acronym Racketeer Influenced and Corrupt Organizations Act, define racket and racketeering, and argue the name is confusing compared with a plain organized crime act. They note RICO has been applied to white collar and corporate crime as well as mob enterprises.",
+      "topics": [
+        "RICO Act",
+        "racketeering definition",
+        "organized crime",
+        "white collar crime",
+        "rackets"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "How RICO targets leaders and the two-part proof",
+      "summary": "RICO aims at high-level managers who direct illegal enterprises but do not personally commit the crimes. Prosecutors must prove a pattern of racketeering activity and that the defendant directed the enterprise. Federal prosecutors use it when other charges are not enough.",
+      "topics": [
+        "RICO prosecution",
+        "pattern of racketeering activity",
+        "enterprise leaders",
+        "federal charges",
+        "Supreme Court RICO interpretation"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Gotti's conviction and civil RICO suits",
+      "summary": "Gotti was convicted using informant Sammy the Bull Gravano's testimony and wiretap recordings of Gotti issuing orders. Gotti died in prison. The hosts discuss civil RICO suits with triple damages, the later four-year statute of limitations, and a civil suit against the Catholic Church, plus the 2015 Atlanta Public Schools cheating scandal case.",
+      "topics": [
+        "Gotti conviction",
+        "Sammy the Bull Gravano",
+        "wiretap evidence",
+        "civil RICO",
+        "triple damages",
+        "statute of limitations",
+        "Catholic Church lawsuit",
+        "Atlanta Public Schools cheating scandal"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Closing and sign-off",
+      "summary": "The hosts wrap up with jokes and the standard Short Stuff sign-off.",
+      "topics": [
+        "sign-off",
+        "Short Stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5224,
+    "output_tokens": 1733
+  }
+}

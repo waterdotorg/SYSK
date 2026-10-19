@@ -1,0 +1,224 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-06-28_Short_Stuff_Fahrenheit_or_Celsius_9min.txt",
+  "title": "Short Stuff: Fahrenheit or Celsius",
+  "date": "2023-06-28",
+  "duration": "9 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-fahrenheit-or-celsius",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/17876ea4-9d3a-4049-82b9-b02700f8a000/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/17876ea4-9d3a-4049-82b9-b02700f8a000/transcript?format=TextWithTimestamps&t=1713910060",
+  "summary": "Short Stuff episode on Fahrenheit versus Celsius. The hosts explain why -40 is the only temperature that is the same in both scales, using a graph/lapping analogy, and note that Celsius degrees are about 1.8 times larger than Fahrenheit degrees. They give the conversion formulas (multiply Celsius by 1.8 and add 32; subtract 32 and divide by 1.8 to go back) with a 20 C = 68 F example. They cover the history: Fahrenheit's invention in the early 1700s, Anders Celsius's proposal based on multiples of ten, the UK Met Office switching to Celsius in 1961, and the US sticking with Fahrenheit. They also mention that the National Weather Service uses Celsius internally but broadcasts in Fahrenheit. The episode opens with a callback to Simo Häyhä, the Finnish \"White Death\" sniper, from a listener-mail discussion.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Fahrenheit",
+    "Celsius",
+    "temperature scales",
+    "Fahrenheit vs Celsius",
+    "-40 degrees same in both scales",
+    "temperature conversion formula",
+    "centigrade",
+    "Daniel Gabriel Fahrenheit",
+    "Anders Celsius",
+    "metric system",
+    "UK Met Office 1961 Celsius switch",
+    "United States temperature units",
+    "National Weather Service Celsius",
+    "freezing and boiling points of water",
+    "Simo Häyhä",
+    "White Death",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Fahrenheit",
+      "type": "other"
+    },
+    {
+      "name": "Celsius",
+      "type": "other"
+    },
+    {
+      "name": "Daniel Gabriel Fahrenheit",
+      "type": "person"
+    },
+    {
+      "name": "Anders Celsius",
+      "type": "person"
+    },
+    {
+      "name": "Simo Häyhä",
+      "type": "person"
+    },
+    {
+      "name": "UK Met Office",
+      "type": "organization"
+    },
+    {
+      "name": "National Weather Service",
+      "type": "organization"
+    },
+    {
+      "name": "Patrick J. Kiger",
+      "type": "person"
+    },
+    {
+      "name": "Jesslyn Shields",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:31",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts joke about temperature units and introduce the topic of Celsius and Fahrenheit.",
+      "topics": [
+        "Short Stuff intro"
+      ]
+    },
+    {
+      "start": "00:00:31",
+      "end": "00:01:27",
+      "kind": "content",
+      "title": "Why conversion is selective",
+      "summary": "Hosts say they sometimes convert temperatures to Celsius on the show, and that the US uses Fahrenheit while most of the world uses Celsius.",
+      "topics": [
+        "Fahrenheit vs Celsius",
+        "temperature conversion on podcast"
+      ]
+    },
+    {
+      "start": "00:01:27",
+      "end": "00:02:32",
+      "kind": "content",
+      "title": "Simo Häyhä and the -40 listener mail",
+      "summary": "Chuck and Josh recall the Simo Häyhä episode mention, where listeners pointed out that -40 is the same in Fahrenheit and Celsius, and say they will explain why.",
+      "topics": [
+        "Simo Häyhä",
+        "White Death",
+        "-40 degrees same in both scales"
+      ]
+    },
+    {
+      "start": "00:02:32",
+      "end": "00:03:38",
+      "kind": "content",
+      "title": "Why the scales meet at -40",
+      "summary": "The hosts explain that Celsius degrees are larger than Fahrenheit degrees, so the two scales line up at -40, using a lapping-runners analogy and a graph explanation.",
+      "topics": [
+        "-40 degrees same in both scales",
+        "Celsius degree size",
+        "temperature scales graph explanation"
+      ]
+    },
+    {
+      "start": "00:03:38",
+      "end": "00:04:02",
+      "kind": "content",
+      "title": "Freezing and boiling points",
+      "summary": "Water freezes at 32 F and boils at 212 F, versus 0 C and 100 C in Celsius, which the hosts say makes Celsius easier to remember.",
+      "topics": [
+        "freezing point of water",
+        "boiling point of water",
+        "Fahrenheit vs Celsius"
+      ]
+    },
+    {
+      "start": "00:04:02",
+      "end": "00:05:38",
+      "kind": "content",
+      "title": "Conversion formulas and examples",
+      "summary": "Explanation of converting Celsius to Fahrenheit by multiplying by 1.8 and adding 32, and the reverse; 20 C equals 68 F, and -40 is the same in both.",
+      "topics": [
+        "temperature conversion formula",
+        "Celsius to Fahrenheit",
+        "Fahrenheit to Celsius",
+        "20 degrees Celsius"
+      ]
+    },
+    {
+      "start": "00:05:38",
+      "end": "00:05:48",
+      "kind": "content",
+      "title": "Transition to history",
+      "summary": "Chuck introduces the question of why America still uses a system most of the world has dropped.",
+      "topics": [
+        "US measurement holdouts"
+      ]
+    },
+    {
+      "start": "00:05:48",
+      "end": "00:06:15",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Break in the episode with a short sponsor segment.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:06:15",
+      "end": "00:07:18",
+      "kind": "content",
+      "title": "Countries using Fahrenheit and origins of the scales",
+      "summary": "Chuck notes the US, the Bahamas, Belize, and Palau still use Fahrenheit. Fahrenheit invented in the early 1700s by Daniel Gabriel Fahrenheit, and Anders Celsius proposed a scale based on multiples of ten.",
+      "topics": [
+        "Fahrenheit history",
+        "Anders Celsius",
+        "centigrade",
+        "metric system",
+        "countries using Fahrenheit"
+      ]
+    },
+    {
+      "start": "00:07:18",
+      "end": "00:08:13",
+      "kind": "content",
+      "title": "UK switch to Celsius in 1961",
+      "summary": "Europe moved toward Celsius; the English-speaking world held on to Fahrenheit until the UK Met Office switched to Celsius in 1961, followed by former British Empire countries. The US kept Fahrenheit.",
+      "topics": [
+        "UK Met Office 1961",
+        "British Empire Celsius adoption",
+        "US holds on to Fahrenheit"
+      ]
+    },
+    {
+      "start": "00:08:13",
+      "end": "00:08:58",
+      "kind": "content",
+      "title": "National Weather Service units",
+      "summary": "The National Weather Service uses Celsius internally but broadcasts temperatures in Fahrenheit for American audiences; the hosts joke about public reaction.",
+      "topics": [
+        "National Weather Service Celsius",
+        "weather broadcast units"
+      ]
+    },
+    {
+      "start": "00:08:58",
+      "end": "00:09:04",
+      "kind": "outro",
+      "title": "Wrap-up",
+      "summary": "Chuck says the episode was short and the hosts sign off.",
+      "topics": [
+        "Short Stuff outro"
+      ]
+    },
+    {
+      "start": "00:09:04",
+      "end": "00:09:04",
+      "kind": "ad",
+      "title": "Credits and network tag",
+      "summary": "Closing credits noting the show is a production of iHeartRadio.",
+      "topics": [
+        "credits"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4778,
+    "output_tokens": 2495
+  }
+}

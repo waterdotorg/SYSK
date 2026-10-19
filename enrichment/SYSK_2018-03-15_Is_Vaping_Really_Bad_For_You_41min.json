@@ -1,0 +1,242 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-03-15_Is_Vaping_Really_Bad_For_You_41min.txt",
+  "title": "Is Vaping Really Bad For You?",
+  "date": "2018-03-15",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-vaping-really-bad-for-you",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e2d579cf-9405-4f45-a426-ae28006748a2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e2d579cf-9405-4f45-a426-ae28006748a2/transcript?format=TextWithTimestamps&t=1700543773",
+  "summary": "Josh and Chuck examine whether vaping (electronic cigarettes, or e-cigarettes/e-sigs) is bad for you. They cover what e-cigarettes are and how the battery, heating coil (atomizer) and cartridge work, the lack of combustion versus tobacco, the origin of the device (Han Lik's 2003 patent and earlier patents), and FDA regulation starting in 2016. They discuss toxic metals from heating coils, harmful chemicals such as acrolein and diacetyl (popcorn lung) and flavoring concerns, the nicotine addiction question, the UK claim that vaping is safer than smoking, dual use with cigarettes, teen vaping trends and CDC data, and FDA premarket rules for flavors. The episode ends with a listener mail segment (a Sea Monkeys follow-up) and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "vaping",
+    "e-cigarettes",
+    "e-sigs",
+    "electronic nicotine delivery systems",
+    "vaping health effects",
+    "nicotine addiction",
+    "nicotine",
+    "tobacco vs vaping",
+    "FDA regulation of e-cigarettes",
+    "toxic metals in e-cigarette coils",
+    "diacetyl popcorn lung",
+    "flavored e-liquid",
+    "teen vaping",
+    "dual use vaping and smoking",
+    "Han Lik patent",
+    "UK e-cigarette safety review",
+    "smoking cessation",
+    "cannabis vaping",
+    "FDA premarket approval flavors",
+    "Sea Monkeys follow-up"
+  ],
+  "entities": [
+    {
+      "name": "e-cigarettes",
+      "type": "other"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Han Lik",
+      "type": "person"
+    },
+    {
+      "name": "Herbert A. Gilbert",
+      "type": "person"
+    },
+    {
+      "name": "Michael Russell",
+      "type": "person"
+    },
+    {
+      "name": "David Ansdell",
+      "type": "person"
+    },
+    {
+      "name": "Rolling Stone",
+      "type": "work"
+    },
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "Johns Hopkins Bloomberg School of Public Health",
+      "type": "organization"
+    },
+    {
+      "name": "Altria",
+      "type": "organization"
+    },
+    {
+      "name": "Marlboro",
+      "type": "other"
+    },
+    {
+      "name": "diacetyl",
+      "type": "other"
+    },
+    {
+      "name": "acrolein",
+      "type": "other"
+    },
+    {
+      "name": "popcorn lung",
+      "type": "other"
+    },
+    {
+      "name": "Sea Monkeys",
+      "type": "work"
+    },
+    {
+      "name": "Yolanda Mishka",
+      "type": "person"
+    },
+    {
+      "name": "UK National Health Service",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Tour dates and opening banter",
+      "summary": "Josh announces Colorado Gothic Theater shows and other tour dates, then the hosts banter about the vaping terminology and the teen vaping trend.",
+      "topics": [
+        "tour dates",
+        "vaping slang",
+        "teen smoking"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "title": "What e-cigarettes are and the 2016 FDA regulation",
+      "summary": "The hosts define e-cigarettes as battery-powered devices that vaporize liquid nicotine without combustion, note there is no tobacco in them, and say the FDA gained regulatory control in 2016. They mention the 2003 Chinese pharmacist patent and a 1960s Herbert Gilbert patent.",
+      "topics": [
+        "e-cigarette definition",
+        "electronic nicotine delivery system",
+        "FDA regulation 2016",
+        "Han Lik patent",
+        "Herbert A. Gilbert patent"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "title": "Device parts and the nicotine-versus-tobacco question",
+      "summary": "The hosts explain the three parts: battery, vaporization chamber with heating coil (atomizer), and cartridge. They discuss that nicotine is addictive, that Michael Russell's work framed smoking as physiological addiction, and that tobacco's tar causes most harm.",
+      "topics": [
+        "atomizer",
+        "heating coils",
+        "nicotine addiction",
+        "Michael Russell",
+        "tobacco tar"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:15:00",
+      "end": "00:20:00",
+      "title": "Toxic metals from heating coils",
+      "summary": "A Johns Hopkins study found heating coils release metals such as lead, chromium, manganese and nickel into the vapor, with levels sometimes comparable to cigarettes, higher with frequently changed atomizers.",
+      "topics": [
+        "toxic metals",
+        "lead in vapor",
+        "atomizer coils",
+        "Johns Hopkins study"
+      ]
+    },
+    {
+      "kind": "ad",
+      "start": "00:20:00",
+      "end": "00:21:00",
+      "title": "Break",
+      "summary": "Break before continuing the discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "title": "Flavors, cartridge cost and dual use",
+      "summary": "The hosts discuss flavor-only vaping, the cost of cartridges compared to cigarette packs, refillable tanks, and people who both smoke and vape, which is the worst case scenario.",
+      "topics": [
+        "flavored vaping",
+        "dual use",
+        "cost of vaping",
+        "refillable tanks"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "title": "Harmful chemicals and FDA versus nicotine gum",
+      "summary": "They discuss chemicals such as acrolein (metabolized to cyanide) found in users' bloodstreams, and argue about why e-cigarettes are regulated like tobacco while nicotine gum and patches are not. They tie this to decades of anti-smoking campaigns and the smoking rate decline.",
+      "topics": [
+        "acrolein",
+        "cyanide",
+        "nicotine gum",
+        "FDA tobacco regulation",
+        "anti-smoking campaigns",
+        "smoking rate decline"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "title": "UK safety claims and teen vaping data",
+      "summary": "They cite a UK review saying vaping is safer than smoking and the NHS repeating that claim, plus a survey showing many smokers believed vaping safer in 2010 and fewer in 2013. They cite CDC data on teen use of cigarettes and vapes falling from 2015 to 2016 and note that the study did not separate one-time triers from regular users.",
+      "topics": [
+        "UK e-cigarette review",
+        "NHS",
+        "CDC youth survey",
+        "teen vaping",
+        "gateway effect"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:38:00",
+      "end": "00:40:00",
+      "title": "Diacetyl, flavors, FDA premarket rules and sign-off remarks",
+      "summary": "They discuss diacetyl and popcorn lung from microwave popcorn plant workers, flavor toxicity findings, the FDA rule requiring approval of each product SKU, Big Tobacco's involvement, and a UC San Francisco study of vapers and smokers.",
+      "topics": [
+        "diacetyl",
+        "popcorn lung",
+        "FDA premarket review",
+        "flavor toxicity",
+        "Big Tobacco vaping"
+      ]
+    },
+    {
+      "kind": "listener_mail",
+      "start": "00:40:00",
+      "end": "00:41:00",
+      "title": "Listener mail: Sea Monkeys follow-up and outro",
+      "summary": "A listener named Sarah shares a follow-up on Sea Monkeys inventor Yolanda Mishka. Josh gives social and email contact information and signs off.",
+      "topics": [
+        "listener mail",
+        "Sea Monkeys follow-up"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13466,
+    "output_tokens": 2599
+  }
+}

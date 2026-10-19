@@ -1,0 +1,254 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-03-25_How_Amnesia_Works_58min.txt",
+  "title": "How Amnesia Works",
+  "date": "2014-03-25",
+  "duration": "58 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-amnesia-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2bedf598-9a5f-4484-afae-ae280099c125/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2bedf598-9a5f-4484-afae-ae280099c125/transcript?format=TextWithTimestamps&t=1700543885",
+  "summary": "Josh and Chuck explore amnesia, starting with the case of Clive Wearing, a musicologist whose memory resets every few seconds after viral encephalitis damaged his hippocampus and cortex. They walk through how memory works: sensory, short-term, and long-term memory, encoding, the hippocampus, amygdala and cortex roles, and long-term potentiation, plus memory types (episodic, procedural, semantic, emotional, spatial, working). They distinguish neurological amnesia (brain injury, stroke, drugs, alcohol, ECT) from dissociative amnesia (stress, cortisol, global vs. situational), define anterograde and retrograde amnesia and Ribot's law, discuss alcohol blackouts and Korsakoff syndrome, and cover coping strategies such as journals, habits, and smartphones. They also cover case studies (Clive Wearing, Henry Molaison H.M., Benjamin Kyle, a woman with a ceiling-fan injury), pop culture films, fugue states, signs to watch for, and research on erasing fear memories. The episode closes with a listener email correcting their description of termiticide and bait treatments.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "amnesia",
+    "Clive Wearing",
+    "memory",
+    "neurological amnesia",
+    "dissociative amnesia",
+    "anterograde amnesia",
+    "retrograde amnesia",
+    "Ribot's law",
+    "long-term potentiation",
+    "hippocampus",
+    "short-term memory",
+    "long-term memory",
+    "procedural memory",
+    "episodic memory",
+    "semantic memory",
+    "working memory",
+    "alcohol blackout",
+    "Korsakoff syndrome",
+    "thiamine deficiency",
+    "confabulation",
+    "fugue state",
+    "H.M. Henry Molaison",
+    "Benjamin Kyle",
+    "HSAM highly superior autobiographical memory",
+    "memory research fear extinction",
+    "Eternal Sunshine of the Spotless Mind",
+    "Memento",
+    "termiticide",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Clive Wearing",
+      "type": "person"
+    },
+    {
+      "name": "Oliver Sacks",
+      "type": "person"
+    },
+    {
+      "name": "Mary Lou Henner",
+      "type": "person"
+    },
+    {
+      "name": "Henry Molaison",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin Kyle",
+      "type": "person"
+    },
+    {
+      "name": "Rudolph Hess",
+      "type": "person"
+    },
+    {
+      "name": "John McCain",
+      "type": "person"
+    },
+    {
+      "name": "Harold Ramis",
+      "type": "person"
+    },
+    {
+      "name": "Kristen Kongner",
+      "type": "person"
+    },
+    {
+      "name": "Memento",
+      "type": "work"
+    },
+    {
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "type": "work"
+    },
+    {
+      "name": "Vanilla Sky",
+      "type": "work"
+    },
+    {
+      "name": "Mulholland Drive",
+      "type": "work"
+    },
+    {
+      "name": "Jason Bourne",
+      "type": "work"
+    },
+    {
+      "name": "Groundhog Day",
+      "type": "work"
+    },
+    {
+      "name": "hippocampus",
+      "type": "other"
+    },
+    {
+      "name": "amygdala",
+      "type": "other"
+    },
+    {
+      "name": "cerebral cortex",
+      "type": "other"
+    },
+    {
+      "name": "limbic system",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Clive Wearing introduction",
+      "summary": "The hosts joke about their memory and past episodes, then introduce Clive Wearing, a musicologist whose memory resets every few seconds, and Oliver Sacks' New Yorker profile of him, including journaling and the apple-core anecdote.",
+      "topics": [
+        "Clive Wearing",
+        "amnesia",
+        "Oliver Sacks",
+        "memory journal"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Individual memory and HSAM",
+      "summary": "The hosts discuss how memory is highly individualized, with a side tangent on whether people see colors the same. They mention Mary Lou Henner's highly superior autobiographical memory (HSAM) and why forgetting is useful.",
+      "topics": [
+        "HSAM highly superior autobiographical memory",
+        "memory individuality",
+        "forgetting"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "How memory is formed: sensory, short-term, and long-term",
+      "summary": "The hosts explain the memory process: sensory memory, the nerve impulse and neurotransmitters crossing synapses, short-term memory, and encoding into long-term memory with the hippocampus, amygdala, thalamus, and cortex. They discuss long-term potentiation and emotion's role in memory strength.",
+      "topics": [
+        "short-term memory",
+        "long-term memory",
+        "encoding",
+        "hippocampus",
+        "amygdala",
+        "long-term potentiation",
+        "synapses"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Types of long-term and working memory",
+      "summary": "The hosts list memory types: episodic (explicit), procedural (implicit), semantic (organized), emotional, spatial, and working memory, with examples like making coffee, favorite bands, and choosing from a menu. They note that emotion attaches to all memories and discuss neural plasticity.",
+      "topics": [
+        "episodic memory",
+        "procedural memory",
+        "semantic memory",
+        "emotional memory",
+        "spatial memory",
+        "working memory",
+        "neural plasticity"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Neurological amnesia causes",
+      "summary": "Amnesia is described as a bad case of forgetting, often from brain injury. Causes listed include stroke, lack of oxygen, drugs, alcohol, blunt force trauma, and electroconvulsive therapy. The hosts explain Clive Wearing's herpes simplex encephalitis and the telephone-cord analogy for the hippocampus and cortex.",
+      "topics": [
+        "neurological amnesia",
+        "brain injury",
+        "herpes encephalitis",
+        "stroke amnesia",
+        "telephone analogy"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A short break for sponsor messages before the show returns to dissociative amnesia.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Dissociative amnesia and stress",
+      "summary": "The hosts describe dissociative amnesia, caused by intense stress and cortisol, which is usually temporary. They explain global versus situational subtypes, the brain blocking out traumatic events, and the rarity of fiction-style cases. A side tangent covers stress and cortisol in baby rhinos.",
+      "topics": [
+        "dissociative amnesia",
+        "stress and cortisol",
+        "global dissociative amnesia",
+        "situational dissociative amnesia",
+        "psychogenic amnesia"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Anterograde vs retrograde amnesia, alcohol blackouts, and Ribot's law",
+      "summary": "The hosts define anterograde amnesia (inability to form new memories) and retrograde amnesia (loss of past memories), with confabulation. They explain alcohol blackouts as anterograde amnesia and Ribot's law, where recent memories are lost first. They discuss speech loss from stroke and the hosts' grandfather's stroke.",
+      "topics": [
+        "anterograde amnesia",
+        "retrograde amnesia",
+        "Ribot's law",
+        "confabulation",
+        "alcohol blackout",
+        "stroke aphasia",
+        "Broca's area"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "Living with amnesia, coping systems, and H.M.",
+      "summary": "The hosts discuss Clive Wearing's wife as caretaker, journals, sticky notes, habits, and smartphones as coping tools. They cover Henry Molaison (H.M.), whose hippocampus was removed to treat seizures, which showed that long-term memory is distinct from new memory formation. A woman's memoir about faking amnesia after a ceiling fan injury is also discussed.",
+      "topics": [
+        "coping with amnesia",
+        "H.M. Henry Molaison",
+        "hippocampus research",
+        "memoir faking amnesia",
+        "procedural memory"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19005,
+    "output_tokens": 2943
+  }
+}

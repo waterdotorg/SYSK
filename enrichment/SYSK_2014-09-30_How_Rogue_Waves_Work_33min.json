@@ -1,0 +1,222 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-09-30_How_Rogue_Waves_Work_33min.txt",
+  "title": "How Rogue Waves Work",
+  "date": "2014-09-30",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-rogue-waves-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30fbd799-3209-4676-b8fd-ae2800941d75/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/30fbd799-3209-4676-b8fd-ae2800941d75/transcript?format=TextWithTimestamps&t=1700543875",
+  "summary": "Hosts Josh and Chuck explain rogue waves: definition (a wave roughly twice the size of the next tallest, a steep wall of water that can break over ships), how they differ from freak waves that have known causes like underwater earthquakes, glacial calving and coastal landslides, and the first scientifically recorded rogue wave at the Draupner platform off Norway on New Year's Day (about 66 ft). They cover anecdotal sailor stories (Queen Elizabeth struck near Greenland in WWII), the 2000s satellite data from the European Space Agency's MaxWave project, theories involving currents like the Gulf Stream opposing waves, wave reinforcement and the Peregrine soliton, the possible link to Bermuda Triangle disappearances, the Edmund Fitzgerald and Arthur Anderson account, and how rogue waves differ from tsunamis. The episode also includes a listener mail from Kyle about career dissatisfaction, with advice not to quit a stable job before finding fulfilling work. Some opening banter covers a cruise and seasickness, and a tangent on Navy strength gin and fade-out songs.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "rogue waves",
+    "freak waves",
+    "killer waves",
+    "rogue wave formation theories",
+    "Draupner platform wave",
+    "first scientifically recorded rogue wave",
+    "Peregrine soliton",
+    "wave reinforcement",
+    "Gulf Stream rogue waves",
+    "MaxWave project",
+    "European Space Agency satellite wave data",
+    "Edmund Fitzgerald",
+    "Bermuda Triangle",
+    "tsunami vs rogue wave",
+    "sailor stories",
+    "Queen Elizabeth ship rogue wave",
+    "wave physics",
+    "wave height and period",
+    "ocean waves",
+    "listener mail career advice"
+  ],
+  "entities": [
+    {
+      "name": "Rogue waves",
+      "type": "other"
+    },
+    {
+      "name": "Draupner platform",
+      "type": "place"
+    },
+    {
+      "name": "Norway",
+      "type": "place"
+    },
+    {
+      "name": "Peregrine soliton",
+      "type": "other"
+    },
+    {
+      "name": "Gulf Stream",
+      "type": "place"
+    },
+    {
+      "name": "European Space Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Edmund Fitzgerald",
+      "type": "work"
+    },
+    {
+      "name": "Arthur Anderson",
+      "type": "work"
+    },
+    {
+      "name": "Lake Superior",
+      "type": "place"
+    },
+    {
+      "name": "Bermuda Triangle",
+      "type": "place"
+    },
+    {
+      "name": "Queen Elizabeth",
+      "type": "work"
+    },
+    {
+      "name": "Gordon Lightfoot",
+      "type": "person"
+    },
+    {
+      "name": "Scotland",
+      "type": "place"
+    },
+    {
+      "name": "Tsunami",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and cruise seasickness",
+      "summary": "Hosts chat about nicknames, Josh asking Chuck about a cruise and seasickness, and a brief joke about rogue wave the band.",
+      "topics": [
+        "cruise seasickness",
+        "nicknames",
+        "Rogue Wave band"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Defining rogue waves",
+      "summary": "A rogue wave is a huge wave, often described as about twice the size of the next tallest wave in an area, that acts like a wall of water and can break over ships. Hosts distinguish rogue waves from glacial calving, underwater earthquakes and coastal landslides, which cause big waves but have known origins. Sizes vary by definition.",
+      "topics": [
+        "rogue waves",
+        "freak waves",
+        "killer waves",
+        "rogue wave definition",
+        "glacial calving",
+        "coastal landslides"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Anecdotal sailor stories and the Draupner wave",
+      "summary": "Sailor tales of huge waves were long dismissed. On New Year's Day, an oil platform off Norway (Draupner) recorded a roughly 66 ft wave amid smaller waves, the first rogue wave captured by science. Anecdotes such as a captain's account of the Queen Elizabeth being struck near Greenland during WWII are mentioned.",
+      "topics": [
+        "Draupner platform wave",
+        "first scientifically recorded rogue wave",
+        "sailor stories",
+        "Queen Elizabeth ship rogue wave",
+        "Norway"
+      ],
+      "entities": []
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Wave physics and normal wave formation",
+      "summary": "Hosts review wave terminology from the surfing episode: crest, trough, height, length, period and energy. Wind over open water (fetch) forms ordinary waves, while rogue waves do not fit this explanation.",
+      "topics": [
+        "wave physics",
+        "wave height and period",
+        "fetch",
+        "wind-generated waves"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Theories of rogue wave formation",
+      "summary": "One proposed theory is that a current running against a large wave transfers energy and makes it much larger; the Gulf Stream and a current off Africa are mentioned, with a suggested link to Bermuda Triangle disappearances. Another theory is the Peregrine soliton, predicted mathematically in the 1980s by Professor Peregrine, and wave reinforcement, where waves combine into one larger wave.",
+      "topics": [
+        "rogue wave formation theories",
+        "Gulf Stream rogue waves",
+        "Peregrine soliton",
+        "wave reinforcement",
+        "Bermuda Triangle"
+      ],
+      "entities": []
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "How common rogue waves are and notable wrecks",
+      "summary": "Satellite data from the European Space Agency's MaxWave project found about ten waves over 82 ft in three weeks, far more than predicted. Rogue waves may occur in threes. The Edmund Fitzgerald sinking on Lake Superior is discussed, with the Arthur Anderson hit by large waves, and Gordon Lightfoot's song is mentioned.",
+      "topics": [
+        "MaxWave project",
+        "European Space Agency satellite wave data",
+        "rogue wave frequency",
+        "Edmund Fitzgerald",
+        "Arthur Anderson",
+        "Lake Superior",
+        "Gordon Lightfoot"
+      ],
+      "entities": []
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Tsunamis versus rogue waves and ship design",
+      "summary": "Tsunamis are generated underwater and become a tall wall of water only at the coast, unlike rogue waves, which form on the surface and are unpredictable. Ships cannot practically be built to withstand rogue waves, and better understanding and prediction could improve safety.",
+      "topics": [
+        "tsunami vs rogue wave",
+        "ship safety",
+        "rogue wave prediction"
+      ],
+      "entities": []
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:32:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Kyle's career advice",
+      "summary": "Listener Kyle, a recent history and web design graduate with a stable desk job, feels stuck as a corporate drone. Hosts advise against quitting before finding fulfilling work and suggest considering what he enjoys; they point to the HowStuffWorks career section.",
+      "topics": [
+        "listener mail",
+        "career advice",
+        "career change"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:33:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give social media and website contact information.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11543,
+    "output_tokens": 2583
+  }
+}

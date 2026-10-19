@@ -1,0 +1,289 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-05-21_How_Crystals_Work_49min.txt",
+  "title": "How Crystals Work",
+  "date": "2019-05-21",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-crystals-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3923f9ca-77e6-4bf8-a24f-ae28004cd13e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3923f9ca-77e6-4bf8-a24f-ae28004cd13e/transcript?format=TextWithTimestamps&t=1700543696",
+  "summary": "Josh and Chuck explain what crystals are: repeating three-dimensional atomic structures built from unit cells into lattices, not just a type of mineral or gem. They cover the seven lattice shapes, long- versus short-range order, and polycrystals versus single crystals. They describe three ways crystals form (from solution, from vapor, from melt) with home salt-crystal experiments, and human-made methods such as Czochralski crystal pulling, Bridgman-Stockbarger, molecular beam and chemical vapor deposition, and liquid phase epitaxy. They discuss gemstone colors from impurities (ruby vs. sapphire, amethyst vs. citrine), the Greek origin of the word crystal, and the Cueva de los Cristales. The episode closes with crystal healing and its placebo basis (including a University of London study), the risks of Baltic amber teething necklaces, and listener mail about the origin of the word nickname.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "crystals",
+    "crystal structure",
+    "unit cell",
+    "crystal lattice",
+    "seven crystal systems",
+    "long-range order",
+    "short-range order",
+    "polycrystals",
+    "single crystal",
+    "crystal formation",
+    "growth from solution",
+    "vapor deposition",
+    "growth from melt",
+    "Czochralski crystal pulling",
+    "Bridgman-Stockbarger method",
+    "molecular beam epitaxy",
+    "chemical vapor deposition",
+    "liquid phase epitaxy",
+    "synthetic diamonds",
+    "gemstones",
+    "gemstone color impurities",
+    "ruby and sapphire",
+    "amethyst and citrine",
+    "graphite and diamond",
+    "crystal healing",
+    "placebo effect",
+    "Baltic amber teething necklace",
+    "etymology of crystal",
+    "etymology of nickname"
+  ],
+  "entities": [
+    {
+      "name": "Cueva de los Cristales",
+      "type": "place"
+    },
+    {
+      "name": "Smithsonian National Museum of Natural History",
+      "type": "place"
+    },
+    {
+      "name": "Czochralski method",
+      "type": "other"
+    },
+    {
+      "name": "Bridgman-Stockbarger method",
+      "type": "other"
+    },
+    {
+      "name": "Kasimir Fajans",
+      "type": "person"
+    },
+    {
+      "name": "Percy Bridgman",
+      "type": "person"
+    },
+    {
+      "name": "Donald Stockbarger",
+      "type": "person"
+    },
+    {
+      "name": "University of London",
+      "type": "organization"
+    },
+    {
+      "name": "Baltic amber",
+      "type": "other"
+    },
+    {
+      "name": "Fortress of Solitude",
+      "type": "work"
+    },
+    {
+      "name": "Iron Maiden",
+      "type": "organization"
+    },
+    {
+      "name": "Yes",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and what makes crystals special",
+      "summary": "The hosts introduce crystals as the most ordered structure, with a repeating atomic pattern. They discuss the word crystallize, common misconceptions about crystals, and the seven lattice shapes. Josh plugs his live shows and the End of the World series.",
+      "topics": [
+        "crystals",
+        "crystal structure",
+        "unit cell",
+        "seven crystal systems",
+        "crystallize"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Crystal structure, unit cells and lattices",
+      "summary": "Crystals are repeating three-dimensional atomic arrangements, not a type of object. Ions attract and clump into unit cells that build into a lattice. The hosts describe long-range and short-range order, with liquid crystals as an example of short-range order.",
+      "topics": [
+        "unit cell",
+        "crystal lattice",
+        "ions",
+        "long-range order",
+        "short-range order",
+        "liquid crystal"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Polycrystals, single crystals and strength",
+      "summary": "Gemstones are usually single crystals formed under ideal conditions, which are rare. Most natural material is polycrystalline, made of many crystals grown together. Polycrystals are generally not stronger than single crystals because their joints are weak points.",
+      "topics": [
+        "polycrystals",
+        "single crystal",
+        "gemstones",
+        "crystal strength"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Growing crystals at home and from solution",
+      "summary": "The hosts describe a home experiment growing salt crystals from a saturated hot salt solution on a string. They explain that cooling reduces the space between molecules, pushing dissolved solute into solid crystals, which can also occur underwater, in magma and in clouds.",
+      "topics": [
+        "growing crystals at home",
+        "salt crystal experiment",
+        "growth from solution",
+        "saturated solution",
+        "hydrothermal vents"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Vapor deposition and snowflakes",
+      "summary": "Crystals can also form from supersaturated gas through vapor deposition, the process that forms snowflakes. Solution growth is faster and can produce bigger crystals.",
+      "topics": [
+        "vapor deposition",
+        "snowflakes",
+        "supersaturation"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Growth from melt and crystal pulling",
+      "summary": "Growth from melt cools a liquid until it crystallizes. The hosts describe the Czochralski crystal pulling method, named for a Polish scientist, in which a seed crystal is dipped into molten material and slowly raised. Modern automation yields very large, pure crystals, such as silicon.",
+      "topics": [
+        "growth from melt",
+        "Czochralski method",
+        "crystal pulling",
+        "silicon crystals",
+        "seed crystal"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Bridgman-Stockbarger method and epitaxy",
+      "summary": "The Bridgman-Stockbarger method cools molten material in a cone-shaped tube from the tip upward to grow one large crystal. The hosts then cover epitaxy methods: molecular beam epitaxy, which is considered the best human-made method, chemical vapor deposition (used for synthetic diamonds), and liquid phase epitaxy.",
+      "topics": [
+        "Bridgman-Stockbarger method",
+        "molecular beam epitaxy",
+        "chemical vapor deposition",
+        "synthetic diamonds",
+        "liquid phase epitaxy",
+        "epitaxy"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Diamond trade names and personal aside",
+      "summary": "The hosts recall the nineties trade names diamonique, diamonoid, and cubic zirconia. Josh describes visiting the Smithsonian's Museum of Natural History to see its crystal and gem collection, including fluorescent minerals under black light.",
+      "topics": [
+        "diamonique",
+        "cubic zirconia",
+        "Smithsonian mineral collection",
+        "fluorescent minerals"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Gem colors, graphite vs diamond, and crystal names",
+      "summary": "Impurities give gemstones their color: chromium makes rubies red, while iron and titanium make sapphires blue. The word crystal comes from the Greek krystallos, meaning ice. Amethyst and citrine are both quartz, differing by formation conditions. Diamonds can slowly turn into graphite over time.",
+      "topics": [
+        "gemstone color",
+        "ruby and sapphire",
+        "amethyst and citrine",
+        "quartz",
+        "etymology of crystal",
+        "diamond to graphite"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:30",
+      "kind": "content",
+      "title": "Crystal shapes, the Cueva de los Cristales, and growth rates",
+      "summary": "Crystals can form other shapes such as plates, tables, and needles under nonideal conditions. The hosts mention the Cueva de los Cristales in Chihuahua, Mexico. Garnet can take ten million years to grow two centimeters.",
+      "topics": [
+        "crystal habit",
+        "Cueva de los Cristales",
+        "garnet growth",
+        "crystal shapes"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Crystal healing and the placebo effect",
+      "summary": "The hosts describe crystal healing, which places stones on chakra points, and note there is no scientific evidence for it or for ancient use. A University of London study found that people holding fake crystals reported the same effects as those holding real ones, and primed participants reported stronger effects, suggesting placebo. The hosts note that crystal healers are not licensed.",
+      "topics": [
+        "crystal healing",
+        "chakras",
+        "placebo effect",
+        "University of London study",
+        "pseudoscience",
+        "crystal healers licensing"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:30",
+      "kind": "content",
+      "title": "Baltic amber teething necklaces",
+      "summary": "The hosts discuss the belief that Baltic amber necklaces relieve teething. Succinic acid is said to be released by body heat, but this has not been shown. The necklaces pose choking and safety risks.",
+      "topics": [
+        "Baltic amber",
+        "teething necklaces",
+        "succinic acid",
+        "baby safety"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:48:20",
+      "kind": "content",
+      "title": "Carrying crystals and closing remarks",
+      "summary": "Chuck recalls carrying a crystal in his pocket as a fidget object rather than for energy. The hosts end the crystal discussion and advise not to skip medical care.",
+      "topics": [
+        "personal crystal use",
+        "medical advice"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: origin of the word nickname",
+      "summary": "Liz writes about the origin of nickname, which comes from Middle English ekename, meaning additional name, rather than from Nicholas. She also shares that her twins are due in June and that she and her husband Nick are expecting. The hosts sign off.",
+      "topics": [
+        "nickname etymology",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15753,
+    "output_tokens": 3495
+  }
+}

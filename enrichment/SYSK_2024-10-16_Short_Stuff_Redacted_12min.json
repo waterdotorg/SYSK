@@ -1,0 +1,219 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-10-16_Short_Stuff_Redacted_12min.txt",
+  "title": "Short Stuff: Redacted!",
+  "date": "2024-10-16",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-redacted",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5928fe0a-7607-496f-8ab2-b1f800dff03c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5928fe0a-7607-496f-8ab2-b1f800dff03c/transcript?format=TextWithTimestamps&t=1729069475",
+  "summary": "Short Stuff episode on redaction. The hosts open with Halloween banter and a plug for Judge John Hodgman's tour, then define redaction as removing or blacking out sensitive parts of documents. They cover reasons to redact under FOIA, HIPAA, FERPA, court orders, and civil-case discovery (trade secrets, privilege, unrelated CCs). They discuss old-school black marker redaction and the risk that originals can be held up to the light, the Amber Heard/Johnny Depp trial where a redacted original was visible on camera, and attorney Mark Zaid's advice to cut or delete text rather than trust software. They describe the Paul Manifort case, where a Guardian journalist, John Swain, copied text under a black rectangle drawn in Microsoft Word and pasted it out. They close with a guessing-from-redaction-length idea and the moral that redactors must do it right.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "redaction",
+    "document redaction",
+    "black marker redaction",
+    "blacked out documents",
+    "FOIA redaction",
+    "Freedom of Information Act",
+    "HIPAA",
+    "FERPA",
+    "legal discovery redaction",
+    "civil litigation",
+    "improper redaction",
+    "digital redaction failures",
+    "Johnny Depp Amber Heard trial",
+    "Paul Manifort case",
+    "Mueller report",
+    "John Swain",
+    "Mark Zaid",
+    "Judge John Hodgman",
+    "Halloween"
+  ],
+  "entities": [
+    {
+      "name": "Amber Heard",
+      "type": "person"
+    },
+    {
+      "name": "Johnny Depp",
+      "type": "person"
+    },
+    {
+      "name": "Paul Manafort",
+      "type": "person"
+    },
+    {
+      "name": "John Swain",
+      "type": "person"
+    },
+    {
+      "name": "Mark Zaid",
+      "type": "person"
+    },
+    {
+      "name": "John Hodgman",
+      "type": "person"
+    },
+    {
+      "name": "Jesse Thorn",
+      "type": "person"
+    },
+    {
+      "name": "Freedom of Information Act",
+      "type": "work"
+    },
+    {
+      "name": "HIPAA",
+      "type": "work"
+    },
+    {
+      "name": "Family Educational Rights and Privacy Act",
+      "type": "work"
+    },
+    {
+      "name": "Judge John Hodgman",
+      "type": "work"
+    },
+    {
+      "name": "The Guardian",
+      "type": "organization"
+    },
+    {
+      "name": "Mueller Report",
+      "type": "work"
+    },
+    {
+      "name": "CIA",
+      "type": "organization"
+    },
+    {
+      "name": "FBI",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:40",
+      "kind": "intro",
+      "title": "Halloween banter and Judge John Hodgman tour plug",
+      "summary": "The hosts joke about Spirit Halloween decorations and a scary toddler prop, then mention the Judge John Hodgman podcast tour.",
+      "topics": [
+        "Halloween",
+        "Spirit Halloween",
+        "Judge John Hodgman"
+      ]
+    },
+    {
+      "start": "00:01:40",
+      "end": "00:03:15",
+      "kind": "content",
+      "title": "Defining redaction and where it is used",
+      "summary": "Redaction is defined as removing or blacking out sensitive document content. Examples include FOIA requests, court orders, HIPAA medical privacy, and FERPA education records.",
+      "topics": [
+        "redaction definition",
+        "FOIA redaction",
+        "HIPAA",
+        "FERPA",
+        "court-ordered redaction"
+      ]
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "Redaction in civil legal discovery",
+      "summary": "In civil cases, discovery requires sharing documents, which may include copyrighted, trademarked, trade secret, unrelated-party, or privileged material that must be redacted. No single prescribed method exists, and errors can be costly.",
+      "topics": [
+        "civil litigation",
+        "legal discovery",
+        "trade secrets",
+        "attorney-client privilege",
+        "redaction rules"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:06:40",
+      "kind": "content",
+      "title": "Black marker redaction and the Amber Heard trial",
+      "summary": "Black marker on paper is the traditional method, and copies should be made because originals can be read against light. The hosts recall a TV broadcast of the Johnny Depp and Amber Heard trial where a redacted original was visible and its text was readable online.",
+      "topics": [
+        "black marker redaction",
+        "photocopying redacted documents",
+        "Johnny Depp Amber Heard trial",
+        "redaction mistakes"
+      ]
+    },
+    {
+      "start": "00:06:40",
+      "end": "00:08:04",
+      "kind": "content",
+      "title": "Electronic redaction and attorney Mark Zaid's method",
+      "summary": "Software overlays can be undone, so attorney Mark Zaid cuts out text with scissors or deletes it and types a replacement such as 'deleted by request of the CIA'.",
+      "topics": [
+        "digital redaction",
+        "electronic redaction software",
+        "Mark Zaid",
+        "scissors redaction",
+        "text deletion"
+      ]
+    },
+    {
+      "start": "00:08:04",
+      "end": "00:10:10",
+      "kind": "content",
+      "title": "Manafort case and the Guardian's copy-paste failure",
+      "summary": "In the Paul Manafort case, a Guardian journalist, John Swain, copied text hidden under a black rectangle drawn in Microsoft Word, because the underlying text was not removed. The hosts discuss how such errors come from inexperience.",
+      "topics": [
+        "Paul Manafort trial",
+        "Mueller investigation",
+        "John Swain",
+        "The Guardian",
+        "fake redaction",
+        "Microsoft Word shapes"
+      ]
+    },
+    {
+      "start": "00:10:10",
+      "end": "00:11:25",
+      "kind": "content",
+      "title": "Guessing redacted names from length",
+      "summary": "Chuck suggests that redacted text length can hint at the hidden content, so redactors might use longer blocks for short names. The hosts joke about made-up names.",
+      "topics": [
+        "redaction length clues",
+        "smart redaction",
+        "guessing redacted names"
+      ]
+    },
+    {
+      "start": "00:11:25",
+      "end": "00:12:13",
+      "kind": "content",
+      "title": "Consequences of bad redaction",
+      "summary": "Bad redaction can bring legal penalties, fines a client must pay, loss of trust, and reputational damage. The hosts conclude that redactors should do the job right.",
+      "topics": [
+        "redaction consequences",
+        "legal malpractice",
+        "reputation damage"
+      ]
+    },
+    {
+      "start": "00:12:13",
+      "end": "00:12:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck closes the short episode and gives the iHeartRadio credit line.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5716,
+    "output_tokens": 2278
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-11-14_How_the_Flu_Works_50min.txt",
+  "title": "How the Flu Works",
+  "date": "2017-11-14",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-flu-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/62032eb0-93ce-4f0f-8fa4-ae28006dead6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/62032eb0-93ce-4f0f-8fa4-ae28006dead6/transcript?format=TextWithTimestamps&t=1700543788",
+  "summary": "Josh and Chuck explain the flu (influenza): how it differs from a cold and from stomach bugs, the influenza virus types A, B, and C and subtypes like H5N1, how the virus hijacks respiratory cells and spreads, contagious window, symptoms, complications such as bacterial pneumonia and dehydration, high-risk groups, seasonal versus pandemic flu including the 1918 pandemic, antiviral drugs, and flu vaccines including egg-based production, mismatch problems, and universal vaccine research. The episode also includes a tour-date announcement, an off-topic Stranger Things and Stars Guard digression, and a listener mail segment about Alf Clausen and The Simpsons score.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "flu",
+    "influenza",
+    "seasonal flu",
+    "pandemic flu",
+    "1918 flu pandemic",
+    "influenza A B C",
+    "H5N1 bird flu",
+    "avian flu",
+    "flu virus subtypes",
+    "flu symptoms",
+    "flu vs cold",
+    "flu complications",
+    "bacterial pneumonia",
+    "flu transmission",
+    "hand washing",
+    "flu contagious period",
+    "antiviral drugs",
+    "flu vaccine",
+    "flu shot effectiveness",
+    "universal flu vaccine",
+    "egg-based vaccine production",
+    "live attenuated nasal flu vaccine",
+    "high-risk flu groups",
+    "Richard Shope",
+    "listener mail",
+    "Alf Clausen"
+  ],
+  "entities": [
+    {
+      "name": "Centers for Disease Control and Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Richard Shope",
+      "type": "person"
+    },
+    {
+      "name": "1918 flu pandemic",
+      "type": "event"
+    },
+    {
+      "name": "H5N1",
+      "type": "other"
+    },
+    {
+      "name": "Tamiflu",
+      "type": "other"
+    },
+    {
+      "name": "Relenza",
+      "type": "other"
+    },
+    {
+      "name": "Flumadine",
+      "type": "other"
+    },
+    {
+      "name": "Zicam",
+      "type": "other"
+    },
+    {
+      "name": "Alf Clausen",
+      "type": "person"
+    },
+    {
+      "name": "Danny Elfman",
+      "type": "person"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    },
+    {
+      "name": "Stranger Things",
+      "type": "work"
+    },
+    {
+      "name": "Poltergeist",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Tour dates and opening banter",
+      "summary": "Josh announces January tour dates in Seattle and Portland, then the hosts joke about having the flu and introduce the topic.",
+      "topics": [
+        "tour dates",
+        "flu introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Flu statistics and seasonality",
+      "summary": "The hosts cite CDC figures on how many Americans get the flu each year, annual US deaths, worldwide death estimates from the WHO, and the seasonal flu timing in the Northern and Southern Hemispheres. They also discuss the origin of the name influenza.",
+      "topics": [
+        "flu statistics",
+        "flu deaths",
+        "flu season",
+        "influenza name origin"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Stomach flu versus influenza",
+      "summary": "Hosts explain that the flu is a respiratory illness, not a stomach illness, and share anecdotes about stomach bugs.",
+      "topics": [
+        "stomach flu",
+        "respiratory illness",
+        "gastroenteritis"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "History and types of influenza virus",
+      "summary": "Richard Shope's work with swine led to isolating flu virus. Flu is classified as types A, B, and C, with A the most common and severe, B milder and mostly human, and C rarer. Type A infects many species. Subtypes are named by H and N surface proteins.",
+      "topics": [
+        "Richard Shope",
+        "influenza A B C",
+        "flu subtypes",
+        "H and N proteins",
+        "avian flu strains"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "How the virus infects cells and spreads",
+      "summary": "The virus binds to respiratory tract cells, injects its RNA, hijacks the cell to make copies, and the cell ruptures. Infectiousness begins about a day before symptoms and can last up to seven days after, longer in children. Hand washing and staying home are recommended.",
+      "topics": [
+        "virus replication",
+        "contagious period",
+        "flu transmission",
+        "hand washing",
+        "staying home when sick"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:24:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Flu symptoms and complications",
+      "summary": "Symptoms resemble a cold but fever and achiness are key differences. Complications include bacterial pneumonia following the immune response, dehydration, ear and sinus infections, and worsening of asthma, diabetes, and heart conditions. A digression covers the Stars Guard actors and Poltergeist.",
+      "topics": [
+        "flu symptoms",
+        "bacterial pneumonia",
+        "flu complications",
+        "dehydration",
+        "heart conditions and flu",
+        "cold vs flu"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Spread, animal origins, and pandemic flu",
+      "summary": "Kids spread flu in homes and schools. Flu often originates in birds, with reassortment in pigs historically; H5N1 avian flu has a high mortality rate but rarely jumps to humans. Pandemic flu is a novel strain. The 1918 pandemic killed an estimated 20 to 50 million people worldwide, many young and healthy adults.",
+      "topics": [
+        "flu transmission in children",
+        "reassortment",
+        "H5N1 bird flu",
+        "1918 flu pandemic",
+        "pandemic vs seasonal flu"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "High-risk groups and antiviral drugs",
+      "summary": "High-risk groups include children under two, seniors, people with chronic conditions, pregnant people, and healthcare and nursing home workers. Flu is treated with rest, not antibiotics; antiviral drugs such as Tamiflu, Relenza, and Flumadine exist, but overuse may drive resistance. A Zicam anecdote is included.",
+      "topics": [
+        "high-risk groups",
+        "antiviral drugs",
+        "Tamiflu",
+        "antibiotic resistance",
+        "Zicam"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Flu vaccines and universal vaccine research",
+      "summary": "Flu shots are recommended, especially around infants and family members. Vaccines are predicted each year and take about two weeks to work. Nasal live attenuated vaccine was for kids over five and is no longer recommended. Egg-based production may mutate the virus, and vaccine effectiveness varies, as in Australia's H3 season. Researchers seek a universal vaccine targeting stable parts of the virus.",
+      "topics": [
+        "flu vaccine",
+        "flu shot timing",
+        "egg-based vaccine",
+        "vaccine effectiveness",
+        "universal flu vaccine",
+        "live attenuated nasal spray"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Alf Clausen and The Simpsons",
+      "summary": "A listener points out that Alf Clausen, not Danny Elfman, composed and conducted the Simpsons score for 27 years and deserves credit.",
+      "topics": [
+        "listener mail",
+        "Alf Clausen",
+        "The Simpsons score",
+        "Danny Elfman"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16176,
+    "output_tokens": 2780
+  }
+}

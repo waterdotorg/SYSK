@@ -1,0 +1,122 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-05-15_How_Evolution_in_Isolation_Works_5min.txt",
+  "title": "How Evolution in Isolation Works",
+  "date": "2008-05-15",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-evolution-in-isolation-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ad0a58b3-ca19-4696-813a-ae2800c4637c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ad0a58b3-ca19-4696-813a-ae2800c4637c/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Hosts discuss how animals evolve in isolation, starting from the theory of evolution and common ancestry. They cover speciation, using black bears and polar bears as the example of parapatric speciation, and reproductive isolation as the point where speciation is complete. They then turn to evolutionary bottlenecks, including a genetic defect in a small Amish community in Pennsylvania, and to iguanas displaced by Hurricane Marilyn that floated from Guadeloupe to Anguilla, presented as a natural experiment testing the island rule. The episode opens with a sponsor line for the 2012 Camry and closes with a pointer to HowStuffWorks.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "evolution in isolation",
+    "speciation",
+    "parapatric speciation",
+    "reproductive isolation",
+    "evolutionary bottleneck",
+    "polar bear evolution",
+    "black bear",
+    "Amish microcephaly",
+    "genetic defect",
+    "Hurricane Marilyn iguanas",
+    "Anguilla iguanas",
+    "Guadeloupe",
+    "island rule",
+    "natural experiment",
+    "natural selection",
+    "common ancestry",
+    "Camry ad"
+  ],
+  "entities": [
+    {
+      "name": "polar bear",
+      "type": "other"
+    },
+    {
+      "name": "black bear",
+      "type": "other"
+    },
+    {
+      "name": "Amish community in Pennsylvania",
+      "type": "organization"
+    },
+    {
+      "name": "Hurricane Marilyn",
+      "type": "event"
+    },
+    {
+      "name": "Guadeloupe",
+      "type": "place"
+    },
+    {
+      "name": "Anguilla",
+      "type": "place"
+    },
+    {
+      "name": "iguanas",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "ad",
+      "title": "Opening sponsor read and greeting",
+      "summary": "A Camry sponsor line opens the episode, followed by the hosts' greeting and introduction of the topic.",
+      "topics": [
+        "Camry ad",
+        "intro"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:02:00",
+      "kind": "content",
+      "title": "Speciation and reproductive isolation",
+      "summary": "The hosts define speciation as one species becoming two or more. They explain parapatric speciation using black bears and polar bears, then say speciation is complete only after reproductive isolation.",
+      "topics": [
+        "speciation",
+        "parapatric speciation",
+        "reproductive isolation",
+        "polar bear evolution",
+        "black bear"
+      ]
+    },
+    {
+      "start": "00:02:00",
+      "end": "00:03:05",
+      "kind": "content",
+      "title": "Evolutionary bottlenecks and the Amish",
+      "summary": "The hosts describe an evolutionary bottleneck as a small group cut off from the main population, which can spread genetic defects. They cite a group of Amish in Pennsylvania with smaller-than-normal brains (microcephaly), a trait that proved fatal.",
+      "topics": [
+        "evolutionary bottleneck",
+        "genetic defect",
+        "Amish microcephaly",
+        "inbreeding"
+      ]
+    },
+    {
+      "start": "00:03:05",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Iguanas displaced by Hurricane Marilyn",
+      "summary": "The hosts describe iguanas that Hurricane Marilyn carried from Guadeloupe to Anguilla, where there had been none before. They present it as a natural experiment for testing bottlenecks and the island rule on whether island iguanas grow larger or smaller. The episode closes with a sign-off pointing to HowStuffWorks.",
+      "topics": [
+        "Hurricane Marilyn iguanas",
+        "Guadeloupe",
+        "Anguilla",
+        "island rule",
+        "natural experiment",
+        "geographic isolation"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3073,
+    "output_tokens": 1323
+  }
+}

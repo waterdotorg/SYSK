@@ -1,0 +1,410 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-06-27_SYSKs_Summer_Movie_Playlist_How_Steadicams_Work_35min.txt",
+  "title": "SYSK’s Summer Movie Playlist: How Steadicams Work",
+  "date": "2025-06-27",
+  "duration": "35 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-s-summer-movie-playlist-how-steadicams-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b48ac7f-5496-42a2-8c13-b3090180be7e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0b48ac7f-5496-42a2-8c13-b3090180be7e/transcript?format=TextWithTimestamps&t=1751067443",
+  "summary": "Rerun of the 2016 Stuff You Should Know episode on the Steadicam, released in the 2025 summer movie playlist. The hosts cover the history of the Steadicam, invented by Garrett Brown, who demonstrated it with a sizzle reel of previously impossible shots that drew attention in Hollywood, including a note from Stanley Kubrick about a shadow in the reel. Early films using it include Bound for Glory, Rocky, and Marathon Man, and later The Shining, Goodfellas, and Return of the Jedi. The episode explains the mechanics: a vest, a spring-and-pulley arm, and a sled with a gimbal that moves the center of gravity onto the pole, plus high and low mode. It also covers the cost and skill of operators, consumer stabilizers, and Garrett Brown's Skycam. The episode ends with listener mail from a Christian listener.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Steadicams Work",
+  "topics": [
+    "Steadicam",
+    "Steadycam",
+    "Garrett Brown",
+    "camera stabilizer",
+    "film history",
+    "dolly",
+    "dolly grip",
+    "Rocky",
+    "The Shining",
+    "Stanley Kubrick",
+    "Goodfellas",
+    "Return of the Jedi",
+    "Bound for Glory",
+    "Marathon Man",
+    "Skycam",
+    "gimbal",
+    "center of gravity",
+    "moment of inertia",
+    "high mode",
+    "low mode",
+    "Tiffen",
+    "Glidecam",
+    "Varizoom",
+    "consumer gimbal",
+    "smartphone stabilizer",
+    "Eurovision",
+    "Garrett Brown sizzle reel",
+    "handheld camera",
+    "camera operator"
+  ],
+  "entities": [
+    {
+      "name": "Garrett Brown",
+      "type": "person"
+    },
+    {
+      "name": "Stanley Kubrick",
+      "type": "person"
+    },
+    {
+      "name": "John G. Avildsen",
+      "type": "person"
+    },
+    {
+      "name": "Steadicam",
+      "type": "other"
+    },
+    {
+      "name": "Rocky",
+      "type": "work"
+    },
+    {
+      "name": "The Shining",
+      "type": "work"
+    },
+    {
+      "name": "Goodfellas",
+      "type": "work"
+    },
+    {
+      "name": "Return of the Jedi",
+      "type": "work"
+    },
+    {
+      "name": "Bound for Glory",
+      "type": "work"
+    },
+    {
+      "name": "Marathon Man",
+      "type": "work"
+    },
+    {
+      "name": "Skycam",
+      "type": "other"
+    },
+    {
+      "name": "Tiffen",
+      "type": "organization"
+    },
+    {
+      "name": "Glidecam",
+      "type": "organization"
+    },
+    {
+      "name": "Varizoom",
+      "type": "organization"
+    },
+    {
+      "name": "Chapman",
+      "type": "organization"
+    },
+    {
+      "name": "Fisher",
+      "type": "organization"
+    },
+    {
+      "name": "Eurovision",
+      "type": "event"
+    },
+    {
+      "name": "Philadelphia Museum of Art",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:39",
+      "kind": "intro",
+      "title": "Summer movie playlist intro",
+      "summary": "Chuck introduces the episode as part of the summer movie playlist, a rerun from June 2016 about the Steadicam.",
+      "topics": [
+        "summer movie playlist",
+        "Steadicam"
+      ]
+    },
+    {
+      "start": "00:00:39",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and film industry experience",
+      "summary": "The hosts joke about Chuck's hat and patches, then discuss whether they have worked with Steadicams on set and how skilled Steadicam operators are.",
+      "topics": [
+        "Steadicam operator",
+        "camera operator skill",
+        "film crew"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "Pre-Steadicam filming limits",
+      "summary": "Chuck notes Steadicam was commercially available the year he was born. The hosts explain that before it, impossible shots like stairs and rough terrain were hard to film with a dolly, and handheld shots were seen as avant garde.",
+      "topics": [
+        "film history",
+        "handheld camera",
+        "avant garde filmmaking",
+        "shaky cam"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:06:10",
+      "kind": "content",
+      "title": "Garrett Brown and the human balance system",
+      "summary": "The hosts introduce Garrett Brown, who was working on TV commercials and Sesame Street in Philadelphia. They discuss how the human inner ear and retina offset motion, which the Steadicam aimed to reproduce.",
+      "topics": [
+        "Garrett Brown",
+        "human vision stabilization",
+        "inner ear",
+        "Sesame Street"
+      ]
+    },
+    {
+      "start": "00:06:10",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Dollies and the Brown Stabilizer",
+      "summary": "The hosts explain how a dolly works and its limits on rough terrain and stairs. Brown set out to invent something better, first calling it the Brown Stabilizer before renaming it Steadicam.",
+      "topics": [
+        "dolly",
+        "dolly grip",
+        "Brown Stabilizer",
+        "Steadicam history"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:20",
+      "kind": "content",
+      "title": "Sizzle reel and Kubrick's shadow warning",
+      "summary": "Brown made a sizzle reel of thirty impossible shots without showing how they were done, and it spread through Hollywood. Stanley Kubrick warned him that shadows in two shots revealed the rig, and Brown removed them in a second edition.",
+      "topics": [
+        "sizzle reel",
+        "Stanley Kubrick",
+        "viral video history",
+        "Garrett Brown demo reel"
+      ]
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:12:20",
+      "kind": "content",
+      "title": "Rocky steps shot and early Steadicam films",
+      "summary": "The Philadelphia Museum of Art steps shot from the reel inspired John Avildsen to use it in Rocky. The hosts note Bound for Glory and Marathon Man as early Steadicam films, and Brown's 1977 patent and 1978 Academy Award.",
+      "topics": [
+        "Rocky",
+        "John G. Avildsen",
+        "Bound for Glory",
+        "Marathon Man",
+        "Academy Award",
+        "Steadicam patent"
+      ]
+    },
+    {
+      "start": "00:12:20",
+      "end": "00:14:15",
+      "kind": "content",
+      "title": "Hosts on Rocky and other movies",
+      "summary": "The hosts discuss Rocky as a love story and the later sequels, and touch on Martin Scorsese's new gangster film with De Niro, Pacino and Pesci, and Jack Nicholson's performance in The Wolf of Wall Street.",
+      "topics": [
+        "Rocky sequels",
+        "Scorsese",
+        "The Wolf of Wall Street",
+        "film discussion"
+      ]
+    },
+    {
+      "start": "00:14:15",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "How the Steadicam works: vest, arm, and sled",
+      "summary": "The hosts describe the three parts of the Steadicam: a vest, a spring arm attached to it, and a sled holding the camera. The arm uses springs and a cable and pulley tension system to offset the camera's weight, and the camera can be in high or low mode. The hosts mention a homemade version built by Josh's brother.",
+      "topics": [
+        "Steadicam mechanics",
+        "spring arm",
+        "vest",
+        "sled",
+        "high mode",
+        "low mode",
+        "homemade Steadicam"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Gimbal, center of gravity, and moment of inertia",
+      "summary": "The hosts explain the gimbal, how Brown spread the camera's mass along the pole to move the center of gravity to the pole, and how moment of inertia affects steadiness. They compare it to balancing a broomstick on a finger and say the arm isolates the operator's movement.",
+      "topics": [
+        "gimbal",
+        "center of gravity",
+        "moment of inertia",
+        "gyroscope",
+        "balance",
+        "camera stabilization physics"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:22:48",
+      "kind": "content",
+      "title": "Weight changes and operator fatigue",
+      "summary": "The hosts note that the balance can shift during filming as film or the digital card changes. They describe Steadicam operators taking breaks because the rig is heavy on the chest.",
+      "topics": [
+        "operator fatigue",
+        "balance shift during filming",
+        "film versus digital"
+      ]
+    },
+    {
+      "start": "00:22:48",
+      "end": "00:24:02",
+      "kind": "content",
+      "title": "Eurovision Steadicam shot",
+      "summary": "Chuck describes a Eurovision shot in which a Steadicam operator on a Segway circled a singer, and the hosts comment on the video quality.",
+      "topics": [
+        "Eurovision",
+        "Steadicam shot",
+        "Segway",
+        "live broadcast filming"
+      ]
+    },
+    {
+      "start": "00:24:02",
+      "end": "00:24:16",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:24:16",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "The Shining and Kubrick's use of Steadicam",
+      "summary": "Kubrick was a fan and worked with Brown on The Shining, with the two clashing on set. The hosts discuss the tricycle hallway shots and how they might have been filmed.",
+      "topics": [
+        "The Shining",
+        "Stanley Kubrick",
+        "tricycle shot",
+        "Steadicam on set"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:27:26",
+      "kind": "content",
+      "title": "Goodfellas and lighting long shots",
+      "summary": "The hosts discuss the Copacabana single take in Goodfellas, which follows characters through the back halls and kitchen. They note the difficulty of lighting such a long continuous shot.",
+      "topics": [
+        "Goodfellas",
+        "long take",
+        "Copacabana shot",
+        "lighting"
+      ]
+    },
+    {
+      "start": "00:27:26",
+      "end": "00:28:12",
+      "kind": "content",
+      "title": "Return of the Jedi speeder bike shot",
+      "summary": "The speeder bike chase in Return of the Jedi was filmed with Steadicam, with Brown walking through Redwood National Park and the footage sped up.",
+      "topics": [
+        "Return of the Jedi",
+        "speeder bike chase",
+        "Redwood National Park",
+        "sped-up footage"
+      ]
+    },
+    {
+      "start": "00:28:12",
+      "end": "00:29:13",
+      "kind": "content",
+      "title": "Speeding up footage and consumer stabilizers",
+      "summary": "Chuck explains that sped-up film exaggerates small movements, so smooth Steadicam footage was needed. Josh notes that consumer Steadicam-style stabilizers are now affordable.",
+      "topics": [
+        "sped-up footage",
+        "consumer stabilizer",
+        "DIY Steadicam"
+      ]
+    },
+    {
+      "start": "00:29:13",
+      "end": "00:30:49",
+      "kind": "content",
+      "title": "Consumer stabilizers, gimbals, and drones",
+      "summary": "The hosts mention a GoPro stabilizer and the Smoothie for iPhone, along with gimbal-based drone stabilizers. They joke about a cereal mascot, then turn to the Steadicam brand.",
+      "topics": [
+        "GoPro stabilizer",
+        "iPhone stabilizer",
+        "drone gimbal",
+        "consumer camera stabilizers"
+      ]
+    },
+    {
+      "start": "00:30:49",
+      "end": "00:32:14",
+      "kind": "content",
+      "title": "Steadicam manufacturers and Skycam",
+      "summary": "Tiffen makes Steadicam. The hosts mention competitors Glidecam and Varizoom, dolly makers Chapman and Fisher, and Garrett Brown's later invention, the Skycam.",
+      "topics": [
+        "Tiffen",
+        "Glidecam",
+        "Varizoom",
+        "Chapman dolly",
+        "Fisher dolly",
+        "Skycam",
+        "sports cameras"
+      ]
+    },
+    {
+      "start": "00:32:14",
+      "end": "00:33:12",
+      "kind": "content",
+      "title": "Camera positions: missionary and Don Juan",
+      "summary": "Josh describes film set slang for camera positions, which he calls missionary and Don Juan. Chuck signs off with the HowStuffWorks search suggestion.",
+      "topics": [
+        "film set slang",
+        "camera positions",
+        "Don Juan shot"
+      ]
+    },
+    {
+      "start": "00:33:12",
+      "end": "00:34:02",
+      "kind": "listener_mail",
+      "title": "Listener mail: encouragement from a Christian listener",
+      "summary": "Dane in Minnesota writes that he appreciates how the show treats religious topics, including Easter traditions and satanic panic.",
+      "topics": [
+        "listener mail",
+        "Easter",
+        "religion",
+        "satanic panic"
+      ]
+    },
+    {
+      "start": "00:34:02",
+      "end": "00:35:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck gives social media and email contact info and the website. Josh closes by pointing to HowStuffWorks for more topics.",
+      "topics": [
+        "sign-off",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15570,
+    "output_tokens": 4401
+  }
+}

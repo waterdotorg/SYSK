@@ -1,0 +1,340 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-04-11_How_the_Electric_Chair_Works_60min.txt",
+  "title": "How the Electric Chair Works",
+  "date": "2019-04-11",
+  "duration": "60 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-electric-chair-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1641662d-a4a9-4526-997e-ae28004ed3ca/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1641662d-a4a9-4526-997e-ae28004ed3ca/transcript?format=TextWithTimestamps&t=1700543698",
+  "summary": "Hosts Josh Clark and Chuck Bryant explore the electric chair: the origin of the word \"electrocute\" during the War of Currents, how the chair works (metal head electrode, saline sponge, leg electrode, straps, voltage vs. amperage), state protocols and the handful of states still allowing it, the New York electricians and executioner stories, and the history that led from hanging (including botched hangings and Roxana Druse's execution) to Alfred Southwick and George Fell's Electric Death Commission, their dog experiments, and Harold Brown's work for Edison. It covers William Kemmler, the first electrocution at Auburn in 1890, Willie Francis's two attempted executions in Louisiana, a list of botched electrocutions in Indiana, Alabama, Georgia and Florida, and the shift back toward the chair in Tennessee in 2018. The episode closes with listener mail about Holiday Inn hotels with pools and saunas in the Toledo area.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "electric chair",
+    "electrocution",
+    "capital punishment",
+    "death penalty",
+    "War of Currents",
+    "Thomas Edison",
+    "Harold Brown",
+    "George Westinghouse",
+    "Alfred Southwick",
+    "George Fell",
+    "Electric Death Commission",
+    "Jerry Commission",
+    "hanging",
+    "botched execution",
+    "William Kemmler",
+    "Willie Francis",
+    "Roxana Druse",
+    "old Sparky",
+    "lethal injection",
+    "execution protocol",
+    "Supreme Court cruel and unusual punishment",
+    "electrocution history",
+    "Fred Leuchter",
+    "Mr. Death documentary",
+    "Tennessee execution 2018",
+    "execution statistics"
+  ],
+  "entities": [
+    {
+      "name": "Electric chair",
+      "type": "other"
+    },
+    {
+      "name": "War of Currents",
+      "type": "event"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "George Westinghouse",
+      "type": "person"
+    },
+    {
+      "name": "Harold Brown",
+      "type": "person"
+    },
+    {
+      "name": "Alfred P. Southwick",
+      "type": "person"
+    },
+    {
+      "name": "George Fell",
+      "type": "person"
+    },
+    {
+      "name": "William Kemmler",
+      "type": "person"
+    },
+    {
+      "name": "Willie Francis",
+      "type": "person"
+    },
+    {
+      "name": "Roxana Druse",
+      "type": "person"
+    },
+    {
+      "name": "Fred Leuchter",
+      "type": "person"
+    },
+    {
+      "name": "Auburn State Prison",
+      "type": "place"
+    },
+    {
+      "name": "Sing Sing",
+      "type": "place"
+    },
+    {
+      "name": "Louisiana",
+      "type": "place"
+    },
+    {
+      "name": "Tennessee",
+      "type": "place"
+    },
+    {
+      "name": "Jerry Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Electric Death Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Mr. Death",
+      "type": "work"
+    },
+    {
+      "name": "Glass v. Louisiana",
+      "type": "event"
+    },
+    {
+      "name": "Tom Ketchum",
+      "type": "person"
+    },
+    {
+      "name": "Edmund Zagorski",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and the word electrocute",
+      "summary": "Josh and Chuck open with the origin of the word electrocute (electric plus execution) coined during the War of Currents, joke about it, and preview the grim topic.",
+      "topics": [
+        "electrocute etymology",
+        "War of Currents",
+        "electrocution word origin"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Electric chair basics and history",
+      "summary": "The hosts define electrocution as state execution by electricity, note the electric chair is an American invention used from the 1880s, mention the Philippines' use, and discuss public attitudes including the Ted Bundy execution in Florida.",
+      "topics": [
+        "electric chair history",
+        "electrocution definition",
+        "Philippines electric chair",
+        "Ted Bundy execution",
+        "death penalty opinion"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "How the electrodes, sponge and chair work",
+      "summary": "A metal cap electrode is placed on the shaved head over a saline-soaked natural sponge, with a second electrode on the leg or other body point. Straps hold the prisoner, whose muscles contract violently under current. The chair is typically heavy oak, sometimes built by prison labor, and nicknamed names like old Sparky.",
+      "topics": [
+        "electrode placement",
+        "saline sponge",
+        "electric chair mechanics",
+        "old Sparky",
+        "muscle contraction during electrocution"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "State protocols and the states still using the chair",
+      "summary": "Nine states still permit electrocution as an option, listed as Alabama, Arkansas, Florida, Kentucky, Mississippi, South Carolina, Tennessee, Virginia and Oklahoma. The hosts read the 2018 Tennessee protocol used for Edmund Zagorski, which involves two timed jolts of 50 volts and a doctor check.",
+      "topics": [
+        "execution protocol",
+        "Tennessee protocol",
+        "states that use electric chair",
+        "Edmund Zagorski",
+        "execution witnesses"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Volts, amps and volunteer executioners",
+      "summary": "The hosts explain voltage versus amperage and the goal of a quick, painless death. They discuss the unverified dummy-switch idea, the volunteer executioners called electricians, and New York's prolific electricians, including one who executed seven men in one day at Sing Sing and later took his own life.",
+      "topics": [
+        "voltage vs amperage",
+        "volunteer executioner",
+        "dummy switch myth",
+        "Sing Sing electrician",
+        "executioners"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Claims about heart and brain and the Fred Leuchter documentary",
+      "summary": "The hosts discuss the 1890s research by Jean-Louis Prevost and Frederic Batelli on heart defibrillation, the two-jolt procedure meant to stop the brain and then the heart, the claim of near-instant unconsciousness, and the dubious source for it, Fred Leuchter, featured in the Errol Morris documentary Mr. Death. They note that autopsies show a cooked brain, so instant death is unknown.",
+      "topics": [
+        "two-jolt procedure",
+        "heart fibrillation",
+        "Fred Leuchter",
+        "Mr. Death Errol Morris",
+        "Prevost and Batelli",
+        "brain autopsy"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Supreme Court dissent and the botched hanging problem",
+      "summary": "Justice William Brennan's dissent in Glass v. Louisiana describes a gruesome electrocution; the Supreme Court declined review. The hosts then cover hanging, including botched hangings such as Tom Ketchum's and Eva Duggan's, and public pressure in New York to find a better method.",
+      "topics": [
+        "Glass v. Louisiana",
+        "William Brennan dissent",
+        "cruel and unusual punishment",
+        "botched hanging",
+        "Tom Ketchum",
+        "hanging history"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Roxana Druse, the Jerry Commission and the Electric Death Commission",
+      "summary": "Roxana Druse's slow hanging by suspension leads New York to form the Jerry Commission, which reviewed 34 execution methods and found none better than hanging. Alfred Southwick proposed electricity, inspired partly by a drunk man's electrocution. The sub-commission called the Electric Death Commission was formed with George Fell.",
+      "topics": [
+        "Roxana Druse",
+        "suspension hanging",
+        "Jerry Commission",
+        "Electric Death Commission",
+        "Alfred Southwick",
+        "George Fell",
+        "New York execution reform"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Dog experiments, Harold Brown and the War of Currents",
+      "summary": "Southwick and Fell experimented on stray dogs supplied by the Buffalo SPCA. Harold Brown, who secretly worked for Edison, staged public electrocutions to make AC power look dangerous, and Westinghouse refused to sell generators for the chair, so secondhand ones were bought. The hosts recap the AC/DC war between Edison and Westinghouse.",
+      "topics": [
+        "dog electrocution experiments",
+        "Buffalo SPCA",
+        "Harold Brown Edison",
+        "AC vs DC war",
+        "Westinghouse generators"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:03:00",
+      "kind": "content",
+      "title": "William Kemmler and the first electrocution in 1890",
+      "summary": "William Kemmler, convicted of killing his common-law wife with an axe, became the first person electrocuted by the state at Auburn State Prison. He had challenged the chair's constitutionality, and the Supreme Court rejected the challenge. The first jolt lasted seventeen seconds, the execution was botched, and witnesses were reportedly disturbed.",
+      "topics": [
+        "William Kemmler",
+        "Auburn State Prison",
+        "first electrocution",
+        "Supreme Court electric chair challenge",
+        "botched first execution"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:10:00",
+      "kind": "content",
+      "title": "Willie Francis, botched executions and state statistics",
+      "summary": "Willie Francis survived a botched electrocution in Louisiana in 1944 and was executed about a year later. The hosts cite statistics showing the chair's botch rate lower than lethal injection's, discuss the medical profession's role, and list botched cases in Indiana (William Vandiver), Alabama (Horace Duncan), Georgia (Alpha Otis Stevens), and Florida (Joseph Francis Tafaro, Pedro Medina, Allen Lee Davis).",
+      "topics": [
+        "Willie Francis",
+        "Gruesome Gertie",
+        "botched electrocution statistics",
+        "Florida electrocutions 1990s",
+        "Allen Lee Davis",
+        "Alpha Otis Stevens",
+        "Horace Duncan",
+        "William Vandiver"
+      ]
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:16:00",
+      "kind": "content",
+      "title": "Texas executions, return to the chair and buying an electric chair",
+      "summary": "The hosts compare execution totals, with Texas leading and Georgia second since 1930. They discuss Austin Sarat's argument that the 2018 Tennessee choices of the chair signal a legitimacy crisis for the death penalty, and mention that Tennessee's old Sparky sold at auction in 2012.",
+      "topics": [
+        "Texas executions",
+        "execution totals by state",
+        "Austin Sarat",
+        "return to electric chair",
+        "old Sparky auction"
+      ]
+    },
+    {
+      "start": "01:16:00",
+      "end": "01:18:00",
+      "kind": "outro",
+      "title": "Sign-off and Josh's pick",
+      "summary": "The hosts note this is a grim episode, Josh's pick, and the sign-off wraps up before listener mail.",
+      "topics": [
+        "episode sign-off"
+      ]
+    },
+    {
+      "start": "01:18:00",
+      "end": "01:22:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Holiday Inn saunas and pools",
+      "summary": "A listener writes about the Holiday Inn French Quarter near Toledo, which had multiple pools, a hot tub and a sauna and is closing, plus an abandoned Holiday Inn near Southwyck Mall. The hosts respond with reminiscences.",
+      "topics": [
+        "listener mail",
+        "Holiday Inn Toledo",
+        "saunas",
+        "abandoned hotels"
+      ]
+    },
+    {
+      "start": "01:22:00",
+      "end": "01:23:00",
+      "kind": "outro",
+      "title": "Closing and contact information",
+      "summary": "Chuck gives contact information for listeners to get in touch via the show website and email.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18940,
+    "output_tokens": 4170
+  }
+}

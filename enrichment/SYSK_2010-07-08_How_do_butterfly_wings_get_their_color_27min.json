@@ -1,0 +1,196 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-07-08_How_do_butterfly_wings_get_their_color_27min.txt",
+  "title": "How do butterfly wings get their color?",
+  "date": "2010-07-08",
+  "duration": "27 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-do-butterfly-wings-get-their-color",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7ebe84c0-5c60-4eaa-a13d-ae2800b628c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7ebe84c0-5c60-4eaa-a13d-ae2800b628c8/transcript?format=TextWithTimestamps&t=1700543960",
+  "summary": "Josh and Chuck explain why butterfly wings are iridescent and colored. They distinguish pigment color (absorbs some wavelengths, same from every angle) from structural iridescence (color that shifts with viewing angle), using thin-film interference as the model: light reflecting off stacked transparent layers amplifies when the waves are in phase (constructive interference). A bubble has two reflecting surfaces, while butterfly scales have many stacked layers (a Christmas-tree-like cuticle), so wings look more striking. The blue morpho's roughly 200 nm spacing favors blue light (about 400 nm wavelength). They touch on butterflies using UV markings, basking to warm up, the fragility of wing scales and veins, and how moths share the same order (Lepidoptera) but are duller. The episode also includes a T-shirt contest winners announcement and a listener letter from a GED teacher in Virginia who uses the podcast with inmate students.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "butterfly wings",
+    "iridescence",
+    "structural color",
+    "pigment",
+    "thin-film interference",
+    "constructive interference",
+    "butterfly scales",
+    "blue morpho butterfly",
+    "oil slick colors",
+    "soap bubble colors",
+    "peacock feathers",
+    "moths vs butterflies",
+    "Lepidoptera",
+    "UV vision in butterflies",
+    "monarch butterfly migration",
+    "light wavelength and color",
+    "listener mail",
+    "prison education",
+    "T-shirt contest winners"
+  ],
+  "entities": [
+    {
+      "name": "Butterfly",
+      "type": "other"
+    },
+    {
+      "name": "Blue morpho butterfly",
+      "type": "other"
+    },
+    {
+      "name": "Monarch butterfly",
+      "type": "other"
+    },
+    {
+      "name": "Moth",
+      "type": "other"
+    },
+    {
+      "name": "Lepidoptera",
+      "type": "other"
+    },
+    {
+      "name": "Peacock",
+      "type": "other"
+    },
+    {
+      "name": "Robert Boyle",
+      "type": "person"
+    },
+    {
+      "name": "Isaac Newton",
+      "type": "person"
+    },
+    {
+      "name": "Oil slick",
+      "type": "other"
+    },
+    {
+      "name": "Pink Floyd",
+      "type": "work"
+    },
+    {
+      "name": "Maria in Amelia, Virginia",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and oil spill tie-in",
+      "summary": "Josh and Chuck chat, then Josh links the oil spill's iridescent sheen to butterfly wings and introduces the topic of iridescence.",
+      "topics": [
+        "iridescence",
+        "oil spill sheen",
+        "show opening"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Pigment versus structural color",
+      "summary": "Pigments absorb some wavelengths and reflect others, so they look the same from every angle. Examples include chlorophyll, melanin, and albinism. Iridescence, by contrast, changes with the viewing angle. Other iridescent examples include Japanese beetles, mother-of-pearl, fish scales, bubbles, and peacock feathers.",
+      "topics": [
+        "pigment",
+        "ordinary color",
+        "chlorophyll",
+        "melanin",
+        "iridescence vs pigment",
+        "peacock feathers"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Thin-film interference and the wave analogy",
+      "summary": "Light reflecting off the top and bottom surfaces of a transparent film, such as an oil slick or bubble, can interfere. When the waves are in phase, constructive interference amplifies the reflected color. The hosts use a beep-boop wave analogy to illustrate this. Robert Boyle and Isaac Newton's work on iridescence is mentioned.",
+      "topics": [
+        "thin-film interference",
+        "constructive interference",
+        "destructive interference",
+        "wave phase",
+        "Robert Boyle",
+        "Isaac Newton"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Wavelengths, the visible spectrum, and viewing angle",
+      "summary": "Visible light spans violet at about 400 nm to red at about 700 nm. White light split into colors, as in the Pink Floyd prism album cover, and the reflected color depends on viewing angle. Soap bubbles change color as you move. A slow-motion bubble pop is mentioned.",
+      "topics": [
+        "visible spectrum",
+        "wavelength",
+        "viewing angle color change",
+        "soap bubbles",
+        "slow-motion bubble popping"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Why butterfly wings are so iridescent",
+      "summary": "Butterfly wings are transparent with many stacked scale layers, so light reflects many times and more wavelengths can be in phase. The scale cuticle looks like a Christmas tree. Spacing near 200 nm favors blue, as in the blue morpho. Iridescence is also tied to warming the cold-blooded butterfly. Pigment combines with structural color, so yellow melanin plus blue structure can look green.",
+      "topics": [
+        "butterfly scales",
+        "blue morpho",
+        "structural color",
+        "scale spacing nanometers",
+        "butterfly thermoregulation",
+        "pigment plus structural color"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "UV vision, monarch migration, and butterfly wing fragility",
+      "summary": "Butterflies can see ultraviolet, which monarchs use as migration guideposts. Butterfly wing scales rub off as powder, and the wing veins are fragile, so tearing them can kill a butterfly. Moths are duller, have different wing structure, and share the order Lepidoptera with butterflies.",
+      "topics": [
+        "UV vision in butterflies",
+        "monarch migration",
+        "butterfly wing scales powder",
+        "moths vs butterflies",
+        "Lepidoptera"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:25:00",
+      "kind": "ad",
+      "title": "T-shirt contest winners announcement",
+      "summary": "The hosts announce five winning T-shirt designers from the show's contest and point listeners to the blog and the Discovery store.",
+      "topics": [
+        "T-shirt contest",
+        "show merchandise"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:27:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: teaching writing to prisoners",
+      "summary": "A GED teacher at a Virginia men's prison uses the podcast in class to teach writing. Students take notes and write articles based on the episodes. The hosts respond with encouragement.",
+      "topics": [
+        "listener mail",
+        "prison education",
+        "GED",
+        "writing instruction"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9747,
+    "output_tokens": 2347
+  }
+}

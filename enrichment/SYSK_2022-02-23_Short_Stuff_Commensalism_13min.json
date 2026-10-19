@@ -1,0 +1,134 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-02-23_Short_Stuff_Commensalism_13min.txt",
+  "title": "Short Stuff: Commensalism",
+  "date": "2022-02-23",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-commensalism",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4017349c-81c5-4f0f-9903-ae4500b13551/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4017349c-81c5-4f0f-9903-ae4500b13551/transcript?format=TextWithTimestamps&t=1700551601",
+  "summary": "Short Stuff episode on commensalism, the ecological relationship in which one organism benefits without affecting or harming the other. The hosts contrast it with parasitism, mutualism, and symbiosis. Examples include Eastern screech owls and blind snakes, gopher tortoise burrows and the moth that feeds on tortoise keratin, and phoresy (a mite riding on a bee). The hosts also discuss the three commensalism categories (inquilinism, metabiosis, phoresy), argue that many supposed commensal examples are really symbiosis or parasitism, and note that heavy reliance on commensal relationships can make an ecosystem fragile. The episode opens and closes with unrelated banter about Disney World trips and an owl cafe in Tokyo.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "commensalism",
+    "commensalism examples",
+    "symbiosis",
+    "mutualism",
+    "parasitism",
+    "inquilinism",
+    "metabiosis",
+    "phoresy",
+    "Eastern screech owl",
+    "blind snake",
+    "gopher tortoise burrow",
+    "keratin-feeding moth",
+    "ecology",
+    "ecosystem biodiversity",
+    "species interdependence",
+    "ecological relationships"
+  ],
+  "entities": [
+    {
+      "name": "Eastern screech owl",
+      "type": "other"
+    },
+    {
+      "name": "blind snake",
+      "type": "other"
+    },
+    {
+      "name": "gopher tortoise",
+      "type": "other"
+    },
+    {
+      "name": "phoresy",
+      "type": "other"
+    },
+    {
+      "name": "inquilinism",
+      "type": "other"
+    },
+    {
+      "name": "metabiosis",
+      "type": "other"
+    },
+    {
+      "name": "Animal Kingdom",
+      "type": "place"
+    },
+    {
+      "name": "Tokyo owl cafe",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Opening banter and commensalism definition",
+      "summary": "Josh introduces commensalism as a relationship where one animal benefits without harming or helping the other. He contrasts it with parasitism and mutualism. The hosts then discuss the blind snake and Eastern screech owl example. Banter about an owl cafe in Tokyo and a Disney World trip follows.",
+      "topics": [
+        "commensalism definition",
+        "parasitism vs commensalism",
+        "mutualism",
+        "Eastern screech owl",
+        "blind snake"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:06:30",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Short padding break with a shout-out to a friend who helps with Disney navigation tips.",
+      "topics": [
+        "Disney World"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Three categories of commensalism",
+      "summary": "The hosts describe the three commensalism categories: inquilinism, where a species lives on or in another (blind snake in owl nest, moth in gopher tortoise burrows); metabiosis, where an organism unintentionally creates habitat for another; and phoresy, where an animal hitches a ride on another.",
+      "topics": [
+        "inquilinism",
+        "metabiosis",
+        "phoresy",
+        "gopher tortoise burrow",
+        "keratin-feeding moth"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:20",
+      "kind": "content",
+      "title": "Debating whether examples are really commensalism",
+      "summary": "The hosts argue that many examples are really symbiosis or parasitism, such as tortoise-burrow parasite eating, which may lower parasite loads. They agree the keratin-feeding moth is a true commensal. They also discuss phoresy, where a mite riding a bee may be parasitic. They conclude that commensalism can make an ecosystem fragile, and that true examples are rare.",
+      "topics": [
+        "commensalism debate",
+        "symbiosis vs commensalism",
+        "parasitic mites",
+        "ecosystem fragility",
+        "biodiversity"
+      ]
+    },
+    {
+      "start": "00:12:20",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts wrap up the episode and the show's iHeartRadio credit is read.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5263,
+    "output_tokens": 1489
+  }
+}

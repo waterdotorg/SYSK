@@ -1,0 +1,201 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-03-02_How_Optical_Illusions_Work_41min.txt",
+  "title": "How Optical Illusions Work",
+  "date": "2017-03-02",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-optical-illusions-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0360b26c-5f31-4c9c-a8df-ae28007b2f19/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0360b26c-5f31-4c9c-a8df-ae28007b2f19/transcript?format=TextWithTimestamps&t=1700543815",
+  "summary": "Josh and Chuck explore optical illusions, starting with a plea to share favorite podcasts for Tripod month, then a history from Aristotle's waterfall illusion through 19th-century psychology and the brain's shortcuts. They cover motion illusions (the Hering illusion, the snake illusion and microsaccades), the Necker cube, the Hermann grid and Hubel and Wiesel's neuron research, depth cues like atmospheric perspective and object size, and the Adelson checkerboard, Ebbinghaus illusion, Müller-Lyer illusion (with a cross-cultural study in South Africa), and von Helmholtz squares. They close with stereogram \"magic eye\" pictures, the Man in the Moon, and a listener mail from Liam in Canberra about Australian slang.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "optical illusions",
+    "visual perception",
+    "brain shortcuts",
+    "waterfall illusion",
+    "motion after effect",
+    "Hering illusion",
+    "snake illusion",
+    "microsaccades",
+    "Necker cube",
+    "Hermann grid",
+    "Hubel and Wiesel",
+    "depth perception",
+    "monocular cues",
+    "atmospheric perspective",
+    "Adelson checkerboard",
+    "Ebbinghaus illusion",
+    "Müller-Lyer illusion",
+    "cross-cultural perception",
+    "von Helmholtz squares",
+    "stereogram",
+    "Magic Eye",
+    "Man in the Moon",
+    "Australian slang",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Aristotle",
+      "type": "person"
+    },
+    "Mark Changizi",
+    "Ludimar Hermann",
+    "David Hubel",
+    "Torsten Wiesel",
+    "Edward Adelson",
+    "Hermann von Helmholtz",
+    "Hermann Ebbinghaus",
+    "Franz Carl Müller-Lyer",
+    "Louis Albert Necker",
+    "M.C. Escher",
+    "Michael Bach",
+    "Ethan (Mall Rats character)",
+    "Stephen King",
+    "Babe Ruth",
+    "Liam",
+    "Bushmen of South Africa",
+    "Mall Rats",
+    "Mental Floss",
+    "Michael Bach website"
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Tripod month and optical illusion intro",
+      "summary": "Josh urges listeners to share favorite podcasts during Tripod month. The hosts introduce optical illusions, complain that articles on them are unsatisfying, and point to Michael Bach's illusion website.",
+      "topics": [
+        "Tripod month",
+        "optical illusions",
+        "Michael Bach website"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "History and the lazy brain",
+      "summary": "Aristotle's waterfall observation is the first mention of optical illusions; the waterfall illusion (motion after effect) is explained by fatigued neurons. Nineteenth-century illusions helped show the brain, not the eye, causes illusions, and that the brain takes shortcuts. The hosts describe the brain predicting the near-future position of objects to compensate for neural lag.",
+      "topics": [
+        "waterfall illusion",
+        "motion after effect",
+        "Aristotle",
+        "19th-century psychology",
+        "neural lag",
+        "brain shortcuts"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Motion illusions and the Hering illusion",
+      "summary": "Mark Changizi's explanation of the Hering illusion: radial lines signal forward motion, so the brain expects the parallel lines to bend outward as we approach. The hosts discuss turning 2D retinal images into 3D and the Necker cube's perspective flip.",
+      "topics": [
+        "Hering illusion",
+        "Mark Changizi",
+        "radial lines",
+        "Necker cube",
+        "3D perception"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Hermann grid and neuron research",
+      "summary": "The Hermann grid illusion, with gray blobs at intersections, is explained by spillover between light and dark receptors in the eye, with foveal cones showing less inhibition. Hubel and Wiesel's Nobel Prize work showed individual neurons respond to specific visual details.",
+      "topics": [
+        "Hermann grid",
+        "Ludimar Hermann",
+        "retinal receptors",
+        "Hubel and Wiesel",
+        "fMRI",
+        "neuron specialization"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Depth cues and monocular vision",
+      "summary": "The hosts discuss how the brain judges depth from two eyes and from monocular cues such as interposition, force perspective in art, op art, atmospheric perspective, and object size.",
+      "topics": [
+        "depth perception",
+        "monocular vision",
+        "interposition",
+        "forced perspective",
+        "op art",
+        "atmospheric perspective",
+        "object size"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Apparent motion, snake illusion and reversible figures",
+      "summary": "Apparent motion illusions such as the snake illusion are explained by microsaccades and by visual overload. The hosts discuss how once an illusion is seen it cannot be unseen, and how ambiguous figures like the vase/faces figure flip between foreground and background.",
+      "topics": [
+        "snake illusion",
+        "apparent motion",
+        "microsaccades",
+        "ambiguous figures",
+        "figure-ground",
+        "reversible figures"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Favorite illusions: Adelson checkerboard, Ebbinghaus and contour illusions",
+      "summary": "Chuck's favorite illusions. Second place is the illusory square made of three pac-man circles. First place is Adelson's checkerboard, where a shadow makes two identical squares look different. The Ebbinghaus illusion uses surrounding dots to make equal orange dots look different sizes, and a video version won a contest.",
+      "topics": [
+        "Adelson checkerboard",
+        "Edward Adelson",
+        "Ebbinghaus illusion",
+        "illusory contours",
+        "shadow and brightness",
+        "contrast context"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Müller-Lyer illusion, cross-cultural study, von Helmholtz squares",
+      "summary": "The Müller-Lyer arrow illusion appears to differ by culture: a South African study found European South Africans saw different lengths, while the San (Bushmen) did not, and a computer trained without 3D objects was also fooled. Von Helmholtz squares show horizontal rectangles look smaller than vertical ones, which leads to a joke about horizontal stripes.",
+      "topics": [
+        "Müller-Lyer illusion",
+        "cross-cultural perception",
+        "South Africa study",
+        "von Helmholtz squares",
+        "horizontal vs vertical"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:41:00",
+      "kind": "listener_mail",
+      "title": "Stereograms, Man in the Moon, and Aussie slang listener mail",
+      "summary": "The hosts discuss stereogram pictures (Magic Eye) and the Man in the Moon, which Stephen King cited as an image you cannot unsee. Then they read listener mail from Liam in Canberra asking for an Australian slang episode, with a translation of his slang and the sign-off.",
+      "topics": [
+        "Magic Eye stereograms",
+        "Man in the Moon",
+        "Stephen King",
+        "Australian slang",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13082,
+    "output_tokens": 2637
+  }
+}

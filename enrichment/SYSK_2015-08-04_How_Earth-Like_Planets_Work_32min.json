@@ -1,0 +1,190 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-08-04_How_Earth-Like_Planets_Work_32min.txt",
+  "title": "How Earth-Like Planets Work",
+  "date": "2015-08-04",
+  "duration": "32 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-earth-like-planets-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ba6d8efa-0999-4290-abcb-ae28008c419a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ba6d8efa-0999-4290-abcb-ae28008c419a/transcript?format=TextWithTimestamps&t=1700543856",
+  "summary": "Josh and Chuck explain earth-like (exoplanet) hunting: the Kepler mission and its K2 successor, the habitable or \"Goldilocks\" zone, tidally locked planets, and three detection methods (transit, wobble/Doppler, microlensing) plus transit spectroscopy. They discuss confirmed versus candidate planets and media hype, specific systems like Gliese 581 g and c, Kepler-438b, and Kepler-62f, and why the search matters. The episode closes with listener mail about a 2001 car accident and a citizen's arrest, and a brief discussion of the Night Stalker case.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "exoplanets",
+    "earth-like planets",
+    "Kepler mission",
+    "K2 mission",
+    "habitable zone",
+    "Goldilocks zone",
+    "circumstellar habitable zone",
+    "tidally locked planets",
+    "transit method",
+    "wobble method",
+    "Doppler effect",
+    "microlensing",
+    "transit spectroscopy",
+    "candidate vs confirmed planets",
+    "Gliese 581g",
+    "Gliese 581c",
+    "Kepler-438b",
+    "Kepler-62f",
+    "super Earth",
+    "search for extraterrestrial intelligence",
+    "citizen's arrest",
+    "Richard Ramirez",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Kepler telescope",
+      "type": "other"
+    },
+    {
+      "name": "K2 mission",
+      "type": "event"
+    },
+    {
+      "name": "Gliese 581g",
+      "type": "other"
+    },
+    {
+      "name": "Gliese 581c",
+      "type": "other"
+    },
+    {
+      "name": "Kepler-438b",
+      "type": "other"
+    },
+    {
+      "name": "Kepler-62f",
+      "type": "other"
+    },
+    {
+      "name": "Richard Ramirez",
+      "type": "person"
+    },
+    {
+      "name": "Zodiac",
+      "type": "work"
+    },
+    {
+      "name": "Arecibo telescope",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Kepler introduction",
+      "summary": "Josh and Chuck open with banter and introduce the Kepler mission, a space telescope surveying a small patch of sky near Cygnus and Lyra for planets, and the follow-up K2 mission.",
+      "topics": [
+        "Kepler mission",
+        "K2 mission",
+        "exoplanets"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "content": "content",
+      "kind": "content",
+      "title": "Habitable zone and the Goldilocks zone",
+      "summary": "They define the habitable or Goldilocks zone as the orbital band where surface water can stay liquid, and discuss how life might exist in forms other than DNA-based life.",
+      "topics": [
+        "habitable zone",
+        "Goldilocks zone",
+        "circumstellar habitable zone",
+        "liquid water",
+        "alternative forms of life"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Earth-like planet requirements and tidal locking",
+      "summary": "They estimate many Earth-sized planets in the Milky Way and explain that terrestrial planets with rocky mantles and metal cores are of interest. A planet in the habitable zone can still fail to be habitable if it is tidally locked, as Gliese 581g is thought to be.",
+      "topics": [
+        "terrestrial planets",
+        "tidally locked planets",
+        "Gliese 581g",
+        "Earth-sized planets"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Detection methods: transit, wobble, microlensing",
+      "summary": "They explain that exoplanets are deduced rather than seen. The transit method detects dimming starlight, the wobble method uses Doppler shifts in the light spectrum, and microlensing uses gravitational magnification. They also distinguish candidate planets from confirmed ones and criticize hasty media coverage.",
+      "topics": [
+        "transit method",
+        "wobble method",
+        "Doppler effect",
+        "microlensing",
+        "candidate planets",
+        "confirmed planets",
+        "science journalism"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Transit spectroscopy and confirmed planet counts",
+      "summary": "Transit spectroscopy can reveal a planet's atmosphere from how it alters starlight. Kepler has confirmed 1,030 exoplanets, 12 of them in a Goldilocks zone. They discuss Gliese 581 system planets, including Gliese 581c, which is likely not habitable because of its temperature.",
+      "topics": [
+        "transit spectroscopy",
+        "exoplanet atmospheres",
+        "Gliese 581c",
+        "confirmed exoplanets count"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Recent Earth-like candidates and why search matters",
+      "summary": "They discuss Kepler-438b, a near-Earth-size planet in Lyra in the habitable zone, and Kepler-62f, a super Earth. They discuss the value of exploration, the search for extraterrestrial life, and that this topic will date quickly.",
+      "topics": [
+        "Kepler-438b",
+        "Kepler-62f",
+        "super Earth",
+        "search for extraterrestrial intelligence",
+        "space exploration"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: citizen's arrest story",
+      "summary": "A listener recounts a 2001 rear-end accident with a driver holding an expired license, and a police officer who suggested the listener should have made a citizen's arrest. The hosts discuss citizen's arrests and the Richard Ramirez Night Stalker case, where a citizen-led pile-on helped capture him.",
+      "topics": [
+        "citizen's arrest",
+        "listener mail",
+        "Richard Ramirez",
+        "Night Stalker"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:00",
+      "kind": "outro",
+      "title": "Outro and calls to action",
+      "summary": "The hosts invite listeners to share personal stories via Twitter, Facebook, email, and the website, and mention the site's search for more on earth-like planets.",
+      "topics": [
+        "listener feedback",
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10173,
+    "output_tokens": 2177
+  }
+}

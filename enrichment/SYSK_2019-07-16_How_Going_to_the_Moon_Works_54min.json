@@ -1,0 +1,377 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-07-16_How_Going_to_the_Moon_Works_54min.txt",
+  "title": "How Going to the Moon Works",
+  "date": "2019-07-16",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-going-to-the-moon-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1bf0822a-0303-4689-966d-ae280049bdaa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1bf0822a-0303-4689-966d-ae280049bdaa/transcript?format=TextWithTimestamps&t=1700543689",
+  "summary": "Josh and Chuck mark the 50th anniversary of the Apollo 11 Moon landing. They open with tour dates, then cover the Space Race and Kennedy's 1961 Rice University challenge, the Ranger and Soviet lunar probes, the Apollo 1 fire, Apollo 7 through 10 test missions (including the command/lunar module docking and the Saturn V rocket), the Apollo 11 landing and moonwalk, the flag and \"no wind\" moon-hoax claim, the return to Earth, later Apollo missions and left-behind items, and the current Artemis program plans to return to the Moon. The episode closes with a listener mail segment about the Band Aid song \"Do They Know It's Christmas?\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Apollo 11",
+    "Moon landing",
+    "Moon landing 50th anniversary",
+    "Space Race",
+    "Kennedy Rice University speech",
+    "Ranger program",
+    "Soviet lunar missions",
+    "Apollo 1 fire",
+    "Apollo 7",
+    "Apollo 8",
+    "Apollo 9",
+    "Apollo 10",
+    "Saturn V rocket",
+    "lunar module docking",
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Michael Collins",
+    "Tranquility Base",
+    "moon rocks",
+    "moon hoax claims",
+    "flag ripples no wind",
+    "Apollo later missions",
+    "left on the Moon debris",
+    "Artemis program",
+    "commercial lunar lander",
+    "Blue Moon lander",
+    "lunar tourism",
+    "Do They Know It's Christmas listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Apollo 11",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 1",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 7",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 8",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 9",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 10",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 13",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 14",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 15",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 16",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 17",
+      "type": "event"
+    },
+    {
+      "name": "Space Race",
+      "type": "event"
+    },
+    {
+      "name": "Ranger program",
+      "type": "event"
+    },
+    {
+      "name": "Artemis program",
+      "type": "event"
+    },
+    {
+      "name": "John F. Kennedy",
+      "type": "person"
+    },
+    {
+      "name": "Neil Armstrong",
+      "type": "person"
+    },
+    {
+      "name": "Buzz Aldrin",
+      "type": "person"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person"
+    },
+    {
+      "name": "Walter Cronkite",
+      "type": "person"
+    },
+    {
+      "name": "Gus Grissom",
+      "type": "person"
+    },
+    {
+      "name": "Charlie Duke",
+      "type": "person"
+    },
+    {
+      "name": "Jack Schmidt",
+      "type": "person"
+    },
+    {
+      "name": "David Scott",
+      "type": "person"
+    },
+    {
+      "name": "Alan Shepard",
+      "type": "person"
+    },
+    {
+      "name": "Eugene Cernan",
+      "type": "person"
+    },
+    {
+      "name": "Jeff Bezos",
+      "type": "person"
+    },
+    {
+      "name": "Lance Bass",
+      "type": "person"
+    },
+    {
+      "name": "Saturn V",
+      "type": "other"
+    },
+    {
+      "name": "Tranquility Base",
+      "type": "place"
+    },
+    {
+      "name": "Sea of Tranquility",
+      "type": "place"
+    },
+    {
+      "name": "Kennedy Space Center",
+      "type": "place"
+    },
+    {
+      "name": "Do They Know It's Christmas?",
+      "type": "work"
+    },
+    {
+      "name": "Band Aid",
+      "type": "organization"
+    },
+    {
+      "name": "Live Aid",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Tour dates and opening banter",
+      "summary": "Josh and Chuck announce upcoming live tour dates, then introduce the episode as a companion to the earlier Space Race episode, marking the 50th anniversary of the first Moon landing. They trade jokes about Walter Cronkite's CBS broadcast.",
+      "topics": [
+        "live tour dates",
+        "Walter Cronkite CBS broadcast",
+        "Apollo 11 broadcast"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Kennedy's Moon challenge and early Space Race",
+      "summary": "The hosts discuss Kennedy's 1961 Rice University speech challenging the US to land a man on the Moon by decade's end, and the Soviets beating the US to space milestones through the 1950s and early 1960s. They also describe the live broadcast from the Moon and the Westinghouse picture-quality concern.",
+      "topics": [
+        "Kennedy Rice University speech",
+        "Space Race",
+        "Soviet space firsts",
+        "live Moon broadcast",
+        "Westinghouse broadcast quality"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Ranger and Soviet lunar probes",
+      "summary": "The hosts review the Ranger program's nine missions, with mixed results, including Ranger 4 crashing and Ranger 7 sending back photographs. They note the Soviets were first to hit, soft-land and orbit the Moon.",
+      "topics": [
+        "Ranger program",
+        "Ranger 7 photographs",
+        "Soviet Luna probes",
+        "first soft landing on Moon"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Apollo 1 fire",
+      "summary": "The hosts describe the 1967 Apollo 1 cabin fire that killed Gus Grissom, Ed White and Roger Chaffee during a ground test, and the design problems that followed, including flammable suits and the hatch.",
+      "topics": [
+        "Apollo 1 fire",
+        "Gus Grissom",
+        "Apollo safety",
+        "spacecraft design flaws"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Apollo 7 through Apollo 9 test flights",
+      "summary": "The hosts cover Apollo 7's Earth-orbit test of the command module, Apollo 8's first use of the Saturn V rocket and its three stages, and Apollo 9's practice of docking the command and lunar modules.",
+      "topics": [
+        "Apollo 7",
+        "Apollo 8",
+        "Apollo 9",
+        "Saturn V rocket",
+        "lunar module docking",
+        "command module"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Apollo 10 dress rehearsal",
+      "summary": "Apollo 10 is described as the final dress rehearsal, taking the lunar module within about fifty feet of the lunar surface before returning to dock with the command module. The modules were named Charlie Brown and Snoopy.",
+      "topics": [
+        "Apollo 10",
+        "dress rehearsal",
+        "Charlie Brown and Snoopy module names",
+        "lunar descent test"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "A short break in the episode.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Apollo 11 launch, lunar orbit and landing",
+      "summary": "The crew of Apollo 11 (Armstrong, Aldrin and Collins) launch, enter lunar orbit, and Armstrong takes manual control to fly the Eagle past a cratered landing site. They land with about thirty seconds of fuel, and Houston responds to 'The Eagle has landed.'",
+      "topics": [
+        "Apollo 11 launch",
+        "Eagle lunar module",
+        "Columbia command module",
+        "Armstrong manual landing",
+        "Tranquility Base",
+        "fuel landing"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Moonwalk, flag, and the no-wind hoax claim",
+      "summary": "The hosts describe the four-hour rest that was skipped, the crew's sleep on the Moon, Armstrong's and Aldrin's walk and 'magnificent desolation' quote, sample collection, and the flag planting. They address the common hoax claim that the flag ripples show wind and explain it came from wriggling the pole.",
+      "topics": [
+        "moonwalk",
+        "magnificent desolation",
+        "flag ripples hoax claim",
+        "no wind on Moon",
+        "lunar gravity hopping",
+        "Apollo 11 sleep"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Return to Earth and splashdown",
+      "summary": "The Eagle lunar module is abandoned, and the crew rejoins Collins in orbit before returning to Earth. The command module reenters the atmosphere and splashes down off Hawaii, and the hosts describe the heat shield and mission success.",
+      "topics": [
+        "Apollo 11 return",
+        "Eagle abandoned",
+        "splashdown Hawaii",
+        "re-entry heat shield"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:06:00",
+      "kind": "content",
+      "title": "Later Apollo missions and items left on the Moon",
+      "summary": "The hosts summarize Apollo 12 through 17, noting Apollo 13 failed to land. They cover Apollo 14's golf balls, the Apollo 15 lunar rover, the moon rocks brought back and the Moon's age, and items left behind, including plaques, the disc, and the myth about 96 bags of waste, which NASA's archivist disputed.",
+      "topics": [
+        "Apollo 12-17",
+        "Apollo 13 aborted",
+        "Apollo 14 golf",
+        "lunar rover",
+        "moon rocks age",
+        "Theia Moon formation",
+        "items left on Moon",
+        "Urine bags myth"
+      ]
+    },
+    {
+      "start": "01:06:00",
+      "end": "01:16:00",
+      "kind": "content",
+      "title": "Return to the Moon: Artemis and commercial landers",
+      "summary": "The hosts explain the gap in lunar missions after Apollo, Columbia's effect on NASA priorities, and the directives to return to the Moon and go to Mars. They cover the Artemis program, commercial lunar landers including Blue Origin's Blue Moon, the South Pole ice, and the lunar tourism plans.",
+      "topics": [
+        "Artemis program",
+        "return to the Moon",
+        "Blue Origin Blue Moon lander",
+        "South Pole ice",
+        "lunar space station",
+        "lunar tourism"
+      ]
+    },
+    {
+      "start": "01:16:00",
+      "end": "01:20:00",
+      "kind": "outro",
+      "title": "Closing remarks",
+      "summary": "The hosts close the episode celebrating 50 years since the Moon landing.",
+      "topics": [
+        "anniversary",
+        "closing"
+      ]
+    },
+    {
+      "start": "01:20:00",
+      "end": "01:26:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Do They Know It's Christmas?",
+      "summary": "A listener writes in disagreeing with the Band Aid song 'Do They Know It's Christmas?', arguing its lyrics treat Africa as one region and ignore the Southern Hemisphere's seasons. Josh and Chuck discuss the song's intent and read the listener's closing request that people not claim everyone should like it.",
+      "topics": [
+        "Do They Know It's Christmas",
+        "Band Aid",
+        "Live Aid",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17948,
+    "output_tokens": 3941
+  }
+}

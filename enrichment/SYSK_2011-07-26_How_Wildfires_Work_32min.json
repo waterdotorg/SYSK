@@ -1,0 +1,242 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-07-26_How_Wildfires_Work_32min.txt",
+  "title": "How Wildfires Work",
+  "date": "2011-07-26",
+  "duration": "32 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-wildfires-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0a3c0d9b-6182-433e-91d6-ae2800aea20b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a3c0d9b-6182-433e-91d6-ae2800aea20b/transcript?format=TextWithTimestamps&t=1700543937",
+  "summary": "Josh and Chuck explain how wildfires work, opening with the 2002 Rodeo-Chediski fire in Arizona, started by a Bureau of Indian Affairs firefighter (Leonard Greg) and collided with a fire set by a stranded woman. They cover the fire triangle (fuel, oxygen, heat), flash point, US wildfire statistics, human causes and lightning, the fuel, weather and topography factors, fuel load and moisture, wind as an oxygen delivery system, fire-created weather such as fire whirls and crown fires, spotting, and dry hot conditions. They discuss prescribed burns and their benefits, post-fire mud slides (Storm King Mountain, Colorado), firefighting methods like hotshots, smoke jumpers, backfire fire breaks, and aerial retardant, and debunk a scuba-diver-in-a-tree urban legend. Includes tangents on the movie Firestorm, Always, and a listener-mail-free closing with calls to action.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "wildfires",
+    "forest fires",
+    "how wildfires work",
+    "fire triangle",
+    "flash point",
+    "fuel load",
+    "fire weather",
+    "wildfire statistics",
+    "human-caused wildfires",
+    "arson",
+    "Rodeo-Chediski fire",
+    "fire whirls",
+    "firewhirl",
+    "crown fire",
+    "spotting",
+    "fire tornado",
+    "hairpin fire vortex",
+    "prescribed burns",
+    "controlled burns",
+    "post-fire mudslides",
+    "Storm King Mountain fire",
+    "hotshots",
+    "smoke jumpers",
+    "firebreaks",
+    "backfire",
+    "fire retardant",
+    "wildfire urban legend",
+    "Dr Terry Clark",
+    "coupled fire atmospheric dynamics",
+    "topography and fire",
+    "wind and fire"
+  ],
+  "entities": [
+    {
+      "name": "Rodeo-Chediski fire",
+      "type": "event"
+    },
+    {
+      "name": "Leonard Greg",
+      "type": "person"
+    },
+    {
+      "name": "Bureau of Indian Affairs",
+      "type": "organization"
+    },
+    {
+      "name": "Arizona Apache Reservation",
+      "type": "place"
+    },
+    {
+      "name": "Storm King Mountain",
+      "type": "place"
+    },
+    {
+      "name": "Glenwood Springs, Colorado",
+      "type": "place"
+    },
+    {
+      "name": "Interstate 70",
+      "type": "place"
+    },
+    {
+      "name": "Terry Clark",
+      "type": "person"
+    },
+    {
+      "name": "National Center for Atmospheric Research",
+      "type": "organization"
+    },
+    {
+      "name": "Firestorm",
+      "type": "work"
+    },
+    {
+      "name": "Always",
+      "type": "work"
+    },
+    {
+      "name": "Guatemala mudslide",
+      "type": "event"
+    },
+    {
+      "name": "Smokey Bear",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Rodeo-Chediski fire story",
+      "summary": "Josh opens with banter and recounts the 2002 Rodeo-Chediski fire in Arizona, started by Leonard Greg, a Bureau of Indian Affairs firefighter, and collided with a fire set by a stranded woman; the fire burned about 467,000 acres and Greg was convicted of arson.",
+      "topics": [
+        "Rodeo-Chediski fire",
+        "arson",
+        "Leonard Greg",
+        "human-caused wildfires"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "The fire triangle and flash point",
+      "summary": "Chuck explains the fire triangle of fuel, oxygen and heat, and the flash point concept, including the flash point of wood and books.",
+      "topics": [
+        "fire triangle",
+        "flash point",
+        "combustion",
+        "oxygen and fire"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Wildfire statistics and causes",
+      "summary": "The hosts cite US wildfire statistics, including about 96,000 wildfires in 2006 with roughly four-fifths human-caused, and discuss lightning season, fire weather, and FEMA figures on intentional outdoor fires.",
+      "topics": [
+        "wildfire statistics",
+        "human-caused wildfires",
+        "lightning season",
+        "fire weather",
+        "FEMA"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Fuel, weather and topography",
+      "summary": "The three main factors controlling wildfire behavior are fuel, weather and topography. Fuel load, moisture, twig and pine straw density, and flashy fuels are discussed.",
+      "topics": [
+        "fuel load",
+        "fuel moisture",
+        "flashy fuels",
+        "wildfire factors"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Wind, fire-created weather and fire whirls",
+      "summary": "Wind acts as an oxygen delivery system and pushes fire. Dr Terry Clark's coupled fire atmospheric model is described. Fire whirls, crown fires, hairpin vortices, spotting, and the role of temperature and time of day are covered.",
+      "topics": [
+        "wind and fire",
+        "fire whirls",
+        "crown fire",
+        "spotting",
+        "Terry Clark model",
+        "Santa Ana winds"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Camping fire restrictions and personal anecdotes",
+      "summary": "Chuck shares his experience with campfire restrictions in western states and admits to a campfire on the Grand Canyon rim, saying it was irresponsible.",
+      "topics": [
+        "campfire restrictions",
+        "fire permits",
+        "camping safety"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Topography, slope and post-fire mudslides",
+      "summary": "Fires typically burn uphill and steep slopes speed them up. Burned roots lead to erosion and mudslides, including the Storm King Mountain fire near Glenwood Springs, Colorado, after which heavy rain buried part of Interstate 70 and the Guatemala slide is mentioned.",
+      "topics": [
+        "topography and fire",
+        "uphill fire spread",
+        "post-fire mudslides",
+        "Storm King Mountain fire",
+        "erosion"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Prescribed burns and their benefits",
+      "summary": "Prescribed burns clear underbrush, reduce accidental fires, release nutrients, and reduce disease. North America was managed with burns before Columbus.",
+      "topics": [
+        "prescribed burns",
+        "controlled burns",
+        "forest management",
+        "underbrush"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Firefighting: hotshots, smoke jumpers, fire retardant",
+      "summary": "Hotshot crews build firebreaks and backfires, smoke jumpers parachute in, and air tankers drop fire retardant, which contains phosphate fertilizer. The scuba-diver-in-a-tree urban legend is debunked.",
+      "topics": [
+        "hotshots",
+        "smoke jumpers",
+        "firebreaks",
+        "backfire",
+        "fire retardant",
+        "wildfire urban legend"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:32:00",
+      "kind": "outro",
+      "title": "Movie tangents, listener mail note and sign-off",
+      "summary": "The hosts discuss the film Firestorm, mention Always, note there is no listener mail this week, and give calls to action for reviews, Twitter, Facebook, email, and the HowStuffWorks wildfire article.",
+      "topics": [
+        "Firestorm",
+        "Always",
+        "listener mail",
+        "HowStuffWorks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11311,
+    "output_tokens": 2695
+  }
+}

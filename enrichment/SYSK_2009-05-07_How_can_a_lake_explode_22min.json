@@ -1,0 +1,204 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-05-07_How_can_a_lake_explode_22min.txt",
+  "title": "How can a lake explode?",
+  "date": "2009-05-07",
+  "duration": "22 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-can-a-lake-explode",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2be66ce9-1e5d-4f84-a621-ae2800bf6ae7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2be66ce9-1e5d-4f84-a621-ae2800bf6ae7/transcript?format=TextWithTimestamps&t=1700543991",
+  "summary": "Josh and Chuck open with banter about recovering from a kids' day event and the show's one-year anniversary, then explain the 1986 Lake Nyos disaster in Cameroon, where a limnic eruption released a cloud of carbon dioxide that killed around 1,700 people and livestock. They cover how magma and CO2 built up in the deep crater lake, why the lack of seasonal overturn let gas accumulate, and the degassing pipe installed to vent it. They also mention Lake Monoun, Lake Kivu, and Lake Quilotoa, a blog plug, and a listener letter from Helen in Guatemala about Maya calendars and the 2012 doomsday hype.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Lake Nyos",
+    "limnic eruption",
+    "exploding lakes",
+    "carbon dioxide cloud",
+    "1986 Cameroon disaster",
+    "Lake Nyos degassing",
+    "Lake Kivu",
+    "Lake Monoun",
+    "Lake Quilotoa",
+    "volcanic lakes",
+    "magma",
+    "gas overturn in lakes",
+    "Cameroon",
+    "euhemerism",
+    "Mayan calendar",
+    "2012 doomsday",
+    "listener mail",
+    "Stuff You Should Know anniversary"
+  ],
+  "entities": [
+    {
+      "name": "Lake Nyos",
+      "type": "place"
+    },
+    {
+      "name": "Cameroon",
+      "type": "place"
+    },
+    {
+      "name": "Lake Monoun",
+      "type": "place"
+    },
+    {
+      "name": "Lake Kivu",
+      "type": "place"
+    },
+    {
+      "name": "Lake Quilotoa",
+      "type": "place"
+    },
+    {
+      "name": "British Geological Survey",
+      "type": "organization"
+    },
+    {
+      "name": "Ghostbusters",
+      "type": "work"
+    },
+    {
+      "name": "The X-Files",
+      "type": "work"
+    },
+    {
+      "name": "Guatemala",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Kids Day",
+      "summary": "Josh and Chuck joke about wrangling kids for Kids Day and tease the story of a deadly cloud from a lake.",
+      "topics": [
+        "Kids Day",
+        "show banter"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "The 1986 Lake Nyos cloud of death",
+      "summary": "On August 1986 at Lake Nyos in Cameroon, a column of water and a CO2 cloud rolled into nearby valleys, killing about 1,700 people and livestock, and knocking others unconscious.",
+      "topics": [
+        "Lake Nyos",
+        "1986 Cameroon disaster",
+        "carbon dioxide cloud",
+        "limnic eruption"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Investigating the cause",
+      "summary": "Scientists checked for a volcanic eruption and found no aftershock earthquakes or sulfur, so the volcano theory was dropped in favor of a gas release.",
+      "topics": [
+        "Lake Nyos investigation",
+        "volcano theory",
+        "British Geological Survey",
+        "seismographs"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "How the gas built up under the lake",
+      "summary": "Magma rising through a crack in the thin crust met water and formed a crater that filled to become a lake. CO2 accumulated at depth because the lake never overturned seasonally, and a disturbance such as a rockslide or earthquake likely released it.",
+      "topics": [
+        "magma",
+        "crater lake formation",
+        "gas overturn",
+        "lake stratification",
+        "CO2 buildup",
+        "champagne cork effect"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Other African exploding lakes",
+      "summary": "Lake Monoun had an earlier, less deadly incident, and Lake Kivu between Rwanda and Congo is considered at risk and is home to about two million people.",
+      "topics": [
+        "Lake Monoun",
+        "Lake Kivu",
+        "Rwanda",
+        "Congo",
+        "lake hazards"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Degassing Lake Nyos",
+      "summary": "Scientists installed a pipe in 2001 to vent CO2 from Lake Nyos, and a webcam showed the site, though its last image was from the previous November.",
+      "topics": [
+        "Lake Nyos degassing",
+        "degassing pipe",
+        "CO2 mitigation",
+        "webcam"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Local beliefs and Lake Quilotoa",
+      "summary": "Local people attributed the deaths to evil spirits from the lake, a euhemerism. Lake Quilotoa in Ecuador is also named as a possible future limnic eruption site.",
+      "topics": [
+        "euhemerism",
+        "local folklore",
+        "Lake Quilotoa",
+        "Ecuador"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Blog plug",
+      "summary": "Chuck promotes the show's blog and recent media appearances, and Josh thanks blog commenters.",
+      "topics": [
+        "blog",
+        "show promotion"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:22:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Mayan calendars and 2012",
+      "summary": "Helen in Guatemala writes that Maya calendars are cyclical, not secret, and are sold in bookstores in three forms: daily, religious, and agricultural.",
+      "topics": [
+        "Maya calendar",
+        "2012 doomsday",
+        "Guatemala",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:22:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts sign off with a reminder of the email address and the show's site.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 8531,
+    "output_tokens": 2111
+  }
+}

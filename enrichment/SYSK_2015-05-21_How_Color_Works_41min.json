@@ -1,0 +1,267 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-05-21_How_Color_Works_41min.txt",
+  "title": "How Color Works",
+  "date": "2015-05-21",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-color-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5a0700c6-b6f7-4d7c-91b9-ae28008e535f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5a0700c6-b6f7-4d7c-91b9-ae28008e535f/transcript?format=TextWithTimestamps&t=1700543859",
+  "summary": "Josh and Chuck explore how color works, starting with a joking tangent about a horse that looked blue. They explain that color is the brain's perception of visible wavelengths of light reflected or transmitted by pigments, covering the electromagnetic spectrum, pigments in apples, carrots and grass, the trichromatic theory (Thomas Young and Hermann von Helmholtz), rods and cones, and the estimate of about ten million distinguishable colors. They discuss hue, value, intensity, tints, shades and tones, additive versus subtractive color (RGB and CMY/CMYK), primary, secondary and tertiary colors, the color wheel, complementary colors and retinal fatigue, color harmony, color psychology and cultural differences, color constancy, historical pigments, and why the sky is blue. The episode closes with a listener email about precocious puberty.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "color",
+    "color perception",
+    "visible light",
+    "electromagnetic spectrum",
+    "pigments",
+    "trichromatic theory",
+    "rods and cones",
+    "color wheel",
+    "primary colors",
+    "secondary colors",
+    "tertiary colors",
+    "complementary colors",
+    "color harmony",
+    "additive color",
+    "subtractive color",
+    "hue",
+    "value",
+    "tint shade tone",
+    "color theory",
+    "retinal fatigue",
+    "color constancy",
+    "color psychology",
+    "color blindness",
+    "historical pigments",
+    "why the sky is blue",
+    "Newton color experiments",
+    "precocious puberty"
+  ],
+  "entities": [
+    {
+      "name": "Isaac Newton",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Young",
+      "type": "person"
+    },
+    {
+      "name": "Herman von Helmholtz",
+      "type": "person"
+    },
+    {
+      "name": "Commission Internationale de l'Eclairage",
+      "type": "organization"
+    },
+    {
+      "name": "Pantone",
+      "type": "organization"
+    },
+    {
+      "name": "Lapis lazuli",
+      "type": "other"
+    },
+    {
+      "name": "Cinnabar",
+      "type": "other"
+    },
+    {
+      "name": "Indian yellow",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and the blue horse",
+      "summary": "Chuck and Josh chat about Josh's first horseback ride and the spotted horse, which Josh jokingly calls blue, setting up the idea that color is not inherent in objects.",
+      "topics": [
+        "horseback riding",
+        "color perception intro"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Light, the spectrum, and pigments",
+      "summary": "Color is explained as perception of visible wavelengths within the electromagnetic spectrum. The spectral colors run from red (long wavelength) to violet (short wavelength), and ultraviolet and infrared lie outside visible range. Pigments such as anthocyanins, carotenoids and chlorophyll absorb some wavelengths and reflect others, and transparent objects transmit light instead.",
+      "topics": [
+        "electromagnetic spectrum",
+        "visible light",
+        "spectral colors",
+        "pigments",
+        "anthocyanins",
+        "transmission vs reflection",
+        "ultraviolet",
+        "infrared"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Whether color exists without perception",
+      "summary": "The hosts discuss the philosophical question of whether color exists if nobody perceives it, and note that color is a very large topic that the episode only briefly overviews. Animal color vision, including dogs not being colorblind, is mentioned.",
+      "topics": [
+        "color perception philosophy",
+        "animal color vision",
+        "dogs color vision"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "How the eye sees color: rods, cones and trichromacy",
+      "summary": "The history of color vision is covered, with Thomas Young proposing the trichromatic theory and Herman von Helmholtz as his partner. Cones are sensitive to long (red), medium (green) and short (blue) wavelengths, while rods handle fine detail in low light. The brain mixes cone signals to produce perceived colors, and the CIE estimate of about ten million distinguishable colors is noted.",
+      "topics": [
+        "trichromatic theory",
+        "Thomas Young",
+        "Hermann von Helmholtz",
+        "cones",
+        "rods",
+        "retina",
+        "color mixing in brain",
+        "ten million colors",
+        "CIE"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "A short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Hue, intensity, value, tint, shade and tone",
+      "summary": "Color characteristics are defined: hue is the color itself, intensity is purity of a wavelength, and value is lightness or darkness. Adding black shades a color, white makes a tint, and gray makes a tone. The hosts mention that TV calibration controls use these terms.",
+      "topics": [
+        "hue",
+        "intensity saturation",
+        "value lightness",
+        "shade",
+        "tint",
+        "tone",
+        "color terminology",
+        "TV calibration"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Additive vs subtractive color, primaries and the color wheel",
+      "summary": "Additive color (light, screens, RGB) starts from black and sums to white, while subtractive color (paint, printing, CMY/CMYK) starts from white and sums toward black by absorbing wavelengths. Primary, secondary and tertiary colors are explained, forming a twelve-color wheel. Color naming research across cultures is also mentioned.",
+      "topics": [
+        "additive color",
+        "subtractive color",
+        "RGB",
+        "CMYK",
+        "primary colors",
+        "secondary colors",
+        "tertiary colors",
+        "color wheel",
+        "color naming across cultures",
+        "color theory"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Complementary colors, retinal fatigue and color harmony",
+      "summary": "Complementary colors sit opposite each other on the color wheel. Harmony depends on proportion and intensity rather than simply pairing opposites. A staring experiment shows retinal fatigue, producing an afterimage in the complementary color, such as cyan after staring at red.",
+      "topics": [
+        "complementary colors",
+        "color harmony",
+        "retinal fatigue",
+        "afterimage",
+        "color proportion"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Color psychology, culture and symbolism",
+      "summary": "The hosts discuss why colors seem to carry meaning, with green as a warning or sickness color, and how stop-sign conditioning shapes perception. They note cultural differences such as black for mourning in the West and white in the East, the historical reversal of pink and blue gender associations, and that claims about mood effects of blue and warm colors are personal and unreliable.",
+      "topics": [
+        "color psychology",
+        "color symbolism",
+        "color and mood",
+        "cultural color meanings",
+        "gender colors pink and blue",
+        "conditioning"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:59:00",
+      "kind": "content",
+      "title": "Color constancy and historical pigments",
+      "summary": "Color constancy is described as the brain's trick of seeing objects as the same color under different lighting, supported by a case of a man with brain damage who lacked it. The hosts then cover historical pigments: lapis lazuli for blue, cinnabar for vermilion, carmine from carminic acid, and Indian yellow made from cows fed mango leaves.",
+      "topics": [
+        "color constancy",
+        "lapis lazuli",
+        "cinnabar vermilion",
+        "carmine",
+        "Indian yellow",
+        "historical pigments",
+        "blue pigment scarcity"
+      ]
+    },
+    {
+      "start": "00:59:00",
+      "end": "01:02:00",
+      "kind": "content",
+      "title": "Why the sky is blue",
+      "summary": "Sunlight scattering off water vapor and tiny particles scatters blue wavelengths more, making the sky look blue at midday, while sunrise and sunset appear red and yellow because those wavelengths travel through more atmosphere.",
+      "topics": [
+        "why the sky is blue",
+        "Rayleigh scattering",
+        "sunrise and sunset colors"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:05:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: precocious puberty",
+      "summary": "A listener named Lauren from California writes about being diagnosed with precocious puberty at age two, her treatment with shots until age twelve, and her good health as an adult.",
+      "topics": [
+        "precocious puberty",
+        "listener mail",
+        "early puberty treatment"
+      ]
+    },
+    {
+      "start": "01:05:00",
+      "end": "01:06:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts ask for listener stories and point to social media, email and the website for more on color and other topics.",
+      "topics": [
+        "listener contact",
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13279,
+    "output_tokens": 3106
+  }
+}

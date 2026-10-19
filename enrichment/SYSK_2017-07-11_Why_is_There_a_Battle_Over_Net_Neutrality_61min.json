@@ -1,0 +1,294 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-11_Why_is_There_a_Battle_Over_Net_Neutrality_61min.txt",
+  "title": "Why is There a Battle Over Net Neutrality?",
+  "date": "2017-07-11",
+  "duration": "61 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-is-there-a-battle-over-net-neutrality",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e30e65d0-3969-4af1-9e33-ae280074ebb1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e30e65d0-3969-4af1-9e33-ae280074ebb1/transcript?format=TextWithTimestamps&t=1700543802",
+  "summary": "Josh and Chuck explain net neutrality: the principle that internet service providers must treat all lawful traffic equally, without fast lanes, slow lanes, blocking, or throttling. They trace its roots in common carrier telephone regulation, the FCC's back-and-forth classification of ISPs as telecom versus information services, the 2010 and 2015 Open Internet Orders, and the 2017 push under FCC chairman Ajit Pai to roll back Title II reclassification via \"Restoring Internet Freedom.\" They cover arguments for and against, including infrastructure investment, paid prioritization, peering disputes between Netflix and Comcast and Verizon, and the Verizon-Yahoo Tumblr and Flickr account issue. The episode opens with tour dates and closes with a listener mail about the Stonewall episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "net neutrality",
+    "open internet",
+    "Title II reclassification",
+    "FCC",
+    "Internet service providers",
+    "Ajit Pai",
+    "Restoring Internet Freedom",
+    "Open Internet Order 2015",
+    "common carrier",
+    "telecommunications vs information services",
+    "paid prioritization",
+    "fast lanes",
+    "throttling",
+    "peering dispute",
+    "Netflix Comcast peering",
+    "broadband infrastructure investment",
+    "Battle for the Net",
+    "John Oliver net neutrality",
+    "Tom Wheeler",
+    "Verizon Yahoo Tumblr Flickr",
+    "dial-up modem regulation",
+    "universal service fund",
+    "FCC public comments"
+  ],
+  "entities": [
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Ajit Pai",
+      "type": "person"
+    },
+    {
+      "name": "Tom Wheeler",
+      "type": "person"
+    },
+    {
+      "name": "Julius Genachowski",
+      "type": "person"
+    },
+    {
+      "name": "Tim Wu",
+      "type": "person"
+    },
+    {
+      "name": "Verizon",
+      "type": "organization"
+    },
+    {
+      "name": "Comcast",
+      "type": "organization"
+    },
+    {
+      "name": "Netflix",
+      "type": "organization"
+    },
+    {
+      "name": "Yahoo",
+      "type": "organization"
+    },
+    {
+      "name": "Tumblr",
+      "type": "organization"
+    },
+    {
+      "name": "Flickr",
+      "type": "organization"
+    },
+    {
+      "name": "John Oliver",
+      "type": "person"
+    },
+    {
+      "name": "Battle for the Net",
+      "type": "event"
+    },
+    {
+      "name": "Open Internet Order 2015",
+      "type": "event"
+    },
+    {
+      "name": "Restoring Internet Freedom",
+      "type": "event"
+    },
+    {
+      "name": "Verizon v. FCC (D.C. Circuit)",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:40",
+      "kind": "ad",
+      "title": "Tour dates announcement",
+      "summary": "Hosts announce 2017 tour dates in Toronto, Chicago, Vancouver, Minneapolis, Austin, Lawrence, Kansas City, Brooklyn, and Atlanta, with ticket info at sysk live dot com.",
+      "topics": [
+        "tour dates",
+        "live show"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:08:30",
+      "kind": "intro",
+      "title": "Intro and framing the episode",
+      "summary": "Hosts explain the episode is a substitute for going dark for Battle for the Net Action Day, and define net neutrality as an open internet with no fast or slow lanes.",
+      "topics": [
+        "Battle for the Net",
+        "net neutrality definition",
+        "open internet",
+        "Tim Wu"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Net neutrality basics and public opinion",
+      "summary": "Explanation of how the open internet let Facebook launch without negotiating with ISPs, the role of ISPs as last-mile providers, and polling showing broad support including among conservatives. The debate centers on how to achieve neutrality, through FCC policing or competition.",
+      "topics": [
+        "net neutrality",
+        "internet service providers",
+        "last mile",
+        "public opinion polls",
+        "Facebook launch"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Corporate split and 2015 FCC rules",
+      "summary": "The dispute is between ISPs such as Verizon, Comcast, and AT&T and tech companies such as YouTube, Netflix, Facebook, and Google. The 2015 FCC rules barred blocking, throttling, and fast lanes. Trump later appointed Ajit Pai, who opposes those rules.",
+      "topics": [
+        "ISP vs tech companies",
+        "2015 FCC rules",
+        "Ajit Pai",
+        "Obama net neutrality"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:19:50",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the historical section.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:19:50",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "History: telephone common carriers and dial-up",
+      "summary": "Telephone companies were treated as common carriers. The FCC in the 1970s and 1980s guaranteed the right to attach modems, and later required lines be opened to DSL providers. The telecom versus information services distinction was drawn.",
+      "topics": [
+        "common carrier",
+        "telephone monopoly",
+        "dial-up modem",
+        "DSL",
+        "telecommunications vs information services",
+        "Bell system"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Classification fights from Bush to Wheeler",
+      "summary": "The Bush-era FCC classified ISPs as information services after a court ruling. Rules under Genachowski in 2010 were struck down after Verizon challenged them. Tom Wheeler's weaker 2014 proposal drew backlash, then he issued the 2015 Open Internet Order reclassifying broadband as Title II telecommunications.",
+      "topics": [
+        "Bush FCC information services",
+        "2010 open internet rules",
+        "Verizon challenge",
+        "Tom Wheeler",
+        "Title II reclassification",
+        "2015 Open Internet Order"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:30",
+      "kind": "content",
+      "title": "Ajit Pai, light-touch regulation, and rural infrastructure",
+      "summary": "Pai, a former Verizon lawyer, favors light-touch regulation and argues that deregulation would encourage rural broadband investment. Hosts discuss the Universal Service Fund as a funding model and the debate over whether harms are hypothetical.",
+      "topics": [
+        "Ajit Pai",
+        "light-touch regulation",
+        "rural broadband",
+        "Universal Service Fund",
+        "hypothesized harms"
+      ]
+    },
+    {
+      "start": "00:42:30",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Infrastructure investment data and legal argument",
+      "summary": "Lobby group US Telecom reports a drop in ISP infrastructure spending after reclassification, while the US Census Bureau reports an increase. The Administrative Procedure Act's bar on capricious rule changes makes this data central to the legal fight.",
+      "topics": [
+        "infrastructure investment",
+        "US Telecom",
+        "Census Bureau data",
+        "Administrative Procedure Act",
+        "capricious rule changes"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:51:30",
+      "kind": "ad",
+      "title": "Break and comment call-to-action",
+      "summary": "Break, then hosts ask listeners to comment on the FCC proceeding 17-108 Restoring Internet Freedom, and recall John Oliver's 2014 segment that crashed the FCC site.",
+      "topics": [
+        "FCC public comment",
+        "17-108",
+        "John Oliver",
+        "comment crash"
+      ]
+    },
+    {
+      "start": "00:51:30",
+      "end": "00:55:30",
+      "kind": "content",
+      "title": "Arguments for and against, and paid peering",
+      "summary": "Arguments for net neutrality include preventing ISP censorship and protecting startups. Arguments against include infrastructure investment risk and ISPs becoming content providers, such as Verizon's Yahoo acquisition affecting Tumblr and Flickr. Netflix and Comcast and Verizon peering dispute is discussed, along with paid prioritization.",
+      "topics": [
+        "arguments for net neutrality",
+        "arguments against net neutrality",
+        "paid prioritization",
+        "peering",
+        "Netflix Comcast dispute",
+        "Verizon Yahoo Tumblr Flickr",
+        "censorship"
+      ]
+    },
+    {
+      "start": "00:55:30",
+      "end": "00:58:30",
+      "kind": "content",
+      "title": "Closing debate on trust and regulation",
+      "summary": "Hosts argue that unregulated markets tend toward greed harming consumers, and that the core question is whether ISPs can be trusted to act fairly. They encourage FCC comments through August 6.",
+      "topics": [
+        "regulation vs competition",
+        "trust in ISPs",
+        "FCC comment deadline"
+      ]
+    },
+    {
+      "start": "00:58:30",
+      "end": "00:59:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Stonewall episode",
+      "summary": "A listener named Craig praises the Remembering Stonewall episode, and the hosts share contact information.",
+      "topics": [
+        "listener mail",
+        "Stonewall",
+        "contact info"
+      ]
+    },
+    {
+      "start": "00:59:30",
+      "end": "01:01:00",
+      "kind": "outro",
+      "title": "Outro",
+      "summary": "Sign-off with contact and website information.",
+      "topics": [
+        "outro",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17830,
+    "output_tokens": 3251
+  }
+}

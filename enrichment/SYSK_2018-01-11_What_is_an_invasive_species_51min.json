@@ -1,0 +1,271 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-01-11_What_is_an_invasive_species_51min.txt",
+  "title": "What is an invasive species?",
+  "date": "2018-01-11",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-is-an-invasive-species",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d744a5fe-38e1-4db6-a3b1-ae28006acd62/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d744a5fe-38e1-4db6-a3b1-ae28006acd62/transcript?format=TextWithTimestamps&t=1700543778",
+  "summary": "Josh and Chuck explain invasive species: non-native organisms (plants, animals, pathogens, seeds, eggs) introduced to an ecosystem where they cause harm. They cover how the term was defined in US Executive Order 13112, how species spread (ships' ballast water, shipping pallets, pets released into the wild, purposeful introductions), and examples including Burmese pythons in the Everglades, zebra and quagga mussels in the Great Lakes, Asian carp, fire ants, European starlings released in Central Park, cane toads in Australia, and kudzu in the American South, which they say is overstated as a problem. They describe Alexander Dr. Z's four levels of ecological impact, direct and indirect effects, management approaches (proactive border inspections and early eradication versus reactive biological control), and the estimated costs of around $100 to $200 billion a year in the US. The episode ends with a listener mail about a grandmother's orchids.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "invasive species",
+    "non-native species",
+    "invasive species definition",
+    "Executive Order 13112",
+    "ballast water",
+    "Burmese python Everglades",
+    "zebra mussel",
+    "quagga mussel",
+    "Great Lakes invasive species",
+    "Asian carp",
+    "fire ants",
+    "European starling",
+    "cane toad Australia",
+    "kudzu",
+    "biological control",
+    "invasive species management",
+    "eradication",
+    "Anthropocene",
+    "Alexander Z invasive species impact levels",
+    "brown marmorated stink bug",
+    "Guam brown tree snake",
+    "invasive species economic cost",
+    "Simpsons invasive species episode",
+    "Eugene Schieffelin starlings",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Burmese python",
+      "type": "other"
+    },
+    {
+      "name": "Everglades",
+      "type": "place"
+    },
+    {
+      "name": "zebra mussel",
+      "type": "other"
+    },
+    {
+      "name": "quagga mussel",
+      "type": "other"
+    },
+    {
+      "name": "Great Lakes",
+      "type": "place"
+    },
+    {
+      "name": "Asian carp",
+      "type": "other"
+    },
+    {
+      "name": "fire ant",
+      "type": "other"
+    },
+    {
+      "name": "European starling",
+      "type": "other"
+    },
+    {
+      "name": "Eugene Schieffelin",
+      "type": "person"
+    },
+    {
+      "name": "cane toad",
+      "type": "other"
+    },
+    {
+      "name": "kudzu",
+      "type": "other"
+    },
+    {
+      "name": "Executive Order 13112",
+      "type": "event"
+    },
+    {
+      "name": "Alexander Z",
+      "type": "person"
+    },
+    {
+      "name": "Guam",
+      "type": "place"
+    },
+    {
+      "name": "brown tree snake",
+      "type": "other"
+    },
+    {
+      "name": "brown marmorated stink bug",
+      "type": "other"
+    },
+    {
+      "name": "Anthropocene",
+      "type": "event"
+    },
+    {
+      "name": "Central Park",
+      "type": "place"
+    },
+    {
+      "name": "Gray squirrel",
+      "type": "other"
+    },
+    {
+      "name": "Ken Jennings Omnibus podcast",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the Anthropocene",
+      "summary": "The hosts open with banter and discuss the proposed Anthropocene geological age and how moving species between ecosystems is one way humans alter the geological record.",
+      "topics": [
+        "Anthropocene",
+        "human impact on geological record"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Defining invasive species",
+      "summary": "The hosts define invasive species as non-native organisms that cause harm to a new ecosystem, noting examples like European honeybees and rice that are non-native but not invasive. They note the term was defined in US Executive Order 13112 and that such species are hard to eradicate.",
+      "topics": [
+        "invasive species definition",
+        "non-native species",
+        "Executive Order 13112",
+        "invasive species terminology"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Pathways of introduction and Burmese pythons",
+      "summary": "Invasions occur through ships' ballast water, shipping pallets, and other human transport, and about 50,000 non-native species are estimated in the US, with roughly 4,300 considered invasive. The hosts discuss Burmese pythons in Florida, including the state's python hunting program and the rabbit release study.",
+      "topics": [
+        "ballast water",
+        "Burmese python Everglades",
+        "Florida python hunting",
+        "pet release invasive species"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Pet releases, costs, and the zebra mussel",
+      "summary": "The hosts discuss released pets such as the tegu lizard and the nutria, feral hogs, and the estimated $100 to $200 billion annual US cost. They then turn to zebra and quagga mussels arriving in the Great Lakes via ballast water, their reproduction, and their effect on plankton and water clarity.",
+      "topics": [
+        "zebra mussel",
+        "quagga mussel",
+        "Great Lakes invasive species",
+        "invasive species economic cost",
+        "tegu lizard",
+        "nutria"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Asian carp, fire ants, and impact levels",
+      "summary": "The hosts cover Asian carp spreading through Chicago waterways into the Mississippi and Illinois rivers, fire ants possibly arriving in New Orleans via ship ballast dirt, and Dr. Alexander Z's four levels of invasive impact, illustrated by gray squirrels displacing red squirrels in England.",
+      "topics": [
+        "Asian carp",
+        "fire ants",
+        "invasive species impact levels",
+        "Alexander Z",
+        "gray squirrel red squirrel England"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Direct and indirect ecosystem effects",
+      "summary": "The hosts explain direct effects, such as predation or disease-carrying insects that kill trees, and indirect effects, such as a non-native grass that displaces native forage and invasive plants like cogongrass that change fire cycles and soil chemistry.",
+      "topics": [
+        "direct ecological impact",
+        "indirect ecological impact",
+        "wildfire fuel invasive grass",
+        "soil chemistry invasive plants"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Management: proactive and reactive",
+      "summary": "The hosts describe proactive management such as California border inspections, Connecticut's quarantine of emerald ash borer and fire ants, and Guam's dog inspections for brown tree snakes. They then describe reactive management, such as biological control, with the brown marmorated stink bug and parasitic wasps as an example.",
+      "topics": [
+        "invasive species management",
+        "proactive management",
+        "reactive management",
+        "biological control",
+        "Guam brown tree snake",
+        "brown marmorated stink bug"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "European starlings and cane toads",
+      "summary": "The hosts discuss Eugene Schieffelin releasing about 100 European starlings in Central Park in 1890 and 1891 and how they now number over 200 million, including their damage to cattle feed and airplanes. They also describe cane toads introduced to Australia in the 1930s to control cane beetles and their rapid population growth.",
+      "topics": [
+        "European starling",
+        "Eugene Schieffelin",
+        "Central Park starlings",
+        "cane toad Australia",
+        "Simpsons invasive species technique"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Kudzu myth and history",
+      "summary": "The hosts trace kudzu from its introduction at the 1876 Centennial Exhibition in Philadelphia, through its promotion for soil conservation in the 1930s, to its reputation as a monster vine. They say the widely cited claim of nine million acres comes from unreliable books, while the US Forest Service estimates about 227,000 acres of forest land.",
+      "topics": [
+        "kudzu",
+        "kudzu myth",
+        "soil conservation kudzu",
+        "Forest Service kudzu estimate"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:51:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: orchids story",
+      "summary": "A listener named Maggie shares how her grandmother's orchids were passed to her stepmother and how a bloom photo was shown to the grandmother in hospice.",
+      "topics": [
+        "listener mail",
+        "orchids"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close with calls for listener mail and social media contact information.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15509,
+    "output_tokens": 2874
+  }
+}

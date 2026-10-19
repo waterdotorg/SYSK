@@ -1,0 +1,225 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-02-24_Why_Do_Lefties_Exist_40min.txt",
+  "title": "Why Do Lefties Exist?",
+  "date": "2015-02-24",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-do-lefties-exist",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1a59ebaf-d9e8-47e8-b1a7-ae2800908543/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1a59ebaf-d9e8-47e8-b1a7-ae2800908543/transcript?format=TextWithTimestamps&t=1700543866",
+  "summary": "Josh Clark and Chuck Bryant explore why left-handedness exists and why so few people are left-handed. They cover the cultural stigma against lefties (sinister, left as weak or wrong, taboo left-hand use), theories about tool-making and right-handed techniques, brain lateralization and why language and fine motor skills sit in the left hemisphere, genetic theories involving two alleles (D and C genes), fossil evidence of right-handedness going back about 1.6 million years, primate handedness patterns, and the rarity of true ambidexterity. They also discuss links to schizophrenia, dyslexia and stuttering, reaction-time studies favoring lefties, the advantage lefties get in sports and combat from opponents being used to right-handers, the castle staircase example, prenatal and maternal-age theories, and forced switching of left-handed children. The episode ends with a listener email from Matt, a Christian listener who appreciated the evolution episode's even-handed tone.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "left-handedness",
+    "handedness",
+    "why are so few people left handed",
+    "right-handed bias",
+    "left-handed people history",
+    "sinister etymology",
+    "brain lateralization",
+    "language center left hemisphere",
+    "corpus callosum",
+    "genetics of handedness",
+    "D allele C allele handedness gene",
+    "fossil evidence handedness",
+    "Homo habilis handedness",
+    "primate handedness",
+    "ambidexterity",
+    "schizophrenia and handedness",
+    "dyslexia stuttering handedness",
+    "reaction time left-handed advantage",
+    "left-handed athletes advantage in sports",
+    "castle staircase design",
+    "forced handedness switching",
+    "maternal age and left-handedness",
+    "left-handed presidents",
+    "National Left Handed Day",
+    "synesthesia"
+  ],
+  "entities": [
+    {
+      "name": "Alexander the Great",
+      "type": "person"
+    },
+    {
+      "name": "Chipper Jones",
+      "type": "person"
+    },
+    {
+      "name": "Ross Perot",
+      "type": "person"
+    },
+    {
+      "name": "Rocky",
+      "type": "work"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    },
+    {
+      "name": "Neanderthal",
+      "type": "other"
+    },
+    {
+      "name": "Homo habilis",
+      "type": "other"
+    },
+    {
+      "name": "Kokomo Boy",
+      "type": "other"
+    },
+    {
+      "name": "Took Took",
+      "type": "other"
+    },
+    {
+      "name": "Mr Show",
+      "type": "work"
+    },
+    {
+      "name": "Paul F. Tompkins",
+      "type": "person"
+    },
+    {
+      "name": "Io9",
+      "type": "organization"
+    },
+    {
+      "name": "Discover magazine",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and hosts' handedness",
+      "summary": "The hosts chat about prerecording, the Io9 article that inspired the episode, and their own handedness. Josh is heavily right-handed; Chuck is right-handed but uses his left hand more than he thought. They note National Left Handed Day and the stigma against lefties.",
+      "topics": [
+        "handedness",
+        "National Left Handed Day",
+        "Io9 article"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Anti-left bias in language and culture",
+      "summary": "The hosts discuss how words for left carry negative meanings, including sinister from Latin for left and Anglo-Saxon roots meaning weak. They note cultures that taboo left-hand use for eating or gestures, and the right-hand-for-eating and left-for-wiping convention.",
+      "topics": [
+        "sinister etymology",
+        "left-handed stigma",
+        "left-hand taboo",
+        "cultural bias against lefties"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Tool use and why lefties were disadvantaged",
+      "summary": "Hypotheses that tool-making long followed right-handed techniques, leaving lefties clumsy and reinforcing negative views. The hosts give a colonial sawing example and mention practical frustrations such as scissors and dinner seating.",
+      "topics": [
+        "tool making handedness",
+        "left-handed frustrations",
+        "dinner party seating",
+        "right-handed design"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Brain lateralization and language center",
+      "summary": "The hosts explain brain lateralization: the left hemisphere generally controls the right side of the body, and language and fine motor skills tend to cluster on the left. They note that most lefties do not have language on the right, so handedness is not strictly binary, and that the link is a correlation, not causation.",
+      "topics": [
+        "brain lateralization",
+        "language center left hemisphere",
+        "corpus callosum",
+        "handedness and brain wiring"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Genetic theories and the D and C alleles",
+      "summary": "Theories suggest a mutation about 200,000 years ago made humans mostly right-handed, and a later mutation around 20,000 to 100,000 years ago preserved some left-handedness. The hosts describe the D and C alleles, with D more common and promoting right-handedness, and caveat that it is conjecture.",
+      "topics": [
+        "genetics of handedness",
+        "D allele",
+        "C allele",
+        "evolutionary theories of handedness",
+        "human evolution"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Fossil evidence and primate handedness",
+      "summary": "Fossil evidence, including Neanderthal skeletons, the Homo habilis skeleton from about 1.6 million years ago, and tooth striations, suggests right-handedness for about the last 200,000 years with a stable roughly 10 percent left-handed share. Primate studies find lemurs and some prosimians more left-handed, monkeys evenly split, and great apes about 35 percent left-handed, implying the trait may run opposite to the gene story.",
+      "topics": [
+        "fossil handedness",
+        "Neanderthal",
+        "Homo habilis",
+        "primate handedness",
+        "lemurs",
+        "chimpanzees",
+        "gorillas"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Ambidexterity, schizophrenia and dyslexia links",
+      "summary": "Ambidexterity is rare, with only about 1 percent able to write equally well with either hand. Ambidextrous people and lefties show higher rates of schizophrenia, dyslexia and stuttering, suggesting handedness relates to brain wiring. Synesthetes are also more often ambidextrous or left-handed.",
+      "topics": [
+        "ambidexterity",
+        "schizophrenia and handedness",
+        "dyslexia and stuttering",
+        "synesthesia",
+        "brain wiring"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Lefty advantages: reaction time and sports",
+      "summary": "Studies with dot-clicking and letter-matching tasks found left-handed subjects faster, which may reflect more interhemispheric connection, though the hosts call the data inconclusive. Lefties may have a sports edge because opponents are used to right-handers. Examples include tennis, boxing, and Rocky, along with a castle staircase design that favored right-handed swordsmen, and theories about left-handed presidents and musicians.",
+      "topics": [
+        "reaction time",
+        "left-handed advantage in sports",
+        "tennis lefties",
+        "boxing",
+        "castle staircase",
+        "left-handed presidents",
+        "maternal age and handedness",
+        "forced handedness switching"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Matt on even-handed evolution coverage",
+      "summary": "Matt, a Christian listener who has heard about 160 episodes, says he was pleasantly surprised by the unbiased evolution episode. The hosts thank him and invite listener stories about handedness.",
+      "topics": [
+        "listener mail",
+        "evolution episode",
+        "podcast feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13083,
+    "output_tokens": 2784
+  }
+}

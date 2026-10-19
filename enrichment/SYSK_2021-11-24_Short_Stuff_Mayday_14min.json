@@ -1,0 +1,149 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-11-24_Short_Stuff_Mayday_14min.txt",
+  "title": "Short Stuff: Mayday!",
+  "date": "2021-11-24",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-mayday",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f405b01e-3b36-4994-9f90-ae28000029e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f405b01e-3b36-4994-9f90-ae28000029e7/transcript?format=TextWithTimestamps&t=1700539648",
+  "summary": "Short Stuff episode on the \"Mayday\" distress call. The hosts open with banter about garbage pizza, then explain how to make a Mayday call: say it three times, identify the craft, state the problem, last known location, weather, and number of people aboard. They cover the origin of the term, proposed by Frederick Mockford, a radio officer at Croydon Airport in London, who suggested a shortening of the French \"venez m'aider\" (come help me). The term was later adopted by the International Radio Telegraph Convention of Washington. They also discuss Mayday relay, penalties for hoax calls in the US (including a 2009 Florida case with about $906,000 in Coast Guard search costs), Pan-Pan for urgent but non-life-threatening situations, Sécurité for hazard warnings, and why \"over and out\" is wrong in radio communication.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Mayday distress call",
+    "maritime distress signal",
+    "aviation distress signal",
+    "Mayday origin",
+    "Frederick Mockford",
+    "Croydon Airport",
+    "venez m'aider",
+    "Mayday relay",
+    "Pan-Pan urgency signal",
+    "Sécurité safety message",
+    "radio communication procedure",
+    "over and out radio myth",
+    "hoax distress call penalties",
+    "Coast Guard false distress call",
+    "SOS Morse code",
+    "International Radio Telegraph Convention",
+    "emergency radio procedure",
+    "short stuff"
+  ],
+  "entities": [
+    {
+      "name": "Mayday",
+      "type": "other"
+    },
+    {
+      "name": "Frederick Mockford",
+      "type": "person"
+    },
+    {
+      "name": "Croydon Airport",
+      "type": "place"
+    },
+    {
+      "name": "International Radio Telegraph Convention",
+      "type": "event"
+    },
+    {
+      "name": "Pan-Pan",
+      "type": "other"
+    },
+    {
+      "name": "Sécurité",
+      "type": "other"
+    },
+    {
+      "name": "Coast Guard",
+      "type": "organization"
+    },
+    {
+      "name": "Government of Canada",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter about garbage pizza",
+      "summary": "Josh and Chuck joke about Pizza Hut, stuffed crust, and a recent delivery pizza order during the World Series and Halloween.",
+      "topics": [
+        "garbage pizza",
+        "banter"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "How to make a Mayday call",
+      "summary": "The hosts explain that Mayday is said three times to get attention and avoid confusion, then the caller gives the craft's identity, the problem (such as taking on water), last known location and direction, weather, and number of people aboard.",
+      "topics": [
+        "Mayday distress call",
+        "emergency radio procedure",
+        "distress call procedure",
+        "taking on water"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Origin of the word Mayday",
+      "summary": "Frederick Mockford, a radio officer at Croydon Airport in London, proposed Mayday as a distress word, based on the French 'venez m'aider'. It was later adopted by the International Radio Telegraph Convention, first for aircraft and later for ships.",
+      "topics": [
+        "Mayday origin",
+        "Frederick Mockford",
+        "Croydon Airport",
+        "venez m'aider",
+        "International Radio Telegraph Convention",
+        "SOS Morse code"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Mayday relay and hoax calls",
+      "summary": "A Mayday relay is used to send a distress call for another vessel whose equipment is down. The hosts describe US penalties for hoax calls, including a 2009 Florida case in which the caller had to repay about $906,000 in Coast Guard search costs.",
+      "topics": [
+        "Mayday relay",
+        "hoax distress call penalties",
+        "Coast Guard false distress call",
+        "FCC-style fines"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Pan-Pan and Sécurité signals",
+      "summary": "Pan-Pan is for urgent but non-life-threatening situations and is said three times. Sécurité is used to warn others about hazards such as a rock in the shipping lane or a container overboard.",
+      "topics": [
+        "Pan-Pan urgency signal",
+        "Sécurité safety message",
+        "maritime hazard warning"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:14:00",
+      "kind": "outro",
+      "title": "Over and out myth and sign-off",
+      "summary": "The hosts say 'over and out' is a screenwriter's mistake because over ends a transmission and out ends the conversation. They close the episode with a brief sign-off.",
+      "topics": [
+        "over and out radio myth",
+        "radio communication procedure"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5662,
+    "output_tokens": 1715
+  }
+}

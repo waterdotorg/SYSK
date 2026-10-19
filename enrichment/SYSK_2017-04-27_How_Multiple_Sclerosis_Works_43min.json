@@ -1,0 +1,238 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-04-27_How_Multiple_Sclerosis_Works_43min.txt",
+  "title": "How Multiple Sclerosis Works",
+  "date": "2017-04-27",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-multiple-sclerosis-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5fe6ea72-6fe3-4076-a707-ae2800792202/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5fe6ea72-6fe3-4076-a707-ae2800792202/transcript?format=TextWithTimestamps&t=1700543809",
+  "summary": "Josh Clark and Chuck Bryant explain multiple sclerosis: an autoimmune disease in which the immune system attacks myelin, the fatty sheath around nerve axons, forming scar-like plaques (sclerosis) and lesions in the brain and central nervous system. They cover who gets it (more women, people of Northern European descent, prime-of-life onset roughly ages 20 to 50), unclear causes (environment, vitamin D, heredity), the history from Saint Lidwina and Jean-Martin Charcot to James Dawson's microscope work, diagnosis via spinal tap (IgG, oligoclonal bands) and MRI, relapsing-remitting versus primary progressive forms, complications such as choking, infection, depression and suicide risk, disease-modifying drugs, and experimental stem cell transplant therapy (HALT MS, Friedman and Atkins in Ottawa). Josh shares personal memories of a friend, Billy, who died of MS complications. The episode closes with listener mail about autism, alexithemia and inclusive language.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "multiple sclerosis",
+    "MS",
+    "autoimmune disease",
+    "myelin sheath",
+    "demyelination",
+    "MS plaques and lesions",
+    "MS diagnosis",
+    "spinal tap",
+    "MRI",
+    "oligoclonal bands",
+    "relapsing-remitting MS",
+    "primary progressive MS",
+    "MS symptoms",
+    "MS complications",
+    "MS depression and suicide risk",
+    "disease modifying agents",
+    "stem cell therapy for MS",
+    "HALT MS",
+    "autologous stem cell transplant",
+    "Jean-Martin Charcot",
+    "James Dawson",
+    "Saint Lidwina",
+    "pediatric multiple sclerosis",
+    "chronic pain and antidepressants",
+    "ocrelizumab",
+    "clinically isolated syndrome"
+  ],
+  "entities": [
+    {
+      "name": "Multiple sclerosis",
+      "type": "other"
+    },
+    {
+      "name": "Jean-Martin Charcot",
+      "type": "person"
+    },
+    {
+      "name": "James Dawson",
+      "type": "person"
+    },
+    {
+      "name": "Saint Lidwina",
+      "type": "person"
+    },
+    {
+      "name": "Mark Freedman",
+      "type": "person"
+    },
+    {
+      "name": "Henry Atkins",
+      "type": "person"
+    },
+    {
+      "name": "Dave Bexfield",
+      "type": "person"
+    },
+    {
+      "name": "Billy",
+      "type": "person"
+    },
+    {
+      "name": "Ottawa",
+      "type": "place"
+    },
+    {
+      "name": "Denver",
+      "type": "place"
+    },
+    {
+      "name": "Columbia University",
+      "type": "organization"
+    },
+    {
+      "name": "Halt MS",
+      "type": "event"
+    },
+    {
+      "name": "Muhammad Ali",
+      "type": "person"
+    },
+    {
+      "name": "Richard Pryor",
+      "type": "person"
+    },
+    {
+      "name": "Annette Funicello",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening and personal connection",
+      "summary": "Josh and Chuck introduce the episode on multiple sclerosis. Josh says a close friend, Billy, died of MS complications the previous year and that he had avoided the topic.",
+      "topics": [
+        "MS personal story",
+        "Billy",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "What MS is and who gets it",
+      "summary": "MS is described as a rare-ish disease, affecting about 400,000 people in the US and 2 million worldwide, usually striking ages 20 to 50. It is more common in women and in people of Northern European descent. Causes are unclear; environment, sun exposure, vitamin D, and heredity are discussed.",
+      "topics": [
+        "MS prevalence",
+        "MS risk factors",
+        "vitamin D and MS",
+        "MS heredity",
+        "MS demographics"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Autoimmune mechanism and myelin damage",
+      "summary": "MS is an autoimmune disease in which the immune system attacks myelin, the fatty sheath around nerve axons. Demyelination leaves scar-like plaques and lesions anywhere in the brain or central nervous system. The hosts compare the damage to clear-cutting a forest.",
+      "topics": [
+        "myelin",
+        "demyelination",
+        "autoimmune disease",
+        "MS lesions",
+        "nerve axons"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Early symptoms and difficulty diagnosing",
+      "summary": "Early MS symptoms such as dizziness, fatigue, and intermittent blurry vision are easily mistaken for other conditions. Because lesions can appear anywhere, symptoms vary widely, and doctors are often stumped at first.",
+      "topics": [
+        "MS early symptoms",
+        "MS misdiagnosis",
+        "MS symptom variability"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "History of MS: Saint Lidwina, Charcot, and Dawson",
+      "summary": "Historical accounts include Saint Lidwina of Schiedam, a Dutch saint thought to have had MS after an ice-skating fall in the 1400s, and possibly a grandson of King George III. Jean-Martin Charcot is credited with first describing the disease, and Scottish doctor James Dawson later demonstrated myelin damage with better microscopes. Early thinking held it was a virus or blood toxin.",
+      "topics": [
+        "MS history",
+        "Saint Lidwina",
+        "Jean-Martin Charcot",
+        "James Dawson",
+        "microscopes and medical discovery",
+        "scleroses en plaques"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Diagnosis: spinal tap and MRI",
+      "summary": "In the 1940s researchers found protein byproducts in cerebrospinal fluid, leading to a spinal tap test looking for high IgG, oligoclonal bands, and myelin breakdown products. MRI was introduced around the 1980s or 1990s, and together they support diagnosis.",
+      "topics": [
+        "MS diagnosis",
+        "spinal tap",
+        "cerebrospinal fluid",
+        "oligoclonal bands",
+        "MRI for MS"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Billy's illness and MS complications",
+      "summary": "Josh recounts Billy's life, early symptoms of fogginess and dizziness, neglected treatment, decline into substance abuse, and eventual wheelchair use with spasticity. Complications discussed include choking, lung problems, infections and sepsis, and suicide, with depression as a common comorbidity.",
+      "topics": [
+        "MS complications",
+        "MS choking risk",
+        "MS depression",
+        "MS suicide risk",
+        "spasticity",
+        "Billy"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Relapsing versus progressive MS types",
+      "summary": "The hosts describe relapsing-remitting MS, with attacks followed by remission and no progression between them, and primary progressive MS, where disease worsens steadily with occasional plateaus. Billy's course combined flare-ups with progressive decline. Famous people who hid MS, such as Annette Funicello and Richard Pryor, are mentioned, and the hosts note confusion with boxing-related brain damage in Muhammad Ali.",
+      "topics": [
+        "relapsing-remitting MS",
+        "primary progressive MS",
+        "MS remission",
+        "MS relapse",
+        "celebrities with MS"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "Treatments: disease-modifying drugs and stem cell therapy",
+      "summary": "Disease-modifying agents slow progression but do not cure MS. Stem cell therapy, pioneered by Mark Freedman and Henry Atkins in Ottawa in the 1990s, wipes out the immune system with chemotherapy and then reinfuses the patient's own stem cells. Most of 24 patients stopped progressing, and some reversed damage. The procedure is risky, and the hosts discuss insurance and cost, including Dave Bexfield's case. Clinically isolated syndrome, pediatric MS, ocrelizumab, and symptom-treating antidepressants are mentioned.",
+      "topics": [
+        "disease modifying therapy",
+        "stem cell therapy for MS",
+        "HALT MS",
+        "Denver study",
+        "MS treatment cost",
+        "pediatric MS",
+        "ocrelizumab",
+        "clinically isolated syndrome",
+        "antidepressants for chronic pain"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13522,
+    "output_tokens": 3181
+  }
+}

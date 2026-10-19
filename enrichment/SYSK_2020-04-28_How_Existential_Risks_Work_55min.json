@@ -1,0 +1,272 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-04-28_How_Existential_Risks_Work_55min.txt",
+  "title": "How Existential Risks Work",
+  "date": "2020-04-28",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-existential-risks-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1674159f-9fa8-4c74-bf07-ae2800378351/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1674159f-9fa8-4c74-bf07-ae2800378351/transcript?format=TextWithTimestamps&t=1700543629",
+  "summary": "Josh and Chuck discuss existential risks: threats that could wipe out humanity or permanently cripple its potential. They open with a note that the episode was recorded before the COVID-19 pandemic and released during it. They cover why existential risks differ from ordinary catastrophes (no second chance; time and proximity as survival factors), the history of the field (nuclear war, John Leslie, Nick Bostrom, Carl Sagan's \"technological adolescence\"), Bostrom's categories (extinction, permanent stagnation, flawed realization), natural risks (asteroids, supervolcanoes, gamma-ray bursts) versus human-made risks (AI misalignment, nanotechnology and the gray goo hypothesis, engineered pathogens, collider experiments and vacuum decay), climate change as probably not an existential risk, and why the future matters. They recommend Toby Ord's book The Precipice and the Future of Humanity Institute and Future of Life Institute, and close with listener mail about Weird Science and the phrase \"wolf bait.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "existential risk",
+    "existential threats",
+    "human extinction",
+    "Nick Bostrom",
+    "Toby Ord",
+    "The Precipice",
+    "technological adolescence",
+    "technological maturity",
+    "permanent stagnation",
+    "flawed realization",
+    "artificial intelligence risk",
+    "unaligned AI",
+    "paperclip problem",
+    "nanotechnology",
+    "gray goo",
+    "Eric Drexler",
+    "engineered pathogens",
+    "biotechnology risk",
+    "large hadron collider risk",
+    "vacuum bubble",
+    "nuclear war",
+    "supervolcano",
+    "asteroid impact",
+    "climate change and extinction",
+    "terraforming",
+    "Carl Sagan",
+    "Future of Humanity Institute",
+    "Future of Life Institute",
+    "COVID-19 pandemic note",
+    "long-term future",
+    "Bertrand Russell Einstein manifesto",
+    "J. L. Schellenberg rope analogy"
+  ],
+  "entities": [
+    {
+      "name": "Toby Ord",
+      "type": "person"
+    },
+    {
+      "name": "Nick Bostrom",
+      "type": "person"
+    },
+    {
+      "name": "Carl Sagan",
+      "type": "person"
+    },
+    {
+      "name": "Eric Drexler",
+      "type": "person"
+    },
+    {
+      "name": "John Leslie",
+      "type": "person"
+    },
+    {
+      "name": "Bertrand Russell",
+      "type": "person"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "J. L. Schellenberg",
+      "type": "person"
+    },
+    {
+      "name": "Martin Rees",
+      "type": "person"
+    },
+    {
+      "name": "The Precipice",
+      "type": "work"
+    },
+    {
+      "name": "The End of the World with Josh Clark",
+      "type": "work"
+    },
+    {
+      "name": "The Day After",
+      "type": "work"
+    },
+    {
+      "name": "War Games",
+      "type": "work"
+    },
+    {
+      "name": "Weird Science",
+      "type": "work"
+    },
+    {
+      "name": "Future of Humanity Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Future of Life Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Center for the Study of Existential Risk",
+      "type": "organization"
+    },
+    {
+      "name": "Large Hadron Collider",
+      "type": "other"
+    },
+    {
+      "name": "Guatemala mudslide",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Pandemic note and opening banter",
+      "summary": "Josh explains the episode was recorded before COVID-19 and released during the pandemic, framing existential risk thinking as relevant to looking out for each other. Hosts banter about Tommy Chong, Dave, and Josh's earlier series The End of the World.",
+      "topics": [
+        "COVID-19 pandemic note",
+        "The End of the World with Josh Clark",
+        "The Precipice book"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Defining existential risk",
+      "summary": "Existential risks are threats that could wipe out all of humanity, with no second chance. Unlike ordinary disasters, survival has depended on time and proximity, and mudslides and local catastrophes do not qualify. A near-total loss that leaves survivors who could rebuild would not necessarily be existential.",
+      "topics": [
+        "existential risk",
+        "time and proximity",
+        "human extinction",
+        "mudslide"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "History of the field and nuclear war",
+      "summary": "The hosts trace the field's origins. Nuclear war was early focus, with Russell and Einstein's manifesto and Carl Sagan's work. John Leslie in the nineties broadened the scope to technological threats, and Nick Bostrom became a founder. Nuclear war is probably survivable and recoverable over a long timescale.",
+      "topics": [
+        "nuclear war",
+        "John Leslie",
+        "Nick Bostrom",
+        "Carl Sagan",
+        "history of existential risk"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Caring about future generations",
+      "summary": "The hosts discuss why people care about distant future people, and how Toby Ord argues that caring about people on the other side of the world extends to people in future times. They discuss self-interest, ego, and how upbringing shapes responsibility.",
+      "topics": [
+        "future generations",
+        "moral responsibility",
+        "Toby Ord",
+        "altruism"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Bostrom's types: extinction, stagnation, flawed realization",
+      "summary": "Extinction is the most obvious existential risk. Permanent stagnation means civilization can never recover its progress, illustrated by a climate geoengineering disaster. Flawed realization means a permanent dictatorship or technology-enabled control, like the Matrix, that prevents humanity from fulfilling its potential.",
+      "topics": [
+        "extinction",
+        "permanent stagnation",
+        "flawed realization",
+        "Nick Bostrom",
+        "dystopia"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Natural versus human-made risks",
+      "summary": "Natural risks include asteroids, comets, gamma-ray bursts, and supervolcanic eruptions. They are rare and hard to act on. Human-made risks are more concerning because humans can control and mitigate them, though that also makes them ironic.",
+      "topics": [
+        "natural existential risk",
+        "asteroid impact",
+        "supervolcano",
+        "gamma-ray burst",
+        "anthropogenic risk"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "AI, nanotechnology, and engineered pathogens",
+      "summary": "Artificial intelligence is considered the most worrying risk, because safe, aligned AI is harder than expected while unsafe AI is profitable; the paperclip thought experiment illustrates misaligned goals. Nanotechnology raises the gray goo scenario, which Eric Drexler later backed away from. Biotechnology accidents and engineered pathogens with lab leak potential are also discussed.",
+      "topics": [
+        "artificial intelligence risk",
+        "aligned AI",
+        "paperclip problem",
+        "nanotechnology",
+        "gray goo",
+        "Eric Drexler",
+        "biotechnology risk",
+        "lab accidents"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Particle collider and vacuum decay risks",
+      "summary": "Physics experiments such as the Large Hadron Collider might theoretically create microscopic black holes or a low-energy vacuum bubble that could expand and destroy the universe. Hosts note this is not in Toby Ord's book and that it is speculative. Climate change is discussed as serious but probably not an existential risk, though worst cases could be worse than expected.",
+      "topics": [
+        "Large Hadron Collider",
+        "vacuum bubble",
+        "microscopic black holes",
+        "climate change",
+        "existential risk"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:54:00",
+      "kind": "content",
+      "title": "Technological adolescence and the importance of the future",
+      "summary": "Carl Sagan's technological adolescence describes the dangerous period before technological maturity. Only one catastrophe is needed. Toby Ord estimates about a one in six chance over the next century. The rope analogy by J. L. Schellenberg shows humanity's potential lifespan far exceeds what has passed. The hosts argue for a multi-pronged, global effort, and mention learning to live off Earth as a hedge.",
+      "topics": [
+        "technological adolescence",
+        "technological maturity",
+        "one in six risk",
+        "rope analogy",
+        "terraforming",
+        "global cooperation",
+        "living off Earth"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Closing and listener mail",
+      "summary": "The hosts recommend The Precipice, the End of the World series, and the Future of Humanity and Future of Life institutes. Listener Jake's email about the phrase wolf bait in Weird Science closes the episode.",
+      "topics": [
+        "listener mail",
+        "Weird Science",
+        "wolf bait",
+        "The Precipice"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17852,
+    "output_tokens": 3159
+  }
+}

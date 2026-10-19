@@ -1,0 +1,253 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-11-25_How_Kickstarter_Works_37min.txt",
+  "title": "How Kickstarter Works",
+  "date": "2014-11-25",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-kickstarter-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/97a40140-8455-46a2-b59c-ae280092b231/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/97a40140-8455-46a2-b59c-ae280092b231/transcript?format=TextWithTimestamps&t=1700543869",
+  "summary": "Josh and Chuck explain how Kickstarter works: a crowdfunding site launched in 2009 for creative projects, with all-or-nothing funding goals and a 5 percent commission on successful campaigns. They cover its origins (Perry Chen, Yancey Strickler, Charles Adler), the rules for creative projects and rewards, notable successes and controversies (Veronica Mars movie, Zach Braff film, Coolest Cooler, Zach Danger Brown's potato salad, Chipotle burrito graph), reward-level math, tips for successful campaigns, and a Cambridge study on backer behavior. The episode closes with a listener mail about the phrase \"won't play in Peoria.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Kickstarter",
+    "crowdfunding",
+    "crowdsourcing",
+    "micro patronage",
+    "all-or-nothing funding",
+    "Kickstarter commission",
+    "creative projects",
+    "reward tiers",
+    "Veronica Mars movie Kickstarter",
+    "Zach Braff Kickstarter",
+    "Coolest Cooler",
+    "Zach Danger Brown potato salad",
+    "Kiva",
+    "DonorsChoose",
+    "Perry Chen",
+    "Cambridge University Kickstarter study",
+    "pre-order",
+    "Kickstarter tips",
+    "Chipotle burrito graph",
+    "won't play in Peoria"
+  ],
+  "entities": [
+    {
+      "name": "Kickstarter",
+      "type": "organization"
+    },
+    {
+      "name": "Perry Chen",
+      "type": "person"
+    },
+    {
+      "name": "Yancey Strickler",
+      "type": "person"
+    },
+    {
+      "name": "Charles Adler",
+      "type": "person"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "DonorsChoose",
+      "type": "organization"
+    },
+    {
+      "name": "Indiegogo",
+      "type": "organization"
+    },
+    {
+      "name": "Veronica Mars",
+      "type": "work"
+    },
+    {
+      "name": "Rob Thomas",
+      "type": "person"
+    },
+    {
+      "name": "Zach Braff",
+      "type": "person"
+    },
+    {
+      "name": "Coolest Cooler",
+      "type": "work"
+    },
+    {
+      "name": "Zach Danger Brown",
+      "type": "person"
+    },
+    {
+      "name": "Waiting for Superman",
+      "type": "work"
+    },
+    {
+      "name": "Worldview Entertainment",
+      "type": "organization"
+    },
+    {
+      "name": "Warner Brothers",
+      "type": "organization"
+    },
+    {
+      "name": "Peoria",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Kickstarter introduction",
+      "summary": "Hosts open with banter about independent creators, DIY equipment, and funding needs, then introduce Kickstarter as a crowdfunding site launched in 2009 to help artists without corporate backing.",
+      "topics": [
+        "Kickstarter",
+        "DIY filmmaking",
+        "independent artists"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Crowdsourcing, crowdfunding and early precursors",
+      "summary": "Chuck and Josh define crowdsourcing and crowdfunding, mention micro patronage and Kiva, and note DonorsChoose and early sites like Indiegogo.",
+      "topics": [
+        "crowdfunding",
+        "crowdsourcing",
+        "micro patronage",
+        "Kiva",
+        "DonorsChoose",
+        "Indiegogo"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Kickstarter origins and rules",
+      "summary": "Perry Chen, with Yancey Strickler and Charles Adler, founded Kickstarter in 2009 after the idea arose around funding a New Orleans concert. The site allows only creative projects, not paying bills, and requires specific project plans.",
+      "topics": [
+        "Kickstarter history",
+        "Perry Chen",
+        "creative projects only",
+        "Kickstarter founding"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "All-or-nothing funding and the 5 percent commission",
+      "summary": "Kickstarter uses an all-or-nothing model where creators collect pledges only if they meet the goal, and Kickstarter takes a five percent commission on successful projects. The hosts explain why this protects both creators and backers.",
+      "topics": [
+        "all-or-nothing funding",
+        "Kickstarter commission",
+        "funding goal",
+        "backers"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Rewards, pledge rules, and creative project definitions",
+      "summary": "Backers receive rewards, but projects cannot offer equity or financial returns. Creators must complete projects and fulfill rewards. Kickstarter defines creative categories and staff review proposals, which they describe as an evolving standard.",
+      "topics": [
+        "Kickstarter rewards",
+        "equity prohibition",
+        "creative categories",
+        "project review"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Notable successes: Coolest Cooler, watch band, and category stats",
+      "summary": "The hosts discuss the iPod nano watch band that raised far beyond its goal, the Coolest Cooler's huge success, and statistics on funded project categories and total pledges.",
+      "topics": [
+        "Coolest Cooler",
+        "iPod nano watch band",
+        "funding statistics",
+        "pre-order",
+        "project categories"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Quirky projects: potato salad, Chipotle graph, meat soap",
+      "summary": "Examples of unusual Kickstarter projects include Zach Danger Brown's potato salad, a Chipotle chicken burrito deliciousness graph, meat soap, and a grizzly bear coat.",
+      "topics": [
+        "Zach Danger Brown potato salad",
+        "Chipotle burrito graph",
+        "weird Kickstarter projects",
+        "meat soap"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Tips for successful campaigns and reward-level math",
+      "summary": "Advice covers strong pitch videos, an anchor audience of friends and social media, reward tier math (the $25 level is most popular, $100 pledges have the biggest dollar impact), and calculating a goal that includes the 5 percent commission.",
+      "topics": [
+        "Kickstarter tips",
+        "anchor audience",
+        "reward tiers",
+        "pitch video",
+        "funding goal math"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:30",
+      "kind": "content",
+      "title": "Veronica Mars and Zach Braff controversies",
+      "summary": "The Veronica Mars movie raised about five million dollars but faced complaints about download delivery through Flixster, which Warner Brothers helped address. Zach Braff's film drew criticism for raising money on Kickstarter despite having other financing, and he said he kept final cut.",
+      "topics": [
+        "Veronica Mars movie",
+        "Flixster download controversy",
+        "Zach Braff film",
+        "Kickstarter controversies",
+        "final cut"
+      ]
+    },
+    {
+      "start": "00:35:30",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Cambridge study on Kickstarter backers",
+      "summary": "Cambridge University computer scientists analyzed three months of Kickstarter data and found frequent and occasional funders respond to different project traits, with quality remaining the key factor.",
+      "topics": [
+        "Cambridge University study",
+        "Kickstarter backers",
+        "funder behavior"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: won't play in Peoria",
+      "summary": "A listener explains the origin of the phrase 'won't play in Peoria' as tied to Peoria, Illinois, a city used as a tryout market for shows before Chicago.",
+      "topics": [
+        "won't play in Peoria",
+        "listener mail",
+        "Peoria Illinois"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12531,
+    "output_tokens": 2763
+  }
+}

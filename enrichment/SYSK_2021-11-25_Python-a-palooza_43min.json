@@ -1,0 +1,260 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-11-25_Python-a-palooza_43min.txt",
+  "title": "Python-a-palooza!",
+  "date": "2021-11-25",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/python-a-palooza",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/35bae26b-35c6-4b64-b404-ae2800000e55/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/35bae26b-35c6-4b64-b404-ae2800000e55/transcript?format=TextWithTimestamps&t=1700539648",
+  "summary": "Josh and Chuck explore pythons: their size and appearance, labial pits for sensing heat, rectilinear locomotion, ambush hunting and constriction, the metabolic changes that let them eat huge prey, reproduction and egg care, and the invasive Burmese python problem in the Florida Everglades. They also cover responsible pet ownership for ball and Burmese pythons, and close with listener mail about a Salem witch trial ancestor.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "pythons",
+    "python biology",
+    "labial pits",
+    "heat sensing snakes",
+    "rectilinear progression",
+    "constriction hunting",
+    "ambush predators",
+    "python metabolism after feeding",
+    "python reproduction",
+    "python egg brooding",
+    "Burmese python",
+    "Florida Everglades invasive species",
+    "Python Challenge Florida",
+    "ball python",
+    "pet snake care",
+    "Burmese python feeding safety",
+    "snake release invasive species",
+    "endangered pythons IUCN",
+    "Salem witch trials listener mail",
+    "snakes"
+  ],
+  "entities": [
+    {
+      "name": "Burmese python",
+      "type": "other"
+    },
+    {
+      "name": "ball python",
+      "type": "other"
+    },
+    {
+      "name": "African python",
+      "type": "other"
+    },
+    {
+      "name": "Everglades",
+      "type": "place"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Python Challenge",
+      "type": "event"
+    },
+    {
+      "name": "Everglades Avengers",
+      "type": "organization"
+    },
+    {
+      "name": "Salem witch trials",
+      "type": "event"
+    },
+    {
+      "name": "Live Science",
+      "type": "organization"
+    },
+    {
+      "name": "Smithsonian",
+      "type": "organization"
+    },
+    {
+      "name": "International Union for Conservation of Nature Red List",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and python introduction",
+      "summary": "Josh and Chuck open with movie banter about The Hangover, then introduce pythons as the topic, contrasting their rare fatal attacks with venomous snakes, noting they are Old World snakes found in Asia, Africa, and Australia, with 41 species and some very small ones like the anthill python.",
+      "topics": [
+        "pythons",
+        "The Hangover banter",
+        "Old World snakes",
+        "anthill python"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Python anatomy, labial pits and senses",
+      "summary": "The hosts describe python bulk, color variation, and labial pits that sense heat and send thermal information to the brain alongside visible light. They say the pits detect temperature changes as small as 0.001 degrees Celsius. Teeth and lack of venom are discussed, along with prehensile tails in arboreal species.",
+      "topics": [
+        "labial pits",
+        "infrared heat sensing",
+        "python teeth",
+        "prehensile tails",
+        "arboreal pythons"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Lungs, vestigial spurs, and habitat",
+      "summary": "The hosts discuss pythons having two lungs as a remnant from four-legged ancestors, the vestigial pelvis and spurs used during courtship, and where pythons live, including rainforests, grasslands, swamps, burrows, and urban debris.",
+      "topics": [
+        "python lungs",
+        "vestigial hind limbs",
+        "python spurs",
+        "python habitat",
+        "python courtship"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Rectilinear movement",
+      "summary": "Pythons move slowly using rectilinear progression, bracing on the ground with their ribs and pushing forward. The hosts note that the motion looks like a slither at times and that pythons can stay submerged in water for up to half an hour, camouflaged in muddy water.",
+      "topics": [
+        "rectilinear progression",
+        "python locomotion",
+        "python swimming",
+        "snake camouflage"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Ambush hunting, prey, and swallowing",
+      "summary": "Pythons ambush prey, biting and constricting. They eat small animals up to large mammals, and the hosts mention a rock python with a leopard in its stomach and a python that tried to swallow an alligator. Their bodies adjust to large meals.",
+      "topics": [
+        "ambush hunting",
+        "python diet",
+        "constriction",
+        "rock python leopard",
+        "python eats alligator"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "How constriction kills and rapid metabolic changes",
+      "summary": "The hosts discuss a 2015 study on boa constrictors suggesting constriction cuts off blood flow to the brain rather than suffocating prey. They then describe Burmese python genome sequencing showing gene expression changes after feeding, organs shrinking to make room, the liver doubling in mass, and the heart growing within two days of eating. A windpipe lets them breathe while swallowing.",
+      "topics": [
+        "constriction mechanism",
+        "boa constrictor study",
+        "python digestion",
+        "python metabolism",
+        "python organ changes",
+        "python genome sequencing"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Python reproduction and egg brooding",
+      "summary": "Males use spurs to stroke females during courtship. Pythons lay eggs rather than bearing live young, and mothers coil around them and shiver to warm them, a process called shivering thermogenesis. Females lay about forty eggs every two years, and pythons can live decades in captivity.",
+      "topics": [
+        "python mating",
+        "python eggs",
+        "shivering thermogenesis",
+        "snake lifespan",
+        "python parental care"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Burmese pythons and the Florida Everglades invasion",
+      "summary": "The Burmese python is prized for its skin and is invasive in Florida, mainly in the Everglades, after pet releases. Studies showed sharp declines in raccoons, possums, bobcats, foxes, and rabbits. Florida's Python Challenge offers prize money for killing pythons, with limited effect. Pythons have spread to Big Cypress, Miami, and the Florida Keys, and African pythons are also present.",
+      "topics": [
+        "Burmese python",
+        "Florida Everglades invasive species",
+        "Python Challenge",
+        "invasive pythons Florida",
+        "pet release",
+        "wildlife decline Everglades"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:39:30",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "A short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:39:30",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Reporting pythons and keeping ball pythons as pets",
+      "summary": "The hosts say to report sightings in Florida through apps or hotlines, and they discuss ball pythons as docile starter pets that curl into a ball when threatened, along with the need to avoid wild-caught snakes and to plan for a long commitment. Enclosure needs include dual temperature zones, basking spots, branches, and a soaking tub.",
+      "topics": [
+        "ball python care",
+        "pet snake setup",
+        "wild caught snakes",
+        "snake enclosure temperature",
+        "reporting invasive pythons"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Feeding safety and python conservation status",
+      "summary": "The hosts describe feeding schedules, the danger of hand-feeding large Burmese pythons, and a Bronx case in which an 11 foot Burmese python killed its owner. They also note 13 python species on the IUCN Red List, with the Ramsey's python endangered and Burmese and reticulated pythons vulnerable, and that the biggest threat to pythons is humans.",
+      "topics": [
+        "python feeding safety",
+        "Burmese python attack",
+        "IUCN Red List pythons",
+        "python conservation"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Salem witch trial ancestor",
+      "summary": "Listener George Oakes writes that his seventh great grandmother, Elizabeth Morris of Newbury, was convicted of witchcraft in 1680 and later moved to home confinement. The hosts mention other listeners with Salem ancestors.",
+      "topics": [
+        "Salem witch trials",
+        "listener mail",
+        "family history"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank Live Science and other sources and give contact information for listener mail.",
+      "topics": [
+        "sign-off",
+        "listener mail address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13925,
+    "output_tokens": 3042
+  }
+}

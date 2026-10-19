@@ -1,0 +1,248 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-08-20_How_Ejection_Seats_Work_38min.txt",
+  "title": "How Ejection Seats Work",
+  "date": "2013-08-20",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ejection-seats-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d70a98f0-97bb-4cb8-b7aa-ae28009e41cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d70a98f0-97bb-4cb8-b7aa-ae28009e41cd/transcript?format=TextWithTimestamps&t=1700543897",
+  "summary": "Josh and Chuck explain how ejection seats work, starting with a playful opening about Top Gun and military training deaths, including a 2011 Red Arrows zero-zero ejection death. They cover the story of tail gunner Alan McGee, who survived a fall of about four miles through a train station skylight in World War Two, and the physics of terminal velocity. They then walk through the basics of assisted egress systems: rails and rollers, catapult charge, rocket motor, canopy jettison or shattering, drogue parachute, Vernier rockets for stabilization, the seat-man separator, and the altitude/airspeed sensor and recovery sequencer with its three ejection modes and the \"envelope.\" They discuss G-forces (20 Gs), Newton's second law, injuries such as spinal compression, limb flail, wind blast burns, and tumbling, and mention Felix Baumgartner's jump. The episode ends with listener mail about friendship and the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ejection seats",
+    "how ejection seats work",
+    "assisted egress system",
+    "zero-zero ejection",
+    "catapult charge",
+    "drogue parachute",
+    "Vernier rockets",
+    "seat-man separator",
+    "pitot tubes",
+    "recovery sequencer",
+    "ejection modes",
+    "envelope pushing the envelope",
+    "G-forces",
+    "spinal compression",
+    "limb flail",
+    "wind blast",
+    "tumbling and centrifugal force",
+    "Alan McGee tail gunner",
+    "Felix Baumgartner jump",
+    "Martin-Baker",
+    "fighter jet pilot safety",
+    "aviation physics",
+    "terminal velocity",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Ejection seat",
+      "type": "other"
+    },
+    {
+      "name": "Alan McGee",
+      "type": "person"
+    },
+    {
+      "name": "Felix Baumgartner",
+      "type": "person"
+    },
+    {
+      "name": "Seth Eisenberg",
+      "type": "person"
+    },
+    {
+      "name": "Martin-Baker",
+      "type": "organization"
+    },
+    {
+      "name": "Red Arrows",
+      "type": "organization"
+    },
+    {
+      "name": "Blue Angels",
+      "type": "organization"
+    },
+    {
+      "name": "B-17 Flying Fortress",
+      "type": "other"
+    },
+    {
+      "name": "Snap Crackle Pop",
+      "type": "other"
+    },
+    {
+      "name": "Top Gun",
+      "type": "work"
+    },
+    {
+      "name": "Henri Pitot",
+      "type": "person"
+    },
+    {
+      "name": "Scott O'Grady",
+      "type": "person"
+    },
+    {
+      "name": "Apollo 13",
+      "type": "event"
+    },
+    {
+      "name": "Popular Mechanics",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Top Gun",
+      "summary": "The hosts joke about Top Gun and Goose's death, note that military training deaths happen, and mention a 2011 Red Arrows pilot killed in a zero-zero ejection on the ground.",
+      "topics": [
+        "Top Gun",
+        "military training deaths",
+        "zero-zero ejection",
+        "Red Arrows"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Alan McGee's fall through a train station roof",
+      "summary": "Tail gunner Alan McGee bailed out of a damaged B-17 over France without a usable parachute, fell about four miles, crashed through a train station skylight, and survived with serious injuries. The hosts note the physics is terminal velocity and that a German doctor treated him.",
+      "topics": [
+        "Alan McGee",
+        "B-17 tail gunner",
+        "World War Two bailout",
+        "terminal velocity"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Why jets need ejection seats",
+      "summary": "Early WWII-style bailouts from propeller planes became impossible with jets because of their speed. The British company Martin-Baker led early ejection seat development. The hosts describe ejection as a last-resort measure.",
+      "topics": [
+        "jet aircraft bailout",
+        "Martin-Baker",
+        "history of ejection seats",
+        "last resort ejection"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Basic ejection seat components",
+      "summary": "The seat rides on rails and rollers for initial guidance. A catapult charge and a secondary rocket launch the seat clear of the aircraft in under four seconds. The Assisted Egress System (AES) is described, along with the canopy, the face curtain, and the ejection handle.",
+      "topics": [
+        "assisted egress system",
+        "catapult",
+        "rails and rollers",
+        "face curtain",
+        "canopy"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A message break.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Seat survival kit, drogue parachute, and sensors",
+      "summary": "The seat carries survival gear such as oxygen, rifles, and blankets. A small drogue parachute stabilizes and slows the seat and can trigger the main parachute. An environmental sensor measures airspeed and altitude using pitot tubes and sends data to the recovery sequencer.",
+      "topics": [
+        "survival pack",
+        "drogue parachute",
+        "pitot tubes",
+        "environmental sensor",
+        "recovery sequencer"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Ejection modes and the envelope",
+      "summary": "Three ejection modes are based on altitude and speed: low altitude low speed, low altitude high speed, and high altitude any speed. Operating inside the envelope is considered safe; going outside it is pushing the envelope.",
+      "topics": [
+        "ejection modes",
+        "envelope",
+        "pushing the envelope",
+        "altitude and airspeed"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Canopy removal, rockets, and stabilization",
+      "summary": "The canopy is removed either by blowing its bolts or shattering it with explosive charges. A rocket motor propels the seat further, and Vernier rockets stabilize the seat against spinning and tumbling. Success rate of about 89.4 percent from a study of 463 ejections is cited.",
+      "topics": [
+        "canopy jettison",
+        "canopy shattering",
+        "Vernier rockets",
+        "ejection success rate",
+        "stabilization"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Physics, G-forces, and injuries",
+      "summary": "The seat-man separator frees the pilot from the seat. Newton's second law and G-forces are discussed, including about 20 Gs as the design limit. Injuries covered include spinal compression, limb flail, wind blast burns, and fatal tumbling at high rotation rates. Felix Baumgartner's jump and a 1950s high-altitude jumper are mentioned.",
+      "topics": [
+        "seat-man separator",
+        "Newton's second law",
+        "G-forces",
+        "spinal compression",
+        "limb flail",
+        "wind blast",
+        "tumbling",
+        "Felix Baumgartner"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: best friend and friendship",
+      "summary": "Listeners write about discovering the show through a friend and how the podcast serves as company during busy lives. The hosts respond briefly.",
+      "topics": [
+        "listener mail",
+        "fan mail"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:38:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts point listeners to HowStuffWorks for more on ejection seats and give social media contact information.",
+      "topics": [
+        "outro",
+        "website",
+        "social media"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12484,
+    "output_tokens": 2722
+  }
+}

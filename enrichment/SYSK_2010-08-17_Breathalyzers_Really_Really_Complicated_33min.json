@@ -1,0 +1,213 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-08-17_Breathalyzers_Really_Really_Complicated_33min.txt",
+  "title": "Breathalyzers: Really, Really Complicated",
+  "date": "2010-08-17",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/breathalyzers-really-really-complicated",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8ddcb9b9-f8e9-4898-837a-ae2800b52297/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ddcb9b9-f8e9-4898-837a-ae2800b52297/transcript?format=TextWithTimestamps&t=1700543958",
+  "summary": "Josh and Chuck discuss breathalyzers and how breath alcohol testing works. They cover alcohol-related traffic deaths in 2008, why breath testing is used instead of blood or urine tests, and the history from early 1940s \"drunk meters\" to Dr. Borkenstein's 1954 Breathalyzer. They explain three device types: the chemical-reaction Breathalyzer (dichromate color change, photocell, needle zeroed by a knob), the Intoxilyzer (infrared spectroscopy with a filter wheel), and the Alcosensor (fuel cell technology with platinum electrodes). They also discuss blood-alcohol limits (0.08), how many drinks reach that limit, drinking water between drinks, field sobriety tests, how breath-test readings can be influenced by hyperventilation or deep breaths, myths about pennies or mints, and consumer breathalyzers. The episode closes with plugs for SXSW panel voting and Kiva micro-lending, a T-shirt gallery, and a listener email from Jamaica about marijuana cultivation and tiger pit traps.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "breathalyzer",
+    "breath alcohol testing",
+    "blood alcohol content",
+    "drunk driving",
+    "DUI",
+    "drunk meter",
+    "Dr. Borkenstein",
+    "Intoxilyzer",
+    "infrared spectroscopy",
+    "Alcosensor",
+    "fuel cell breath test",
+    "field sobriety test",
+    "legal blood alcohol limit 0.08",
+    "alcohol-related traffic deaths",
+    "breath test accuracy",
+    "hyperventilation breath test",
+    "consumer breathalyzer",
+    "Fourth Amendment breath test",
+    "Jamaica marijuana cultivation",
+    "tiger pit traps",
+    "Kiva micro lending",
+    "SXSW panel picker"
+  ],
+  "entities": [
+    {
+      "name": "Breathalyzer",
+      "type": "other"
+    },
+    {
+      "name": "Intoxilyzer",
+      "type": "other"
+    },
+    {
+      "name": "Alcosensor",
+      "type": "other"
+    },
+    {
+      "name": "Dr. Borkenstein",
+      "type": "person"
+    },
+    {
+      "name": "Indiana State Police",
+      "type": "organization"
+    },
+    {
+      "name": "Craig Freud",
+      "type": "person"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    },
+    {
+      "name": "Jamaica",
+      "type": "place"
+    },
+    {
+      "name": "Papua New Guinea",
+      "type": "place"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "South by Southwest",
+      "type": "event"
+    },
+    {
+      "name": "Snopes",
+      "type": "organization"
+    },
+    {
+      "name": "MythBusters",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and drunk driving stats",
+      "summary": "Josh and Chuck open with banter about a drunk judge in Gwinnett County, then discuss 2008 traffic deaths, noting about 37,000 total and roughly 14,000 alcohol-related.",
+      "topics": [
+        "drunk driving",
+        "alcohol-related traffic deaths",
+        "2008 traffic statistics"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Why breath testing and the legal limit",
+      "summary": "The hosts discuss the 0.08 legal limit and why police use breath tests rather than blood or urine, citing Fourth Amendment concerns and the lower privacy expectation of breath.",
+      "topics": [
+        "legal blood alcohol limit 0.08",
+        "Fourth Amendment breath test",
+        "blood vs breath testing"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "History of the breathalyzer",
+      "summary": "Early devices of the 1940s were called drunk meters. The Breathalyzer was invented in 1954 by Dr. Borkenstein of the Indiana State Police. All breath testers rely on the roughly 2100-to-1 blood-to-breath alcohol ratio, which Josh and Chuck describe as a 1-to-1 milligram ratio in the transcript.",
+      "topics": [
+        "drunk meter",
+        "Dr. Borkenstein",
+        "breath alcohol ratio",
+        "breathalyzer history"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "How the chemical Breathalyzer works",
+      "summary": "The original Breathalyzer bubbles breath through a dichromate and sulfuric acid mixture that turns from reddish orange to green. A photocell measures the color change, and the operator turns a knob to zero the needle, with the knob setting indicating blood alcohol.",
+      "topics": [
+        "Breathalyzer chemistry",
+        "potassium dichromate color change",
+        "photocell",
+        "breath test mechanism"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "The Intoxilyzer and infrared spectroscopy",
+      "summary": "The Intoxilyzer shines an infrared beam through a breath chamber, and a filter wheel and photocell measure absorption at specific wavelengths. A microprocessor converts this to a blood alcohol percentage. The hosts say it is used in Atlanta.",
+      "topics": [
+        "Intoxilyzer",
+        "infrared spectroscopy",
+        "filter wheel",
+        "breath test in Atlanta"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "The Alcosensor fuel cell test",
+      "summary": "The Alcosensor uses fuel cell technology with platinum electrodes. Alcohol in breath is oxidized, producing electrons whose current is measured and converted by a microprocessor into blood alcohol content.",
+      "topics": [
+        "Alcosensor",
+        "fuel cell breath test",
+        "platinum electrodes",
+        "oxidation of ethanol"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Drink limits, field sobriety tests, and breath test manipulation",
+      "summary": "The hosts discuss how many drinks reach 0.08 for a 180-pound man, drinking water between drinks, field sobriety tests like reciting the alphabet, and how hyperventilation or deep exhaling changes readings. They also dismiss myths about pennies or mints affecting results and mention consumer breathalyzers.",
+      "topics": [
+        "drink limits",
+        "field sobriety test",
+        "hyperventilation breath reading",
+        "breath test myths",
+        "consumer breathalyzer"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:30:00",
+      "kind": "ad",
+      "title": "Plugs for SXSW vote, Kiva, and T-shirts",
+      "summary": "The hosts ask listeners to vote for a South by Southwest panel, promote their Kiva micro-lending team, and point to a T-shirt gallery on the site.",
+      "topics": [
+        "SXSW panel picker",
+        "Kiva micro lending",
+        "T-shirt gallery"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:33:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Jamaica on marijuana growing and tiger pit traps",
+      "summary": "A listener named Shinari describes outdoor marijuana cultivation in Jamaica, hidden among crops, with neighborhood lookouts, and traps such as hidden spiked pits used against police raids. The hosts note that marijuana is decriminalized for domestic use in Jamaica.",
+      "topics": [
+        "Jamaica marijuana cultivation",
+        "tiger pit traps",
+        "listener mail",
+        "marijuana decriminalization"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11608,
+    "output_tokens": 2670
+  }
+}

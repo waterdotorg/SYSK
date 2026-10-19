@@ -1,0 +1,221 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-01-19_Why_are_honeybees_disappearing_25min.txt",
+  "title": "Why are honeybees disappearing?",
+  "date": "2010-01-19",
+  "duration": "25 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-are-honeybees-disappearing",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dacf6370-016d-47f3-ac74-ae2800ba783d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dacf6370-016d-47f3-ac74-ae2800ba783d/transcript?format=TextWithTimestamps&t=1700543969",
+  "summary": "Josh and Chuck open with a tangent about the lost Colony of Roanoke, then examine colony collapse disorder (CCD), the mysterious vanishing of honey bee workers from hives. They cover why bees matter for agriculture (almond pollination in California, about fifteen billion dollars of US crops pollinated by commercial honey bees each year), historical hive abandonments (Utah 1903, Pennsylvania), and suspected causes: Israeli acute paralysis virus (IAPV), neonicotinoid pesticides, the varroa mite, beekeeper-driven stress from extended pollination schedules, and the debunked cell phone radiation idea. They note a USDA steering committee white paper concluding multiple factors are at work and mention alternative pollinators such as the blue orchard bee. The episode closes with tips for helping bees (gardening with bee-friendly plants, the Great Sunflower Project, avoiding daytime pesticide use, buying local honey, safely handling swarms) and two listener emails.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "colony collapse disorder",
+    "honey bees",
+    "honeybee decline",
+    "bee die-off",
+    "vanishing bees",
+    "Israeli acute paralysis virus",
+    "IAPV",
+    "neonicotinoid pesticides",
+    "varroa mite",
+    "pollination",
+    "almond pollination",
+    "USDA colony collapse disorder steering committee",
+    "cell phone radiation bees myth",
+    "bee-friendly gardening",
+    "Great Sunflower Project",
+    "swarm removal",
+    "local honey",
+    "lost Colony of Roanoke",
+    "beekeeping",
+    "blue orchard bee",
+    "bee stress migratory beekeeping"
+  ],
+  "entities": [
+    {
+      "name": "Colony collapse disorder",
+      "type": "event"
+    },
+    {
+      "name": "Israeli acute paralysis virus",
+      "type": "other"
+    },
+    {
+      "name": "Neonicotinoid",
+      "type": "other"
+    },
+    {
+      "name": "Varroa mite",
+      "type": "other"
+    },
+    {
+      "name": "Roanoke Colony",
+      "type": "event"
+    },
+    {
+      "name": "Lumbee tribe",
+      "type": "organization"
+    },
+    {
+      "name": "Great Sunflower Project",
+      "type": "organization"
+    },
+    {
+      "name": "USDA",
+      "type": "organization"
+    },
+    {
+      "name": "Blue orchard bee",
+      "type": "other"
+    },
+    {
+      "name": "Delicious Haagen-Dazs",
+      "type": "organization"
+    },
+    {
+      "name": "Utah",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Pennsylvania",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Roanoke tangent",
+      "summary": "Hosts open with banter and Josh tells the story of the lost Colony of Roanoke, which vanished leaving only the word CROATOAN carved on a post, and the theory that they were absorbed by the Lumbee tribe. Chuck segues to bees as another species with many lost colonies.",
+      "topics": [
+        "lost Colony of Roanoke",
+        "Croatoan",
+        "Lumbee tribe"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Why bees matter to agriculture",
+      "summary": "The hosts introduce colony collapse disorder and explain why honey bees matter: they pollinate most edible vegetation. Almond pollination in California uses about forty billion bees each February, and commercial honey bees pollinate roughly fifteen billion dollars of US agricultural products each year.",
+      "topics": [
+        "honey bee pollination",
+        "almond pollination",
+        "agricultural value of bees",
+        "colony collapse disorder introduction"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "What colony collapse disorder looks like",
+      "summary": "Workers vanish from hives, leaving the queen, larvae and a few young bees. Attrition is normal, but CCD peaked around 2006 with reported losses of 30 percent or more. Hives left behind are not robbed by moths, wasps or beetles for days, which is unsettling. Historical abandonments include Pennsylvania (53 percent of hives lost) and Utah in 1903 (about 2,000 colonies lost).",
+      "topics": [
+        "colony collapse disorder symptoms",
+        "hive abandonment",
+        "bee losses history",
+        "Utah 1903 bee losses",
+        "Pennsylvania bee losses"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Suspected causes: virus, pesticides, and the cell phone myth",
+      "summary": "The hosts describe a combination of likely causes. Israeli acute paralysis virus (IAPV), found by Israeli scientists in 2002, causes trembling, paralysis and death; a 2007 study showed healthy bees dragging dead ones away. Neonicotinoid pesticides, which are neurotoxins, are blamed and some countries are moving to ban them, though no causal link is established. A German study found no link between cell phone towers and CCD, despite press coverage.",
+      "topics": [
+        "Israeli acute paralysis virus",
+        "IAPV study",
+        "neonicotinoid pesticides",
+        "cell phone towers bees",
+        "CCD causes"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Stress, varroa mites, and USDA response",
+      "summary": "Beekeepers stretching the pollination season overwork bees and may weaken their immune systems. Varroa mites transmit IAPV. The USDA steering committee's white paper concluded multiple factors are at work, and the USDA is exploring alternatives such as synthetic pollination and other bee species like the blue orchard bee.",
+      "topics": [
+        "bee stress",
+        "migratory beekeeping",
+        "varroa mites",
+        "USDA steering committee white paper",
+        "alternative pollinators"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:21:30",
+      "kind": "ad",
+      "title": "Häagen-Dazs Vanilla Honeybee sponsor read",
+      "summary": "Sponsor read for Häagen-Dazs, which has a Vanilla Honeybee flavor and donates money tied to honey bee ingredients.",
+      "topics": [
+        "Haagen-Dazs",
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "How to help bees: gardening and beekeeping tips",
+      "summary": "Tips include becoming a beekeeper, protecting swarms by calling local authorities rather than killing them, planting bee-friendly flowers such as sunflowers, joining the Great Sunflower Project, avoiding midday pesticide use and using insect-specific products, providing water, leaving bare ground for nesting, and planting native plants.",
+      "topics": [
+        "bee-friendly gardening",
+        "Great Sunflower Project",
+        "swarm removal",
+        "pesticide use",
+        "backyard beekeeping"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Buying local honey and bee-safe behavior",
+      "summary": "Buying local honey, possibly within fifteen miles, may help with local allergies, though this is unproven. Tips on avoiding bee stings include staying calm, moving slowly into shade, and avoiding dark clothing, alcohol and leather scents.",
+      "topics": [
+        "local honey",
+        "honey allergies",
+        "avoiding bee stings"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:25:00",
+      "kind": "listener_mail",
+      "title": "Listener mail",
+      "summary": "Listener emails from Betto, a high school sophomore who has listened since eighth grade, and Nick from Alpharetta, Georgia, who says he is a descendant of Edward of Woodstock.",
+      "topics": [
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:25:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close with the show's contact address and a repeat of the sponsor line.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9411,
+    "output_tokens": 2811
+  }
+}

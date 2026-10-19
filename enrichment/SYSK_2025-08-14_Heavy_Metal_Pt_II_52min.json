@@ -1,0 +1,464 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-08-14_Heavy_Metal_Pt_II_52min.txt",
+  "title": "Heavy Metal Pt II",
+  "date": "2025-08-14",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/heavy-metal-pt-ii",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ef277b41-4c09-4215-a869-b3370120b822/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ef277b41-4c09-4215-a869-b3370120b822/transcript?format=TextWithTimestamps&t=1755020598",
+  "summary": "Part two of the heavy metal episodes. The hosts cover Ozzy Osbourne's notorious stunts and his firing from Black Sabbath, the PMRC and its Filthy Fifteen list, MTV and Headbanger's Ball, the diversity of metal bands, metal guitar culture and the BC Rich guitar, Lord of the Rings references, and metal's social and political messages. They discuss studies on metal listeners' brains and personality, the metal subgenres (mathcore, mathrock, metalcore, extreme metal), and album cover art. The episode closes with the 1982 death of Randy Rhoads in a plane crash, kawaii metal, Rolling Stone's top ten metal albums list, and recommendations of books and horror films.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "heavy metal",
+    "heavy metal history",
+    "Ozzy Osbourne",
+    "Black Sabbath",
+    "PMRC",
+    "Filthy Fifteen",
+    "Tipper Gore",
+    "Headbanger's Ball",
+    "MTV metal videos",
+    "metal social and political messages",
+    "metal subgenres",
+    "mathcore",
+    "mathrock",
+    "metalcore",
+    "extreme metal",
+    "metal album cover art",
+    "Randy Rhoads death",
+    "Randy Rhoads plane crash",
+    "Ozzy Osbourne bat biting",
+    "Rolling Stone top metal albums",
+    "kawaii metal",
+    "Lord of the Rings in metal",
+    "BC Rich guitars",
+    "Metallica Ride the Lightning",
+    "Metal Health Quiet Riot",
+    "Appetite for Destruction cover",
+    "metal listeners brain study",
+    "Stuff You Should Know heavy metal part two"
+  ],
+  "entities": [
+    {
+      "name": "Ozzy Osbourne",
+      "type": "person"
+    },
+    {
+      "name": "Black Sabbath",
+      "type": "organization"
+    },
+    {
+      "name": "Randy Rhoads",
+      "type": "person"
+    },
+    {
+      "name": "Tipper Gore",
+      "type": "person"
+    },
+    {
+      "name": "Parents Music Resource Center",
+      "type": "organization"
+    },
+    {
+      "name": "Headbanger's Ball",
+      "type": "work"
+    },
+    {
+      "name": "MTV",
+      "type": "organization"
+    },
+    {
+      "name": "Ricky Rockman",
+      "type": "person"
+    },
+    {
+      "name": "Metallica",
+      "type": "organization"
+    },
+    {
+      "name": "Megadeth",
+      "type": "organization"
+    },
+    {
+      "name": "Dave Mustaine",
+      "type": "person"
+    },
+    {
+      "name": "Iron Maiden",
+      "type": "organization"
+    },
+    {
+      "name": "Judas Priest",
+      "type": "organization"
+    },
+    {
+      "name": "Rob Halford",
+      "type": "person"
+    },
+    {
+      "name": "Blue Öyster Cult",
+      "type": "organization"
+    },
+    {
+      "name": "Quiet Riot",
+      "type": "organization"
+    },
+    {
+      "name": "Pantera",
+      "type": "organization"
+    },
+    {
+      "name": "Phil Anselmo",
+      "type": "person"
+    },
+    {
+      "name": "Napalm Death",
+      "type": "organization"
+    },
+    {
+      "name": "The Dillinger Escape Plan",
+      "type": "organization"
+    },
+    {
+      "name": "Guns N' Roses",
+      "type": "organization"
+    },
+    {
+      "name": "Andrew Aycock",
+      "type": "person"
+    },
+    {
+      "name": "Rolling Stone",
+      "type": "organization"
+    },
+    {
+      "name": "Baby Metal",
+      "type": "organization"
+    },
+    {
+      "name": "Living Colour",
+      "type": "organization"
+    },
+    {
+      "name": "Fishbone",
+      "type": "organization"
+    },
+    {
+      "name": "Bad Brains",
+      "type": "organization"
+    },
+    {
+      "name": "Body Count",
+      "type": "organization"
+    },
+    {
+      "name": "The Darkness",
+      "type": "organization"
+    },
+    {
+      "name": "Europe",
+      "type": "organization"
+    },
+    {
+      "name": "Burzum",
+      "type": "organization"
+    },
+    {
+      "name": "Varg Vikernes",
+      "type": "person"
+    },
+    {
+      "name": "Mayhem",
+      "type": "organization"
+    },
+    {
+      "name": "Dio",
+      "type": "organization"
+    },
+    {
+      "name": "Rainbow",
+      "type": "organization"
+    },
+    {
+      "name": "Spinal Tap",
+      "type": "work"
+    },
+    {
+      "name": "Ride the Lightning",
+      "type": "work"
+    },
+    {
+      "name": "Master of Puppets",
+      "type": "work"
+    },
+    {
+      "name": "Holy Diver",
+      "type": "work"
+    },
+    {
+      "name": "Appetite for Destruction",
+      "type": "work"
+    },
+    {
+      "name": "Metal Health",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:51",
+      "kind": "intro",
+      "title": "Opening banter and part two kickoff",
+      "summary": "Hosts introduce part two of the heavy metal episodes and make jokes about a Black Sabbath lyric.",
+      "topics": [
+        "heavy metal",
+        "Black Sabbath"
+      ]
+    },
+    {
+      "start": "00:00:51",
+      "end": "00:03:17",
+      "kind": "content",
+      "title": "Ozzy Osbourne stunts and firing from Sabbath",
+      "summary": "The hosts discuss Ozzy Osbourne's bat and dove biting incidents, the reported story of a dead bat thrown on stage in Des Moines, and why he was pushed out of Black Sabbath for being hard to work with.",
+      "topics": [
+        "Ozzy Osbourne",
+        "bat biting",
+        "Black Sabbath firing",
+        "Ozzy Osbourne stunts"
+      ]
+    },
+    {
+      "start": "00:03:17",
+      "end": "00:05:31",
+      "kind": "content",
+      "title": "PMRC, Filthy Fifteen and the sticker",
+      "summary": "The hosts describe the PMRC led by Tipper Gore and its Filthy Fifteen list, where most entries were metal or hard rock. They argue the targets were unjustified and note the resulting explicit lyrics warning sticker.",
+      "topics": [
+        "PMRC",
+        "Tipper Gore",
+        "Filthy Fifteen",
+        "explicit lyrics warning sticker",
+        "music censorship"
+      ]
+    },
+    {
+      "start": "00:05:31",
+      "end": "00:07:10",
+      "kind": "content",
+      "title": "MTV, Headbanger's Ball and metal on television",
+      "summary": "The hosts discuss MTV's eclectic rotation, the early Iron Maiden videos, the move of metal to Headbanger's Ball hosted by Ricky Rockman, and its concert tours.",
+      "topics": [
+        "MTV metal videos",
+        "Headbanger's Ball",
+        "Ricky Rockman",
+        "Iron Maiden MTV",
+        "metal on television"
+      ]
+    },
+    {
+      "start": "00:07:10",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Diversity in metal and hair metal bands",
+      "summary": "The hosts talk about metal's demographics and bands such as Bad Brains, Body Count, Living Colour, The Darkness, and Fishbone, plus hair metal.",
+      "topics": [
+        "metal diversity",
+        "hair metal",
+        "Living Colour",
+        "Fishbone",
+        "The Darkness"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:15",
+      "kind": "content",
+      "title": "Women in metal and leather style",
+      "summary": "The hosts mention women in metal such as Angela Gossow, Alissa White-Gluz, and Nita Strauss, then discuss the leather and studs look and its origin in gay BDSM clubs linked to Rob Halford.",
+      "topics": [
+        "women in metal",
+        "Nita Strauss",
+        "leather and studs",
+        "Rob Halford"
+      ]
+    },
+    {
+      "start": "00:10:15",
+      "end": "00:13:06",
+      "kind": "content",
+      "title": "Metal tropes: umlauts, classical influence, and musicianship",
+      "summary": "The hosts discuss the decorative umlaut, Richard Meltzer's claimed role in it, classical music influence on metal guitarists, and the technical skill needed to play metal.",
+      "topics": [
+        "umlaut in band names",
+        "classical music in metal",
+        "metal musicianship",
+        "Richard Meltzer"
+      ]
+    },
+    {
+      "start": "00:13:06",
+      "end": "00:15:29",
+      "kind": "content",
+      "title": "Guitars and gear: BC Rich",
+      "summary": "The hosts discuss guitar magazines, teachers, and the BC Rich guitar models including the flying bee.",
+      "topics": [
+        "BC Rich guitars",
+        "guitar gear",
+        "Guitar Player magazine"
+      ]
+    },
+    {
+      "start": "00:15:29",
+      "end": "00:17:17",
+      "kind": "content",
+      "title": "Lord of the Rings, Burzum and black metal fonts",
+      "summary": "The hosts discuss Lord of the Rings references in metal, the Burzum project and its name, and the gothic black letter typeface used on metal album logos.",
+      "topics": [
+        "Lord of the Rings in metal",
+        "Burzum",
+        "black metal",
+        "metal fonts",
+        "black letter typeface"
+      ]
+    },
+    {
+      "start": "00:17:17",
+      "end": "00:19:06",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break before the next section on metal's social views and brain studies.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:19:06",
+      "end": "00:23:29",
+      "kind": "content",
+      "title": "Metal's social and political messages",
+      "summary": "The hosts argue metal lyrics are often populist, anti-authoritarian, and anti-war, citing Metallica songs, Megadeth's Peace Sells, the Pantera Nazi salute incident, and left-leaning grindcore bands.",
+      "topics": [
+        "metal political messages",
+        "anti-authoritarian metal",
+        "Metallica politics",
+        "Pantera Phil Anselmo",
+        "Napalm Death"
+      ]
+    },
+    {
+      "start": "00:23:29",
+      "end": "00:28:08",
+      "kind": "content",
+      "title": "Metal and the brain: studies on listeners",
+      "summary": "The hosts discuss research on how metal engages the brain, helps focus for some people with ADHD or autism, and studies of metalheads' personality traits and reactions to violent imagery.",
+      "topics": [
+        "metal and the brain",
+        "metalhead personality study",
+        "music and focus",
+        "violent imagery study"
+      ]
+    },
+    {
+      "start": "00:28:08",
+      "end": "00:32:05",
+      "kind": "content",
+      "title": "Metal subgenres: mathcore, mathrock, metalcore",
+      "summary": "The hosts break down mathcore as a combination of mathrock and metalcore, explain extreme metal's subgenres, and note how finely divided metal is.",
+      "topics": [
+        "mathcore",
+        "mathrock",
+        "metalcore",
+        "extreme metal subgenres",
+        "metal subgenres"
+      ]
+    },
+    {
+      "start": "00:32:05",
+      "end": "00:37:11",
+      "kind": "content",
+      "title": "Album cover art",
+      "summary": "The hosts discuss metal album art, citing Black Sabbath's debut cover, Iron Maiden and Derek Riggs, Metallica's Master of Puppets, Slayer's Reign in Blood, Dio's Holy Diver with mascot Murray, and Rainbow's Rising.",
+      "topics": [
+        "metal album cover art",
+        "Black Sabbath cover",
+        "Master of Puppets cover",
+        "Holy Diver cover",
+        "Reign in Blood cover"
+      ]
+    },
+    {
+      "start": "00:37:11",
+      "end": "00:40:10",
+      "kind": "content",
+      "title": "Guns N' Roses cover, Quiet Riot and Metal Health",
+      "summary": "The hosts discuss the controversial Appetite for Destruction cover and its inner sleeve, and Quiet Riot's Metal Health reaching number one as the first metal band to top the charts.",
+      "topics": [
+        "Appetite for Destruction cover controversy",
+        "Quiet Riot",
+        "Metal Health album",
+        "first metal number one"
+      ]
+    },
+    {
+      "start": "00:40:10",
+      "end": "00:46:31",
+      "kind": "content",
+      "title": "Death of Randy Rhoads",
+      "summary": "The hosts recount Randy Rhoads' career from Quiet Riot to Ozzy Osbourne's band, the Leesburg, Florida plane crash in March 1982 in which Andrew Aycock flew a Beechcraft Bonanza that clipped the tour bus, killing Rhoads and Rachel Youngblood, and the effect on Ozzy.",
+      "topics": [
+        "Randy Rhoads death",
+        "Randy Rhoads plane crash",
+        "Leesburg Florida crash",
+        "Andrew Aycock",
+        "Ozzy Osbourne tour bus"
+      ]
+    },
+    {
+      "start": "00:46:31",
+      "end": "00:48:22",
+      "kind": "content",
+      "title": "Kawaii metal and Rolling Stone's top metal albums",
+      "summary": "The hosts introduce kawaii metal with Babymetal and Lady Baby, then read Rolling Stone's top ten metal albums list, with Black Sabbath's Paranoid at number one.",
+      "topics": [
+        "kawaii metal",
+        "Babymetal",
+        "Rolling Stone top metal albums",
+        "Paranoid"
+      ]
+    },
+    {
+      "start": "00:48:22",
+      "end": "00:51:30",
+      "kind": "listener_mail",
+      "title": "Book and horror movie recommendations",
+      "summary": "Instead of listener mail, the hosts recommend Keith Rosson's books Fever House, The Devil by Name, and Coffin Moon, plus horror films Best Wishes to All and Red Rooms.",
+      "topics": [
+        "book recommendations",
+        "Keith Rosson",
+        "horror movies",
+        "Best Wishes to All",
+        "Red Rooms"
+      ]
+    },
+    {
+      "start": "00:51:30",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite email feedback about heavy metal and close the episode.",
+      "topics": [
+        "outro",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20605,
+    "output_tokens": 4578
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-03-25_Space_Junk_Ahoy_49min.txt",
+  "title": "Space Junk, Ahoy!",
+  "date": "2021-03-25",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/space-junk-ahoy",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4d6a128f-0d88-4783-a0a9-ae28001e4151/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d6a128f-0d88-4783-a0a9-ae28001e4151/transcript?format=TextWithTimestamps&t=1700543598",
+  "summary": "Josh and Chuck explore space junk (orbital debris): what it is, why it is dangerous, and the Kessler syndrome chain-reaction of collisions. They cover the kinds of debris (dead satellites, rocket upper stages, unspent fuel, paint flecks), NASA and US Department of Defense tracking, the 2009 Iridium-Cosmos collision, anti-satellite weapons, mega-constellations like SpaceX Starlink, ISS collision avoidance and the \"pizza box\" risk zone, the Surrey Univ. RemoveDEBRIS mission and other removal ideas (nets, harpoons, claws, magnets), ESA's ENVISAT bounty, deorbiting and Point Nemo as a disposal zone. The episode opens with banter about flatulence and lighting farts, and closes with a listener letter from Ray about her husband being jealous of the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "space junk",
+    "orbital debris",
+    "space debris",
+    "Kessler syndrome",
+    "satellite collisions",
+    "Iridium Cosmos collision 2009",
+    "anti-satellite weapons",
+    "ASAT missile tests",
+    "Starlink mega-constellation",
+    "ISS collision avoidance",
+    "pizza box collision zone",
+    "Point Nemo",
+    "spacecraft deorbiting",
+    "debris removal",
+    "RemoveDEBRIS",
+    "ENVISAT",
+    "Sputnik",
+    "Space Surveillance catalog",
+    "Skylab reentry",
+    "paint flecks in orbit",
+    "low Earth orbit",
+    "geostationary orbit",
+    "Donald Kessler",
+    "space tourism",
+    "space pollution regulation"
+  ],
+  "entities": [
+    {
+      "name": "Space junk",
+      "type": "other"
+    },
+    {
+      "name": "Donald Kessler",
+      "type": "person"
+    },
+    {
+      "name": "Kessler syndrome",
+      "type": "event"
+    },
+    {
+      "name": "Sputnik",
+      "type": "other"
+    },
+    {
+      "name": "Iridium",
+      "type": "organization"
+    },
+    {
+      "name": "Cosmos 2251",
+      "type": "other"
+    },
+    {
+      "name": "International Space Station",
+      "type": "other"
+    },
+    {
+      "name": "SpaceX",
+      "type": "organization"
+    },
+    {
+      "name": "Starlink",
+      "type": "work"
+    },
+    {
+      "name": "Skylab",
+      "type": "other"
+    },
+    {
+      "name": "ENVISAT",
+      "type": "other"
+    },
+    {
+      "name": "Point Nemo",
+      "type": "place"
+    },
+    {
+      "name": "Hubble Space Telescope",
+      "type": "other"
+    },
+    {
+      "name": "European Space Agency",
+      "type": "organization"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Union of Concerned Scientists",
+      "type": "organization"
+    },
+    {
+      "name": "Clear Space",
+      "type": "organization"
+    },
+    {
+      "name": "University of Surrey",
+      "type": "organization"
+    },
+    {
+      "name": "Gravity",
+      "type": "work"
+    },
+    {
+      "name": "Armageddon",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:10",
+      "kind": "intro",
+      "title": "Opening banter and intro to space junk",
+      "summary": "Josh and Chuck open with banter about flatulence and lighting farts, then Josh introduces space junk and the Kessler syndrome, a chain reaction of orbital collisions proposed by NASA's Donald Kessler.",
+      "topics": [
+        "Kessler syndrome",
+        "Donald Kessler",
+        "space junk",
+        "orbital collisions"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "What space junk is and types of debris",
+      "summary": "The hosts define space junk as human-made objects in orbit: abandoned or dead spacecraft, rocket upper stages, unspent solid rocket fuel and gunpowder, and paint flecks that can damage spacecraft. Astronauts' tools lost on spacewalks are also mentioned.",
+      "topics": [
+        "space junk definition",
+        "rocket upper stages",
+        "rocket fuel debris",
+        "paint flecks",
+        "orbital decay"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Origins, tracking and orbit types",
+      "summary": "Space junk began with Sputnik. NORAD has catalogued objects since 1957, and the US Department of Defense tracks objects roughly softball or grapefruit sized and larger. The catalog includes Gene Roddenberry's cremated remains and Elon Musk's Tesla roadster. Estimates are about 20,000 softball-sized pieces and 500,000 marble-sized or larger pieces. Lower Earth orbit, medium Earth orbit, and geostationary orbit are described.",
+      "topics": [
+        "space debris tracking",
+        "Sputnik",
+        "NORAD catalog",
+        "Space Surveillance",
+        "low Earth orbit",
+        "geostationary orbit",
+        "Tesla roadster in space"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:16:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before the discussion of mitigation and anti-satellite weapons.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Anti-satellite weapons and the 2009 Iridium-Cosmos collision",
+      "summary": "Countries including the USA, China and India have tested anti-satellite missiles, which the hosts describe as a show of force that creates debris. In February 2009 the defunct Russian Cosmos 2251 collided with an operational Iridium satellite at about 22,000 mph, producing thousands of pieces. Collision avoidance maneuvers were not performed.",
+      "topics": [
+        "anti-satellite weapons",
+        "ASAT tests",
+        "Iridium Cosmos collision 2009",
+        "satellite collisions",
+        "kinetic kill"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Mega-constellations and rising crowding in orbit",
+      "summary": "The number of active satellites is rising quickly. Companies including SpaceX plan mega-constellations such as Starlink, which would need about 12,000 satellites, raising the chance of collisions. The Union of Concerned Scientists counts about 3,372 active satellites and at least 3,000 inactive ones. The ESA official compares the situation to a tragedy of the commons.",
+      "topics": [
+        "Starlink",
+        "mega-constellations",
+        "satellite internet",
+        "tragedy of the commons",
+        "orbital crowding"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Risks to the ISS and crew safety",
+      "summary": "The hosts discuss threats to the ISS at about 250 miles up, including paint flecks and debris. NASA and partner agencies use a pizza-box shaped risk zone around objects, and collision avoidance maneuvers are triggered at roughly a one-in-100,000 probability. If there is no time to move the station, the crew shelters in a docked Soyuz or SpaceX Dragon capsule. Scott Kelly's account of such a shelter event is recounted.",
+      "topics": [
+        "ISS collision avoidance",
+        "pizza box risk zone",
+        "Soyuz",
+        "SpaceX Dragon",
+        "Scott Kelly",
+        "Hubble servicing damage",
+        "Gravity film"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:36:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before the discussion of solutions to space junk.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Debris removal, deorbiting and regulation",
+      "summary": "The UN asks space actors to remove satellites within 25 years of their mission ending, with no clear enforcement. Removal ideas include nets, harpoons, claws and magnets. ESA offered a bounty for removing the defunct ENVISAT, a school-bus-sized spinning satellite; a Surrey University team tested a harpoon and net system, and Clear Space planned a claw. Reusable rockets and deorbiting upper stages are described as best practice, and the hosts mention SpaceX booster landings.",
+      "topics": [
+        "debris removal",
+        "ENVISAT",
+        "RemoveDEBRIS",
+        "Clear Space",
+        "UN space debris guidelines",
+        "deorbiting",
+        "SpaceX booster landing",
+        "space mining"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Controlled reentry and Point Nemo",
+      "summary": "Uncontrolled reentries such as Skylab's 1979 fall in Western Australia show the risk. Space stations are deorbited into the remote South Pacific at Point Nemo, the point farthest from land, identified with software by a survey engineer, and used for decades. The hosts also mention the area's low biodiversity and the connection to HP Lovecraft.",
+      "topics": [
+        "Point Nemo",
+        "Skylab reentry",
+        "controlled deorbit",
+        "ISS deorbit",
+        "South Pacific spacecraft graveyard"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: my husband is jealous of Josh and Chuck",
+      "summary": "A listener named Ray from Phoenix writes that her night-shift husband is jealous of the show after finding the book on his pillow, and thanks the hosts for helping her sleep. Hosts close with a plug for the newsletter and contact email.",
+      "topics": [
+        "listener mail",
+        "Stuff You Should Know book",
+        "newsletter"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15905,
+    "output_tokens": 3333
+  }
+}

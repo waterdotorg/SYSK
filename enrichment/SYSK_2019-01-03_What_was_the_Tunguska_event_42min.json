@@ -1,0 +1,196 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-01-03_What_was_the_Tunguska_event_42min.txt",
+  "title": "What was the Tunguska event?",
+  "date": "2019-01-03",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-was-the-tunguska-event",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a981fb55-79ed-4a19-b7de-ae2800549180/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a981fb55-79ed-4a19-b7de-ae2800549180/transcript?format=TextWithTimestamps&t=1700543713",
+  "summary": "Josh and Chuck discuss the 1908 Tunguska event, a massive explosion over the Siberian Plateau near the Stony Tunguska River on June 30, 1908, that flattened roughly 770 square miles of forest. They cover the eyewitness accounts from Evenki reindeer herders, the early theories (meteorite, earthquake, comet), Leonid Kulik's expeditions and failure to find a crater, the modern airburst explanation, space dust evidence, the 2013 Chelyabinsk meteor, and the similar 1930 Brazil event and the proposed Dead Sea event linked to Sodom. The episode opens with banter and plugs for Behind the Bastards and Invention, and closes with a listener mail from a teacher and tour announcements.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Tunguska event",
+    "1908 Tunguska explosion",
+    "Tunguska airburst",
+    "meteor airburst",
+    "Leonid Kulik",
+    "Siberia 1908 explosion",
+    "Evenki reindeer herders",
+    "Chelyabinsk meteor 2013",
+    "Brazil 1930 explosion",
+    "Dead Sea explosion Sodom legend",
+    "comet impact theory",
+    "near-Earth objects",
+    "Project Spaceguard",
+    "impact crater search",
+    "meteorite hunting",
+    "space dust Tunguska",
+    "Stony Tunguska River",
+    "Russian history meteor"
+  ],
+  "entities": [
+    {
+      "name": "Tunguska event",
+      "type": "event"
+    },
+    {
+      "name": "Leonid Kulik",
+      "type": "person"
+    },
+    {
+      "name": "Evenki",
+      "type": "organization"
+    },
+    {
+      "name": "Stony Tunguska River",
+      "type": "place"
+    },
+    {
+      "name": "Siberia",
+      "type": "place"
+    },
+    {
+      "name": "Chelyabinsk meteor",
+      "type": "event"
+    },
+    {
+      "name": "Hiroshima atomic bomb",
+      "type": "event"
+    },
+    {
+      "name": "Brazil Amazon explosion 1930",
+      "type": "event"
+    },
+    {
+      "name": "Tall el-Hammam",
+      "type": "place"
+    },
+    {
+      "name": "Behind the Bastards",
+      "type": "work"
+    },
+    {
+      "name": "Invention",
+      "type": "work"
+    },
+    {
+      "name": "Stuff to Blow Your Mind",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and show plugs",
+      "summary": "Josh and Chuck banter about a live Christmas show, then plug Behind the Bastards and the new Stuff to Blow Your Mind spinoff Invention.",
+      "topics": [
+        "live show",
+        "Behind the Bastards",
+        "Invention podcast",
+        "Stuff to Blow Your Mind",
+        "podcast album art"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "The 1908 Tunguska blast and eyewitness scene",
+      "summary": "Josh sets the scene at the Stony Tunguska River on June 30, 1908, describing the fireball, flash, heat and shock wave around 7:17 am local time. They compare the yield to Hiroshima and describe damage to huts, reindeer and the Evenki people's way of life.",
+      "topics": [
+        "Tunguska event",
+        "1908 Tunguska explosion",
+        "Hiroshima comparison",
+        "Evenki reindeer herders",
+        "Siberia 1908"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "Flattened forest and similar events",
+      "summary": "They describe trees flattened radially over about 770 square miles, with standing trunks stripped of branches at the center. They note the 1930 Brazil explosion near the Crusoé river and a proposed event around the Dead Sea linked to the Sodom legend, with glassified pottery at Tall el-Hammam.",
+      "topics": [
+        "flattened forest",
+        "Tunguska tree damage",
+        "Brazil 1930 explosion",
+        "Dead Sea explosion Sodom legend",
+        "Tall el-Hammam"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:19:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the next segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Leonid Kulik and early expeditions",
+      "summary": "Kulik, a Soviet meteorite scientist, reads old press clippings and mounts expeditions starting in 1927. He fails to find a crater, finds upright central trees and suspects a swamp hid the crater. Early theories included an earthquake and a meteorite.",
+      "topics": [
+        "Leonid Kulik",
+        "meteorite hunting",
+        "1927 expedition",
+        "impact crater search",
+        "early theories"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Competing theories: comet, crater, and meteor",
+      "summary": "They discuss theories including the Lake Cheko idea, a comet impact, and the lack of iridium and osmium in the soil. Space dust found in the soil supports a meteor that exploded in the air, the leading theory.",
+      "topics": [
+        "comet impact theory",
+        "iridium osmium",
+        "Lake Cheko",
+        "airburst theory",
+        "space dust"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Airburst explanation and modern risk",
+      "summary": "They explain the airburst physics for a roughly 120-foot object traveling about 33,000 miles per hour. They discuss how often such events might happen, Project Spaceguard, and the 2013 Chelyabinsk meteor.",
+      "topics": [
+        "airburst physics",
+        "Project Spaceguard",
+        "Chelyabinsk meteor 2013",
+        "near-Earth objects",
+        "asteroid risk"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from a teacher and tour dates",
+      "summary": "A listener who teaches AP psychology thanks the show, then Josh and Chuck mention live show dates and contact information.",
+      "topics": [
+        "listener mail",
+        "teaching with podcasts",
+        "live shows"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13240,
+    "output_tokens": 2180
+  }
+}

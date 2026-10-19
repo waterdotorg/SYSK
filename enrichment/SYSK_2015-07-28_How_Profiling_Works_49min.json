@@ -1,0 +1,239 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-07-28_How_Profiling_Works_49min.txt",
+  "title": "How Profiling Works",
+  "date": "2015-07-28",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-profiling-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/47856fb8-4d90-470c-bbf5-ae28008c86dd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/47856fb8-4d90-470c-bbf5-ae28008c86dd/transcript?format=TextWithTimestamps&t=1700543856",
+  "summary": "Hosts open with Chuck announcing the birth of his daughter Ruby Rose and thanking people from their Tulsa stay, then turn to listener mail and the main topic: how profiling works in policing. They cover accepted forms (be-on-the-lookout descriptions, psychological profiling, predictive profiling), the Fourth and Fourteenth Amendments, Terry v. Ohio and articulable suspicion, cumulative similarities, US v. Sokolow, traffic stops and consent searches, drug dog sniffs and the 2015 Rodriguez-era limits on prolonged detention, racial profiling and its effectiveness, the New Jersey State Troopers case, post-9/11 airport profiling, and the 1972 Lod Airport attack. The episode closes with a listener mail story about a water slide mishap at Typhoon Lagoon.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "profiling",
+    "racial profiling",
+    "police profiling",
+    "predictive profiling",
+    "psychological profiling",
+    "all points bulletin",
+    "Terry stops",
+    "Terry v. Ohio",
+    "articulable suspicion",
+    "cumulative similarities",
+    "US v. Sokolow",
+    "Fourth Amendment",
+    "Fourteenth Amendment",
+    "probable cause",
+    "traffic stops",
+    "consent searches",
+    "drug dog sniffs",
+    "stop and frisk",
+    "New Jersey State Troopers",
+    "airport security profiling",
+    "Lod Airport attack",
+    "listener mail",
+    "Typhoon Lagoon"
+  ],
+  "entities": [
+    {
+      "name": "Ruby Rose Bryant",
+      "type": "person"
+    },
+    {
+      "name": "Terry v. Ohio",
+      "type": "event"
+    },
+    {
+      "name": "US v. Sokolow",
+      "type": "event"
+    },
+    {
+      "name": "Bob Vogel",
+      "type": "person"
+    },
+    {
+      "name": "Rafael Ron",
+      "type": "person"
+    },
+    {
+      "name": "New Jersey State Troopers",
+      "type": "organization"
+    },
+    {
+      "name": "Typhoon Lagoon",
+      "type": "place"
+    },
+    {
+      "name": "Ben Gurion Airport",
+      "type": "place"
+    },
+    {
+      "name": "Palo Alto",
+      "type": "place"
+    },
+    {
+      "name": "Why Baltimore Blew Up",
+      "type": "work"
+    },
+    {
+      "name": "Fourth Amendment",
+      "type": "other"
+    },
+    {
+      "name": "Fourteenth Amendment",
+      "type": "other"
+    },
+    {
+      "name": "Japanese Red Army",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Chuck's baby announcement and Tulsa thanks",
+      "summary": "Chuck announces the birth of his daughter Ruby Rose, born on his birthday, and the hosts thank people who hosted them in Tulsa, Oklahoma, plus their caseworker and fans.",
+      "topics": [
+        "Ruby Rose",
+        "Tulsa Oklahoma",
+        "personal news",
+        "birth announcement"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Introduction to profiling and accepted forms",
+      "summary": "The hosts introduce profiling as a divisive topic and describe the accepted form of an all points bulletin, where a suspect description is based on eyewitness accounts after a crime.",
+      "topics": [
+        "profiling",
+        "all points bulletin",
+        "eyewitness descriptions",
+        "suspect description"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Psychological profiling",
+      "summary": "Psychological profiling is described as filling in gaps using crime scene clues when there is little physical evidence or no eyewitness, with the hosts noting it is a guessing game and comparing it with Sherlock Holmes.",
+      "topics": [
+        "psychological profiling",
+        "criminal profiling",
+        "crime scene clues",
+        "Sherlock Holmes"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Predictive profiling and drug courier examples",
+      "summary": "Predictive profiling tries to anticipate crimes and is more controversial. The hosts describe a South Florida drug trafficking profile and note that a profile must be tied to a time and place to be justified.",
+      "topics": [
+        "predictive profiling",
+        "drug courier profile",
+        "drug trafficking",
+        "Miami profile"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Terry stops, articulable suspicion and cumulative similarities",
+      "summary": "The hosts explain Terry v. Ohio and articulable suspicion, and the cumulative similarities approach attributed to Florida Highway Patrolman Bob Vogel, which combines many factors into a profile.",
+      "topics": [
+        "Terry v. Ohio",
+        "Terry stops",
+        "articulable suspicion",
+        "cumulative similarities",
+        "Bob Vogel",
+        "broken windows policing"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Fourth and Fourteenth Amendments and probable cause",
+      "summary": "The hosts read the text of the Fourth Amendment and discuss probable cause, warrants, rubber-stamping, and how the Fourteenth Amendment's due process clause relates to profiling.",
+      "topics": [
+        "Fourth Amendment",
+        "Fourteenth Amendment",
+        "probable cause",
+        "search warrants",
+        "due process"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "US v. Sokolow case",
+      "summary": "The hosts describe US v. Sokolow, in which a man at Honolulu airport carrying a kilo of cocaine was arrested based on a combination of travel behaviors; the Supreme Court found the totality of evidence sufficient.",
+      "topics": [
+        "US v. Sokolow",
+        "Supreme Court",
+        "totality of circumstances",
+        "airport drug arrest",
+        "Honolulu airport"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Traffic stops, consent searches and drug dogs",
+      "summary": "The hosts cover legal grounds for traffic stops, plain view, refusing consent to searches, detention while waiting for canine units, and a recent Supreme Court ruling limiting prolonged detention for drug dog sniffs. Chuck shares a story of being searched in Texas.",
+      "topics": [
+        "traffic stops",
+        "plain view",
+        "consent searches",
+        "drug dog sniffs",
+        "canine unit",
+        "Supreme Court traffic stop ruling"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Racial profiling debate and effectiveness",
+      "summary": "The hosts discuss racial profiling, arguments on both sides using the same statistics, the view of a former Palo Alto police chief that it is ineffective and lazy policing, the New Jersey State Troopers case, state anti-profiling laws, and post-9/11 airport profiling including the Lod Airport attack.",
+      "topics": [
+        "racial profiling",
+        "New Jersey State Troopers",
+        "prison statistics",
+        "stop and frisk",
+        "post-9/11 profiling",
+        "Lod Airport attack",
+        "Japanese Red Army",
+        "Ben Gurion Airport"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:02:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: water slide mishap",
+      "summary": "Listener Tiffany describes an embarrassing accident on the Cowabunga water slide at Typhoon Lagoon at Disney World as an eleven year old. The hosts close with listener contact information.",
+      "topics": [
+        "listener mail",
+        "Typhoon Lagoon",
+        "Disney World water slide",
+        "Cowabunga slide"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15857,
+    "output_tokens": 2702
+  }
+}

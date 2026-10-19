@@ -1,0 +1,272 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-06-16_The_War_on_Fat_The_Seven_Countries_Study_48min.txt",
+  "title": "The War on Fat: The Seven Countries Study",
+  "date": "2020-06-16",
+  "duration": "48 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-war-on-fat-the-seven-countries-study",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e3d1ab70-7b89-4266-86e0-ae2800342a18/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e3d1ab70-7b89-4266-86e0-ae2800342a18/transcript?format=TextWithTimestamps&t=1700543622",
+  "summary": "Josh and Chuck open with a book preorder plug for their upcoming book, then discuss the \"war on fat\" in the US in the 1980s and 1990s and the Seven Countries Study led by physiologist Ancel Keys, which began in the 1950s and was used to support low-fat dietary guidance and the food pyramid. They cover Keys's background (K rations, Minnesota starvation experiment, Mediterranean diet cookbooks), the six country graph, the choice of seven countries and sixteen cohorts with about 12,763 participants, the findings on serum cholesterol, saturated fat and heart disease (including the Finland, Dalmatia, Crete and Minnesota railroad worker cohorts), later follow-up studies, criticisms of correlation versus causation and the study's design, the sugar and saturated fat finding, the role of processed food and refined sugar, the Dr. Zoe Harcombe critique about sunshine and vitamin D, and modern obesity and diabetes trends. They end with a discussion of alcohol, hangover remedies, and moderation, followed by a listener mail segment about jackhammers and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Seven Countries Study",
+    "Ancel Keys",
+    "war on fat",
+    "low fat diet trend",
+    "food pyramid",
+    "saturated fat and heart disease",
+    "serum cholesterol",
+    "Mediterranean diet",
+    "six country graph",
+    "cohort study",
+    "correlation versus causation",
+    "processed food and sugar",
+    "high fructose corn syrup",
+    "Finland heart disease",
+    "Minnesota railroad workers study",
+    "Zoe Harcombe critique",
+    "vitamin D and sunshine",
+    "obesity and type 2 diabetes trends",
+    "moderate alcohol and heart health",
+    "listener mail",
+    "jackhammers"
+  ],
+  "entities": [
+    {
+      "name": "Ancel Keys",
+      "type": "person"
+    },
+    {
+      "name": "Margaret Keys",
+      "type": "person"
+    },
+    {
+      "name": "Seven Countries Study",
+      "type": "event"
+    },
+    {
+      "name": "Six Country Graph",
+      "type": "work"
+    },
+    {
+      "name": "Henry Blackburn",
+      "type": "person"
+    },
+    {
+      "name": "Zoe Harcombe",
+      "type": "person"
+    },
+    {
+      "name": "Norman Borlaug",
+      "type": "person"
+    },
+    {
+      "name": "Minnesota starvation experiment",
+      "type": "event"
+    },
+    {
+      "name": "K ration",
+      "type": "other"
+    },
+    {
+      "name": "Mediterranean diet",
+      "type": "other"
+    },
+    {
+      "name": "Crete",
+      "type": "place"
+    },
+    {
+      "name": "Finland",
+      "type": "place"
+    },
+    {
+      "name": "Dalmatia",
+      "type": "place"
+    },
+    {
+      "name": "Minnesota",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Southern Italy",
+      "type": "place"
+    },
+    {
+      "name": "Food Pyramid",
+      "type": "work"
+    },
+    {
+      "name": "Zutphen Study",
+      "type": "work"
+    },
+    {
+      "name": "HALE Project",
+      "type": "work"
+    },
+    {
+      "name": "United States Department of Health and Human Services",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "ad",
+      "title": "Book preorder announcement",
+      "summary": "Hosts promote their upcoming first book, Stuff You Should Know: An Incomplete Compendium of Mostly Interesting Things, available for preorder.",
+      "topics": [
+        "book preorder",
+        "Stuff You Should Know book"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:08:00",
+      "kind": "intro",
+      "title": "Opening banter and the war on fat",
+      "summary": "Hosts introduce the heart healthy episode and argue that fat is not as harmful as the 1980s and 1990s low-fat trend suggested. They say low-fat foods replaced fat with sugar and high fructose corn syrup, which may have contributed to obesity and diabetes.",
+      "topics": [
+        "war on fat",
+        "low fat diet trend",
+        "high fructose corn syrup",
+        "obesity and diabetes"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Ancel Keys and the origins of the study",
+      "summary": "Hosts describe physiologist Ancel Keys, his background including K rations and the Minnesota starvation experiment, his Mediterranean diet books, and his motivation to study heart disease in middle-aged American men.",
+      "topics": [
+        "Ancel Keys",
+        "K rations",
+        "Minnesota starvation experiment",
+        "Mediterranean diet",
+        "heart disease history"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Hypothesis, six country graph and country selection",
+      "summary": "Keys visited southern Italy in the early 1950s, formed the hypothesis that serum cholesterol and saturated fat drive heart disease, compiled data from 22 countries into the six country graph, and selected seven countries for the study with little funding. The study was designed to run about twenty-five years.",
+      "topics": [
+        "six country graph",
+        "serum cholesterol hypothesis",
+        "southern Italy",
+        "study design",
+        "saturated fat"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Cohorts and the Finland and Dalmatia findings",
+      "summary": "The study had sixteen cohorts totaling 12,763 men across seven countries. Hosts describe Finland's high-fat diet and heart attack rates, the Dalmatia cohort with low cholesterol and few deaths, and the Crete and Minnesota railroad worker results.",
+      "topics": [
+        "cohorts",
+        "Finland heart disease",
+        "Dalmatia",
+        "Crete",
+        "Minnesota railroad workers",
+        "saturated fat and heart attacks"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Croatia digression and alcohol discussion",
+      "summary": "Hosts recount a cruise around Italy and the Adriatic, then discuss the wine and chocolate sweet spot, the effects of drinking, and hangover remedies such as B12 shots.",
+      "topics": [
+        "Croatia travel",
+        "moderate alcohol",
+        "wine and chocolate",
+        "hangover remedies",
+        "B12 shots"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Follow-up studies and the sugar finding",
+      "summary": "Later follow-up studies such as Zutphen and HALE continued the cohorts, finding Mediterranean diet and fish benefits. Reanalysis found sugar correlated with heart disease, but the association disappeared when saturated fat was factored in, suggesting a combined sugar and fat effect with processed food.",
+      "topics": [
+        "Zutphen Study",
+        "HALE Project",
+        "fish and heart health",
+        "sugar and saturated fat",
+        "processed food"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Criticisms of the Seven Countries Study",
+      "summary": "Hosts explain criticisms that the study was ecological and correlational, with too many confounding differences between cohorts and no proper control group. They note the Minnesota and Finland comparisons had similar fat intake but different heart attack rates. Zoe Harcombe's point about sunshine and vitamin D is raised.",
+      "topics": [
+        "correlation versus causation",
+        "ecological study",
+        "confounding variables",
+        "Zoe Harcombe",
+        "vitamin D and sunshine"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:45:30",
+      "kind": "content",
+      "title": "Food pyramid impact and modern health trends",
+      "summary": "Hosts argue the Department of Health and Human Services ran with the findings and the food pyramid demonized all fats, while good fats from fish, olive oil and avocados are beneficial and industrially processed fats are harmful. They note rising type 2 diabetes and obesity despite the low-fat push.",
+      "topics": [
+        "food pyramid",
+        "good fats versus bad fats",
+        "trans fats",
+        "type 2 diabetes",
+        "obesity rates"
+      ]
+    },
+    {
+      "start": "00:45:30",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Moderation advice and closing",
+      "summary": "Hosts advise moderation, portion control and real food, and reflect on their own indulgences before a listener mail segment about jackhammers and a sign-off.",
+      "topics": [
+        "moderation",
+        "portion control",
+        "healthy eating"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: jackhammers",
+      "summary": "A listener named Chris from Massachusetts, a mechanical engineer, writes about the jackhammer episode, explaining the resonant ring of the moil point and his work on dampers. The hosts thank him and invite unsung hero submissions.",
+      "topics": [
+        "listener mail",
+        "jackhammers",
+        "unsung heroes"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15285,
+    "output_tokens": 3087
+  }
+}

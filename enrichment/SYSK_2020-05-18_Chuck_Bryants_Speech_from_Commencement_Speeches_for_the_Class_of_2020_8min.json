@@ -1,0 +1,144 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-05-18_Chuck_Bryants_Speech_from_Commencement_Speeches_for_the_Class_of_2020_8min.txt",
+  "title": "Chuck Bryant's Speech from Commencement: Speeches for the Class of 2020",
+  "date": "2020-05-18",
+  "duration": "8 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/chuck-bryants-speech-from-commencement-speeches-fo",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/24a222f0-2084-4d13-97b0-ae2800361c72/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/24a222f0-2084-4d13-97b0-ae2800361c72/transcript?format=TextWithTimestamps&t=1700543628",
+  "summary": "A fake commencement speech for the Class of 2020, delivered by Chuck Bryant as part of the \"Commencement Speeches for the Class of 2020\" series from iHeartRadio. Chuck acknowledges the cancelled graduations and senior milestones caused by COVID-19, calls the students the \"Quarantine Class,\" argues that disappointment builds resilience, and urges graduates to use the pause to reshape the world into a better, kinder one. The episode opens and closes with ad reads (Metro by T-Mobile, Cal Hope, DirecTV Stream) and an introduction by the series host.",
+  "episode_kind": "other",
+  "rerun_of": null,
+  "topics": [
+    "commencement speech",
+    "class of 2020",
+    "COVID-19 pandemic",
+    "quarantine class",
+    "cancelled graduation",
+    "virtual graduation",
+    "resilience",
+    "life disappointments",
+    "pandemic and young people",
+    "Chuck Bryant",
+    "Stuff You Should Know",
+    "iHeartRadio Commencement Podcast",
+    "Cal Hope",
+    "Metro by T-Mobile",
+    "DirecTV Stream"
+  ],
+  "entities": [
+    {
+      "name": "Chuck Bryant",
+      "type": "person"
+    },
+    {
+      "name": "Stuff You Should Know",
+      "type": "work"
+    },
+    {
+      "name": "Commencement Speeches for the Class of 2020",
+      "type": "work"
+    },
+    {
+      "name": "COVID-19",
+      "type": "event"
+    },
+    {
+      "name": "Cal Hope",
+      "type": "organization"
+    },
+    {
+      "name": "Metro by T-Mobile",
+      "type": "organization"
+    },
+    {
+      "name": "DirecTV Stream",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:20",
+      "kind": "ad",
+      "title": "Opening sponsor reads",
+      "summary": "Ad reads for Metro by T-Mobile's 5G plans, Cal Hope's free holiday emotional support line, and DirecTV Stream.",
+      "topics": [
+        "Metro by T-Mobile",
+        "Cal Hope",
+        "DirecTV Stream",
+        "sponsor reads"
+      ]
+    },
+    {
+      "start": "00:01:20",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Commencement introduction",
+      "summary": "The series introduces the virtual commencement for the Class of 2020, noting the traditional graduation was on hold, and introduces Chuck Bryant as speaker.",
+      "topics": [
+        "virtual commencement",
+        "class of 2020",
+        "commencement speech"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Acknowledging the cancelled senior year",
+      "summary": "Chuck says the graduates have worked hard for years only to lose graduation, senior events and the final walk out of school, and calls them the Quarantine Class. He admits he uses humor to deflect pain and mentions his niece, friends' kids, and his almost five-year-old daughter whose preschool class is also affected.",
+      "topics": [
+        "cancelled graduation",
+        "quarantine class",
+        "COVID-19 pandemic",
+        "senior year disappointment",
+        "pandemic and families"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Disappointment, resilience and the value of pain",
+      "summary": "Chuck argues life is a mix of sweet and bitter experiences, that sadness and pain have value and produce great art and history, and that the graduates will be better prepared for future disappointments.",
+      "topics": [
+        "resilience",
+        "life disappointments",
+        "emotional range",
+        "value of sadness"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:07:40",
+      "kind": "content",
+      "title": "Using the pause to reshape the world",
+      "summary": "Chuck says the world has paused, urges graduates to use this time to think about making the world better, rejects returning to the old normal, and calls on young people to lead change by slowing down and being kinder to the earth and each other.",
+      "topics": [
+        "social change",
+        "post-pandemic world",
+        "young people and activism",
+        "rethinking normal"
+      ]
+    },
+    {
+      "start": "00:07:40",
+      "end": "00:08:00",
+      "kind": "outro",
+      "title": "Closing remarks and sign-off",
+      "summary": "Chuck closes by telling the class they were cheated but the experience will not define them, congratulates them, and points listeners to the Commencement Podcast on iHeartRadio.",
+      "topics": [
+        "congratulations",
+        "graduation closing",
+        "Commencement Podcast"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3684,
+    "output_tokens": 1563
+  }
+}

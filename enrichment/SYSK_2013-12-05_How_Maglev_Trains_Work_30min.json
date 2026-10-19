@@ -1,0 +1,206 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-12-05_How_Maglev_Trains_Work_30min.txt",
+  "title": "How Maglev Trains Work",
+  "date": "2013-12-05",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-maglev-trains-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/72213f27-7472-4e02-89ee-ae28009bfaee/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/72213f27-7472-4e02-89ee-ae28009bfaee/transcript?format=TextWithTimestamps&t=1700543891",
+  "summary": "Josh and Chuck explain maglev (magnetic levitation) trains: how they float and propel using magnets without friction, the three leading suspension systems (German electromagnetic suspension/Transrapid, Japanese electrodynamic suspension using the Meissner effect and superconductors, and Inductrack permanent-magnet Halbach arrays), the Shanghai maglev line, Japan's Tokyo-Nagoya-Osaka plans and speed records, proposed US lines (Northeast Maglev Washington-Baltimore, Atlanta-Chattanooga, Las Vegas), the 2006 Emsland test-track crash in Germany, hyperloop and Earth-tunneling ideas, and listener mail about the Legacy Quest film festival for students. Note: the transcript is an early HowStuffWorks-era episode, and some figures in it are garbled (e.g., hyperloop speed, the Japanese record speed); the summary reports the content as stated.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "maglev trains",
+    "magnetic levitation",
+    "maglev",
+    "electromagnetic suspension",
+    "electrodynamic suspension",
+    "Transrapid",
+    "Meissner effect",
+    "superconductors",
+    "Inductrack",
+    "Halbach array",
+    "Shanghai maglev",
+    "Japan maglev",
+    "JR Central Chuo Shinkansen",
+    "high-speed rail",
+    "bullet train",
+    "hyperloop",
+    "Elon Musk",
+    "Northeast Maglev",
+    "Washington Baltimore maglev",
+    "Emsland maglev crash",
+    "vacuum tube transport",
+    "Earth tunnel train",
+    "Legacy Quest film festival",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Maglev",
+      "type": "other"
+    },
+    {
+      "name": "Transrapid",
+      "type": "organization"
+    },
+    {
+      "name": "Shanghai Maglev",
+      "type": "work"
+    },
+    {
+      "name": "Japan Railway Central (JR Central)",
+      "type": "organization"
+    },
+    {
+      "name": "Inductrack",
+      "type": "other"
+    },
+    {
+      "name": "Northeast Maglev",
+      "type": "organization"
+    },
+    {
+      "name": "Hyperloop",
+      "type": "other"
+    },
+    {
+      "name": "Elon Musk",
+      "type": "person"
+    },
+    {
+      "name": "Michio Kaku",
+      "type": "person"
+    },
+    {
+      "name": "Meissner effect",
+      "type": "other"
+    },
+    {
+      "name": "Antiquity Now",
+      "type": "organization"
+    },
+    {
+      "name": "Legacy Quest International Children's Film and Video Festival",
+      "type": "event"
+    },
+    {
+      "name": "Tesla",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Intro and maglev overview",
+      "summary": "Hosts banter, recall a previous short on magnets, and introduce maglev trains and the difficulty of tracking current maglev projects. They compare maglev to Elon Musk's hyperloop concept and note maglev's speed advantage over steel-wheel trains.",
+      "topics": [
+        "maglev trains",
+        "hyperloop",
+        "Elon Musk",
+        "high-speed rail"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Maglev speed and riding experience",
+      "summary": "The hosts discuss how fast maglevs go compared with conventional trains and bullet trains, the Japanese maglev land speed record, and how riders perceive the speed. They mention a How Stuff Works video segment on maglev speed.",
+      "topics": [
+        "maglev speed record",
+        "bullet train",
+        "maglev vs steel wheel train",
+        "TGV"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Maglev definition and competing systems",
+      "summary": "Maglev is defined as trains floating above a track using magnets, with no friction. The hosts note several different technologies are called maglev and three leading suspension systems compete.",
+      "topics": [
+        "maglev definition",
+        "magnetic levitation",
+        "suspension systems"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "German electromagnetic suspension (Transrapid)",
+      "summary": "The German EMS system uses electromagnets that attract the train upward, with computer control pulsing current, and guidance magnets to keep the train off the rails. Power is switched on only for the track section in use, making it energy efficient.",
+      "topics": [
+        "Transrapid",
+        "electromagnetic suspension",
+        "EMS maglev",
+        "guidance magnets"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Propulsion with magnets",
+      "summary": "The hosts explain how track electromagnets pull the train forward from ahead and push it from behind, with no friction so little energy is needed.",
+      "topics": [
+        "maglev propulsion",
+        "linear motor",
+        "electromagnets"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Shanghai maglev and Japanese electrodynamic suspension",
+      "summary": "The Shanghai airport maglev opened in 2002 and was halted in 2008 over radiation fears. The Japanese system uses superconductors cooled with liquid helium or nitrogen and the Meissner effect to levitate, with no need for constant computer adjustment, but it needs wheels to start.",
+      "topics": [
+        "Shanghai maglev",
+        "Meissner effect",
+        "superconductors",
+        "electrodynamic suspension",
+        "Japan maglev"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Japan's proposed lines and Inductrack",
+      "summary": "JR Central's Tokyo to Nagoya line, with later extension toward Osaka, is described as privately funded. Inductrack uses room-temperature permanent magnets in Halbach arrays and has been tested at slow speeds, including a shut-down London system in the eighties.",
+      "topics": [
+        "JR Central maglev",
+        "Tokyo Nagoya Osaka",
+        "Inductrack",
+        "Halbach array",
+        "permanent magnets"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "US proposals, safety, and hyperloop tunnel idea",
+      "summary": "The hosts list proposed US maglev lines, including Northeast Maglev's Washington-Baltimore plan. They discuss the 2006 German test crash that killed 29 people and a Shanghai fire, then discuss a Michio Kaku Earth-tunnel idea, and make a bet about riding a maglev in the US within their lifetimes.",
+      "topics": [
+        "Northeast Maglev",
+        "Emsland crash",
+        "Washington Baltimore maglev",
+        "maglev safety",
+        "Michio Kaku",
+        "Earth tunnel train"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10051,
+    "output_tokens": 2373
+  }
+}

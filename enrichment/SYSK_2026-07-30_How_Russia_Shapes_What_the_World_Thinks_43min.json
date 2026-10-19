@@ -1,0 +1,339 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-07-30_How_Russia_Shapes_What_the_World_Thinks_43min.txt",
+  "title": "How Russia Shapes What the World Thinks",
+  "date": "2026-07-30",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-russia-shapes-what-the-world-thinks",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6bd9546f-c485-4718-a348-b49501390740/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6bd9546f-c485-4718-a348-b49501390740/transcript?format=TextWithTimestamps&t=1785265456",
+  "summary": "Josh and Chuck (with a co-host voiced as iHeart Intro, labeled in transcript) discuss Russian state disinformation campaigns. They trace the Internet Research Agency (founded 2013, linked to Yevgeny Prigozhin and the Wagner Group) and its troll farm activity, including the 2016 US election and the Texas \"Islamification\" protest episode. They cover RT and Sputnik, the EU and tech platform bans after the 2022 invasion of Ukraine, the Doppelganger cloned-news-site technique, the Social Design Agency, the Good Old USA Project and paid right-wing influencers via Tenant Media, fake celebrity statements, bot farms, shell-company hosting, Meta's weak ad enforcement, the September 2024 DOJ takedown of 32 websites, AI-generated content and deepfakes, and studies on whether the campaigns actually change opinion. The episode closes with listener mail about the pronunciation of \"biopic.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Russian propaganda",
+    "Russian disinformation",
+    "Internet Research Agency",
+    "troll farm",
+    "Doppelganger",
+    "Social Design Agency",
+    "Good Old USA Project",
+    "Tenant Media",
+    "Sputnik",
+    "RT Russia Today",
+    "2016 US election interference",
+    "Pizzagate",
+    "Wagner Group",
+    "bot farms",
+    "fire hose of falsehood",
+    "high reach low impact",
+    "social media misinformation",
+    "Meta ads political disinformation",
+    "DOJ takedown Doppelganger websites",
+    "AI slop",
+    "deepfakes",
+    "dead Internet theory",
+    "shell companies",
+    "Ukraine war disinformation",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Internet Research Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Doppelganger",
+      "type": "event"
+    },
+    {
+      "name": "Social Design Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Good Old USA Project",
+      "type": "work"
+    },
+    {
+      "name": "Tenant Media",
+      "type": "organization"
+    },
+    {
+      "name": "RT",
+      "type": "organization"
+    },
+    {
+      "name": "Sputnik",
+      "type": "organization"
+    },
+    {
+      "name": "Wagner Group",
+      "type": "organization"
+    },
+    {
+      "name": "Rand Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "Russia",
+      "type": "place"
+    },
+    {
+      "name": "Ukraine",
+      "type": "place"
+    },
+    {
+      "name": "Meta",
+      "type": "organization"
+    },
+    {
+      "name": "t-online",
+      "type": "organization"
+    },
+    {
+      "name": "Washington Post",
+      "type": "organization"
+    },
+    {
+      "name": "Vladimir Putin",
+      "type": "person"
+    },
+    {
+      "name": "Christopher Paul",
+      "type": "person"
+    },
+    {
+      "name": "Miriam Matthews",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and framing Russian propaganda",
+      "summary": "The hosts open with banter about Russian propaganda and why misinformation on the Internet and social media is such a problem, including the goal of creating confusion rather than pushing one belief.",
+      "topics": [
+        "Russian propaganda",
+        "social media misinformation",
+        "chaos and confusion strategy"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Internet Research Agency origins",
+      "summary": "The hosts describe the Internet Research Agency, founded in 2013 by a Putin confidant who also founded the Wagner Group, and its troll farm hiring young English-speaking staff to create fake news and posts. Off-topic talk about a TV show recommendation occurs before this.",
+      "topics": [
+        "Internet Research Agency",
+        "troll farm",
+        "Wagner Group"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Sputnik, RT and the 2016 US election",
+      "summary": "Sputnik and RT are described as Kremlin-backed outlets. The 2016 US election is discussed as a debut of Russian efforts to amplify claims such as Pizzagate and allegations about Trump.",
+      "topics": [
+        "Sputnik",
+        "RT Russia Today",
+        "2016 US election interference",
+        "Pizzagate"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Western responses after 2022 invasion",
+      "summary": "After the February 2022 invasion of Ukraine, the EU banned Russian state media including Sputnik and RT, and Google, Microsoft and Apple pulled or dropped them from services. The hosts call the Western response a whack-a-mole.",
+      "topics": [
+        "EU ban on Russian state media",
+        "platform bans",
+        "whack-a-mole response"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:40",
+      "kind": "content",
+      "title": "Fire hose of falsehood",
+      "summary": "The RAND researchers Christopher Paul and Miriam Matthews' term 'fire hose of falsehood' is cited, describing a strategy that prioritizes volume over quality.",
+      "topics": [
+        "fire hose of falsehood",
+        "RAND Corporation",
+        "disinformation volume strategy"
+      ]
+    },
+    {
+      "start": "00:10:40",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "What Doppelganger is",
+      "summary": "Doppelganger is explained as a technique of cloning legitimate news sites like Le Monde, Washington Post and The Guardian with look-alike domains, promoted by bots and reached through shell companies and shady hosting. The name came from the EU's DisinfoLab and is not a single organization.",
+      "topics": [
+        "Doppelganger",
+        "cloned news websites",
+        "lookalike domains",
+        "EU DisinfoLab"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:15:10",
+      "kind": "content",
+      "title": "Social Design Agency and bot farms",
+      "summary": "The Social Design Agency, a PR firm founded in 2022 and reportedly directed by the Kremlin, is described as central to Doppelganger activity. The hosts describe bot farms with many phones connected to computers.",
+      "topics": [
+        "Social Design Agency",
+        "bot farms",
+        "fake accounts"
+      ]
+    },
+    {
+      "start": "00:15:10",
+      "end": "00:15:40",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:15:40",
+      "end": "00:19:10",
+      "kind": "content",
+      "title": "Fake fact-checkers and celebrity misinformation",
+      "summary": "After the 2022 invasion, Russian-linked groups launched a fake fact-checking site (War on Fakes) and a fake news site (Unreliable Recent News). Fake statements attributed to celebrities such as Taylor Swift, Kim Kardashian and Oprah were used to criticize support for Ukraine.",
+      "topics": [
+        "War on Fakes",
+        "fake fact-checking",
+        "celebrity deepfake quotes",
+        "Ukraine war disinformation"
+      ]
+    },
+    {
+      "start": "00:19:10",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "America First messaging and Good Old USA Project",
+      "summary": "The hosts explain how Russian messaging targets Republicans with America First themes against Ukraine aid. The Good Old USA Project targeted voters in six swing states in the 2024 election, and about ten million dollars went to right-wing influencers hired through Tenant Media, who were unaware they were paid by the Kremlin.",
+      "topics": [
+        "America First messaging",
+        "Good Old USA Project",
+        "Tenant Media",
+        "paid influencers",
+        "2024 election"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:10",
+      "kind": "content",
+      "title": "Fake stories: Soros protesters, Princess Kate, conspiracies",
+      "summary": "Fake Washington Post content claimed George Soros and Rockefeller paid protesters after Israel's Gaza invasion. Conspiracy theories about Princess Kate's absence were amplified. Russian involvement in conspiracy theories is topic-agnostic. The Social Design Agency reportedly monitored GOP lawmakers' posts to make memes.",
+      "topics": [
+        "Soros paid protesters claim",
+        "Princess Kate conspiracy theories",
+        "Social Design Agency monitoring",
+        "Gaza protests misinformation"
+      ]
+    },
+    {
+      "start": "00:24:10",
+      "end": "00:27:10",
+      "kind": "content",
+      "title": "Shell companies and hosting networks",
+      "summary": "The hosts describe the decentralized network of shell companies, virtual offices and shady hosting providers spanning multiple countries that hides the origin of disinformation sites.",
+      "topics": [
+        "shell companies",
+        "hosting networks",
+        "obfuscation of origin"
+      ]
+    },
+    {
+      "start": "00:27:10",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Early detection via t-online and fake Netflix accounts",
+      "summary": "German outlet t-online reported on fake Facebook accounts of German women claiming to work for Netflix and pushing against German funding for Ukraine. The hosts discuss fake social media accounts and profiles, linking to AI-generated personas.",
+      "topics": [
+        "t-online",
+        "fake Facebook accounts",
+        "fake personas",
+        "German disinformation"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:32:10",
+      "kind": "content",
+      "title": "Dead Internet theory and AI-generated content",
+      "summary": "The dead Internet theory is discussed, along with estimates that many Facebook and Instagram accounts are bots, and AI-written articles pushing human-researched content down search results.",
+      "topics": [
+        "dead Internet theory",
+        "AI slop",
+        "bots",
+        "AI-generated articles"
+      ]
+    },
+    {
+      "start": "00:32:10",
+      "end": "00:34:20",
+      "kind": "content",
+      "title": "Meta enforcement and the DOJ takedown",
+      "summary": "Meta said it would remove Doppelganger-linked pages but reportedly missed most undeclared political ads. In September 2024 the US Department of Justice took down 32 websites tied to Doppelganger.",
+      "topics": [
+        "Meta political ads",
+        "DOJ takedown",
+        "32 websites seized"
+      ]
+    },
+    {
+      "start": "00:34:20",
+      "end": "00:40:40",
+      "kind": "content",
+      "title": "Deepfakes, effectiveness, and countermeasures",
+      "summary": "The hosts discuss deepfakes and AI-trained-on-misinformation risks. Studies on 2016 election exposure found one percent of users got seventy percent of exposures. The Texas Islamification protest case is described. The hosts discuss the high reach low impact strategy and suggest fighting fire with fire.",
+      "topics": [
+        "deepfakes",
+        "AI training data poisoning",
+        "2016 study exposure",
+        "Texas Islamification protests",
+        "high reach low impact",
+        "countermeasures"
+      ]
+    },
+    {
+      "start": "00:40:40",
+      "end": "00:42:10",
+      "kind": "listener_mail",
+      "title": "Listener mail: biopic pronunciation",
+      "summary": "A listener from North Carolina writes about an argument over pronouncing biopic, and the hosts respond.",
+      "topics": [
+        "listener mail",
+        "biopic pronunciation"
+      ]
+    },
+    {
+      "start": "00:42:10",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh asks listeners to send mail to Stuff Podcasts at iHeartRadio, and the show closes.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15822,
+    "output_tokens": 3922
+  }
+}

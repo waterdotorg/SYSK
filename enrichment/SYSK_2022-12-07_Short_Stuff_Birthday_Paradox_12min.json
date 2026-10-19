@@ -1,0 +1,119 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-12-07_Short_Stuff_Birthday_Paradox_12min.txt",
+  "title": "Short Stuff: Birthday Paradox",
+  "date": "2022-12-07",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-birthday-paradox",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d3ccaf9d-2ec4-4c9f-9e72-af63013f895a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d3ccaf9d-2ec4-4c9f-9e72-af63013f895a/transcript?format=TextWithTimestamps&t=1700557427",
+  "summary": "Short Stuff episode on the birthday problem (often called the birthday paradox). Josh opens with a personal story about sharing a birthday with his daughter-era anecdote and Chuck's birthday, then the hosts explain that the chance of a shared birthday grows exponentially with group size rather than linearly. They walk through the pairings math (23 people give 253 pairings, roughly a 50 percent chance of a match; 70 people give over 99 percent), cite a HowStuffWorks article by Laurie Dove and a mathematician named Frost, and close with a penny-doubling example showing exponential growth (about ten million dollars after thirty days, which they say is ten point seven million).",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "birthday problem",
+    "birthday paradox",
+    "shared birthdays probability",
+    "exponential growth",
+    "combinatorics pairings",
+    "probability of matching birthdays",
+    "23 people 50 percent chance",
+    "70 people birthday probability",
+    "compound interest style doubling pennies",
+    "penny doubling example",
+    "Stuff You Should Know Short Stuff",
+    "celebrity birthdays"
+  ],
+  "entities": [
+    {
+      "name": "Birthday paradox",
+      "type": "other"
+    },
+    {
+      "name": "Laurie Dove",
+      "type": "person"
+    },
+    {
+      "name": "Frost",
+      "type": "person"
+    },
+    {
+      "name": "Ted Ed",
+      "type": "organization"
+    },
+    {
+      "name": "Famous Birthdays",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and birthday anecdote",
+      "summary": "Josh introduces the topic and tells a story about learning that he and Chuck share a birthday, and his later effort to get Chuck listed on Famous Birthdays.",
+      "topics": [
+        "shared birthdays",
+        "Famous Birthdays website",
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Introducing the birthday problem",
+      "summary": "The hosts explain that the chance of two people in a room sharing a birthday is 1 in 364 for a pair, but the odds grow exponentially as more people are added, so the name is the birthday problem rather than a true paradox.",
+      "topics": [
+        "birthday problem",
+        "birthday paradox",
+        "exponential growth",
+        "probability intuition"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Calculating the odds of shared birthdays",
+      "summary": "The hosts pose the question of how many random people are needed for a shared birthday, then explain counting pairings: 5 people give 10 pairings, 23 people give 253 pairings, and multiplying the non-matching probabilities gives about a 50.17 percent chance of a match with 23 people. They also note that 70 people give over 99 percent.",
+      "topics": [
+        "pairings formula",
+        "23 people 50 percent chance",
+        "70 people birthday probability",
+        "non-matching probability",
+        "combinations"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Penny doubling example of exponential growth",
+      "summary": "Using a mathematician named Frost as a source, the hosts illustrate exponential growth with an offer of one penny on day one, two on day two, and so on for thirty days, which they say comes to about ten point seven million dollars.",
+      "topics": [
+        "penny doubling example",
+        "exponential growth",
+        "Frost mathematician",
+        "robber barons"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up the episode and sign off with the show credit.",
+      "topics": [
+        "sign-off",
+        "show credit"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4790,
+    "output_tokens": 1352
+  }
+}

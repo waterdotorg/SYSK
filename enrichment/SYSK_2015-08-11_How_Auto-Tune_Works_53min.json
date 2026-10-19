@@ -1,0 +1,276 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-08-11_How_Auto-Tune_Works_53min.txt",
+  "title": "How Auto-Tune Works",
+  "date": "2015-08-11",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-auto-tune-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b2b467da-58fd-4820-8114-ae28008c397f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b2b467da-58fd-4820-8114-ae28008c397f/transcript?format=TextWithTimestamps&t=1700543851",
+  "summary": "Hosts Josh Clark and Chuck Bryant explain Auto-Tune, starting with the 'Share Effect' on Cher's 1998 hit 'Believe' (not named in transcript; referred to as Share) and the producer who kept the technique secret. They cover vocoder as a distinct older technology, the pre-Auto-Tune practice of comping multiple takes, and Andy Hildebrand's background from playing flute and oil-exploration seismic work at Exxon to inventing Auto-Tune after a lunch conversation. They explain how Auto-Tune pitch-corrects vocals, the 'zero function' that produces the robotic sound, and its spread through T-Pain, Snoop Dogg, Jay-Z's 'D.O.A.', Wendy's ads, and the Gregory Brothers' Bed Intruder song. They close with a debate on whether Auto-Tune is here to stay, then a listener-mail segment with Holly Frey and Tracy V. Wilson of Stuff You Missed in History Class about gendered criticism and hate mail directed at women podcasters.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Auto-Tune",
+    "pitch correction",
+    "Share Effect",
+    "zero function",
+    "vocoder",
+    "Andy Hildebrand",
+    "T-Pain effect",
+    "Snoop Dogg Sensual Seduction",
+    "Jay-Z D.O.A. Death of Auto-Tune",
+    "Bed Intruder song",
+    "Gregory Brothers",
+    "Exxon seismic exploration",
+    "music production",
+    "vocal tuning history",
+    "Antares Audio Technologies",
+    "Wendy's Frosty Posse commercial",
+    "gendered criticism of women podcasters",
+    "online misogyny",
+    "hate mail",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Auto-Tune",
+      "type": "work"
+    },
+    {
+      "name": "Andy Hildebrand",
+      "type": "person"
+    },
+    {
+      "name": "T-Pain",
+      "type": "person"
+    },
+    {
+      "name": "Snoop Dogg",
+      "type": "person"
+    },
+    {
+      "name": "Jay-Z",
+      "type": "person"
+    },
+    {
+      "name": "Gregory Brothers",
+      "type": "organization"
+    },
+    {
+      "name": "Antoine Dodson",
+      "type": "person"
+    },
+    {
+      "name": "Exxon",
+      "type": "organization"
+    },
+    {
+      "name": "Antares Audio Technologies",
+      "type": "organization"
+    },
+    {
+      "name": "Peter Frampton",
+      "type": "person"
+    },
+    {
+      "name": "Holly Frey",
+      "type": "person"
+    },
+    {
+      "name": "Tracy V. Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Stuff You Missed in History Class",
+      "type": "work"
+    },
+    {
+      "name": "Pro Tools",
+      "type": "work"
+    },
+    {
+      "name": "Wendy's",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Cold open: the Share Effect in the club",
+      "summary": "Josh and Chuck banter about Auto-Tune, describing the glitchy effect heard about thirty-five seconds into a Share song that became a huge hit and was first called the Share Effect.",
+      "topics": [
+        "Auto-Tune",
+        "Share Effect",
+        "vocoder"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Vocoder versus Auto-Tune and the secret producer",
+      "summary": "The hosts distinguish the older vocoder effect, heard in Peter Frampton's tube work and Mr. Roboto, from the new sound. They describe the producer lying about how the track was made.",
+      "topics": [
+        "vocoder",
+        "Share Effect",
+        "Peter Frampton talk box",
+        "music production secrecy"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Pre-Auto-Tune studio takes and what Auto-Tune is",
+      "summary": "Before Auto-Tune, producers had singers redo takes and edited the best parts of multiple takes together on tape. Auto-Tune, a plug-in for Pro Tools, pitch-corrects vocals to the intended key and cut studio time.",
+      "topics": [
+        "vocal takes",
+        "tape editing",
+        "pitch correction",
+        "Pro Tools plug-in",
+        "studio costs"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Andy Hildebrand: from flute and oil exploration to Auto-Tune",
+      "summary": "Hildebrand was a classically trained flutist who worked at Exxon for seventeen years, creating seismic software that mapped subsurface rock by analyzing sound waves from explosive charges. He later founded Antares Audio Technologies and created Infinity and a microphone modeler. Auto-Tune came from a lunch conversation where a remark about making someone sing in tune led to its invention.",
+      "topics": [
+        "Andy Hildebrand",
+        "Exxon seismic exploration",
+        "autocorrelation",
+        "Antares Audio Technologies",
+        "Infinity looping software",
+        "microphone modeling",
+        "origin of Auto-Tune"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "How Auto-Tune nudges notes and the zero function",
+      "summary": "Auto-Tune maps a vocal track, selects a key, and nudges notes into tune, adding millisecond gaps and adjustable throat-length settings. Setting the retune speed to zero removes the gaps between notes, producing the robotic Share Effect sound.",
+      "topics": [
+        "zero function",
+        "retune speed",
+        "Auto-Tune settings",
+        "robotic vocal effect",
+        "Share Effect"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before the zero function explanation resumes.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "T-Pain and the spread of the effect",
+      "summary": "Producers gradually figured out the zero function. A J.Lo remix was an early example, and T-Pain adopted it heavily, becoming known for it. Snoop Dogg's Sensual Seduction then popularized it further, and the hosts discuss the debate over whether Auto-Tune has ruined music.",
+      "topics": [
+        "T-Pain effect",
+        "J.Lo remix",
+        "Snoop Dogg Sensual Seduction",
+        "Auto-Tune debate",
+        "vocal authenticity"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Jay-Z, Wendy's ad, and Bed Intruder",
+      "summary": "Jay-Z released D.O.A. (Death of Auto-Tune) against the trend, and Wendy's used Auto-Tune in a 2009 Frosty Posse commercial. The Gregory Brothers' Auto-Tuned Antoine Dodson Bed Intruder news clip became a huge 2010 YouTube hit.",
+      "topics": [
+        "Jay-Z D.O.A.",
+        "Wendy's Frosty Posse",
+        "Bed Intruder song",
+        "Gregory Brothers",
+        "Antoine Dodson",
+        "Auto-Tune in news"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Is Auto-Tune here to stay?",
+      "summary": "The hosts discuss whether Auto-Tune will follow the electric guitar's path to acceptance, compare it to reverb, and debate claims that some artists never use it. They mention a text poll of musician friends.",
+      "topics": [
+        "Auto-Tune future",
+        "electric guitar comparison",
+        "reverb",
+        "artist denials",
+        "musician friends poll"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Auto-Tune listings and wrap-up of topic",
+      "summary": "Hosts mention a website ranking the most Auto-Tuned artists, including T-Pain, Kesha, Cher-era pop acts, Glee, and Katy Perry, and note an outcry over Auto-Tune on Glee and a UK talent show.",
+      "topics": [
+        "most auto-tuned artists",
+        "Glee Auto-Tune",
+        "Katy Perry",
+        "Auto-Tune criticism"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Pre-listener-mail wrap and Stuff You Missed in History Class pitch",
+      "summary": "Hosts point listeners to HowStuffWorks for more on Auto-Tune and transition to a special listener-mail segment.",
+      "topics": [
+        "Auto-Tune article",
+        "transition to listener mail"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: gender and hate mail with Holly Frey and Tracy Wilson",
+      "summary": "Josh and Chuck read a listener email from Amanda Lions asking whether women hosts receive more gendered criticism than men. Guests Holly Frey and Tracy V. Wilson of Stuff You Missed in History Class discuss vocal criticism, misogynistic and racist comments, and how they respond to hate mail.",
+      "topics": [
+        "gendered criticism",
+        "online misogyny",
+        "hate mail",
+        "women podcasters",
+        "vocal fry criticism",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:53:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and contact information and sign off.",
+      "topics": [
+        "sign-off",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16624,
+    "output_tokens": 3353
+  }
+}

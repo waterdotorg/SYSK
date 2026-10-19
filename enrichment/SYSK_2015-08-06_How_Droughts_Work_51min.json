@@ -1,0 +1,289 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-08-06_How_Droughts_Work_51min.txt",
+  "title": "How Droughts Work",
+  "date": "2015-08-06",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-droughts-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9262e198-a0c1-40ab-9c10-ae28008c39e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9262e198-a0c1-40ab-9c10-ae28008c39e7/transcript?format=TextWithTimestamps&t=1700543856",
+  "summary": "Josh and Chuck explain how droughts work, opening with a Kiva micro-lending team shout-out. They cover drought as a natural phenomenon made into a disaster by human land use, water loss through evaporation and transpiration, causes such as high-pressure ridges, particulate air pollution, and Southeast wind shifts, and ocean cycles (El Nino, La Nina, the Pacific Decadal Oscillation and Atlantic Multidecadal Oscillation). They describe drought categories (permanent, seasonal, unpredictable, invisible, meteorological, agricultural, hydrological, socioeconomic), discuss climate change as a possible contributor, and cover Melbourne's Millennium drought response. The second half covers the Dust Bowl: Homestead Acts, post-WWI wheat expansion, the 1930s black blizzards, migration to California, and New Deal responses including the Soil Conservation Service. The episode ends with listener mail from a bat biologist about insectivorous bats and white-nose syndrome.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "drought",
+    "how droughts work",
+    "natural disasters",
+    "evaporation and transpiration",
+    "high pressure ridge",
+    "El Nino",
+    "La Nina",
+    "Pacific Decadal Oscillation",
+    "Atlantic Multidecadal Oscillation",
+    "drought categories",
+    "invisible drought",
+    "socioeconomic drought",
+    "agricultural drought",
+    "climate change and drought",
+    "Melbourne Millennium drought",
+    "water conservation",
+    "Dust Bowl",
+    "Homestead Acts",
+    "black blizzards",
+    "Soil Conservation Service",
+    "New Deal",
+    "California drought",
+    "air pollution and rainfall",
+    "white-nose syndrome",
+    "Kiva micro lending"
+  ],
+  "entities": [
+    {
+      "name": "Dust Bowl",
+      "type": "event"
+    },
+    {
+      "name": "El Nino",
+      "type": "event"
+    },
+    {
+      "name": "La Nina",
+      "type": "event"
+    },
+    {
+      "name": "Melbourne",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Texas",
+      "type": "place"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "Soil Conservation Service",
+      "type": "organization"
+    },
+    {
+      "name": "Homestead Acts",
+      "type": "work"
+    },
+    {
+      "name": "New Deal",
+      "type": "event"
+    },
+    {
+      "name": "Merchants of Doubt",
+      "type": "work"
+    },
+    {
+      "name": "Interstellar",
+      "type": "work"
+    },
+    {
+      "name": "Ken Burns",
+      "type": "person"
+    },
+    {
+      "name": "Neil deGrasse Tyson",
+      "type": "person"
+    },
+    {
+      "name": "Kiva",
+      "type": "organization"
+    },
+    {
+      "name": "Woody Guthrie Museum",
+      "type": "place"
+    },
+    {
+      "name": "Lake Lanier",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Kiva team shout-out",
+      "summary": "Hosts banter about a Rob Schneider skit, then give a shout-out to the stuff you should know Kiva lending team, citing member count, total loans, and an invitation to join.",
+      "topics": [
+        "Kiva micro lending",
+        "Kiva team",
+        "show banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Drought as a natural disaster and its human impact",
+      "summary": "Drought is described as largely natural but becomes a disaster when humans depend on land and water, particularly for crops. Examples include the 2011 East Africa drought and US corn production effects.",
+      "topics": [
+        "drought as natural disaster",
+        "agriculture water use",
+        "East Africa drought 2011",
+        "corn production drought",
+        "food prices"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Recent droughts and Georgia's drought",
+      "summary": "The hosts recall recent severe droughts in Texas, California, and Australia's Millennium drought, and a Georgia drought with a governor-led prayer for rain.",
+      "topics": [
+        "Texas drought 2011",
+        "California drought",
+        "Millennium drought Australia",
+        "Georgia drought"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Basic mechanics of drought and immediate causes",
+      "summary": "Drought is defined as losing water through evaporation and transpiration faster than it is replenished. Causes discussed include high-pressure ridges, particulate air pollution, and wind shifts off the Atlantic in the Southeast.",
+      "topics": [
+        "evaporation",
+        "transpiration",
+        "high pressure ridge",
+        "air pollution and rainfall",
+        "Southeast drought wind shift"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "El Nino, La Nina, and ocean cycles",
+      "summary": "El Nino is named for the Christ child by Spanish fishermen, and La Nina is its colder counterpart. The hosts describe the Pacific Decadal Oscillation and Atlantic Multidecadal Oscillation as factors that combine with these to cause drought.",
+      "topics": [
+        "El Nino",
+        "La Nina",
+        "Pacific Decadal Oscillation",
+        "Atlantic Multidecadal Oscillation",
+        "ocean cycles and weather"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Categories of drought",
+      "summary": "Drought is classified geographically or seasonally (permanent, seasonal, unpredictable, invisible) and by severity (meteorological, agricultural, hydrological, socioeconomic), with economic and political effects described for the last stage.",
+      "topics": [
+        "drought categories",
+        "permanent drought",
+        "seasonal drought",
+        "invisible drought",
+        "meteorological drought",
+        "agricultural drought",
+        "hydrological drought",
+        "socioeconomic drought"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break before the next section.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Climate change, carbon dioxide and drought debate",
+      "summary": "The hosts discuss how rising carbon dioxide may create high-pressure conditions and suppress upwelling, leading to drought-like conditions, while noting the debate over responses. They recommend a Neil deGrasse Tyson video on weather versus climate and the book Merchants of Doubt.",
+      "topics": [
+        "climate change",
+        "carbon dioxide",
+        "climate policy debate",
+        "weather versus climate",
+        "Merchants of Doubt"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Melbourne water conservation and California water",
+      "summary": "Melbourne reduced water use during its drought through recycling programs and public billboards showing reservoir levels. The hosts contrast this with California's water conservation efforts, which they say have had limited impact.",
+      "topics": [
+        "Melbourne water conservation",
+        "shared resource conservation",
+        "California water conservation",
+        "gray water"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Dust Bowl introduction",
+      "summary": "Josh introduces the Dust Bowl, describing a visit to the Woody Guthrie Museum in Tulsa and a Ken Burns documentary, and notes the Dust Bowl shows how drought can be made worse by human action.",
+      "topics": [
+        "Dust Bowl",
+        "Woody Guthrie Museum",
+        "Ken Burns documentary"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Dust Bowl history, black blizzards, and New Deal response",
+      "summary": "Homestead Acts land grants and post-WWI wheat expansion with mechanized farming led to native grass loss, drought, and black blizzards in the 1930s. Many farmers migrated to California. The New Deal created the Soil Conservation Service, and the hosts discuss the limits of later subsidies.",
+      "topics": [
+        "Homestead Acts",
+        "wheat overproduction",
+        "black blizzards",
+        "Dust Bowl migration",
+        "Soil Conservation Service",
+        "New Deal",
+        "soil conservation"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:51:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on bats and white-nose syndrome",
+      "summary": "A bat biologist emails with clarifications on insectivorous bats' echolocation and on white-nose syndrome, which causes bats to die of water loss and chemical imbalances rather than lack of food.",
+      "topics": [
+        "listener mail",
+        "bats",
+        "white-nose syndrome",
+        "echolocation"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and point to social media and the website for more information.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16389,
+    "output_tokens": 3128
+  }
+}

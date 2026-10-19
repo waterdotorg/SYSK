@@ -1,0 +1,138 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-10-29_Josh_N_Chucks_Halloween_Spooky_Scarefest_52min.txt",
+  "title": "Josh N Chuck's Hallowe'en Spooky Scarefest",
+  "date": "2015-10-29",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/josh-n-chucks-halloween-spooky-scarefest",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4f12aec6-a9b4-4611-8907-ae28008a3de1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4f12aec6-a9b4-4611-8907-ae28008a3de1/transcript?format=TextWithTimestamps&t=1700543848",
+  "summary": "Josh and Chuck's Halloween special, in which they read two horror stories aloud. The first is H. P. Lovecraft's 1928 \"The Moon-Bog,\" about Irish-American Dennis Barry who drains a haunted bog at Kildare castle, despite village warnings, and the eerie piping, dancing figures, and ruin on the islet that follow. The second is Peter D. Niverville's contemporary story \"The Petting Zoo,\" in which traveling salesman Johnson is lured to an old man's giant spider farm and killed in a barn. The hosts add brief commentary, shout-outs to Grabster's horror movie list, and thanks to the composer and actor who helped with voices.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Halloween special",
+    "horror fiction reading",
+    "H. P. Lovecraft",
+    "The Moon-Bog",
+    "Peter D. Niverville",
+    "The Petting Zoo",
+    "giant spiders horror",
+    "Irish bog horror",
+    "Kildare castle",
+    "Greek ruin legend",
+    "Halloween horror fiction contest",
+    "Grabster horror movie list",
+    "horror short stories",
+    "spider horror story",
+    "audio drama reading"
+  ],
+  "entities": [
+    {
+      "name": "H. P. Lovecraft",
+      "type": "person"
+    },
+    {
+      "name": "The Moon-Bog",
+      "type": "work"
+    },
+    {
+      "name": "Dennis Barry",
+      "type": "person"
+    },
+    {
+      "name": "Kildare",
+      "type": "place"
+    },
+    {
+      "name": "Peter D. Niverville",
+      "type": "person"
+    },
+    {
+      "name": "The Petting Zoo",
+      "type": "work"
+    },
+    {
+      "name": "Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Ellsworth's Famous Spider Petting Zoo",
+      "type": "place"
+    },
+    {
+      "name": "Grabster",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Halloween opening banter",
+      "summary": "Josh and Chuck welcome listeners to the Halloween episode, recall past Halloween readings and the horror fiction contest, and plug Grabster's list of favorite horror movies.",
+      "topics": [
+        "Halloween special",
+        "Grabster horror movie list",
+        "horror fiction contest"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Reading: The Moon-Bog by H. P. Lovecraft",
+      "summary": "Josh reads Lovecraft's story, with brief reactions from Chuck. Dennis Barry, back from America, drains a bog near his ancestral Kildare castle despite village warnings. Workers from the north sleep oddly and report dreams of a Greek city, and the narrator sees pale wraiths leading laborers into the bog. The ruin on the islet glows red, and the bog's secrets are revealed in a terrifying finale.",
+      "topics": [
+        "The Moon-Bog",
+        "H. P. Lovecraft",
+        "Irish bog horror",
+        "Kildare castle",
+        "Greek ruin legend",
+        "horror short stories"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:00",
+      "kind": "intro",
+      "title": "Transition and jingle credit",
+      "summary": "Chuck and Josh praise the Halloween jingle made by the composers and introduce the second story, a contemporary tale chosen after the author was emailed.",
+      "topics": [
+        "Halloween jingle",
+        "Halloween special"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:50:30",
+      "kind": "content",
+      "title": "Reading: The Petting Zoo by Peter D. Niverville",
+      "summary": "Josh reads Niverville's story. Salesman Johnson detours to Ellsworth's spider petting zoo, where an old man and his wife run a farm. Johnson is locked in a barn with a giant spider, which attacks him and then reveals its young, and he dies. The old man and his wife then discuss selling Johnson's car.",
+      "topics": [
+        "The Petting Zoo",
+        "Peter D. Niverville",
+        "giant spiders horror",
+        "spider horror story",
+        "horror short stories"
+      ]
+    },
+    {
+      "start": "00:50:30",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up, praise the author and voice actors, and wish listeners a happy Halloween.",
+      "topics": [
+        "Halloween special",
+        "horror fiction reading"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17935,
+    "output_tokens": 1574
+  }
+}

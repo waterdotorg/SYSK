@@ -1,0 +1,338 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-11-01_Ham_Radio_and_the_Hams_Who_Use_Them_46min.txt",
+  "title": "Ham Radio and the Hams Who Use Them",
+  "date": "2016-11-01",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/ham-radio-and-the-hams-who-use-them",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/bb091e9e-250e-4f9c-adeb-ae28007ed627/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bb091e9e-250e-4f9c-adeb-ae28007ed627/transcript?format=TextWithTimestamps&t=1700543823",
+  "summary": "Josh and Chuck explore amateur (\"ham\") radio: its size and demographics, the origin of the name \"ham,\" how shortwave propagation works via the ionosphere, the amateur frequency bands, repeaters, VHF/FM, two-way conversation etiquette and the community's reputation for politeness, QSL cards, Morse code testing (since dropped), talking to astronauts and orbiting ISS-style contacts, rogue/pirate ham operators, licensing tiers and the US test, equipment (transceivers, analog vs digital), improvised antennas, celebrity hams, and getting started through Elmers and clubs. The episode closes with a listener email from a marathon runner named Marco.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ham radio",
+    "amateur radio",
+    "shortwave radio",
+    "ionosphere",
+    "radio propagation",
+    "amateur radio bands",
+    "repeaters",
+    "VHF FM",
+    "ham radio licensing",
+    "FCC amateur license",
+    "ham radio etiquette",
+    "QSL cards",
+    "Morse code test",
+    "ham radio and astronauts",
+    "rogue ham operator",
+    "pirate radio",
+    "ham radio antennas",
+    "improvised antennas",
+    "transceiver equipment",
+    "celebrity hams",
+    "Elmer mentors",
+    "ARRL American Radio Relay League",
+    "origin of the word ham",
+    "CB radio",
+    "Kids Day ham radio",
+    "ham radio emergency communications",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "American Radio Relay League",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Ronnie Milsap",
+      "type": "person"
+    },
+    {
+      "name": "Joe Walsh",
+      "type": "person"
+    },
+    {
+      "name": "Gary Shandling",
+      "type": "person"
+    },
+    {
+      "name": "Priscilla Presley",
+      "type": "person"
+    },
+    {
+      "name": "Barry Goldwater",
+      "type": "person"
+    },
+    {
+      "name": "Chet Atkins",
+      "type": "person"
+    },
+    {
+      "name": "Marlon Brando",
+      "type": "person"
+    },
+    {
+      "name": "King Hussein of Jordan",
+      "type": "person"
+    },
+    {
+      "name": "Marco",
+      "type": "person"
+    },
+    {
+      "name": "Battle Hymn of the Republic",
+      "type": "work"
+    },
+    {
+      "name": "Ham Radio: Ancestors of the Internet",
+      "type": "work"
+    },
+    {
+      "name": "New York City Marathon",
+      "type": "event"
+    },
+    {
+      "name": "Kids Day",
+      "type": "event"
+    },
+    {
+      "name": "ionosphere",
+      "type": "other"
+    },
+    {
+      "name": "Simpsons",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "ad",
+      "title": "Squarespace and Google sponsor read",
+      "summary": "Sponsor read for Squarespace and Google business tools, with an offer code.",
+      "topics": [
+        "sponsor read",
+        "Squarespace",
+        "Google"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "intro",
+      "title": "Opening banter on ham radio",
+      "summary": "Hosts introduce ham radio, also called amateur or shortwave radio, cite operator numbers in the US and abroad, and discuss the hobby's polite, professional reputation and its mostly male demographic.",
+      "topics": [
+        "ham radio",
+        "amateur radio",
+        "ham radio demographics",
+        "73 ham code"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Origin of the word ham",
+      "summary": "The hosts explain that 'ham' was originally a derogatory term for amateur operators who jammed government and commercial signals, and that operators adopted it with pride. They mention a less credible origin story involving a Harvard radio club.",
+      "topics": [
+        "origin of the word ham",
+        "ham radio history",
+        "ham nickname"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "AM bands and the radio spectrum",
+      "summary": "Hosts describe the AM band and the amateur allocations of twenty-six bands, and explain how the frequencies relate to the spectrum.",
+      "topics": [
+        "radio spectrum",
+        "AM radio bands",
+        "amateur radio bands",
+        "frequency allocation"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Ionosphere, shortwave propagation and line of sight",
+      "summary": "Explanation of how shortwave signals reflect off the ionosphere, allowing long-distance communication, why nighttime propagation is better than daytime, and how VHF and above works line of sight.",
+      "topics": [
+        "ionosphere",
+        "shortwave propagation",
+        "line of sight",
+        "VHF spectrum",
+        "day and night propagation"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Repeaters and VHF FM",
+      "summary": "The hosts discuss repeaters that relay signals from high-power towers over VHF FM and how operators use them.",
+      "topics": [
+        "repeaters",
+        "VHF FM",
+        "ham radio repeaters",
+        "transceiver power"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "What hams do: listening, QSOs, QSL cards, and etiquette",
+      "summary": "Operators listen across frequencies and hold two-way conversations, sometimes in nets. QSL cards serve as confirmation postcards. The community's politeness is contrasted with internet chat rooms and CB radio.",
+      "topics": [
+        "QSL cards",
+        "ham radio etiquette",
+        "ham nets",
+        "ham radio conversations",
+        "CB radio comparison"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Morse code and cursive",
+      "summary": "Hosts discuss the former Morse code licensing test, which has been dropped, and ham purists who still use Morse. They reflect on losing cursive writing.",
+      "topics": [
+        "Morse code",
+        "Morse code license test",
+        "cursive writing"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Talking to astronauts",
+      "summary": "Astronauts are generally ham licensed and can talk to schools and people on Earth via amateur radio, with contacts that previously required being directly overhead.",
+      "topics": [
+        "ham radio in space",
+        "astronaut ham radio",
+        "ISS amateur contact",
+        "school contacts"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Rogue hams and the pirate ham operator",
+      "summary": "A pirate operator who ran an unlicensed, ranting broadcast on a shortwave frequency was sued by the government; he countersued for fifty million dollars and the suit was dismissed. The hosts contrast him with the community norm.",
+      "topics": [
+        "rogue ham",
+        "pirate radio",
+        "ham troll",
+        "FCC enforcement",
+        "unlicensed operation"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "01:03:00",
+      "kind": "ad",
+      "title": "Ham and food banter",
+      "summary": "Brief light banter about ham as food, including honey baked ham and processed meats.",
+      "topics": [
+        "ham food banter"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:12:00",
+      "kind": "content",
+      "title": "Licensing, age, Kids Day, and emergency communications",
+      "summary": "There is no age restriction, licensing is by country, and the US uses a multiple-choice test with three license classes. Kids Day introduces young people to the hobby. The hosts discuss ham radio's use in natural disasters and the appeal of volunteer service.",
+      "topics": [
+        "ham radio license classes",
+        "FCC license test",
+        "Kids Day",
+        "emergency communications",
+        "volunteer service"
+      ]
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:20:00",
+      "kind": "content",
+      "title": "Equipment, transceivers, and analog vs digital radios",
+      "summary": "Hosts explain the basics of how radio waves are transmitted and received by antennas, and describe transceiver price ranges and analog versus digital tuning. They also discuss sharing frequencies to avoid interference.",
+      "topics": [
+        "transceiver",
+        "analog vs digital radio",
+        "antenna basics",
+        "frequency pairs",
+        "ham radio equipment costs"
+      ]
+    },
+    {
+      "start": "01:20:00",
+      "end": "01:27:00",
+      "kind": "content",
+      "title": "Improvised antennas and burglar tape",
+      "summary": "Hams use unusual objects as antennas, including window screens, ladders, rain gutters, slinkies, and wire strung between buildings. Hosts also mention an obscure term, burglar tape, that they could not verify.",
+      "topics": [
+        "improvised antennas",
+        "homemade antennas",
+        "burglar tape",
+        "rabbit ears TV antenna"
+      ]
+    },
+    {
+      "start": "01:27:00",
+      "end": "01:34:00",
+      "kind": "content",
+      "title": "Getting started, clubs, Elmers, and celebrity hams",
+      "summary": "Hosts describe ham fests, Elmers as mentors, and the ARRL and an Atlanta club formed in 1911. They list celebrity hams including Ronnie Milsap, Joe Walsh, Gary Shandling, Priscilla Presley, King Hussein, Barry Goldwater, Chet Atkins, and Marlon Brando, and explain the term silent key.",
+      "topics": [
+        "Elmer mentor",
+        "ham fest",
+        "celebrity hams",
+        "silent key",
+        "ARRL",
+        "amateur radio clubs"
+      ]
+    },
+    {
+      "start": "01:34:00",
+      "end": "01:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Marco",
+      "summary": "Marco, training for the New York City Marathon, thanks the show for helping him through training and suggests a marathon episode.",
+      "topics": [
+        "listener mail",
+        "marathon training",
+        "New York City Marathon"
+      ]
+    },
+    {
+      "start": "01:40:00",
+      "end": "01:41:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and email contact information and sign off.",
+      "topics": [
+        "sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14694,
+    "output_tokens": 3481
+  }
+}

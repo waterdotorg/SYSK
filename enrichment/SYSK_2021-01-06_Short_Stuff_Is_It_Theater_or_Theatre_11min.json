@@ -1,0 +1,140 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-01-06_Short_Stuff_Is_It_Theater_or_Theatre_11min.txt",
+  "title": "Short Stuff: Is It Theater or Theatre?",
+  "date": "2021-01-06",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-is-it-theater-or-theatre",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a77dd859-86ba-4e2d-8049-ae2800255858/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a77dd859-86ba-4e2d-8049-ae2800255858/transcript?format=TextWithTimestamps&t=1700543604",
+  "summary": "Short Stuff episode on why \"theater\" is spelled two ways (theatre with -re vs. theater with -er). Josh and Chuck open with tour-venue anecdotes about signage spelling, then trace the split to Noah Webster: his American Spelling Book (the Blue-Backed Speller), which sold a huge number of copies and helped standardize American English, and his American Dictionary of the English Language, which pushed American spellings like color, honor, plow, and draft. They note Webster's failed proposals (tongue, women) and the informal convention that the industry uses -re while venues use -er, but agree either spelling is understood and usage is mostly descriptive. Ends with a short sign-off.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "theater vs theatre spelling",
+    "Noah Webster",
+    "American English spelling",
+    "American Dictionary of the English Language",
+    "Blue-Backed Speller",
+    "American Spelling Book",
+    "American vs British spelling",
+    "color honor spelling reform",
+    "spelling reform",
+    "Webster's dictionary",
+    "descriptivism vs prescriptivism",
+    "etymology of theater",
+    "Stuff You Should Know Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Noah Webster",
+      "type": "person"
+    },
+    {
+      "name": "American Dictionary of the English Language",
+      "type": "work"
+    },
+    {
+      "name": "American Spelling Book",
+      "type": "work"
+    },
+    {
+      "name": "Blue-Backed Speller",
+      "type": "work"
+    },
+    {
+      "name": "Oxford English Dictionary",
+      "type": "work"
+    },
+    {
+      "name": "The Professor and the Madman",
+      "type": "work"
+    },
+    {
+      "name": "Yale",
+      "type": "organization"
+    },
+    {
+      "name": "Amherst College",
+      "type": "organization"
+    },
+    {
+      "name": "Connecticut Society for the Abolition of Slavery",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Theatre vs. theater spelling intro",
+      "summary": "Josh introduces the topic: why some venues spell theater with -re and others with -er. He and Chuck discuss tour venues and billboard aesthetics, joking about how the -re spelling looks more regal.",
+      "topics": [
+        "theater vs theatre spelling",
+        "live tour venues",
+        "spelling on signage"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Noah Webster's background",
+      "summary": "The hosts introduce Noah Webster as the American dictionary maker, not the Oxford English Dictionary author, and describe his birth in Connecticut in 1758, his Yale education, his Revolutionary-era militia service, his work as a teacher and attorney, and his antislavery society and Amherst College involvement.",
+      "topics": [
+        "Noah Webster",
+        "Webster biography",
+        "Yale",
+        "Amherst College",
+        "Connecticut Society for the Abolition of Slavery"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Webster's American Spelling Book",
+      "summary": "Webster wanted American schoolchildren to stop learning from British books. His American Spelling Book, called the Blue-Backed Speller, sold a very large number of copies and remained in print, helping standardize American English for teachers.",
+      "topics": [
+        "American Spelling Book",
+        "Blue-Backed Speller",
+        "American English standardization",
+        "American school textbooks"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "American Dictionary and spelling changes",
+      "summary": "Webster next produced the American Dictionary of the English Language, about 70,000 words. It promoted American spellings such as color, honor, plow, and draft. Some proposals, like tongue and women, did not stick.",
+      "topics": [
+        "American Dictionary of the English Language",
+        "color vs colour",
+        "plow spelling",
+        "draft spelling",
+        "Webster spelling reform failures",
+        "tongue and women spelling"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Theater spelling conventions and outro",
+      "summary": "The hosts explain that theater was previously spelled only with -re before Webster. They note a notion that the theater industry uses -re while venues use -er, but agree that either spelling is understood and language is descriptive. Brief sign-off follows.",
+      "topics": [
+        "theater spelling conventions",
+        "descriptivism vs prescriptivism",
+        "theatre industry usage",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4551,
+    "output_tokens": 1601
+  }
+}

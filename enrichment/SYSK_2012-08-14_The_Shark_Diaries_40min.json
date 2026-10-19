@@ -1,0 +1,171 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-08-14_The_Shark_Diaries_40min.txt",
+  "title": "The Shark Diaries",
+  "date": "2012-08-14",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-shark-diaries-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9765345a-3e09-490a-9491-ae2800a6313d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9765345a-3e09-490a-9491-ae2800a6313d/transcript?format=TextWithTimestamps&t=1700543915",
+  "summary": "A special Shark Week episode presented as an audio radio play, \"The Shark Diaries,\" dramatizing the 1916 shark attacks along the New Jersey Shore (Beach Haven, Spring Lake, Matawan Creek) through fictional diary entries voiced by cast members. Josh and Chuck introduce the backstory (the attacks that inspired Jaws), the characters based on real figures such as ichthyologist John C. Nichols, his mentor Frederick Lucas, Charles Van Zandt, Charles Bruder, Stanley Fisher, Lester Stillwell, and survivor Joseph Dunn, then perform the play and close with credits and contact information.",
+  "episode_kind": "special",
+  "rerun_of": null,
+  "topics": [
+    "Shark Week",
+    "1916 shark attacks",
+    "Jersey Shore shark attacks",
+    "Matawan Creek shark attack",
+    "Matawan Creek",
+    "Spring Lake shark attack",
+    "Beach Haven shark attack",
+    "Jaws inspiration",
+    "Peter Benchley",
+    "John C. Nichols",
+    "Frederick Lucas",
+    "radio play",
+    "shark diaries",
+    "great white shark",
+    "history of shark attacks",
+    "1916 New Jersey shark hunt",
+    "Stanley Fisher",
+    "Lester Stillwell",
+    "Charles Bruder",
+    "Charles Van Zandt",
+    "Joseph Dunn",
+    "shark attack history",
+    "ichthyology history"
+  ],
+  "entities": [
+    {
+      "name": "Matawan Creek",
+      "type": "place"
+    },
+    {
+      "name": "Spring Lake, New Jersey",
+      "type": "place"
+    },
+    {
+      "name": "Beach Haven, New Jersey",
+      "type": "place"
+    },
+    {
+      "name": "Jersey Shore",
+      "type": "place"
+    },
+    {
+      "name": "Cliffwood, New Jersey",
+      "type": "place"
+    },
+    {
+      "name": "John C. Nichols",
+      "type": "person"
+    },
+    {
+      "name": "Frederick Lucas",
+      "type": "person"
+    },
+    {
+      "name": "Charles Van Zandt",
+      "type": "person"
+    },
+    {
+      "name": "Charles Bruder",
+      "type": "person"
+    },
+    {
+      "name": "Stanley Fisher",
+      "type": "person"
+    },
+    {
+      "name": "Lester Stillwell",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Dunn",
+      "type": "person"
+    },
+    {
+      "name": "Peter Benchley",
+      "type": "person"
+    },
+    {
+      "name": "Jaws",
+      "type": "work"
+    },
+    {
+      "name": "Shark Week",
+      "type": "event"
+    },
+    {
+      "name": "1916 shark attacks",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening and backstory of the 1916 shark attacks",
+      "summary": "Josh and Chuck introduce the special Shark Week radio play and explain the 1916 Jersey Shore and Matawan Creek shark attacks, which inspired Peter Benchley's Jaws.",
+      "topics": [
+        "Shark Week",
+        "1916 shark attacks",
+        "Jaws inspiration",
+        "Matawan Creek",
+        "Jersey Shore shark attacks"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "intro",
+      "title": "Introducing the characters and cast",
+      "summary": "The hosts describe the real-life figures the play portrays, including Nichols, Lucas, Louise Van Zandt, Stanley Fisher, Mary Anderson, and survivor Joseph Dunn, and who voices each role.",
+      "topics": [
+        "John C. Nichols",
+        "Frederick Lucas",
+        "Stanley Fisher",
+        "Joseph Dunn",
+        "radio play cast"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "The Shark Diaries radio play",
+      "summary": "Dramatized diary entries from July 1916 to October 1916 covering the Beach Haven and Spring Lake attacks, the Matawan Creek attack that killed Lester Stillwell and Stanley Fisher, the hunt for the shark, the hospitalization of a young victim, and Nichols's closing reflections.",
+      "topics": [
+        "shark diaries",
+        "1916 shark attacks",
+        "Spring Lake attack",
+        "Matawan Creek attack",
+        "Stanley Fisher",
+        "Lester Stillwell",
+        "shark hunt 1916",
+        "John C. Nichols",
+        "Frederick Lucas",
+        "great white shark",
+        "El Nino theory"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:40:00",
+      "kind": "outro",
+      "title": "Closing credits and contact information",
+      "summary": "The hosts praise the cast and crew, then give contact information for the show via Twitter, Facebook, and email, and point listeners to HowStuffWorks.com.",
+      "topics": [
+        "credits",
+        "contact information",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12451,
+    "output_tokens": 1698
+  }
+}

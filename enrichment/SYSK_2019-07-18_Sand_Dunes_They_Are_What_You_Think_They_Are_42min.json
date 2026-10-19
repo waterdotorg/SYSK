@@ -1,0 +1,237 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-07-18_Sand_Dunes_They_Are_What_You_Think_They_Are_42min.txt",
+  "title": "Sand Dunes: They Are What You Think They Are",
+  "date": "2019-07-18",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sand-dunes-they-are-what-you-think-they-are",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/02c0c36b-8a89-474d-af60-ae28004964a8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/02c0c36b-8a89-474d-af60-ae28004964a8/transcript?format=TextWithTimestamps&t=1700543689",
+  "summary": "Josh and Chuck explain how sand dunes form and move, covering the three ways wind transports sand (saltation, creep, suspension), the angle of repose, and the main dune types: crescentic (barchan), transverse, linear, star, parabolic/blowout, composite, lithified dunes, and subaqueous dunes. They discuss coastal dune ecology (pioneer grasses, nutrients from seaweed, pine forest climax), how dunes protect shorelines and why hurricane-damaged dunes take decades to recover, dune fauna, and threats such as deforestation and off-road vehicles. The episode ends with tour announcements and a listener mail story about Chuck's advice on speeding tickets.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "sand dunes",
+    "dune formation",
+    "saltation",
+    "creep sand movement",
+    "suspension sandstorm",
+    "angle of repose",
+    "crescentic dunes",
+    "barchan dunes",
+    "parabolic dunes",
+    "blowout dunes",
+    "transverse dunes",
+    "linear dunes",
+    "star dunes",
+    "composite dunes",
+    "lithified dunes",
+    "subaqueous dunes",
+    "coastal dunes",
+    "dune ecology",
+    "pioneer plants",
+    "beach grass",
+    "dune protection",
+    "hurricane beach erosion",
+    "singing dunes",
+    "dune migration",
+    "desert dunes",
+    "Mars dunes",
+    "dung beetles",
+    "off-road driving on dunes",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Mars",
+      "type": "place"
+    },
+    {
+      "name": "Hurricane Sandy",
+      "type": "event"
+    },
+    {
+      "name": "New Jersey",
+      "type": "place"
+    },
+    {
+      "name": "South Carolina",
+      "type": "place"
+    },
+    {
+      "name": "Tottori",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Dune",
+      "type": "work"
+    },
+    {
+      "name": "Florida Panhandle",
+      "type": "place"
+    },
+    {
+      "name": "Debbie Ronka",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Tour announcement and opening banter",
+      "summary": "Tour dates for Chicago and Toronto are announced. Josh and Chuck banter about sand dunes, desert dunes versus coastal dunes, and a dune in Japan.",
+      "topics": [
+        "tour dates",
+        "desert dunes",
+        "coastal dunes"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "How sand dunes form and move",
+      "summary": "Dunes need loose sand, wind, and an obstacle. Sand moves by saltation, creep, and suspension. Dunes migrate while keeping their shape, depending on wind regime.",
+      "topics": [
+        "dune formation",
+        "saltation",
+        "creep sand movement",
+        "suspension sandstorm",
+        "wind regime",
+        "dune migration"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Dune growth, crest collapse and angle of repose",
+      "summary": "As sand piles on the slip face, a crest forms and can collapse in an avalanche. The stable slope is the angle of repose, about 30 to 34 degrees. Wind strength and direction shape dune height and spread.",
+      "topics": [
+        "angle of repose",
+        "slip face",
+        "dune crest avalanche",
+        "wind strength and dune shape"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Dune types and confusion over terminology",
+      "summary": "Hosts introduce dune classification and note that sources disagree on names. Crescentic dunes are the most common on Earth and Mars, and they can move quickly and merge with each other.",
+      "topics": [
+        "dune classification",
+        "crescentic dunes",
+        "barchan dunes",
+        "Mars dunes",
+        "dune merging"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Transverse, linear, star, parabolic and composite dunes",
+      "summary": "Transverse dunes are perpendicular to the wind. Linear dunes are long ridges shaped by seasonal shifting winds. Star dunes build upward from multidirectional winds and can be very tall. Parabolic dunes are anchored at the arms by vegetation or moisture. Composite dunes are large combinations, such as draas.",
+      "topics": [
+        "transverse dunes",
+        "linear dunes",
+        "star dunes",
+        "parabolic dunes",
+        "blowout dunes",
+        "composite dunes",
+        "draas"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Lithified dunes and subaqueous dunes",
+      "summary": "Lithified dunes are hardened ancient dunes, such as slick rock, with mineral layers from water. Subaqueous dunes form underwater in rivers and canals and can increase flood risk by increasing flow resistance.",
+      "topics": [
+        "lithified dunes",
+        "slick rock",
+        "subaqueous dunes",
+        "river flooding"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Coastal dunes, plants and recovery",
+      "summary": "Coastal dunes form from waves bringing sand ashore. Rotting seaweed supplies nutrients for pioneer grasses whose roots bind the sand. Shrubs and heaths follow, and the dune ecosystem can eventually become a pine forest. Dunes protect shorelines, and after hurricanes like Sandy they can take decades to recover.",
+      "topics": [
+        "coastal dunes",
+        "pioneer species",
+        "beach grass",
+        "dune vegetation",
+        "dune protection",
+        "hurricane beach erosion",
+        "Hurricane Sandy",
+        "dune recovery",
+        "pine forest succession"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Dune wildlife, threats, and singing dunes",
+      "summary": "Drought-tolerant plants, rodents, snakes, lizards, insects, and birds live on dunes. Dung beetles are found on every continent except Antarctica. Threats include deforestation, trampling, and off-road vehicles. Singing dunes are mentioned as dry sand avalanching.",
+      "topics": [
+        "dune wildlife",
+        "dung beetles",
+        "deforestation",
+        "off-road vehicles",
+        "singing dunes",
+        "stay off the dunes"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: speeding ticket advice",
+      "summary": "Camber Solberger, a grad student, writes that she followed Chuck's advice on surrendering to the law after speeding and avoided a ticket and insurance increase.",
+      "topics": [
+        "listener mail",
+        "speeding tickets"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener contact through the website and email and close the episode.",
+      "topics": [
+        "outro",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13785,
+    "output_tokens": 2515
+  }
+}

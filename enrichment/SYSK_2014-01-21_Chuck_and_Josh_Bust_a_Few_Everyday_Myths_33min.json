@@ -1,0 +1,221 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-01-21_Chuck_and_Josh_Bust_a_Few_Everyday_Myths_33min.txt",
+  "title": "Chuck and Josh Bust a Few Everyday Myths",
+  "date": "2014-01-21",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/chuck-and-josh-bust-a-few-everyday-myths",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1509d7ee-5364-4787-a558-ae28009b3698/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1509d7ee-5364-4787-a558-ae28009b3698/transcript?format=TextWithTimestamps&t=1700543890",
+  "summary": "Josh and Chuck bust a series of everyday myths: that blood in veins is blue, that most body heat is lost through the head, that Mount Everest is the tallest mountain (Mauna Kea is tallest base-to-summit, Chimborazo is farthest from Earth's center), that the Great Wall of China is visible from space or the Moon (a Ripley's column origin), that stained glass is a slow-moving liquid (it is an amorphous solid, and the wavy look comes from the Crown method), that touching a baby bird makes the mother reject it, that chameleons change color to camouflage (they use chromatophores to signal and fight), and a count of the five senses (interoception vs. exteroception, multiple skin receptors). The episode closes with a listener mail anti-joke submitted by Patrick and Derek and a plug for the Don't Be Dumb video series.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "everyday myths",
+    "myth busting",
+    "blood veins blue myth",
+    "body heat lost through head myth",
+    "Mount Everest tallest mountain",
+    "Mauna Kea height",
+    "Chimborazo distance from Earth's center",
+    "Great Wall of China visible from space",
+    "Great Wall visibility from Moon",
+    "Robert Ripley believe it or not",
+    "stained glass slow moving liquid myth",
+    "amorphous solid glass",
+    "Crown method glass making",
+    "baby bird mother rejects human scent",
+    "chameleon color change camouflage",
+    "chromatophores",
+    "five senses",
+    "interoception exteroception",
+    "sixth sense",
+    "skin receptors heat cold pain itch pressure",
+    "listener mail anti joke",
+    "Don't Be Dumb",
+    "false facts"
+  ],
+  "entities": [
+    {
+      "name": "Mount Everest",
+      "type": "place"
+    },
+    {
+      "name": "Mauna Kea",
+      "type": "place"
+    },
+    {
+      "name": "Chimborazo",
+      "type": "place"
+    },
+    {
+      "name": "Kilimanjaro",
+      "type": "place"
+    },
+    {
+      "name": "Great Wall of China",
+      "type": "place"
+    },
+    {
+      "name": "Robert Ripley",
+      "type": "person"
+    },
+    {
+      "name": "Alan Bean",
+      "type": "person"
+    },
+    {
+      "name": "Apollo 12",
+      "type": "event"
+    },
+    {
+      "name": "Crown method",
+      "type": "other"
+    },
+    {
+      "name": "Don't Be Dumb",
+      "type": "work"
+    },
+    {
+      "name": "Joke Podcast",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and show pitch",
+      "summary": "Josh and Chuck banter about a myth-busting TV show idea and introduce the episode, and Chuck plugs the Don't Be Dumb video series.",
+      "topics": [
+        "myth busting",
+        "Don't Be Dumb"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Blue blood in veins myth",
+      "summary": "Blood is never blue; veins look blue because of how skin, fat and light scatter and absorb wavelengths at different depths.",
+      "topics": [
+        "blood veins blue myth",
+        "light absorption skin fat",
+        "blood oxygen color"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Body heat lost through the head myth",
+      "summary": "The myth stems from Army experiments where volunteers' heads were uncovered; heat loss from the head is roughly proportional to its surface area, about ten percent.",
+      "topics": [
+        "body heat lost through head myth",
+        "Army cold weather experiment",
+        "surface area heat loss"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Everest vs. Mauna Kea tallest mountain",
+      "summary": "Everest is the highest above sea level at 29,029 ft, but Mauna Kea is the tallest base to summit at about 33,465 ft; Chimborazo is farthest from Earth's center; Kilimanjaro stands out from flat plains.",
+      "topics": [
+        "Mount Everest tallest mountain",
+        "Mauna Kea height",
+        "Chimborazo distance from Earth's center",
+        "Kilimanjaro"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Great Wall of China visible from space",
+      "summary": "The claim traces to a Ripley's column saying it was visible from the Moon; Apollo 12's Alan Bean said nothing man-made was visible; it is hard to see even from low Earth orbit without optics.",
+      "topics": [
+        "Great Wall of China visible from space",
+        "Robert Ripley believe it or not",
+        "Apollo 12 Moon visibility"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Stained glass as a slow-moving liquid",
+      "summary": "Old window glass is an amorphous solid, not a slow liquid; wavy glass results from the Crown method of making sheet glass.",
+      "topics": [
+        "stained glass slow moving liquid myth",
+        "amorphous solid glass",
+        "Crown method glass making"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Baby bird touched by humans gets rejected",
+      "summary": "The myth that human scent causes a mother bird to reject a chick is false since birds have poor smell; the bird may have been in a flying lesson. Hosts share personal rescue stories.",
+      "topics": [
+        "baby bird mother rejects human scent",
+        "bird rescue myth",
+        "birds sense of smell"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Chameleon color change",
+      "summary": "Chameleons change color for physical or emotional reasons such as fighting or mating, not camouflage, using layered chromatophores.",
+      "topics": [
+        "chameleon color change camouflage",
+        "chromatophores"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Five senses and more",
+      "summary": "The five classical senses are not the full list; senses are grouped into interoception and exteroception, and skin has receptors for heat, cold, pain, itch and pressure, plus separate sensing of radiant heat, nausea and hunger.",
+      "topics": [
+        "five senses",
+        "interoception exteroception",
+        "skin receptors",
+        "sixth sense"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:32:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: anti joke",
+      "summary": "Listener Patrick, with Derek, submits an anti-joke about a man with an orange head; the hosts discuss how the telling affected the punchline.",
+      "topics": [
+        "listener mail anti joke",
+        "joke telling"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:33:00",
+      "kind": "outro",
+      "title": "Sign-off and website plugs",
+      "summary": "Hosts invite listeners to send jokes by Twitter, Facebook, or email and point to the website and a Jack Threads ad read.",
+      "topics": [
+        "listener mail submissions",
+        "website"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11642,
+    "output_tokens": 2345
+  }
+}

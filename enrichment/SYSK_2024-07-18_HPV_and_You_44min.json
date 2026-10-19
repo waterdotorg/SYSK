@@ -1,0 +1,350 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-07-18_HPV_and_You_44min.txt",
+  "title": "HPV and You",
+  "date": "2024-07-18",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/hpv-and-you",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dba9f124-1be5-4189-a087-b1b1005766eb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dba9f124-1be5-4189-a087-b1b1005766eb/transcript?format=TextWithTimestamps&t=1721293423",
+  "summary": "Josh and Chuck explain HPV (human papillomavirus), a very common sexually transmitted infection and the first virus shown to cause cancer. They cover cutaneous versus mucosal types, high-risk versus low-risk strains, genital warts and their treatment, HPV-related cancers (especially cervical and oropharyngeal), cervical cancer screening guidelines (PAP and HPV tests), the history of the HPV vaccines (Gardasil, Cervarix, Gardasil 9), Rick Perry's 2007 Texas mandate and vaccine hesitancy, and vaccination statistics. The episode ends with listener mail about the song \"Wind of Change\" by the Scorpions and a movie recommendation.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "HPV",
+    "human papillomavirus",
+    "HPV vaccine",
+    "Gardasil",
+    "Gardasil 9",
+    "Cervarix",
+    "cervical cancer",
+    "cervical cancer screening",
+    "PAP test",
+    "HPV test",
+    "genital warts",
+    "oropharyngeal cancer",
+    "high-risk HPV",
+    "low-risk HPV",
+    "mucosal HPV",
+    "cutaneous HPV",
+    "HPV16",
+    "HPV18",
+    "sexually transmitted infection",
+    "respiratory papillomatosis",
+    "vaccine hesitancy",
+    "Rick Perry HPV mandate",
+    "Harald zur Hausen",
+    "Ian Frazer and Jian Zhou",
+    "Scorpions Wind of Change"
+  ],
+  "entities": [
+    {
+      "name": "HPV",
+      "type": "other"
+    },
+    {
+      "name": "HPV16",
+      "type": "other"
+    },
+    {
+      "name": "HPV18",
+      "type": "other"
+    },
+    {
+      "name": "Gardasil",
+      "type": "work"
+    },
+    {
+      "name": "Gardasil 9",
+      "type": "work"
+    },
+    {
+      "name": "Cervarix",
+      "type": "work"
+    },
+    {
+      "name": "Harald zur Hausen",
+      "type": "person"
+    },
+    {
+      "name": "Ian Frazer",
+      "type": "person"
+    },
+    {
+      "name": "Jian Zhou",
+      "type": "person"
+    },
+    {
+      "name": "Georgios Papanicolaou",
+      "type": "person"
+    },
+    {
+      "name": "Rick Perry",
+      "type": "person"
+    },
+    {
+      "name": "University of Queensland",
+      "type": "organization"
+    },
+    {
+      "name": "Merck",
+      "type": "organization"
+    },
+    {
+      "name": "GlaxoSmithKline",
+      "type": "organization"
+    },
+    {
+      "name": "ACIP",
+      "type": "organization"
+    },
+    {
+      "name": "USPSTF",
+      "type": "organization"
+    },
+    {
+      "name": "American Cancer Society",
+      "type": "organization"
+    },
+    {
+      "name": "CDC",
+      "type": "organization"
+    },
+    {
+      "name": "Scorpions",
+      "type": "organization"
+    },
+    {
+      "name": "Wind of Change",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:50",
+      "kind": "intro",
+      "title": "Opening banter and HPV introduction",
+      "summary": "The hosts joke about an intro and introduce HPV as a very common sexually transmitted infection and the first virus found to cause cancer, noting an effective vaccine exists.",
+      "topics": [
+        "HPV",
+        "sexually transmitted infection",
+        "HPV vaccine"
+      ]
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:06:25",
+      "kind": "content",
+      "title": "History of HPV, warts, and cervical cancer",
+      "summary": "The hosts discuss the history of warts being linked to an infection, the 1917 German experiment on genital warts, 19th-century observations of cervical cancer among nuns and married women, and Harald zur Hausen's 1983 discovery of HPV16 in cervical cancer biopsies. They note HPV is species-specific and that HPV16 may have come from Neanderthals and Denisovans.",
+      "topics": [
+        "HPV history",
+        "genital warts history",
+        "cervical cancer history",
+        "Harald zur Hausen",
+        "HPV16 origin"
+      ]
+    },
+    {
+      "start": "00:06:25",
+      "end": "00:08:23",
+      "kind": "content",
+      "title": "Nobel Prize and viruses causing cancer",
+      "summary": "Zur Hausen's 1983 work is tied to his 2008 Nobel Prize in Physiology or Medicine. HPV is described as the first virus shown to cause cancer, with a note on viruses' possible role in other diseases.",
+      "topics": [
+        "Nobel Prize",
+        "viruses and cancer",
+        "Harald zur Hausen"
+      ]
+    },
+    {
+      "start": "00:08:23",
+      "end": "00:10:49",
+      "kind": "content",
+      "title": "Cutaneous vs mucosal HPV and high-risk vs low-risk types",
+      "summary": "HPV types are divided into cutaneous types, which cause skin warts, and mucosal types, which infect moist areas and can spread sexually. Mucosal types are further classed as high-risk, which can lead to cancer, or low-risk, which almost never does. HPV spreads without exchange of body fluids, so condoms only partly help.",
+      "topics": [
+        "cutaneous HPV",
+        "mucosal HPV",
+        "high-risk HPV",
+        "low-risk HPV",
+        "HPV transmission"
+      ]
+    },
+    {
+      "start": "00:10:49",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "HPV prevalence and infection rates",
+      "summary": "The hosts cite about 14 million new US infections a year and at least 80 million Americans currently infected, and speculate on a surge tied to changes in sexual mores and behavior.",
+      "topics": [
+        "HPV prevalence",
+        "HPV infection rates",
+        "sexual behavior changes"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:20",
+      "kind": "content",
+      "title": "Genital warts, respiratory papillomatosis, and treatment",
+      "summary": "Low-risk mucosal HPV types 6 and 11 cause genital warts, which can be removed with medication, liquid nitrogen, or lasers. Respiratory papillomatosis, warts in the airway mainly in young children, can narrow the airway and is treated surgically. The mechanism of HPV replication and localized lesions is also described.",
+      "topics": [
+        "genital warts",
+        "respiratory papillomatosis",
+        "wart treatment",
+        "liquid nitrogen wart removal",
+        "HPV replication"
+      ]
+    },
+    {
+      "start": "00:16:20",
+      "end": "00:18:29",
+      "kind": "content",
+      "title": "HPV-related cancers",
+      "summary": "The hosts cite CDC data from 2021 showing about 37,000 HPV-associated cancers per year, 22,000 in women and 16,000 in men, including cervical, anal, penile, vaginal, vulvar, and oropharyngeal cancers. HPV16 and HPV18 are the most common cancer-causing types, with HPV16 responsible for about 90 percent of HPV-related oropharyngeal cancers and half of cervical cancers.",
+      "topics": [
+        "HPV-related cancers",
+        "anal cancer",
+        "penile cancer",
+        "vaginal cancer",
+        "vulvar cancer",
+        "oropharyngeal cancer",
+        "HPV16 and HPV18 cancer risk"
+      ]
+    },
+    {
+      "start": "00:18:29",
+      "end": "00:23:29",
+      "kind": "content",
+      "title": "Cervical cancer screening and declining rates",
+      "summary": "Cervical cancer deaths in the US have fallen by more than half from the mid-1970s to mid-2000s due to screening. Guidelines differ: the USPSTF recommends PAP tests from age 21 and not routine HPV testing under 30, while the American Cancer Society recommends starting at 25 with HPV testing. Abnormal results lead to colposcopy, biopsy, or monitoring. Screening is far less robust in some developing countries.",
+      "topics": [
+        "cervical cancer screening",
+        "PAP test",
+        "HPV testing",
+        "USPSTF guidelines",
+        "American Cancer Society screening",
+        "colposcopy",
+        "cervical cancer deaths"
+      ]
+    },
+    {
+      "start": "00:23:29",
+      "end": "00:25:42",
+      "kind": "content",
+      "title": "Oropharyngeal cancer and oral sex",
+      "summary": "Tobacco-related oropharyngeal cancer is falling, but HPV-related cases are rising, with oral sex now the biggest risk factor and more oral partners raising risk. The hosts mention Michael Douglas's comments and researchers' interest in the problem.",
+      "topics": [
+        "oropharyngeal cancer",
+        "oral sex and HPV",
+        "tobacco decline",
+        "Michael Douglas throat cancer"
+      ]
+    },
+    {
+      "start": "00:25:42",
+      "end": "00:26:54",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "A short break before the vaccine discussion, with a note on other HPV-linked cancers that are rarer.",
+      "topics": [
+        "HPV-related cancers"
+      ]
+    },
+    {
+      "start": "00:26:54",
+      "end": "00:32:01",
+      "kind": "content",
+      "title": "HPV vaccine history and dosing",
+      "summary": "Jian Zhou and Ian Frazer at the University of Queensland developed the approach of using HPV16 proteins in a vaccine. The first vaccine, Gardasil, came out in 2006 and was approved for girls and women 9 to 26. It covered HPV 6, 11, 16, and 18. The FDA licensed it for boys and men in 2009. GlaxoSmithKline released Cervarix, Merck released Gardasil 9 in 2014, and the vaccine does not cure existing infections. Dosing is two shots for younger kids and three for those over 15.",
+      "topics": [
+        "HPV vaccine history",
+        "Gardasil",
+        "Cervarix",
+        "Gardasil 9",
+        "vaccine dosing",
+        "vaccine protection"
+      ]
+    },
+    {
+      "start": "00:32:01",
+      "end": "00:35:56",
+      "kind": "content",
+      "title": "Vaccine controversy and Rick Perry's Texas mandate",
+      "summary": "The HPV vaccine launched amid autism-vaccine controversy. Texas governor Rick Perry mandated the vaccine for sixth-grade girls in 2007, which drew criticism over his ties to Merck. Studies found no increase in sexual behavior among vaccinated girls. Boys' vaccination was debated after a 2011 New York Times story, and later evidence showed straight men are at risk for oropharyngeal cancer.",
+      "topics": [
+        "HPV vaccine controversy",
+        "Rick Perry mandate",
+        "vaccine hesitancy",
+        "vaccine and sexual behavior",
+        "boys HPV vaccination"
+      ]
+    },
+    {
+      "start": "00:35:56",
+      "end": "00:38:41",
+      "kind": "content",
+      "title": "Vaccination benefits, coverage, and state requirements",
+      "summary": "Johns Hopkins modeling projected about 1,000 fewer oropharyngeal cancers by 2045 from male vaccination, limited by low male uptake. A 2021 study found 87 percent fewer cervical cancer cases among women vaccinated at 12 to 13. In 2022, 57 percent of 15-to-17-year-olds had at least one dose. Delaware, Rhode Island, Hawaii, Virginia, and DC require the vaccine for students.",
+      "topics": [
+        "HPV vaccine effectiveness",
+        "vaccination rates",
+        "state vaccine requirements",
+        "Johns Hopkins model",
+        "cervical cancer reduction"
+      ]
+    },
+    {
+      "start": "00:38:41",
+      "end": "00:39:06",
+      "kind": "outro",
+      "title": "Closing HPV remarks",
+      "summary": "Josh wraps up the HPV episode and advises listeners to read from trusted sources.",
+      "topics": [
+        "HPV resources"
+      ]
+    },
+    {
+      "start": "00:39:06",
+      "end": "00:42:10",
+      "kind": "listener_mail",
+      "title": "Listener mail on Scorpions' Wind of Change",
+      "summary": "Jimmy from Spokane writes about the Scorpions' song Wind of Change and the conspiracy theory that the CIA helped write it as Cold War propaganda. The hosts discuss the band, the Moscow Music Peace Festival, and a recommended podcast. Jimmy also recommends the 1978 Scorpions video Sails of Charon.",
+      "topics": [
+        "Scorpions",
+        "Wind of Change",
+        "CIA conspiracy theory",
+        "Cold War",
+        "Sails of Charon"
+      ]
+    },
+    {
+      "start": "00:42:10",
+      "end": "00:43:37",
+      "kind": "content",
+      "title": "Movie recommendation and closing",
+      "summary": "Josh recommends the 1979 horror film Tourist Trap, and Chuck mentions the Scorpions video. The hosts close with a listener mail call-out.",
+      "topics": [
+        "Tourist Trap",
+        "movie recommendation"
+      ]
+    },
+    {
+      "start": "00:43:37",
+      "end": "00:43:58",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts ask listeners to send listener mail and close the show.",
+      "topics": [
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15504,
+    "output_tokens": 4360
+  }
+}

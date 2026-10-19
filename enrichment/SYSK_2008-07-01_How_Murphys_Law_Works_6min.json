@@ -1,0 +1,144 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-07-01_How_Murphys_Law_Works_6min.txt",
+  "title": "How Murphy's Law Works",
+  "date": "2008-07-01",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-murphys-law-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79daaa3a-1a4a-4a78-b9fd-ae2800c3d0cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/79daaa3a-1a4a-4a78-b9fd-ae2800c3d0cb/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh Clark and Candice Gibson discuss Murphy's Law: its origins in a 1949 Air Force g-force experiment attributed to Captain Edward A. Murphy, Colonel John Paul Stapp popularizing it, and related sayings like Sod's Law and Tourist's Observation. They explore the psychology of why people notice bad outcomes more than good ones (e.g., the slower-lane traffic illusion), and mention Joel Pell's Murphy's equation, which assigned a probability of 1 to a 1989 Toyota Corolla clutch failing in a rainstorm. The episode closes with a plug for the HowStuffWorks article on Murphy's Law. Ads for a camera and Consumer Guide Automotive appear at the start and end.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Murphy's Law",
+    "Sod's law",
+    "Edward A. Murphy",
+    "John Paul Stapp",
+    "Air Force g-force experiments",
+    "Tourist's observation",
+    "negativity bias",
+    "Murphy's equation",
+    "Joel Pell",
+    "fatalism",
+    "corollary laws",
+    "probability of things going wrong"
+  ],
+  "entities": [
+    {
+      "name": "Murphy's Law",
+      "type": "other"
+    },
+    {
+      "name": "Edward A. Murphy",
+      "type": "person"
+    },
+    {
+      "name": "John Paul Stapp",
+      "type": "person"
+    },
+    {
+      "name": "Sod's law",
+      "type": "other"
+    },
+    {
+      "name": "Joel Pell",
+      "type": "person"
+    },
+    {
+      "name": "University of British Columbia",
+      "type": "organization"
+    },
+    {
+      "name": "Toyota",
+      "type": "organization"
+    },
+    {
+      "name": "Air Force",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "kind": "ad",
+      "title": "Opening ads and banter",
+      "summary": "Sponsor reads for a camera and Consumer Guide Automotive, then hosts greet and Josh says he is feeling down about things going wrong.",
+      "topics": [
+        "sponsor read",
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "Origins of Murphy's Law",
+      "summary": "Josh explains Murphy's Law came from Air Force g-force tests, where Captain Edward A. Murphy blamed technicians for errors and Colonel John Paul Stapp later popularized the saying. Related older saying Sod's law is mentioned.",
+      "topics": [
+        "Murphy's Law origin",
+        "Edward A. Murphy",
+        "John Paul Stapp",
+        "Air Force g-force experiments",
+        "Sod's law"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "Corollary laws and tourist's observation",
+      "summary": "The hosts discuss corollary laws, including the tourist's observation that the other lane always moves faster, and explain it through attention bias: people notice only when traffic in their lane is stopped.",
+      "topics": [
+        "tourist's observation",
+        "corollary laws",
+        "traffic psychology",
+        "negativity bias"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:05:15",
+      "kind": "content",
+      "title": "Psychology of fatalism and paying attention to bad events",
+      "summary": "Discussion of why people feel victimized and fatalistic, and why humans focus on bad events, using a walking and skinned-knee example. They suggest optimism may help.",
+      "topics": [
+        "fatalism",
+        "negativity bias",
+        "optimism",
+        "Murphy's Law mindset"
+      ]
+    },
+    {
+      "start": "00:05:15",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Joel Pell's Murphy's equation",
+      "summary": "Josh describes Joel Pell of the University of British Columbia quantifying Murphy's Law with an equation based on factors such as desire for an outcome, system complexity, and urgency. Pell gave a probability of one for his 1989 Toyota Corolla clutch failing in a rainstorm sixty miles from home; Candice suggests the car's age or make could explain it.",
+      "topics": [
+        "Murphy's equation",
+        "Joel Pell",
+        "probability",
+        "Toyota clutch example"
+      ]
+    },
+    {
+      "start": "00:05:50",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Closing plug",
+      "summary": "Hosts point listeners to the HowStuffWorks article on Murphy's Law and invite feedback by email, then the closing ad replays.",
+      "topics": [
+        "HowStuffWorks article",
+        "listener feedback",
+        "sponsor read"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3553,
+    "output_tokens": 1617
+  }
+}

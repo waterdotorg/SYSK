@@ -1,0 +1,228 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-07-19_Supernovae_Best_Around_Case_Closed_42min.txt",
+  "title": "Supernovae: Best Around, Case Closed",
+  "date": "2022-07-19",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/supernovae-best-around-case-closed",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8300159e-4521-48ba-897f-aed600e1cc16/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8300159e-4521-48ba-897f-aed600e1cc16/transcript?format=TextWithTimestamps&t=1700553444",
+  "summary": "Josh and Chuck explain supernovae: why they matter for creating heavy elements, how often they occur in the Milky Way and historical sightings (SN 1006, 1054, 1572, Kepler's SN 1604, SN 1987A and the Han dynasty record), how amateur astronomers help report them to the Central Bureau for Astronomical Telegrams, the two main types (Type Ia from white dwarfs reaching the Chandrasekhar limit, and core-collapse Type II), the Champagne Supernova of 2006, neutron stars and pulsars including the fastest-spinning pulsar, black hole outcomes above about forty solar masses, possible links to Earth's mass extinctions via radioactive iron-60, and zombie stars. The episode closes with a listener email about the term \"Dark Ages.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "supernova",
+    "supernovae",
+    "type Ia supernova",
+    "type II supernova",
+    "core collapse supernova",
+    "white dwarf",
+    "Chandrasekhar limit",
+    "standard candle",
+    "neutron star",
+    "pulsar",
+    "black hole formation",
+    "heavy elements",
+    "stellar life cycle",
+    "Kepler's supernova",
+    "SN 1604",
+    "SN 1006",
+    "Han dynasty supernova record",
+    "SN 1987A",
+    "Champagne Supernova",
+    "zombie star",
+    "amateur astronomers",
+    "Central Bureau for Astronomical Telegrams",
+    "James Webb Space Telescope",
+    "iron-60 extinction",
+    "mass extinction",
+    "Dark Ages listener mail",
+    "Milky Way supernova rate"
+  ],
+  "entities": [
+    {
+      "name": "Supernova",
+      "type": "event"
+    },
+    {
+      "name": "James Webb Space Telescope",
+      "type": "other"
+    },
+    {
+      "name": "Hubble",
+      "type": "other"
+    },
+    {
+      "name": "Johannes Kepler",
+      "type": "person"
+    },
+    {
+      "name": "Rudolph Minkowski",
+      "type": "person"
+    },
+    {
+      "name": "Subrahmanyan Chandrasekhar",
+      "type": "person"
+    },
+    {
+      "name": "Central Bureau for Astronomical Telegrams",
+      "type": "organization"
+    },
+    {
+      "name": "Han dynasty",
+      "type": "event"
+    },
+    {
+      "name": "Large Magellanic Cloud",
+      "type": "place"
+    },
+    {
+      "name": "SN 1987A",
+      "type": "event"
+    },
+    {
+      "name": "SN 2006gy",
+      "type": "event"
+    },
+    {
+      "name": "PSR J0437-4715",
+      "type": "other"
+    },
+    {
+      "name": "K Pegasi",
+      "type": "place"
+    },
+    {
+      "name": "Large Hadron Collider",
+      "type": "other"
+    },
+    {
+      "name": "Carl Sagan",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Introduction and why supernovae matter",
+      "summary": "Hosts introduce supernovae, mention James Webb telescope images, criticize the old HowStuffWorks article for being convoluted, and explain that supernovae produce the heavy elements needed for life and planets.",
+      "topics": [
+        "supernova",
+        "James Webb Space Telescope",
+        "heavy elements",
+        "star dust"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Frequency of supernovae and historical sightings",
+      "summary": "Milky Way supernovae occur roughly every fifty to a hundred years. Kepler's 1604 supernova was the last one thought to be in the Milky Way until remnants of a more recent one were found. Five naked-eye supernovae were recorded in the last millennium (1006, 1054, 1572, 1604; the hosts list four plus one more), and amateur astronomers help report new ones to the Central Bureau for Astronomical Telegrams. The first recorded one was seen in China about two thousand years ago and noted in the Book of the Later Han. The double-explosion event SN 1987A is discussed.",
+      "topics": [
+        "Milky Way supernova rate",
+        "Kepler's supernova",
+        "SN 1604",
+        "amateur astronomers",
+        "Central Bureau for Astronomical Telegrams",
+        "Han dynasty supernova record",
+        "SN 1987A"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:15:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Break in the episode.",
+      "topics": [
+        "advertising break"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Type I and Type II supernovae",
+      "summary": "Supernovae are classified by spectrographs, first by Rudolph Minkowski, into Type I (no hydrogen) and Type II (hydrogen), with later subtypes Ia, Ib, Ic. Type Ia occurs when a white dwarf pulls matter from a companion until reaching the Chandrasekhar limit of about 1.4 solar masses and detonates in a thermonuclear runaway. Type II come from massive stars that fuse elements up to iron, then collapse and rebound.",
+      "topics": [
+        "type Ia supernova",
+        "type II supernova",
+        "Chandrasekhar limit",
+        "white dwarf",
+        "stellar fusion",
+        "core collapse"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Standard candles, Champagne Supernova, and anomalies",
+      "summary": "Type Ia explosions are consistent enough to serve as standard candles. The 2006 Champagne Supernova (SN 2006gy) exceeded the Chandrasekhar limit at about two solar masses, challenging the existing understanding, and physicists treat such anomalies as data to refine theory.",
+      "topics": [
+        "standard candle",
+        "Champagne Supernova",
+        "Chandrasekhar limit anomaly",
+        "type Ia supernova"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Brit pop tangent",
+      "summary": "The hosts digress into a conversation about Brit pop bands, Oasis, Blur, Keane, and a movie, with a joke about a band name.",
+      "topics": [
+        "Brit pop",
+        "music tangent"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Black holes, neutron stars, pulsars, and supernova dangers",
+      "summary": "Core collapse of stars above about forty solar masses can produce black holes, while smaller ones leave neutron stars that can appear as pulsars. The fastest-spinning pulsar, PSR J0437-4715 is described. Hosts say a nearby supernova is not a threat; iron-60 traces on Earth may relate to mass extinctions and ozone changes. Zombie stars that go supernova multiple times are mentioned.",
+      "topics": [
+        "neutron star",
+        "pulsar",
+        "black hole formation",
+        "fastest spinning pulsar",
+        "iron-60 extinction",
+        "zombie star",
+        "supernova danger to Earth"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: Dark Ages terminology",
+      "summary": "Listener Greg asks the hosts to stop calling the medieval era the Dark Ages. Josh and Chuck respond that the term is shorthand people recognize.",
+      "topics": [
+        "Dark Ages",
+        "medieval history",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener mail and mention the show is an iHeartRadio production.",
+      "topics": [
+        "listener mail",
+        "show info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13502,
+    "output_tokens": 2642
+  }
+}

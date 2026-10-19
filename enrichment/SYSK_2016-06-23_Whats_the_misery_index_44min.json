@@ -1,0 +1,270 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-06-23_Whats_the_misery_index_44min.txt",
+  "title": "What's the misery index?",
+  "date": "2016-06-23",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-misery-index",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/140ca8be-8174-4438-ac4b-ae280082b87a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/140ca8be-8174-4438-ac4b-ae280082b87a/transcript?format=TextWithTimestamps&t=1700543832",
+  "summary": "Josh and Chuck explore the misery index, an economic gauge that adds inflation and unemployment rates. They cover its origin with Arthur Okun under Kennedy, Okun's Law, the 1973 Arab oil embargo and stagflation, and how the index was used to predict presidential election outcomes from Eisenhower through Obama. They then discuss refinements: Robert Barro's version, Steve Hanke's international version (Venezuela most miserable, Japan least in 2014), HuffPost's \"Real Misery Index,\" the U-6 unemployment measure, and a 2001 paper weighting unemployment at 1.7 times inflation. The episode closes with a critique of economic forecasting and a listener mail about misophonia.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "misery index",
+    "Arthur Okun",
+    "Okun's Law",
+    "stagflation",
+    "Arab oil embargo",
+    "unemployment rate",
+    "inflation",
+    "U-6 unemployment",
+    "U-3 unemployment",
+    "Robert Barro",
+    "Steve Hanke misery index",
+    "HuffPost Real Misery Index",
+    "presidential elections and economy",
+    "economic forecasting",
+    "neoliberalism",
+    "Kennedy economic policy",
+    "Jimmy Carter malaise",
+    "misophonia",
+    "economics history",
+    "Venezuela inflation"
+  ],
+  "entities": [
+    {
+      "name": "Misery Index",
+      "type": "other"
+    },
+    {
+      "name": "Arthur Okun",
+      "type": "person"
+    },
+    {
+      "name": "John F. Kennedy",
+      "type": "person"
+    },
+    {
+      "name": "Lyndon Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Richard Nixon",
+      "type": "person"
+    },
+    {
+      "name": "Jimmy Carter",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "Robert Barro",
+      "type": "person"
+    },
+    {
+      "name": "Steve Hanke",
+      "type": "person"
+    },
+    {
+      "name": "Arab oil embargo",
+      "type": "event"
+    },
+    {
+      "name": "Watergate",
+      "type": "event"
+    },
+    {
+      "name": "Venezuela",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "HuffPost",
+      "type": "organization"
+    },
+    {
+      "name": "Bureau of Labor Statistics",
+      "type": "organization"
+    },
+    {
+      "name": "Getting It Right",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and hat shout-outs",
+      "summary": "Josh and Chuck chat about Josh's new Last Chance Garage hats made by a patchmaker, thank a sign maker, and transition to the misery index topic.",
+      "topics": [
+        "banter",
+        "Last Chance Garage hats"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Economics criticism and Arthur Okun's Kennedy-era advice",
+      "summary": "They discuss an article comparing economic forecasting to ancient Chinese astrology, then describe how Arthur Okun advised Kennedy to combine tax cuts with increased welfare spending.",
+      "topics": [
+        "economic forecasting criticism",
+        "Arthur Okun",
+        "Kennedy economic policy",
+        "conservative vs liberal economics"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Okun's Law",
+      "summary": "Okun observed that GNP rises about three percent for every percentage point unemployment falls, when unemployment is between three and seven and a half percent. This became known as Okun's Law.",
+      "topics": [
+        "Okun's Law",
+        "GNP and unemployment",
+        "economic data"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "1973 oil embargo and stagflation",
+      "summary": "The 1973 Arab oil embargo caused oil prices to rise sharply and gas lines, and combined with rising unemployment, produced stagflation, breaking the assumed inverse link between inflation and unemployment.",
+      "topics": [
+        "Arab oil embargo",
+        "stagflation",
+        "1970s oil shock",
+        "gas rationing"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Creating the misery index",
+      "summary": "Okun created the misery index as inflation rate plus unemployment rate, a snapshot of daily economic hardship for the average American, and used it to look at history.",
+      "topics": [
+        "misery index origin",
+        "inflation plus unemployment",
+        "Arthur Okun"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Misery index and presidential elections",
+      "summary": "The hosts walk through misery index values across administrations from Eisenhower to Carter, linking high values to incumbents losing office and noting the Watergate-era peak of 17.01.",
+      "topics": [
+        "presidential elections and economy",
+        "Watergate misery index",
+        "Nixon",
+        "Johnson Humphrey 1968"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Carter, Reagan, and later presidents",
+      "summary": "Carter cited the index and then saw it reach 21 during his term. Reagan brought it down to 9.55, and the hosts go through Bush Sr., Clinton, Ross Perot's effect, and Bush Jr. and Obama.",
+      "topics": [
+        "Jimmy Carter misery index",
+        "Reagan economy",
+        "Ross Perot 1992",
+        "Clinton",
+        "Obama economy"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Presidential influence on the economy",
+      "summary": "The hosts discuss how much presidents influence the economy and how long policy effects take to show, and speculate about neoliberalism and political parties.",
+      "topics": [
+        "presidential influence on economy",
+        "neoliberalism",
+        "economic lag effects"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Robert Barro's expanded misery index",
+      "summary": "Robert Barro's book Getting It Right added inflation and unemployment comparisons across presidential terms, the 30-year bond yield, and real GDP growth. Clinton and Reagan ranked highest.",
+      "topics": [
+        "Barro misery index",
+        "Getting It Right",
+        "presidential term economics"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:40:30",
+      "kind": "content",
+      "title": "Steve Hanke's international misery index",
+      "summary": "Steve Hanke added interest rates and subtracted GDP growth, adjusted inflation for price controls and black market exchange rates, and ranked countries in 2014, with Venezuela most miserable and Japan least.",
+      "topics": [
+        "Hanke misery index",
+        "international misery rankings",
+        "Venezuela",
+        "Japan",
+        "price controls"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "HuffPost Real Misery Index and U-6 unemployment",
+      "summary": "The hosts describe the U-3 and U-6 unemployment measures and HuffPost's 2009 Real Misery Index, which added food, fuel, healthcare, and housing costs, and criticize adding such figures together.",
+      "topics": [
+        "U-6 unemployment",
+        "U-3 unemployment",
+        "HuffPost Real Misery Index",
+        "Bureau of Labor Statistics"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Unemployment weighting study and wrap-up",
+      "summary": "A 2001 study on life satisfaction found unemployment about 1.7 times more miserable than inflation. The hosts close by looking forward to unbiased economist explanations.",
+      "topics": [
+        "unemployment weighting 1.7",
+        "life satisfaction study",
+        "closing"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:44:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: misophonia",
+      "summary": "A listener describes living with misophonia, a reaction to certain sounds, and suggests an episode on it. The hosts respond with a note about a TV show.",
+      "topics": [
+        "misophonia",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14401,
+    "output_tokens": 2860
+  }
+}

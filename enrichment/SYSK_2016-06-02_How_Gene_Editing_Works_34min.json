@@ -1,0 +1,211 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-06-02_How_Gene_Editing_Works_34min.txt",
+  "title": "How Gene Editing Works",
+  "date": "2016-06-02",
+  "duration": "34 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-gene-editing-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7f1ab935-8c9c-4c8b-b409-ae28008353b5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7f1ab935-8c9c-4c8b-b409-ae28008353b5/transcript?format=TextWithTimestamps&t=1700543833",
+  "summary": "Josh and Chuck explain CRISPR gene editing, starting with basics of DNA, genes, and mutations, then the history from zinc finger nucleases to the 1987 discovery of repeated sequences in E. coli, Eugene Koonin's immune-database interpretation, and Jennifer Doudna's work turning the Cas9 system into a gene-editing tool. They cover applications (removing disease genes, crops, bioweapon and gene-drive concerns like mosquitoes and Zika), Doudna's call for a pause, the cancer/P53 and HIV research hopes, and roadblocks such as delivery into living bodies, off-target risk, and cells that don't divide. The episode closes with listener mail about LSD use and a reclassification request.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "CRISPR",
+    "CRISPR-Cas9",
+    "gene editing",
+    "genetic engineering",
+    "DNA",
+    "genes",
+    "mutations",
+    "genetic disease",
+    "zinc finger nuclease",
+    "CRISPR history",
+    "bacterial immune system",
+    "Jennifer Doudna",
+    "Eugene Koonin",
+    "gene drive",
+    "designer babies",
+    "cancer gene therapy",
+    "P53 protein",
+    "HIV cure",
+    "Zika virus",
+    "genetic modification",
+    "LSD",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "CRISPR",
+      "type": "other"
+    },
+    {
+      "name": "Cas9",
+      "type": "other"
+    },
+    {
+      "name": "Jennifer Doudna",
+      "type": "person"
+    },
+    {
+      "name": "Eugene Koonin",
+      "type": "person"
+    },
+    {
+      "name": "zinc finger nuclease",
+      "type": "other"
+    },
+    {
+      "name": "Zika virus",
+      "type": "other"
+    },
+    {
+      "name": "P53 protein",
+      "type": "other"
+    },
+    {
+      "name": "HIV",
+      "type": "other"
+    },
+    {
+      "name": "Dolly the sheep",
+      "type": "other"
+    },
+    {
+      "name": "Equilibrium",
+      "type": "work"
+    },
+    {
+      "name": "Designer Children",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and sponsor read",
+      "summary": "Sponsor read for Squarespace, then Josh and Chuck banter about a fan drawing and introduce the topic of CRISPR gene editing.",
+      "topics": [
+        "fan art",
+        "Squarespace",
+        "CRISPR introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "DNA, genes, and mutations",
+      "summary": "Explanation of chromosomes, DNA nucleotide pairs, genes as strings that produce proteins, and how mutations arise during cell division and can cause disease.",
+      "topics": [
+        "DNA",
+        "genes",
+        "nucleotide base pairs",
+        "proteins",
+        "mutations",
+        "genetic disease"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Early gene editing with zinc finger nucleases",
+      "summary": "Describes earlier genetic modification such as selective breeding and cloning, and the early-2000s zinc finger nuclease technique, which was costly and difficult to use.",
+      "topics": [
+        "zinc finger nuclease",
+        "genetic modification",
+        "selective breeding",
+        "Dolly the sheep",
+        "gene editing history"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Discovery of CRISPR in bacteria",
+      "summary": "Explains the name CRISPR, the 1987 first mention of repeated DNA sequences in E. coli, and how researchers later found they store fragments of viral DNA as an immune database.",
+      "topics": [
+        "CRISPR history",
+        "CRISPR name origin",
+        "bacterial immune system",
+        "Eugene Koonin",
+        "viral DNA"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "How Cas9 cuts and edits DNA",
+      "summary": "Describes Cas9 as an RNA-guided enzyme that finds and cuts a target sequence, enabling deletion or insertion of genes, and Jennifer Doudna's role in adapting it.",
+      "topics": [
+        "Cas9",
+        "guide RNA",
+        "gene deletion",
+        "gene insertion",
+        "Jennifer Doudna"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Applications, risks, and calls for a pause",
+      "summary": "Discusses possible uses such as curing blindness or cystic fibrosis and disease-resistant crops, bioweapon and Zika mosquito concerns, Doudna's call for a moratorium, and home kits for DIY gene editing.",
+      "topics": [
+        "CRISPR applications",
+        "biosecurity",
+        "Zika virus",
+        "moratorium",
+        "designer babies",
+        "DIY gene editing"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Cancer, HIV, and roadblocks to human therapy",
+      "summary": "Covers the P53 protein and cancer hopes, limits such as in-body delivery, off-target and long-term cleavage risks, cells that don't divide, and HIV resistance setbacks.",
+      "topics": [
+        "P53 protein",
+        "cancer gene therapy",
+        "HIV cure",
+        "off-target effects",
+        "gene therapy roadblocks"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:34:00",
+      "kind": "outro",
+      "title": "Gene drives and listener mail on LSD",
+      "summary": "Explains gene drives for spreading edited genes through mosquito populations, then reads listener mail about LSD use and the request to reclassify it, followed by contact info and sign-off.",
+      "topics": [
+        "gene drive",
+        "LSD",
+        "listener mail",
+        "drug reclassification"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11334,
+    "output_tokens": 2105
+  }
+}

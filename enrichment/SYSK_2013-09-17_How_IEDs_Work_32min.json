@@ -1,0 +1,275 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-09-17_How_IEDs_Work_32min.txt",
+  "title": "How IEDs Work",
+  "date": "2013-09-17",
+  "duration": "32 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ieds-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a10f216d-619c-4c7f-8399-ae28009dd211/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a10f216d-619c-4c7f-8399-ae28009dd211/transcript?format=TextWithTimestamps&t=1700543897",
+  "summary": "Josh and Chuck explain improvised explosive devices (IEDs): what they are, their history from Vietnam and the IRA to Iraq and Afghanistan, the five basic components (power supply, trigger, detonator, main charge, container), how blasts injure people, and countermeasures such as jammers, lasers, armored and V-shaped vehicles, dogs, and the fraudulent ADE 651 bomb detector. The episode also includes a listener email about a hyperbaric chamber and divers in Utila, Honduras.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "improvised explosive devices",
+    "IED",
+    "IEDs explained",
+    "homemade bombs",
+    "IED components",
+    "trigger and detonator",
+    "blast wave",
+    "IED injuries",
+    "traumatic brain injury",
+    "Iraq War",
+    "Afghanistan War",
+    "counter-IED technology",
+    "NERF jammer",
+    "LIBS laser detection",
+    "MRAP vehicles",
+    "V-hull vehicles",
+    "ADE 651 fake bomb detector",
+    "James McCormick fraud",
+    "vehicle-borne IED",
+    "suicide bombers",
+    "Vietnam War booby traps",
+    "JIEDDO",
+    "ammonium nitrate fertilizer",
+    "hyperbaric chamber",
+    "Utila Honduras divers"
+  ],
+  "entities": [
+    {
+      "name": "Improvised explosive device",
+      "type": "other"
+    },
+    {
+      "name": "Iraq",
+      "type": "place"
+    },
+    {
+      "name": "Afghanistan",
+      "type": "place"
+    },
+    {
+      "name": "Pakistan",
+      "type": "place"
+    },
+    {
+      "name": "Vietnam War",
+      "type": "event"
+    },
+    {
+      "name": "Irish Republican Army",
+      "type": "organization"
+    },
+    {
+      "name": "Taliban",
+      "type": "organization"
+    },
+    {
+      "name": "Viet Cong",
+      "type": "organization"
+    },
+    {
+      "name": "Joint Improvised Explosive Device Defeat Organization",
+      "type": "organization"
+    },
+    {
+      "name": "James McCormick",
+      "type": "person"
+    },
+    {
+      "name": "ADE 651",
+      "type": "other"
+    },
+    {
+      "name": "The Hurt Locker",
+      "type": "work"
+    },
+    {
+      "name": "Zero Dark Thirty",
+      "type": "work"
+    },
+    {
+      "name": "Green Zone",
+      "type": "work"
+    },
+    {
+      "name": "Boston Marathon bombing",
+      "type": "event"
+    },
+    {
+      "name": "Times Square bombing attempt",
+      "type": "event"
+    },
+    {
+      "name": "Red Square bombing plot",
+      "type": "event"
+    },
+    {
+      "name": "Oshkosh Defense",
+      "type": "organization"
+    },
+    {
+      "name": "Utila",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and Michael Stipe shirts",
+      "summary": "Hosts joke about Josh's Mystery Science Theater shirt, fan shirts, and a Michael Stipe sculpture, then introduce the topic of IEDs.",
+      "topics": [
+        "podcast banter",
+        "Mystery Science Theater 3000"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "IEDs in Iraq and Afghanistan: history and definition",
+      "summary": "Chuck defines the improvised explosive device and the hosts discuss IED casualties in Iraq and Afghanistan, the shift from gunfire to IEDs, and early armored vehicle shortages. They trace IEDs to Vietnam (Viet Cong cans on roadsides) and the IRA, and note that homemade bombs differ from commercial ones.",
+      "topics": [
+        "improvised explosive devices",
+        "Iraq War casualties",
+        "Afghanistan War",
+        "Viet Cong booby traps",
+        "IRA bombing",
+        "homemade bombs"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Why IEDs are used and online bomb-making information",
+      "summary": "The hosts discuss why insurgents favor IEDs: they are cheap, easy to assemble, and effective against conventional armies. They cite the Times Square attempt and Boston bombing as examples of bomb designs that circulate online.",
+      "topics": [
+        "IED cheap weapon",
+        "Times Square bombing attempt",
+        "Boston Marathon bombing",
+        "online bomb instructions"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Public event security and bag restrictions",
+      "summary": "The hosts discuss fear at public events after the Boston bombing, NFL stadium bag restrictions, and tradeoffs between security and stress or racial profiling.",
+      "topics": [
+        "public event security",
+        "stadium bag policy",
+        "racial profiling",
+        "airport security"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Five basic parts of an IED",
+      "summary": "Josh and Chuck list the components of an IED: power supply, trigger, detonator, main charge, and container, with shrapnel and other fillers. The hosts stay general and avoid step-by-step construction details.",
+      "topics": [
+        "IED components",
+        "power supply",
+        "trigger",
+        "detonator",
+        "main charge",
+        "shrapnel"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:20:00",
+      "kind": "ad",
+      "title": "Message break",
+      "summary": "Sponsor message break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "How IED triggers and charges fit together and supply chains",
+      "summary": "The hosts describe how the trigger, detonator, and main charge connect, including timer, trip wire, and remote cell phone triggers, and the Chechen Red Square anecdote. They note that components are easy to obtain, making supply lines hard to trace, and discuss the Pentagon's JIEDDO effort and Pakistan's fertilizer exports.",
+      "topics": [
+        "IED triggers",
+        "remote detonation",
+        "cell phone trigger",
+        "Red Square bombing plot",
+        "ammonium nitrate",
+        "JIEDDO",
+        "Pakistan fertilizer"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Blast physics and injuries",
+      "summary": "The hosts describe the blast wave speed, pressure up to a thousand atmospheres, secondary shrapnel, vacuum effect, traumatic brain injury, and perforated lungs and bowels. They note rising limb loss and brain injuries among wounded soldiers in Afghanistan.",
+      "topics": [
+        "blast wave",
+        "explosion pressure",
+        "traumatic brain injury",
+        "blast injuries",
+        "limb loss",
+        "Afghanistan wounded soldiers"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Countermeasures: detection, jamming, armored vehicles, and fraud",
+      "summary": "The hosts cover countermeasures: dogs, vigilance, NERF jammers, LIBS laser detection, microwave devices, and armored MRAP vehicles with V-shaped hulls. They discuss James McCormick, who sold the fake ADE 651 detector, and Oshkosh's unmanned Terra Max vehicle.",
+      "topics": [
+        "counter-IED",
+        "NERF jammer",
+        "LIBS laser detection",
+        "MRAP vehicles",
+        "V-hull",
+        "ADE 651 fraud",
+        "Oshkosh Terra Max",
+        "bomb detection dogs"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:31:30",
+      "kind": "outro",
+      "title": "Wrap-up and listener mail",
+      "summary": "Hosts point listeners to the suicide bombers episode and the search bar, then begin listener mail.",
+      "topics": [
+        "show notes",
+        "suicide bombers"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:32:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: hyperbaric chamber in Utila",
+      "summary": "James writes about working with a hyperbaric chamber on Utila, Honduras, describing dangerous lobster diving conditions and a diver he flew to the mainland. Hosts sign off with contact info.",
+      "topics": [
+        "hyperbaric chamber",
+        "diving accidents",
+        "Utila Honduras",
+        "decompression sickness",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11345,
+    "output_tokens": 2875
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-05-18_How_the_Aurora_Borealis_and_Aurora_Australis_Work_43min.txt",
+  "title": "How the Aurora Borealis and Aurora Australis Work",
+  "date": "2017-05-18",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-aurora-borealis-and-aurora-australis-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8ef0bb41-6320-4864-9676-ae2800782f8c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ef0bb41-6320-4864-9676-ae2800782f8c/transcript?format=TextWithTimestamps&t=1700543809",
+  "summary": "Josh and Chuck explain the aurora borealis and aurora australis: how solar wind and charged particles interact with Earth's magnetosphere, funnel through the polar cusps, and excite oxygen and nitrogen in the upper atmosphere to produce colored light. They cover the history of aurora explanations (Pierre Gassendi and Galileo observing the 1621 display, Christian Birkeland's electron theory, and Shun-ichi Akasofu's oval-shape work), why the auroras are colored as they are, solar cycle effects, viewing tips and the aurora intensity scale, aurora on other planets, a traveler's disappointing Northern Lights tour, and the rare audible aurora sound studied by Unto Laine. The episode closes with listener mail from Sam Martin.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "aurora borealis",
+    "aurora australis",
+    "northern lights",
+    "southern lights",
+    "magnetosphere",
+    "solar wind",
+    "polar cusp",
+    "aurora history",
+    "Christian Birkeland",
+    "Shun-ichi Akasofu",
+    "aurora colors",
+    "solar cycle",
+    "aurora viewing tips",
+    "aurora sound",
+    "thermal inversion layer",
+    "auroras on other planets",
+    "Earth's magnetic field",
+    "plasma and ions",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Aurora Borealis",
+      "type": "other"
+    },
+    {
+      "name": "Aurora Australis",
+      "type": "other"
+    },
+    {
+      "name": "Christian Birkeland",
+      "type": "person"
+    },
+    {
+      "name": "Shun-ichi Akasofu",
+      "type": "person"
+    },
+    {
+      "name": "Pierre Gassendi",
+      "type": "person"
+    },
+    {
+      "name": "Galileo Galilei",
+      "type": "person"
+    },
+    {
+      "name": "Unto Laine",
+      "type": "person"
+    },
+    {
+      "name": "Norway",
+      "type": "place"
+    },
+    {
+      "name": "Finland",
+      "type": "place"
+    },
+    {
+      "name": "Jupiter",
+      "type": "place"
+    },
+    {
+      "name": "Saturn",
+      "type": "place"
+    },
+    {
+      "name": "The Independent",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and new show announcement",
+      "summary": "Hosts announce the relaunch of Stuff Mom Never Told You with Emily and Bridget, Chuck talks about his upper respiratory illness, and they joke about the episode's intro and the Aurora Australis being overshadowed.",
+      "topics": [
+        "Stuff Mom Never Told You relaunch",
+        "Aurora Australis underappreciated"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History of aurora explanations and the Birkeland theory",
+      "summary": "Early explanations for auroras are described. Gassendi and Galileo observed the September 1621 display. Christian Birkeland, a Norwegian physicist, proposed in the nineteenth century that electrons interacting with Earth's magnetosphere cause auroras, and he recreated this in a vacuum chamber.",
+      "topics": [
+        "aurora history",
+        "Pierre Gassendi",
+        "Galileo",
+        "Christian Birkeland",
+        "aurora naming"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Akasofu and the oval shape of auroras",
+      "summary": "Shun-ichi Akasofu, a Japanese graduate student, examined 1964 photos and recognized that auroras form rings or ovals around the poles, a shape later confirmed by satellite observations. Birkeland's idea was incomplete because he thought the electrons came directly from the Sun.",
+      "topics": [
+        "Shun-ichi Akasofu",
+        "oval aurora",
+        "polar auroral oval"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Earth's magnetosphere and why it matters",
+      "summary": "The hosts discuss that the cause of Earth's magnetic field is not fully known, with the leading hypothesis being molten iron rotation in the outer core. The magnetosphere shields Earth from solar radiation and particles and shapes the magnetotail.",
+      "topics": [
+        "Earth's magnetic field",
+        "magnetosphere",
+        "magnetotail",
+        "solar radiation shielding"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Solar wind, plasma, and the polar cusps",
+      "summary": "Solar wind and plasma from the Sun hit the magnetosphere, transferring charge and shaking loose trapped ions. The magnetosphere funnels particles toward the poles through the polar cusps, which is why auroras form in rings at the poles.",
+      "topics": [
+        "solar wind",
+        "plasma",
+        "polar cusp",
+        "magnetosphere funneling"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Atmospheric excitation and aurora colors",
+      "summary": "Ions strike oxygen and nitrogen in the upper atmosphere, exciting electrons to higher orbits. When they fall back, they emit photons. Oxygen produces red and yellow (and green), nitrogen produces red, blue, and violet, with altitude affecting color. Green is from oxygen at rarefied altitudes.",
+      "topics": [
+        "aurora colors",
+        "oxygen and nitrogen emission",
+        "photons",
+        "green aurora",
+        "altitude and aurora color"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Solar cycle and aurora visibility",
+      "summary": "The hosts explain the eleven-year solar cycle, noting the recent solar maximum around 2012 and the weak twenty-second cycle. Auroras are visible more often near the poles and occasionally farther south, such as in the southern United States and Cuba.",
+      "topics": [
+        "solar cycle",
+        "solar maximum",
+        "aurora visibility",
+        "southern visibility of northern lights"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Viewing tips, aurora intensity scale, and where to see them",
+      "summary": "Auroras are rated zero to four, with the best conditions on moonless, clear, very cold nights in winter. Places mentioned include northern Norway, Alaska, Scotland, and the northern US and Canada. Enthusiasts can submit data and sketches to help scientists.",
+      "topics": [
+        "aurora viewing",
+        "aurora intensity scale",
+        "best time to see northern lights",
+        "citizen science aurora",
+        "where to see northern lights"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:33:30",
+      "kind": "content",
+      "title": "Auroras on other planets",
+      "summary": "Auroras have been observed on Jupiter and Saturn. The hosts speculate that the colors there would differ, perhaps involving hydrogen and helium.",
+      "topics": [
+        "auroras on Jupiter",
+        "auroras on Saturn",
+        "planetary aurora"
+      ]
+    },
+    {
+      "start": "00:33:30",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "A disappointing Northern Lights tour",
+      "summary": "The hosts discuss an Independent travel writer's account of a disappointing Northern Lights chase tour in Norway, where the aurora looked gray and faint to the eye, and only long-exposure photos showed the colors.",
+      "topics": [
+        "northern lights tour",
+        "aurora photography long exposure",
+        "aurora travel disappointment",
+        "Norway aurora tour"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:40:30",
+      "kind": "content",
+      "title": "Sounds of the aurora and Unto Laine",
+      "summary": "Acoustician Unto Laine from Finland spent years trying to record the crackling sound some people report hearing from auroras. He eventually recorded it in 2011 and linked it to a thermal inversion layer, with the aurora overhead triggering the charge to become a current.",
+      "topics": [
+        "aurora sound",
+        "Unto Laine",
+        "thermal inversion layer",
+        "auroral crackle"
+      ]
+    },
+    {
+      "start": "00:40:30",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Closing thoughts and contact info",
+      "summary": "Hosts wrap up, joking about the episode and inviting listeners who have seen the aurora to write in with corrections, with social media and email contact details.",
+      "topics": [
+        "show contact information"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:43:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Sam Martin",
+      "summary": "Sam Martin writes about long-distance love, saying the podcast helps him and his partner Meredith stay connected during the four-hundred-mile separation.",
+      "topics": [
+        "listener mail",
+        "long distance relationships"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13706,
+    "output_tokens": 3042
+  }
+}

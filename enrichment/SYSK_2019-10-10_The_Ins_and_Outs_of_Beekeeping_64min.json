@@ -1,0 +1,329 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-10-10_The_Ins_and_Outs_of_Beekeeping_64min.txt",
+  "title": "The Ins and Outs of Beekeeping",
+  "date": "2019-10-10",
+  "duration": "64 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-ins-and-outs-of-beekeeping",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9ff9bd16-376c-4bc5-96fe-ae2800448631/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9ff9bd16-376c-4bc5-96fe-ae2800448631/transcript?format=TextWithTimestamps&t=1700543677",
+  "summary": "Hosts Josh and Chuck cover beekeeping as a mellow hobby: its history from ancient cave paintings and Egyptian hives through skeps, Francois Huber's leaf hive, Thomas Wildman's bar hive, and Lorenzo Langstroth's movable-frame hive and bee space discovery. They explain honeybee colony social structure (workers, drones, queen), the Langstroth hive's parts (stand, bottom board, brood chamber, queen excluder, honey super, frames), beekeeping equipment (smoker, veil, hive tool), hive site selection, sourcing bees (packages, nucs, mutts vs. pure races), feeding and swarming control, pests and diseases (Varroa mites, foul brood), and honey extraction. The episode ends with a listener mail about a stair-stomping jingle earworm and a chipped tooth.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "beekeeping",
+    "beekeeping history",
+    "honeybee colony",
+    "Langstroth hive",
+    "movable frame hive",
+    "bee space",
+    "Lorenzo Langstroth",
+    "Francois Huber leaf hive",
+    "Thomas Wildman bar hive",
+    "skep",
+    "queen excluder",
+    "honey super",
+    "smoker beekeeping",
+    "hive tool",
+    "swarming",
+    "Varroa mite",
+    "foul brood",
+    "honey extraction",
+    "honey extractor",
+    "creamed honey",
+    "raw local honey and allergies",
+    "nuc colony",
+    "package bees",
+    "colony collapse disorder",
+    "bee beard",
+    "bee wax hexagon cells",
+    "queen bee",
+    "worker bees",
+    "drone bees",
+    "feeding bees sugar water",
+    "beekeeping regulations HOA",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Langstroth hive",
+      "type": "other"
+    },
+    {
+      "name": "Lorenzo Langstroth",
+      "type": "person"
+    },
+    {
+      "name": "Francois Huber",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Wildman",
+      "type": "person"
+    },
+    {
+      "name": "Henry Borkwin",
+      "type": "person"
+    },
+    {
+      "name": "Varroa mite",
+      "type": "other"
+    },
+    {
+      "name": "foul brood",
+      "type": "other"
+    },
+    {
+      "name": "colony collapse disorder",
+      "type": "event"
+    },
+    {
+      "name": "skep",
+      "type": "other"
+    },
+    {
+      "name": "bar hive",
+      "type": "other"
+    },
+    {
+      "name": "leaf hive",
+      "type": "other"
+    },
+    {
+      "name": "Honey Harvest Farms",
+      "type": "organization"
+    },
+    {
+      "name": "Dave Rouse",
+      "type": "person"
+    },
+    {
+      "name": "Glenda, Maryland",
+      "type": "place"
+    },
+    {
+      "name": "Champlain, Minnesota",
+      "type": "place"
+    },
+    {
+      "name": "Georgia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Mellow gold intro and why beekeeping is relaxing",
+      "summary": "Josh and Chuck open with banter about mellow soft rock and yacht rock, then joke that beekeeping and reading about it is relaxing despite the risk of stings. They note bees' importance to the environment and the unresolved causes of colony collapse disorder, and mention a previous TV show and bee episodes.",
+      "topics": [
+        "beekeeping",
+        "colony collapse disorder",
+        "bee stings",
+        "bees and environment"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Beekeeping popularity and buying local honey",
+      "summary": "They cite the number of US honeybee colonies and the growth of backyard beekeeping. They discuss buying local honey for possible allergy benefits, and resources for learning beekeeping, including a phone call with a beekeeper named Jeff at Honey Harvest Farms.",
+      "topics": [
+        "US honeybee colonies",
+        "backyard beekeeping",
+        "local honey allergies",
+        "beekeeping resources",
+        "Honey Harvest Farms"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Ancient and early honey hunting and beekeeping",
+      "summary": "They discuss honey's long shelf life, a fifty-year-old honey find in Georgia, a prehistoric cave painting in Spain showing honey harvesting around nine thousand years ago, and evidence of beekeeping in Egypt and clay-and-straw hives in Israel.",
+      "topics": [
+        "ancient honey",
+        "cave painting Spain honey",
+        "Egyptian beekeeping",
+        "clay and straw hives Israel",
+        "honey shelf life"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Hive history: skeps, Huber's leaf hive, and bar hives",
+      "summary": "Early hives were hollowed logs and tree stumps that were destroyed during harvest. The skep, a turned-over basket, replaced them but also required destroying the hive. Francois Huber of Switzerland developed a movable leaf hive in the eighteenth century that did not catch on. In the nineteenth century Thomas Wildman worked with bar hives, a long trough with hanging top bars.",
+      "topics": [
+        "skep",
+        "Francois Huber leaf hive",
+        "Thomas Wildman bar hive",
+        "movable hive history",
+        "Kenya bar hive"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Lorenzo Langstroth and bee space",
+      "summary": "Lorenzo Langstroth, a Pennsylvania minister, discovered bee space, the roughly one-centimeter gap bees will not fill with comb or propolis. This allowed movable frames. He received the first American patent on a movable frame hive in October 1852 with Philadelphia cabinetmaker Henry Borkwin, but could not enforce it and earned no royalties. The Langstroth hive remains the most widespread design.",
+      "topics": [
+        "Lorenzo Langstroth",
+        "bee space",
+        "movable frame hive patent",
+        "Langstroth hive history",
+        "Henry Borkwin"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Honeybee species, races, and colony social structure",
+      "summary": "They explain that honeybee keeping mainly uses Apis mellifera in various races such as Italian, Carniolan, and Russian. The colony is a superorganism made of workers, drones, and one queen. Workers do nearly all the work, drones mate with the queen and are expelled in winter, and the queen lays many eggs and keeps the colony going.",
+      "topics": [
+        "Apis mellifera",
+        "superorganism",
+        "worker bees",
+        "drone bees",
+        "queen bee",
+        "honeybee races",
+        "hive mind"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Langstroth hive parts and queen excluder",
+      "summary": "They describe the Langstroth hive's stand, bottom board, brood chamber (hive body), queen excluder, honey super, and frames. The queen excluder keeps the queen out of the honey super. Frames are pre-printed with foundation. Bees make wax by eating honey, and build hexagonal cells. The hive's modular design is praised.",
+      "topics": [
+        "Langstroth hive parts",
+        "brood chamber",
+        "queen excluder",
+        "honey super",
+        "frames and foundation",
+        "beeswax production",
+        "hexagonal comb"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Feeding bees and beekeeping equipment",
+      "summary": "They cover feeding bees sugar water, avoiding pollen feeding in fall to prevent dysentery in the hive, and the Boardman feeder. Equipment discussed includes protective veil and clothing, the smoker that masks alarm pheromones, and the hive tool used to pry frames and remove propolis.",
+      "topics": [
+        "bee feeding",
+        "Boardman feeder",
+        "bee veil",
+        "bee smoker",
+        "hive tool",
+        "propolis",
+        "beekeeping equipment"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:02:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "01:02:00",
+      "end": "01:10:00",
+      "kind": "content",
+      "title": "Getting started: site, neighbors, and bee sourcing",
+      "summary": "They advise checking local ordinances and HOA rules, neighbor relations, and orienting the hive entrance south or southeast for morning sun and away from neighbors. They cover water sources and shade from afternoon sun. Bees can be bought as packages or as nucs with a mated queen, shipped by mail or sourced locally. Pure races cost more than mutts.",
+      "topics": [
+        "beekeeping regulations",
+        "hive placement",
+        "hive orientation",
+        "nuc colony",
+        "package bees",
+        "mated queen",
+        "mutt bees vs pure races"
+      ]
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:18:00",
+      "kind": "content",
+      "title": "Swarming and mentoring",
+      "summary": "They describe swarming as a natural colony split, how beekeepers prevent it by removing queen cells and trading brood frames, the danger of robber bees on weak colonies, and the bee beard stunt. They also recommend finding a mentor.",
+      "topics": [
+        "swarming",
+        "queen cells",
+        "robber bees",
+        "bee beard",
+        "beekeeping mentor",
+        "brood frame exchange"
+      ]
+    },
+    {
+      "start": "01:18:00",
+      "end": "01:26:00",
+      "kind": "content",
+      "title": "Pests and diseases: Varroa mites and foul brood",
+      "summary": "Varroa mites, which arrived in the US in the 1980s, are the most common cause of bee death and colony failure, feeding on pupae and adult bees and spreading disease. Beekeepers should keep mite counts low, about ten per 100 bees. Foul brood produces a sulfur or dead fish smell and can require burning equipment.",
+      "topics": [
+        "Varroa mite",
+        "foul brood",
+        "bee diseases",
+        "mite treatment",
+        "bee pests"
+      ]
+    },
+    {
+      "start": "01:26:00",
+      "end": "01:36:00",
+      "kind": "content",
+      "title": "Honey harvesting and extraction",
+      "summary": "Harvesting uses a bee escape board between brood chamber and honey super so bees leave in about forty-eight hours. Honey frames go into an extractor, hand-cranked or motorized, then are strained. Beekeepers leave the wax comb in place so bees reuse it, saving honey.",
+      "topics": [
+        "honey harvesting",
+        "bee escape board",
+        "honey extractor",
+        "honey straining",
+        "beeswax reuse"
+      ]
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: jingle stomping and a chipped tooth",
+      "summary": "Listener Jamie from Sienna College writes that the stairs in a new house match the steps needed to stomp the show's jingle, and that they chipped a tooth falling down the stairs while going for water.",
+      "topics": [
+        "listener mail",
+        "show jingle",
+        "chipped tooth"
+      ]
+    },
+    {
+      "start": "01:40:00",
+      "end": "01:41:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and point to the website and social links for contact.",
+      "topics": [
+        "outro",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 21406,
+    "output_tokens": 3892
+  }
+}

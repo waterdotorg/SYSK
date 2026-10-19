@@ -1,0 +1,152 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-09-08_Short_Stuff_Chameleons_13min.txt",
+  "title": "Short Stuff: Chameleons",
+  "date": "2021-09-08",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-chameleons",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0a72673e-01c1-40d8-878f-ae28000b9fc3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a72673e-01c1-40d8-878f-ae28000b9fc3/transcript?format=TextWithTimestamps&t=1700539655",
+  "summary": "Short Stuff episode on chameleons. The hosts bust common myths: chameleons mainly change color to regulate body temperature and in response to emotion (excitement, agitation, fear), not to blend into surroundings, and their natural color is green-ish (yellow base with blue reflection when relaxed). They note chameleons cannot regrow their tails, unlike some lizards such as geckos. They compare chameleon color change to octopus chromatophores, explaining that chameleons use iridophores (crystal-like iridescent cells) that reflect light across the spectrum, controlled by hormones and muscles that expand or contract the cells, which is slower than the octopus's neuron-controlled sacks. Lizards seen in Georgia are discussed as likely skinks or leopard geckos rather than chameleons. The episode also includes a long digression about the movie Beetlejuice and Michael Keaton. Cliffhanger and ad break occur mid-episode.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "chameleons",
+    "chameleon color change",
+    "iridophores",
+    "chromatophores",
+    "octopus color change",
+    "chameleon myths",
+    "lizard tail regrowth",
+    "skinks",
+    "leopard geckos",
+    "body temperature regulation in reptiles",
+    "reptile hormones and color",
+    "iridescence",
+    "structural color",
+    "Beetlejuice",
+    "Michael Keaton",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Chameleon",
+      "type": "other"
+    },
+    {
+      "name": "Octopus",
+      "type": "other"
+    },
+    {
+      "name": "Skink",
+      "type": "other"
+    },
+    {
+      "name": "Leopard gecko",
+      "type": "other"
+    },
+    {
+      "name": "Beetlejuice",
+      "type": "work"
+    },
+    {
+      "name": "Michael Keaton",
+      "type": "person"
+    },
+    {
+      "name": "Georgia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and lizard misidentification",
+      "summary": "Hosts introduce the chameleon topic and discuss lizards seen in Georgia, debating whether they are skinks or leopard geckos, and mention skink toxicity.",
+      "topics": [
+        "skinks",
+        "leopard geckos",
+        "lizard identification"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Chameleon tail and color change myths",
+      "summary": "Hosts note chameleons cannot regrow their tails, and bust the myth that chameleons change color to blend into surroundings; color change is tied to temperature regulation and emotion.",
+      "topics": [
+        "chameleon myths",
+        "lizard tail regrowth",
+        "chameleon color change",
+        "body temperature regulation"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Chromatophores versus iridophores",
+      "summary": "Hosts compare octopus chromatophore pigment sacks with chameleon iridophores, which are iridescent crystal-like cells that reflect light rather than use pigment.",
+      "topics": [
+        "chromatophores",
+        "iridophores",
+        "octopus color change",
+        "iridescence",
+        "structural color"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:08:30",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-episode break with a cliffhanger and a sponsor/ad segment.",
+      "topics": [
+        "podcast ad break"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "How chameleon cells produce colors",
+      "summary": "Relaxed iridophores reflect short-wavelength blue light, while excited cells spread apart to reflect red and orange; hormones trigger this, making chameleon color change slower than octopus neuron-controlled changes. Chameleons' natural color is yellow-based and appears green when relaxed.",
+      "topics": [
+        "chameleon color mechanism",
+        "hormones and color change",
+        "structural color",
+        "chameleon green coloration"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Beetlejuice and Michael Keaton digression",
+      "summary": "Hosts digress into their favorite Beetlejuice lines and songs, mention a possible sequel, and discuss Michael Keaton's early stand-up and a meeting with him.",
+      "topics": [
+        "Beetlejuice",
+        "Michael Keaton",
+        "movie discussion"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts wrap up the chameleon topic and sign off the Short Stuff episode.",
+      "topics": [
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5397,
+    "output_tokens": 1671
+  }
+}

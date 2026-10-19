@@ -1,0 +1,167 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-10-16_How_Living_Off_the_Grid_Works_14min.txt",
+  "title": "How Living Off the Grid Works",
+  "date": "2008-10-16",
+  "duration": "14 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-living-off-the-grid-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/89370033-48b9-4d34-b816-ae2800c27d71/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/89370033-48b9-4d34-b816-ae2800c27d71/transcript?format=TextWithTimestamps&t=1700544000",
+  "summary": "Josh and Chuck open with complaints about utility billing: estimated electric meter readings and a $5,000 water bill after a house purchase. They introduce living off the grid (the \"back to Earth\" movement), explaining it means cutting ties with power, water, sewer, gas and garbage utilities. They cover solar power (including SunPower sun tiles that serve as roof shingles), net-metering checks from the power company versus storing power in batteries with an inverter converting DC to AC, and a brief aside on how alternating versus direct current affects someone being electrocuted. Water options discussed are wells (about fifteen million Americans have one, costing roughly three to fifteen thousand dollars) and cisterns, plus septic systems with leach fields and soil filtration. They also discuss growing food and keeping chickens and cows to cut garbage, composting animal byproducts, propane and biodiesel backup generators, and home efficiency measures like sealing windows and passive solar design. Chuck mentions rainwater collection from an air conditioner and the trend in Los Angeles.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "living off the grid",
+    "back to Earth movement",
+    "off-grid living",
+    "solar power",
+    "sun tiles",
+    "solar shingles",
+    "wind power",
+    "net metering",
+    "home battery storage",
+    "inverter",
+    "direct current vs alternating current",
+    "cistern",
+    "rainwater harvesting",
+    "well water",
+    "septic system",
+    "leach field",
+    "composting",
+    "off-grid garbage",
+    "backup generator",
+    "biodiesel",
+    "propane",
+    "passive solar design",
+    "home energy conservation",
+    "utility bills",
+    "self-sufficiency"
+  ],
+  "entities": [
+    {
+      "name": "Living off the grid",
+      "type": "other"
+    },
+    {
+      "name": "Back to Earth movement",
+      "type": "event"
+    },
+    {
+      "name": "SunPower",
+      "type": "organization"
+    },
+    {
+      "name": "Georgia Power",
+      "type": "organization"
+    },
+    {
+      "name": "Los Angeles",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Utility billing complaints and intro to off-grid living",
+      "summary": "Josh and Chuck discuss estimated electric bills and a five-thousand-dollar water bill, then introduce the back to Earth movement and the idea of living off the grid.",
+      "topics": [
+        "utility bills",
+        "estimated meter readings",
+        "water bill dispute",
+        "living off the grid",
+        "back to Earth movement"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Solar and wind power",
+      "summary": "They discuss solar power's upfront cost, SunPower's solar roof shingles that connect to the grid, and wind turbines that feed the grid.",
+      "topics": [
+        "solar power",
+        "sun tiles",
+        "solar shingles",
+        "wind power",
+        "solar cost"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Storing power and staying on the grid",
+      "summary": "Power companies store solar output and pay customers who over-produce. Fully cutting ties requires home battery storage and an inverter to convert DC to AC. A short aside explains how AC and DC shocks differ in electrocution.",
+      "topics": [
+        "net metering",
+        "home battery storage",
+        "inverter",
+        "direct current vs alternating current",
+        "electrocution"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Water: wells, cisterns and septic systems",
+      "summary": "Cisterns are described as larger rain-barrel systems fed by the roof. Wells cost about three to fifteen thousand dollars and fifteen million Americans have one. Septic systems with leach fields filter waste through soil.",
+      "topics": [
+        "cistern",
+        "rainwater harvesting",
+        "well water",
+        "septic system",
+        "leach field"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Food, garbage and composting off the grid",
+      "summary": "Growing crops, keeping chickens and cows, and composting animal byproducts reduce waste so off-grid households can drop garbage pickup, limiting waste to about a bag a month.",
+      "topics": [
+        "off-grid garbage",
+        "composting",
+        "self-sufficiency",
+        "homegrown food"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Gas, backup power and home efficiency",
+      "summary": "Propane delivery replaces piped gas, biodiesel backup generators cover overcast periods, and efficiency measures like sealed windows and passive solar design reduce energy needs. Chuck mentions rainwater collection and a trend in Los Angeles.",
+      "topics": [
+        "propane",
+        "biodiesel",
+        "backup generator",
+        "passive solar design",
+        "home energy conservation",
+        "rainwater harvesting"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:14:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close with a plug to read more on the website and send feedback to the podcast address, followed by a sponsor line.",
+      "topics": [
+        "show outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 6259,
+    "output_tokens": 1827
+  }
+}

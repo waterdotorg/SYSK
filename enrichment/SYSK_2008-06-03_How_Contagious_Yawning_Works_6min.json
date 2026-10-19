@@ -1,0 +1,141 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-03_How_Contagious_Yawning_Works_6min.txt",
+  "title": "How Contagious Yawning Works",
+  "date": "2008-06-03",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-contagious-yawning-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f6e043d6-1dad-446c-80cd-ae2800c42ca7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f6e043d6-1dad-446c-80cd-ae2800c42ca7/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Hosts Josh Clark and guests (editors Chris Palette and Candice Gibson, as transcribed) discuss contagious yawning: its possible link to empathy, theories including dog-teeth-baring and fight-or-flight vigilance, eye cues versus mouth cues in a yawn study, the oxygen-intake theory, and a study of people with autism who responded to eye cues. The episode references the related HowStuffWorks article \"Does Contagious Yawning Mean You're Nice?\" The episode opens and closes with a sponsor read for a camera.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "contagious yawning",
+    "yawning",
+    "empathy",
+    "yawn theories",
+    "fight or flight response",
+    "eye cues",
+    "oxygen theory of yawning",
+    "autism and yawning",
+    "dog teeth baring",
+    "Does Contagious Yawning Mean You're Nice?",
+    "HowStuffWorks",
+    "Stuff You Should Know"
+  ],
+  "entities": [
+    {
+      "name": "Contagious yawning",
+      "type": "event"
+    },
+    {
+      "name": "Empathy",
+      "type": "other"
+    },
+    {
+      "name": "Autism",
+      "type": "other"
+    },
+    {
+      "name": "Does Contagious Yawning Mean You're Nice?",
+      "type": "work"
+    },
+    {
+      "name": "HowStuffWorks",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "ad",
+      "title": "Opening sponsor read and greeting",
+      "summary": "A short sponsor read for the reinvented 2012 camera opens the episode, followed by the hosts' greeting and introductions.",
+      "topics": [
+        "sponsor read",
+        "camera advertisement"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:01:50",
+      "kind": "intro",
+      "title": "Opening banter and defining empathy",
+      "summary": "The hosts banter about yawning, with Candice yawning on air. Josh mentions an article on whether contagious yawning means you're nice and defines empathy as relating to and trying to feel what another person feels.",
+      "topics": [
+        "empathy",
+        "contagious yawning",
+        "yawning banter"
+      ]
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:02:40",
+      "kind": "content",
+      "title": "Dogs baring teeth and yawning as a signal",
+      "summary": "The hosts discuss theories that yawning may work like a dog baring its teeth as a defensive or subliminal signal, and mention anecdotes of yawning at dogs, with no study found confirming it.",
+      "topics": [
+        "dog teeth baring",
+        "yawn theories",
+        "animal behavior"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Fight or flight and vigilance theory",
+      "summary": "Josh and Candice discuss a theory that yawning increases alertness by carrying blood to the brain, so yawning when afraid could spread through a group on the African savannah as a warning.",
+      "topics": [
+        "fight or flight response",
+        "alertness theory",
+        "yawning evolution",
+        "African savannah"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "Eye cues study",
+      "summary": "A researcher tested whether the eyes or the mouth drive contagious yawning. Covering the mouth still produced yawns, while showing only the mouth produced a slightly weaker response, and no yawn reliably triggered everyone. The hosts find the eye-cue idea convincing.",
+      "topics": [
+        "eye cues",
+        "contagious yawning study",
+        "facial expression",
+        "yawn research"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:05:20",
+      "kind": "content",
+      "title": "Oxygen theory of yawning",
+      "summary": "The hosts describe the theory that yawning is a way to take in a large amount of air when the body lacks oxygen, and that others may yawn in response to seeing it.",
+      "topics": [
+        "oxygen theory",
+        "yawning why",
+        "breathing"
+      ]
+    },
+    {
+      "start": "00:05:20",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Autism study and closing",
+      "summary": "A study of people with autism, shown only mouths or only eyes, found they responded to eyes and not mouths, which the hosts find interesting given difficulties with nonverbal cues. The hosts point listeners to the related article and sign off with a repeat of the camera ad.",
+      "topics": [
+        "autism and contagious yawning",
+        "nonverbal cues",
+        "episode sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3466,
+    "output_tokens": 1580
+  }
+}

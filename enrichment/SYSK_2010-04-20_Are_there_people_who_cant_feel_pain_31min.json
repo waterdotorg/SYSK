@@ -1,0 +1,220 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-04-20_Are_there_people_who_cant_feel_pain_31min.txt",
+  "title": "Are there people who can't feel pain?",
+  "date": "2010-04-20",
+  "duration": "31 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/are-there-people-who-cant-feel-pain",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/281bceb2-7151-4058-a4d2-ae2800b80176/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/281bceb2-7151-4058-a4d2-ae2800b80176/transcript?format=TextWithTimestamps&t=1700543966",
+  "summary": "Josh and Chuck explain congenital insensitivity to pain with anhydrosis (CIPA), a rare hereditary condition in which people cannot feel pain or temperature and cannot sweat. They cover how pain normally works (nociceptors, nerves, fear conditioning), the case of Dr. Geoffrey Woods and a boy in Pakistan, the history of the condition (first described 1847, discredited 1960s psychological theory), the suspected genetics (TRKA/NTRK1 gene, autosomal recessive, higher rates among cousin marriages), and dangers such as infections, overheating, self-injury, unnoticed fractures, and Charcot joints. Also covers parenting tips, a few support websites and a documentary, and a listener email from Ignacio about surviving the 2010 Chile earthquake and tsunami while listening to the podcast. Includes a brief ad read at the start and a correction segment at the end.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "CIPA",
+    "congenital insensitivity to pain",
+    "congenital insensitivity to pain with anhydrosis",
+    "analgesia",
+    "inability to feel pain",
+    "anhydrosis",
+    "hereditary sensory and autonomic neuropathy",
+    "HSAN type IV",
+    "nociceptors",
+    "pain perception",
+    "nerve growth factor",
+    "TRKA gene",
+    "autosomal recessive disorder",
+    "Charcot joints",
+    "Geoffrey Woods",
+    "congenital pain insensitivity parenting tips",
+    "self-injury in pain-insensitive children",
+    "Chile earthquake listener mail",
+    "Crawford Long ether anesthesia",
+    "fear conditioning",
+    "rare genetic disorders"
+  ],
+  "entities": [
+    {
+      "name": "congenital insensitivity to pain with anhydrosis",
+      "type": "other"
+    },
+    {
+      "name": "Geoffrey Woods",
+      "type": "person"
+    },
+    {
+      "name": "Crawford Long",
+      "type": "person"
+    },
+    {
+      "name": "Katie Lambert",
+      "type": "person"
+    },
+    {
+      "name": "Gift of Pain",
+      "type": "work"
+    },
+    {
+      "name": "A Life Without Pain",
+      "type": "work"
+    },
+    {
+      "name": "Pakistan",
+      "type": "place"
+    },
+    {
+      "name": "Lahore",
+      "type": "place"
+    },
+    {
+      "name": "Santiago, Chile",
+      "type": "place"
+    },
+    {
+      "name": "Stuff You Missed in History Class",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction",
+      "summary": "Hosts joke around, mention Josh's shaved head, and introduce the topic of people who cannot feel physical pain.",
+      "topics": [
+        "podcast intro",
+        "congenital insensitivity to pain"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Defining CIPA and the Geoffrey Woods case",
+      "summary": "Introduce CIPA with anhydrosis as a subtype of hereditary sensory and autonomic neuropathy, with about 60 reported cases worldwide. Dr. Geoffrey Woods heard of a Pakistani boy who showed no pain, but the boy died around age 14 before the visit; the family was found to have similar insensitivity. Analgesia is noted as the term.",
+      "topics": [
+        "CIPA",
+        "Geoffrey Woods",
+        "HSAN type IV",
+        "analgesia",
+        "anhydrosis"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "How the nervous system senses pain",
+      "summary": "Explanation of pain signaling through peripheral nerves, spinal cord and brain, and nociceptors responding to mechanical, electrical, thermal and chemical stimuli. Pain is protective and linked to fear learning through direct conditioning.",
+      "topics": [
+        "nociceptors",
+        "pain pathway",
+        "nervous system",
+        "fear conditioning",
+        "direct conditioning"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Causes of CIPA, anhydrosis and sweating",
+      "summary": "Different CIPA cases involve missing nociceptors, nerves not conducting, or lack of innervation. Anhydrosis means sweat glands are not innervated, so the body cannot cool by sweating, making overheating and infant death risks. Hosts joke about sweating personally.",
+      "topics": [
+        "anhydrosis",
+        "eccrine sweat glands",
+        "thermoregulation",
+        "overheating"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "History and genetics of CIPA",
+      "summary": "First described in 1847; a 1960 psychological-cause hypothesis was discarded. A 1950s patient underwent painful tests without anesthetic. Genetics suggests a TRKA/NTRK1 mutation affecting nerve growth factor, and the condition appears autosomal recessive, with higher rates among related parents.",
+      "topics": [
+        "history of CIPA",
+        "NTRK1 gene",
+        "TRKA",
+        "nerve growth factor",
+        "autosomal recessive",
+        "consanguinity"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Anesthesia history tangent",
+      "summary": "Brief tangent comparing insensitivity to ether-induced insensitivity, citing Dr. Crawford Long in New York City.",
+      "topics": [
+        "ether anesthesia",
+        "Crawford Long",
+        "anesthesia history"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Dangers and problems for children with CIPA",
+      "summary": "Children may not cry after injuries, leading to unnoticed infections, sepsis and fever. They may chew through lips and tongues, scratch eyes, forget to eat or use the bathroom, suffer unnoticed fractures, and develop Charcot joints. Parents may remove baby teeth or use goggles.",
+      "topics": [
+        "self-injury",
+        "unnoticed injuries",
+        "Charcot joints",
+        "infection risk",
+        "childhood safety",
+        "hunger and constipation"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Parenting tips, exercise, and treatment",
+      "summary": "Advice includes baby-proofing, checking children for injuries several times a day, moving to cooler climates, occupational therapy, and swimming for exercise while avoiding overheating. No cure exists; stem cell therapy is speculated as a future option.",
+      "topics": [
+        "parenting tips",
+        "occupational therapy",
+        "swimming",
+        "stem cell therapy",
+        "no cure"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Resources and further reading",
+      "summary": "Hosts recommend the Gift of Pain website, a site about a boy with CIPA, and the documentary A Life Without Pain by Melody Guild, and suggest searching CIPA on the site.",
+      "topics": [
+        "Gift of Pain",
+        "documentary",
+        "resources",
+        "CIPA support"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:31:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Chile earthquake and corrections",
+      "summary": "Listener Ignacio writes that he was in Chile during the 2010 earthquake and tsunami and listened to the podcast to cope. The hosts discuss the Day's Army family, then correct the pronunciation of De Pue (Illinois) and Yorba-type Canadian bacon jokes, and sign off with the email address.",
+      "topics": [
+        "listener mail",
+        "Chile earthquake",
+        "tsunami",
+        "corrections",
+        "Illinois town name"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10840,
+    "output_tokens": 2689
+  }
+}

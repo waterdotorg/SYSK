@@ -1,0 +1,298 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-06-10_Can_your_grandfathers_diet_shorten_your_life_30min.txt",
+  "title": "Can your grandfather's diet shorten your life?",
+  "date": "2010-06-10",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/can-your-grandfathers-diet-shorten-your-life",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1e871ef4-162a-4831-b5cb-ae2800b6923b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1e871ef4-162a-4831-b5cb-ae2800b6923b/transcript?format=TextWithTimestamps&t=1700543961",
+  "summary": "Josh and Chuck explain epigenetics: how chemical \"methyl tags\" switch genes on and off without changing DNA itself, turning the epigenome into a kind of software over the genome's hardware. They cover examples from honey bee queen development (royal jelly and the dnmt3 gene), agouti mice whose coat color and weight shift with methylation and with maternal B vitamin diet, and the Swedish Överkalix famine records linking grandparents' feast or famine to grandchildren's lifespan. They discuss the Angelman and Prader-Willi syndromes as imprinting examples, PTSD-like cortisol changes in children of mothers pregnant during 9/11, and how methyl tags may fade over a few generations. They also cover possible therapies (such as the drug azacitidine for leukemia), the effects of smoking and cocaine, the Human Epigenome Project, Bruce Lipton's controversial claims, and a listener mail segment about Sarah, a young fan with a blog.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "epigenetics",
+    "epigenome",
+    "DNA methylation",
+    "methyl tags",
+    "gene expression",
+    "genetics vs environment",
+    "nature versus nurture",
+    "honey bee queen development",
+    "royal jelly",
+    "agouti mice",
+    "B vitamins and pregnancy",
+    "Swedish famine study",
+    "grandparents diet and lifespan",
+    "Angelman syndrome",
+    "Prader-Willi syndrome",
+    "genomic imprinting",
+    "PTSD inheritance",
+    "9/11 pregnant women study",
+    "cortisol",
+    "transgenerational inheritance",
+    "cancer epigenetic therapy",
+    "leukemia treatment",
+    "smoking and epigenetics",
+    "cocaine and memory in mice",
+    "Human Epigenome Project",
+    "Human Genome Project",
+    "Bruce Lipton",
+    "Lamarck",
+    "Darwin",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Jean-Baptiste Lamarck",
+      "type": "person"
+    },
+    {
+      "name": "Lars-Olov Bygren",
+      "type": "person"
+    },
+    {
+      "name": "Bruce Lipton",
+      "type": "person"
+    },
+    {
+      "name": "Framingham Heart Study",
+      "type": "event"
+    },
+    {
+      "name": "Avon Longitudinal Study of Parents and Children",
+      "type": "event"
+    },
+    {
+      "name": "Human Genome Project",
+      "type": "event"
+    },
+    {
+      "name": "Human Epigenome Project",
+      "type": "event"
+    },
+    {
+      "name": "Angelman syndrome",
+      "type": "other"
+    },
+    {
+      "name": "Prader-Willi syndrome",
+      "type": "other"
+    },
+    {
+      "name": "The Ghost in Your Genes",
+      "type": "work"
+    },
+    {
+      "name": "The Living Matrix",
+      "type": "work"
+    },
+    {
+      "name": "Sweden",
+      "type": "place"
+    },
+    {
+      "name": "Sarah loves Australian commercials",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Darwin vs. Lamarck",
+      "summary": "Hosts introduce the episode on genetics and set up Darwin's theory of natural selection, the moon orchid and hawk moth anecdote, and Lamarck's giraffe idea as a precursor to epigenetics.",
+      "topics": [
+        "Darwin",
+        "Lamarck",
+        "genetic revolution",
+        "inheritance of acquired traits"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Epigenome as software",
+      "summary": "Josh uses a hardware and software analogy: the genome is hardware and the epigenome tells cells what to do and when. Cells share the same DNA but differ by which genes are tagged on or off.",
+      "topics": [
+        "epigenetics definition",
+        "epigenome",
+        "gene expression",
+        "cell differentiation"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Methyl tags as gene switches",
+      "summary": "Methyl tags, small chemical groups, attach to genes and block proteins from activating them, acting like a light switch that silences genes and can physically change how the genome is packed.",
+      "topics": [
+        "methyl tags",
+        "DNA methylation",
+        "gene silencing",
+        "light switch analogy"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Honey bee queens and royal jelly",
+      "summary": "Worker bees and queen bees share DNA; royal jelly adds a methyl tag to the dnmt3 gene in queen larvae, switching off the default worker pathway and allowing queen traits to develop.",
+      "topics": [
+        "honey bees",
+        "queen bee",
+        "royal jelly",
+        "dnmt3 gene",
+        "caste determination"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Agouti mice and diet",
+      "summary": "Agouti gene experiments in mice show that methylation status changes size, weight and coat color. Feeding pregnant mothers B vitamins produced thin brown offspring, while mothers on a normal diet produced fat yellow ones. Intermediate methylation produced spotted coats.",
+      "topics": [
+        "agouti mice",
+        "agouti gene",
+        "B vitamins",
+        "diet and epigenetics",
+        "pregnancy and mice",
+        "coat color"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:16:30",
+      "kind": "content",
+      "title": "Environment, nature vs. nurture, and inheritance",
+      "summary": "Hosts discuss how environmental factors such as diet, stress and exercise can affect children and grandchildren through epigenetic changes, framing this as a possible answer to the nature versus nurture debate.",
+      "topics": [
+        "nature vs nurture",
+        "environmental effects on offspring",
+        "transgenerational effects",
+        "stress and genes"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Swedish famine records and grandparents",
+      "summary": "Dr. Lars-Olov Bygren's study of nineteenth-century agricultural records from an isolated Swedish town found that grandchildren of grandfathers who experienced feast and famine within a year lived on average about 32 years less.",
+      "topics": [
+        "Swedish famine study",
+        "Overkalix",
+        "grandparents diet and lifespan",
+        "Lars-Olov Bygren",
+        "transgenerational epigenetics"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Imprinting: Angelman and Prader-Willi syndromes",
+      "summary": "The hosts describe Angelman and Prader-Willi syndromes, caused by a missing piece of DNA whose effect depends on which parent it came from, a form of gene imprinting. They also mention the PBS documentary The Ghost in Your Genes.",
+      "topics": [
+        "Angelman syndrome",
+        "Prader-Willi syndrome",
+        "genomic imprinting",
+        "The Ghost in Your Genes"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Methyl tags, egg and sperm, and PTSD",
+      "summary": "Methyl tags are normally cleaned during egg and sperm formation, but not all are removed, so some can be passed down. A study of women pregnant during 9/11 found their babies had lower cortisol, and hosts speculate about PTSD inheritance and mouse studies of maternal care.",
+      "topics": [
+        "PTSD inheritance",
+        "9/11 study",
+        "cortisol",
+        "methyl tag reset",
+        "maternal care in mice"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:30:30",
+      "kind": "content",
+      "title": "Reversibility, therapies, and the Human Epigenome Project",
+      "summary": "Methyl tags may fade after a few generations (fruit flies, mice, and an estimated three or so in humans). Hosts discuss epigenetic drug therapies for cancer and leukemia, the effects of smoking and cocaine, and the scale of the Human Epigenome Project.",
+      "topics": [
+        "epigenetic therapy",
+        "cancer",
+        "leukemia",
+        "smoking and epigenetics",
+        "cocaine and mice",
+        "Human Epigenome Project",
+        "Human Genome Project"
+      ]
+    },
+    {
+      "start": "00:30:30",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Bruce Lipton and the limits of the hype",
+      "summary": "Hosts discuss Bruce Lipton's claims that the mind can alter the epigenome, placebo effect and spontaneous remission, and note that some critics call him a quack while stress reduction may be a more plausible explanation.",
+      "topics": [
+        "Bruce Lipton",
+        "The Living Matrix",
+        "placebo effect",
+        "spontaneous remission",
+        "mind-body"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:34:30",
+      "kind": "content",
+      "title": "Resources and further reading",
+      "summary": "Hosts recommend the University of Utah epigenetics website, the PBS documentary, and the HowStuffWorks article on how epigenetics works.",
+      "topics": [
+        "epigenetics resources",
+        "University of Utah",
+        "how epigenetics works"
+      ]
+    },
+    {
+      "start": "00:34:30",
+      "end": "00:39:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Sarah's blog",
+      "summary": "A listener mail from Sarah, a young fan now thirteen, shares her birthday news and her blog about Australian commercials. The hosts read her email and sign off with a Sound of Music farewell.",
+      "topics": [
+        "listener mail",
+        "fan mail",
+        "Sarah birthday",
+        "Sarah loves Australian commercials"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:39:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give the show's contact address and sign off, with a closing sponsor line.",
+      "topics": [
+        "sign-off",
+        "contact email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10267,
+    "output_tokens": 3423
+  }
+}

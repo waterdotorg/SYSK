@@ -1,0 +1,207 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-07-19_Does_smiling_make_you_happy_28min.txt",
+  "title": "Does smiling make you happy?",
+  "date": "2011-07-19",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/does-smiling-make-you-happy",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3dae6187-8405-407a-a6ff-ae2800aec13b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3dae6187-8405-407a-a6ff-ae2800aec13b/transcript?format=TextWithTimestamps&t=1700543937",
+  "summary": "Josh and Chuck discuss whether smiling makes you happy. They cover Duchenne smiles (genuine smiles involving the eyes, named after neurologist Guillaume Duchenne, who used facial muscle shocks in the 1862 era), the spot-the-fake-smile test, and the \"vowel sound\" study by Robert Zajonc-era psychologist (transcribed as Robert Jan/Johnic) in which making a long \"E\" sound (smile) produced better mood than \"oo\" (frown). They discuss the pencil-in-mouth study, a mirror study showing a bigger mood boost when people watch themselves smile, the facial-cooling/carotid artery hypothesis (Zajonc, transcribed as Zgohnic/Johnic), Charles Darwin's earlier idea that facial expressions can cause emotions, Botox and emotional response study (Barnard College, 2010), fake smiling and emotional exhaustion among workers (Michigan State 2011 study on bus drivers, deep vs. surface acting), and gender differences in smiling. The episode closes with a WFMU radio announcement, a listener mail about a woman's bizarre reaction to fear during a webinar, and a plug for a listener's campaign to catch up on episodes.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "smiling and happiness",
+    "facial feedback hypothesis",
+    "Duchenne smile",
+    "genuine vs fake smile",
+    "Botox and emotion",
+    "surface acting vs deep acting",
+    "emotional labor",
+    "smile research",
+    "facial expressions and emotion",
+    "pencil in mouth study",
+    "mirror study smiling",
+    "carotid artery brain temperature hypothesis",
+    "Charles Darwin facial expressions",
+    "gender and smiling",
+    "Walmart greeters fake smiling",
+    "listener mail",
+    "WFMU radio",
+    "fear and orgasm listener mail",
+    "subjective well-being studies"
+  ],
+  "entities": [
+    {
+      "name": "Duchenne smile",
+      "type": "other"
+    },
+    {
+      "name": "Guillaume Duchenne",
+      "type": "person"
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Botox",
+      "type": "other"
+    },
+    {
+      "name": "Barnard College",
+      "type": "organization"
+    },
+    {
+      "name": "Michigan State University",
+      "type": "organization"
+    },
+    {
+      "name": "Falkland Islands",
+      "type": "place"
+    },
+    {
+      "name": "WFMU",
+      "type": "organization"
+    },
+    {
+      "name": "Ken Friedman",
+      "type": "person"
+    },
+    {
+      "name": "Forrest Gump",
+      "type": "work"
+    },
+    {
+      "name": "Spot the Fake Smile",
+      "type": "work"
+    },
+    {
+      "name": "Sweet Home Alabama",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the Duchenne smile",
+      "summary": "Josh and Chuck open with banter about smiling, then introduce the Duchenne smile, named after neurologist Guillaume Duchenne, who isolated smile-related facial muscles by shocking patients' faces. They note the BBC game Spot the Fake Smile and that genuine smiles involve the eyes (crow's feet).",
+      "topics": [
+        "Duchenne smile",
+        "genuine vs fake smile",
+        "Guillaume Duchenne",
+        "spot the fake smile"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Fake smiles and the vowel sound study",
+      "summary": "They discuss research finding that even fake smiles, involving only the mouth, can lead to better well-being. A late-1980s study by a psychologist (transcribed as Robert Jan/Johnic, from the Falkland Islands) had subjects repeat vowel sounds mimicking a smile or frown; subjects felt better with the smile sound and worse with the frown sound. They note doubts about self-reported well-being measures.",
+      "topics": [
+        "facial feedback hypothesis",
+        "vowel sound study",
+        "subjective well-being",
+        "fake smiles and mood"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Pencil and mirror studies",
+      "summary": "A study had people hold a pencil in their mouths in smile or pout configurations; those with the pout were unhappier afterward. A three-group study found subjects who smiled reported happier moods, and those who smiled while watching themselves in a mirror showed the largest change. They discuss why mirrors boost mood, linking it to self-consciousness and introspection.",
+      "topics": [
+        "pencil in mouth study",
+        "mirror study smiling",
+        "self-consciousness and mood",
+        "smiling and happiness research"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Darwin, brain cooling and the carotid artery",
+      "summary": "Charles Darwin had suggested in the nineteenth century that facial expressions can cause emotions. Later research proposed a physiological explanation: changes in facial muscle temperature and blood flow. Smiling constricts facial veins that drain the brain, which may reduce blood flow through the carotid artery and cool the brain, which the research associates with happier states. The hosts note this hypothesis is not definitively supported.",
+      "topics": [
+        "Charles Darwin facial expressions",
+        "carotid artery brain temperature hypothesis",
+        "cavernous sinus",
+        "physiological basis of smiling"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Botox and muted emotion",
+      "summary": "A 2010 Barnard College study found that people given Botox, which paralyzes facial muscles, reported weaker emotional responses to movie clips than people given a filler injection. The hosts take this as evidence that facial expression is connected to producing emotion.",
+      "topics": [
+        "Botox and emotion",
+        "facial paralysis and emotional response",
+        "Barnard College study",
+        "emotional response to film clips"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Fake smiling at work and emotional exhaustion",
+      "summary": "A 2011 Michigan State study of bus drivers over two weeks found that surface acting (fake smiling) was linked to withdrawal and emotional exhaustion, while deep acting (cultivating genuinely positive feelings) led to better mood and performance. Fake smiling was linked to feelings of inauthenticity, and women were more affected. Another study found women smile more than men in most social situations.",
+      "topics": [
+        "surface acting vs deep acting",
+        "emotional labor",
+        "fake smiling at work",
+        "gender and smiling",
+        "Michigan State study bus drivers",
+        "Walmart greeters fake smiling"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:25:30",
+      "kind": "content",
+      "title": "Show news: WFMU and the podcast's history",
+      "summary": "Chuck plugs the show's Friday night broadcast on WFMU 91.1 in the New York and New Jersey area and thanks Ken Friedman. Josh says the show has been running for more than three years and mentions a fan who has been listening.",
+      "topics": [
+        "WFMU radio",
+        "Ken Friedman",
+        "show announcements"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:27:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: fear and orgasm during a webinar",
+      "summary": "A listener describes having intense orgasms while panicking during a failed webinar. The hosts read the email and invite listeners to share bear encounter stories. They also promote a listener's campaign to catch up on episodes, using the hashtag #ChrisCanDo.",
+      "topics": [
+        "listener mail",
+        "fear response",
+        "bear encounter stories",
+        "catching up on podcast episodes"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:28:00",
+      "kind": "outro",
+      "title": "Sign-off and video podcast plug",
+      "summary": "The hosts plug the video podcast Stuff from the Future and the Facebook page, then sign off.",
+      "topics": [
+        "Stuff from the Future",
+        "show promotion"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10019,
+    "output_tokens": 2800
+  }
+}

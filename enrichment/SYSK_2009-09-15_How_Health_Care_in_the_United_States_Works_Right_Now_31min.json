@@ -1,0 +1,260 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-09-15_How_Health_Care_in_the_United_States_Works_Right_Now_31min.txt",
+  "title": "How Health Care in the United States Works Right Now",
+  "date": "2009-09-15",
+  "duration": "31 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-health-care-in-the-united-states-works-right-n",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/58585229-f908-420e-a692-ae2800bcf050/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/58585229-f908-420e-a692-ae2800bcf050/transcript?format=TextWithTimestamps&t=1700543981",
+  "summary": "Part one of a four-part series on the current health care system in the United States. Josh and Chuck trace the history of US health insurance from Blue Cross in the 1920s and employer-based plans after the IRS pre-tax ruling, cover government programs (Medicare, Medicaid, S-CHIP), high-risk pools, group versus individual insurance, fee-for-service versus managed care and the primary care physician's decline, malpractice costs, the number of uninsured Americans and disputes over who they are, and why US health spending is high while outcomes lag, citing a World Health Organization ranking and life expectancy comparisons. They attribute cost growth to overuse driven by insurance, aging population, administrative costs, for-profit hospitals, and premium increases. The episode ends by previewing Barack Obama's reform plan in the next installment and introducing guests Molly Edmonds and Dr. Michael Roizen.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "US health care system",
+    "health care reform",
+    "health insurance history",
+    "Blue Cross",
+    "employer-based health insurance",
+    "pre-tax dollars IRS ruling",
+    "Medicare",
+    "Medicaid",
+    "S-CHIP",
+    "high-risk health insurance pools",
+    "group insurance",
+    "individual health insurance",
+    "fee-for-service model",
+    "managed care",
+    "HMO",
+    "PPO",
+    "primary care physician decline",
+    "medical malpractice",
+    "uninsured Americans",
+    "World Health Organization health system ranking",
+    "US health spending",
+    "health care costs",
+    "life expectancy comparison",
+    "health insurance premiums",
+    "preventive care",
+    "administrative costs",
+    "for-profit hospitals"
+  ],
+  "entities": [
+    {
+      "name": "Blue Cross",
+      "type": "organization"
+    },
+    {
+      "name": "Justin Kimball",
+      "type": "person"
+    },
+    {
+      "name": "Medicare",
+      "type": "other"
+    },
+    {
+      "name": "Medicaid",
+      "type": "other"
+    },
+    {
+      "name": "S-CHIP",
+      "type": "other"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Internal Revenue Service",
+      "type": "organization"
+    },
+    {
+      "name": "Cato Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Michael D. Tanner",
+      "type": "person"
+    },
+    {
+      "name": "Brookings Institution",
+      "type": "organization"
+    },
+    {
+      "name": "Americans for Insurance Reform",
+      "type": "organization"
+    },
+    {
+      "name": "Barack Obama",
+      "type": "person"
+    },
+    {
+      "name": "Molly Edmonds",
+      "type": "person"
+    },
+    {
+      "name": "Michael Roizen",
+      "type": "person"
+    },
+    {
+      "name": "Cleveland Clinic",
+      "type": "organization"
+    },
+    {
+      "name": "The Simpsons",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening and series introduction",
+      "summary": "Josh and Chuck introduce part one of a four-part series on the current US health care system, noting confusion about health care reform and that they will focus on how things work today rather than future plans.",
+      "topics": [
+        "health care reform",
+        "series introduction"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Hosts' personal insurance gaps and origins of insurance",
+      "summary": "The hosts discuss going without insurance in their twenties. They then describe Justin Kimball's 1920s Texas prepaid maternity plan for teachers, which led to the US insurance industry and Blue Cross, and compare insurance to gambling.",
+      "topics": [
+        "Blue Cross",
+        "health insurance history",
+        "insurance as gambling"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Employer-based insurance and the IRS pre-tax ruling",
+      "summary": "In the 1940s companies began offering employer insurance plans. An IRS ruling in 1943 let employers pay for plans with pre-tax dollars, creating a state-sanctioned employer system. Most insured Americans get coverage through an employer.",
+      "topics": [
+        "employer-based health insurance",
+        "pre-tax dollars IRS ruling",
+        "employer health benefits"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Government programs: Medicare, Medicaid, S-CHIP",
+      "summary": "The hosts describe Medicare for the elderly and chronically disabled, Medicaid for the poor, disabled and pregnant women, and S-CHIP for uninsured children under 19 in families earning up to about $36,200 a year.",
+      "topics": [
+        "Medicare",
+        "Medicaid",
+        "S-CHIP",
+        "government health insurance"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "High-risk pools, group versus individual insurance",
+      "summary": "High-risk pools group people with pre-existing conditions together. Group insurance, especially employer plans, usually has no physical exam or lengthy questionnaire, while individual plans involve rigorous screening and can be denied.",
+      "topics": [
+        "high-risk health insurance pools",
+        "group insurance",
+        "individual health insurance",
+        "pre-existing conditions"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Fee-for-service versus managed care and the primary care physician",
+      "summary": "Fee-for-service is the original indemnity model where patients pay doctors and file for reimbursement. Managed care, including HMOs and PPOs, grew in the 1980s with emphasis on prevention and a primary care physician. The hosts say primary care is declining because it pays poorly relative to savings.",
+      "topics": [
+        "fee-for-service model",
+        "managed care",
+        "HMO",
+        "PPO",
+        "primary care physician decline",
+        "preventive care"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Medical malpractice and cost arguments",
+      "summary": "The hosts discuss doctors' concerns about malpractice, reliance on MRI machines over diagnosis, and patients self-diagnosing online. They cite a study from Americans for Insurance Reform finding malpractice premiums at their lowest in thirty years and malpractice claims a small share of health costs.",
+      "topics": [
+        "medical malpractice",
+        "malpractice premiums",
+        "cyberchondria",
+        "MRI overuse",
+        "Americans for Insurance Reform"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Number of uninsured Americans",
+      "summary": "The Census Bureau counted 45.6 million uninsured Americans as of August 2009. Michael D. Tanner of the Cato Institute says about 12 million are eligible for Medicaid or S-CHIP, about 10 million are illegal immigrants, and about half of the uninsured go six months or less without coverage.",
+      "topics": [
+        "uninsured Americans",
+        "Census Bureau uninsured figures",
+        "Michael D. Tanner",
+        "Cato Institute",
+        "Medicaid eligibility"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "US spending versus outcomes and the WHO ranking",
+      "summary": "The US spent 16.6 percent of GDP on health care in 2008, more than defense. A World Health Organization study ranked the US about seventh among 191 countries. US life expectancy trails many countries, and the hosts discuss why costs rise, including an aging population, understaffing, and medical errors.",
+      "topics": [
+        "World Health Organization health system ranking",
+        "US health spending",
+        "life expectancy comparison",
+        "health care costs",
+        "GDP health spending"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Overuse, premiums, administrative costs and for-profit hospitals",
+      "summary": "The hosts argue that insurance shields patients from costs, encouraging demand for tests like MRIs. Premiums rose faster than wages from 2004 to 2009, and administrative costs take a large share of spending. They also mention the shift to for-profit hospitals and billing disputes.",
+      "topics": [
+        "health insurance premiums",
+        "administrative costs",
+        "for-profit hospitals",
+        "health care costs",
+        "preventive care"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Preview of next episode and guests",
+      "summary": "Josh and Chuck preview the next episode on Barack Obama's health care reform plan and introduce Molly Edmonds and Dr. Michael Roizen as guests. They point listeners to HowStuffWorks articles and an email address.",
+      "topics": [
+        "Barack Obama health care plan",
+        "Molly Edmonds",
+        "Michael Roizen",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10769,
+    "output_tokens": 3013
+  }
+}

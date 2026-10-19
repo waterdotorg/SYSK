@@ -1,0 +1,241 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-02-15_How_Blood_Pattern_Analysis_Works_37min.txt",
+  "title": "How Blood Pattern Analysis Works",
+  "date": "2011-02-15",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-blood-pattern-analysis-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a0bef460-b2a1-47e9-8e46-ae2800b1bde5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a0bef460-b2a1-47e9-8e46-ae2800b1bde5/transcript?format=TextWithTimestamps&t=1700543946",
+  "summary": "Valentine's Day-themed episode of Stuff You Should Know on blood pattern analysis (blood spatter analysis). The hosts open with a joke origin story of Valentine's Day cards, then discuss how analysts read blood evidence: the types of weapons, handedness, victim position, time since death, and clotting. They explain the three spatter velocity classes (low, medium, high) with their force thresholds and typical causes, including passive spatter, projected arterial blood, back and front spatter, internal muzzle staining, and voids. They cover string-based angle reconstruction, the trigonometry for calculating impact angle from drop elongation (width divided by length, then arcsine), and modern 3D software. History covers Eduard Piotrowski, Paul Kirk and the Samuel Shepard case, and Herbert MacDonald, who helped found the International Association of Bloodstain Pattern Analysts in 1983. The CSI effect is discussed. The episode closes with the Lindy Chamberlain case, where blood evidence and handling problems figured in her conviction, and a listener mail story from a medical student.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "blood pattern analysis",
+    "blood spatter analysis",
+    "bloodstain pattern analysis",
+    "forensic science",
+    "crime scene investigation",
+    "spatter velocity",
+    "low velocity spatter",
+    "medium velocity spatter",
+    "high velocity spatter",
+    "projected blood",
+    "area of convergence",
+    "angle of impact",
+    "trigonometry in forensics",
+    "string method bloodstain reconstruction",
+    "No More Strings software",
+    "CSI effect",
+    "Valentine's Day",
+    "Eduard Piotrowski",
+    "Paul Kirk",
+    "Herbert MacDonald",
+    "International Association of Bloodstain Pattern Analysts",
+    "Lindy Chamberlain case",
+    "dingo baby case",
+    "internal muzzle staining",
+    "forensic handedness",
+    "skeletonized blood",
+    "blood clotting time of death"
+  ],
+  "entities": [
+    {
+      "name": "Blood pattern analysis",
+      "type": "other"
+    },
+    {
+      "name": "Samuel Shepard case",
+      "type": "event"
+    },
+    {
+      "name": "Lindy Chamberlain",
+      "type": "person"
+    },
+    {
+      "name": "Azaria Chamberlain",
+      "type": "person"
+    },
+    {
+      "name": "Eduard Piotrowski",
+      "type": "person"
+    },
+    {
+      "name": "Paul Kirk",
+      "type": "person"
+    },
+    {
+      "name": "Herbert MacDonald",
+      "type": "person"
+    },
+    {
+      "name": "Samuel Shepard",
+      "type": "person"
+    },
+    {
+      "name": "International Association of Bloodstain Pattern Analysts",
+      "type": "organization"
+    },
+    {
+      "name": "Dexter",
+      "type": "work"
+    },
+    {
+      "name": "Air's Rock",
+      "type": "place"
+    },
+    {
+      "name": "No More Strings",
+      "type": "work"
+    },
+    {
+      "name": "St. Valentine",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Valentine's Day opening and blood spatter setup",
+      "summary": "The hosts open the Love Edition with a joke origin story of Valentine's Day cards, then tie the heart symbol to blood and introduce blood spatter analysis as a topic.",
+      "topics": [
+        "Valentine's Day",
+        "blood spatter analysis"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Dexter, analysts, and what blood evidence reveals",
+      "summary": "The hosts discuss the TV show Dexter and whether real analysts are photographers too, and note that blood pattern analysis is as much art as science and corroborates other evidence. They list what it can reveal: weapon type, number of blows, handedness, victim position, whether death was immediate, and time since death from clotting.",
+      "topics": [
+        "Dexter TV show",
+        "blood pattern analysis",
+        "time of death",
+        "handedness",
+        "skeletonized blood",
+        "blood clotting"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Low, medium, and high velocity spatter",
+      "summary": "The hosts explain the three spatter velocity classes. Low velocity is gravity-driven drips under about 5 feet per second, often from stabbings, including passive spatter. Medium velocity, from blunt force or arterial spurting, is roughly 5 to 25 feet per second. High velocity, usually gunshots, is over 100 feet per second and carries tissue and bone.",
+      "topics": [
+        "low velocity spatter",
+        "medium velocity spatter",
+        "high velocity spatter",
+        "passive spatter",
+        "projected blood",
+        "gunshot spatter",
+        "back spatter",
+        "front spatter"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Muzzle staining, voids, and gunshot details",
+      "summary": "The hosts discuss gunshot-related evidence, including internal muzzle staining and stippling from close-range shots, which can draw blood back into the gun, and voids, which are shadow shapes left where something blocked the spatter.",
+      "topics": [
+        "internal muzzle staining",
+        "stippling",
+        "voids in blood spatter",
+        "cavitation",
+        "close range gunshot"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Reconstructing angles with strings and trigonometry",
+      "summary": "The hosts describe the traditional string method, where strings run from each drop to a convergence point that approximates the victim's head position. They then explain the trigonometry of impact angle: divide a drop's width by its length and take the arcsine. They also mention modern 3D software, No More Strings, and how juries respond to animation.",
+      "topics": [
+        "area of convergence",
+        "string method",
+        "angle of impact",
+        "trigonometry",
+        "arcsine",
+        "No More Strings software",
+        "3D animation in court"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "History of bloodstain analysis",
+      "summary": "The hosts trace the field's history: Eduard Piotrowski's early work on head-wound bloodstains, Paul Kirk's analysis in the Samuel Shepard case, and Herbert MacDonald's 1971 book and training, which led to the founding of the International Association of Bloodstain Pattern Analysts in 1983.",
+      "topics": [
+        "history of blood pattern analysis",
+        "Eduard Piotrowski",
+        "Paul Kirk",
+        "Samuel Shepard case",
+        "Herbert MacDonald",
+        "International Association of Bloodstain Pattern Analysts"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "The CSI effect",
+      "summary": "The hosts explain the CSI effect, in which juries expect TV-style forensic science and a prosecutor who cannot deliver it may lose the case.",
+      "topics": [
+        "CSI effect",
+        "jury expectations",
+        "forensic science on TV"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Lindy Chamberlain case and blood evidence",
+      "summary": "The hosts recount the 1980 disappearance of baby Azaria Chamberlain at Ayers Rock, Australia. Blood evidence on the jumper was mishandled, an expert testified about a cut throat, and Lindy Chamberlain was convicted. Years later a missing jacket was found near dingo lairs, and the Chamberlains were cleared, with legal fees costing about a third of the compensation.",
+      "topics": [
+        "Lindy Chamberlain case",
+        "dingo baby case",
+        "Azaria Chamberlain",
+        "evidence mishandling",
+        "wrongful conviction",
+        "Ayers Rock"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:36:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: lingering from a medical student",
+      "summary": "A listener named Brooks, a fourth-year medical student, shares an ER story about a patient who stole his own blood from a lab to fake a kidney stone and convince staff he had blood in his urine.",
+      "topics": [
+        "listener mail",
+        "medical story",
+        "malingering"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:37:00",
+      "kind": "outro",
+      "title": "Sign-off and search tips",
+      "summary": "The hosts suggest searching How Stuff Works for blood pattern analysis, invite listener stories by email, and close with a sponsor line.",
+      "topics": [
+        "show outro",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12764,
+    "output_tokens": 2931
+  }
+}

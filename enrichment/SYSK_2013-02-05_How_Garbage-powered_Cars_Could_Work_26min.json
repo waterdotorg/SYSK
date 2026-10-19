@@ -1,0 +1,206 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-02-05_How_Garbage-powered_Cars_Could_Work_26min.txt",
+  "title": "How Garbage-powered Cars Could Work",
+  "date": "2013-02-05",
+  "duration": "26 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-garbage-powered-cars-could-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b256745d-39d6-4e7e-ba60-ae2800a2b225/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b256745d-39d6-4e7e-ba60-ae2800a2b225/transcript?format=TextWithTimestamps&t=1700543907",
+  "summary": "Josh and Chuck open with a plug for the Science Channel Stuff You Should Know TV marathon and website, then discuss food and general waste statistics (one-third of global food wasted, US waste growth, Chicago's high per-person waste). They explain how garbage can become car fuel through gasification: feedstock is heated in a low-oxygen, high-pressure environment (pyrolysis) to produce syngas, which can be converted by patented bacteria into ethanol denatured with gasoline. They cover historical syngas use (Belgium town gas, World War II, apartheid-era South Africa), feedstock choices (wood best, tires usable, metal and glass excluded), emissions and ash, energy-return concerns, and Chip Beam's wood-burning Mercury-era Volkswagen Westfalia-style project (described as a Scissor Trooper-type car). The episode closes with a listener mail from a Texas librarian about a Banned Books Week t-shirt controversy and the sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "garbage-powered cars",
+    "gasification",
+    "syngas",
+    "synthesis gas",
+    "pyrolysis",
+    "waste-to-energy",
+    "garbage to fuel",
+    "ethanol from waste",
+    "denatured ethanol",
+    "food waste",
+    "municipal solid waste",
+    "tire recycling as fuel",
+    "wood-burning cars",
+    "producer gas",
+    "Mr. Fusion",
+    "energy return ratio",
+    "Banned Books Week",
+    "listener mail",
+    "Science Channel marathon"
+  ],
+  "entities": [
+    {
+      "name": "Mr. Fusion",
+      "type": "other"
+    },
+    {
+      "name": "Back to the Future",
+      "type": "work"
+    },
+    {
+      "name": "Coskata",
+      "type": "organization"
+    },
+    {
+      "name": "Chip Beam",
+      "type": "person"
+    },
+    {
+      "name": "Toronto",
+      "type": "place"
+    },
+    {
+      "name": "Tampa",
+      "type": "place"
+    },
+    {
+      "name": "Chicago",
+      "type": "place"
+    },
+    {
+      "name": "South Africa",
+      "type": "place"
+    },
+    {
+      "name": "Belgium",
+      "type": "place"
+    },
+    {
+      "name": "Banned Books Week",
+      "type": "event"
+    },
+    {
+      "name": "Science Channel",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and announcements",
+      "summary": "Hosts announce the Science Channel TV show weekend marathon schedule and availability on iTunes, Google Play and Amazon, plug the website, and joke about Chuck's greasy glasses and mispronouncing the Paris river Seine.",
+      "topics": [
+        "Science Channel marathon",
+        "Stuff You Should Know TV show",
+        "podcast announcements"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Food and waste statistics",
+      "summary": "Hosts cite that one-third of global food supply is wasted, that grocery stores discard imperfect produce, and that US per-person waste has risen since 1960, with Chicago producing unusually high waste per person.",
+      "topics": [
+        "food waste",
+        "municipal solid waste",
+        "grocery store produce waste",
+        "Chicago garbage"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Waste-to-energy and the Back to the Future connection",
+      "summary": "Hosts discuss existing waste-to-energy facilities that burn trash for steam and electricity, then the idea of garbage fueling cars, referencing Mr. Fusion from Back to the Future.",
+      "topics": [
+        "waste-to-energy",
+        "Mr. Fusion",
+        "Back to the Future",
+        "landfill methane"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "How gasification and syngas work",
+      "summary": "Syngas is defined as the product of heating carbon-based feedstock in a low-oxygen, high-pressure environment, producing pyrolysis rather than combustion. Feedstocks include plastics, biomass, sewage and municipal waste, excluding metal and glass. Historical uses include town gas in 1600s Belgium, wood gas in World War II, and apartheid-era South Africa.",
+      "topics": [
+        "gasification",
+        "syngas",
+        "pyrolysis",
+        "feedstock",
+        "town gas",
+        "wartime wood gas"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Converting syngas to ethanol and feedstock choices",
+      "summary": "A company feeds syngas to patented bacteria that produce ethanol, which is denatured with a little gasoline to avoid liquor tax. Wood is the best feedstock, with few residues; tires can be used; the resulting ethanol can run in flex-fuel cars or in typical gasoline blends with up to 15 percent ethanol.",
+      "topics": [
+        "ethanol from syngas",
+        "denatured ethanol",
+        "flex fuel",
+        "feedstock selection",
+        "scrap tires",
+        "ethanol blend"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Emissions, ash, energy balance and challenges",
+      "summary": "Syngas is described as low-emission and closed-system, with impurities separated and some reusable; tires yield char more efficient than coal. Challenges include sorting waste, drying moist feedstock, handling ash, and the energy return ratio, with a biofuel study finding many require more energy than they yield.",
+      "topics": [
+        "emissions",
+        "ash residue",
+        "energy return ratio",
+        "biofuel energy balance",
+        "CO2 injection"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Chip Beam's wood-burning car",
+      "summary": "Chip Beam runs a modified car on wood chips in a kettle in the rear bed, using the original engine; he is working on a 1991 Mercury Cougar with a goal of building the fastest wood-burning car. Chuck asks about emissions from on-board gasification.",
+      "topics": [
+        "wood-burning car",
+        "Chip Beam",
+        "wood gas vehicles",
+        "Mercury Cougar"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:26:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Banned Books Week shirt",
+      "summary": "A Texas librarian describes a library school student group's t-shirt with out-of-copyright banned-book quotes, a complaint over a Kurt Vonnegut quote, and a replacement design; the hosts ask for favorite banned books and sign off.",
+      "topics": [
+        "Banned Books Week",
+        "library censorship",
+        "listener mail",
+        "Kurt Vonnegut"
+      ]
+    },
+    {
+      "start": "00:25:30",
+      "end": "00:26:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give contact and website information.",
+      "topics": [
+        "podcast contact",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9592,
+    "output_tokens": 2304
+  }
+}

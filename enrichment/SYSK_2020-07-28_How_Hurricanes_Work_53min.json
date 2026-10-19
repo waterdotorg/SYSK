@@ -1,0 +1,264 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-07-28_How_Hurricanes_Work_53min.txt",
+  "title": "How Hurricanes Work",
+  "date": "2020-07-28",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-hurricanes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a0cca0f6-466a-427c-99b5-ae2800313825/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a0cca0f6-466a-427c-99b5-ae2800313825/transcript?format=TextWithTimestamps&t=1700543619",
+  "summary": "Josh and Chuck explain how hurricanes form and what they become. They open with a book plug and Bob Dylan banter, then cover the basics: hurricanes, typhoons and cyclones are the same storm under different regional names; the Atlantic season runs roughly June 1 to November. Formation requires warm ocean water (about 80 F down to roughly 150 feet), rising moist air, converging winds, low wind shear, and the Coriolis effect, which sets rotation direction and keeps the eye clear. They walk through Saffir-Simpson style categories by wind speed, the damage each category causes, and building codes and stilt houses after Hurricane Andrew. They discuss storm surge, Hurricane Harvey's costs and wildlife impacts, and forecasting (satellites, spaghetti models, and the Cone of Uncertainty). They cover the history of hurricane naming (saints' days, then male and female names, the WMO lists, retired names), a myth about women's names, and historical storms including the 1274 Mongol fleet sunk off Japan (kamikaze). They close with climate change and its effect on storm frequency and intensity, the 2020 season outlook, and a listener email about conservatism and anti-monopoly laws.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "hurricanes",
+    "how hurricanes form",
+    "typhoons",
+    "cyclones",
+    "Coriolis effect",
+    "hurricane categories",
+    "storm surge",
+    "hurricane forecasting",
+    "cone of uncertainty",
+    "spaghetti models",
+    "hurricane names",
+    "Atlantic hurricane season",
+    "climate change and hurricanes",
+    "Hurricane Harvey",
+    "Hurricane Andrew",
+    "building codes for hurricanes",
+    "wind shear",
+    "Kamikaze and the 1274 Mongol invasion of Japan",
+    "hurricane myths",
+    "Saffir-Simpson scale"
+  ],
+  "entities": [
+    {
+      "name": "Hurricane Harvey",
+      "type": "event"
+    },
+    {
+      "name": "Hurricane Andrew",
+      "type": "event"
+    },
+    {
+      "name": "Hurricane Michael",
+      "type": "event"
+    },
+    {
+      "name": "Hurricane Dorian",
+      "type": "event"
+    },
+    {
+      "name": "Hurricane Katrina",
+      "type": "event"
+    },
+    {
+      "name": "Mongol invasion of Japan (1274)",
+      "type": "event"
+    },
+    {
+      "name": "Coriolis effect",
+      "type": "other"
+    },
+    {
+      "name": "Cone of Uncertainty",
+      "type": "other"
+    },
+    {
+      "name": "World Meteorological Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Woods Hole Oceanographic Institution",
+      "type": "organization"
+    },
+    {
+      "name": "Isle of Palms",
+      "type": "place"
+    },
+    {
+      "name": "Kamikaze",
+      "type": "other"
+    },
+    {
+      "name": "Bob Dylan",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Book plug and opening banter",
+      "summary": "Josh plugs the forthcoming Stuff You Should Know book and its preorder gift. The hosts banter about Bob Dylan songs and introduce the hurricane topic.",
+      "topics": [
+        "Stuff You Should Know book",
+        "Bob Dylan"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Hurricanes, typhoons, and cyclones",
+      "summary": "The hosts explain that hurricanes, typhoons and cyclones are the same kind of storm, named by region. They cover the seasons in the Northern and Southern hemispheres, where each type forms, and the origin of the word hurricane from a Mayan god.",
+      "topics": [
+        "hurricanes vs typhoons vs cyclones",
+        "Atlantic hurricane season",
+        "hurricane etymology",
+        "Mayan flood myth"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Where hurricanes form and how they weaken",
+      "summary": "Overview of conditions that favor hurricane formation: warm ocean water near the equator and tropics, rising moist air, and the typical west-to-east track from Africa across the Atlantic. Storms weaken on landfall or when they move over cooler water.",
+      "topics": [
+        "hurricane formation conditions",
+        "hurricane tracks",
+        "Gulf Stream",
+        "hurricane weakening"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "The science of hurricane formation",
+      "summary": "Explains the chain of events from warm sea surface (at least 80 F down to about 150 feet) to rising, condensing moist air, converging surface winds, the latent heat of condensation, and the need for low wind shear. Thunderstorms organize into a tropical depression and then a storm.",
+      "topics": [
+        "sea surface temperature",
+        "latent heat of condensation",
+        "wind shear",
+        "tropical depression",
+        "hurricane development"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Coriolis effect and the eye of the hurricane",
+      "summary": "The Coriolis effect makes hurricanes rotate counterclockwise in the Northern Hemisphere and clockwise in the Southern. It also deflects winds so they never reach the low-pressure center, creating the calm eye. The hosts note the effect is weakest at the equator.",
+      "topics": [
+        "Coriolis effect",
+        "hurricane rotation direction",
+        "eye of the hurricane",
+        "pressure gradient"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Hurricane categories and damage",
+      "summary": "Describes the Saffir-Simpson style categories by wind speed, with typical damage at each level from category one through five, and the power and water outages that follow.",
+      "topics": [
+        "hurricane categories",
+        "wind speed scale",
+        "hurricane damage"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Building codes, storm surge, and Hurricane Harvey",
+      "summary": "Discusses coastal housing, stilts, and building codes after Hurricane Andrew. Explains roof failure from pressure differences and storm surge that pushes ocean inland and reshapes coastlines. Describes Hurricane Harvey's costs and impacts on sewers, drinking water, and wildlife.",
+      "topics": [
+        "storm surge",
+        "hurricane building codes",
+        "stilt houses",
+        "Hurricane Andrew",
+        "Hurricane Harvey",
+        "hurricane wildlife impacts"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Hurricane tracking, forecasting, and the Cone of Uncertainty",
+      "summary": "Covers satellite and infrared tracking by regional meteorological centers, the spaghetti model, and the European model. Explains that the Cone of Uncertainty shows the possible track of the storm's center over forecast periods, not its size.",
+      "topics": [
+        "hurricane forecasting",
+        "spaghetti models",
+        "Cone of Uncertainty",
+        "hurricane tracking satellites",
+        "Regional Specialized Meteorological Centers"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Hurricane names, history, and myths",
+      "summary": "Traces naming from Catholic saints' days in the West Indies to military alphabet names in World War II, then male and female names alternating after feminist objections. Lists the 2020 Atlantic names and the separate naming lists for other regions. Discusses retired names and a debunked myth that women's names are deadlier.",
+      "topics": [
+        "hurricane naming history",
+        "retired hurricane names",
+        "women's names myth",
+        "2020 Atlantic hurricane names",
+        "World Meteorological Organization naming lists"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:06:00",
+      "kind": "content",
+      "title": "Historical hurricanes and the Mongol fleet",
+      "summary": "Notes that hurricanes have always occurred, with evidence from cave drawings and lake-bed studies. Recounts the 1274 storm that sank the Mongol invasion fleet off Japan, which gave rise to the name kamikaze.",
+      "topics": [
+        "historical hurricanes",
+        "Mongol invasion of Japan",
+        "kamikaze",
+        "divine wind"
+      ]
+    },
+    {
+      "start": "01:06:00",
+      "end": "01:14:00",
+      "kind": "content",
+      "title": "Climate change and the 2020 season",
+      "summary": "Reports that Category 4 and 5 storms have roughly doubled since the 1970s, and explains why warmer oceans may fuel stronger storms while open questions remain about ocean heating depth. Mentions the early 2020 storms, La Nina, and Saharan dust as factors for that season.",
+      "topics": [
+        "climate change and hurricanes",
+        "ocean warming",
+        "La Nina",
+        "Saharan dust",
+        "2020 hurricane season"
+      ]
+    },
+    {
+      "start": "01:14:00",
+      "end": "01:18:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: conservatism and anti-monopoly laws",
+      "summary": "A listener named Tim from Minnesota writes about the Robber Barons episode, explaining a conservative view of limited government and support for anti-monopoly laws. The hosts thank him.",
+      "topics": [
+        "listener mail",
+        "Robber Barons episode",
+        "anti-monopoly laws"
+      ]
+    },
+    {
+      "start": "01:18:00",
+      "end": "01:18:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks and contact information for the show.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17003,
+    "output_tokens": 3315
+  }
+}

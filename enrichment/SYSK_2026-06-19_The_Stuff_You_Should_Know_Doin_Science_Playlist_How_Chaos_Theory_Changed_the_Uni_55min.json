@@ -1,0 +1,379 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-06-19_The_Stuff_You_Should_Know_Doin_Science_Playlist_How_Chaos_Theory_Changed_the_Uni_55min.txt",
+  "title": "The Stuff You Should Know Doin’ Science Playlist: How Chaos Theory Changed the Universe",
+  "date": "2026-06-19",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-chaos-theory-changed-the-universe-1",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ad871ec1-c0c8-400e-9d17-b46e00fde7dc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ad871ec1-c0c8-400e-9d17-b46e00fde7dc/transcript?format=TextWithTimestamps&t=1781883277",
+  "summary": "Hosts Josh Clark and Chuck Bryant explain chaos theory as a Doin' Science playlist episode. They trace the rise of determinism after the scientific revolution (Descartes, Newton's laws, the 1846 prediction of Neptune), then Henri Poincaré's three-body (N-body) problem and the 1885 King Oscar II prize, where he showed the solar system's stability could not be proven because tiny differences in initial conditions produce wildly different outcomes. They cover Edward Lorenz's accidental discovery in 1961 with a Royal McBee computer, the butterfly effect and its 1972 title, the Lorenz attractor and the idea of strange attractors (illustrated with a small-town grocery store analogy), Stephen Smale's horseshoe, Robert May's logistic map and period-three chaos, and the 1975 Li and Yorke paper that coined the term \"chaos.\" They close with how chaos theory changes forecasting and modeling, a mention of George Sugihara, and a listener mail. Movie tangents (Event Horizon, Jurassic Park, Forrest Gump, etc.) are discussed casually.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Chaos Theory Changed the Universe",
+  "topics": [
+    "chaos theory",
+    "determinism",
+    "butterfly effect",
+    "Lorenz attractor",
+    "strange attractor",
+    "N-body problem",
+    "Henri Poincaré",
+    "Edward Lorenz",
+    "Royal McBee computer",
+    "butterfly effect 1972 title",
+    "Smale horseshoe",
+    "Stephen Smale",
+    "Robert May logistic map",
+    "period three implies chaos",
+    "Li and Yorke",
+    "King Oscar II prize",
+    "Newton's laws",
+    "scientific revolution",
+    "weather prediction",
+    "dynamical instability",
+    "sensitive dependence on initial conditions",
+    "fractals",
+    "George Sugihara",
+    "Neptune prediction 1846",
+    "Laplace determinism"
+  ],
+  "entities": [
+    {
+      "name": "Henri Poincaré",
+      "type": "person"
+    },
+    {
+      "name": "Edward Lorenz",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Smale",
+      "type": "person"
+    },
+    {
+      "name": "Robert May",
+      "type": "person"
+    },
+    {
+      "name": "James Yorke",
+      "type": "person"
+    },
+    {
+      "name": "Isaac Newton",
+      "type": "person"
+    },
+    {
+      "name": "René Descartes",
+      "type": "person"
+    },
+    {
+      "name": "King Oscar II",
+      "type": "person"
+    },
+    {
+      "name": "George Sugihara",
+      "type": "person"
+    },
+    {
+      "name": "Royal McBee computer",
+      "type": "work"
+    },
+    {
+      "name": "Lorenz attractor",
+      "type": "other"
+    },
+    {
+      "name": "Smale horseshoe",
+      "type": "other"
+    },
+    {
+      "name": "N-body problem",
+      "type": "event"
+    },
+    {
+      "name": "Ash Wednesday storm",
+      "type": "event"
+    },
+    {
+      "name": "Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas?",
+      "type": "work"
+    },
+    {
+      "name": "Period Three Implies Chaos",
+      "type": "work"
+    },
+    {
+      "name": "Event Horizon",
+      "type": "work"
+    },
+    {
+      "name": "Jurassic Park",
+      "type": "work"
+    },
+    {
+      "name": "Forrest Gump",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and movie references",
+      "summary": "The hosts introduce the playlist episode on chaos theory and chat about Event Horizon and Jurassic Park's chaos scene.",
+      "topics": [
+        "chaos theory",
+        "Jurassic Park",
+        "Event Horizon"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:05:45",
+      "kind": "content",
+      "title": "What chaos theory means",
+      "summary": "Chaos is defined as the idea that complex systems don't behave in neat, easily measured ways; the hosts note the word is misleading to the public and mention a biblical-patterns website's explanations.",
+      "topics": [
+        "chaos theory definition",
+        "complex systems",
+        "popular misconceptions of chaos"
+      ]
+    },
+    {
+      "start": "00:05:45",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Scientific revolution and the roots of determinism",
+      "summary": "Before the scientific revolution, the universe was explained theistically. Mathematics then revealed order and predictability, with Descartes seeding cause-and-effect determinism.",
+      "topics": [
+        "determinism",
+        "scientific revolution",
+        "Descartes",
+        "cause and effect"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Newton's laws and the pool table example",
+      "summary": "Newton expressed cause and effect in quantifiable laws and differential equations. Scientists grew overconfident that accurate measurements could predict everything, illustrated with a pool-table example. The 1846 prediction of Neptune reinforced this confidence.",
+      "topics": [
+        "Newton's laws",
+        "differential equations",
+        "predictability",
+        "Neptune discovery 1846",
+        "scientific hubris"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:10",
+      "kind": "content",
+      "title": "Measurement precision and uncertainty",
+      "summary": "The hosts explain that 19th and 20th century science focused on building more precise instruments, with the premise that smaller measurement error would shrink outcome error. They mention Galileo's awareness of uncertainty.",
+      "topics": [
+        "measurement precision",
+        "uncertainty",
+        "determinism",
+        "scientific instrumentation"
+      ]
+    },
+    {
+      "start": "00:14:10",
+      "end": "00:14:35",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the N-body problem segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:14:35",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "The N-body problem and Poincaré's prize",
+      "summary": "King Oscar II of Sweden and Norway offered a prize in 1885 for proving the solar system's stability. Henri Poincaré simplified it to three bodies and found tiny changes in initial conditions produce wildly different outcomes, showing stability could not be proven and undermining determinism. He won the prize by proving impossibility.",
+      "topics": [
+        "N-body problem",
+        "Henri Poincaré",
+        "King Oscar II prize",
+        "solar system stability",
+        "dynamical instability",
+        "sensitive dependence on initial conditions"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Edward Lorenz and the Royal McBee computer",
+      "summary": "Lorenz, a mathematician and meteorologist, worked on weather prediction amid failed forecasts and the 1962 Ash Wednesday and West Coast storms. He used a Royal McBee computer to run weather models.",
+      "topics": [
+        "Edward Lorenz",
+        "weather prediction",
+        "Royal McBee computer",
+        "Ash Wednesday storm 1962",
+        "meteorology history"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:24:35",
+      "kind": "content",
+      "title": "Movie tangents before the Lorenz discovery",
+      "summary": "Casual chat about the computer's name, War Games, and other movies, before returning to Lorenz's model.",
+      "topics": [
+        "War Games",
+        "Royal McBee",
+        "movie chat"
+      ]
+    },
+    {
+      "start": "00:24:35",
+      "end": "00:27:05",
+      "kind": "content",
+      "title": "Lorenz's 1961 accidental discovery",
+      "summary": "Lorenz restarted a simulation mid-run using rounded three-decimal printout values instead of the full six decimals. The outcome diverged dramatically, revealing sensitivity to initial conditions.",
+      "topics": [
+        "Lorenz 1961 discovery",
+        "sensitive dependence on initial conditions",
+        "rounding error",
+        "chaos discovery"
+      ]
+    },
+    {
+      "start": "00:27:05",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Lorenz's convection model and the butterfly effect",
+      "summary": "Lorenz reduced weather to a simple rolling convection current with three variables, graphed in three dimensions. The trajectory never repeated, contrary to determinism. His 1972 talk and title, 'Predictability: Does the Flap of a Butterfly's Wings in Brazil Set Off a Tornado in Texas?', popularized the butterfly effect.",
+      "topics": [
+        "butterfly effect",
+        "convection current",
+        "Lorenz attractor",
+        "1972 conference",
+        "chaotic trajectories"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:33:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the attractor explanation.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:15",
+      "kind": "content",
+      "title": "Attractors and strange attractors",
+      "summary": "Using a small-town grocery store analogy, the hosts explain that an attractor is a state a system settles into, while a strange attractor is a trajectory that never fully settles but passes through periods of stability.",
+      "topics": [
+        "attractors",
+        "strange attractors",
+        "dynamical systems",
+        "analogy"
+      ]
+    },
+    {
+      "start": "00:36:15",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Chaos as nature's actual state",
+      "summary": "The hosts argue that apparent order and predictability are the exception, while instability is the normal state of nature. They reference Hume's skepticism about cause and effect and gravity.",
+      "topics": [
+        "order versus chaos",
+        "Hume and cause and effect",
+        "predictability limits",
+        "philosophy of science"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:42:50",
+      "kind": "content",
+      "title": "Stephen Smale and the horseshoe",
+      "summary": "Stephen Smale described a horseshoe map, explained with a bread dough analogy. Points close together end up in very different places after repeated stretching and folding. The hosts relate this to water molecules in ocean currents.",
+      "topics": [
+        "Smale horseshoe",
+        "Stephen Smale",
+        "chaos in fluid systems",
+        "bread dough analogy"
+      ]
+    },
+    {
+      "start": "00:42:50",
+      "end": "00:47:20",
+      "kind": "content",
+      "title": "Robert May, logistic map, and period three implies chaos",
+      "summary": "Australian population biologist Robert May used a logistic difference equation to model animal populations. Past a reproductive rate of 3, the population splits into cycles of two, four, eight, and then chaos. With James Yorke he published 'Period Three Implies Chaos' in 1975, which introduced the term chaos.",
+      "topics": [
+        "Robert May",
+        "logistic difference equation",
+        "population dynamics",
+        "period doubling",
+        "Li and Yorke",
+        "period three implies chaos",
+        "origin of the term chaos"
+      ]
+    },
+    {
+      "start": "00:47:20",
+      "end": "00:50:20",
+      "kind": "content",
+      "title": "Chaos theory's rise, decline, and deeper development",
+      "summary": "The hosts describe chaos as hyped in the 1980s and 1990s, then as developing into a deeper field, and say determinism's ultimate goal is unattainable. Modeling now feeds raw data into models to see patterns emerge.",
+      "topics": [
+        "history of chaos theory",
+        "determinism critique",
+        "data-driven modeling",
+        "chaos in ecology"
+      ]
+    },
+    {
+      "start": "00:50:20",
+      "end": "00:52:40",
+      "kind": "content",
+      "title": "Forecasting limits, fractals, and further reading",
+      "summary": "Discussion of ten-day forecasts, the limits of weather prediction, and extinction predictions. The hosts mention their earlier fractals episode and George Sugihara's work applying chaos theory, with a Quanta article suggested.",
+      "topics": [
+        "weather forecasting limits",
+        "fractals",
+        "George Sugihara",
+        "Mandelbrot",
+        "Quanta magazine"
+      ]
+    },
+    {
+      "start": "00:52:40",
+      "end": "00:54:12",
+      "kind": "listener_mail",
+      "title": "Listener mail",
+      "summary": "A listener from deployment thanks the hosts and sends a shout-out to his girlfriend Rachel, who says she can't listen to audiobooks or radio talk.",
+      "topics": [
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:54:12",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Sign-off and contact info",
+      "summary": "Hosts thank the listener and give social media, email, and website contact information.",
+      "topics": [
+        "show contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 22450,
+    "output_tokens": 4231
+  }
+}

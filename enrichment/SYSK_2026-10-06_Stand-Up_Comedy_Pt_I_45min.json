@@ -1,0 +1,523 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-10-06_Stand-Up_Comedy_Pt_I_45min.txt",
+  "title": "Stand-Up Comedy Pt I",
+  "date": "2026-10-06",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/stand-up-comedy-pt-i",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6badb8c6-5351-4a96-924b-b4d60123f7fe/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6badb8c6-5351-4a96-924b-b4d60123f7fe/transcript?format=TextWithTimestamps&t=1790877147",
+  "summary": "Part one of a two-part Stuff You Should Know episode on the history of stand-up comedy. The hosts trace the form from vaudeville and early emcees such as Charlie Case, through the Borscht Belt and the Chitlin Circuit, to the 1950s \"sick comedy\" wave in San Francisco, the 1960s-70s counterculture comics (Carlin, Pryor, Klein), the rise of comedy clubs (the Improv, the Comedy Store), late-night TV, HBO specials, Def Comedy Jam, Comedy Central, and comedians' sitcoms. Part two, on alternative comedy in the 1990s onward, is promised for a later episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "stand-up comedy history",
+    "stand-up comedy",
+    "vaudeville",
+    "Borscht Belt",
+    "Chitlin Circuit",
+    "Charlie Case",
+    "Frank Fay",
+    "Henny Youngman",
+    "Bob Hope",
+    "sick comedy",
+    "Mort Sahl",
+    "Lenny Bruce",
+    "George Carlin",
+    "Richard Pryor",
+    "Robert Klein",
+    "comedy clubs",
+    "The Comedy Store",
+    "The Improv",
+    "Mitzi Shore",
+    "Steve Martin",
+    "Robin Williams",
+    "HBO comedy specials",
+    "Def Comedy Jam",
+    "Comedy Central",
+    "Saturday Night Live",
+    "comedian sitcoms",
+    "Kings of Comedy",
+    "Johnny Carson Tonight Show",
+    "comedy albums",
+    "Joan Rivers",
+    "Redd Foxx",
+    "Moms Mabley"
+  ],
+  "entities": [
+    {
+      "name": "Charlie Case",
+      "type": "person"
+    },
+    {
+      "name": "Frank Fay",
+      "type": "person"
+    },
+    {
+      "name": "Henny Youngman",
+      "type": "person"
+    },
+    {
+      "name": "Bob Hope",
+      "type": "person"
+    },
+    {
+      "name": "Jimmy Carr",
+      "type": "person"
+    },
+    {
+      "name": "Mort Sahl",
+      "type": "person"
+    },
+    {
+      "name": "Shelly Berman",
+      "type": "person"
+    },
+    {
+      "name": "Dick Gregory",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Winters",
+      "type": "person"
+    },
+    {
+      "name": "Don Rickles",
+      "type": "person"
+    },
+    {
+      "name": "Lenny Bruce",
+      "type": "person"
+    },
+    {
+      "name": "George Carlin",
+      "type": "person"
+    },
+    {
+      "name": "Richard Pryor",
+      "type": "person"
+    },
+    {
+      "name": "Robert Klein",
+      "type": "person"
+    },
+    {
+      "name": "Elaine Boosler",
+      "type": "person"
+    },
+    {
+      "name": "Joan Rivers",
+      "type": "person"
+    },
+    {
+      "name": "Redd Foxx",
+      "type": "person"
+    },
+    {
+      "name": "Flip Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Moms Mabley",
+      "type": "person"
+    },
+    {
+      "name": "Steve Martin",
+      "type": "person"
+    },
+    {
+      "name": "Robin Williams",
+      "type": "person"
+    },
+    {
+      "name": "Mitzi Shore",
+      "type": "person"
+    },
+    {
+      "name": "Jerry Seinfeld",
+      "type": "person"
+    },
+    {
+      "name": "Johnny Carson",
+      "type": "person"
+    },
+    {
+      "name": "Eddie Murphy",
+      "type": "person"
+    },
+    {
+      "name": "Chris Rock",
+      "type": "person"
+    },
+    {
+      "name": "Andrew Dice Clay",
+      "type": "person"
+    },
+    {
+      "name": "Dennis Leary",
+      "type": "person"
+    },
+    {
+      "name": "Tig Notaro",
+      "type": "person"
+    },
+    {
+      "name": "Brian Kiley",
+      "type": "person"
+    },
+    {
+      "name": "Kevin Pollack",
+      "type": "person"
+    },
+    {
+      "name": "Hugh Hefner",
+      "type": "person"
+    },
+    {
+      "name": "Tom Hanks",
+      "type": "person"
+    },
+    {
+      "name": "Mel Brooks",
+      "type": "person"
+    },
+    {
+      "name": "Jackie Mason",
+      "type": "person"
+    },
+    {
+      "name": "Sid Caesar",
+      "type": "person"
+    },
+    {
+      "name": "Joan Rivers",
+      "type": "person"
+    },
+    {
+      "name": "Vaudeville",
+      "type": "event"
+    },
+    {
+      "name": "Borscht Belt",
+      "type": "place"
+    },
+    {
+      "name": "Chitlin Circuit",
+      "type": "event"
+    },
+    {
+      "name": "Hungry i",
+      "type": "place"
+    },
+    {
+      "name": "The Comedy Store",
+      "type": "place"
+    },
+    {
+      "name": "The Improv",
+      "type": "place"
+    },
+    {
+      "name": "Kutcher's Country Club",
+      "type": "place"
+    },
+    {
+      "name": "HBO Young Comedians specials",
+      "type": "work"
+    },
+    {
+      "name": "Def Comedy Jam",
+      "type": "work"
+    },
+    {
+      "name": "Comedy Central",
+      "type": "organization"
+    },
+    {
+      "name": "Saturday Night Live",
+      "type": "work"
+    },
+    {
+      "name": "The Tonight Show",
+      "type": "work"
+    },
+    {
+      "name": "Sanford and Son",
+      "type": "work"
+    },
+    {
+      "name": "The Marvelous Mrs. Maisel",
+      "type": "work"
+    },
+    {
+      "name": "Seinfeld",
+      "type": "work"
+    },
+    {
+      "name": "Kings of Comedy",
+      "type": "work"
+    },
+    {
+      "name": "Playboy Club",
+      "type": "place"
+    },
+    {
+      "name": "Time Magazine",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:05",
+      "kind": "intro",
+      "title": "Opening and disclaimers",
+      "summary": "The hosts introduce the two-part stand-up comedy episode, warn about edgy material and controversial figures, and admit they cannot cover everything, such as Andy Kaufman and Zach Galifianakis.",
+      "topics": [
+        "stand-up comedy",
+        "episode introduction"
+      ]
+    },
+    {
+      "start": "00:02:05",
+      "end": "00:04:10",
+      "kind": "content",
+      "title": "Vaudeville and Charlie Case",
+      "summary": "Stand-up traces back to vaudeville, where emcees told jokes between acts. Charlie Case, a storyteller who moved from vaudeville to a stand-up style around 1900, is cited as a possible first stand-up.",
+      "topics": [
+        "vaudeville",
+        "Charlie Case",
+        "early stand-up origins",
+        "emcee"
+      ]
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:05:41",
+      "kind": "content",
+      "title": "Frank Fay and early stand-up",
+      "summary": "Frank Fay is described as one of the first stand-up comedians, an acerbic and refined wit whose style influenced later comics. The hosts note his offensive views.",
+      "topics": [
+        "Frank Fay",
+        "early 1900s stand-up",
+        "acerbic wit"
+      ]
+    },
+    {
+      "start": "00:05:44",
+      "end": "00:08:27",
+      "kind": "content",
+      "title": "Borscht Belt and Henny Youngman",
+      "summary": "The Jewish resort comedy circuit in the Catskills and Adirondacks shaped stand-up with jokes about Jewish life and self-deprecation. Henny Youngman, the king of the one-liners, is discussed, along with Jimmy Carr's darker one-liners.",
+      "topics": [
+        "Borscht Belt",
+        "Henny Youngman",
+        "one-liners",
+        "Jimmy Carr",
+        "Catskills comedy"
+      ]
+    },
+    {
+      "start": "00:08:29",
+      "end": "00:10:39",
+      "kind": "content",
+      "title": "Borscht Belt legacy and Chitlin Circuit",
+      "summary": "The Borscht Belt lasted into the 1970s, with Mel Brooks, Jackie Mason, Sid Caesar and Jerry Seinfeld starting there. Women such as Joan Rivers and Jean Carroll broke in later. The Chitlin Circuit is introduced as the parallel venue network for Black comedians, including Redd Foxx, Flip Wilson and Moms Mabley.",
+      "topics": [
+        "Borscht Belt",
+        "Chitlin Circuit",
+        "women in stand-up",
+        "Joan Rivers",
+        "Moms Mabley",
+        "Redd Foxx"
+      ]
+    },
+    {
+      "start": "00:10:39",
+      "end": "00:12:40",
+      "kind": "content",
+      "title": "Bob Hope and mainstreaming stand-up",
+      "summary": "Bob Hope is credited with taking stand-up out of the resorts and into the mainstream, using a team of writers, topical current-events jokes, and touring military bases.",
+      "topics": [
+        "Bob Hope",
+        "mainstreaming stand-up",
+        "USO military tours",
+        "topical humor"
+      ]
+    },
+    {
+      "start": "00:12:40",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Sick comedy and 1950s personality comics",
+      "summary": "In the 1950s a new style emerged focused on unique point of view and voice. Mort Sahl, working in San Francisco at the Hungry i, did topical political commentary. Shelly Berman's record was the first comedy album to go gold. Dick Gregory started at Hugh Hefner's Playboy Club in Chicago in 1961. Time magazine dubbed these comics sick comedians in 1959.",
+      "topics": [
+        "sick comedy",
+        "Mort Sahl",
+        "Hungry i",
+        "Shelly Berman",
+        "Dick Gregory",
+        "Playboy Club",
+        "1959 Time magazine"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:19:20",
+      "kind": "content",
+      "title": "Jonathan Winters, Don Rickles and Lenny Bruce",
+      "summary": "Jonathan Winters used character work and jokes about his mental hospital stays. Don Rickles is discussed as a fan favorite on Carson. Lenny Bruce is covered as a frank, often arrested comic whose importance to comedy and free speech is debated by the hosts.",
+      "topics": [
+        "Jonathan Winters",
+        "Don Rickles",
+        "Lenny Bruce",
+        "obscenity arrests",
+        "free speech comedy"
+      ]
+    },
+    {
+      "start": "00:19:20",
+      "end": "00:19:55",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:19:55",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "1960s-70s counterculture comics",
+      "summary": "After Lenny Bruce, comics took more risks. George Carlin moved from clean suit-and-tie jokes to counterculture material, including the seven words routine. Richard Pryor is described as the first Black comedian to stop code switching for white audiences. Robert Klein is noted for observational and story-based humor.",
+      "topics": [
+        "George Carlin",
+        "seven words routine",
+        "Richard Pryor",
+        "code switching",
+        "Robert Klein",
+        "counterculture comedy"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:27:11",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:27:11",
+      "end": "00:30:36",
+      "kind": "content",
+      "title": "Late-night TV, Joan Rivers, Redd Foxx and Steve Martin",
+      "summary": "Late-night TV, especially The Tonight Show with Johnny Carson, launched careers and was a sign of respect when Carson called comics to the couch. Joan Rivers got her break there. Redd Foxx's raunchy albums and role on Sanford and Son are noted. Steve Martin is described as the first comedy superstar before walking away from stand-up.",
+      "topics": [
+        "late-night talk shows",
+        "Johnny Carson",
+        "Joan Rivers",
+        "Redd Foxx",
+        "Steve Martin",
+        "Sanford and Son",
+        "comedy superstars"
+      ]
+    },
+    {
+      "start": "00:30:36",
+      "end": "00:34:44",
+      "kind": "content",
+      "title": "Robin Williams, cable specials and HBO",
+      "summary": "Robin Williams rose through Happy Days and Mork and Mindy and kept doing stand-up. The hosts discuss how cable let comics say more and perform hour-long specials. HBO's first comedy special was Robert Klein's in 1975, and the HBO Young Comedians specials ran from 1976 to 1995.",
+      "topics": [
+        "Robin Williams",
+        "HBO comedy specials",
+        "HBO Young Comedians",
+        "cable comedy",
+        "Robert Klein HBO special"
+      ]
+    },
+    {
+      "start": "00:34:44",
+      "end": "00:36:31",
+      "kind": "content",
+      "title": "Def Comedy Jam and Black comedy on HBO",
+      "summary": "Def Comedy Jam, produced by Russell Simmons and hosted by Martin Lawrence, launched many Black comedians on HBO in the 1990s and led to the Kings of Comedy tour and 2000 film.",
+      "topics": [
+        "Def Comedy Jam",
+        "Russell Simmons",
+        "Martin Lawrence",
+        "Kings of Comedy",
+        "Black comedians 1990s"
+      ]
+    },
+    {
+      "start": "00:36:31",
+      "end": "00:38:21",
+      "kind": "content",
+      "title": "Comedy Central and early clip shows",
+      "summary": "Comedy Central began in 1991 as a channel of stand-up clip shows. The hosts mention shows like Chappelle's Show and Dr. Katz, Professional Therapist.",
+      "topics": [
+        "Comedy Central",
+        "stand-up clip shows",
+        "Chappelle's Show",
+        "Dr. Katz"
+      ]
+    },
+    {
+      "start": "00:38:21",
+      "end": "00:41:10",
+      "kind": "content",
+      "title": "Saturday Night Live and comedian-driven sitcoms",
+      "summary": "Saturday Night Live launched stars such as Eddie Murphy and Chris Rock, whose specials Delirious and Raw are discussed. Comedian-based sitcoms such as Seinfeld, The Drew Carey Show, The Jamie Foxx Show, Bernie Mac, The Norm Show, Whitney and Mulaney are covered, along with Louis C.K. and The Sarah Silverman Program.",
+      "topics": [
+        "Saturday Night Live",
+        "Eddie Murphy",
+        "Chris Rock",
+        "Delirious",
+        "Raw",
+        "comedian sitcoms",
+        "Seinfeld",
+        "Louis C.K."
+      ]
+    },
+    {
+      "start": "00:41:10",
+      "end": "00:43:55",
+      "kind": "content",
+      "title": "Other comedians from the 80s and 90s",
+      "summary": "Other comics mentioned include Gallagher, Carrot Top, Jeff Dunham, Andrew Dice Clay, Dennis Leary, and Tig Notaro, along with sitcoms like Mad About You, Roseanne and Home Improvement.",
+      "topics": [
+        "prop comedy",
+        "Gallagher",
+        "Carrot Top",
+        "Jeff Dunham",
+        "Andrew Dice Clay",
+        "Dennis Leary",
+        "Tig Notaro",
+        "comedy albums 80s 90s"
+      ]
+    },
+    {
+      "start": "00:43:55",
+      "end": "00:45:02",
+      "kind": "outro",
+      "title": "Sign-off and part two preview",
+      "summary": "The hosts mention the Joan Rivers Ginger Rogers quote, say part two will cover alternative comedy in the 1990s, and invite listeners to email favorite comedians and jokes.",
+      "topics": [
+        "episode outro",
+        "listener email",
+        "part two preview",
+        "alternative comedy"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18808,
+    "output_tokens": 5126
+  }
+}

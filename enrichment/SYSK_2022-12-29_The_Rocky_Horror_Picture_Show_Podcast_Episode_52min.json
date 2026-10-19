@@ -1,0 +1,147 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-12-29_The_Rocky_Horror_Picture_Show_Podcast_Episode_52min.txt",
+  "title": "The Rocky Horror Picture Show Podcast Episode",
+  "date": "2022-12-29",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-rocky-horror-picture-show-podcast-episode",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8d4a28d0-00c7-4a6f-81b7-af5b015cec62/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8d4a28d0-00c7-4a6f-81b7-af5b015cec62/transcript?format=TextWithTimestamps&t=1751062244",
+  "summary": "Hosts Josh and Chuck cover The Rocky Horror Picture Show, starting with their personal viewing histories and a Tim Curry anecdote. They trace its origins from Richard O'Brien's songs and the 1973 London stage production of The Rocky Horror Show (Royal Court Theater, Tim Curry as Frank-N-Furter, Sue Blaine's costumes), its move to Los Angeles with meat Loaf, and the 1975 film made on a shoestring budget with 20th Century Fox and a poor reception. They describe how the midnight screenings at the Waverly Theater starting in 1976 spawned audience participation, callouts, props, and shadow casting. They discuss the film's gender-fluid themes and the 2016 remake with Laverne Cox, Susan Sarandon's illness, Patricia Quinn lip-syncing, Elvis being floated as Eddie, the sequel Shock Treatment, and Easter eggs. The episode closes with a year-end sign-off and a listener mail about Oxfordian theories of Shakespeare's authorship.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Rocky Horror Picture Show",
+    "Rocky Horror",
+    "midnight movies",
+    "cult movies",
+    "audience participation",
+    "shadow casting",
+    "shadow cast",
+    "Richard O'Brien",
+    "Tim Curry",
+    "Frank-N-Furter",
+    "The Rocky Horror Show stage musical",
+    "Waverly Theater",
+    "Greenwich Village midnight screenings",
+    "Sweet Transvestite",
+    "Time Warp",
+    "meat Loaf",
+    "Sue Blaine costumes",
+    "Susan Sarandon",
+    "Patricia Quinn",
+    "Shock Treatment sequel",
+    "Laverne Cox remake",
+    "Elvis Presley casting",
+    "Easter eggs in film",
+    "Oxfordian theory Shakespeare authorship",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "The Rocky Horror Picture Show",
+      "type": "work"
+    },
+    {
+      "name": "The Rocky Horror Show",
+      "type": "work"
+    },
+    {
+      "name": "Richard O'Brien",
+      "type": "person"
+    },
+    {
+      "name": "Tim Curry",
+      "type": "person"
+    },
+    {
+      "name": "meat Loaf",
+      "type": "person"
+    },
+    {
+      "name": "Susan Sarandon",
+      "type": "person"
+    },
+    {
+      "name": "Patricia Quinn",
+      "type": "person"
+    },
+    {
+      "name": "Sue Blaine",
+      "type": "person"
+    },
+    {
+      "name": "Jim Sharman",
+      "type": "person"
+    },
+    {
+      "name": "Laverne Cox",
+      "type": "person"
+    },
+    {
+      "name": "Elvis Presley",
+      "type": "person"
+    },
+    {
+      "name": "Roger Ebert",
+      "type": "person"
+    },
+    {
+      "name": "Michael Wolfson",
+      "type": "person"
+    },
+    {
+      "name": "Royal Court Theater",
+      "type": "place"
+    },
+    {
+      "name": "Waverly Theater",
+      "type": "place"
+    },
+    {
+      "name": "Shock Treatment",
+      "type": "work"
+    },
+    {
+      "name": "Oakley Court",
+      "type": "place"
+    },
+    {
+      "name": "Edward de Vere, 17th Earl of Oxford",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening and Stuff You Should Army request",
+      "summary": "Hosts introduce the Rocky Horror episode as a request from the Stuff You Should Know Army, plug the year-end donation drive, and note the Christmas recording break.",
+      "topics": [
+        "fan request",
+        "pledge drive",
+        "year-end episode"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:02:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Personal viewing histories and Tim Curry",
+      "summary": "Josh and Chuck discuss whether they have seen the film live, their home viewing, and the soundtrack. They mention the Atlanta shadow cast at the Plaza Theatre.",
+      "topics": [
+        "Rocky Horror live screening",
+        "shadow cast Atlanta",
+        "Plaza Theatre"
+      ],
+      "title_placeholder": ""
+    }
+  ],
+  "usage": {
+    "input_tokens": 18625,
+    "output_tokens": 1473
+  }
+}

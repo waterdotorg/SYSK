@@ -1,0 +1,361 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-12-26_Forensic_Dentistry_43min.txt",
+  "title": "Forensic Dentistry",
+  "date": "2024-12-26",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/forensic-dentistry",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/617fd3aa-0300-4138-965f-b2330100b6e0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/617fd3aa-0300-4138-965f-b2330100b6e0/transcript?format=TextWithTimestamps&t=1735207908",
+  "summary": "Josh and Chuck (with the iHeart Intro speaker, who is Chuck in the transcript labels) examine forensic dentistry in two parts: using dental records to identify deceased people, especially disaster victims, and the controversial bite mark analysis used in court. They cover how teeth survive fire and decomposition, the 1975 case that first admitted bite mark evidence, the Ted Bundy Chi Omega murders, dental charts and forensic odontology methods, a 2015 study showing experts disagreed on human versus animal bite photos, bite mark classification, and the scientific critiques (uniqueness claims, 2009 National Academy of Sciences report, 2016 ABFO revision, 2022 NIST report). They discuss wrongful convictions such as Roy Brown and John Kunco, Michael West's so-called West phenomenon, the Innocence Project's role, and Paul Revere's work as an early forensic dentist. The episode closes with a listener email about ADHD and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "forensic dentistry",
+    "forensic odontology",
+    "bite mark analysis",
+    "bitemark evidence",
+    "junk science",
+    "dental records identification",
+    "disaster victim identification",
+    "Ted Bundy",
+    "Chi Omega murders",
+    "wrongful conviction",
+    "Innocence Project",
+    "Roy Brown case",
+    "John Kunco",
+    "West phenomenon",
+    "Michael West",
+    "Paul Revere dentist",
+    "ABFO guidelines",
+    "NIST report 2022",
+    "National Academy of Sciences 2009 report",
+    "dental charts uniqueness",
+    "teeth DNA extraction dental pulp",
+    "Black Death DNA teeth",
+    "tailor's notch",
+    "bite mark photography and silicone casts",
+    "Stuff You Should Know listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Ted Bundy",
+      "type": "person"
+    },
+    {
+      "name": "Roy Brown",
+      "type": "person"
+    },
+    {
+      "name": "John Kunco",
+      "type": "person"
+    },
+    {
+      "name": "Michael West",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Cheney",
+      "type": "person"
+    },
+    {
+      "name": "Paul Revere",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Warren",
+      "type": "person"
+    },
+    {
+      "name": "Chi Omega sorority house murders",
+      "type": "event"
+    },
+    {
+      "name": "Innocence Project",
+      "type": "organization"
+    },
+    {
+      "name": "American Board of Forensic Odontology",
+      "type": "organization"
+    },
+    {
+      "name": "National Institute of Standards and Technology",
+      "type": "organization"
+    },
+    {
+      "name": "National Academy of Sciences",
+      "type": "organization"
+    },
+    {
+      "name": "Texas Forensic Science Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Silence of the Lambs",
+      "type": "work"
+    },
+    {
+      "name": "Black Death",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:03",
+      "kind": "intro",
+      "title": "Opening banter and overview of forensic dentistry",
+      "summary": "Hosts joke about teeth and introduce forensic dentistry as two areas: identifying the dead from dental records and the controversial bite mark analysis.",
+      "topics": [
+        "forensic dentistry",
+        "bite mark analysis"
+      ]
+    },
+    {
+      "start": "00:02:03",
+      "end": "00:04:12",
+      "kind": "content",
+      "title": "Bite mark analysis criticism and 1975 court precedent",
+      "summary": "Hosts say bite mark analysis is widely viewed as junk science. Teeth survive fire and chemicals, and the 1975 murder case first admitted bite mark evidence in court, setting a precedent.",
+      "topics": [
+        "bitemark evidence",
+        "junk science",
+        "1975 bite mark court admissibility",
+        "wrongful conviction"
+      ]
+    },
+    {
+      "start": "00:04:12",
+      "end": "00:06:17",
+      "kind": "content",
+      "title": "Teeth surviving decomposition and early identification",
+      "summary": "Dental pulp resists incineration, immersion and decomposition, making DNA extraction from teeth viable. Before 1974 dentists mainly identified disaster victims.",
+      "topics": [
+        "dental pulp DNA",
+        "disaster victim identification",
+        "teeth durability"
+      ]
+    },
+    {
+      "start": "00:06:17",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Ted Bundy bite mark conviction",
+      "summary": "Ted Bundy's 1978 Chi Omega attacks left a bite mark that was used in his conviction; Bundy had crooked front teeth and was prosecuted in part for these murders.",
+      "topics": [
+        "Ted Bundy",
+        "Chi Omega murders",
+        "bite mark conviction"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:09:40",
+      "kind": "content",
+      "title": "Dental charts and dental records",
+      "summary": "Dentists keep charts and x-rays by state law for set periods. Charts and coding systems can support identification.",
+      "topics": [
+        "dental records",
+        "dental charts",
+        "x-rays in identification"
+      ]
+    },
+    {
+      "start": "00:09:40",
+      "end": "00:11:14",
+      "kind": "content",
+      "title": "Mass casualty identification by forensic dentists",
+      "summary": "Forensic dentists compare possible victims' records with remains, especially after plane crashes and mass casualty events, giving families closure.",
+      "topics": [
+        "mass casualty identification",
+        "plane crash victims",
+        "forensic dentists"
+      ]
+    },
+    {
+      "start": "00:11:14",
+      "end": "00:13:10",
+      "kind": "content",
+      "title": "Estimating age, ancestry and lifestyle from teeth",
+      "summary": "Teeth development and growth can estimate age. Ethnicity, wealth, pipe smoking or bagpipe playing, and tailor's notches may be visible in teeth.",
+      "topics": [
+        "age estimation from teeth",
+        "dental lifestyle markers",
+        "pipe smoker teeth wear",
+        "tailor's notch"
+      ]
+    },
+    {
+      "start": "00:13:10",
+      "end": "00:14:14",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break before the Black Death segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:14:14",
+      "end": "00:16:54",
+      "kind": "content",
+      "title": "Black Death DNA and ancient tooth genomes",
+      "summary": "Researchers extracted DNA from the pulp of medieval plague victims' teeth, confirming Yersinia pestis and excluding plague in some cases. A 6,000-year-old tooth genome was also sequenced.",
+      "topics": [
+        "Black Death",
+        "Yersinia pestis",
+        "ancient DNA from teeth",
+        "plague DNA"
+      ]
+    },
+    {
+      "start": "00:16:54",
+      "end": "00:20:36",
+      "kind": "content",
+      "title": "Collecting bite mark evidence and human versus animal bites",
+      "summary": "Bite evidence must be collected quickly, photographed with a ruler, and may need waiting for bruising to heal. A 2015 study of 39 experts found they often disagreed on human versus animal bites.",
+      "topics": [
+        "bite mark evidence collection",
+        "bite photography",
+        "2015 bite mark study",
+        "human vs animal bite"
+      ]
+    },
+    {
+      "start": "00:20:36",
+      "end": "00:23:14",
+      "kind": "content",
+      "title": "Bite mark pattern types and depth categories",
+      "summary": "Bite types include abrasion, avulsion, contusion, incision, laceration, and artifact. Depth categories are clear, obvious, and noticeable, and the hosts criticize their vague wording.",
+      "topics": [
+        "bite mark classification",
+        "abrasion bite",
+        "bite depth categories"
+      ]
+    },
+    {
+      "start": "00:23:14",
+      "end": "00:25:05",
+      "kind": "content",
+      "title": "Factors that distort bite marks and tooth profiles",
+      "summary": "Repeated biting, tongue movement, victim movement, and tooth features like crookedness, chips, braces or implants can change or distinguish a bite mark. Old practice was courtroom comparison with suspects' molds and photos.",
+      "topics": [
+        "bite mark distortion",
+        "tooth profile",
+        "suspect dental mold comparison"
+      ]
+    },
+    {
+      "start": "00:25:05",
+      "end": "00:26:12",
+      "kind": "content",
+      "title": "Claims that teeth are unique",
+      "summary": "Experts claimed mouths are unique like fingerprints, a claim the hosts say studies do not support.",
+      "topics": [
+        "dental uniqueness claims"
+      ]
+    },
+    {
+      "start": "00:26:12",
+      "end": "00:26:40",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the controversy discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:26:40",
+      "end": "00:30:38",
+      "kind": "content",
+      "title": "Scientific critiques: NIST report and dental chart uniqueness study",
+      "summary": "A 2022 NIST report found bite mark analysis lacks scientific basis. A 2013 UAE study found about 49 percent of 2,000 dental charts were identical to at least one other. ABFO guidelines now limit experts to exclude, not exclude, or inconclusive.",
+      "topics": [
+        "NIST report 2022",
+        "dental chart uniqueness study",
+        "ABFO guidelines",
+        "exclusion versus identification"
+      ]
+    },
+    {
+      "start": "00:30:38",
+      "end": "00:33:07",
+      "kind": "content",
+      "title": "Wrongful convictions based on bite marks",
+      "summary": "Roy Brown spent about fifteen years in prison based on bite mark testimony; both forensic dentists recanted. At least 26 people have been exonerated by DNA evidence where bite mark analysis was a factor. Expert testimony of 100 percent certainty was given in some cases.",
+      "topics": [
+        "Roy Brown",
+        "wrongful conviction",
+        "bite mark exoneration",
+        "expert testimony certainty"
+      ]
+    },
+    {
+      "start": "00:33:07",
+      "end": "00:35:45",
+      "kind": "content",
+      "title": "2009 NAS report, 2016 change, and Innocence Project challenges",
+      "summary": "The 2009 National Academy of Sciences report found no support for bite marks as positive identification, and the field's official position changed in 2016. An ABFO-linked study found experts disagreed with themselves when reshown photos. The Innocence Project challenges bite mark evidence in court.",
+      "topics": [
+        "National Academy of Sciences 2009",
+        "2016 policy change",
+        "Innocence Project",
+        "intra-examiner inconsistency"
+      ]
+    },
+    {
+      "start": "00:35:45",
+      "end": "00:38:42",
+      "kind": "content",
+      "title": "John Kunco case and Michael West's West phenomenon",
+      "summary": "John Kunco was convicted in 1991 partly on a bite mark and voice identification. Michael West's invented UV-light 'West phenomenon' technique was used in convictions. Stephen Cheney's case in Texas contributed to 2016 reforms.",
+      "topics": [
+        "John Kunco",
+        "West phenomenon",
+        "Michael West",
+        "Stephen Cheney",
+        "Texas Forensic Science Commission",
+        "junk forensic science"
+      ]
+    },
+    {
+      "start": "00:38:42",
+      "end": "00:39:36",
+      "kind": "content",
+      "title": "Paul Revere as early forensic dentist",
+      "summary": "Paul Revere, a dentist as well as silversmith, identified Revolutionary War dead including Joseph Warren by dental work he had made.",
+      "topics": [
+        "Paul Revere",
+        "Joseph Warren",
+        "historical forensic dentistry"
+      ]
+    },
+    {
+      "start": "00:39:36",
+      "end": "00:42:07",
+      "kind": "listener_mail",
+      "title": "Listener mail: ADHD follow-up",
+      "summary": "Steve writes that the ADHD episodes moved him and offers advice that people should accept others before trying to change them. Hosts respond and invite listener mail.",
+      "topics": [
+        "listener mail",
+        "ADHD"
+      ]
+    },
+    {
+      "start": "00:42:07",
+      "end": "00:43:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener email and close with the show's production credit.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15855,
+    "output_tokens": 4076
+  }
+}

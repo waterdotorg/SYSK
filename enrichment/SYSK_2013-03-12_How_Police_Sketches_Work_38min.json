@@ -1,0 +1,223 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-03-12_How_Police_Sketches_Work_38min.txt",
+  "title": "How Police Sketches Work",
+  "date": "2013-03-12",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-police-sketches-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/7b8c9da5-27fb-4c4b-abf9-ae2800a19141/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7b8c9da5-27fb-4c4b-abf9-ae2800a19141/transcript?format=TextWithTimestamps&t=1700543906",
+  "summary": "Josh and Chuck promote their animated web series, then explore how police sketches work. They cover the Oklahoma City bombing suspect Timothy McVeigh, whose police sketch helped catch him after a traffic stop, and the history of sketching from Annibale Carracci and Alphonse Bertillon's criminal anthropometry. They describe the forensic artist's interview process (report building, free recall, recognition, and collaborative sketching), tools like Identikit and computer composites, and the FBI finding that hand-drawn sketches are more accurate. They discuss why eyewitness memory is unreliable, age progression and facial reconstruction, and the value of sketches even when imperfect. The episode closes with listener mail from Luke about laughing so hard during an earlier episode that he was injured.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "police sketches",
+    "forensic art",
+    "forensic artist",
+    "composite sketch",
+    "Identikit",
+    "eyewitness testimony",
+    "eyewitness memory reliability",
+    "Timothy McVeigh",
+    "Oklahoma City bombing",
+    "Alphonse Bertillon",
+    "criminal anthropometry",
+    "Jack the Ripper",
+    "age progression imagery",
+    "facial reconstruction",
+    "recognition memory vs recall memory",
+    "FBI forensic art training",
+    "DNA phenotyping",
+    "memory consolidation",
+    "Annibale Carracci",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Timothy McVeigh",
+      "type": "person"
+    },
+    {
+      "name": "Oklahoma City bombing",
+      "type": "event"
+    },
+    {
+      "name": "Alphonse Bertillon",
+      "type": "person"
+    },
+    {
+      "name": "Annibale Carracci",
+      "type": "person"
+    },
+    {
+      "name": "Jack the Ripper",
+      "type": "person"
+    },
+    {
+      "name": "Identikit",
+      "type": "other"
+    },
+    {
+      "name": "Townsend Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "Stephen Mancusi",
+      "type": "person"
+    },
+    {
+      "name": "Roderick Scratchard",
+      "type": "person"
+    },
+    {
+      "name": "Karen Taylor",
+      "type": "person"
+    },
+    {
+      "name": "FBI",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Building in Oklahoma City",
+      "type": "place"
+    },
+    {
+      "name": "University of Virginia",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and animated web series promo",
+      "summary": "Hosts promote a new animated web series of shorts released weekly on the website, then banter about the studio and the day's mood.",
+      "topics": [
+        "animated web series",
+        "show announcements"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Timothy McVeigh and the sketch that led to his arrest",
+      "summary": "McVeigh was pulled over for a traffic violation within two hours of the Oklahoma City bombing. While in custody, a police sketch circulated and a highway patrol officer recognized it as resembling him, which helped identify him as the bomber.",
+      "topics": [
+        "Timothy McVeigh",
+        "Oklahoma City bombing",
+        "police sketch arrest",
+        "Federal Building bombing"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Quality of police sketches and history of sketching",
+      "summary": "Hosts discuss how many police sketches are poor, with humorous collections online, and mention the literary character sketches. They tell the story of the sixteenth-century painter Annibale Carracci sketching robbers, and note that modern police sketching developed around the time of Jack the Ripper.",
+      "topics": [
+        "bad police sketches",
+        "Annibale Carracci",
+        "Jack the Ripper",
+        "history of police sketches"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Alphonse Bertillon and criminal anthropometry",
+      "summary": "Criminologist Alphonse Bertillon measured criminals' physical features to create criminal anthropometry, used to identify repeat offenders in France before reliable fingerprinting. This led people to consider sketching suspects, and Bertillon also appears in the crime scene photography work.",
+      "topics": [
+        "Alphonse Bertillon",
+        "criminal anthropometry",
+        "early forensic science"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Who makes police sketches: officers, contractors, and staff artists",
+      "summary": "Forensic artists may be patrol officers who draw well, civilian contractors, or full-time staff. There is no official university degree, but training exists through the FBI and private courses. Art correspondence courses are mentioned.",
+      "topics": [
+        "forensic artist careers",
+        "FBI forensic art training",
+        "police sketch artists"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "The four-part sketch interview process",
+      "summary": "The interview is described in parts: rapport building, free recall where witnesses describe features (often starting with hair or head shape), specific questioning and using mugshots or celebrity comparisons, and collaborative refinement where the sketch develops details.",
+      "topics": [
+        "eyewitness interview technique",
+        "free recall",
+        "rapport building",
+        "sketch refinement",
+        "sweet science of forensic art"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Identikit, composites, and hand-drawn versus computer sketches",
+      "summary": "Identikit, introduced in the United States in 1969 by the Townsend Corporation, used transparent overlays of facial features. Composites combine multiple witness accounts. Computer software is used by some, but the FBI found hand-drawn sketches about four percent more likely to be accurate. Stephen Mancusi of the NYPD and Roderick Scratchard of Philadelphia are named.",
+      "topics": [
+        "Identikit",
+        "composite sketch",
+        "computer composite software",
+        "hand-drawn sketch accuracy",
+        "Townsend Corporation"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Accuracy statistics for police sketches",
+      "summary": "Hosts note that hand-drawn sketches are recognizable about nine percent of the time and computer ones about five percent, based on comparing sketches with later-caught suspects. They say sketches still provide leads and publicity.",
+      "topics": [
+        "sketch accuracy statistics",
+        "police sketch usefulness"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Why eyewitness memory is unreliable",
+      "summary": "Recognition memory works on whole faces, while recall requires detail. Stress, speed, lack of consolidation, memory infiltration from movies, poor eyesight, age over sixty, and distance all reduce witness accuracy. Convenience store height markers are mentioned. DNA phenotyping is noted as a promising but early tool.",
+      "topics": [
+        "eyewitness testimony reliability",
+        "recognition vs recall memory",
+        "memory consolidation",
+        "DNA phenotyping",
+        "eyewitness age and eyesight"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Age progression, facial reconstruction, and sign-off with listener mail",
+      "summary": "Forensic artists also create age progressed images and facial reconstructions from remains. Hosts note the Chinese state TV animations and close with a listener mail from Luke about laughing so hard he was injured in an emergency room visit, followed by contact information.",
+      "topics": [
+        "age progression imagery",
+        "facial reconstruction",
+        "listener mail",
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13112,
+    "output_tokens": 2678
+  }
+}

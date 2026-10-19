@@ -1,0 +1,214 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-04-29_How_Corporate_Taxes_Work_49min.txt",
+  "title": "How Corporate Taxes Work",
+  "date": "2021-04-29",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-corporate-taxes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3148bd3e-702d-4ea1-827c-ae28001b0932/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3148bd3e-702d-4ea1-827c-ae28001b0932/transcript?format=TextWithTimestamps&t=1700543594",
+  "summary": "Josh and Chuck explain corporate income tax: its history in the US (1909 origins, peak rates in the 1960s near 53%, Reagan-era reform, Clinton's 35% rate, 2017 cut to 21%), how it differs from individual income tax, and tax avoidance tactics such as transfer pricing, tax inversion (Burger King and Tim Hortons), and Apple's Irish arrangement. They cover Amazon's zero-tax years, who actually bears the burden (consumers, shareholders, workers), arguments for and against corporate taxation including double taxation, stock buybacks, debt versus equity financing, and proposals such as a growth-based wealth tax. The episode closes with a listener mail story about a live show at South by Southwest that led to a marriage.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "corporate income tax",
+    "corporate taxes",
+    "corporate tax history",
+    "Tax Reform Act 1986",
+    "2017 tax cut",
+    "tax avoidance",
+    "tax inversion",
+    "transfer pricing",
+    "tax havens",
+    "Apple Ireland tax deal",
+    "Amazon taxes",
+    "corporate personhood",
+    "tax incidence",
+    "double taxation",
+    "stock buybacks",
+    "debt financing vs equity financing",
+    "corporate tax arguments",
+    "Citizens United",
+    "tax on entrepreneurship",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Burger King",
+      "type": "organization"
+    },
+    {
+      "name": "Tim Hortons",
+      "type": "organization"
+    },
+    {
+      "name": "Apple",
+      "type": "organization"
+    },
+    {
+      "name": "Amazon",
+      "type": "organization"
+    },
+    {
+      "name": "Ireland",
+      "type": "place"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "Bill Clinton",
+      "type": "person"
+    },
+    {
+      "name": "William Petty",
+      "type": "person"
+    },
+    {
+      "name": "Citizens United",
+      "type": "event"
+    },
+    {
+      "name": "South by Southwest",
+      "type": "event"
+    },
+    {
+      "name": "Panama Papers",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and overview",
+      "summary": "Josh and Chuck open the episode, joke about economics being hard to follow, and preview corporate income tax as a topic with disagreement among economists about whether it is good and who pays it.",
+      "topics": [
+        "corporate income tax",
+        "economics debate"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "History of US corporate tax rates",
+      "summary": "They cite revenue figures and the share of federal taxes paid by corporations, the 1909 origins of the federal corporate tax, the 1960s peak near 53 percent, and changes under Reagan, the 1986 reform, and Clinton. The rate was cut to 21 percent in 2017.",
+      "topics": [
+        "corporate tax history",
+        "1909 corporate tax",
+        "Tax Reform Act 1986",
+        "2017 tax cut",
+        "Ronald Reagan",
+        "Bill Clinton"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "How corporate tax differs from individual tax",
+      "summary": "They explain that corporations are taxed on net income, unlike individuals who are largely taxed on gross income, and contrast corporations with pass-through entities such as sole proprietorships and partnerships. They tie this to the legal treatment of corporations as artificial persons.",
+      "topics": [
+        "corporate personhood",
+        "pass-through entities",
+        "net income taxation"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Tax avoidance: transfer pricing, inversions, and tax havens",
+      "summary": "They describe how multinationals avoid tax through transfer pricing between subsidiaries, moving headquarters abroad (Burger King and Tim Hortons), and tax havens such as the Cayman Islands, which cost governments hundreds of billions of dollars.",
+      "topics": [
+        "transfer pricing",
+        "tax inversion",
+        "tax havens",
+        "tax avoidance",
+        "Burger King Tim Hortons"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Apple in Ireland and Amazon's tax record",
+      "summary": "They discuss Apple's arrangement with Ireland, which had a reduced rate for the company, and Amazon paying zero tax in 2017 and 2018 with refunds, then a small payment in 2019. They note other companies, including Chevron, Halliburton, and IBM, also paid no tax in some years.",
+      "topics": [
+        "Apple Ireland tax deal",
+        "Amazon taxes",
+        "corporate tax avoidance",
+        "Fortune 500 tax"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Who actually pays corporate tax",
+      "summary": "They discuss whether the tax is passed to consumers, citing William Petty and the observation that prices do not vary by state tax rate. Economists generally say the burden falls on shareholders and workers through lower dividends and wages, using a goose-plucking machine analogy.",
+      "topics": [
+        "tax incidence",
+        "who pays corporate tax",
+        "William Petty",
+        "wages and capital"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Arguments against corporate taxes",
+      "summary": "They cover the case against corporate tax: double taxation of dividends, its effect on entrepreneurship and financing choices (equity versus debt, deductible interest), and stock buybacks.",
+      "topics": [
+        "double taxation",
+        "stock buybacks",
+        "debt financing vs equity financing",
+        "tax on entrepreneurship"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Arguments for corporate taxes and proposed alternatives",
+      "summary": "They cover arguments for corporate taxation: public perception of fairness, funding infrastructure, government social programs, checking corporate political power after Citizens United, and a backstop for wealthy shareholders. They also mention a Rutgers professors' idea of a growth-based wealth tax and the problems with taxing shareholders as partnerships.",
+      "topics": [
+        "corporate tax arguments",
+        "Citizens United",
+        "wealth tax proposal",
+        "pass-through taxation proposal"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:47:00",
+      "kind": "ad",
+      "title": "Closing discussion and wrap-up",
+      "summary": "Hosts wrap up the corporate tax discussion, saying the tax is likely here to stay and that opponents of corporate tax are not everyday Americans.",
+      "topics": [
+        "corporate taxes outlook"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: SXSW live show and a marriage",
+      "summary": "Josh reads an email from a listener named Jenny who met her husband at the Feral Children live show at South by Southwest, where the hosts' first attempt was rough. They are now married with an eighteen-month-old child who dances to the theme song. The hosts invite listeners to send in stories.",
+      "topics": [
+        "listener mail",
+        "Feral Children live show",
+        "South by Southwest"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15846,
+    "output_tokens": 2548
+  }
+}

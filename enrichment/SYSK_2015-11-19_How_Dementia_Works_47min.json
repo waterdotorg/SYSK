@@ -1,0 +1,267 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-11-19_How_Dementia_Works_47min.txt",
+  "title": "How Dementia Works",
+  "date": "2015-11-19",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-dementia-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d855a70a-5770-4408-a36e-ae28008981a7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d855a70a-5770-4408-a36e-ae28008981a7/transcript?format=TextWithTimestamps&t=1700543848",
+  "summary": "Josh and Chuck explain dementia as a set of symptoms rather than a single disease, distinguishing it from normal age-related forgetfulness and mild cognitive impairment. They cover the main causes and types: Alzheimer's (amyloid plaques and tau tangles), vascular dementia (strokes), Lewy body dementia (linked to Robin Williams and Parkinson's), frontotemporal dementia (formerly Pick's disease), Huntington's, prion diseases, and reversible dementia. They discuss diagnosis tests (MMSE and the clock drawing test), complications such as medication management, nutrition, hygiene and depression, caregiver burden, treatments (cholinesterase inhibitors, memantine, blood thinners, antipsychotics), preventive habits, the Dementia Friendly America initiative, and the Dutch dementia village. The episode ends with listener mail about Hecky Krasnow, who produced songs for Captain Kangaroo.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "dementia",
+    "Alzheimer's disease",
+    "vascular dementia",
+    "Lewy body dementia",
+    "frontotemporal dementia",
+    "Pick's disease",
+    "Huntington's disease",
+    "prion disease",
+    "mild cognitive impairment",
+    "age-associated memory impairment",
+    "dementia diagnosis",
+    "mini mental state examination",
+    "clock drawing test",
+    "dementia symptoms",
+    "caregiver burden",
+    "dementia treatment drugs",
+    "cholinesterase inhibitors",
+    "memantine",
+    "Dementia Friendly America",
+    "dementia village Netherlands",
+    "Robin Williams Lewy body",
+    "mixed dementia",
+    "reversible dementia",
+    "dementia prevention"
+  ],
+  "entities": [
+    {
+      "name": "Alzheimer's disease",
+      "type": "other"
+    },
+    {
+      "name": "vascular dementia",
+      "type": "other"
+    },
+    {
+      "name": "Lewy body dementia",
+      "type": "other"
+    },
+    {
+      "name": "frontotemporal dementia",
+      "type": "other"
+    },
+    {
+      "name": "Pick's disease",
+      "type": "other"
+    },
+    {
+      "name": "Huntington's disease",
+      "type": "other"
+    },
+    {
+      "name": "Parkinson's disease",
+      "type": "other"
+    },
+    {
+      "name": "Robin Williams",
+      "type": "person"
+    },
+    {
+      "name": "Michael J. Fox",
+      "type": "person"
+    },
+    {
+      "name": "Frederick Lewy",
+      "type": "person"
+    },
+    {
+      "name": "Dementia Friendly America Initiative",
+      "type": "organization"
+    },
+    {
+      "name": "United States Council on Aging",
+      "type": "organization"
+    },
+    {
+      "name": "Dementia village (Hogewey, Netherlands)",
+      "type": "place"
+    },
+    {
+      "name": "Hecky Krasnow",
+      "type": "person"
+    },
+    {
+      "name": "Captain Kangaroo",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to dementia",
+      "summary": "Hosts banter about the 'Stint of Noel' name, then Chuck and Josh introduce dementia as a set of symptoms rather than a disease, distinguishing it from normal age-related forgetfulness.",
+      "topics": [
+        "dementia definition",
+        "age-associated memory impairment",
+        "dementia vs Alzheimer's"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Prevalence and cost of dementia",
+      "summary": "Discussion of how many Americans have dementia, projected growth as baby boomers age, and the projected health care costs.",
+      "topics": [
+        "dementia prevalence",
+        "dementia cost",
+        "aging population"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Diagnostic criteria for dementia",
+      "summary": "Dementia is diagnosed as memory loss plus at least one of aphasia, apraxia, agnosia, or executive dysfunction. The hosts note that dementia is a symptom set brought on by disease.",
+      "topics": [
+        "dementia diagnosis",
+        "aphasia",
+        "apraxia",
+        "agnosia",
+        "executive dysfunction"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Alzheimer's disease as a cause of dementia",
+      "summary": "Alzheimer's is the most common cause of dementia, linked to amyloid plaques and tau tangles that kill neurons. Genetic risk factors include the APOE gene, family history, and Down syndrome. The disease typically lasts three to five years after diagnosis, though it can last up to a decade.",
+      "topics": [
+        "Alzheimer's disease",
+        "amyloid plaques",
+        "tau tangles",
+        "neuron death",
+        "genetic risk for Alzheimer's"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Vascular dementia and strokes",
+      "summary": "Vascular dementia, accounting for about 20 percent of cases, results from strokes, either one large event or many small ones. Josh describes his grandfather's stroke and resulting loss of speech.",
+      "topics": [
+        "vascular dementia",
+        "stroke and dementia",
+        "multi-infarct dementia",
+        "aphasia after stroke"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Lewy body dementia and Parkinson's",
+      "summary": "Lewy body dementia, around 5 percent of cases, causes intense visual hallucinations and Parkinson's-like symptoms. The hosts mention Robin Williams had it at autopsy, and discuss Parkinson's and the film Awakenings.",
+      "topics": [
+        "Lewy body dementia",
+        "hallucinations",
+        "Parkinson's disease",
+        "Robin Williams",
+        "Awakenings"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Frontotemporal dementia and Huntington's disease",
+      "summary": "Frontotemporal dementia (formerly Pick's disease) affects personality, behavior and language and often strikes people between 40 and 70, with risky behavior and blunted emotions. Huntington's causes uncontrolled movements and can be inherited.",
+      "topics": [
+        "frontotemporal dementia",
+        "Pick's disease",
+        "behavior change dementia",
+        "Huntington's disease"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Prion disease, TBI, and reversible dementia",
+      "summary": "Other causes include prion diseases like Creutzfeldt-Jakob, which is rare and linked to infected tissue, and dementia from head trauma or concussions in athletes. Some dementia from vitamin deficiency or medications is reversible, while age-associated dementia is not. Mild cognitive impairment is the intermediate stage, and early diagnosis matters.",
+      "topics": [
+        "prion disease",
+        "Creutzfeldt-Jakob disease",
+        "concussion and dementia",
+        "reversible dementia",
+        "mild cognitive impairment",
+        "early diagnosis"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break before diagnosis tests.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Diagnosing dementia: MMSE and clock drawing test",
+      "summary": "Doctors assess the patient's history and the Mini Mental State Examination, plus the clock drawing test, which checks verbal understanding, memory, spatial knowledge and constructive skills. The clock test was developed in the sixties and gained use in the eighties.",
+      "topics": [
+        "Mini Mental State Examination",
+        "clock drawing test",
+        "dementia screening",
+        "cognitive testing"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Dementia complications, caregiving and society",
+      "summary": "Complications include forgetting medications, nutrition and swallowing problems, poor hygiene, depression and agitation, and safety risks. The Dementia Friendly America initiative trains service workers. Caregiver burden is discussed, along with the Dutch dementia village and treatments such as cholinesterase inhibitors, memantine, blood thinners, and antipsychotics. Preventive habits like puzzles and moderate drinking are mentioned.",
+      "topics": [
+        "dementia complications",
+        "caregiver burden",
+        "Dementia Friendly America",
+        "dementia village",
+        "dementia treatment",
+        "cholinesterase inhibitors",
+        "memantine",
+        "dementia prevention"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Closing thoughts and listener mail on Hecky Krasnow",
+      "summary": "Hosts reflect on their own dementia risk, then read listener mail from Aiden in Maryland about his great-grandfather Hecky Krasnow, who produced songs for Captain Kangaroo, and suggest a possible episode.",
+      "topics": [
+        "listener mail",
+        "Hecky Krasnow",
+        "Captain Kangaroo"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15291,
+    "output_tokens": 3162
+  }
+}

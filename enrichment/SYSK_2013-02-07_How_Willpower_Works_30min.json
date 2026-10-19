@@ -1,0 +1,248 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-02-07_How_Willpower_Works_30min.txt",
+  "title": "How Willpower Works",
+  "date": "2013-02-07",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-willpower-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6438a6af-94e5-490a-ab03-ae2800a2a360/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6438a6af-94e5-490a-ab03-ae2800a2a360/transcript?format=TextWithTimestamps&t=1700543907",
+  "summary": "Josh and Chuck discuss willpower: how it is defined, the Freudian ego and finite energy idea, Roy Baumeister's ego depletion experiments (radishes vs. chocolate, persistence puzzles), Baba Shiv's working memory study, fMRI findings on prefrontal cortex activity, glucose as a willpower booster, the Israeli parole board study, decision fatigue and its effect on the poor, the marshmallow experiment and a University of Rochester follow-up, and genetic influences. The episode also covers site announcements and a listener mail from Todd in Oklahoma City.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "willpower",
+    "self-control",
+    "ego depletion",
+    "decision fatigue",
+    "Roy Baumeister",
+    "Baba Shiv",
+    "working memory",
+    "glucose and willpower",
+    "marshmallow experiment",
+    "Walter Mischel",
+    "Israeli parole board study",
+    "prefrontal cortex",
+    "fMRI",
+    "Freud ego",
+    "Plato higher self lower self",
+    "Rush free will lyric",
+    "poverty and decision making",
+    "University of Rochester marshmallow follow-up",
+    "Robert Lamb HowStuffWorks article",
+    "John Tierney New York Times decision fatigue",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Roy Baumeister",
+      "type": "person"
+    },
+    {
+      "name": "Baba Shiv",
+      "type": "person"
+    },
+    {
+      "name": "Sigmund Freud",
+      "type": "person"
+    },
+    {
+      "name": "Plato",
+      "type": "person"
+    },
+    {
+      "name": "Robert Lamb",
+      "type": "person"
+    },
+    {
+      "name": "John Tierney",
+      "type": "person"
+    },
+    {
+      "name": "Walter Mischel",
+      "type": "person"
+    },
+    {
+      "name": "Ego depletion",
+      "type": "other"
+    },
+    {
+      "name": "Marshmallow experiment",
+      "type": "event"
+    },
+    {
+      "name": "Israeli parole board study",
+      "type": "event"
+    },
+    {
+      "name": "University of Rochester",
+      "type": "organization"
+    },
+    {
+      "name": "Florida State University",
+      "type": "organization"
+    },
+    {
+      "name": "University of Iowa",
+      "type": "organization"
+    },
+    {
+      "name": "Do You Suffer from Decision Fatigue?",
+      "type": "work"
+    },
+    {
+      "name": "Rush",
+      "type": "organization"
+    },
+    {
+      "name": "Free Will",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and site announcements",
+      "summary": "Josh and Chuck open the show, mention the new website, Twitter, and Facebook, then introduce willpower as a shared struggle.",
+      "topics": [
+        "show announcements",
+        "website launch",
+        "social media"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Defining willpower and the higher self vs. lower self",
+      "summary": "The hosts connect Plato's higher self and lower self idea to willpower, and discuss how Robert Lamb's article describes humans being at odds with evolved instincts such as craving sugar and sex versus modern society.",
+      "topics": [
+        "willpower definition",
+        "Plato higher self lower self",
+        "evolution vs society",
+        "sugar cravings"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "How willpower depends on how you view the world",
+      "summary": "The hosts argue that how often people exercise willpower depends on whether they see the world as full of temptations, or as something they can handle, and that willpower is a decision-making act.",
+      "topics": [
+        "willpower and temptation",
+        "decision making",
+        "self-perception"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Willpower as a depletable resource and Freud's ego",
+      "summary": "Willpower is described as a meter that depletes and replenishes. Freud linked willpower to a finite ego energy reserve, an idea that later fell out of fashion before being revived.",
+      "topics": [
+        "ego depletion",
+        "Freud ego",
+        "finite energy reserve",
+        "willpower meter"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Baumeister's radish and chocolate experiments",
+      "summary": "Roy Baumeister at Florida State University found that people who resisted cookies and ate radishes instead had more trouble completing a persistence puzzle, suggesting willpower was used up.",
+      "topics": [
+        "Roy Baumeister",
+        "radish cookie experiment",
+        "persistence test",
+        "ego depletion"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Baba Shiv's working memory study and brain imaging",
+      "summary": "Baba Shiv at the University of Iowa found that people holding a seven-digit number resisted chocolate cake less well than those holding a two-digit number, linking working memory to self-control. Brain scans showed the anterior and dorsolateral prefrontal cortex activity during good decisions.",
+      "topics": [
+        "Baba Shiv",
+        "working memory",
+        "chocolate cake study",
+        "prefrontal cortex",
+        "fMRI"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Muscle analogy, personal anecdote, and glucose",
+      "summary": "Baumeister compares willpower to a muscle. Chuck describes choosing to walk upstairs for a mail key as a willpower exercise. The hosts then discuss glucose research showing a sugar shot can restore willpower, initially dismissed by other scientists and later supported by brain imaging.",
+      "topics": [
+        "willpower as muscle",
+        "glucose and willpower",
+        "brain energy use",
+        "sugar and self-control"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Israeli parole board, decision fatigue, and poverty",
+      "summary": "A study of an Israeli parole board found parole chances dropped the longer since a break, with decision fatigue leading to risk-averse denials. The hosts discuss how decision fatigue may disproportionately affect poor people.",
+      "topics": [
+        "Israeli parole board study",
+        "decision fatigue",
+        "poverty and willpower",
+        "John Tierney article"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Rush lyric, free will, and the marshmallow experiments",
+      "summary": "The hosts discuss Rush's free will lyric about choosing not to decide. They then describe the 1960s marshmallow experiment, where children who waited had better later SAT outcomes, and a University of Rochester follow-up showing children who had been promised art supplies waited longer when the promise was kept.",
+      "topics": [
+        "Rush Free Will lyric",
+        "marshmallow experiment",
+        "delayed gratification",
+        "University of Rochester follow-up",
+        "genetics of self-discipline"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Todd in Oklahoma City",
+      "summary": "Todd writes that the podcast helped him impress his girlfriend with interesting facts. The hosts thank him and invite feedback via Twitter, Facebook, email, and the website.",
+      "topics": [
+        "listener mail",
+        "dating",
+        "feedback"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:40:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck close the episode, inviting listeners to visit the website and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10331,
+    "output_tokens": 2612
+  }
+}

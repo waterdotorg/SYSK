@@ -1,0 +1,238 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-04-02_Student_Loans_UGH_56min.txt",
+  "title": "Student Loans: UGH!",
+  "date": "2020-04-02",
+  "duration": "56 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/student-loans-ugh",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/84bd74d0-b669-46e3-9b45-ae2800390f90/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/84bd74d0-b669-46e3-9b45-ae2800390f90/transcript?format=TextWithTimestamps&t=1700543631",
+  "summary": "Josh and Chuck (with guest producer Dave) explain student loans in the US: how the debt built up since the Obama-era expansion of higher education access around 2010, federal loan types (direct subsidized, direct unsubsidized, direct PLUS), cost-of-attendance borrowing limits, private loans and their fixed versus variable rates, repayment options (deferment, forbearance, income-driven plans, consolidation/refinancing), Public Service Loan Forgiveness and the tax consequences of forgiveness, default and rehabilitation, for-profit and online college risks, the \"sheepskin effect,\" securitization of student loans, a proposal to use 401(k) money to repay loans, and listener mail corrections.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "student loans",
+    "federal student loans",
+    "private student loans",
+    "direct subsidized loan",
+    "direct unsubsidized loan",
+    "direct PLUS loan",
+    "cost of attendance",
+    "variable vs fixed interest rate",
+    "LIBOR",
+    "deferment",
+    "forbearance",
+    "income-driven repayment",
+    "loan consolidation and refinancing",
+    "Public Service Loan Forgiveness",
+    "loan forgiveness tax bomb",
+    "loan default and rehabilitation",
+    "student loan debt crisis",
+    "some college no degree",
+    "sheepskin effect",
+    "student loan securitization",
+    "401(k) withdrawal to repay student loans",
+    "college costs",
+    "Obama-era higher education expansion",
+    "Hope Scholarship",
+    "for-profit colleges"
+  ],
+  "entities": [
+    {
+      "name": "Obama administration higher education initiative",
+      "type": "event"
+    },
+    {
+      "name": "Hope Scholarship",
+      "type": "other"
+    },
+    {
+      "name": "Public Service Loan Forgiveness",
+      "type": "other"
+    },
+    {
+      "name": "Navigant",
+      "type": "organization"
+    },
+    {
+      "name": "Brookings Institution",
+      "type": "organization"
+    },
+    {
+      "name": "Adam Looney",
+      "type": "person"
+    },
+    {
+      "name": "Mark Cuban",
+      "type": "person"
+    },
+    {
+      "name": "Rand Paul",
+      "type": "person"
+    },
+    {
+      "name": "Sarah Lawrence College",
+      "type": "organization"
+    },
+    {
+      "name": "University of Georgia",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and personal college funding stories",
+      "summary": "Hosts introduce the episode as a public service piece, joke about its dryness, and share personal stories about paying for college, including selling a camper and the Georgia HOPE grant.",
+      "topics": [
+        "student loans intro",
+        "Hope Scholarship",
+        "paying for college"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Rising college costs and the changed value of debt",
+      "summary": "The hosts discuss the growth of student loan debt, the Obama-era initiative that expanded access, and how debt today differs from older mortgage-style debt. They also discuss parents who did not save for college.",
+      "topics": [
+        "college costs",
+        "student loan debt totals",
+        "Obama-era higher education expansion",
+        "parents saving for college"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Federal student loan types",
+      "summary": "The hosts explain the federal loan categories: direct subsidized loans, where the Department of Education covers interest in certain periods and only undergraduates qualify; direct unsubsidized loans; and direct PLUS loans for parents and graduate students.",
+      "topics": [
+        "direct subsidized loan",
+        "direct unsubsidized loan",
+        "direct PLUS loan",
+        "Stafford loans",
+        "federal loan interest"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Cost of attendance and over-borrowing",
+      "summary": "The hosts explain how cost of attendance sets loan limits and how borrowing the full amount can mean paying interest on unneeded money. They advise borrowing only what is needed and note that schools may hold leftover funds.",
+      "topics": [
+        "cost of attendance",
+        "over-borrowing",
+        "loan disbursement to schools",
+        "borrowing advice"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "College choice, cost and degree value",
+      "summary": "The hosts advise choosing an affordable school, argue that attending an out-of-state public school is a poor value, and discuss how heavy debt and liberal arts degrees can limit life choices.",
+      "topics": [
+        "choosing a college",
+        "out-of-state tuition",
+        "debt and life choices",
+        "liberal arts degree debt"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Private student loans",
+      "summary": "The hosts compare private lenders with federal loans. Private lenders may offer perks but may deny applicants, may rely on co-signers, and may offer variable rates tied to LIBOR and prime that can rise over time. Private loans are typically paid to the school.",
+      "topics": [
+        "private student loans",
+        "co-signer",
+        "variable interest rate",
+        "LIBOR",
+        "prime rate",
+        "fixed rate loans"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Repayment options: deferment, interest payments, and federal plans",
+      "summary": "The hosts describe deferment, immediate repayment, interest-only payments, standard and extended federal repayment terms, and consolidation versus refinancing. They discuss income-driven plans such as REPAYE, which set payments as a share of discretionary income.",
+      "topics": [
+        "deferment",
+        "interest-only payments",
+        "graduated repayment",
+        "income-driven repayment",
+        "REPAYE",
+        "consolidation vs refinancing"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Public Service Loan Forgiveness and forgiveness tax",
+      "summary": "The hosts explain Public Service Loan Forgiveness, which requires 120 qualifying payments and full-time work for a qualifying nonpartisan government or nonprofit employer. They also explain that other forgiveness after long repayment may count as taxable income.",
+      "topics": [
+        "Public Service Loan Forgiveness",
+        "loan forgiveness",
+        "forgiveness tax",
+        "qualifying employer"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Default, delinquency, forbearance and rehabilitation",
+      "summary": "The hosts explain delinquency, default after 270 days, aggressive collection calls, and the drawbacks of forbearance. They describe loan rehabilitation as a way to recover from default and note the debt bubble, securitization of loans, and the some-college problem.",
+      "topics": [
+        "loan default",
+        "delinquency",
+        "forbearance",
+        "loan rehabilitation",
+        "student loan collections",
+        "some college no degree",
+        "sheepskin effect",
+        "securitization"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "401(k) proposal and data sharing",
+      "summary": "The hosts discuss a proposal by Rand Paul to let people withdraw 401(k) money penalty-free to repay student loans and criticize the lack of federal data on school outcomes.",
+      "topics": [
+        "401(k) withdrawal for student loans",
+        "Rand Paul proposal",
+        "school outcome data"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:56:00",
+      "kind": "listener_mail",
+      "title": "Listener mail corrections and sign-off",
+      "summary": "Two listener emails correct the pronunciation of crepuscular and Tagalog, and the hosts sign off.",
+      "topics": [
+        "listener mail",
+        "crepuscular",
+        "Tagalog pronunciation"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18122,
+    "output_tokens": 2692
+  }
+}

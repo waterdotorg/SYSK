@@ -1,0 +1,297 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-06-22_How_Ketchup_Works_53min.txt",
+  "title": "How Ketchup Works",
+  "date": "2017-06-22",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ketchup-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1f89e4c1-10b8-4f02-b0e7-ae2800765d4c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1f89e4c1-10b8-4f02-b0e7-ae2800765d4c/transcript?format=TextWithTimestamps&t=1700543807",
+  "summary": "Josh and Chuck explore the history of ketchup, from its origins as a fermented fish sauce (kê-tsiap) in Asia, through British mushroom and walnut versions, the arrival of tomatoes in American ketchup, Henry J. Heinz and Dr. Harvey Washington Wiley's preservative-free push, tomato \"medicine\" pills, the non-Newtonian viscosity that makes ketchup hard to pour, squeeze bottle and serum-separation problems, the \"ketchup vs. catsup\" spelling, fridge storage, international ketchup varieties, and an Israeli labeling dispute. The episode opens with tour announcements and closes with listener mail about the Wow! signal.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ketchup history",
+    "ketchup",
+    "catsup vs ketchup",
+    "fermented fish sauce origin",
+    "tomato ketchup",
+    "Heinz",
+    "Henry J. Heinz",
+    "Harvey Washington Wiley",
+    "FDA preservatives history",
+    "tomato pills",
+    "lycopene",
+    "non-Newtonian fluid",
+    "ketchup bottle viscosity",
+    "ketchup serum separation",
+    "squeeze bottle valve",
+    "condiments",
+    "mayonnaise",
+    "international ketchup varieties",
+    "Israel ketchup labeling dispute",
+    "umami",
+    "Wow signal",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Heinz",
+      "type": "organization"
+    },
+    {
+      "name": "Hunt's",
+      "type": "organization"
+    },
+    {
+      "name": "Del Monte",
+      "type": "organization"
+    },
+    {
+      "name": "Baskin Robbins",
+      "type": "organization"
+    },
+    {
+      "name": "Osem",
+      "type": "organization"
+    },
+    {
+      "name": "Harvey Washington Wiley",
+      "type": "person"
+    },
+    {
+      "name": "Henry J. Heinz",
+      "type": "person"
+    },
+    {
+      "name": "Richard Bradley",
+      "type": "person"
+    },
+    {
+      "name": "Malcolm Gladwell",
+      "type": "person"
+    },
+    {
+      "name": "Paul Brown",
+      "type": "person"
+    },
+    {
+      "name": "Jane Austen",
+      "type": "person"
+    },
+    {
+      "name": "Israel",
+      "type": "place"
+    },
+    {
+      "name": "Fujian province",
+      "type": "place"
+    },
+    {
+      "name": "Wow! signal",
+      "type": "event"
+    },
+    {
+      "name": "Liquid Glide",
+      "type": "other"
+    },
+    {
+      "name": "MIT",
+      "type": "organization"
+    },
+    {
+      "name": "Christmas Vacation",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Tour plugs and condiment banter",
+      "summary": "Josh announces the 2017 tour dates and then he and Chuck discuss their condiment preferences, with Chuck favoring mayonnaise and Josh disliking ketchup. They note mayonnaise outsells ketchup in the US.",
+      "topics": [
+        "tour dates",
+        "condiments",
+        "mayonnaise sales",
+        "ketchup dislike"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Ketchup origins in Asian fermented fish sauce",
+      "summary": "The hosts trace ketchup to a fermented fish sauce in Asia, possibly Chinese or Vietnamese in origin, with a name derived from a Cantonese or Fujian word. Early recipes had no tomatoes; the American and modern versions descend from this ancestor.",
+      "topics": [
+        "ketchup etymology",
+        "fermented fish sauce",
+        "Asian origins of ketchup",
+        "Hinz tomato ketchup label"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "British ketchup and mushroom and walnut recipes",
+      "summary": "The British encountered the sauce abroad and published recipes, such as Richard Bradley's 1732 recipe. They created versions using mushrooms, walnuts, and oysters, aiming for umami flavor, and used the sauce as a base for stews and meat pies rather than on hot dogs.",
+      "topics": [
+        "British ketchup",
+        "mushroom ketchup",
+        "walnut ketchup",
+        "umami",
+        "Richard Bradley 1732 recipe"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Tomatoes arrive in American ketchup and the Wiley-Heinz preservative story",
+      "summary": "Colonists considered tomatoes poisonous until they were later used as medicine and then added to ketchup, with the first tomato recipe in an American cookbook around 1812. Dr. Harvey Washington Wiley's campaign against chemical preservatives and Henry J. Heinz's preservative-free ketchup, using ripe tomatoes, pectin, and vinegar, are discussed.",
+      "topics": [
+        "tomato ketchup history",
+        "Harvey Washington Wiley",
+        "Henry J. Heinz",
+        "preservatives in ketchup",
+        "pectin",
+        "FDA history"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:22:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before returning to ketchup ingredients.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Modern ketchup ingredients and Heinz market share",
+      "summary": "Modern ketchup is tomatoes, salt, vinegar, onion powder, and sweeteners such as sugar or high fructose corn syrup. Heinz dominates the US and global market, and Chuck's shopping mistake with Hunt's is recounted.",
+      "topics": [
+        "ketchup ingredients",
+        "high fructose corn syrup",
+        "Heinz market share",
+        "Hunt's"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Tomato pills and lycopene",
+      "summary": "Tomatoes and ketchup were sold as medicine, including ketchup pills, in the 1830s-40s, which led to a market crash around 1840 when imitators sold fraudulent or laxative pills. Modern discussion covers lycopene and prostate cancer research, with cooked tomatoes releasing more lycopene, and the sugar and sodium drawbacks of eating large amounts of ketchup.",
+      "topics": [
+        "tomato pills",
+        "patent medicine",
+        "lycopene",
+        "prostate cancer research",
+        "ketchup nutrition",
+        "sodium and sugar content"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Non-Newtonian viscosity and bottle tapping",
+      "summary": "Ketchup is a non-Newtonian fluid whose viscosity drops under shear force, so tapping the bottle makes it flow. Hosts explain why tapping the embossed 57 spot on the bottle helps.",
+      "topics": [
+        "non-Newtonian fluid",
+        "viscosity",
+        "shear thinning",
+        "tapping ketchup bottle"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Ketchup packets, squeeze bottles, serum separation, and the Paul Brown valve",
+      "summary": "Packets and plastic squeeze bottles were introduced to solve the pouring problem, but the squeeze bottles had issues with serum separation. In 2002, Hunt's and Heinz introduced upside-down squeeze bottles with a valve designed by Paul Brown that remixes serum into the ketchup. MIT's Liquid Glide coating is discussed as a remaining fix.",
+      "topics": [
+        "ketchup packets",
+        "squeeze bottle",
+        "serum separation",
+        "Paul Brown silicone valve",
+        "Liquid Glide",
+        "MIT"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Ketchup vs. catsup spelling, refrigeration, and global varieties",
+      "summary": "Ketchup and catsup are pronounced the same; Heinz popularized the K spelling and Del Monte kept catsup. Heinz says its ketchup is shelf-stable but recommends refrigeration after opening. The hosts tour global variations including sweet ketchup in England and the Philippines, HP brown sauce, Japanese mayo pizza, and Swedish ketchup on pasta.",
+      "topics": [
+        "catsup spelling",
+        "refrigeration",
+        "international ketchup",
+        "HP brown sauce",
+        "Japanese pizza",
+        "Swedish ketchup"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Unusual ketchup products and pruno",
+      "summary": "Flavors such as ketchup potato chips, Baskin Robbins ketchup ice cream, and ketchup as an ingredient in prison pruno are mentioned.",
+      "topics": [
+        "ketchup potato chips",
+        "ketchup ice cream",
+        "pruno",
+        "prison wine"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:52:30",
+      "kind": "content",
+      "title": "Israeli ketchup labeling dispute",
+      "summary": "Osem's complaint led Israel to require Heinz to relabel its product as tomato seasoning because it lacked the required tomato concentrate percentage. Heinz disputed the claims.",
+      "topics": [
+        "Israel ketchup dispute",
+        "Osem",
+        "tomato concentrate standards",
+        "food labeling"
+      ]
+    },
+    {
+      "start": "00:52:30",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Wow! signal update",
+      "summary": "A listener reports a news article claiming the Wow! signal was caused by hydrogen clouds from comets, and the hosts comment on it.",
+      "topics": [
+        "Wow! signal",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:53:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and contact information and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17099,
+    "output_tokens": 3281
+  }
+}

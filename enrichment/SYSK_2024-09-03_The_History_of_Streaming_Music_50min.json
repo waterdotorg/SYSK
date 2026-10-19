@@ -1,0 +1,447 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-09-03_The_History_of_Streaming_Music_50min.txt",
+  "title": "The History of Streaming Music",
+  "date": "2024-09-03",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-history-of-streaming-music",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6c7741b8-5447-4593-9072-b1d8012e33e6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6c7741b8-5447-4593-9072-b1d8012e33e6/transcript?format=TextWithTimestamps&t=1725354755",
+  "summary": "Josh and Chuck trace the history of streaming music, from the CD-era pricing frustrations and the rise of Napster and file sharing, through early streaming services (Launch Media, Rhapsody, Pandora with its Music Genome Project), the RIAA and Metallica lawsuits, Spotify's launch and royalty model, the Tidal launch with artist ownership, Neil Young's Pono player, Apple Music, and today's per-stream royalty economics and the Living Wage for Musicians Act. The episode closes with a listener mail correction about a kid named Boden from a Minecraft episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "streaming music history",
+    "Napster",
+    "peer to peer file sharing",
+    "music piracy",
+    "RIAA lawsuits",
+    "Metallica Napster lawsuit",
+    "CD prices",
+    "Columbia House",
+    "Launch Media",
+    "Rhapsody",
+    "Pandora",
+    "Music Genome Project",
+    "Copyright Royalty and Distribution Reform Act of 2004",
+    "Spotify",
+    "streaming royalties",
+    "Tidal",
+    "Jay Z",
+    "Jack Dorsey",
+    "Neil Young Pono",
+    "Apple Music",
+    "iTunes",
+    "music industry revenue",
+    "Living Wage for Musicians Act",
+    "per-stream royalty rates",
+    "indie artists streaming income"
+  ],
+  "entities": [
+    {
+      "name": "Napster",
+      "type": "organization"
+    },
+    {
+      "name": "Sean Fanning",
+      "type": "person"
+    },
+    {
+      "name": "Sean Parker",
+      "type": "person"
+    },
+    {
+      "name": "Metallica",
+      "type": "organization"
+    },
+    {
+      "name": "RIAA",
+      "type": "organization"
+    },
+    {
+      "name": "Dr. Dre",
+      "type": "person"
+    },
+    {
+      "name": "Launch Media",
+      "type": "organization"
+    },
+    {
+      "name": "Rhapsody",
+      "type": "organization"
+    },
+    {
+      "name": "Pandora",
+      "type": "organization"
+    },
+    {
+      "name": "Music Genome Project",
+      "type": "work"
+    },
+    {
+      "name": "Spotify",
+      "type": "organization"
+    },
+    {
+      "name": "Tidal",
+      "type": "organization"
+    },
+    {
+      "name": "Jay Z",
+      "type": "person"
+    },
+    {
+      "name": "Jack Dorsey",
+      "type": "person"
+    },
+    {
+      "name": "Block Inc.",
+      "type": "organization"
+    },
+    {
+      "name": "Neil Young",
+      "type": "person"
+    },
+    {
+      "name": "Pono",
+      "type": "work"
+    },
+    {
+      "name": "Apple Music",
+      "type": "organization"
+    },
+    {
+      "name": "iTunes",
+      "type": "work"
+    },
+    {
+      "name": "Steve Jobs",
+      "type": "person"
+    },
+    {
+      "name": "Columbia House",
+      "type": "organization"
+    },
+    {
+      "name": "LimeWire",
+      "type": "organization"
+    },
+    {
+      "name": "Pavement",
+      "type": "organization"
+    },
+    {
+      "name": "The Weeknd",
+      "type": "person"
+    },
+    {
+      "name": "Taylor Swift",
+      "type": "person"
+    },
+    {
+      "name": "Living Wage for Musicians Act",
+      "type": "event"
+    },
+    {
+      "name": "Copyright Royalty Board",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:40",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Hosts open with a joke about streaming and introduce the topic of the history of streaming music, which Chuck suggested.",
+      "topics": [
+        "streaming music history"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:03:10",
+      "kind": "content",
+      "title": "CD prices and album frustrations",
+      "summary": "The hosts recall that CDs cost around nineteen ninety-nine and that albums often had only one or two good songs, leading listeners to feel burned and become willing to find music another way.",
+      "topics": [
+        "CD prices",
+        "album buying",
+        "music industry in the 1990s"
+      ]
+    },
+    {
+      "start": "00:03:10",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Napster and the rise of file sharing",
+      "summary": "Sean Fanning and Sean Parker created Napster as a peer-to-peer file sharing service. CD ripping software let users build MP3 collections that could be traded. Napster grew to tens of millions of users within two years.",
+      "topics": [
+        "Napster",
+        "peer to peer file sharing",
+        "MP3 ripping",
+        "Sean Fanning"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:20",
+      "kind": "content",
+      "title": "Musicians, labels and the lawsuits",
+      "summary": "Some artists supported file sharing, such as Chuck D, while others opposed it. Metallica and Dr. Dre sued, and the RIAA sued individual users, including a twelve-year-old girl. Metallica had Napster ban users it identified.",
+      "topics": [
+        "Metallica Napster lawsuit",
+        "RIAA lawsuits",
+        "Dr. Dre",
+        "music piracy enforcement"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:10:40",
+      "kind": "content",
+      "title": "Napster's decline and its successors",
+      "summary": "Napster's publicity drew more users. It tried to become a legitimate service, paying royalties and offering subscriptions, but competitors such as LimeWire, Kazaa and FrostWire had arrived and it did not succeed as a business.",
+      "topics": [
+        "Napster decline",
+        "LimeWire",
+        "Kazaa",
+        "FrostWire"
+      ]
+    },
+    {
+      "start": "00:10:40",
+      "end": "00:15:05",
+      "kind": "content",
+      "title": "iTunes, the 99-cent song and the decline of physical sales",
+      "summary": "Apple's iTunes launched in 2003 selling songs for 99 cents. Hosts discuss how labels could have priced CDs lower and cite statistics showing physical sales fell sixty percent between 2001 and 2010.",
+      "topics": [
+        "iTunes Store",
+        "99 cent songs",
+        "physical music sales decline",
+        "music industry revenue loss"
+      ]
+    },
+    {
+      "start": "00:15:05",
+      "end": "00:15:10",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the next segment.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:15:10",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Early streaming services: Launch Media and Rhapsody",
+      "summary": "Early streaming services like Launch Media played radio-style programming with limited skipping, and the RIAA objected to skipping. Rhapsody launched in 2001 as the first legitimate on-demand service and was later rebranded as Napster in 2016. Real Player was used for streaming.",
+      "topics": [
+        "Launch Media",
+        "Yahoo Music",
+        "Rhapsody",
+        "RealNetworks",
+        "RealPlayer",
+        "on-demand streaming",
+        "webcasting radio"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Columbia House story",
+      "summary": "Josh recounts his Columbia House record club experience at age twelve, where he sent back unwanted albums with a letter saying minors cannot enter contracts, and the company stopped sending them.",
+      "topics": [
+        "Columbia House",
+        "record clubs",
+        "personal anecdote"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:24:10",
+      "kind": "content",
+      "title": "Pandora and the Music Genome Project",
+      "summary": "Pandora launched in 2005 as Savage Beast Technologies and recommended music using the Music Genome Project, which analyzed about 450 attributes of each song. Pandora tried a three-dollar subscription with a free trial, but conversion was low, partly because people were wary of entering credit card information online.",
+      "topics": [
+        "Pandora",
+        "Music Genome Project",
+        "music recommendation algorithm",
+        "subscription trial",
+        "online credit card fears"
+      ]
+    },
+    {
+      "start": "00:24:10",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Copyright Royalty Board and the 2004 Act",
+      "summary": "Congress passed the Copyright Royalty and Distribution Reform Act of 2004, creating the US Copyright Royalty Board to settle royalty disputes between streamers and labels. The legal complexity hurt smaller streaming companies, including Yahoo Music, which shut down.",
+      "topics": [
+        "Copyright Royalty Board",
+        "Copyright Royalty and Distribution Reform Act",
+        "streaming royalties law"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "iPhone and mobile streaming",
+      "summary": "The iPhone in 2007 let users play downloaded and streamed music on a phone. The Pandora iPhone app quickly reached about a quarter of iPhones. Chuck and Josh reminisce about app-focused meetings at their TV show.",
+      "topics": [
+        "iPhone",
+        "mobile music streaming",
+        "Pandora app",
+        "app culture"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Spotify's launch and royalty model",
+      "summary": "Spotify launched in Stockholm in 2006 and reached the US in 2011. It paid roughly 70 percent of revenue as royalties and lost money for years before its first profitable quarters in 2024, reportedly through layoffs and subscription price increases.",
+      "topics": [
+        "Spotify",
+        "streaming royalties",
+        "Spotify profitability",
+        "Stockholm tech industry"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:30:20",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break before the Tidal discussion.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:30:20",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Tidal launch and its troubles",
+      "summary": "Tidal launched in 2015 as an artist-owned service backed by Jay Z, with higher bitrates and human editors. Its launch event was awkward, and the company was sued for underpayment. Jack Dorsey's Block Inc. bought an 86 percent share for 300 million dollars in 2021, and a shareholder lawsuit against Dorsey was dismissed.",
+      "topics": [
+        "Tidal",
+        "Jay Z",
+        "Jack Dorsey",
+        "Block Inc",
+        "Tidal launch event",
+        "artist-owned streaming"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:20",
+      "kind": "content",
+      "title": "Neil Young's Pono player and audio quality",
+      "summary": "Neil Young's crowdfunded Pono player, launched in 2015, argued MP3s were poor quality. The hosts explain bitrates and note that most listeners cannot detect differences above about 256 kbps, compared with about 1,400 kbps for CDs.",
+      "topics": [
+        "Pono",
+        "Neil Young",
+        "audio quality",
+        "bitrate",
+        "MP3 compression"
+      ]
+    },
+    {
+      "start": "00:36:20",
+      "end": "00:38:40",
+      "kind": "content",
+      "title": "Apple Music and Steve Jobs' objections",
+      "summary": "Apple Music launched in 2015, late to streaming, reportedly because Steve Jobs opposed subscription rental of music. Amazon also launched a streaming service about a year later. Jobs' argument about renting versus owning is discussed.",
+      "topics": [
+        "Apple Music",
+        "Steve Jobs",
+        "Amazon Music",
+        "subscription versus ownership"
+      ]
+    },
+    {
+      "start": "00:38:40",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Streaming revenue recovery and artist payouts",
+      "summary": "Music industry revenue fell to a low around 2014 and recovered by 2022. Subscriptions make up most revenue. Per-stream rates differ by service: Tidal about 1.3 cents, Apple and YouTube Music about 0.7 cents, Spotify and Amazon 0.4 cents, Pandora 0.1 cents. Spotify paid over nine billion dollars in 2023, and many independent artists earn significant income.",
+      "topics": [
+        "music industry revenue",
+        "streaming payouts",
+        "per-stream royalty rates",
+        "independent artists streaming income"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:45:20",
+      "kind": "content",
+      "title": "Viral songs, most-streamed artists and changing songwriting",
+      "summary": "Pavement's 1996 B-side Harness Your Hopes went viral on TikTok and reached about 148 million Spotify streams. The Weeknd's Blinding Lights is cited as the most streamed song on Spotify. Record labels reportedly request short viral hooks, and the album era is described as declining.",
+      "topics": [
+        "Pavement Harness Your Hopes",
+        "TikTok virality",
+        "most streamed songs",
+        "The Weeknd Blinding Lights",
+        "album era decline",
+        "songwriting for TikTok"
+      ]
+    },
+    {
+      "start": "00:45:20",
+      "end": "00:46:40",
+      "kind": "content",
+      "title": "Living Wage for Musicians Act",
+      "summary": "The hosts discuss the proposed Living Wage for Musicians Act, which would set a minimum royalty of one cent per stream, and mention an online petition to sign.",
+      "topics": [
+        "Living Wage for Musicians Act",
+        "minimum streaming royalty",
+        "petition"
+      ]
+    },
+    {
+      "start": "00:46:40",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Genre experimentation and closing banter",
+      "summary": "Hosts argue that streaming lets artists take creative risks, then joke about forming a band. Jerry, the producer, is mentioned for slide whistle.",
+      "topics": [
+        "genre experimentation",
+        "independent music",
+        "banter"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:49:10",
+      "kind": "listener_mail",
+      "title": "Listener mail: Boden correction",
+      "summary": "Sarah writes to correct an earlier omission from the Minecraft episode, identifying her son Boden as the kid at the Medford show who asked about Minecraft.",
+      "topics": [
+        "listener mail",
+        "Minecraft episode correction"
+      ]
+    },
+    {
+      "start": "00:49:10",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listeners to suggest episodes by email and close with the show credit.",
+      "topics": [
+        "sign-off",
+        "listener suggestions"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18430,
+    "output_tokens": 4791
+  }
+}

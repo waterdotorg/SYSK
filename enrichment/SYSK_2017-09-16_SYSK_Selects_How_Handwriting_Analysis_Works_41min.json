@@ -1,0 +1,219 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-09-16_SYSK_Selects_How_Handwriting_Analysis_Works_41min.txt",
+  "title": "SYSK Selects: How Handwriting Analysis Works",
+  "date": "2017-09-16",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-how-handwriting-analysis-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2cba8bef-bca7-4291-b7f8-ae28007118ec/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2cba8bef-bca7-4291-b7f8-ae28007118ec/transcript?format=TextWithTimestamps&t=1700543798",
+  "summary": "A Saturday \"Selects\" rerun of a October 2013 Stuff You Should Know episode on handwriting analysis (forensic questioned document examination). Josh and Chuck open with banter about the decline of cursive, Chuck's teenage forging of his parents' signatures, and the difference between handwriting analysis and pseudoscientific graphology. They explain the principle of uniqueness, copybook style versus individual characteristics, exemplars (requested and known) versus question documents, and the table-based comparison method leading to five conclusion levels (identification, may have, no conclusion, may not have, elimination). They cover disguised handwriting, the Lindbergh kidnapping ransom notes and Bruno Hauptmann, the Hitler Diaries forgery by Konrad Kujau, the John Mark Carr case and the Ramsey investigation, the FISH numeric handwriting database, a study on handwriting changes when lying, certification requirements, and a listener mail letter.",
+  "episode_kind": "rerun",
+  "rerun_of": "How Handwriting Analysis Works",
+  "topics": [
+    "handwriting analysis",
+    "forensic handwriting analysis",
+    "questioned document examination",
+    "graphology",
+    "principle of uniqueness",
+    "exemplar",
+    "question document",
+    "copybook style",
+    "individual characteristics",
+    "forgery detection",
+    "Lindbergh kidnapping ransom notes",
+    "Bruno Hauptmann",
+    "Hitler Diaries forgery",
+    "Konrad Kujau",
+    "John Mark Carr",
+    "JonBenét Ramsey case",
+    "FISH forensic information system for handwriting",
+    "disguised handwriting",
+    "handwriting and lie detection",
+    "identical twins handwriting",
+    "cursive decline",
+    "forensic document examiners",
+    "SYSK Selects",
+    "handwriting comparison tables"
+  ],
+  "entities": [
+    {
+      "name": "Alphonse Bertillon",
+      "type": "person"
+    },
+    {
+      "name": "Bruno Hauptmann",
+      "type": "person"
+    },
+    {
+      "name": "Konrad Kujau",
+      "type": "person"
+    },
+    {
+      "name": "John Mark Carr",
+      "type": "person"
+    },
+    {
+      "name": "Lindbergh kidnapping",
+      "type": "event"
+    },
+    {
+      "name": "Hitler Diaries",
+      "type": "work"
+    },
+    {
+      "name": "London Times",
+      "type": "organization"
+    },
+    {
+      "name": "JonBenét Ramsey case",
+      "type": "event"
+    },
+    {
+      "name": "Forensic Information System for Handwriting",
+      "type": "other"
+    },
+    {
+      "name": "Measurement Science and Standards in Forensic Handwriting Analysis Conference",
+      "type": "event"
+    },
+    {
+      "name": "Gaithersburg, Maryland",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Rerun intro and opening banter",
+      "summary": "Josh introduces the Selects rerun from October 2013, noting it pairs with a Secret Service episode. The hosts joke about forensics and Alphonse Bertillon, then discuss the decline of handwriting and cursive.",
+      "topics": [
+        "SYSK Selects",
+        "Alphonse Bertillon",
+        "cursive decline"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Personal handwriting anecdotes and graphology",
+      "summary": "Chuck describes forging his parents' signatures in high school and compares it to his current attempts. The hosts distinguish handwriting analysis from graphology, which they call unscientific and based on claims like small letters indicating fear.",
+      "topics": [
+        "graphology",
+        "forged signatures",
+        "handwriting analysis vs graphology",
+        "pseudoscience"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Questioned documents and the principle of uniqueness",
+      "summary": "The field covers questioned documents beyond handwriting, including typewriting, altered documents, inks, and counterfeit currency. The principle of uniqueness holds that individual characteristics combined make handwriting unique.",
+      "topics": [
+        "questioned document examination",
+        "principle of uniqueness",
+        "forensic document examiners",
+        "counterfeit currency"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Copybook style vs individual characteristics",
+      "summary": "Underlying style comes from the copybook a person learned from, which can indicate region and era. Individual characteristics develop through repetition and matter most in forensic comparison.",
+      "topics": [
+        "copybook style",
+        "individual characteristics",
+        "handwriting education"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Exemplars, question documents, and the Lindbergh ransom notes",
+      "summary": "Exemplars are known writing samples compared against question documents such as ransom notes. Requested exemplars are written on request, and the Lindbergh case shows how coerced samples from Bruno Hauptmann caused problems.",
+      "topics": [
+        "exemplar",
+        "question document",
+        "requested exemplar",
+        "Lindbergh kidnapping ransom notes",
+        "Bruno Hauptmann"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Comparison method and conclusion levels",
+      "summary": "Analysts build tables of characteristically different letter forms from question and exemplar documents, then compare them. Features examined include letter form, slant, spacing, pressure, margins, and line placement. Results fall into identification, may have, no conclusion, may not have, or elimination.",
+      "topics": [
+        "handwriting comparison tables",
+        "letter form analysis",
+        "identification conclusion levels",
+        "elimination",
+        "no conclusion"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Disguised handwriting and simulation",
+      "summary": "People may disguise handwriting to avoid identification, but analysts look for signs of simulation such as slower pen lifts and unnatural rhythm. The hosts note the method is not always admissible in court because it is subjective.",
+      "topics": [
+        "disguised handwriting",
+        "simulated handwriting",
+        "forgery detection",
+        "court admissibility"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Hitler Diaries forgery and John Mark Carr case",
+      "summary": "Konrad Kujau sold forged Hitler Diaries to a German publisher, and handwriting experts were fooled until ultraviolet testing and ink dating exposed the fraud. The hosts then discuss John Mark Carr, whose handwriting was judged inconclusive against ransom note samples in the JonBenét Ramsey case.",
+      "topics": [
+        "Hitler Diaries forgery",
+        "Konrad Kujau",
+        "John Mark Carr",
+        "JonBenét Ramsey case",
+        "ultraviolet document examination"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "FISH database, lie detection study, and certification",
+      "summary": "The hosts mention the FISH numeric handwriting database, a study finding handwriting changes when people lie, and training requirements of about two years under a qualified expert.",
+      "topics": [
+        "FISH handwriting database",
+        "handwriting and deception",
+        "forensic document certification"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:41:00",
+      "kind": "outro",
+      "title": "Listener mail and sign-off",
+      "summary": "A listener letter praising the show is read, followed by a sign-off directing listeners to the website.",
+      "topics": [
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13642,
+    "output_tokens": 2615
+  }
+}

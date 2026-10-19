@@ -1,0 +1,250 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-09-16_Whats_the_deal_with_crash_testing_47min.txt",
+  "title": "What's the deal with crash testing?",
+  "date": "2021-09-16",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-crash-testing",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/070d7a42-a3f0-47e7-a32d-ae28000a63c6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/070d7a42-a3f0-47e7-a32d-ae28000a63c6/transcript?format=TextWithTimestamps&t=1700539655",
+  "summary": "Josh and Chuck explore the history and practice of automotive crash testing. They cover GM's 1934 barrier test at Milford Proving Ground, Sam Alderson and Alderson Research Laboratories creating Sierra Sam and the Hybrid III dummy, and the shift from the fiftieth percentile male dummy to the fifth percentile female (H3-5F). They discuss sensors and paint-marked dummies, post-mortem human subjects, and how NHTSA and the IIHS run tests (full frontal, offset, side, pole, and small overlap) with star ratings and the Abbreviated Injury Scale. They also cover how crash testing drove airbags, pretensioners, force limiters, and side curtains, the push toward virtual simulation, and criticisms about test speeds and mismatched vehicles. The episode ends with a listener letter about a craniotomy and trepanning.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "crash testing",
+    "car safety",
+    "crash test dummies",
+    "Hybrid III dummy",
+    "fifth percentile female dummy",
+    "Sierra Sam",
+    "Sam Alderson",
+    "Alderson Research Laboratories",
+    "GM Milford Proving Ground barrier test",
+    "NHTSA crash tests",
+    "IIHS crash tests",
+    "small overlap crash test",
+    "star ratings",
+    "Abbreviated Injury Scale",
+    "crumple zones",
+    "pretensioners",
+    "force limiters",
+    "side impact airbags",
+    "post-mortem human subjects",
+    "vehicle safety history",
+    "self-driving cars",
+    "trepanning",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Sam Alderson",
+      "type": "person"
+    },
+    {
+      "name": "Alderson Research Laboratories",
+      "type": "organization"
+    },
+    {
+      "name": "Sierra Engineering Company",
+      "type": "organization"
+    },
+    {
+      "name": "Sierra Sam",
+      "type": "other"
+    },
+    {
+      "name": "Hybrid III",
+      "type": "other"
+    },
+    {
+      "name": "Humanetics",
+      "type": "organization"
+    },
+    {
+      "name": "General Motors",
+      "type": "organization"
+    },
+    {
+      "name": "Milford Proving Ground",
+      "type": "place"
+    },
+    {
+      "name": "National Highway Traffic Safety Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Insurance Institute for Highway Safety",
+      "type": "organization"
+    },
+    {
+      "name": "Association for the Advancement of Automotive Medicine",
+      "type": "organization"
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "type": "person"
+    },
+    {
+      "name": "Ford Pinto",
+      "type": "work"
+    },
+    {
+      "name": "Chiari malformation",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and overview of car crash safety",
+      "summary": "Hosts check whether the show has covered crash testing before, then outline how modern cars are designed to protect occupants and how crash testing pushed automakers toward safety.",
+      "topics": [
+        "car safety",
+        "crash testing",
+        "crumple zones"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "History of crash testing and early dummies",
+      "summary": "GM held the first barrier test in 1934 at Milford Proving Ground. Sam Alderson's company later created Sierra Sam, the first crash test dummy, and the Hybrid III line followed.",
+      "topics": [
+        "GM barrier test 1934",
+        "Milford Proving Ground",
+        "Sam Alderson",
+        "Sierra Sam",
+        "Hybrid III dummy",
+        "Humanetics"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Dummy size standards and representation",
+      "summary": "The fiftieth percentile male dummy was used for decades. Testers now use the fifth percentile female dummy, and some are adding child and obese dummies. A bill from Eleanor Holmes Norton would require female dummies.",
+      "topics": [
+        "fiftieth percentile male dummy",
+        "fifth percentile female dummy",
+        "crash test dummy demographics",
+        "obese crash test dummies",
+        "Eleanor Holmes Norton bill"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Limits of dummies and post-mortem human subjects",
+      "summary": "Dummies cannot replicate tissue damage and are built for repeated use. Some testing uses embalmed and fresh post-mortem human subjects. Automakers also run internal crash tests before regulatory testing.",
+      "topics": [
+        "post-mortem human subjects",
+        "embalming",
+        "internal automaker crash testing",
+        "regulatory minimum standards"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Sensors, paint marks, and simulation",
+      "summary": "Dummies carry accelerometers and load and movement sensors. Body parts are painted to show contact points. The hosts discuss biofidelic dummies and a future shift toward computer simulation.",
+      "topics": [
+        "accelerometers",
+        "crash test sensors",
+        "paint marks on dummies",
+        "biofidelic dummies",
+        "virtual crash simulation",
+        "self-driving cars"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "How IIHS and NHTSA run tests",
+      "summary": "Test cars are prepped by replacing fluids with mineral spirits and weighing them. Dummies are seated, cameras are set up, and cars are pulled on a track into barriers. Tests include full frontal and offset impacts, and the IIHS tests at 40 mph versus 35 mph for NHTSA.",
+      "topics": [
+        "crash test procedure",
+        "IIHS 40 mph test",
+        "NHTSA 35 mph frontal test",
+        "offset frontal crash",
+        "high-speed camera crash footage"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Small overlap tests, injury scales, and star ratings",
+      "summary": "The IIHS added overlap tests after finding corner impacts were dangerous. The Abbreviated Injury Scale is used for injury classification. NHTSA and IIHS rating systems changed in 2011 and 2010, with cars now compared against each other.",
+      "topics": [
+        "small overlap crash test",
+        "Abbreviated Injury Scale",
+        "NHTSA star ratings",
+        "IIHS ratings",
+        "pole test",
+        "side impact test"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Safety features driven by crash testing",
+      "summary": "Pretensioners, force limiters, airbags, and side curtain airbags came from crash testing. Side curtains were added for pole impacts. The hosts also discuss mismatched vehicle crashes, test speeds, and speeding drivers.",
+      "topics": [
+        "pretensioners",
+        "force limiters",
+        "airbags",
+        "side curtain airbags",
+        "pole impact",
+        "mismatched vehicle crashes",
+        "test speed criticism"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail about craniotomy and trepanning",
+      "summary": "Amanda writes that she had a craniotomy for Chiari malformation and connects it to the trepanning episode, including the claim that surgery was discussed as a depression treatment.",
+      "topics": [
+        "listener mail",
+        "trepanning",
+        "craniotomy",
+        "Chiari malformation"
+      ]
+    },
+    {
+      "start": "00:46:30",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give the listener email address and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14901,
+    "output_tokens": 2738
+  }
+}

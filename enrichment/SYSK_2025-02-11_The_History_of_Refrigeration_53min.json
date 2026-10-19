@@ -1,0 +1,393 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-02-11_The_History_of_Refrigeration_53min.txt",
+  "title": "The History of Refrigeration",
+  "date": "2025-02-11",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-history-of-refrigeration",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b5ebd097-8207-4696-9373-b28100d2d99c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b5ebd097-8207-4696-9373-b28100d2d99c/transcript?format=TextWithTimestamps&t=1739278468",
+  "summary": "Josh and Chuck trace the history of refrigeration from ancient times to modern cold chains. They cover early cooling methods (ice, saltpeter baths, evaporative cooling, spring houses, underground storage), the 18th and 19th century artificial refrigeration pioneers William Cullen and Jacob Perkins, the refrigerant chemicals (ammonia, methyl chloride, Freon, and HFC greenhouse concerns), Frederick Tudor's ice trade, refrigerated railcars (\"reefers\") and their effect on meatpacking, produce, and diet, the cold chain and cold storage warehouses, food safety skepticism and the Pure Food and Drug Act of 1906, the 1911 cold storage banquet, home refrigerators from the 1914 domestic unit to the 1927 GE monitor-top, leftovers, iceberg lettuce, frozen foods and TV dinners, and the modern \"cold web.\" The episode ends with listener mail about the Pink House on Plum Island.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "refrigeration history",
+    "history of refrigeration",
+    "artificial refrigeration",
+    "mechanical refrigerator",
+    "vapor compression refrigeration",
+    "ice trade",
+    "Frederick Tudor Ice King",
+    "refrigerated railcars",
+    "reefer cars",
+    "cold chain",
+    "cold storage warehouses",
+    "icebox",
+    "monitor top refrigerator",
+    "GE refrigerator 1927",
+    "William Cullen refrigeration",
+    "Jacob Perkins refrigerator",
+    "Freon refrigerants",
+    "refrigerant greenhouse gas",
+    "meatpacking Chicago",
+    "frozen food",
+    "TV dinners",
+    "Pure Food and Drug Act",
+    "leftovers history",
+    "iceberg lettuce",
+    "evaporative cooling",
+    "spring house",
+    "pellagra and diet",
+    "Pink House Plum Island listener mail"
+  ],
+  "entities": [
+    {
+      "name": "William Cullen",
+      "type": "person"
+    },
+    {
+      "name": "Jacob Perkins",
+      "type": "person"
+    },
+    {
+      "name": "Frederick Tudor",
+      "type": "person"
+    },
+    {
+      "name": "Charles Tellier",
+      "type": "person"
+    },
+    {
+      "name": "Betty Cronin",
+      "type": "person"
+    },
+    {
+      "name": "Jerry Thomas",
+      "type": "person"
+    },
+    {
+      "name": "John Waters",
+      "type": "person"
+    },
+    {
+      "name": "Henry David Thoreau",
+      "type": "person"
+    },
+    {
+      "name": "Pure Food and Drug Act",
+      "type": "event"
+    },
+    {
+      "name": "Freon",
+      "type": "other"
+    },
+    {
+      "name": "Swanson",
+      "type": "organization"
+    },
+    {
+      "name": "General Electric",
+      "type": "organization"
+    },
+    {
+      "name": "Poultry, Butter and Egg Association",
+      "type": "organization"
+    },
+    {
+      "name": "Yakh chal",
+      "type": "other"
+    },
+    {
+      "name": "Pink House",
+      "type": "place"
+    },
+    {
+      "name": "Plum Island",
+      "type": "place"
+    },
+    {
+      "name": "Walden Pond",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:12",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck joke about the setup for the episode and introduce the topic of refrigeration.",
+      "topics": [
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:01:12",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Iced drinks and cooling preferences",
+      "summary": "The hosts discuss their preferences for iced drinks, room-temperature cocktails, and ice in martinis, and how cooling drinks was an early use of ice.",
+      "topics": [
+        "iced drinks",
+        "ice in cocktails",
+        "history of ice use"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Ancient cooling methods",
+      "summary": "Early cooling methods are covered: saltpeter baths in ancient China, evaporative cooling and swamp coolers, and damp towels in breezy windows. Evaporation's cooling effect is explained.",
+      "topics": [
+        "evaporative cooling",
+        "saltpeter cooling",
+        "swamp cooler",
+        "ancient refrigeration"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:12:05",
+      "kind": "content",
+      "title": "Underground and spring-based cold storage",
+      "summary": "Chuck describes ground temperatures a few feet down and camping cold-water storage. Josh describes spring houses and spring boxes used to keep food cold in running water.",
+      "topics": [
+        "spring house",
+        "underground cold storage",
+        "root cellar",
+        "pre-AC cooling"
+      ]
+    },
+    {
+      "start": "00:12:05",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Ice use in medicine and ancient ice",
+      "summary": "Seventeenth-century European ice houses and medical uses of ice for burns and fever are discussed, along with the Persian yakhchal and early ice use by an ancient king.",
+      "topics": [
+        "ice houses",
+        "medical ice use",
+        "yakhchal",
+        "ancient ice"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:18:50",
+      "kind": "content",
+      "title": "Frederick Tudor and the ice trade",
+      "summary": "Frederick Tudor, the Ice King, shipped New England ice abroad, including to Cuba; the ice melted at first until sawdust insulation helped. The hosts note his appearance in Thoreau's Walden.",
+      "topics": [
+        "Frederick Tudor",
+        "Ice King",
+        "ice trade",
+        "New England ice shipping",
+        "Walden"
+      ]
+    },
+    {
+      "start": "00:18:50",
+      "end": "00:19:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Diet changes and pellagra before refrigeration",
+      "summary": "Before refrigeration, Northern Americans lacked fresh food in winter and spring, causing spring sickness (pellagra) from niacin deficiency. Refrigerated shipping ended this. Pickling and canning history is briefly debated.",
+      "topics": [
+        "pellagra",
+        "spring sickness",
+        "niacin deficiency",
+        "pickling",
+        "canning history",
+        "diet history"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Early artificial cooling and vapor compression",
+      "summary": "William Cullen in 1748 demonstrated artificial cooling using diethyl ether. Jacob Perkins developed the first working refrigerator in 1834 using a vapor compression cycle. The hosts explain how refrigerators pull heat out of the interior.",
+      "topics": [
+        "William Cullen",
+        "Jacob Perkins",
+        "vapor compression cycle",
+        "how refrigerators work",
+        "diethyl ether"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:20",
+      "kind": "content",
+      "title": "Refrigerant chemicals and environmental impact",
+      "summary": "Refrigerants moved from ammonia and methyl chloride, which were toxic and caused deaths in the 1920s, to Freon in the 1930s-era synthesis, which was later found harmful to the ozone layer. Hydrofluorocarbons replaced it but have high global warming potential.",
+      "topics": [
+        "refrigerants",
+        "ammonia refrigerant",
+        "methyl chloride",
+        "Freon",
+        "ozone layer",
+        "hydrofluorocarbons",
+        "global warming potential"
+      ]
+    },
+    {
+      "start": "00:28:20",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Refrigerated railcars and the meat and produce trade",
+      "summary": "In the 1850s, railroads used ice-cooled reefer cars with fans. Meatpackers shipped dressed meat, changing Chicago and the American diet. Cattle population doubled. Refrigerated cars also brought cheaper fruit prices, with pear price examples from the New York Sun in 1894 and the Christmas orange tradition.",
+      "topics": [
+        "reefer cars",
+        "refrigerated railroad cars",
+        "meatpacking",
+        "Chicago meatpacking",
+        "produce shipping",
+        "pear prices",
+        "Christmas orange"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:35:40",
+      "kind": "content",
+      "title": "Cold chain development and Charles Tellier",
+      "summary": "Refrigerated trucks replaced rail as the main shipping method, and industries moved to cheaper areas. The cold chain developed as a system of linked refrigerated shipping. Charles Tellier outfitted a steamship in 1877 to carry beef from Uruguay to Paris, and the French resisted, passing laws against it.",
+      "topics": [
+        "cold chain",
+        "refrigerated trucks",
+        "Charles Tellier",
+        "frozen beef Uruguay Paris",
+        "trucking"
+      ]
+    },
+    {
+      "start": "00:35:40",
+      "end": "00:38:10",
+      "kind": "content",
+      "title": "Cold storage warehouses",
+      "summary": "Cold storage was needed at destinations. Sawdust-insulated cold warehouses appeared in the 1860s, and by 1904 more than six hundred facilities existed, many holding eggs for year-round sale. The breeding of laying hens is discussed.",
+      "topics": [
+        "cold storage warehouses",
+        "eggs year round",
+        "chicken breeding",
+        "red jungle fowl",
+        "Leghorn"
+      ]
+    },
+    {
+      "start": "00:38:10",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Food skepticism and the Pure Food and Drug Act",
+      "summary": "Many people distrusted frozen and stored food. A 1911 cold storage banquet in Chicago served refrigerated food to officials. The Pure Food and Drug Act of 1906 addressed fraud involving spoiled or stored meat and helped build trust in frozen food.",
+      "topics": [
+        "food safety",
+        "Pure Food and Drug Act 1906",
+        "cold storage banquet 1911",
+        "distrust of frozen food",
+        "food fraud"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:42:20",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:42:20",
+      "end": "00:46:40",
+      "kind": "content",
+      "title": "Home refrigerators and leftovers",
+      "summary": "Iceboxes were common in homes and used delivered ice. The 1914 domestic electric refrigerator was a unit placed in the icebox. GE's 1927 monitor-top refrigerator followed. Refrigeration changed leftovers, and wartime and Depression thrift campaigns encouraged eating them.",
+      "topics": [
+        "icebox",
+        "domestic electric refrigerator 1914",
+        "GE monitor top 1927",
+        "leftovers",
+        "food thrift propaganda"
+      ]
+    },
+    {
+      "start": "00:46:40",
+      "end": "00:49:30",
+      "kind": "content",
+      "title": "Iceberg lettuce and frozen foods",
+      "summary": "Iceberg lettuce got its name from being shipped on ice, and the hosts discuss their opinions of it. Frozen foods, TV dinners, and frozen orange juice concentrate became popular in the 1950s; Betty Cronin is credited with making TV dinners work.",
+      "topics": [
+        "iceberg lettuce",
+        "frozen food 1950s",
+        "TV dinners",
+        "Betty Cronin",
+        "frozen orange juice concentrate",
+        "Swanson"
+      ]
+    },
+    {
+      "start": "00:49:30",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Modern cold web",
+      "summary": "The cold chain is now called the cold web. Olivia's example describes a fish caught in Norway, processed in China, and shipped to the US.",
+      "topics": [
+        "cold web",
+        "global food supply chain",
+        "seafood shipping"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:51:09",
+      "kind": "content",
+      "title": "Show planning banter",
+      "summary": "Hosts discuss possible future topics, including gullibility, and decide to continue with listener mail.",
+      "topics": [
+        "show planning"
+      ]
+    },
+    {
+      "start": "00:51:09",
+      "end": "00:52:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: the Pink House",
+      "summary": "Amy Sandy writes about the Pink House on Plum Island, which she had heard was a spite house. A town newsletter gave a different history. She and her family attended a live show in Boston.",
+      "topics": [
+        "listener mail",
+        "Pink House",
+        "Plum Island",
+        "spite house"
+      ]
+    },
+    {
+      "start": "00:52:30",
+      "end": "00:53:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank the listener and give the show's contact information and credits.",
+      "topics": [
+        "outro",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19104,
+    "output_tokens": 4357
+  }
+}

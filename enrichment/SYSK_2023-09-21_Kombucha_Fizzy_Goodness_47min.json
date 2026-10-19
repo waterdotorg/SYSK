@@ -1,0 +1,422 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-09-21_Kombucha_Fizzy_Goodness_47min.txt",
+  "title": "Kombucha: Fizzy Goodness",
+  "date": "2023-09-21",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/kombucha-fizzy-goodness",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d2565f11-b1f4-4d7d-a6e0-b08200f1a52b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d2565f11-b1f4-4d7d-a6e0-b08200f1a52b/transcript?format=TextWithTimestamps&t=1713822993",
+  "summary": "Josh and Chuck (with Emily referenced as a regular kombucha drinker) explain kombucha: what it is (fermented sweet tea), the SCOBY and its bacteria and yeast (Komagataeibacter and Brettanomyces), and the disputed ancient origins (Qin dynasty legend, Korean doctor Kombu, Russia and Ukraine in the late nineteenth century). They cover its spread through Europe, the 1955 Italian song, the 1960s Swiss study, its 1980s revival among AIDS patients in the Northeast via Sander Katz, GT Dave and Synergy and the lawsuits against it, the market and alcohol-content regulation after a 2010 Whole Foods incident, and a step-by-step homebrewing overview with caffeine, sugar, glass, and second fermentation. They also discuss health claims (probiotics, a 2023 Georgetown blood glucose trial, polyphenols, B vitamins, acids), name some brands, and end with a listener email from Gabby about entering veterinary school.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "kombucha",
+    "kombucha history",
+    "SCOBY",
+    "fermented tea",
+    "homebrewing kombucha",
+    "kombucha origins",
+    "Russian kombucha",
+    "kombucha alcohol content",
+    "GT Dave",
+    "Synergy kombucha",
+    "kombucha lawsuits",
+    "probiotics",
+    "kombucha health benefits",
+    "Brettanomyces",
+    "kombucha market",
+    "KeVita",
+    "Kombucha Brewers International",
+    "Whole Foods kombucha 2010",
+    "kimchi",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Kombucha",
+      "type": "other"
+    },
+    {
+      "name": "SCOBY",
+      "type": "other"
+    },
+    {
+      "name": "GT Dave",
+      "type": "person"
+    },
+    {
+      "name": "Synergy",
+      "type": "organization"
+    },
+    {
+      "name": "KeVita",
+      "type": "organization"
+    },
+    {
+      "name": "Kombucha Brewers International",
+      "type": "organization"
+    },
+    {
+      "name": "Whole Foods",
+      "type": "organization"
+    },
+    {
+      "name": "Sander Katz",
+      "type": "person"
+    },
+    {
+      "name": "Act Up New York",
+      "type": "organization"
+    },
+    {
+      "name": "Oregon State University",
+      "type": "organization"
+    },
+    {
+      "name": "Georgetown University",
+      "type": "organization"
+    },
+    {
+      "name": "Victor Bout",
+      "type": "person"
+    },
+    {
+      "name": "Stu Fungo Cinese",
+      "type": "work"
+    },
+    {
+      "name": "Wild Fermentation",
+      "type": "work"
+    },
+    {
+      "name": "Health-Ade",
+      "type": "organization"
+    },
+    {
+      "name": "Brettanomyces",
+      "type": "other"
+    },
+    {
+      "name": "Kingsbury non-alcoholic beer",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:33",
+      "kind": "intro",
+      "title": "Show opening",
+      "summary": "Opening banter and an announcement that Jerry is not present for this recording.",
+      "topics": [
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:00:33",
+      "end": "00:02:10",
+      "kind": "content",
+      "title": "What kombucha is and its tart taste",
+      "summary": "The hosts introduce kombucha as a fizzy, tart, probiotic sweet-tea drink and compare its vinegary taste to other fermented foods.",
+      "topics": [
+        "kombucha",
+        "fermented tea",
+        "kombucha taste"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:16",
+      "kind": "content",
+      "title": "Making kombucha from sweet tea",
+      "summary": "Kombucha is made from sweet tea, a SCOBY, and time in a warm, dark place; it sits alongside yogurt and sauerkraut as a food where microbes are a feature.",
+      "topics": [
+        "kombucha brewing",
+        "fermented sweet tea",
+        "microbes in food"
+      ]
+    },
+    {
+      "start": "00:03:16",
+      "end": "00:06:10",
+      "kind": "content",
+      "title": "The SCOBY",
+      "summary": "A SCOBY (symbiotic colony of bacteria and yeast) is described as a gelatinous, pancake-like mass with cellulose fibrils extruded by bacteria, which are much thinner than plant cellulose and can hold a large amount of liquid.",
+      "topics": [
+        "SCOBY",
+        "bacterial cellulose",
+        "symbiotic culture",
+        "cellulose pellicle"
+      ]
+    },
+    {
+      "start": "00:06:10",
+      "end": "00:08:14",
+      "kind": "content",
+      "title": "Microbes in kombucha",
+      "summary": "The main microbes are Komagataeibacter bacteria, which form the cellulose structure, and Brettanomyces yeast, which does most of the fermenting. An Oregon State study examined 103 SCOBYs used by North American brewers.",
+      "topics": [
+        "Komagataeibacter",
+        "Brettanomyces",
+        "kombucha microbiology",
+        "Oregon State University study"
+      ]
+    },
+    {
+      "start": "00:08:14",
+      "end": "00:10:27",
+      "kind": "content",
+      "title": "Ancient origin legends and the name",
+      "summary": "Kombucha is said to date to 221 BCE in China, and a Korean doctor named Kombu is linked to the name, but these are legends. Documented history traces to Russia and Ukraine in the late nineteenth century.",
+      "topics": [
+        "kombucha origin",
+        "Qin dynasty legend",
+        "kombucha name etymology",
+        "kombu"
+      ]
+    },
+    {
+      "start": "00:10:27",
+      "end": "00:12:26",
+      "kind": "content",
+      "title": "Spread through Europe and the Swiss study",
+      "summary": "After World War One kombucha spread through Europe, including Germany and Italy, where a 1955 song called Stu Fungo Cinese was recorded. A 1960s Swiss study promoted it in the West as drinkable yogurt.",
+      "topics": [
+        "kombucha Europe spread",
+        "Stu Fungo Cinese",
+        "Swiss study 1960s",
+        "kombucha Russia"
+      ]
+    },
+    {
+      "start": "00:12:26",
+      "end": "00:15:13",
+      "kind": "content",
+      "title": "Soviet Russia and Chinese connections",
+      "summary": "Kombucha stayed popular in Soviet Russia, and prisoners brewed it. A Victor Bout case in Illinois in 2015 is mentioned. The hosts discuss a Chinese-American writer and the hong cha tradition as possible regional variants.",
+      "topics": [
+        "Soviet kombucha",
+        "Victor Bout prison brewing",
+        "hong cha",
+        "Chinese kombucha variation"
+      ]
+    },
+    {
+      "start": "00:15:13",
+      "end": "00:16:41",
+      "kind": "content",
+      "title": "1980s revival and AIDS community",
+      "summary": "Kombucha regained popularity in the 1980s in the Northeast US, especially in the AIDS community, where activist Sander Katz with ACT UP New York used it to settle his stomach while taking medication.",
+      "topics": [
+        "kombucha 1980s",
+        "AIDS community",
+        "Sander Katz",
+        "ACT UP",
+        "Wild Fermentation"
+      ]
+    },
+    {
+      "start": "00:16:41",
+      "end": "00:18:08",
+      "kind": "content",
+      "title": "Break and homebrewing revival",
+      "summary": "Brief transition after the break. Kombucha stayed popular with hobbyists, and the hosts suggest mass-produced versions may not match homemade.",
+      "topics": [
+        "homebrewing revival",
+        "kombucha hobbyists"
+      ]
+    },
+    {
+      "start": "00:18:08",
+      "end": "00:21:03",
+      "kind": "content",
+      "title": "GT Dave and Synergy",
+      "summary": "George Thomas Dave, known as GT Dave, began brewing kombucha as a teenager in the mid-1990s, and his Synergy brand became the largest. The company removed a health claim after a 2010 lawsuit about deceptive health claims.",
+      "topics": [
+        "GT Dave",
+        "Synergy kombucha",
+        "kombucha brand history",
+        "deceptive health claims lawsuit"
+      ]
+    },
+    {
+      "start": "00:21:03",
+      "end": "00:22:41",
+      "kind": "content",
+      "title": "Synergy lawsuits and the kombucha industry",
+      "summary": "Synergy faces lawsuits alleging poor and unsafe workplace conditions and hiring undocumented workers. A California judge reportedly ruled against GT Dave, and the hosts discuss brand options.",
+      "topics": [
+        "Synergy lawsuits",
+        "workplace lawsuit",
+        "GT Dave lawsuits",
+        "kombucha brands"
+      ]
+    },
+    {
+      "start": "00:22:41",
+      "end": "00:24:48",
+      "kind": "content",
+      "title": "Kombucha market and KeVita",
+      "summary": "The kombucha market is about two and a half billion dollars and is projected to grow. Pepsi bought KeVita in 2016, and Coca-Cola owns an Australian kombucha brand.",
+      "topics": [
+        "kombucha market size",
+        "KeVita",
+        "Pepsi acquisition",
+        "Coca-Cola kombucha"
+      ]
+    },
+    {
+      "start": "00:24:48",
+      "end": "00:26:25",
+      "kind": "content",
+      "title": "Alcohol content and regulation",
+      "summary": "A 2010 USDA inspector found Whole Foods kombucha fermenting and containing too much alcohol. Homebrewed kombucha can reach around 3 percent ABV, so Whole Foods pulled it above 0.5 percent. The Kombucha Brewers International trade group was formed to set standards.",
+      "topics": [
+        "kombucha alcohol content",
+        "0.5 percent ABV",
+        "Whole Foods kombucha",
+        "USDA inspector",
+        "Kombucha Brewers International"
+      ]
+    },
+    {
+      "start": "00:26:25",
+      "end": "00:28:12",
+      "kind": "content",
+      "title": "Non-alcoholic beer anecdote and break",
+      "summary": "Josh recalls buying Kingsbury non-alcoholic beer as a youth, and the hosts banter before a break.",
+      "topics": [
+        "non-alcoholic beer",
+        "Kingsbury",
+        "personal anecdote"
+      ]
+    },
+    {
+      "start": "00:28:12",
+      "end": "00:28:40",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Break between segments.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:28:40",
+      "end": "00:31:01",
+      "kind": "content",
+      "title": "Homebrewing: ingredients and starter",
+      "summary": "You need store-bought unflavored, unpasteurized kombucha as a starter along with a SCOBY. The brewing community is supportive, and a SCOBY can be bought online. Recommended ingredients include organic tea, which must be caffeinated, and cane sugar.",
+      "topics": [
+        "homebrewing kombucha",
+        "kombucha starter",
+        "SCOBY purchase",
+        "caffeine in kombucha",
+        "decaf kombucha"
+      ]
+    },
+    {
+      "start": "00:31:01",
+      "end": "00:34:47",
+      "kind": "content",
+      "title": "Brewing process and cleanliness",
+      "summary": "The jar should be covered with muslin and kept in a dark, dry place for seven to fourteen days for the first fermentation, followed by bottling and a second fermentation where CO2 and alcohol develop. Glass is recommended because acid can leach metals and lead from metal or ceramic, and hands must be washed before touching the SCOBY.",
+      "topics": [
+        "first fermentation",
+        "second fermentation",
+        "kombucha bottling",
+        "glass containers",
+        "food safety kombucha"
+      ]
+    },
+    {
+      "start": "00:34:47",
+      "end": "00:36:07",
+      "kind": "content",
+      "title": "Caring for and reusing the SCOBY",
+      "summary": "After the first fermentation, the SCOBY is removed and reused, with the younger bottom layer kept for new batches. Old SCOBYs can be composted, dried for dogs, or given to others.",
+      "topics": [
+        "SCOBY care",
+        "SCOBY reuse",
+        "composting SCOBY"
+      ]
+    },
+    {
+      "start": "00:36:07",
+      "end": "00:39:39",
+      "kind": "content",
+      "title": "Health claims and research",
+      "summary": "A 2019 review of 253 papers found no controlled human trials. Kombucha contains probiotics, and a recent Georgetown University trial found it lowered fasting blood glucose. It also has polyphenols from tea, B vitamins, and acids with antimicrobial effects shown in lab tests.",
+      "topics": [
+        "kombucha health benefits",
+        "probiotics",
+        "blood glucose Georgetown trial",
+        "polyphenols",
+        "B vitamins",
+        "antimicrobial acids"
+      ]
+    },
+    {
+      "start": "00:39:39",
+      "end": "00:42:08",
+      "kind": "content",
+      "title": "Safety and pasteurization",
+      "summary": "Unpasteurized homemade kombucha could carry unwanted bacteria, and pasteurizing kills the live culture. The hosts also discuss matcha as a possible base.",
+      "topics": [
+        "kombucha safety",
+        "pasteurization",
+        "matcha kombucha"
+      ]
+    },
+    {
+      "start": "00:42:08",
+      "end": "00:43:51",
+      "kind": "content",
+      "title": "Brand recommendations and probiotics talk",
+      "summary": "The hosts recommend brands such as Health-Ade, Lady Apple, Humm, and Big Easy Bucha, and talk about personal probiotic habits.",
+      "topics": [
+        "kombucha brands",
+        "Health-Ade",
+        "probiotic habits"
+      ]
+    },
+    {
+      "start": "00:43:51",
+      "end": "00:44:33",
+      "kind": "content",
+      "title": "Kimchi discussion",
+      "summary": "The hosts talk about kimchi, including packaged Cleveland kimchi, and suggest a future episode on the topic.",
+      "topics": [
+        "kimchi",
+        "fermented foods"
+      ]
+    },
+    {
+      "start": "00:44:33",
+      "end": "00:46:28",
+      "kind": "listener_mail",
+      "title": "Listener mail from Gabby",
+      "summary": "Gabby writes that the podcast helped her through graduate school and her move from engineering to veterinary school, citing episodes on equine veterinary history and talking to animals.",
+      "topics": [
+        "listener mail",
+        "veterinary school"
+      ]
+    },
+    {
+      "start": "00:46:28",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh invites listeners to send in emails, and the show credits iHeartRadio.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17644,
+    "output_tokens": 4814
+  }
+}

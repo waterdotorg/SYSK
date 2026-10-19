@@ -1,0 +1,248 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-06-23_How_Landfills_Work_41min.txt",
+  "title": "How Landfills Work",
+  "date": "2015-06-23",
+  "duration": "41 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-landfills-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/3f82efb1-862b-41b0-84f3-ae28008d7220/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3f82efb1-862b-41b0-84f3-ae28008d7220/transcript?format=TextWithTimestamps&t=1700543858",
+  "summary": "Josh and Chuck explain how landfills work, starting with the history from ocean dumping and open dumps to the EPA-driven rise of the sanitary \"dry tomb\" landfill after the 1960s-70s, driven by packaging waste. They cover site selection (environmental impact studies, soil and bedrock, water flow, wildlife, archaeological sites), construction (bottom liner, cells, compaction, daily cover, storm water and leachate collection, methane collection), daily operations and tipping fees at a county landfill, bioreactor landfills that add water to speed decomposition and methane output, the trend toward fewer, larger \"super landfills\" and interstate waste shipping, and a few side notes (Fresh Kills, Giants Stadium and other arenas built on landfills, Jimmy Hoffa's copper cuddle). The episode ends with a listener mail about grief and laughter, and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "landfills",
+    "sanitary landfill",
+    "dry tomb landfill",
+    "municipal solid waste",
+    "garbage dumps history",
+    "EPA landfill regulation",
+    "leachate",
+    "garbage juice",
+    "methane collection",
+    "landfill gas",
+    "landfill liner",
+    "landfill cell compaction",
+    "daily cover",
+    "storm water drainage",
+    "landfill site selection",
+    "environmental impact study",
+    "bioreactor landfill",
+    "Fresh Kills landfill",
+    "super landfills",
+    "interstate garbage shipping",
+    "tipping fee",
+    "recycling diversion rate",
+    "packaging waste",
+    "landfill closure and monitoring",
+    "stadiums built on landfills"
+  ],
+  "entities": [
+    {
+      "name": "Fresh Kills landfill",
+      "type": "place"
+    },
+    {
+      "name": "Fresno",
+      "type": "place"
+    },
+    {
+      "name": "Point Hills landfill",
+      "type": "place"
+    },
+    {
+      "name": "North Wake County Landfill",
+      "type": "place"
+    },
+    {
+      "name": "Giants Stadium",
+      "type": "place"
+    },
+    {
+      "name": "Comiskey Park",
+      "type": "place"
+    },
+    {
+      "name": "Mile High Stadium",
+      "type": "place"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Jimmy Hoffa",
+      "type": "person"
+    },
+    {
+      "name": "James Corner",
+      "type": "person"
+    },
+    {
+      "name": "Harry Carson",
+      "type": "person"
+    },
+    {
+      "name": "Henry David Thoreau",
+      "type": "person"
+    },
+    {
+      "name": "Jimmy Carter",
+      "type": "person"
+    },
+    {
+      "name": "Atlantic",
+      "type": "work"
+    },
+    {
+      "name": "New York Magazine",
+      "type": "work"
+    },
+    {
+      "name": "Slate",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and history of waste disposal",
+      "summary": "Josh and Chuck introduce the topic and discuss early trash practices: ocean dumping, open dumps and burning, and why trash volume grew after cheap packaging took off.",
+      "topics": [
+        "garbage dumps history",
+        "ocean dumping",
+        "packaging waste",
+        "municipal solid waste"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Purpose of the sanitary landfill",
+      "summary": "The landfill is designed to isolate trash from the environment and keep it dry rather than composting it. Early dumps leached into groundwater and methane caused hazards, leading to EPA-driven regulation starting with the Fresno model. Waste generation and per-capita figures by country are discussed.",
+      "topics": [
+        "sanitary landfill",
+        "dry tomb landfill",
+        "EPA landfill regulation",
+        "recycling diversion rate",
+        "methane"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Site selection and environmental impact studies",
+      "summary": "Choosing a landfill site requires an environmental impact study covering acreage, soil, bedrock, surface water flow, wildlife, and archaeological sites. Fresh Kills is cited as a poor example, built on a marsh and near groundwater.",
+      "topics": [
+        "landfill site selection",
+        "environmental impact study",
+        "leachate",
+        "Fresh Kills landfill"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Bottom liner, cells and compaction",
+      "summary": "Construction starts with a thick synthetic polyethylene liner with protective mats. Waste is placed in cells, compacted with heavy equipment, and covered daily with soil to deter rats, wind, and scavengers.",
+      "topics": [
+        "landfill liner",
+        "landfill cell compaction",
+        "daily cover"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Storm water, leachate and methane collection",
+      "summary": "Landfills are mounded to shed storm water into collection ponds, with a separate perforated-pipe system collecting leachate for treatment on site or at a municipal wastewater plant. Methane from anaerobic decomposition can be harvested as fuel, with Fresh Kills and Lincoln, Nebraska cited as examples of revenue.",
+      "topics": [
+        "storm water drainage",
+        "leachate",
+        "methane collection",
+        "landfill gas"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Capping, closure and long-term monitoring",
+      "summary": "Final caps range from soil to thinner spray-on emulsions that save airspace, then a polyethylene cap. Closed sites are planted with shallow-rooted grass and monitored for decades for groundwater temperature changes and leachate seepage.",
+      "topics": [
+        "landfill cap",
+        "landfill closure and monitoring",
+        "landfill gas"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Day-to-day operations at a county landfill",
+      "summary": "Chuck describes using a county landfill as a resident: weigh-in, separate recycling and yard waste stations, dumping, re-weighing, and a per-ton tipping fee. A Looney Tunes conveyor belt song is mentioned.",
+      "topics": [
+        "tipping fee",
+        "landfill operations",
+        "construction debris"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Bioreactor landfills",
+      "summary": "Adding water to a landfill (to about 30 percent moisture) accelerates anaerobic decomposition and methane production, shortening the time to settle and monitor. Collection systems must handle the faster gas output. Bioreactors are presented as the likely future.",
+      "topics": [
+        "bioreactor landfill",
+        "anaerobic decomposition",
+        "methane collection",
+        "leachate recirculation"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Stadiums built on landfills and fewer, bigger landfills",
+      "summary": "Several sports stadiums, including Comiskey Park, Mile High Stadium and Giants Stadium, were built on landfills, with cancer speculation among Giants players and a Jimmy Hoffa remains anecdote. The hosts then discuss the consolidation of US landfills into super landfills and interstate garbage shipping, with state capacity examples.",
+      "topics": [
+        "stadiums built on landfills",
+        "super landfills",
+        "interstate garbage shipping",
+        "landfill capacity"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Jennifer",
+      "summary": "A listener writes about her father-in-law's death, how listening to the show helped her laugh again, and how her teenage son became hooked on the podcast during a long walk.",
+      "topics": [
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:41:00",
+      "kind": "outro",
+      "title": "Closing and contact information",
+      "summary": "The hosts thank the listener and give ways to contact the show, including social media, email, and the website.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13594,
+    "output_tokens": 2795
+  }
+}

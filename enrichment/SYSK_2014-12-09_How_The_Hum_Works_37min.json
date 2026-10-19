@@ -1,0 +1,234 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-12-09_How_The_Hum_Works_37min.txt",
+  "title": "How The Hum Works",
+  "date": "2014-12-09",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-hum-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59b5a589-28cd-4a31-b92c-ae2800926929/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/59b5a589-28cd-4a31-b92c-ae2800926929/transcript?format=TextWithTimestamps&t=1700543868",
+  "summary": "Josh Clark and Chuck Bryant explore \"the Hum,\" a low-frequency droning sound that some people (roughly two percent of local populations, often in rural, Western, European-ancestry areas) say they hear, often at night and indoors, while others cannot. They cover the named hums around the world (Taos Hum, Bristol Hum, Auckland Hum, Windsor Hum), Glenn McPherson's World Hum Map and Database, David Deming's 2004 study, theories involving VLF/ELF radio waves and the US Navy TACAMO and HAARP programs, tinnitus and hyperacusis as explanations, the Windsor hum traced to the Zug Island steel plant, habituation and sensitization, the claimed link to violence (Adam Lanza, Aaron Alexis), and the Portuguese OGMA aircraft plant epilepsy and low-frequency noise health investigation. The episode closes with listener mail about a limousine cattle ranch in South Dakota.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "the Hum",
+    "Taos Hum",
+    "Windsor Hum",
+    "Zug Island",
+    "low frequency noise",
+    "VLF radio waves",
+    "ELF extremely low frequency",
+    "TACAMO",
+    "HAARP",
+    "tinnitus",
+    "hyperacusis",
+    "habituation",
+    "sensitization",
+    "World Hum Map",
+    "David Deming",
+    "Glenn McPherson",
+    "Adam Lanza",
+    "Aaron Alexis",
+    "Navy Yard shooting",
+    "OGMA Portugal epilepsy",
+    "fibro acoustic disease",
+    "mass delusion",
+    "electromagnetic sound",
+    "vocal fry",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "The Hum",
+      "type": "other"
+    },
+    {
+      "name": "Taos Hum",
+      "type": "event"
+    },
+    {
+      "name": "Windsor Hum",
+      "type": "event"
+    },
+    {
+      "name": "Zug Island",
+      "type": "place"
+    },
+    {
+      "name": "World Hum Map and Database",
+      "type": "work"
+    },
+    {
+      "name": "Glenn McPherson",
+      "type": "person"
+    },
+    {
+      "name": "David Deming",
+      "type": "person"
+    },
+    {
+      "name": "Colin Novak",
+      "type": "person"
+    },
+    {
+      "name": "TACAMO",
+      "type": "other"
+    },
+    {
+      "name": "HAARP",
+      "type": "other"
+    },
+    {
+      "name": "Steve Callaz",
+      "type": "person"
+    },
+    {
+      "name": "Adam Lanza",
+      "type": "person"
+    },
+    {
+      "name": "Aaron Alexis",
+      "type": "person"
+    },
+    {
+      "name": "Sandy Hook Elementary School",
+      "type": "place"
+    },
+    {
+      "name": "Washington Navy Yard shooting",
+      "type": "event"
+    },
+    {
+      "name": "OGMA",
+      "type": "organization"
+    },
+    {
+      "name": "Jared Keller",
+      "type": "person"
+    },
+    {
+      "name": "The X-Files",
+      "type": "work"
+    },
+    {
+      "name": "Journal of Scientific Exploration",
+      "type": "work"
+    },
+    {
+      "name": "Comet 67P",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and vocal fry",
+      "summary": "Josh and Chuck open with banter, including a flubbed show intro and a tangent on vocal fry, and note that people who hear the hum tend to focus on it more with exposure.",
+      "topics": [
+        "vocal fry",
+        "show intro banter"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "What the Hum is",
+      "summary": "The hosts define the Hum as a low-frequency drone heard by about two percent of local populations, often at night, indoors, and in rural areas. Named hums include the Auckland, Bristol and Taos hums, and it has been described since the 1800s, with modern descriptions from the 1950s to 1970s.",
+      "topics": [
+        "the Hum",
+        "low frequency rumbling",
+        "Auckland Hum",
+        "Bristol Hum",
+        "Taos Hum"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "World Hum Map and geographic concentration",
+      "summary": "The hosts discuss the hum's concentration in Western and European-ancestry countries and the World Hum Map and Database run by Glenn McPherson, which plots reports from people who fill out a questionnaire. They note the English-language bias of the database as one possible explanation.",
+      "topics": [
+        "World Hum Map",
+        "Glenn McPherson",
+        "geographic distribution of the hum"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Tinnitus, mental health and David Deming's study",
+      "summary": "A physician's view of hum sufferers' symptoms leads to two explanations, tinnitus or mental strain. David Deming, a University of Oklahoma geoscientist, wrote a 2004 study that explains these away and discusses other theories.",
+      "topics": [
+        "tinnitus",
+        "David Deming",
+        "hum symptoms",
+        "2004 study"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "VLF and ELF radio waves and electromagnetic sound",
+      "summary": "The hosts explain VLF and ELF radio frequencies and the theory that these tones drive people crazy. They discuss whether electromagnetic waves can be perceived as sound, the ESA Comet 67P clicking sound, and the debate over whether the hum is electromagnetic or acoustic.",
+      "topics": [
+        "VLF",
+        "ELF",
+        "electromagnetic sound",
+        "Comet 67P",
+        "electromagnetic vs acoustic"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Windsor hum, Zug Island, and Taos investigation",
+      "summary": "Canadian researcher Colin Novak spent a year studying the Windsor Hum and traced it to a steel plant on Zug Island in Michigan, which was reportedly curtailed. The Taos Hum prompted investigation by the University of New Mexico and Sandia Labs. The hosts mention the X-Files episode Drive.",
+      "topics": [
+        "Windsor Hum",
+        "Zug Island",
+        "Colin Novak",
+        "Taos Hum investigation",
+        "Sandia Labs",
+        "X-Files"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Age, hearing and government programs",
+      "summary": "The hosts discuss age-related hearing loss, with low-frequency hearing being relatively preserved around age fifty, and the theory that some people are more sensitive to low frequencies. They cover US military programs HAARP and TACAMO, and Deming's view that TACAMO may be a source, along with the tinfoil hat idea.",
+      "topics": [
+        "age and low-frequency hearing",
+        "HAARP",
+        "TACAMO",
+        "tinfoil hat",
+        "government conspiracy theories"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "ad",
+      "title": "Habituation and sensitization",
+      "summary": "Chuck describes his night job with buzzing fluorescent lights to explain habituation, and the hosts explain sensitization as a possible reason hum sufferers cannot tune out the sound.",
+      "topics": [
+        "habituation",
+        "sensitization",
+        "hearing and attention"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12323,
+    "output_tokens": 2544
+  }
+}

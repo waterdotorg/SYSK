@@ -1,0 +1,227 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-08-28_How_Blimps_Work_46min.txt",
+  "title": "How Blimps Work",
+  "date": "2014-08-28",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-blimps-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8bcf45e3-36c1-4eb5-836b-ae280094d9a8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8bcf45e3-36c1-4eb5-836b-ae280094d9a8/transcript?format=TextWithTimestamps&t=1700543876",
+  "summary": "Josh and Chuck explain how blimps work, starting with the history of lighter-than-air craft: the Montgolfier hot air balloons, Henri Giffard's 1852 powered airship, and Zeppelin rigid airships. They cover the 1937 Hindenburg disaster at Lakehurst, New Jersey, its survivors, and the likely cause. They then describe the military use of blimps, Goodyear's blimp fleet, and the blimp anatomy: envelope, balloonets, suspension cables, gondola, control surfaces, and turbo-prop engines. They explain buoyancy and flight control, the helium shortage tied to the federal helium reserve, and the future of cargo airships. The episode closes with a listener mail story about a child of a heroin-addicted mother, responding to an earlier episode on sterilizing addicts.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "blimps",
+    "how blimps work",
+    "airships",
+    "dirigibles",
+    "Zeppelin",
+    "rigid airship",
+    "non-rigid airship",
+    "Hindenburg disaster",
+    "Hindenburg crash 1937",
+    "Lakehurst Naval Air Station",
+    "hydrogen airship fire",
+    "Goodyear blimp",
+    "helium shortage",
+    "helium reserve",
+    "balloonets",
+    "buoyancy",
+    "airship envelope",
+    "gondola",
+    "hot air balloon history",
+    "Montgolfier brothers",
+    "Henri Giffard airship",
+    "military blimps",
+    "cargo airships",
+    "Lockheed Martin P-791",
+    "sterilizing addicts listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Hindenburg",
+      "type": "event"
+    },
+    {
+      "name": "Goodyear",
+      "type": "organization"
+    },
+    {
+      "name": "Zeppelin",
+      "type": "person"
+    },
+    {
+      "name": "Lakehurst, New Jersey",
+      "type": "place"
+    },
+    {
+      "name": "Montgolfier brothers",
+      "type": "person"
+    },
+    {
+      "name": "Henri Giffard",
+      "type": "person"
+    },
+    {
+      "name": "Lockheed Martin",
+      "type": "organization"
+    },
+    {
+      "name": "Worldwide Aeroscorp",
+      "type": "organization"
+    },
+    {
+      "name": "i LC Dover Corporation",
+      "type": "organization"
+    },
+    {
+      "name": "Bureau of Land Management",
+      "type": "organization"
+    },
+    {
+      "name": "Department of Defense",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and blimp terminology",
+      "summary": "Josh and Chuck introduce the episode and sort out the names for lighter-than-air craft: blimp, dirigible, Zeppelin, airship. Rigid, semi-rigid, and non-rigid are distinguished, and they briefly compare hot air balloons with steerable airships.",
+      "topics": [
+        "blimp terminology",
+        "airship vs dirigible",
+        "rigid vs non-rigid airship"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Early history of airships",
+      "summary": "The Montgolfier brothers' hot air balloons and de Rozier's manned flight are covered. Henri Giffard's 1852 steam-powered, steerable airship is described, followed by Count Ferdinand von Zeppelin's rigid airships from 1900. The episode also covers the Led Zeppelin name.",
+      "topics": [
+        "Montgolfier brothers",
+        "hot air balloon history",
+        "Henri Giffard airship",
+        "Zeppelin rigid airships",
+        "early airship history"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Commercial airship era and the Hindenburg flight",
+      "summary": "Airships carried passengers in the early twentieth century, with more than two thousand flights. The Hindenburg was a luxury airship and the pride of Nazi Germany. The hosts describe its May 1937 departure from Frankfurt, the Atlantic crossing, and arrival at Lakehurst, New Jersey, about twelve hours late.",
+      "topics": [
+        "Hindenburg",
+        "passenger airship travel",
+        "transatlantic airship",
+        "Lakehurst Naval Air Station"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Hindenburg fire and survivors",
+      "summary": "The hosts describe the hydrogen-fueled fire during landing at Lakehurst, witness accounts of the flames, and survival by location in the ship. Of 97 people aboard, 62 survived. Two survivors are still alive. Testimony and early theories are covered.",
+      "topics": [
+        "Hindenburg fire",
+        "hydrogen flammability",
+        "Hindenburg survivors",
+        "Hindenburg casualties"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Likely cause of the Hindenburg disaster",
+      "summary": "A 2013 study is described that tested scale models and suggested static electricity from storm weather electrified the envelope. When ground crew grabbed the cables, a spark ignited a hydrogen leak. The hosts note that the fabric was not painted with a flammable coating.",
+      "topics": [
+        "Hindenburg cause",
+        "static electricity",
+        "Hindenburg sabotage theory",
+        "hydrogen leak"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Military blimps and Goodyear's blimp fleet",
+      "summary": "After the Hindenburg, commercial airship travel declined. The US Navy used blimps as aerial carriers that could launch and retrieve light planes, and it had a planned landing-strip concept that was scrapped. Goodyear built a blimp fleet that became known for aerial sports coverage and appeared in the film Black Sunday.",
+      "topics": [
+        "military blimps",
+        "Goodyear blimp",
+        "aerial sports coverage",
+        "Black Sunday film",
+        "US Navy airships"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A sponsor break separates the history from the explanation of how blimps work.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Blimp anatomy",
+      "summary": "The hosts go through the parts of a blimp: the envelope made of neoprene and polyester with helium, low internal pressure, nose cone battens, mooring hook, balloonets for trim, suspension cables, and the gondola. They also describe the rudders, elevators, boost tab, and the wheel and pedal controls.",
+      "topics": [
+        "airship envelope",
+        "balloonets",
+        "suspension cables",
+        "control surfaces",
+        "rudder and elevators",
+        "gondola"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Engines, fuel, maintenance, and flight",
+      "summary": "The hosts discuss the turbo-prop engines, air scoops that use prop wash to fill the balloonets, speeds, fuel use, and avgas. They explain buoyancy: helium's lift, positive and neutral buoyancy, and how filling or emptying the balloonets controls ascent and descent. Ground crew support and weather limits are also covered.",
+      "topics": [
+        "turbo-prop engines",
+        "buoyancy",
+        "neutral buoyancy",
+        "prop wash",
+        "blimp fuel efficiency",
+        "blimp ground crew"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Helium shortage and the future of airships",
+      "summary": "The hosts discuss the federal helium reserve in Texas, its sale by the Bureau of Land Management, and resulting shortages. They then cover the future of airships, including military and cargo designs such as the Lockheed Martin P-791 and the Dragon Dream. They describe the Dragon Dream hangar collapse and the scrapped Department of Defense program.",
+      "topics": [
+        "helium shortage",
+        "helium reserve",
+        "future of airships",
+        "cargo airships",
+        "Lockheed Martin P-791",
+        "Dragon Dream airship"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15399,
+    "output_tokens": 2835
+  }
+}

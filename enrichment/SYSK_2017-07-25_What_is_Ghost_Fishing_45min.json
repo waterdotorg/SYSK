@@ -1,0 +1,258 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-25_What_is_Ghost_Fishing_45min.txt",
+  "title": "What is Ghost Fishing?",
+  "date": "2017-07-25",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/what-is-ghost-fishing",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/278691cb-04e7-4ffd-ae9f-ae2800742a0f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/278691cb-04e7-4ffd-ae9f-ae2800742a0f/transcript?format=TextWithTimestamps&t=1700543801",
+  "summary": "Josh and Chuck explain ghost fishing, the problem of abandoned, lost, or discarded fishing gear (ALDFG) that keeps trapping and killing marine animals for centuries. They cover the scale of the problem (nets, traps, tons of gear per year), how animals die (entanglement, drowning, starvation, towing), why gear gets lost (storms, enforcement or spatial pressure, economic cost of port disposal), a global tour of hotspots (Northeast Atlantic, Washington State, Gulf of St. Lawrence, Arabian Sea, Gulf of Mexico/Louisiana), and efforts to fix it (Global Ghost Gear Initiative, port recycling stations, Fishing for Energy, Bureo skateboards, diver cleanup groups, biodegradable six pack rings). The episode ends with a listener mail segment about T-shirt slogan picks.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "ghost fishing",
+    "abandoned, lost or discarded fishing gear",
+    "ALDFG",
+    "ghost nets",
+    "marine debris",
+    "marine animal entanglement",
+    "sea turtles",
+    "whales",
+    "seal pups",
+    "synthetic fishing nets",
+    "plastic pollution in oceans",
+    "commercial fishing gear",
+    "crab pots and traps",
+    "bycatch",
+    "port reception facilities",
+    "economic pressure fishing",
+    "Global Ghost Gear Initiative",
+    "Fishing for Energy",
+    "Bureo skateboards",
+    "recycling fishing nets",
+    "biodegradable six pack rings",
+    "Northern Prawn Fishery",
+    "tragedy of the commons",
+    "ocean conservation",
+    "MARPOL convention",
+    "listener mail",
+    "T-shirt slogans"
+  ],
+  "entities": [
+    {
+      "name": "Ghost fishing",
+      "type": "event"
+    },
+    {
+      "name": "Global Ghost Gear Initiative",
+      "type": "organization"
+    },
+    {
+      "name": "World Animal Protection",
+      "type": "organization"
+    },
+    {
+      "name": "UNEP",
+      "type": "organization"
+    },
+    {
+      "name": "Food and Agriculture Organization of the United Nations",
+      "type": "organization"
+    },
+    {
+      "name": "Fishing for Energy",
+      "type": "organization"
+    },
+    {
+      "name": "Covanta Energy",
+      "type": "organization"
+    },
+    {
+      "name": "Schnitzer Steel",
+      "type": "organization"
+    },
+    {
+      "name": "Bureo",
+      "type": "organization"
+    },
+    {
+      "name": "Northern Prawn Fishery",
+      "type": "organization"
+    },
+    {
+      "name": "Ghost Nets Australia",
+      "type": "organization"
+    },
+    {
+      "name": "Saltwater Brewery",
+      "type": "organization"
+    },
+    {
+      "name": "Great Pacific garbage patch",
+      "type": "place"
+    },
+    {
+      "name": "Washington State",
+      "type": "place"
+    },
+    {
+      "name": "Gulf of St. Lawrence",
+      "type": "place"
+    },
+    {
+      "name": "Arabian Sea",
+      "type": "place"
+    },
+    {
+      "name": "Guadeloupe",
+      "type": "place"
+    },
+    {
+      "name": "Louisiana",
+      "type": "place"
+    },
+    {
+      "name": "Netherlands",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and tour announcement",
+      "summary": "Hosts plug 2017 tour dates, banter about tea and a Tazo flavor, and note that a middle school class emailed the idea for an episode on ghost fishing.",
+      "topics": [
+        "tour dates",
+        "show intro",
+        "middle school listener suggestion"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Defining ghost fishing and its scale",
+      "summary": "Ghost fishing is defined as abandoned, lost or discarded fishing gear (ALDFG), mostly commercial gear. Stats are given: roughly 1,250 km of nets lost yearly in one northeast Atlantic fishery, 640,000 tons of gear left in oceans each year per UNEP and FAO, and 870 ghost nets with over 32,000 marine animals recovered in part of Washington State.",
+      "topics": [
+        "ghost fishing definition",
+        "ALDFG",
+        "ghost nets statistics",
+        "ocean debris scale"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Synthetic nets and long-lasting plastic gear",
+      "summary": "Older nets were cotton or hemp and biodegraded. Modern synthetic plastic nets can persist for hundreds of years and break into pieces that animals eat. Economic loss example: one lost net can kill about twenty dollars of Dungeness crab over ten years. Also covers the hosts' reflection on catastrophe fatigue and personal choice in activism.",
+      "topics": [
+        "synthetic fishing nets",
+        "plastic persistence",
+        "microplastics in food chain",
+        "Dungeness crab losses",
+        "activism and catastrophe fatigue"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "How animals die in ghost gear",
+      "summary": "Turtles and seal pups get trapped in loops and grow around plastic rings, leading to stunted growth. Marine mammals drown, starve, or are impaired in locomotion. Whales can tow nets and the trapped carcasses for long periods before drowning.",
+      "topics": [
+        "sea turtle entanglement",
+        "seal entanglement",
+        "whale entanglement",
+        "drowning",
+        "starvation from entanglement",
+        "towing nets"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Why gear gets lost: causes and pressures",
+      "summary": "Most ghost gear is accidentally lost, often from storms. Some is abandoned due to enforcement pressure, spatial conflicts such as boats running over nets, or economic pressure, since disposal at port can cost money. Packing bands and other trash are dumped in violation of a MARPOL-type convention. Lack of port disposal facilities is a major indirect cause. Fishers are slow to adopt new gear.",
+      "topics": [
+        "causes of ghost gear",
+        "storm losses",
+        "enforcement pressure",
+        "spatial pressure",
+        "economic pressure",
+        "port disposal",
+        "MARPOL",
+        "packing bands",
+        "tragedy of the commons",
+        "industry reluctance"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Global hotspots tour",
+      "summary": "A tour of ghost gear problems: northeast Atlantic nets, Washington State nets, Gulf of St. Lawrence snow crab traps (about 800 lost a year), Arabian Sea traps (about 260,000 per year around 2002, with the UAE requiring biodegradable panels), Guadeloupe losing about half its traps in hurricane season, and Louisiana losing four to ten million blue crabs in traps.",
+      "topics": [
+        "Northeast Atlantic",
+        "Gulf of St. Lawrence snow crab",
+        "Arabian Sea traps",
+        "United Arab Emirates regulation",
+        "Guadeloupe",
+        "Louisiana blue crab traps",
+        "hurricane season losses"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Solutions: cleanup, recycling, and new products",
+      "summary": "Global Ghost Gear Initiative and World Animal Protection focus first on data and policy. Washington State pilot cleanup recovered 481 lost gill nets around 2007. Fishing for Energy recycling outposts in eleven states turn gear into energy, Bureo makes skateboards from bought nets, a diver group cleans wrecks and frees seal pups, Ghost Nets Australia works with indigenous groups, Northern Prawn Fishery reports sightings, and Saltwater Brewery debuted an edible biodegradable six pack ring.",
+      "topics": [
+        "Global Ghost Gear Initiative",
+        "gear recycling",
+        "Fishing for Energy",
+        "Bureo skateboards",
+        "diver cleanups",
+        "Ghost Nets Australia",
+        "Northern Prawn Fishery",
+        "biodegradable six pack ring",
+        "edible six pack ring",
+        "economic incentives for returning gear"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:43:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: T-shirt slogan picks",
+      "summary": "A listener named Steve from Grand Rapids, Michigan asks each host to pick a favorite T-shirt slogan from a list of twelve. Josh picks Master of Enjama, Chuck picks Mystery is weird, and Jerry likes Find your own butter. Hosts give contact info for sending mail.",
+      "topics": [
+        "listener mail",
+        "T-shirt slogans",
+        "show contact information"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:45:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks and contact information for the show, including social media and the website.",
+      "topics": [
+        "sign-off",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14295,
+    "output_tokens": 3115
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-06-09_Smile_49min.txt",
+  "title": "Smile",
+  "date": "2026-06-09",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/smile",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a69ce7b4-f339-4ba7-9a26-b46400f145f9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a69ce7b4-f339-4ba7-9a26-b46400f145f9/transcript?format=TextWithTimestamps&t=1781016316",
+  "summary": "Josh and Chuck discuss smiling: the facial muscles involved (zygomaticus major, orbicularis oculi), the Duchenne smile (AU6 plus AU12) and Guillaume Duchenne's electrical facial stimulation experiments, whether fake smiles can be detected by the eyes, primate and chimpanzee bared-teeth displays, infant smiling and social smiling, blind infants and congenitally blind athletes, cross-cultural interpretation of facial expressions (Paul Ekman's universal expressions), smiling in portraits and yearbooks and photography history, Ekman's categories of smiles (miserable, embarrassment, reward, dominant, affiliative, coordination, uncanny), whether smiling makes you happy (pen-in-mouth studies, Korb electrical study, DBT half smile), and a listener mail correction about the Red Baron's death. The episode includes live-show plugs and a sponsor-style promo at the start.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "smiling",
+    "smile science",
+    "facial muscles",
+    "zygomaticus major",
+    "orbicularis oculi",
+    "Duchenne smile",
+    "Guillaume Duchenne",
+    "facial action coding system",
+    "fake smile",
+    "primate smiling",
+    "chimpanzee bared teeth",
+    "infant smiling",
+    "social smiling",
+    "blind infants smiling",
+    "Paul Ekman",
+    "universal facial expressions",
+    "cross-cultural facial expressions",
+    "smiling in portrait painting",
+    "yearbook photos smiling history",
+    "types of smiles",
+    "miserable smile",
+    "embarrassment smile",
+    "uncanny smile",
+    "does smiling make you happy",
+    "facial feedback hypothesis",
+    "pen in mouth study",
+    "dialectical behavior therapy half smile",
+    "emotional labor service workers",
+    "listener mail",
+    "Red Baron correction"
+  ],
+  "entities": [
+    {
+      "name": "Guillaume Duchenne",
+      "type": "person"
+    },
+    {
+      "name": "Paul Ekman",
+      "type": "person"
+    },
+    {
+      "name": "Colin Jones",
+      "type": "person"
+    },
+    {
+      "name": "Robert Crouter",
+      "type": "person"
+    },
+    {
+      "name": "Sebastian Korb",
+      "type": "person"
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Melanie Lynskey",
+      "type": "person"
+    },
+    {
+      "name": "Franz Hals",
+      "type": "work"
+    },
+    {
+      "name": "The Laughing Cavalier",
+      "type": "work"
+    },
+    {
+      "name": "Fargo",
+      "type": "work"
+    },
+    {
+      "name": "I Don't Feel at Home in This World Anymore",
+      "type": "work"
+    },
+    {
+      "name": "Charlie's Angels",
+      "type": "work"
+    },
+    {
+      "name": "Manfred von Richthofen",
+      "type": "person"
+    },
+    {
+      "name": "Eddie Rickenbacker",
+      "type": "person"
+    },
+    {
+      "name": "Frozen Poop Knife",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Intro and live show plug",
+      "summary": "Hosts plug their Virgin Voyages cruise live show to Bermuda and introduce the topic of smiling.",
+      "topics": [
+        "live show",
+        "Virgin Voyages",
+        "smiling introduction"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:05",
+      "kind": "content",
+      "title": "Smiling muscles and the frown myth",
+      "summary": "Smiling is muscle movement; facial muscles are fast twitch fibers; the claim that frowning takes more muscles than smiling is not verified; dentist websites repeat it.",
+      "topics": [
+        "facial muscles",
+        "fast twitch muscles",
+        "frown vs smile muscles myth"
+      ]
+    },
+    {
+      "start": "00:05:05",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Facial action coding system and Duchenne smile",
+      "summary": "Facial action coding system names muscle movements; AU12 (zygomaticus major) is in all smiles; AU6 (orbicularis oculi) involves the eyes; together they form the Duchenne smile.",
+      "topics": [
+        "facial action coding system",
+        "AU12",
+        "AU6",
+        "Duchenne smile",
+        "zygomaticus major"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Guillaume Duchenne and fake smiles",
+      "summary": "Duchenne used electrical stimulation on faces and photographed results; he claimed eyes reveal genuine smiles, but that is probably not true, and people can voluntarily produce eye smiles, though debated.",
+      "topics": [
+        "Guillaume Duchenne",
+        "electrical stimulation facial muscles",
+        "fake smile detection",
+        "eye smile"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:28",
+      "kind": "content",
+      "title": "Primate smiling and submission",
+      "summary": "Primates are more facially expressive than humans; bared-teeth displays in chimpanzees signal submission, which carries over into human smiling for appeasement.",
+      "topics": [
+        "primate facial expressions",
+        "chimpanzee bared teeth",
+        "smiling as submission",
+        "appeasement"
+      ]
+    },
+    {
+      "start": "00:13:28",
+      "end": "00:15:10",
+      "kind": "content",
+      "title": "Bowling smile study and infant smiling",
+      "summary": "A 1979 bowling study found people smiled more while talking than after strikes. Newborns smile randomly, social smiling starts around six to twelve weeks, and infants time smiles to get caretaker attention.",
+      "topics": [
+        "1979 bowling smile study",
+        "newborn smiling",
+        "social smiling",
+        "infant smiling"
+      ]
+    },
+    {
+      "start": "00:15:10",
+      "end": "00:16:40",
+      "kind": "content",
+      "title": "Prenatal carrot and kale study",
+      "summary": "A 2022 Journal of Psychological Science study gave pregnant women carrot or kale pills; babies smiled after carrot and grimaced after kale.",
+      "topics": [
+        "prenatal diet study",
+        "carrot pills baby smiles",
+        "kale baby grimace"
+      ]
+    },
+    {
+      "start": "00:16:40",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Congenitally blind infants and athletes",
+      "summary": "Blind infants smile in response to voices like sighted babies; blind Paralympic athletes from 23 cultures show similar spontaneous expressions; children masked disappointment with smiles similarly regardless of sight. A tangent about an actress follows.",
+      "topics": [
+        "congenitally blind smiling",
+        "Paralympic athletes expressions",
+        "innate vs imitative smiling"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:10",
+      "kind": "content",
+      "title": "Ekman's universal expressions",
+      "summary": "Paul Ekman's 1960s studies proposed universal facial expressions (anger, disgust, enjoyment, fear, sadness, surprise, later contempt); critics note multiple-choice method flaws, but subsequent research largely finds agreement on meanings.",
+      "topics": [
+        "Paul Ekman",
+        "universal facial expressions",
+        "cross-cultural emotion recognition",
+        "contempt expression"
+      ]
+    },
+    {
+      "start": "00:21:10",
+      "end": "00:24:10",
+      "kind": "content",
+      "title": "Cultural differences in smiling",
+      "summary": "Smiling is more common in immigrant countries like the US and Brazil; East Asian emoticons use eyes; a 2015 study across 44 cultures found smiles associated with intelligence in some countries and lower intelligence in others.",
+      "topics": [
+        "cultural smiling differences",
+        "emoticons East Asia",
+        "smile and intelligence perception",
+        "2015 forty-four cultures study"
+      ]
+    },
+    {
+      "start": "00:24:10",
+      "end": "00:24:40",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:24:40",
+      "end": "00:28:40",
+      "kind": "content",
+      "title": "History of smiling in portraits and photography",
+      "summary": "Portrait painting's serious faces, etiquette manuals discouraging showing teeth, the Laughing Cavalier, smiles as signs of immaturity or insanity in European art, and the rise of smiling in US photographs after the 1930s via camera advertising.",
+      "topics": [
+        "history of smiling",
+        "portrait painting",
+        "etiquette teeth",
+        "Laughing Cavalier",
+        "smile photography history"
+      ]
+    },
+    {
+      "start": "00:28:40",
+      "end": "00:30:05",
+      "kind": "content",
+      "title": "Yearbook photos and smiling",
+      "summary": "Yearbook smiles took time to catch on; by the 1930s smiling became common, and by the 1950s yearbook photos were smiling.",
+      "topics": [
+        "yearbook smiles",
+        "smiling photos history"
+      ]
+    },
+    {
+      "start": "00:30:05",
+      "end": "00:34:35",
+      "kind": "content",
+      "title": "Ekman's types of smiles",
+      "summary": "Ekman identified smile types. Real enjoyment smiles involve eye cover fold; hosts discuss reward, affiliative, dominant, miserable, and embarrassment smiles.",
+      "topics": [
+        "types of smiles",
+        "Ekman smile categories",
+        "miserable smile",
+        "embarrassment smile",
+        "dominant smile",
+        "reward smile"
+      ]
+    },
+    {
+      "start": "00:34:35",
+      "end": "00:36:40",
+      "kind": "content",
+      "title": "Coordination smile and movie tangents",
+      "summary": "Coordination smile exemplified by William H. Macy in Fargo; tangents on movie length and other films.",
+      "topics": [
+        "coordination smile",
+        "Fargo",
+        "movie length"
+      ]
+    },
+    {
+      "start": "00:36:40",
+      "end": "00:38:05",
+      "kind": "content",
+      "title": "Uncanny smile",
+      "summary": "Uncanny smile in horror films such as Jack Nicholson in The Shining, Insidious; the eyes and mouth mismatch is unsettling, though little science exists.",
+      "topics": [
+        "uncanny smile",
+        "horror movie smiles",
+        "The Shining"
+      ]
+    },
+    {
+      "start": "00:38:05",
+      "end": "00:42:40",
+      "kind": "content",
+      "title": "Does smiling make you happy?",
+      "summary": "Darwin linked facial expression to feelings; the 1988 pen-in-mouth study with cartoons; a 2024 Korb study using electrical stimulation; critics note reliance on self-report; DBT half smile technique.",
+      "topics": [
+        "does smiling make you happy",
+        "facial feedback hypothesis",
+        "pen in mouth study",
+        "Sebastian Korb",
+        "half smile DBT"
+      ]
+    },
+    {
+      "start": "00:42:40",
+      "end": "00:43:40",
+      "kind": "content",
+      "title": "Service workers and surface acting",
+      "summary": "Service employees who must fake smiles may drink more heavily, a claim social psychologists treat cautiously.",
+      "topics": [
+        "emotional labor",
+        "surface acting",
+        "service workers drinking"
+      ]
+    },
+    {
+      "start": "00:43:40",
+      "end": "00:48:10",
+      "kind": "listener_mail",
+      "title": "Listener mail and Red Baron correction",
+      "summary": "A listener notes a live show in Ottawa and Canadian tour dates; a correction says the Red Baron was likely killed by Australian ground fire rather than Eddie Rickenbacker, and Rickenbacker did not see combat until the month he died.",
+      "topics": [
+        "listener mail",
+        "Red Baron",
+        "Manfred von Richthofen",
+        "Eddie Rickenbacker",
+        "World War One aces correction"
+      ]
+    },
+    {
+      "start": "00:48:10",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and iHeartRadio production note.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20172,
+    "output_tokens": 3962
+  }
+}

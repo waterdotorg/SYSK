@@ -1,0 +1,302 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-10-05_How_Giraffes_Work_54min.txt",
+  "title": "How Giraffes Work",
+  "date": "2017-10-05",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-giraffes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a876c0e5-5c80-4de3-80dc-ae28007034d4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a876c0e5-5c80-4de3-80dc-ae28007034d4/transcript?format=TextWithTimestamps&t=1700543791",
+  "summary": "Josh and Chuck explain giraffes, prompted by a request from six-year-old Mika after a Vancouver live show. They cover the history of the \"camel leopard\" name and Darwin's neck theory, giraffe taxonomy (Giraffa camelopardalis, okapi as close relative, the 2016 four-species study and its caveats), the giraffe's tall anatomy (vertebrae, recurrent laryngeal nerve, heart pressure, compression-sock hide), tongue, eyes and senses, coat patterns and camouflage, the white giraffes in Kenya, habitat, predators and running, social \"towers,\" sleep, vocalizations, oxpecker symbiosis, male necking and ossicones, calving and calf survival, grief in mothers, diet and rumination, ecological role, conservation decline, and World Giraffe Day. The episode closes with listener mail thanks.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "giraffes",
+    "giraffe biology",
+    "giraffe neck",
+    "camel leopard",
+    "Darwin giraffe neck theory",
+    "Lamarck giraffe",
+    "giraffe taxonomy",
+    "okapi",
+    "giraffe species debate",
+    "giraffe heart blood pressure",
+    "recurrent laryngeal nerve",
+    "giraffe coat patterns",
+    "giraffe camouflage",
+    "giraffe towers social groups",
+    "giraffe sleep",
+    "giraffe calves survival",
+    "giraffe diet ruminant",
+    "oxpecker symbiosis",
+    "giraffe conservation decline",
+    "World Giraffe Day",
+    "giraffe running",
+    "ossicones",
+    "white giraffes Kenya",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Giraffa camelopardalis",
+      "type": "other"
+    },
+    {
+      "name": "Mika",
+      "type": "person"
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Jean-Baptiste Lamarck",
+      "type": "person"
+    },
+    {
+      "name": "Okapi",
+      "type": "other"
+    },
+    {
+      "name": "Giraffe Conservation Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Current Biology",
+      "type": "work"
+    },
+    {
+      "name": "Giraffe Manor",
+      "type": "place"
+    },
+    {
+      "name": "Nairobi",
+      "type": "place"
+    },
+    {
+      "name": "San Diego Zoo",
+      "type": "place"
+    },
+    {
+      "name": "Kenya",
+      "type": "place"
+    },
+    {
+      "name": "Uganda",
+      "type": "place"
+    },
+    {
+      "name": "World Giraffe Day",
+      "type": "event"
+    },
+    {
+      "name": "Oxpecker",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening and Mika's request",
+      "summary": "Josh and Chuck introduce the episode as a special Animal Edition requested by six-year-old Mika at a Vancouver live show, and joke about children and giraffes.",
+      "topics": [
+        "Mika request",
+        "Vancouver live show",
+        "giraffes for kids"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Camel leopards and Darwin's neck theory",
+      "summary": "The hosts describe the old name 'camel leopard' and the scientific name Giraffa camelopardalis. They discuss Darwin's drought-and-famine idea for the giraffe's neck, the criticism that giraffes still feed at the same level as other animals, and Lamarck's stretching-antelope idea.",
+      "topics": [
+        "camel leopard",
+        "Darwin giraffe neck theory",
+        "natural selection giraffe",
+        "Lamarck giraffe",
+        "giraffe evolution"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Classification and species debate",
+      "summary": "The hosts cover the giraffe's classification as an even-toed ungulate, the giraffid family with the giraffe and okapi genera, and the okapi's split about eleven million years ago. They discuss the 2016 study proposing four giraffe species and note that the classification is not yet settled.",
+      "topics": [
+        "giraffe taxonomy",
+        "okapi",
+        "giraffe species",
+        "2016 giraffe study",
+        "Giraffe Conservation Foundation"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the anatomy discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Giraffe height, neck vertebrae and nerves",
+      "summary": "The hosts explain that giraffes have the same seven cervical vertebrae as other mammals, each about eleven inches long, and six-foot legs. They cover the fifteen-foot recurrent laryngeal nerve as an example of an evolutionary workaround, plus the sizes of males and females.",
+      "topics": [
+        "giraffe neck",
+        "cervical vertebrae",
+        "recurrent laryngeal nerve",
+        "giraffe size",
+        "giraffe anatomy"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Tongue, heart and circulation adaptations",
+      "summary": "The hosts describe the giraffe's long prehensile tongue, large feet, and a heart about two feet long and around twenty-five pounds with thick walls that pump at high pressure. They explain that the tight hide acts like a compression sock to keep blood from pooling in the legs.",
+      "topics": [
+        "giraffe heart",
+        "giraffe blood pressure",
+        "giraffe tongue",
+        "giraffe circulation",
+        "compression hide"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Coat patterns, camouflage and habitat",
+      "summary": "The hosts discuss how each giraffe's coat pattern is unique, varying by region (Masai, Uganda, reticulated), and how camouflage helps them hide among trees. They mention the all-white giraffes in Kenya, which are not albino but have lucism, and describe their savanna habitat.",
+      "topics": [
+        "giraffe coat patterns",
+        "giraffe camouflage",
+        "white giraffes Kenya",
+        "lucism",
+        "savanna habitat"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Vision, predators and running",
+      "summary": "The hosts describe giraffes' large eyes, peripheral vision and color vision, their vulnerability to lions and other predators, and their ability to run fast in short bursts. They discuss the graceful gallop-like running they have seen at zoos.",
+      "topics": [
+        "giraffe vision",
+        "giraffe predators",
+        "giraffe running speed",
+        "giraffe gait"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Towers, sleep, voice and oxpeckers",
+      "summary": "The hosts explain that a group of giraffes is called a tower, with loose and mixed membership and no territories. They cover short sleep periods, quiet vocalizations and possible low-frequency humming, snorting as an alarm, and the oxpecker relationship that warns giraffes of lions.",
+      "topics": [
+        "giraffe towers",
+        "giraffe social behavior",
+        "giraffe sleep",
+        "giraffe vocalization",
+        "oxpecker symbiosis"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:03:00",
+      "kind": "content",
+      "title": "Necking, ossicones and calving",
+      "summary": "The hosts describe male combat over access to females, the ossicones and calcium deposits, young males imitating adults, and the fourteen-month gestation and dramatic birth. They also note how quickly calves stand and walk.",
+      "topics": [
+        "giraffe necking",
+        "ossicones",
+        "giraffe gestation",
+        "giraffe birth",
+        "calf walking"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:10:00",
+      "kind": "content",
+      "title": "Calf survival, maternal behavior and grief",
+      "summary": "The hosts explain that only about one in four infant giraffes survive the first year. They describe how mothers leave calves hidden for long periods, and a documented case of a mother grieving a lost calf for four days.",
+      "topics": [
+        "giraffe calf mortality",
+        "maternal behavior giraffe",
+        "giraffe grief",
+        "giraffe nursing"
+      ]
+    },
+    {
+      "start": "01:10:00",
+      "end": "01:17:00",
+      "kind": "content",
+      "title": "Diet, rumination and water",
+      "summary": "The hosts cover the giraffe's herbivorous diet of acacia and mimosa leaves, its prehensile lips and tongue for avoiding thorns, the amount of foliage eaten, and rumination with four stomach chambers. They also mention that giraffes can go weeks without drinking water.",
+      "topics": [
+        "giraffe diet",
+        "acacia leaves",
+        "rumination giraffe",
+        "giraffe water intake",
+        "prehensile lips"
+      ]
+    },
+    {
+      "start": "01:17:00",
+      "end": "01:22:00",
+      "kind": "content",
+      "title": "Ecological role and conservation",
+      "summary": "The hosts describe giraffes' role in pruning trees and spreading seeds. They discuss population decline from about 140,000 to about 80,000 over fifteen years, mostly from poaching and habitat loss, plus the use of giraffe tails, and the designation of World Giraffe Day on June 21.",
+      "topics": [
+        "giraffe conservation",
+        "giraffe population decline",
+        "poaching",
+        "World Giraffe Day",
+        "giraffe tail hair",
+        "fly whisks"
+      ]
+    },
+    {
+      "start": "01:22:00",
+      "end": "01:32:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and thanks",
+      "summary": "The hosts thank listeners for gifts including whiskey, ketchup, skincare products, socks, books, and a graphic novel, and mention a part two of listener mail is planned.",
+      "topics": [
+        "listener mail",
+        "fan gifts",
+        "administrative details"
+      ]
+    },
+    {
+      "start": "01:32:00",
+      "end": "01:34:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck list ways to contact the show and sign off.",
+      "topics": [
+        "sign-off",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17410,
+    "output_tokens": 3510
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-12-28_Short_Stuff_Mesas_Flat_12min.txt",
+  "title": "Short Stuff: Mesas: Flat",
+  "date": "2022-12-28",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-mesas-flat",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fa47766e-df02-4176-8873-af7301064c94/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fa47766e-df02-4176-8873-af7301064c94/transcript?format=TextWithTimestamps&t=1700557561",
+  "summary": "Short Stuff episode on mesas, buttes, and plateaus. Josh recounts a birthday trip to Santa Fe, New Mexico, where he and his wife Emily saw flat-topped mountains on the drive from Albuquerque and wondered what they were. The hosts cover the etymology of \"mesa\" (Spanish for table, named by 16th-century Spanish explorers searching for the Seven Cities of Cibola), the French origin of \"butte,\" the size-based distinction (wider than tall is a mesa, taller than wide is a butte), and the formation process: sedimentary rock capped by hard cap rock, erosion by water and wind, plateaus uplifted by magma pressure, and the role of flash floods and river canyon carving. They close with Santa Fe recommendations (Canyon Road galleries, restaurants Geronimo and Sazón).",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "mesa",
+    "butte",
+    "plateau",
+    "mesas and buttes",
+    "landform formation",
+    "erosion",
+    "sedimentary rock",
+    "cap rock",
+    "flash floods",
+    "canyon formation",
+    "Grand Canyon",
+    "etymology of mesa",
+    "Spanish explorers",
+    "Seven Cities of Cibola",
+    "New Mexico",
+    "Santa Fe",
+    "Canyon Road",
+    "geology",
+    "desert landscape",
+    "Earth science"
+  ],
+  "entities": [
+    {
+      "name": "Santa Fe",
+      "type": "place"
+    },
+    {
+      "name": "New Mexico",
+      "type": "place"
+    },
+    {
+      "name": "Canyon Road",
+      "type": "place"
+    },
+    {
+      "name": "Albuquerque",
+      "type": "place"
+    },
+    {
+      "name": "Seven Cities of Cibola",
+      "type": "event"
+    },
+    {
+      "name": "Grand Canyon",
+      "type": "place"
+    },
+    {
+      "name": "Geronimo",
+      "type": "organization"
+    },
+    {
+      "name": "Sazón",
+      "type": "organization"
+    },
+    {
+      "name": "Breaking Bad",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Santa Fe trip and introducing mesas",
+      "summary": "Josh describes a birthday weekend in Santa Fe, New Mexico, and seeing flat-topped mountains on the drive from Albuquerque. The hosts introduce the topic of mesas.",
+      "topics": [
+        "Santa Fe",
+        "New Mexico",
+        "mesa",
+        "birthday trip"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Etymology and definitions of mesa and butte",
+      "summary": "Mesa comes from the Spanish word for table, named by 16th-century Spanish explorers searching for the Seven Cities of Cibola. Butte comes from French. A mesa is wider than it is tall; a butte is taller than it is wide.",
+      "topics": [
+        "mesa etymology",
+        "butte definition",
+        "Spanish explorers",
+        "Seven Cities of Cibola",
+        "mesa vs butte"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "How mesas and buttes form",
+      "summary": "Mesas and buttes form from flat-topped sedimentary rock with a hard cap rock that resists erosion. Water and wind wear away the surrounding land over millions of years.",
+      "topics": [
+        "cap rock",
+        "sedimentary rock",
+        "erosion",
+        "landform formation",
+        "mesa formation"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Plateaus, flash floods, and canyons",
+      "summary": "A plateau is uplifted land, often by magma pressure, and is the precursor to mesas and buttes. Water on arid plateaus runs off fast and carves canyons. The hosts share a story of a sudden storm in the desert and water running uphill.",
+      "topics": [
+        "plateau",
+        "flash floods",
+        "arid erosion",
+        "canyon carving",
+        "water running uphill",
+        "desert storms"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Wrap-up and Santa Fe recommendations",
+      "summary": "The hosts wrap up the topic and recommend Canyon Road galleries and the restaurants Geronimo and Sazón in Santa Fe, then sign off.",
+      "topics": [
+        "Canyon Road",
+        "Santa Fe restaurants",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5026,
+    "output_tokens": 1571
+  }
+}

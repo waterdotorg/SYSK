@@ -1,0 +1,256 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-03-15_Some_Really_Interesting_Cases_of_Mass_Hysteria_39min.txt",
+  "title": "Some Really Interesting Cases of Mass Hysteria",
+  "date": "2016-03-15",
+  "duration": "39 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/some-really-interesting-cases-of-mass-hysteria",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4d58aa21-1e77-4006-867b-ae280085ab74/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d58aa21-1e77-4006-867b-ae280085ab74/transcript?format=TextWithTimestamps&t=1700543840",
+  "summary": "Hosts Josh and Chuck follow up their earlier collective hysteria episode with a tour of mass psychogenic illness cases: medieval convent outbreaks (mewing, biting, barking nuns), the 1898-1899 kissing bug scare in the United States, the 1998 Halifax slasher scare in England, the 1950s Taipei slasher scare, the 1962 Tanganyika laughter epidemic, the 2006 West Bank fainting episode blamed on chemical gas, and the 2006 Portuguese teen soap opera strawberries-with-sugar illness. The episode also includes off-topic chat about video games, a Cinema Jaw podcast plug, a Mel Gibson sketch and Platoon/Princess Bride scene recall, and a listener mail about the German/Swedish word \"aschenputtel\" from the Dark Fairy Tales episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "mass hysteria",
+    "mass psychogenic illness",
+    "collective hysteria",
+    "collective delusions",
+    "conversion disorder",
+    "medieval nuns mass hysteria",
+    "convent mewing epidemic",
+    "dancing and biting nuns",
+    "kissing bug scare",
+    "Chagas disease",
+    "newspaper epidemic",
+    "Halifax slasher scare",
+    "Taipei slasher scare",
+    "Tanganyika laughter epidemic",
+    "West Bank fainting epidemic",
+    "strawberries with sugar Portugal",
+    "mass hysteria in schools",
+    "psychosomatic illness epidemic",
+    "Wisconsin Death Trip",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Halifax, England",
+      "type": "place"
+    },
+    {
+      "name": "Tanganyika",
+      "type": "place"
+    },
+    {
+      "name": "West Bank",
+      "type": "place"
+    },
+    {
+      "name": "Taipei, Taiwan",
+      "type": "place"
+    },
+    {
+      "name": "Portugal",
+      "type": "place"
+    },
+    {
+      "name": "Stockholm",
+      "type": "place"
+    },
+    {
+      "name": "Kissing bug",
+      "type": "other"
+    },
+    {
+      "name": "Chagas disease",
+      "type": "other"
+    },
+    {
+      "name": "Halifax slasher scare",
+      "type": "event"
+    },
+    {
+      "name": "Tanganyika laughter epidemic",
+      "type": "event"
+    },
+    {
+      "name": "West Bank fainting epidemic",
+      "type": "event"
+    },
+    {
+      "name": "Strawberries with sugar",
+      "type": "work"
+    },
+    {
+      "name": "Scotland Yard",
+      "type": "organization"
+    },
+    {
+      "name": "Wisconsin Death Trip",
+      "type": "work"
+    },
+    {
+      "name": "Cinema Jaw",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter and mass hysteria recap",
+      "summary": "Hosts banter, then recap that a November episode covered collective hysteria. They define mass psychogenic illness as physical symptoms without a physical cause that spread through a group, often triggered by stress in close-knit or low-status communities.",
+      "topics": [
+        "mass psychogenic illness",
+        "collective hysteria",
+        "psychosomatic illness"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Medieval convent outbreaks",
+      "summary": "Medieval convents as places of mass hysteria: nuns were sent to convents by relatives, and outbreaks included bleeding and convulsions in Spain, yelping like dogs in France, and mewing like cats in a French convent, where soldiers whipped the nuns to stop. A biting outbreak in a German convent spread to Rome before fading from exhaustion.",
+      "topics": [
+        "medieval nuns mass hysteria",
+        "convent mewing epidemic",
+        "nuns biting outbreak",
+        "demonic possession belief",
+        "mass psychogenic illness history"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "1898 kissing bug scare",
+      "summary": "Kissing bugs carry the parasite causing Chagas disease. A kissing bug scare in the United States in 1899 was driven by newspaper reporting; the USDA head called it a newspaper epidemic, and people sent in harmless bugs. It ended when the newspapers stopped covering it.",
+      "topics": [
+        "kissing bug scare",
+        "Chagas disease",
+        "newspaper epidemic",
+        "USDA bug submissions"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Wisconsin Death Trip aside",
+      "summary": "Brief digression on the book Wisconsin Death Trip, a collection of 1890s Wisconsin newspaper clippings describing grim events.",
+      "topics": [
+        "Wisconsin Death Trip",
+        "1890s history"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Cinema Jaw podcast plug and movie talk",
+      "summary": "Josh plugs his appearance on the Cinema Jaw movie podcast covering missing persons films, and hosts discuss The Vanishing (original Dutch version) and horror films.",
+      "topics": [
+        "Cinema Jaw",
+        "The Vanishing",
+        "movie podcasts"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Halifax slasher scare of 1998",
+      "summary": "In Halifax, England, women reported being slashed by a stranger, sparking panic and a hunt for a slasher. Scotland Yard detectives found witness stories falling apart. Nine of twelve victims eventually confessed to cutting themselves, including Beatrice Sorrel, who blamed a row with her boyfriend and reading about slashings in the papers.",
+      "topics": [
+        "Halifax slasher scare",
+        "self-inflicted injuries hoax",
+        "Scotland Yard investigation",
+        "Beatrice Sorrel",
+        "slasher panic"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "Taipei slasher scare and Mel Gibson sketch",
+      "summary": "A 1950s Taipei, Taiwan slasher scare in which people believed a passerby in a crowd had cut them unnoticed. Hosts then recall a Saturday Night Live sketch with Mel Gibson and a film scene where a knife-wielding man slashes a face, comparing it to Platoon and The Princess Bride.",
+      "topics": [
+        "Taipei slasher scare",
+        "slasher mass hysteria",
+        "Saturday Night Live",
+        "Platoon",
+        "Princess Bride"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Tanganyika laughter epidemic",
+      "summary": "In 1962 Tanganyika, a girls' boarding school had an outbreak of contagious anxious laughter that spread to other villages, lasted months, and forced the school to close for two months. Other symptoms included crying, pain and fainting. Linguists tie it to stress over independence.",
+      "topics": [
+        "Tanganyika laughter epidemic",
+        "contagious laughter",
+        "boarding school outbreak",
+        "Tanzania independence anxiety"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "West Bank fainting epidemic",
+      "summary": "About a thousand young Arab schoolgirls in the West Bank fell ill with dizziness, headaches and stomach pains after a reported foul odor. Palestinian and Israeli leaders accused each other of chemical warfare, but searches found no chemical residue; a smelly bathroom was suspected as the source.",
+      "topics": [
+        "West Bank fainting epidemic",
+        "chemical warfare accusations",
+        "schoolgirl illness",
+        "mass hysteria in schools"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Portugal strawberries with sugar outbreak",
+      "summary": "In May 2006 a Portuguese teen soap opera episode depicted a mysterious virus spreading at school. Kids in fourteen schools then developed similar symptoms; Portuguese health authorities judged it mass psychogenic illness, possibly tied to exam stress. Hosts note two types: motor and anxiety.",
+      "topics": [
+        "strawberries with sugar",
+        "Portugal mass hysteria",
+        "TV-triggered illness",
+        "motor and anxiety mass psychogenic illness"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:39:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: ashen puto and fairy tales",
+      "summary": "Georgia from Stockholm writes about the term for Cinderella-style scullery maid in the Dark Fairy Tales episode, explaining the German-based word play and cinder versus ash translation.",
+      "topics": [
+        "listener mail",
+        "Cinderella",
+        "Dark Fairy Tales",
+        "German etymology"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:39:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts thank listeners and give social media and website contact information.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12932,
+    "output_tokens": 3158
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-10-05_Research_Bias_Sort_It_Out_Science_53min.txt",
+  "title": "Research Bias: Sort It Out, Science",
+  "date": "2021-10-05",
+  "duration": "53 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/research-bias-sort-it-out-science",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b77f7728-a425-44d7-adfb-ae2800080b52/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b77f7728-a425-44d7-adfb-ae2800080b52/transcript?format=TextWithTimestamps&t=1700539654",
+  "summary": "Josh and Chuck discuss research bias in science and why it matters amid declining public trust in experts. They walk through a \"top ten\" style list of biases: confirmation bias (including the N-ray episode), selection and sampling bias (including self-selection, the 1936 Literary Digest/Landon polling fiasco, survivorship bias with the WWII bomber armor story, and channeling bias), question order bias and priming, interviewer bias, recall bias, acquiescence bias, publication bias and the academic publishing industry, and file drawer bias. They cover remedies such as preregistration-style acceptance at The Lancet, randomized question order, and careful wording. The episode closes with a listener mail about the show being placed on a media bias chart.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "research bias",
+    "scientific bias",
+    "confirmation bias",
+    "selection bias",
+    "sampling bias",
+    "self-selection bias",
+    "survivorship bias",
+    "channeling bias",
+    "question order bias",
+    "priming",
+    "interviewer bias",
+    "recall bias",
+    "acquiescence bias",
+    "publication bias",
+    "file drawer bias",
+    "academic publishing",
+    "N-rays",
+    "Literary Digest poll",
+    "survivorship bias WWII bomber armor",
+    "death of expertise",
+    "science trust",
+    "media bias chart",
+    "The Lancet registered reports",
+    "scientific method",
+    "Proteus effect"
+  ],
+  "entities": [
+    {
+      "name": "N-rays",
+      "type": "event"
+    },
+    {
+      "name": "René Blondlot",
+      "type": "person"
+    },
+    {
+      "name": "Robert W. Wood",
+      "type": "person"
+    },
+    {
+      "name": "Abraham Wald",
+      "type": "person"
+    },
+    {
+      "name": "Alf Landon",
+      "type": "person"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "type": "person"
+    },
+    {
+      "name": "General Social Survey",
+      "type": "work"
+    },
+    {
+      "name": "The Lancet",
+      "type": "organization"
+    },
+    {
+      "name": "Rushmore",
+      "type": "work"
+    },
+    {
+      "name": "Media Bias Chart",
+      "type": "work"
+    },
+    {
+      "name": "Dancing with the Stars",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:40",
+      "kind": "intro",
+      "title": "Opening banter and framing the death of expertise",
+      "summary": "Josh and Chuck open with banter about a space Lord single, a Trivial Pursuit co-branded game, and listener emails. Josh frames the episode around distrust of experts and how bias in science contributes to it.",
+      "topics": [
+        "death of expertise",
+        "science trust",
+        "scientific bias"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Confirmation bias and the N-ray example",
+      "summary": "The hosts explain that research bias occurs in planning, during, and after studies. They describe confirmation bias using René Blondlot's N-rays, which Robert W. Wood disproved by secretly removing the crystals, and note that people across all fields are prone to it.",
+      "topics": [
+        "confirmation bias",
+        "N-rays",
+        "research bias",
+        "scientific bias"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Sampling bias and selection bias",
+      "summary": "Sampling bias is described as a non-representative sample, such as university students or online-only surveys. Self-selection bias is covered, along with the 1936 Literary Digest polling error that drew from country club rosters and car owners and wrongly predicted Alf Landon would win over Roosevelt.",
+      "topics": [
+        "sampling bias",
+        "selection bias",
+        "self-selection bias",
+        "Literary Digest poll",
+        "Alf Landon"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Survivorship bias and channeling bias",
+      "summary": "Survivorship bias is explained through business studies and the WWII bomber story, where Abraham Wald advised armoring the areas without bullet holes. Channeling bias is explained using heartburn drugs and surgery outcomes, where patient severity steers treatment groups.",
+      "topics": [
+        "survivorship bias",
+        "channeling bias",
+        "Abraham Wald",
+        "selection bias"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Question order bias and priming",
+      "summary": "The hosts discuss how question order shapes survey answers, citing the General Social Survey, where honesty was picked 66 percent of the time when listed high and 48 percent when listed low. They describe priming and ways to randomize question order.",
+      "topics": [
+        "question order bias",
+        "priming",
+        "survey design",
+        "General Social Survey"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Interviewer bias",
+      "summary": "Interviewer bias is described as an interviewer's tone, wording, or knowledge of a subject's status influencing responses, such as probing smoking history more intensely. Online surveys are noted as one way to reduce it, with their own pitfalls.",
+      "topics": [
+        "interviewer bias",
+        "survey bias",
+        "clinical trials",
+        "blinding"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Recall bias and acquiescence bias",
+      "summary": "Recall bias is illustrated with a joke about Dancing with the Stars and with people underreporting unhealthy habits like eating cheese. Acquiescence bias, the tendency to agree or to be disagreeable, is covered along with wording techniques to avoid it, such as the Pew voting question example.",
+      "topics": [
+        "recall bias",
+        "acquiescence bias",
+        "participant bias",
+        "survey wording"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "ad",
+      "title": "Sponsor break and kid listener aside",
+      "summary": "A short break and banter about kids listening to the show and kids' YouTube toy videos.",
+      "topics": [
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:47:30",
+      "kind": "content",
+      "title": "Publication bias and the academic publishing industry",
+      "summary": "Chuck and Josh compare academic publishing to 24-hour cable news, saying journals favor positive results. They cite a 2010 finding that social science papers were about 2.3 times more likely than physical science papers to report positive results, and note that suppressing negative trials is unethical and sometimes illegal.",
+      "topics": [
+        "publication bias",
+        "academic publishing",
+        "positive results",
+        "publish or perish"
+      ]
+    },
+    {
+      "start": "00:47:30",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "File drawer bias, Proteus effect, and The Lancet's solution",
+      "summary": "File drawer bias is defined as burying negative results. The hosts discuss the cost of wasted replication, the Proteus effect of initial studies failing to replicate, and The Lancet accepting papers based on study design before results are known.",
+      "topics": [
+        "file drawer bias",
+        "replication crisis",
+        "Proteus effect",
+        "The Lancet",
+        "registered reports"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on the media bias chart",
+      "summary": "Listener Nicholas Bett writes about Stuff You Should Know being placed on a Media Bias Chart as one of the fairest pieces of media, and the hosts respond with thanks. The sign-off gives the contact email.",
+      "topics": [
+        "media bias chart",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16476,
+    "output_tokens": 2590
+  }
+}

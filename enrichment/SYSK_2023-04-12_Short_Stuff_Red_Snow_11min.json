@@ -1,0 +1,193 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-04-12_Short_Stuff_Red_Snow_11min.txt",
+  "title": "Short Stuff: Red Snow",
+  "date": "2023-04-12",
+  "duration": "11 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-red-snow",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/de55bb16-1ff6-4777-a35a-afe1016af975/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/de55bb16-1ff6-4777-a35a-afe1016af975/transcript?format=TextWithTimestamps&t=1700557794",
+  "summary": "Short Stuff episode on red snow. The hosts open with a flubbed intro, then explain why snow is normally white (ice crystals scatter all visible wavelengths) and note that snow has been reported turning red since at least Pliny the Elder, with Charles Darwin describing red snow in the Andes. They identify the cause as the green algae Chlamydomonas nivalis, which produces the red pigment astaxanthin as a sunscreen-like protection during warm seasons. The algae needs liquid meltwater to bloom; the red pigment absorbs more solar radiation than white snow, creating a feedback loop that speeds melting. A 2016 Nature report led by Stephanie Lutz of the University of Leeds estimated a five to fifteen percent acceleration of glacier melt, and researchers have since begun including red snow blooms in climate models. The episode closes with the note that the algae reportedly smells like watermelon and a warning not to eat red snow.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "red snow",
+    "Chlamydomonas nivalis",
+    "green algae",
+    "snow algae",
+    "astaxanthin",
+    "why snow is white",
+    "albedo",
+    "snowmelt feedback loop",
+    "glacier melt",
+    "climate models",
+    "Nature 2016 red snow study",
+    "Pliny the Elder red snow",
+    "Charles Darwin red snow Andes",
+    "Stephanie Lutz",
+    "Arwin Edwards",
+    "Randall Servenni",
+    "Mark Mancini",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Red snow",
+      "type": "other"
+    },
+    {
+      "name": "Chlamydomonas nivalis",
+      "type": "other"
+    },
+    {
+      "name": "Pliny the Elder",
+      "type": "person"
+    },
+    {
+      "name": "Charles Darwin",
+      "type": "person"
+    },
+    {
+      "name": "Randall Servenni",
+      "type": "person"
+    },
+    {
+      "name": "Mark Mancini",
+      "type": "person"
+    },
+    {
+      "name": "Stephanie Lutz",
+      "type": "person"
+    },
+    {
+      "name": "Arwin Edwards",
+      "type": "person"
+    },
+    {
+      "name": "University of Leeds",
+      "type": "organization"
+    },
+    {
+      "name": "Arizona State University",
+      "type": "organization"
+    },
+    {
+      "name": "Nature",
+      "type": "work"
+    },
+    {
+      "name": "Freaks of the Storm",
+      "type": "work"
+    },
+    {
+      "name": "Andes Mountains",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and flubbed intro",
+      "summary": "Josh and Chuck open the short episode, restart the intro after a fumble, and introduce the red snow topic, citing a HowStuffWorks article by Mark Mancini.",
+      "topics": [
+        "short stuff intro",
+        "red snow"
+      ]
+    },
+    {
+      "kind": "content",
+      "start": "00:01:30",
+      "end": "00:03:30",
+      "title": "Why snow is white and historical red snow reports",
+      "summary": "The hosts explain that ice crystals scatter all visible wavelengths, so snow looks white. They note red snow has been recorded since Pliny the Elder, and that Charles Darwin saw red snow in the Andes. Randall Servenni's book Freaks of the Storm is mentioned.",
+      "topics": [
+        "why snow is white",
+        "Pliny the Elder red snow",
+        "Charles Darwin red snow Andes",
+        "Randall Servenni",
+        "Freaks of the Storm"
+      ],
+      "entities_hint": null
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Green algae as the cause",
+      "summary": "The hosts identify the cause as green algae, Chlamydomonas nivalis, and mention that Saharan dust can also create pinkish hues, which is not the phenomenon discussed.",
+      "topics": [
+        "Chlamydomonas nivalis",
+        "green algae",
+        "Saharan dust snow"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:05:40",
+      "kind": "ad",
+      "title": "Early break",
+      "summary": "Short break before returning to the algae discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:05:40",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Algae biology and red pigment astaxanthin",
+      "summary": "The algae is described as a cryophilic microorganism that lives in high-altitude snowfields and produces the red pigment astaxanthin in warm seasons. Arwin Edwards is cited as saying the pigment acts like sunscreen. The algae goes dormant in winter and blooms as snow becomes wet and meltwater is present.",
+      "topics": [
+        "astaxanthin",
+        "cryophilic algae",
+        "algae bloom wet snow",
+        "sunscreen pigment",
+        "Arwin Edwards"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Feedback loop: red snow melts faster",
+      "summary": "The red pigment absorbs more solar radiation than white snow, so blooms warm the snow and speed melting, creating a feedback loop. The hosts compare this to dark versus white cars.",
+      "topics": [
+        "albedo",
+        "snowmelt feedback loop",
+        "solar radiation absorption"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Climate implications and 2016 Nature study",
+      "summary": "A 2016 Nature report led by Stephanie Lutz of the University of Leeds estimated a five to fifteen percent acceleration in glacier melting from surface algae. Researchers now include red snow blooms in climate models for glacier melt.",
+      "topics": [
+        "Nature 2016 red snow study",
+        "glacier melt",
+        "climate models",
+        "Stephanie Lutz"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:00",
+      "kind": "outro",
+      "title": "Watermelon smell, warning, and sign-off",
+      "summary": "The hosts note the algae reportedly smells like watermelon, warn against eating red snow, and sign off.",
+      "topics": [
+        "red snow smell",
+        "red snow safety",
+        "episode sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4620,
+    "output_tokens": 2127
+  }
+}

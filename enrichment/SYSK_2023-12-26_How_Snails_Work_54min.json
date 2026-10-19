@@ -1,0 +1,411 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-12-26_How_Snails_Work_54min.txt",
+  "title": "How Snails Work",
+  "date": "2023-12-26",
+  "duration": "54 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-snails-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5b19e63a-eb38-49f6-b579-b0de010e7ab3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5b19e63a-eb38-49f6-b579-b0de010e7ab3/transcript?format=TextWithTimestamps&t=1713697048",
+  "summary": "Josh and Chuck explore snails: their biology and body plan (shell, epiphragm, torsion, mantle, pneumostome breathing, mucus trail), the torsion evolution debate, hermaphroditic mating and love darts, lifespan and reproduction, their ecological role as decomposers and pollinators, invasive species (giant African land snail, rosy wolf snail, common garden snail) and garden pest control, snail-related oddities (escargot, white caviar, Alzheimer's research with pond snails, medieval snail-fighting knight manuscripts), followed by a listener mail correction about isotopes versus ions.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "snails",
+    "how snails work",
+    "snail anatomy",
+    "gastropods",
+    "snail shell",
+    "epiphragm",
+    "torsion in snails",
+    "snail evolution",
+    "snail mucus",
+    "snail trail",
+    "hermaphroditism in snails",
+    "love darts",
+    "snail mating",
+    "snail reproduction",
+    "snail lifespan",
+    "invasive snails",
+    "giant African land snail",
+    "rosy wolf snail",
+    "common garden snail",
+    "garden pests",
+    "escargot",
+    "snail ecology",
+    "snail decomposers",
+    "Alzheimer's research snails",
+    "medieval snail battle manuscripts",
+    "listener mail",
+    "isotopes correction"
+  ],
+  "entities": [
+    {
+      "name": "Tom Cochrane",
+      "type": "person"
+    },
+    {
+      "name": "Chubby Checker",
+      "type": "person"
+    },
+    {
+      "name": "Patricia Highsmith",
+      "type": "person"
+    },
+    {
+      "name": "Harry G. Lee",
+      "type": "person"
+    },
+    {
+      "name": "Nick Lufti",
+      "type": "person"
+    },
+    {
+      "name": "Giant African land snail",
+      "type": "other"
+    },
+    {
+      "name": "Rosy wolf snail",
+      "type": "other"
+    },
+    {
+      "name": "Common garden snail",
+      "type": "other"
+    },
+    {
+      "name": "Burgundy snail (Roman snail)",
+      "type": "other"
+    },
+    {
+      "name": "Gastropoda",
+      "type": "other"
+    },
+    {
+      "name": "Hawaii",
+      "type": "place"
+    },
+    {
+      "name": "Florida",
+      "type": "place"
+    },
+    {
+      "name": "Royal Horticultural Society",
+      "type": "organization"
+    },
+    {
+      "name": "Carnegie Museum of Natural History",
+      "type": "organization"
+    },
+    {
+      "name": "Goodbye Snails",
+      "type": "work"
+    },
+    {
+      "name": "The Strange and Wonderful World of the Snail Wrangler",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:52",
+      "kind": "ad",
+      "title": "Live show tour announcement",
+      "summary": "Hosts promote upcoming live shows in Seattle, Portland, and San Francisco (Sketchfest) in January and where to buy tickets.",
+      "topics": [
+        "live shows",
+        "tour"
+      ]
+    },
+    {
+      "start": "00:00:52",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Opening banter about a song by Tom Cochrane and the hosts' chatter about the episode topic.",
+      "topics": [
+        "banter"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:05:40",
+      "kind": "content",
+      "title": "Choosing the snail topic",
+      "summary": "Josh explains the snail topic was his pick, notes limited academic information on snails and gardener folklore, and malacology is the study of mollusks.",
+      "topics": [
+        "malacology",
+        "snail research",
+        "mollusks"
+      ]
+    },
+    {
+      "start": "00:05:40",
+      "end": "00:09:20",
+      "kind": "content",
+      "title": "Gastropods and snail diversity",
+      "summary": "Snails belong to the class Gastropoda within phylum Mollusca; there are roughly 30,000 to 35,000 snail species, from giant African land snails to tiny cave snails; about 500 native North American species; and more than 400 recorded snail extinctions.",
+      "topics": [
+        "gastropods",
+        "snail species diversity",
+        "snail extinctions",
+        "Hawaii snail extinction"
+      ]
+    },
+    {
+      "start": "00:09:20",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Snail eating and escargot",
+      "summary": "Discussion of eating snails, serving plates for escargot, and snail caviar (white caviar).",
+      "topics": [
+        "escargot",
+        "snail caviar",
+        "eating snails"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Snail shell and epiphragm",
+      "summary": "The shell is protective; snails can seal the opening with a temporary epiphragm; some shells have denticles; the shell keeps moisture in.",
+      "topics": [
+        "snail shell",
+        "epiphragm",
+        "aperture",
+        "denticles"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:16:30",
+      "kind": "content",
+      "title": "Snail body arrangement and torsion",
+      "summary": "The snail's foot is what appears as the tail, the body is inside the shell, and the head and anus sit near the aperture because the body twists during development (torsion). Scientists are unsure when torsion emerged; the rotational and asymmetrical hypotheses are the main competing explanations.",
+      "topics": [
+        "torsion",
+        "snail anatomy",
+        "torsion hypothesis",
+        "snail evolution"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:19:10",
+      "kind": "content",
+      "title": "The torsion debate",
+      "summary": "Describes the rotational hypothesis (since 1929) and the asymmetry hypothesis, with the body twisting counterclockwise during larval development and the right-side organs shifted to the left.",
+      "topics": [
+        "torsion debate",
+        "rotational hypothesis",
+        "asymmetrical hypothesis",
+        "snail development"
+      ]
+    },
+    {
+      "start": "00:19:10",
+      "end": "00:20:50",
+      "kind": "content",
+      "title": "Eyes, tentacles, and senses",
+      "summary": "Snails have no ears but have eyes on tentacles that they can retract into the shell; eye simplicity varies by species.",
+      "topics": [
+        "snail eyes",
+        "snail senses",
+        "snail tentacles"
+      ]
+    },
+    {
+      "start": "00:20:50",
+      "end": "00:23:15",
+      "kind": "content",
+      "title": "Mantle and shell formation",
+      "summary": "The mantle secretes calcium carbonate that builds the shell; the oldest part is in the center and hardest; snails are born with a starter shell.",
+      "topics": [
+        "mantle",
+        "calcium carbonate shell",
+        "shell growth"
+      ]
+    },
+    {
+      "start": "00:23:15",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Breathing through the pneumostome",
+      "summary": "Land snails breathe through a lung-like opening (pneumostome) near the head at the aperture.",
+      "topics": [
+        "snail breathing",
+        "pneumostome",
+        "mantle cavity"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:26:20",
+      "kind": "content",
+      "title": "Snail mucus",
+      "summary": "Mucus from the foot acts as glue or lubricant, lets snails climb walls, protects from sharp objects, and keeps moisture; snail mucin is used in skin products.",
+      "topics": [
+        "snail mucus",
+        "snail mucin",
+        "snail trail",
+        "snail skin care"
+      ]
+    },
+    {
+      "start": "00:26:20",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Snail mating and love darts",
+      "summary": "Most land snails are hermaphroditic; they court for hours, bite lips, and shoot or stab with love darts that deliver hormones; both can be fertilized; eggs hatch in two to four weeks; hatchlings may eat eggs.",
+      "topics": [
+        "hermaphroditism",
+        "love darts",
+        "snail courtship",
+        "snail eggs",
+        "snail reproduction"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:33:25",
+      "kind": "content",
+      "title": "Snail lifespan and snail wranglers",
+      "summary": "Snails live up to five years in the wild and up to 25 in captivity; a documentary about a snail wrangler is mentioned.",
+      "topics": [
+        "snail lifespan",
+        "snail wrangler",
+        "snail companions"
+      ]
+    },
+    {
+      "start": "00:33:25",
+      "end": "00:36:45",
+      "kind": "content",
+      "title": "Snails and dry land survival and ecology",
+      "summary": "Snails are moisture-dependent and mostly active at night; they act as decomposers, recycle nutrients, aid drainage, and some are nighttime pollinators.",
+      "topics": [
+        "snail ecology",
+        "decomposers",
+        "snail pollinators",
+        "snail habitat"
+      ]
+    },
+    {
+      "start": "00:36:45",
+      "end": "00:37:23",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:37:23",
+      "end": "00:41:45",
+      "kind": "content",
+      "title": "Snails as garden pests and control methods",
+      "summary": "Burgundy snails eat plants; gardeners' control methods include beetles, handpicking, compost traps, and pesticides like ferric phosphate and metaldehyde, which is banned in the EU.",
+      "topics": [
+        "garden pests",
+        "snail control",
+        "metaldehyde",
+        "ferric phosphate",
+        "pesticides"
+      ]
+    },
+    {
+      "start": "00:41:45",
+      "end": "00:43:10",
+      "kind": "content",
+      "title": "Giant African land snail",
+      "summary": "The giant African land snail is invasive in North America, eats many plant species, can carry rat lungworm and meningitis, and is kept illegally as a pet.",
+      "topics": [
+        "giant African land snail",
+        "invasive species",
+        "rat lungworm",
+        "Florida snail problem"
+      ]
+    },
+    {
+      "start": "00:43:10",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Rosy wolf snail and Hawaii",
+      "summary": "Rosy wolf snails were introduced in the 1950s in Hawaii to control giant African land snails, but they preyed on native snails, causing losses; a malacologist found thirteen snail shells in one wolf snail's gut.",
+      "topics": [
+        "rosy wolf snail",
+        "Hawaii invasive species",
+        "biological control",
+        "native snail extinction"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:45:30",
+      "kind": "content",
+      "title": "Common garden snail as invasive",
+      "summary": "The common garden snail is considered invasive in the United States; it was imported for escargot and spread from farms.",
+      "topics": [
+        "common garden snail",
+        "escargot farming",
+        "invasive snails"
+      ]
+    },
+    {
+      "start": "00:45:30",
+      "end": "00:48:45",
+      "kind": "content",
+      "title": "Snail factoids: jewelry, Patricia Highsmith, Alzheimer's, and religion",
+      "summary": "Snail shells used as jewelry over 120,000 years ago; author Patricia Highsmith kept snails; pond snails used in amyloid beta Alzheimer's research; common garden snail mucus shows bioactive properties; giant African land snail sacred in Yoruba religion.",
+      "topics": [
+        "snail jewelry",
+        "Patricia Highsmith snails",
+        "Alzheimer's amyloid beta",
+        "Yoruba snail religion"
+      ]
+    },
+    {
+      "start": "00:48:45",
+      "end": "00:50:20",
+      "kind": "content",
+      "title": "Snail recipe and medieval snail-fighting knights",
+      "summary": "A Nigerian snail recipe is mentioned; medieval illuminated manuscripts from late thirteenth-century northern France show knights fighting giant snails, with theories about comic relief or symbolism.",
+      "topics": [
+        "Nigerian snail recipe",
+        "medieval manuscripts",
+        "knights vs snails"
+      ]
+    },
+    {
+      "start": "00:50:20",
+      "end": "00:53:15",
+      "kind": "listener_mail",
+      "title": "Listener mail: isotope correction",
+      "summary": "Listener Nick Lufti corrects the hosts: isotopes differ by neutron count, while losing or gaining an electron makes an ion.",
+      "topics": [
+        "listener mail",
+        "isotopes",
+        "ions",
+        "correction"
+      ]
+    },
+    {
+      "start": "00:53:15",
+      "end": "00:54:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener email and close the show.",
+      "topics": [
+        "sign-off",
+        "contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19777,
+    "output_tokens": 4126
+  }
+}

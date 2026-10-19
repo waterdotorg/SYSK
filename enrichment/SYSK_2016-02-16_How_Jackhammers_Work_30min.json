@@ -1,0 +1,212 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-02-16_How_Jackhammers_Work_30min.txt",
+  "title": "How Jackhammers Work",
+  "date": "2016-02-16",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-jackhammers-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0b4fd520-c4ef-43a7-8095-ae280086ebc8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0b4fd520-c4ef-43a7-8095-ae280086ebc8/transcript?format=TextWithTimestamps&t=1700543841",
+  "summary": "Josh and Chuck explain how jackhammers work, from their origins as a replacement for sledgehammers and pick axes, through early pneumatic percussion drills (Jonathan Couch, Joseph Foul) and Charles Brady King's handheld pneumatic jackhammer, to the compressed-air trigger-valve mechanism, bit choice and crack propagation, and the hazards: noise, silica dust, hand-arm vibration and Raynaud's phenomenon, and shrapnel. They also cover hydraulic and electric variants, the quieter Raptor prototype, New York noise complaints, and a listener mail shout-out for Totally Cool, Totally Art in Austin. Includes a sponsor read for Squarespace at the start and a sponsor/break mid-episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "jackhammer",
+    "how jackhammers work",
+    "pneumatic jackhammer",
+    "compressed air tools",
+    "Charles Brady King",
+    "trigger valve",
+    "percussion drill",
+    "Jonathan Couch",
+    "Joseph Foul",
+    "hydraulic jackhammer",
+    "electric jackhammer",
+    "jackhammer health hazards",
+    "silica dust",
+    "hand-arm vibration",
+    "Raynaud's phenomenon",
+    "vibration sickness",
+    "jackhammer noise",
+    "Raptor jackhammer",
+    "New York City noise complaints",
+    "crack propagation concrete",
+    "jackhammer safety",
+    "Totally Cool Totally Art",
+    "sledgehammer",
+    "Sardinia railway tunnel"
+  ],
+  "entities": [
+    {
+      "name": "Charles Brady King",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Couch",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Foul",
+      "type": "person"
+    },
+    {
+      "name": "King Carlo Alberto of Sardinia",
+      "type": "person"
+    },
+    {
+      "name": "Raptor",
+      "type": "other"
+    },
+    {
+      "name": "Brookhaven National Laboratory",
+      "type": "organization"
+    },
+    {
+      "name": "Totally Cool, Totally Art",
+      "type": "organization"
+    },
+    {
+      "name": "Sardinia",
+      "type": "place"
+    },
+    {
+      "name": "New York City",
+      "type": "place"
+    },
+    {
+      "name": "Alibaba",
+      "type": "organization"
+    },
+    {
+      "name": "Built Sharp",
+      "type": "organization"
+    },
+    {
+      "name": "Squarespace",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "ad",
+      "title": "Opening, Squarespace read and listener gifts",
+      "summary": "Squarespace sponsor read, then the hosts banter about jackhammers versus leaf blowers and thank Built Sharp knife makers for gifting knives.",
+      "topics": [
+        "Squarespace",
+        "Built Sharp knives"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Jackhammer basics and history of manual demolition",
+      "summary": "A jackhammer is described as a hardcore hammer and chisel that removes the human muscle from each strike. Before it, workers used sledgehammers and pick axes, which were dangerous and brutal, and a jackhammer weighs about a hundred pounds and is hard to control.",
+      "topics": [
+        "jackhammer",
+        "sledgehammer",
+        "pick axe",
+        "manual rock breaking"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Early pneumatic drills and Charles Brady King",
+      "summary": "A railway tunnel project in Sardinia spurred early pneumatic tool development. Jonathan Couch built a piston-driven percussion drill, Joseph Foul powered one with air, and Charles Brady King is credited with the modern handheld pneumatic jackhammer and its patent. Digression on King's automotive legacy in Detroit.",
+      "topics": [
+        "pneumatic drill history",
+        "Charles Brady King",
+        "Jonathan Couch",
+        "Joseph Foul",
+        "Sardinia tunnel"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Why jackhammers are compressed-air powered",
+      "summary": "Compressed air is preferred in mining because it avoids sparks and exhaust around explosive gases. A diesel engine on the surface drives a compressor, which stores air in a tank and sends it through a hose to the jackhammer, with no loss of power over distance.",
+      "topics": [
+        "pneumatic power",
+        "compressed air",
+        "mining safety",
+        "air compressor"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:17:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short ad break with the hosts.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Inside the jackhammer mechanism and types",
+      "summary": "Electric hand-held models suit small jobs like tile, while large T-shaped pneumatic models handle asphalt and concrete. The heavy weight adds force. A trigger valve, driven by compressed air, moves the piston up and down to strike the chisel; a spring returns the bit. Hydraulic jackhammers use fluid instead of air and are used on large backhoe-mounted jobs.",
+      "topics": [
+        "trigger valve",
+        "piston mechanism",
+        "electric jackhammer",
+        "hydraulic jackhammer",
+        "backhoe attachment"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Bit selection and how concrete cracks",
+      "summary": "Pointed bits suit breaking up driveways while flat bits give more controlled cuts. The jackhammer creates a crushed-zone powder under the bit that transmits force and starts cracks that propagate until chunks break off. Crews clear debris, and some machines blast air or water to clear the crater.",
+      "topics": [
+        "jackhammer bits",
+        "crack propagation",
+        "crushed zone",
+        "concrete demolition"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Hazards: stuck bits, noise, dust, vibration",
+      "summary": "Hazards include getting the bit stuck when driven too deep and noise around 130 decibels. Silica dust from concrete can cause lung cancer, so water sprayers are used. Hand-arm vibration can cause Raynaud's-like blanching, and whole-body vibration relates to motion sickness and vibration sickness. Shrapnel and utility lines are also dangers; hosts advise ear protection and calling utility companies before digging.",
+      "topics": [
+        "silica dust",
+        "hand-arm vibration",
+        "Raynaud's phenomenon",
+        "vibration sickness",
+        "jackhammer noise",
+        "safety"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:30:00",
+      "kind": "listener_mail",
+      "title": "Quieter jackhammers and listener mail",
+      "summary": "The Raptor helium jackhammer from Brookhaven National Laboratory in 2000 got noise down to about 87 decibels but never caught on; a 2011 electric model was about 100 decibels. New York City noise complaints for jackhammers are discussed. A listener, Brian Fry, asks for a shout-out for Totally Cool, Totally Art, a free Austin after-school arts program. Hosts mention Austin South by Southwest and sign off.",
+      "topics": [
+        "Raptor jackhammer",
+        "New York noise complaints",
+        "Totally Cool Totally Art",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10520,
+    "output_tokens": 2613
+  }
+}

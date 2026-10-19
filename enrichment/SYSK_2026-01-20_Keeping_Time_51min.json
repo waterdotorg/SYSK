@@ -1,0 +1,435 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-01-20_Keeping_Time_51min.txt",
+  "title": "Keeping Time",
+  "date": "2026-01-20",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/keeping-time",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/79ff5cda-c57a-4f45-93de-b3d80002ed37/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/79ff5cda-c57a-4f45-93de-b3d80002ed37/transcript?format=TextWithTimestamps&t=1768934710",
+  "summary": "Josh and Chuck trace the history of timekeeping from early shadow-based methods through sundials, water clocks, incense and candle clocks, astrolabes, hourglasses, mechanical clocks with the verge and foliot escapement, pendulum clocks, anchor escapements, grandfather clocks, and wristwatches, ending with a note on quartz and atomic clocks. The episode also includes a tour announcement, a correction about a listener's anniversary count, and a listener mail question from Bill about whether the Akron live show is appropriate for his eleven-year-old son.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "history of timekeeping",
+    "sundial",
+    "gnomon",
+    "shadow clock",
+    "hemicycle",
+    "water clock",
+    "incense clock",
+    "candle clock",
+    "astrolabe",
+    "hourglass",
+    "mechanical clock",
+    "verge and foliot escapement",
+    "pendulum clock",
+    "Galileo pendulum",
+    "anchor escapement",
+    "grandfather clock",
+    "pocket watch",
+    "wristwatch history",
+    "chronograph",
+    "stopwatch",
+    "Tower of Winds",
+    "elephant clock",
+    "Chinese mechanical clock",
+    "mercury clock",
+    "planetary hours",
+    "atomic clock",
+    "quartz clock",
+    "Stuff You Should Know live tour",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Anaximander",
+      "type": "person"
+    },
+    {
+      "name": "Abu al-Hasan al-Marrakushi",
+      "type": "person"
+    },
+    {
+      "name": "Su Song",
+      "type": "person"
+    },
+    {
+      "name": "Ismail al-Jazari",
+      "type": "person"
+    },
+    {
+      "name": "Galileo Galilei",
+      "type": "person"
+    },
+    {
+      "name": "Christiaan Huygens",
+      "type": "person"
+    },
+    {
+      "name": "Robert Hooke",
+      "type": "person"
+    },
+    {
+      "name": "William Clement",
+      "type": "person"
+    },
+    {
+      "name": "Gerbert of Aurillac",
+      "type": "person"
+    },
+    {
+      "name": "Alfred the Great",
+      "type": "person"
+    },
+    {
+      "name": "Lewis Mumford",
+      "type": "person"
+    },
+    {
+      "name": "Andronikos of Kyrrhos",
+      "type": "person"
+    },
+    {
+      "name": "Henry Clay Work",
+      "type": "person"
+    },
+    {
+      "name": "Tower of Winds",
+      "type": "place"
+    },
+    {
+      "name": "Salisbury Cathedral",
+      "type": "place"
+    },
+    {
+      "name": "Akron, Ohio",
+      "type": "place"
+    },
+    {
+      "name": "Rolex Oyster",
+      "type": "organization"
+    },
+    {
+      "name": "Karate Kid Part III",
+      "type": "work"
+    },
+    {
+      "name": "My Grandfather's Clock",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:42",
+      "kind": "ad",
+      "title": "Tour dates promo",
+      "summary": "Hosts promote upcoming tour stops in Denver, Seattle and San Francisco and direct listeners to the website for tickets.",
+      "topics": [
+        "tour dates",
+        "live show tickets"
+      ]
+    },
+    {
+      "start": "00:00:42",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Welcome and introduction to the episode on timekeeping, which Olivia helped research.",
+      "topics": [
+        "show intro"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Shadows, gnomons and early timekeeping",
+      "summary": "Early humans tracked time with shadows cast by a stick (gnomon). Timekeeping began as seasonal and astrological tracking rather than appointment keeping. The Chinese northern archaeological find dates to about 2300 BC, and the Egyptian shadow clock (T-shaped) is discussed.",
+      "topics": [
+        "gnomon",
+        "shadow clock",
+        "early timekeeping",
+        "seasonal calendar",
+        "ancient China timekeeping"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Sundials and the hemicycle",
+      "summary": "Anaximander's sundial in sixth century BC, Greek hour-marking sundials around 350 BCE, and the hemicycle sundial around 280 BCE, which accounted for seasonal sun changes with multiple arcs. Greek seasonal (unequal) hours are explained.",
+      "topics": [
+        "sundial",
+        "hemicycle",
+        "seasonal hours",
+        "Greek timekeeping"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:10:53",
+      "kind": "content",
+      "title": "Seasonal hours and portable sundials",
+      "summary": "Greek seasonal hours lasted into the medieval period, lengthening in summer and shortening in winter. Portable bronze sundials with latitude settings were made, and some Muslim sundials were developed for prayer times.",
+      "topics": [
+        "seasonal hours",
+        "portable sundial",
+        "bronze sundial"
+      ]
+    },
+    {
+      "start": "00:10:53",
+      "end": "00:14:16",
+      "kind": "content",
+      "title": "Islamic sundials and uniform hours",
+      "summary": "Muslims adopted sundials for prayer times and developed trigonometry-based designs including conical sundials. Abu al-Hasan al-Marrakushi in the early thirteenth century promoted uniform hours.",
+      "topics": [
+        "Islamic sundials",
+        "prayer times",
+        "uniform hours",
+        "conical sundial"
+      ]
+    },
+    {
+      "start": "00:14:20",
+      "end": "00:14:42",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "Break between segments.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:14:42",
+      "end": "00:16:45",
+      "kind": "content",
+      "title": "Water clocks",
+      "summary": "Water clocks were used across cultures, with problems from freezing and viscosity changes. Engineers added floats, valves and siphons. A Chinese engineer in the tenth century used mercury instead of water.",
+      "topics": [
+        "water clock",
+        "clepsydra",
+        "mercury clock"
+      ]
+    },
+    {
+      "start": "00:16:45",
+      "end": "00:19:15",
+      "kind": "content",
+      "title": "Incense clocks",
+      "summary": "Incense clocks, dating to at least the sixth century CE in China, used burning incense as a timer, with maze-like boxes and scent markers for different hours. Incense was also used as a fuse-based alarm.",
+      "topics": [
+        "incense clock",
+        "incense timer",
+        "burning fuse alarm"
+      ]
+    },
+    {
+      "start": "00:19:15",
+      "end": "00:22:01",
+      "kind": "content",
+      "title": "Candle clocks, astrolabes and hourglasses",
+      "summary": "Alfred the Great reportedly timed his day with six candles. Astrolabes, invented by Muslims around the sixth century CE, could be used to keep time. Hourglasses appeared much later, with the earliest known reference in Italy in 1338.",
+      "topics": [
+        "candle clock",
+        "Alfred the Great",
+        "astrolabe",
+        "hourglass history"
+      ]
+    },
+    {
+      "start": "00:22:01",
+      "end": "00:23:02",
+      "kind": "content",
+      "title": "Ancient inventors and water clock showpieces",
+      "summary": "Andronikos of Kyrrhos built the Tower of Winds in Athens, combining water clocks, sundials and wind gauges. Inventors added showy features to timekeeping devices.",
+      "topics": [
+        "Tower of Winds",
+        "Athens water clock",
+        "ancient inventors"
+      ]
+    },
+    {
+      "start": "00:23:02",
+      "end": "00:25:08",
+      "kind": "content",
+      "title": "Chinese astronomical clock tower and al-Jazari's elephant clock",
+      "summary": "An eighth century CE Chinese Buddhist monk built a water-powered gear clock with bells; Su Song's eleventh century clock tower had mannequins ringing gongs; al-Jazari's elephant clock and castle clock are described.",
+      "topics": [
+        "Su Song clock tower",
+        "al-Jazari",
+        "elephant clock",
+        "castle clock",
+        "water-powered gears"
+      ]
+    },
+    {
+      "start": "00:25:08",
+      "end": "00:25:26",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:25:26",
+      "end": "00:27:53",
+      "kind": "content",
+      "title": "Early mechanical clocks and weight-driven escapements",
+      "summary": "Chinese water clocks may have been the first mechanical clocks. Gerbert of Aurillac (later Pope Sylvester II) is said to have built a mechanical device in 996, though this is doubted. European clocks replaced water with falling weights.",
+      "topics": [
+        "mechanical clock origins",
+        "Gerbert of Aurillac",
+        "weight-driven clocks"
+      ]
+    },
+    {
+      "start": "00:27:53",
+      "end": "00:30:12",
+      "kind": "content",
+      "title": "Verge and foliot mechanism",
+      "summary": "The verge and foliot mechanism regulated falling weights so gears turned at a steady rate, creating a ticking sound. Comparison to the drum in the movie The Karate Kid Part II is made.",
+      "topics": [
+        "verge and foliot",
+        "escapement",
+        "clock ticking"
+      ]
+    },
+    {
+      "start": "00:30:12",
+      "end": "00:33:14",
+      "kind": "content",
+      "title": "Monasteries, church clocks and bells",
+      "summary": "Early European clocks helped monks keep time for daily prayers. Church steeples were tall to house clock weights. The Salisbury Cathedral clock from 1386 is the oldest surviving mechanical clock and had no face.",
+      "topics": [
+        "monastery clocks",
+        "church clocks",
+        "Salisbury Cathedral clock",
+        "clock etymology"
+      ]
+    },
+    {
+      "start": "00:33:14",
+      "end": "00:36:03",
+      "kind": "content",
+      "title": "Clocks and modern life",
+      "summary": "Once clocks had faces, people read time directly. Lewis Mumford's view that clocks marked the birth of the modern era is discussed. The minute as a unit came into use in the late fourteenth century.",
+      "topics": [
+        "Lewis Mumford",
+        "clock and modern society",
+        "minute history"
+      ]
+    },
+    {
+      "start": "00:36:03",
+      "end": "00:37:23",
+      "kind": "content",
+      "title": "Springs and early inaccuracy",
+      "summary": "Coiled springs replaced weights, making clocks portable, but friction and humidity made them inexact. Galileo used his pulse to measure pendulum swings.",
+      "topics": [
+        "mainspring",
+        "portable clocks",
+        "friction in clocks"
+      ]
+    },
+    {
+      "start": "00:37:23",
+      "end": "00:39:57",
+      "kind": "content",
+      "title": "Pendulum clocks and anchor escapement",
+      "summary": "Galileo's pendulum insight; Christiaan Huygens built the first pendulum clock in 1656. Robert Hooke introduced the anchor escapement, reducing the swing arc. William Clement added a minute hand in 1680, producing the long case clock.",
+      "topics": [
+        "pendulum clock",
+        "Christiaan Huygens",
+        "Robert Hooke",
+        "anchor escapement",
+        "William Clement",
+        "long case clock"
+      ]
+    },
+    {
+      "start": "00:39:57",
+      "end": "00:41:40",
+      "kind": "content",
+      "title": "Grandfather clocks and quartz",
+      "summary": "The long case clock got the name grandfather clock from the 1876 song My Grandfather's Clock by Henry Clay Work. Quartz crystal oscillation later led to watches and atomic clocks, which underpin GPS and phone time.",
+      "topics": [
+        "grandfather clock name",
+        "My Grandfather's Clock",
+        "quartz oscillation",
+        "atomic clock",
+        "GPS timing"
+      ]
+    },
+    {
+      "start": "00:41:40",
+      "end": "00:42:18",
+      "kind": "content",
+      "title": "Henry Clay People aside",
+      "summary": "Hosts mention the band Henry Clay People, friends of the show, who wrote the show's TV theme.",
+      "topics": [
+        "Henry Clay People",
+        "show history"
+      ]
+    },
+    {
+      "start": "00:42:18",
+      "end": "00:47:36",
+      "kind": "content",
+      "title": "Wristwatches, stopwatches and luminescence",
+      "summary": "Pocket watches came first; wristwatches became common after the late nineteenth century and especially after World War One. Stopwatch functions, the Rolex Oyster waterproof watch of 1926, and luminous watches are discussed. Chronographs and the horoscope etymology are mentioned.",
+      "topics": [
+        "wristwatch history",
+        "pocket watch",
+        "stopwatch",
+        "chronograph",
+        "Rolex Oyster",
+        "luminous watches",
+        "horoscope etymology"
+      ]
+    },
+    {
+      "start": "00:47:36",
+      "end": "00:50:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Bill on kid-appropriate content",
+      "summary": "Bill asks whether the Akron, Ohio live show is appropriate for his almost eleven-year-old son. Hosts say the episode is kid appropriate apart from occasional mild curse words.",
+      "topics": [
+        "listener mail",
+        "kid appropriate content",
+        "Akron live show"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:50:52",
+      "kind": "outro",
+      "title": "Tour plug and sign-off",
+      "summary": "Hosts repeat tour information and invite listeners to email the show at the podcast address.",
+      "topics": [
+        "tour",
+        "contact"
+      ]
+    },
+    {
+      "start": "00:50:52",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Credits",
+      "summary": "Production credit for iHeartRadio.",
+      "topics": [
+        "credits"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19029,
+    "output_tokens": 4560
+  }
+}

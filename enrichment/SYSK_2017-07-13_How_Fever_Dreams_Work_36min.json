@@ -1,0 +1,213 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-07-13_How_Fever_Dreams_Work_36min.txt",
+  "title": "How Fever Dreams Work",
+  "date": "2017-07-13",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-fever-dreams-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4956fcdf-1a21-4d9b-b0e2-ae280074d64c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4956fcdf-1a21-4d9b-b0e2-ae280074d64c/transcript?format=TextWithTimestamps&t=1700543802",
+  "summary": "Josh and Chuck explain fevers and dreams to set up a discussion of fever dreams. They open with tour announcements and candy banter, then cover normal body temperature (the 98.6 F figure traced to Carl Reinhold August Wunderlich's 1868 work), hypothalamus regulation tied to the daily temperature cycle, pyrogens and how infection triggers fever, fever thresholds for adults and children, and sympathetic nervous system effects. They then cover dream science: the activation-synthesis hypothesis, threat simulation theory, the Italian EEG study supporting affect regulation theory, and nightmares. The fever dream section offers an anecdotal explanation: a fevered brain under stress, amygdala overactivity, and waking during REM when body temperature is no longer regulated. The episode closes with a listener fan mail letter about the puberty episodes and tour dates.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "fever dreams",
+    "fever",
+    "dreams",
+    "body temperature",
+    "98.6 degrees normal body temperature",
+    "hypothalamus",
+    "pyrogens",
+    "immune system fever response",
+    "nightmares",
+    "REM sleep",
+    "affect regulation theory",
+    "activation synthesis hypothesis",
+    "threat simulation theory",
+    "dream recall EEG study",
+    "amygdala",
+    "fever in children",
+    "rectal thermometer",
+    "brain energy and heat",
+    "sleep and body temperature",
+    "Carl Reinhold August Wunderlich",
+    "listener mail",
+    "tour dates"
+  ],
+  "entities": [
+    {
+      "name": "Fever dreams",
+      "type": "other"
+    },
+    {
+      "name": "Carl Reinhold August Wunderlich",
+      "type": "person"
+    },
+    {
+      "name": "Hypothalamus",
+      "type": "other"
+    },
+    {
+      "name": "Pyrogens",
+      "type": "other"
+    },
+    {
+      "name": "Affect regulation theory",
+      "type": "other"
+    },
+    {
+      "name": "Activation synthesis hypothesis",
+      "type": "other"
+    },
+    {
+      "name": "Threat simulation theory",
+      "type": "other"
+    },
+    {
+      "name": "Amygdala",
+      "type": "other"
+    },
+    {
+      "name": "Fargo",
+      "type": "work"
+    },
+    {
+      "name": "Def Leppard",
+      "type": "organization"
+    },
+    {
+      "name": "Rory Scoville",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:40",
+      "kind": "ad",
+      "title": "Tour announcement and opening banter",
+      "summary": "Tour dates and ticket info (sysklive.com), followed by casual banter about candy, Pop Rocks, and unicorn pizza. Not really a sponsor read; this is opening chatter.",
+      "topics": [
+        "tour dates",
+        "Pop Rocks",
+        "candy banter"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:08:00",
+      "kind": "intro",
+      "title": "Introduction to fevers and body temperature",
+      "summary": "The hosts introduce the topic of fever dreams, noting that little research exists on them. They discuss the normal body temperature of 98.6 F and its origin in Carl Reinhold August Wunderlich's 1868 study, and note that normal temperature varies over the day.",
+      "topics": [
+        "fever dreams",
+        "body temperature",
+        "98.6 degrees",
+        "Wunderlich"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Circadian temperature and the hypothalamus",
+      "summary": "Body temperature is regulated by the hypothalamus. It peaks in the late afternoon, associated with alertness, falls toward drowsiness, and is lowest just before waking, which is associated with REM sleep.",
+      "topics": [
+        "hypothalamus",
+        "circadian body temperature",
+        "REM sleep",
+        "sleep and wakefulness"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "How infection causes fever (pyrogens)",
+      "summary": "Infection triggers the immune system to release pyrogens, which travel to the hypothalamus, dampen heat-sensing neurons and excite cold-sensing neurons, so the body raises its temperature. The fever helps fight pathogens but makes the body feel bad and strains organs; sympathetic nervous system activation is mentioned.",
+      "topics": [
+        "pyrogens",
+        "fever mechanism",
+        "immune system",
+        "sympathetic nervous system",
+        "feed a cold starve a fever"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Fever thresholds for adults and children",
+      "summary": "Fever is defined as oral temperature above 100.4 F (written as one point four) or rectal or ear above 101 F in adults. Children's fevers can spike faster because their immune systems are less experienced. Hosts advise consulting a doctor and note they are not medical experts.",
+      "topics": [
+        "fever threshold",
+        "fever in children",
+        "105 degree fever",
+        "rectal thermometer",
+        "when to see a doctor"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Dream science: theories and the Italian EEG study",
+      "summary": "Older activation-synthesis hypothesis (random neural firing) is contrasted with psychoanalytic views and threat simulation theory. An Italian study using EEG and waking subjects found frontal theta waves linked to dream recall, supporting affect regulation theory, under which dreams process emotions into memories.",
+      "topics": [
+        "dream theories",
+        "activation synthesis hypothesis",
+        "threat simulation theory",
+        "affect regulation theory",
+        "dream recall",
+        "EEG study of dreams"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Nightmares and the theory of fever dreams",
+      "summary": "Nightmares are explained as emotions overwhelming the memory-processing process. Fever dreams are described as nightmares on steroids. Anecdotally they seem more common in childhood, and the hosts propose that a fevered brain under heat stress, amygdala overactivity, and waking during REM when temperature regulation is off could make them more vivid.",
+      "topics": [
+        "nightmares",
+        "fever dreams",
+        "amygdala",
+        "brain temperature",
+        "REM sleep waking",
+        "anecdotal theory"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Anxiety dreams and recreational drugs",
+      "summary": "Chuck describes his own anxiety dreams, which he attributes to watching Fargo. The hosts briefly note that meth and ecstasy can raise brain temperature, which may contribute to brain cell death.",
+      "topics": [
+        "anxiety dreams",
+        "Fargo",
+        "meth and brain temperature",
+        "ecstasy and heat"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "A fan letter praises the hosts' puberty episodes. The hosts briefly discuss DC live show logistics, then close with social media and website information.",
+      "topics": [
+        "listener mail",
+        "puberty episodes",
+        "fan mail",
+        "live shows",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12177,
+    "output_tokens": 2481
+  }
+}

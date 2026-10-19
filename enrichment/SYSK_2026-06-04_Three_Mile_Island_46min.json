@@ -1,0 +1,348 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-06-04_Three_Mile_Island_46min.txt",
+  "title": "Three Mile Island",
+  "date": "2026-06-04",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/three-mile-island",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9a1e8284-e97a-44a0-aa68-b45f00086b7f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9a1e8284-e97a-44a0-aa68-b45f00086b7f/transcript?format=TextWithTimestamps&t=1780533308",
+  "summary": "Josh and Chuck cover the March 28, 1979 Three Mile Island Unit 2 (TMI-2) nuclear accident near Middletown, Pennsylvania: how a feedwater fault and a stuck pilot-operated relief valve led to a partial core meltdown, the hydrogen bubble scare, the confused operator response and control room design flaws, the public evacuation panic, President Jimmy Carter's visit, the Kemeny Commission and NRC criticism, the long cleanup through 1993 and beyond, health and radiation exposure debates, lawsuits and the Metropolitan Edison fines, the anti-nuclear movement and No Nukes concert, and the decline of US nuclear construction. The episode closes with a listener mail correction about Thomas Hobbes.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Three Mile Island",
+    "TMI-2 accident",
+    "1979 nuclear accident",
+    "Three Mile Island meltdown",
+    "partial meltdown",
+    "pilot operated relief valve",
+    "hydrogen bubble",
+    "Metropolitan Edison",
+    "Nuclear Regulatory Commission",
+    "Kemeny Commission",
+    "Jimmy Carter Three Mile Island visit",
+    "nuclear evacuation panic",
+    "radiation exposure health effects",
+    "TMI cleanup",
+    "nuclear power decline",
+    "No Nukes concert",
+    "Metropolitan Edison fine",
+    "Rick Parks whistleblower",
+    "normal accident theory",
+    "The China Syndrome",
+    "Microsoft TMI-1 power deal",
+    "Middletown Pennsylvania",
+    "listener mail",
+    "Thomas Hobbes correction"
+  ],
+  "entities": [
+    {
+      "name": "Three Mile Island",
+      "type": "place"
+    },
+    {
+      "name": "Metropolitan Edison",
+      "type": "organization"
+    },
+    {
+      "name": "Nuclear Regulatory Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Jimmy Carter",
+      "type": "person"
+    },
+    {
+      "name": "Rosalynn Carter",
+      "type": "person"
+    },
+    {
+      "name": "Dick Thornburg",
+      "type": "person"
+    },
+    {
+      "name": "William Scranton",
+      "type": "person"
+    },
+    {
+      "name": "John Kemeny",
+      "type": "person"
+    },
+    {
+      "name": "Charles Perrow",
+      "type": "person"
+    },
+    {
+      "name": "Rick Parks",
+      "type": "person"
+    },
+    {
+      "name": "The China Syndrome",
+      "type": "work"
+    },
+    {
+      "name": "Jane Fonda",
+      "type": "person"
+    },
+    {
+      "name": "Bruce Springsteen",
+      "type": "person"
+    },
+    {
+      "name": "No Nukes concert",
+      "type": "event"
+    },
+    {
+      "name": "Musicians United for Safe Energy",
+      "type": "organization"
+    },
+    {
+      "name": "Three Mile Island Alert",
+      "type": "organization"
+    },
+    {
+      "name": "TMI-2 Solutions",
+      "type": "organization"
+    },
+    {
+      "name": "Middletown, Pennsylvania",
+      "type": "place"
+    },
+    {
+      "name": "Thomas Hobbes",
+      "type": "person"
+    },
+    {
+      "name": "Microsoft",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:19",
+      "kind": "ad",
+      "title": "Virgin Voyages sponsor read",
+      "summary": "Sponsor read promoting a Stuff at Sea adults-only live podcast sailing from New York to Bermuda in October aboard the Valiant Lady.",
+      "topics": [
+        "Virgin Voyages",
+        "live podcast cruise"
+      ]
+    },
+    {
+      "start": "00:01:19",
+      "end": "00:04:58",
+      "kind": "intro",
+      "title": "Introduction to Three Mile Island",
+      "summary": "Hosts introduce the 1979 Three Mile Island accident, noting it was the worst US nuclear disaster, the timing with The China Syndrome film, the origin of the term China syndrome, and public skepticism about health effects. They describe the industry's overly optimistic views on nuclear safety.",
+      "topics": [
+        "Three Mile Island",
+        "China syndrome term",
+        "The China Syndrome film",
+        "nuclear safety skepticism"
+      ]
+    },
+    {
+      "start": "00:04:58",
+      "end": "00:07:09",
+      "kind": "content",
+      "title": "Initial failure and automatic shutdown",
+      "summary": "A secondary cooling system fault stopped water flow to the steam generators around 4 a.m. The reactor overheated and shut itself down automatically as designed.",
+      "topics": [
+        "feedwater failure",
+        "reactor shutdown",
+        "coolant loss",
+        "control rods"
+      ]
+    },
+    {
+      "start": "00:07:09",
+      "end": "00:12:01",
+      "kind": "content",
+      "title": "Stuck relief valve and coolant loss",
+      "summary": "A pilot-operated relief valve opened to lower pressure but stuck open. Operators did not realize it, and low pressure caused more boiling. Emergency cooling was turned off, the core was exposed, and about 100,000 liters of coolant leaked out before the valve was closed around 6 a.m.",
+      "topics": [
+        "pilot operated relief valve",
+        "stuck valve",
+        "loss of coolant accident",
+        "exposed reactor core",
+        "radioactive water leak"
+      ]
+    },
+    {
+      "start": "00:12:01",
+      "end": "00:16:26",
+      "kind": "content",
+      "title": "Emergency declaration and early public reaction",
+      "summary": "Operators struggled to reach the NRC; the regional duty officer had already left for work and contact took about forty minutes. Word spread, and the utility and state officials gave reassuring but inaccurate information. Governor Thornburg declined evacuation initially, then on March 30 advised pregnant women and preschool children to leave; about 140,000 people left.",
+      "topics": [
+        "site emergency declaration",
+        "NRC notification",
+        "evacuation",
+        "Governor Dick Thornburg",
+        "public panic",
+        "rumors"
+      ]
+    },
+    {
+      "start": "00:16:26",
+      "end": "00:17:09",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:17:09",
+      "end": "00:20:51",
+      "kind": "content",
+      "title": "Hydrogen bubble and Jimmy Carter's visit",
+      "summary": "A hydrogen gas bubble formed from zirconium-steam reaction and threatened an explosion; operators vented gas to reduce it. President Jimmy Carter, a trained nuclear engineer, toured the plant with Rosalynn Carter on April 1 amid disputed risk assessments, which helped calm the public.",
+      "topics": [
+        "hydrogen bubble",
+        "zirconium reaction",
+        "Jimmy Carter visit",
+        "venting radioactive gas"
+      ]
+    },
+    {
+      "start": "00:20:51",
+      "end": "00:24:40",
+      "kind": "content",
+      "title": "Kemeny Commission and causes of the accident",
+      "summary": "The Kemeny Commission and an NRC review faulted poor operator training, confusing emergency procedures, and NRC requirements. Operators misread pump vibration and water levels; a printer jam left data ninety minutes old. Sociologist Charles Perrow's normal accident theory is discussed.",
+      "topics": [
+        "Kemeny Commission",
+        "NRC training failures",
+        "operator error",
+        "normal accident theory",
+        "Charles Perrow"
+      ]
+    },
+    {
+      "start": "00:24:40",
+      "end": "00:27:16",
+      "kind": "content",
+      "title": "Control room design flaws",
+      "summary": "Control room lacked direct water level measurement, and an indicator light showed a command to close the relief valve rather than confirming it closed. A large-bellied operator's view of panel indicators was blocked, and a jammed printer hid real-time data.",
+      "topics": [
+        "control room design",
+        "indicator light",
+        "water level measurement",
+        "instrumentation failures"
+      ]
+    },
+    {
+      "start": "00:27:16",
+      "end": "00:31:06",
+      "kind": "content",
+      "title": "Radiation release and health effects debate",
+      "summary": "Radioactive gas was vented; studies by the EPA, NRC, and others found exposure too low to affect health, with figures compared to chest X-rays and airplane flights. Some studies reported increased infant deaths, cancer, or thyroid cancer, but causation was not proven. Residents reported symptoms.",
+      "topics": [
+        "radiation exposure",
+        "health effects",
+        "chest X-ray comparison",
+        "thyroid cancer study",
+        "infant deaths study"
+      ]
+    },
+    {
+      "start": "00:31:06",
+      "end": "00:31:21",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Ad break before the second half of the episode.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:31:21",
+      "end": "00:35:07",
+      "kind": "content",
+      "title": "Cold shutdown and decades of cleanup",
+      "summary": "The reactor reached cold shutdown on April 27. Cleanup began in 1979; the first phase finished by 1990, with fuel and about 150 tons of radioactive material removed. Contaminated water was evaporated by 1993, and about one percent of fuel remains, being removed by TMI-2 Solutions using leftover funds.",
+      "topics": [
+        "cold shutdown",
+        "TMI-2 cleanup",
+        "molten core",
+        "containment vessel",
+        "TMI-2 Solutions",
+        "radioactive waste disposal"
+      ]
+    },
+    {
+      "start": "00:35:07",
+      "end": "00:38:25",
+      "kind": "content",
+      "title": "Anti-nuclear protests and No Nukes concert",
+      "summary": "Public opposition surged; protesters and Jane Fonda visited. The 1979 No Nukes concert at Madison Square Garden by Musicians United for Safe Energy featured Bruce Springsteen, with a concert film released in 2021. The hosts share a brief Springsteen anecdote.",
+      "topics": [
+        "anti-nuclear protests",
+        "No Nukes concert",
+        "Musicians United for Safe Energy",
+        "Jane Fonda",
+        "Bruce Springsteen"
+      ]
+    },
+    {
+      "start": "00:38:25",
+      "end": "00:42:06",
+      "kind": "content",
+      "title": "Penalties, lawsuits, and whistleblower",
+      "summary": "Metropolitan Edison was indicted and fined for falsifying leak test results, paying about $45,000 in 1984, plus roughly $1 million for a Pennsylvania EPA fund. Total payouts were under $3.5 million, with lawsuits later settled; a 1996 test-case ruling went against plaintiffs. Whistleblower Rick Parks raised crane safety concerns in the cleanup.",
+      "topics": [
+        "Metropolitan Edison fine",
+        "lawsuits",
+        "1996 test case ruling",
+        "Rick Parks whistleblower",
+        "Three Mile Island Alert"
+      ]
+    },
+    {
+      "start": "00:42:06",
+      "end": "00:43:25",
+      "kind": "content",
+      "title": "Legacy and nuclear power decline",
+      "summary": "Fifty-one US reactor plans were canceled in 1980 to 1984 and no new reactors were ordered afterward. Microsoft later agreed to buy power from TMI-1 to supply data centers for AI.",
+      "topics": [
+        "nuclear power decline",
+        "reactor cancellations",
+        "Microsoft TMI-1 power deal",
+        "data centers"
+      ]
+    },
+    {
+      "start": "00:43:25",
+      "end": "00:45:13",
+      "kind": "listener_mail",
+      "title": "Listener mail: Thomas Hobbes correction",
+      "summary": "Nathan from Pittsburgh corrects the Humanism episode: Hobbes argued that some people do bad things and no one can know who, not that most people are inherently bad. Extra details on Hobbes's life are shared.",
+      "topics": [
+        "listener mail",
+        "Thomas Hobbes",
+        "correction",
+        "Humanism episode"
+      ]
+    },
+    {
+      "start": "00:45:13",
+      "end": "00:45:27",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts invite listener mail and close the episode.",
+      "topics": [
+        "sign-off",
+        "listener mail address"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16487,
+    "output_tokens": 4039
+  }
+}

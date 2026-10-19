@@ -1,0 +1,265 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-11-12_Augmented_Reality_Coming_Soon_58min.txt",
+  "title": "Augmented Reality: Coming Soon?",
+  "date": "2019-11-12",
+  "duration": "58 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/augmented-reality-coming-soon",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/17947074-4813-4190-bdb5-ae280042b21a/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/17947074-4813-4190-bdb5-ae280042b21a/transcript?format=TextWithTimestamps&t=1700543675",
+  "summary": "Josh and Chuck explore augmented reality (AR): how it differs from virtual reality (VR) and mixed reality, the basics of how AR devices sense and render digital layers (time-of-flight sensors, stereo cameras, gyroscopes, GPS, facial tracking at about thirty frames per second), marker-based versus markerless AR, and the history from Ivan Sutherland's headset and Myron Krueger's Videoplace through the 1990s and Sixth Sense's 2009 TED talk, to Pokemon Go, the NFL first-down line, and Google Glass. They cover applications in retail, healthcare, navigation, military training, accessibility for people with sensory impairments, and museums and tourism. Hurdles discussed include bandwidth and latency (with 5G as a possible fix), hardware such as contact lenses and power sources, privacy, hacking, and over-reliance on apps. The episode closes with a listener mail segment about a disagreement over apple bobbing at trunk or treating.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "augmented reality",
+    "AR",
+    "virtual reality",
+    "VR",
+    "mixed reality",
+    "Pokemon Go",
+    "Google Glass",
+    "marker-based AR",
+    "markerless AR",
+    "time of flight sensor",
+    "stereo cameras",
+    "computer vision",
+    "Ivan Sutherland",
+    "Myron Krueger",
+    "Videoplace",
+    "Sixth Sense TED talk",
+    "NFL first down line",
+    "Google Tango",
+    "5G bandwidth latency",
+    "AR privacy",
+    "Wikitude",
+    "synthetic training environments",
+    "AR retail",
+    "AR accessibility",
+    "trunk or treating"
+  ],
+  "entities": [
+    {
+      "name": "Pokemon Go",
+      "type": "work"
+    },
+    {
+      "name": "Google Glass",
+      "type": "work"
+    },
+    {
+      "name": "Ivan Sutherland",
+      "type": "person"
+    },
+    {
+      "name": "Myron Krueger",
+      "type": "person"
+    },
+    {
+      "name": "Videoplace",
+      "type": "work"
+    },
+    {
+      "name": "Sixth Sense",
+      "type": "work"
+    },
+    {
+      "name": "Google Tango",
+      "type": "work"
+    },
+    {
+      "name": "Wikitude",
+      "type": "work"
+    },
+    {
+      "name": "Asus Zenfone AR",
+      "type": "work"
+    },
+    {
+      "name": "Dancing in Cyberspace",
+      "type": "work"
+    },
+    {
+      "name": "Progresso",
+      "type": "organization"
+    },
+    {
+      "name": "Campbell's",
+      "type": "organization"
+    },
+    {
+      "name": "Gatwick Airport",
+      "type": "place"
+    },
+    {
+      "name": "Pompeii",
+      "type": "place"
+    },
+    {
+      "name": "Tom Schiller",
+      "type": "person"
+    },
+    {
+      "name": "Jonathan Strickland",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and predictions about AR",
+      "summary": "The hosts open with banter about a friend who predicted that AR glasses would be everywhere within a few years, and they debate whether that will happen. They set up the topic.",
+      "topics": [
+        "augmented reality predictions",
+        "AR glasses",
+        "smart glasses"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Definition of AR and Pokemon Go",
+      "summary": "They define augmented reality as a computer-generated layer added to real life, possibly involving sight, touch, sound, or smell. They discuss how it differs from VR and cite Pokemon Go's success in 2016.",
+      "topics": [
+        "augmented reality definition",
+        "virtual reality vs augmented reality",
+        "Pokemon Go",
+        "haptic feedback"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "AR vs mixed reality",
+      "summary": "The hosts use a soup can example to show a simple AR overlay compared with mixed reality, where occlusion lets real objects such as a hand cover digital information.",
+      "topics": [
+        "mixed reality",
+        "occlusion",
+        "AR examples",
+        "soup can example"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "How AR works: sensing and rendering",
+      "summary": "They give a layman's overview of computer vision, time-of-flight infrared sensors, stereo cameras, gyroscopes, GPS, and facial tracking, and say the output updates about thirty times per second. They also mention Snapchat and FaceTime filters.",
+      "topics": [
+        "time of flight sensor",
+        "stereo cameras",
+        "computer vision",
+        "rendering",
+        "gyroscope and GPS",
+        "facial tracking",
+        "Snapchat filters"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Navigation habits and tech reliance",
+      "summary": "The hosts compare their navigation habits, with Josh walking by compass and Chuck using maps, and talk about how people use phones to find direction.",
+      "topics": [
+        "navigation apps",
+        "GPS navigation",
+        "technology reliance"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Marker-based vs markerless AR",
+      "summary": "They explain that marker-based AR relies on preloaded targets such as QR codes or landmarks, while markerless AR recognizes things like rivers and walkways without preloaded markers. Pokemon Go is given as an example. A soup recipe tangent follows.",
+      "topics": [
+        "marker-based AR",
+        "markerless AR",
+        "QR codes",
+        "Pokemon Go river example"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "History: Sutherland, Krueger, and Sixth Sense",
+      "summary": "They trace AR history from Ivan Sutherland's wire-frame headset and Myron Krueger's Videoplace in the 1970s to the 2009 Sixth Sense TED talk, which used a projector, camera, and colored finger caps for gesture input. They also recall the first-down line on TV.",
+      "topics": [
+        "Ivan Sutherland headset",
+        "Myron Krueger Videoplace",
+        "Sixth Sense TED talk 2009",
+        "gesture tracking",
+        "NFL first down line",
+        "history of augmented reality"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Early AR uses and smartphone era",
+      "summary": "They discuss other early AR uses, including the NHL hockey puck overlay, an Esquire cover, Starbucks Valentines, and the 1990s beta Dancing in Cyberspace. They say smartphones pushed AR forward and note consumer apps like star maps and parking finders.",
+      "topics": [
+        "AR history",
+        "smartphone AR apps",
+        "sky map apps",
+        "Dancing in Cyberspace"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Applications: tourism, military, shopping, healthcare, accessibility",
+      "summary": "The hosts discuss AR uses in museums, Pompeii, Gatwick Airport, Wikitude, military synthetic training environments, retail furniture and glasses try-ons, healthcare practice surgeries, and help for people with vision or hearing impairments.",
+      "topics": [
+        "AR tourism",
+        "military synthetic training",
+        "AR retail shopping",
+        "AR healthcare",
+        "AR accessibility",
+        "Wikitude",
+        "Pompeii AR"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:00:00",
+      "kind": "content",
+      "title": "Hardware, bandwidth, and pitfalls",
+      "summary": "They describe the Asus Zenfone AR and Google Tango, then challenges such as bandwidth, latency, 5G, the need for better hardware and power for contact lenses, the risk of a career arms race, safety, hacking, privacy, and the Google Glass failure.",
+      "topics": [
+        "Asus Zenfone AR",
+        "Google Tango",
+        "5G",
+        "bandwidth and latency",
+        "AR privacy",
+        "Google Glass failure",
+        "AR contact lenses",
+        "hacking"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:03:00",
+      "kind": "outro",
+      "title": "Closing remarks and listener mail",
+      "summary": "The hosts wrap up the AR discussion and suggest revisiting it in five years. Then they read listener mail from Alex in London about a disagreement over apple bobbing at trunk or treating.",
+      "topics": [
+        "listener mail",
+        "trunk or treating",
+        "apple bobbing"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18768,
+    "output_tokens": 2931
+  }
+}

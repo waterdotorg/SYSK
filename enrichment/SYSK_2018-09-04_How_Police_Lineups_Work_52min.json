@@ -1,0 +1,208 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-09-04_How_Police_Lineups_Work_52min.txt",
+  "title": "How Police Lineups Work",
+  "date": "2018-09-04",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-police-lineups-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d307d330-f8c6-4fef-ab41-ae28005d2282/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d307d330-f8c6-4fef-ab41-ae28005d2282/transcript?format=TextWithTimestamps&t=1700543737",
+  "summary": "Hosts Josh and Chuck open with a plug-heavy intro (Ben and Noel's Ridiculous History, merch, a listener suggestion from Britney Shift) and then explore police lineups: why eyewitness testimony is unreliable, the Jerry Miller wrongful conviction, simultaneous vs. sequential and double-blind lineup procedures, the disputed Illinois pilot study, filler recruitment (including Robert Weston), show-ups, and cross-race identification. They close with a listener email from Sarah Strantz about her baby calming down to the podcast.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "police lineups",
+    "eyewitness testimony",
+    "eyewitness misidentification",
+    "wrongful conviction",
+    "Innocence Project",
+    "Jerry Miller",
+    "sequential lineup",
+    "simultaneous lineup",
+    "double-blind lineup",
+    "show-up identification",
+    "filler recruitment",
+    "foils",
+    "Illinois lineup pilot study",
+    "cross-race identification",
+    "weapon focus",
+    "relative vs absolute judgment",
+    "DNA exoneration",
+    "Robert Weston",
+    "Ridiculous History",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Jerry Miller",
+      "type": "person"
+    },
+    {
+      "name": "Robert Weston",
+      "type": "person"
+    },
+    {
+      "name": "Innocence Project",
+      "type": "organization"
+    },
+    {
+      "name": "National Institute of Justice",
+      "type": "organization"
+    },
+    {
+      "name": "Illinois State Police",
+      "type": "organization"
+    },
+    {
+      "name": "Ridiculous History",
+      "type": "work"
+    },
+    {
+      "name": "The Usual Suspects",
+      "type": "work"
+    },
+    {
+      "name": "An Innocent Man",
+      "type": "work"
+    },
+    {
+      "name": "Bronx Precinct",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter and Ridiculous History plug",
+      "summary": "Josh and Chuck welcome guests Ben and Noel, who talk about their show Ridiculous History, including the St. Louis racist Olympics anecdote, and plug merchandise and listener channels.",
+      "topics": [
+        "Ridiculous History",
+        "podcast banter",
+        "St. Louis 1904 Olympics",
+        "merch"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Listener suggestion and the Jerry Miller case",
+      "summary": "Chuck introduces the police lineup topic from listener Britney Shift and a National Institute of Justice article. They describe Jerry Miller, convicted on two eyewitness identifications, who served twenty-four years before DNA exonerated him through the Innocence Project.",
+      "topics": [
+        "Jerry Miller",
+        "wrongful conviction",
+        "Innocence Project",
+        "eyewitness identification",
+        "DNA exoneration"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Why eyewitness memory is unreliable",
+      "summary": "The hosts explain that human memory and perception are poor recorders, citing stress, adrenaline, and weapon focus. Chuck shares his own experience failing to identify suspects in a hit-and-run, and they discuss cross-race identification difficulty.",
+      "topics": [
+        "eyewitness memory",
+        "weapon focus",
+        "cross-race identification",
+        "adrenaline and memory",
+        "hit and run"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Break before the lineup fundamentals segment.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Simultaneous vs. sequential lineups and double-blind administration",
+      "summary": "The hosts describe simultaneous and sequential lineup formats, relative vs. absolute judgment, and double-blind administration, noting how administrator cues can mislead witnesses. They discuss telling witnesses the suspect may not be present.",
+      "topics": [
+        "simultaneous lineup",
+        "sequential lineup",
+        "double-blind administration",
+        "relative judgment",
+        "absolute judgment",
+        "suspect-may-not-be-present instruction"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Illinois pilot study and its flawed methodology",
+      "summary": "They discuss a Illinois multi-year study that appeared to favor simultaneous non-blind lineups, why its methodology was criticized, and police resistance to blind administrators, with the idea of a dedicated administrator.",
+      "topics": [
+        "Illinois lineup pilot study",
+        "police resistance to double-blind",
+        "blind administrator",
+        "lineup methodology"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Building fair lineups, fillers, and Robert Weston",
+      "summary": "The hosts explain one suspect per lineup, matching fillers to the suspect or the witness description, dressing fillers alike, and the use of paid fillers recruited by casting agent Robert Weston in New York.",
+      "topics": [
+        "filler recruitment",
+        "Robert Weston",
+        "lineup fairness",
+        "suspect-matched lineup",
+        "perpetrator description match",
+        "Bronx Precinct"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Show-ups, investigatory vs. confirmatory lineups, and memory contamination",
+      "summary": "They describe show-ups as the worst format, how seeing a suspect in custody contaminates memory, and the difference between investigatory and confirmatory lineups.",
+      "topics": [
+        "show-up identification",
+        "investigatory lineup",
+        "confirmatory lineup",
+        "memory contamination"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:51:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: baby calmed by the podcast",
+      "summary": "Sarah Strantz writes that her crying baby calmed down when the show came on in the car. The hosts read the email and mention how to contact the show.",
+      "topics": [
+        "listener mail",
+        "Sarah Strantz"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:52:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck wrap up, mention social media and email contact, and sign off.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16739,
+    "output_tokens": 2255
+  }
+}

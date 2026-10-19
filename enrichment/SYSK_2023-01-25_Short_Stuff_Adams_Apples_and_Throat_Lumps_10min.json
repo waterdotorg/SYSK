@@ -1,0 +1,151 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-01-25_Short_Stuff_Adams_Apples_and_Throat_Lumps_10min.txt",
+  "title": "Short Stuff: Adam's Apples and Throat Lumps",
+  "date": "2023-01-25",
+  "duration": "10 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-adams-apples-and-throat-lumps",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/519a29e9-7827-4507-aae9-af940115c666/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/519a29e9-7827-4507-aae9-af940115c666/transcript?format=TextWithTimestamps&t=1700557617",
+  "summary": "Short Stuff episode on the Adam's apple and the lump in the throat. Josh and Chuck open by noting the prominent laryngeal prominence, and dismiss the Biblical forbidden-apple folklore: the Adam's apple is the larynx (voice box) cartilage growing during male puberty under testosterone, which deepens the voice. Women have smaller larynxes and higher voices but can also have a visible Adam's apple. They discuss the tracheal shave (feminizing laryngoplasty) as a procedure that changes appearance but not voice, and that voice-feminizing surgery alters vocal cord length instead. The second half covers the lump-in-the-throat sensation (globus sensation): stress triggers fight-or-flight, which opens the glottis to take in more oxygen, while trying to hold back tears means holding breath or swallowing, so the glottis is pulled both open and closed, producing the sensation.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Adam's apple",
+    "larynx",
+    "voice box",
+    "puberty",
+    "testosterone and voice",
+    "thyroid cartilage",
+    "tracheal shave",
+    "feminizing laryngoplasty",
+    "voice feminization surgery",
+    "vocal cords",
+    "lump in the throat",
+    "globus sensation",
+    "glottis",
+    "fight or flight",
+    "autonomic nervous system",
+    "crying and suppressing tears",
+    "forbidden fruit folklore"
+  ],
+  "entities": [
+    {
+      "name": "Adam's apple",
+      "type": "other"
+    },
+    {
+      "name": "larynx",
+      "type": "other"
+    },
+    {
+      "name": "glottis",
+      "type": "other"
+    },
+    {
+      "name": "globus sensation",
+      "type": "other"
+    },
+    {
+      "name": "tracheal shave",
+      "type": "other"
+    },
+    {
+      "name": "Meg Ryan",
+      "type": "person"
+    },
+    {
+      "name": "Sandra Bullock",
+      "type": "person"
+    },
+    {
+      "name": "Miley Cyrus",
+      "type": "person"
+    },
+    {
+      "name": "Adrien Brody",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and Adam's apple introduction",
+      "summary": "Josh and Chuck joke about their own small Adam's apples and introduce the topic, citing a HowStuffWorks-linked article.",
+      "topics": [
+        "Adam's apple",
+        "short stuff"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "What the Adam's apple really is",
+      "summary": "The Biblical forbidden-apple folklore is dismissed. The Adam's apple is the larynx cartilage growing during puberty under testosterone, which deepens the voice. Women have smaller larynxes and higher voices, and a prominent Adam's apple can appear in women too.",
+      "topics": [
+        "Adam's apple",
+        "larynx",
+        "puberty",
+        "testosterone and voice",
+        "forbidden fruit folklore"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:40",
+      "kind": "content",
+      "title": "Tracheal shave and voice feminization surgery",
+      "summary": "A tracheal shave (feminizing laryngoplasty) reduces a prominent Adam's apple and is discussed as a safe option for women and trans women, but it does not change the voice. Voice-feminizing surgery alters vocal cord length instead.",
+      "topics": [
+        "tracheal shave",
+        "feminizing laryngoplasty",
+        "voice feminization surgery",
+        "vocal cords",
+        "transgender surgery"
+      ]
+    },
+    {
+      "start": "00:06:40",
+      "end": "00:08:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a break before the next topic.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:09:40",
+      "kind": "content",
+      "title": "Lump in the throat and the globus sensation",
+      "summary": "The lump-in-the-throat feeling (globus sensation) is explained: stress triggers fight-or-flight, which opens the glottis, while holding back tears involves holding breath or swallowing, so the glottis is pulled open and closed at once.",
+      "topics": [
+        "lump in the throat",
+        "globus sensation",
+        "glottis",
+        "fight or flight",
+        "autonomic nervous system",
+        "suppressing tears"
+      ]
+    },
+    {
+      "start": "00:09:40",
+      "end": "00:10:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts agree the episode is complete and close the show with a note about iHeartRadio podcasts.",
+      "topics": [
+        "short stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4457,
+    "output_tokens": 1612
+  }
+}

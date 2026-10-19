@@ -1,0 +1,337 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-08-13_Solar_Power_The_Future_or_What_61min.txt",
+  "title": "Solar Power: The Future or What?",
+  "date": "2019-08-13",
+  "duration": "61 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/solar-power-the-future-or-what",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2f883eb0-ca8c-4b8c-bd06-ae2800482813/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2f883eb0-ca8c-4b8c-bd06-ae2800482813/transcript?format=TextWithTimestamps&t=1700543684",
+  "summary": "Josh and Chuck explain solar power: how much energy the sun delivers, the history from Edmond Becquerel's 1839 photovoltaic effect through Charles Fritz's 1880s rooftop array, Einstein's photoelectric explanation, Bell Labs and space satellites, the 1973 oil embargo and tax credits, and the White House solar panels (Carter installed, Reagan removed, Obama reinstalled). They then cover how photovoltaic cells work (silicon doped with phosphorus and boron creating a p-n junction), inverters and microinverters, system sizing and energy audits, costs and payback, efficiency limits and perovskite, net metering and buybacks, home batteries, islanding during outages, environmental trade-offs in manufacturing, grid integration challenges, and offshore floating solar. The episode ends with a listener-mail segment featuring Alex Williams, host of the podcast Ephemeral.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "solar power",
+    "photovoltaic cells",
+    "solar energy",
+    "solar panels",
+    "history of solar power",
+    "photovoltaic effect",
+    "Becquerel",
+    "Charles Fritz rooftop solar array",
+    "Einstein photoelectric effect",
+    "Bell Labs solar cell",
+    "White House solar panels",
+    "Carter solar panels",
+    "Reagan solar panels removed",
+    "solar tax credits",
+    "silicon semiconductor doping",
+    "p-n junction",
+    "inverter",
+    "microinverter",
+    "solar array",
+    "energy audit",
+    "solar payback period",
+    "solar efficiency",
+    "perovskite solar cells",
+    "net metering",
+    "home solar battery",
+    "islanding",
+    "grid integration renewables",
+    "floating solar",
+    "solar roof tiles",
+    "nitrogen trifluoride",
+    "energy storage"
+  ],
+  "entities": [
+    {
+      "name": "Alexandre Edmond Becquerel",
+      "type": "person"
+    },
+    {
+      "name": "Charles Fritz",
+      "type": "person"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "Jimmy Carter",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "George W. Bush",
+      "type": "person"
+    },
+    {
+      "name": "Barack Obama",
+      "type": "person"
+    },
+    {
+      "name": "Alex Williams",
+      "type": "person"
+    },
+    {
+      "name": "Ephemeral",
+      "type": "work"
+    },
+    {
+      "name": "Dumont Television Network",
+      "type": "organization"
+    },
+    {
+      "name": "Bell Labs",
+      "type": "organization"
+    },
+    {
+      "name": "Union of Concerned Scientists",
+      "type": "organization"
+    },
+    {
+      "name": "Tesla",
+      "type": "organization"
+    },
+    {
+      "name": "Lawrence Berkeley National Lab",
+      "type": "organization"
+    },
+    {
+      "name": "OPEC",
+      "type": "organization"
+    },
+    {
+      "name": "White House",
+      "type": "place"
+    },
+    {
+      "name": "Texas",
+      "type": "place"
+    },
+    {
+      "name": "Perovskite",
+      "type": "other"
+    },
+    {
+      "name": "Solar roof tiles",
+      "type": "other"
+    },
+    {
+      "name": "OPEC oil embargo 1973 energy crisis",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to solar power",
+      "summary": "Josh and Chuck open the episode recorded in Salem, mention an upcoming Portland, Maine show, and Josh says solar has grown well in the US despite the hosts' concerns about it not taking off as expected.",
+      "topics": [
+        "solar power",
+        "Stuff You Should Know live show"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Solar energy versus global energy use",
+      "summary": "The hosts compare the sun's energy delivered to Texas in one hour with total human energy production, and cite the Union of Concerned Scientists claim that eighteen days of sunlight equals the planet's coal, oil and natural gas reserves. They note the clean, free, no-emissions benefit once systems are running.",
+      "topics": [
+        "solar energy potential",
+        "sunlight energy comparison",
+        "renewable energy",
+        "clean energy"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Early history: Becquerel, Fritz and Einstein",
+      "summary": "Edmond Becquerel first demonstrated the photovoltaic effect in 1839. Charles Fritz built the first rooftop solar array in the 1880s, a very inefficient one, the year after Edison's coal power plant. Einstein won the Nobel Prize for explaining the photoelectric effect, not relativity.",
+      "topics": [
+        "photovoltaic effect history",
+        "Becquerel",
+        "Charles Fritz",
+        "Einstein photoelectric effect"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Bell Labs, satellites and the 1973 oil embargo",
+      "summary": "Bell Labs developed the modern PV cell in 1954, with US government and military funding driving early research and solar-powered satellites. The 1973 OPEC embargo made oil expensive and pushed the US toward solar, and tax credits for businesses and residents followed.",
+      "topics": [
+        "Bell Labs solar cell 1954",
+        "space satellite solar power",
+        "OPEC embargo",
+        "energy crisis 1973",
+        "solar tax credits"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Solar panels at the White House",
+      "summary": "Jimmy Carter installed solar panels at the White House in 1979, and Reagan had them removed in 1986. The hosts describe the competing accounts of the removal, including the official line that reinstalling was unwise based on cost, and note that George W. Bush added solar power at other White House sites and Obama installed panels on the roof. Carter's panels are displayed at the Smithsonian and the Carter Center, and China has one on display too.",
+      "topics": [
+        "White House solar panels",
+        "Carter",
+        "Reagan",
+        "Bush",
+        "Obama",
+        "solar history politics"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Solar costs and affordability",
+      "summary": "Early solar tax credits were seen as a tax break for the rich because of high costs. Prices have fallen, with the hosts citing an eight percent drop over the past decade. They estimate a typical US household system at around fifteen thousand dollars after the tax credit, and discuss energy-saver renewable energy loans and payback over time.",
+      "topics": [
+        "solar cost",
+        "solar payback",
+        "renewable energy mortgage",
+        "solar financing"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "How photovoltaic cells work: photons and doped silicon",
+      "summary": "Solar electricity, or photovoltaic energy, uses semiconductors, mostly silicon. Silicon is doped with phosphorus (N type, extra electron) and boron (P type, open bond). Where the two meet, photons from sunlight knock electrons across the junction, producing a one-directional direct current collected by metal contacts.",
+      "topics": [
+        "photovoltaic cell",
+        "silicon semiconductor",
+        "N type P type doping",
+        "photons",
+        "direct current"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Cells, modules, arrays and inverters",
+      "summary": "A solar cell is the basic unit, grouped into modules (panels) and arrays. Because solar produces direct current, an inverter converts it to alternating current. Older single inverters were limited by the weakest panel, while microinverters handle one panel or cell each and are nearly maintenance free.",
+      "topics": [
+        "solar cell module array",
+        "inverter",
+        "microinverter",
+        "direct current vs alternating current"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Planning a home solar system",
+      "summary": "Steps include an energy audit to find electricity use and peak demand, which can reveal efficiency upgrades like attic insulation. Installers ask what share of household energy should come from solar. Solar potential maps and calculators estimate payback, which varies by region. Panels should face true south in the northern hemisphere, with consideration of tilt angle, trees, buildings, and designing for the worst month of weather. Sun-tracking systems are expensive, so diffuse-light panels are used instead.",
+      "topics": [
+        "energy audit",
+        "solar sizing",
+        "solar potential maps",
+        "panel orientation true south",
+        "tilt angle",
+        "solar calculator"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Aesthetics and solar roof tiles",
+      "summary": "Solar panels have become less obtrusive, though some homeowners associations still ban them. Solar roof tiles are durable and attractive but cost about five to ten times a normal roof, roughly one hundred fifty thousand dollars for a whole roof.",
+      "topics": [
+        "solar aesthetics",
+        "homeowners association",
+        "solar roof tiles",
+        "Tesla solar roof"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Efficiency, perovskite and net metering",
+      "summary": "Early cells were under one percent efficient, and the practical physical limit is around seven to eight percent. Perovskite, a material very efficient on blue and ultraviolet light, combined with silicon can reach the high twenties or low thirties. Net metering lets homeowners sell excess electricity back to the utility, and some programs apply credits to families in need.",
+      "topics": [
+        "solar efficiency",
+        "perovskite",
+        "net metering",
+        "buyback electricity",
+        "pay it forward solar"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Home batteries, mechanical storage and outages",
+      "summary": "Home batteries from Tesla, LG and Mercedes Benz are expensive, five to seven thousand dollars. A pumped-water mechanical battery is described. Solar systems disconnect from the grid during outages to avoid islanding, which endangers linemen; a battery backup keeps power on. The hosts discuss unsafe generator backfeeding.",
+      "topics": [
+        "home solar battery",
+        "islanding",
+        "power outage",
+        "pumped water storage",
+        "generator backfeed"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Environmental drawbacks and grid challenges",
+      "summary": "Manufacturing silicon cells, transport and batteries have environmental costs, including nitrogen trifluoride emissions and mined metals such as cadmium, lead and nickel. The hosts argue these are current limitations and solar still wins over its lifetime. Converting the national grid to renewables faces infrastructure, storage cost estimates of over two trillion dollars for twelve hours of storage, and transmission challenges.",
+      "topics": [
+        "solar environmental impact",
+        "nitrogen trifluoride",
+        "grid storage cost",
+        "transmission lines",
+        "decentralized grid",
+        "renewable infrastructure"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:59:00",
+      "kind": "content",
+      "title": "Subsidies, lobbying, home value and offshore solar",
+      "summary": "Federal subsidies for solar are much smaller than those for natural gas in 2016. Utilities have incentives to discourage rooftop solar. A Lawrence Berkeley National Lab study found solar increases home value by about fifteen thousand dollars. The episode closes with a floating offshore solar idea.",
+      "topics": [
+        "solar subsidies",
+        "utility lobbying",
+        "home value solar",
+        "offshore floating solar"
+      ]
+    },
+    {
+      "start": "00:59:00",
+      "end": "01:00:30",
+      "kind": "outro",
+      "title": "Listener mail and Ephemeral podcast",
+      "summary": "Alex Williams, host of the podcast Ephemeral, visits to discuss the show, which covers lost artifacts such as Dumont Television Network kinescopes. The hosts sign off and direct listeners to the website and email.",
+      "topics": [
+        "Ephemeral podcast",
+        "Dumont Television Network",
+        "listener mail"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19567,
+    "output_tokens": 3953
+  }
+}

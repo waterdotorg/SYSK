@@ -1,0 +1,132 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-10-29_SYSKs_Scare_Your_Pants_Off_and_Back_On_Halloween_Spooktacular_42min.txt",
+  "title": "SYSK’s Scare Your Pants Off (and Back On) Halloween Spooktacular",
+  "date": "2020-10-29",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-s-scare-your-pants-off-and-back-on-halloween",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8901aca6-605b-4150-bcd0-ae28002b1827/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8901aca6-605b-4150-bcd0-ae28002b1827/transcript?format=TextWithTimestamps&t=1700543608",
+  "summary": "Annual Halloween episode of Stuff You Should Know. Hosts Josh and Chuck read two public-domain horror stories aloud in character. First, Philip K. Dick's \"Beyond the Door,\" about Doris, her husband Larry, a cuckoo clock, and the cuckoo that kills Larry with a blow after he threatens it with a hammer. Then M. R. James's \"Rats\" (presented as \"Rats\" by m R James), about Mr. Thompson, who stays at an inn in Suffolk and discovers a dead, shrouded figure of a former landlord chained in a locked room. The hosts comment on the stories between readings, discuss the public domain status of Dick's work, mention a book preorder and an ad-free episode, and wish listeners a happy Halloween.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Halloween episode",
+    "horror fiction",
+    "Philip K. Dick",
+    "Beyond the Door",
+    "M. R. James",
+    "Rats",
+    "cuckoo clock horror",
+    "ghost story reading",
+    "audio drama",
+    "public domain literature",
+    "Suffolk ghost story",
+    "scary stories",
+    "short story readings",
+    "Halloween spooky stories",
+    "Victorian ghost story",
+    "haunted room"
+  ],
+  "entities": [
+    {
+      "name": "Philip K. Dick",
+      "type": "person"
+    },
+    {
+      "name": "Beyond the Door",
+      "type": "work"
+    },
+    {
+      "name": "M. R. James",
+      "type": "person"
+    },
+    {
+      "name": "Rats",
+      "type": "work"
+    },
+    {
+      "name": "Suffolk",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Halloween tradition",
+      "summary": "Josh and Chuck open with jokes about scaring the pants off listeners, note that Philip K. Dick's work recently entered the public domain, and set up the annual Halloween reading.",
+      "topics": [
+        "Halloween episode",
+        "Philip K. Dick",
+        "public domain literature"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Reading: Beyond the Door by Philip K. Dick",
+      "summary": "Chuck reads Dick's story of Larry Thomas, who buys his wife Doris a cuckoo clock. The cuckoo comes out to Doris but resents Larry. Doris has an affair with Bob Chambers, Larry catches them, and Larry threatens the cuckoo with a hammer. The cuckoo strikes him and he falls and dies. The hosts discuss the plot and what it means.",
+      "topics": [
+        "Beyond the Door",
+        "Philip K. Dick",
+        "cuckoo clock horror",
+        "horror fiction reading"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Transition to second story",
+      "summary": "The hosts discuss the first story's ending and introduce Chuck's pick, M. R. James's Rats.",
+      "topics": [
+        "Beyond the Door",
+        "horror fiction"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Reading: Rats by M. R. James",
+      "summary": "Josh reads M. R. James's story about Mr. Thompson, a Cambridge student who stays at an inn in Suffolk. He finds a shrouded figure in a locked room, learns from the innkeepers that a hanged former landlord is kept there, and leaves. The hosts comment on the accents and the story's details.",
+      "topics": [
+        "Rats",
+        "M. R. James",
+        "ghost story reading",
+        "Suffolk ghost story",
+        "haunted room"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Discussion and where to find the stories",
+      "summary": "The hosts recap the second story, note that both stories are online and in the public domain, and mention readings on YouTube.",
+      "topics": [
+        "public domain literature",
+        "scary stories",
+        "M. R. James"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh and Chuck wish listeners a safe and happy Halloween.",
+      "topics": [
+        "Halloween episode"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13361,
+    "output_tokens": 1518
+  }
+}

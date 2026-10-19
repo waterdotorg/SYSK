@@ -1,0 +1,669 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-09-10_The_Odyssey_Episode_50min.txt",
+  "title": "The Odyssey Episode",
+  "date": "2026-09-10",
+  "duration": "50 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-odyssey-episode",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14a765e3-97da-47af-99ea-b4bf01417191/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/14a765e3-97da-47af-99ea-b4bf01417191/transcript?format=TextWithTimestamps&t=1788899177",
+  "summary": "Hosts Josh and Chuck (with Jerry's banter in the intro) discuss Homer's Odyssey: its likely oral origins, 8th-century BCE writing, Ionic Greek, translation history (including George Chapman's 1616 English translation and Emily Wilson's 2017 version), the Homeric question, the themes of xenia (hospitality) and nostos (homecoming), a plot summary of the poem, the historical basis of Troy (Hisarlik), allegorical readings of monsters, the 2026 Christopher Nolan film adaptation and its cast, adaptations like Ulysses, The Penelopiad and O Brother, Where Art Thou?, and the lost sequel Telegony. Ends with a listener mail about rope and pulleys.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "The Odyssey",
+    "Homer",
+    "Homeric question",
+    "Iliad",
+    "oral tradition",
+    "Ionic Greek",
+    "Homeric hexameter",
+    "xenia",
+    "nostos",
+    "Greek hospitality",
+    "Emily Wilson translation",
+    "George Chapman translation",
+    "Trojan War",
+    "Troy Hisarlik",
+    "Odysseus",
+    "Cyclops Polyphemus",
+    "Scylla and Charybdis",
+    "Sirens",
+    "Circe",
+    "Calypso",
+    "Telegony",
+    "Christopher Nolan Odyssey film",
+    "O Brother, Where Art Thou?",
+    "Ulysses James Joyce",
+    "The Penelopiad",
+    "Plato banning Homer",
+    "Ancient Greek epic poetry",
+    "rope and pulleys listener mail"
+  ],
+  "entities": [
+    {
+      "name": "The Odyssey",
+      "type": "work"
+    },
+    {
+      "name": "Iliad",
+      "type": "work"
+    },
+    {
+      "name": "Homer",
+      "type": "person"
+    },
+    {
+      "name": "Odysseus",
+      "type": "person"
+    },
+    {
+      "name": "Penelope",
+      "type": "person"
+    },
+    {
+      "name": "Telemachus",
+      "type": "person"
+    },
+    {
+      "name": "Polyphemus",
+      "type": "person"
+    },
+    {
+      "name": "Circe",
+      "type": "person"
+    },
+    {
+      "name": "Calypso",
+      "type": "person"
+    },
+    {
+      "name": "Athena",
+      "type": "person"
+    },
+    {
+      "name": "Emily Wilson",
+      "type": "person"
+    },
+    {
+      "name": "George Chapman",
+      "type": "person"
+    },
+    {
+      "name": "Heinrich Schliemann",
+      "type": "person"
+    },
+    {
+      "name": "Troy",
+      "type": "place"
+    },
+    {
+      "name": "Hisarlik",
+      "type": "place"
+    },
+    {
+      "name": "Ithaca",
+      "type": "place"
+    },
+    {
+      "name": "Christopher Nolan",
+      "type": "person"
+    },
+    {
+      "name": "Ulysses",
+      "type": "work"
+    },
+    {
+      "name": "The Penelopiad",
+      "type": "work"
+    },
+    {
+      "name": "O Brother, Where Art Thou?",
+      "type": "work"
+    },
+    {
+      "name": "Telegony",
+      "type": "work"
+    },
+    {
+      "name": "Eugamon of Cyrene",
+      "type": "person"
+    },
+    {
+      "name": "Scylla and Charybdis",
+      "type": "other"
+    },
+    {
+      "name": "Homeric hexameter",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Cold open banter",
+      "summary": "Playful opening banter about breastplates and codpieces leads into the hosts saying they will discuss the Odyssey, prompted by the Christopher Nolan film.",
+      "topics": [
+        "Odyssey film",
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:14",
+      "kind": "intro",
+      "title": "Reactions to the Nolan Odyssey film",
+      "summary": "Josh shares his opinion of Christopher Nolan's films and says he liked the new Odyssey movie, noting how an ancient story still resonates in 2026.",
+      "topics": [
+        "Christopher Nolan",
+        "Odyssey film",
+        "Memento"
+      ]
+    },
+    {
+      "start": "00:02:14",
+      "end": "00:04:40",
+      "kind": "content",
+      "title": "Origins of the Odyssey and Homer's attribution",
+      "summary": "The hosts explain that the Odyssey and Iliad are attributed to Homer, first written down around the 8th century BCE after a long oral tradition, and that the Odyssey is a sequel to the Iliad. Josh describes the 24 books and their coverage of Agamemnon's return and Odysseus's long journey home.",
+      "topics": [
+        "Odyssey origins",
+        "Homer",
+        "Iliad",
+        "8th century BCE",
+        "Bronze Age collapse"
+      ]
+    },
+    {
+      "start": "00:04:40",
+      "end": "00:06:56",
+      "kind": "content",
+      "title": "Oral tradition and the written text",
+      "summary": "The hosts discuss how the poem was passed down orally by bards, possibly changing like a game of telephone, until it was written on papyrus. It was central to Greek education, and Plato tried to ban it without success.",
+      "topics": [
+        "oral tradition",
+        "bards",
+        "papyrus",
+        "Plato",
+        "Greek culture"
+      ]
+    },
+    {
+      "start": "00:06:56",
+      "end": "00:08:11",
+      "kind": "content",
+      "title": "Printing and early English translation",
+      "summary": "Josh outlines the poem's path to print: a first print copy in 1488 in Italy in Ionic Greek, European translations about a century later, and George Chapman's 1616 English translation.",
+      "topics": [
+        "Odyssey translations",
+        "George Chapman",
+        "1488 print edition",
+        "Ionic Greek"
+      ]
+    },
+    {
+      "start": "00:08:11",
+      "end": "00:10:07",
+      "kind": "content",
+      "title": "Meter and the challenges of translation",
+      "summary": "The hosts describe the dactylic hexameter the poem was composed in and why translators must make big choices. They compare translation difficulty to translating the Bible.",
+      "topics": [
+        "Homeric hexameter",
+        "dactylic hexameter",
+        "translation difficulty",
+        "Bible translation"
+      ]
+    },
+    {
+      "start": "00:10:07",
+      "end": "00:11:01",
+      "kind": "content",
+      "title": "Hard job of translating the Odyssey",
+      "summary": "Josh and the host note the difficulties of translating a dead language, an oral poem, and very old material, and omit a bawdy joke about a goat.",
+      "topics": [
+        "translating ancient poetry",
+        "dead languages"
+      ]
+    },
+    {
+      "start": "00:11:01",
+      "end": "00:11:37",
+      "kind": "content",
+      "title": "Emily Wilson's 2017 translation",
+      "summary": "Emily Wilson's 2017 English translation in heroic couplets is named as the one most people are talking about now, and it is the one Christopher Nolan used for his adaptation.",
+      "topics": [
+        "Emily Wilson translation",
+        "heroic couplets",
+        "Christopher Nolan adaptation"
+      ]
+    },
+    {
+      "start": "00:11:37",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "The Homeric question and whether Homer existed",
+      "summary": "The hosts discuss whether Homer was a real person or a group, the lack of outside historical references, and the suggestion that he was from Ionia and possibly the blind bard Demodocus.",
+      "topics": [
+        "Homeric question",
+        "Homer historicity",
+        "Demodocus",
+        "Ionia"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Introduction to the main themes",
+      "summary": "The hosts introduce the Odyssey's central concepts of xenia (hospitality) and nostos (homecoming) before breaking.",
+      "topics": [
+        "xenia",
+        "nostos",
+        "Greek hospitality"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:15:07",
+      "kind": "content",
+      "title": "Xenia: rules of guest and host",
+      "summary": "Xenia is described as a set of divine rules under Zeus governing how hosts treat strangers and guests, including food, wine, baths, and protection.",
+      "topics": [
+        "xenia",
+        "guest-host rules",
+        "Zeus",
+        "hospitality"
+      ]
+    },
+    {
+      "start": "00:15:07",
+      "end": "00:16:04",
+      "kind": "content",
+      "title": "Nostos and the theme of homecoming",
+      "summary": "Nostos, or homecoming, is described as the core of the Odyssey, reflecting Greek seafaring life and long separations from family.",
+      "topics": [
+        "nostos",
+        "homecoming",
+        "Greek seafarers"
+      ]
+    },
+    {
+      "start": "00:16:04",
+      "end": "00:16:47",
+      "kind": "content",
+      "title": "Off-topic chat about reading Moby Dick",
+      "summary": "Josh mentions he has started reading Moby Dick alongside a podcast recap, and the hosts briefly chat about it.",
+      "topics": [
+        "Moby Dick"
+      ]
+    },
+    {
+      "start": "00:16:47",
+      "end": "00:17:21",
+      "kind": "intro",
+      "title": "Break before the plot summary",
+      "summary": "The hosts tease the plot summary of books in the Odyssey and take a break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:17:21",
+      "end": "00:18:10",
+      "kind": "intro",
+      "title": "Return and spoiler warning",
+      "summary": "Josh returns and warns that the plot summary contains spoilers and will identify film actors and their roles.",
+      "topics": [
+        "spoiler warning",
+        "Odyssey film cast"
+      ]
+    },
+    {
+      "start": "00:18:10",
+      "end": "00:19:37",
+      "kind": "content",
+      "title": "Cast of the Nolan film and the Trojan War setup",
+      "summary": "The hosts discuss the film's casting of Matt Damon as Odysseus, and the premise that the Trojan War began when Paris took Helen and lasted ten years, leaving Odysseus gone for twenty years. They also mention Lupita Nyong'o as Helen and Elon Musk's criticism of the casting.",
+      "topics": [
+        "Odyssey film cast",
+        "Matt Damon",
+        "Trojan War",
+        "Helen of Troy",
+        "Lupita Nyong'o"
+      ]
+    },
+    {
+      "start": "00:19:37",
+      "end": "00:20:27",
+      "kind": "content",
+      "title": "Penelope, Telemachus and the suitors",
+      "summary": "Josh describes the family in the film: Penelope played by Anne Hathaway, Telemachus by Tom Holland, and Robert Pattinson as the villainous suitor Antinous. The suitors take over the palace.",
+      "topics": [
+        "Penelope",
+        "Telemachus",
+        "suitors",
+        "Odyssey film cast"
+      ]
+    },
+    {
+      "start": "00:20:27",
+      "end": "00:21:35",
+      "kind": "content",
+      "title": "Suitors and Penelope's weaving trick",
+      "summary": "The hosts describe the suitors pressing Penelope to choose a new husband and her delay tactic of weaving and unweaving a funeral shroud for Odysseus's father Laertes.",
+      "topics": [
+        "suitors",
+        "Penelope weaving trick",
+        "Laertes"
+      ]
+    },
+    {
+      "start": "00:21:35",
+      "end": "00:22:27",
+      "kind": "content",
+      "title": "Banter about Odysseus's father's name",
+      "summary": "A joking exchange about the name of Odysseus's father, with the hosts teasing each other.",
+      "topics": [
+        "banter"
+      ]
+    },
+    {
+      "start": "00:22:27",
+      "end": "00:24:11",
+      "kind": "content",
+      "title": "Athena sends Telemachus to find his father",
+      "summary": "Athena urges Telemachus to search for his father. Zendaya plays Athena, and Telemachus visits King Menelaus in Sparta, who says Odysseus is alive and held on Calypso's island. Benny Safdie plays Agamemnon and John Bernthal plays Menelaus.",
+      "topics": [
+        "Athena",
+        "Telemachus journey",
+        "Menelaus",
+        "Calypso island"
+      ]
+    },
+    {
+      "start": "00:24:11",
+      "end": "00:25:34",
+      "kind": "content",
+      "title": "Calypso and the flashback structure",
+      "summary": "The hosts explain that the Odyssey is nonlinear and that the story is partly a flashback. Calypso holds Odysseus for about seven years until Athena persuades Zeus to release him. Charlize Theron plays Calypso.",
+      "topics": [
+        "Calypso",
+        "nonlinear narrative",
+        "flashback structure",
+        "Zeus"
+      ]
+    },
+    {
+      "start": "00:25:34",
+      "end": "00:26:39",
+      "kind": "content",
+      "title": "Poseidon wrecks Odysseus's raft",
+      "summary": "Odysseus leaves on a raft but Poseidon wrecks it as punishment for the blinding of his son the Cyclops. He is shipwrecked and taken in by the Phaeacians.",
+      "topics": [
+        "Poseidon",
+        "shipwreck",
+        "Phaeacians"
+      ]
+    },
+    {
+      "start": "00:26:39",
+      "end": "00:27:28",
+      "kind": "content",
+      "title": "Odysseus recounts his story to the Phaeacians",
+      "summary": "The Phaeacian king asks Odysseus to tell his story at a feast, which becomes the main flashback of the poem.",
+      "topics": [
+        "Phaeacians",
+        "Odysseus's flashback",
+        "storytelling at feast"
+      ]
+    },
+    {
+      "start": "00:27:28",
+      "end": "00:28:04",
+      "kind": "content",
+      "title": "Departure from Troy and Athena's storms",
+      "summary": "After leaving with about 600 soldiers, Athena sends storms because of war crimes committed at Troy, and the fleet lands among the lotus eaters.",
+      "topics": [
+        "Athena storms",
+        "Troy war crimes",
+        "returning soldiers"
+      ]
+    },
+    {
+      "start": "00:28:04",
+      "end": "00:29:09",
+      "kind": "content",
+      "title": "Lotus eaters and the Cyclops",
+      "summary": "The crew eats lotus and wants to stay; Odysseus drags them back to the ships. Next they reach the island of the Cyclops, where Polyphemus eats the men until Odysseus blinds him.",
+      "topics": [
+        "lotus eaters",
+        "Cyclops",
+        "Polyphemus",
+        "Odysseus blinds Cyclops"
+      ]
+    },
+    {
+      "start": "00:29:09",
+      "end": "00:30:34",
+      "kind": "content",
+      "title": "Polyphemus, the puppet and the Laestrygonians",
+      "summary": "Josh and the host discuss the Cyclops puppet in the film and the Laestrygonians, a tribe of giant cannibals. The host says Polyphemus was wronged first, per their reading, though Josh has not verified it.",
+      "topics": [
+        "Polyphemus",
+        "Laestrygonians",
+        "film puppet effects"
+      ]
+    },
+    {
+      "start": "00:30:34",
+      "end": "00:31:19",
+      "kind": "content",
+      "title": "Poseidon's curse and the island of Circe",
+      "summary": "Polyphemus prays to Poseidon, who wrecks the fleet. The survivors reach Circe's island, where she turns the men into pigs until Odysseus forces them back.",
+      "topics": [
+        "Poseidon curse",
+        "Circe",
+        "pig transformation"
+      ]
+    },
+    {
+      "start": "00:31:19",
+      "end": "00:32:36",
+      "kind": "content",
+      "title": "Circe's island and the underworld",
+      "summary": "Circe is an enchantress who falls for Odysseus. The hosts describe his trip to the underworld where he meets Agamemnon, his mother, and the prophet Tiresias, who warns him not to eat Helios's sacred cattle.",
+      "topics": [
+        "Circe",
+        "underworld",
+        "Tiresias",
+        "Helios sacred cattle"
+      ]
+    },
+    {
+      "start": "00:32:36",
+      "end": "00:33:15",
+      "kind": "content",
+      "title": "Circe's advice: beeswax and Scylla",
+      "summary": "Before continuing to Ithaca, Circe gives Odysseus beeswax for his men's ears and advises steering toward Scylla rather than Charybdis, plus a repeated warning about the cattle.",
+      "topics": [
+        "beeswax",
+        "Circe advice",
+        "Scylla"
+      ]
+    },
+    {
+      "start": "00:33:15",
+      "end": "00:34:05",
+      "kind": "content",
+      "title": "The Sirens",
+      "summary": "Odysseus has his men plug their ears with beeswax and tie him to the mast so he can hear the Sirens' song without being able to steer toward them. It works.",
+      "topics": [
+        "Sirens",
+        "siren song",
+        "tied to mast"
+      ]
+    },
+    {
+      "start": "00:34:05",
+      "end": "00:34:47",
+      "kind": "content",
+      "title": "Scylla and Charybdis",
+      "summary": "The fleet navigates the strait between Scylla, a six-headed monster, and Charybdis, a whirlpool. Odysseus chooses Scylla, losing about six men, and the hosts describe the 'between a rock and a hard place' origin.",
+      "topics": [
+        "Scylla and Charybdis",
+        "strait",
+        "six-headed monster"
+      ]
+    },
+    {
+      "start": "00:34:47",
+      "end": "00:35:42",
+      "kind": "content",
+      "title": "Helios, the sacred cattle and the shipwreck",
+      "summary": "The men eat Helios's sacred cattle despite warnings. Zeus destroys the ship as it departs, leaving Odysseus alone, and he washes ashore at Calypso's island, ending the flashback.",
+      "topics": [
+        "Helios cattle",
+        "Zeus shipwreck",
+        "flashback ends"
+      ]
+    },
+    {
+      "start": "00:35:42",
+      "end": "00:36:22",
+      "kind": "intro",
+      "title": "Break",
+      "summary": "The hosts announce a break before returning to wrap up the Odyssey.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:36:22",
+      "end": "00:38:27",
+      "kind": "content",
+      "title": "Odysseus's homecoming in disguise",
+      "summary": "In books 12 onward, Odysseus reaches Ithaca and disguises himself as a beggar. Only his old dog and nurse, played by John Leguizamo, recognize him. Telemachus reveals himself to his father.",
+      "topics": [
+        "homecoming",
+        "disguise as beggar",
+        "Telemachus reunion"
+      ]
+    },
+    {
+      "start": "00:38:27",
+      "end": "00:40:01",
+      "kind": "content",
+      "title": "The bow contest and the marriage bed",
+      "summary": "Penelope holds a contest where suitors must string Odysseus's bow and shoot through twelve axe heads. Only the disguised Odysseus succeeds. Penelope tests him with the olive-tree marriage bed.",
+      "topics": [
+        "bow contest",
+        "twelve axe heads",
+        "marriage bed test"
+      ]
+    },
+    {
+      "start": "00:40:01",
+      "end": "00:40:39",
+      "kind": "content",
+      "title": "Battle with suitors and Athena's peace",
+      "summary": "Odysseus and Telemachus defeat the suitors. Families of the suitors then start a civil war until Athena steps in and stops it.",
+      "topics": [
+        "suitors battle",
+        "Athena peace",
+        "civil war"
+      ]
+    },
+    {
+      "start": "00:40:39",
+      "end": "00:42:02",
+      "kind": "content",
+      "title": "Historical evidence for Troy",
+      "summary": "The hosts describe Hisarlik in Turkey, the site excavated by Heinrich Schliemann, with layers showing repeated burning. Layer seven is linked to Homer's era, and slingshot stones are cited as evidence of war.",
+      "topics": [
+        "Hisarlik",
+        "Troy archaeology",
+        "Heinrich Schliemann",
+        "Troy layer VII"
+      ]
+    },
+    {
+      "start": "00:42:02",
+      "end": "00:43:21",
+      "kind": "content",
+      "title": "Trojan horse, sea routes and allegorical monsters",
+      "summary": "Some pre-Odyssey finds show men emerging from a wheeled horse, though it may be symbolic. The monsters may represent navigational hazards, like Scylla and Charybdis in the Strait of Messina, and Mount Etna has been proposed as the Cyclops.",
+      "topics": [
+        "Trojan horse",
+        "Scylla and Charybdis Strait of Messina",
+        "Mount Etna Cyclops",
+        "allegory"
+      ]
+    },
+    {
+      "start": "00:43:21",
+      "end": "00:44:23",
+      "kind": "content",
+      "title": "Why the Odyssey endures",
+      "summary": "The hosts argue the story's universal themes of homecoming, adventure, regret, family and good versus bad guys keep it relevant, and its values still make sense today.",
+      "topics": [
+        "Odyssey legacy",
+        "universal themes"
+      ]
+    },
+    {
+      "start": "00:44:23",
+      "end": "00:46:47",
+      "kind": "content",
+      "title": "Adaptations: Joyce, Atwood and O Brother, Where Art Thou?",
+      "summary": "The hosts list adaptations: James Joyce's Ulysses, Margaret Atwood's The Penelopiad, and the Coen brothers' O Brother, Where Art Thou?, which parallels the poem with George Clooney as Ulysses and other characters.",
+      "topics": [
+        "Ulysses James Joyce",
+        "The Penelopiad Margaret Atwood",
+        "O Brother Where Art Thou Coen brothers",
+        "adaptations"
+      ]
+    },
+    {
+      "start": "00:46:47",
+      "end": "00:47:55",
+      "kind": "content",
+      "title": "Telegony, the lost sequel",
+      "summary": "The hosts describe the lost sequel Telegony, attributed to Eugamon of Cyrene, in which Telegonus kills Odysseus. It is known only from references in other writings.",
+      "topics": [
+        "Telegony",
+        "Eugamon of Cyrene",
+        "lost epic"
+      ]
+    },
+    {
+      "start": "00:47:55",
+      "end": "00:49:13",
+      "kind": "listener_mail",
+      "title": "Listener mail: rope and pulleys",
+      "summary": "Jonathan writes in praising the rope episode and suggesting that rope and pulleys enabled building temples, walls, aqueducts and bridges.",
+      "topics": [
+        "listener mail",
+        "rope",
+        "pulleys",
+        "ancient construction"
+      ]
+    },
+    {
+      "start": "00:49:13",
+      "end": "00:50:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank Jonathan, promote listener emails and sign off with production credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20844,
+    "output_tokens": 7338
+  }
+}

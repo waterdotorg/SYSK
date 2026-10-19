@@ -1,0 +1,143 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-18_How_Manufacturing_Water_Works_6min.txt",
+  "title": "How Manufacturing Water Works",
+  "date": "2008-06-18",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-manufacturing-water-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5d72b80b-1cfd-4e4f-bdea-ae2800c3fd8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5d72b80b-1cfd-4e4f-bdea-ae2800c3fd8d/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh and Chuck discuss the idea of manufacturing water from hydrogen and oxygen, explaining why it is not practical (combining the two requires a large energy burst and is dangerous). They then cover water-from-air technologies: the Aqua Magic trailer, which pulls water from the atmosphere (about 120 gallons per day, runs on diesel, debuted after Hurricane Katrina), and the Whissen windmill (\"Max Water\"), which runs on wind power and uses refrigerant to condense water from air. They note the unknown impact on the water cycle and recall Operation Cumulus, the 1952 British cloud-seeding experiment that caused excess rain in North Devon and 35 deaths. The episode opens with ads and banter and ends with a sign-off and a closing ad read.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "manufacturing water",
+    "making water from hydrogen and oxygen",
+    "atmospheric water generation",
+    "water from air",
+    "Aqua Magic",
+    "Whissen windmill",
+    "Max Water",
+    "water scarcity",
+    "safe drinking water",
+    "Operation Cumulus",
+    "cloud seeding",
+    "North Devon flood",
+    "Hurricane Katrina water relief",
+    "water cycle impact",
+    "dehumidifier water"
+  ],
+  "entities": [
+    {
+      "name": "Aqua Magic",
+      "type": "other"
+    },
+    {
+      "name": "Whissen windmill",
+      "type": "other"
+    },
+    {
+      "name": "Max Water",
+      "type": "other"
+    },
+    {
+      "name": "Operation Cumulus",
+      "type": "event"
+    },
+    {
+      "name": "North Devon",
+      "type": "place"
+    },
+    {
+      "name": "Hurricane Katrina",
+      "type": "event"
+    },
+    {
+      "name": "Lake Chad",
+      "type": "place"
+    },
+    {
+      "name": "United Nations",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening and ad read",
+      "summary": "Opening ad read, then Josh and Chuck introduce the topic and describe global access to safe drinking water problems, citing a UN report, e-waste pollution in China, and the shrinking of Lake Chad.",
+      "topics": [
+        "safe drinking water",
+        "water scarcity",
+        "United Nations report",
+        "Lake Chad"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "Why not manufacture water",
+      "summary": "Josh and Chuck explain that combining hydrogen and oxygen into water is not simple, since it requires a big burst of energy and can be dangerous.",
+      "topics": [
+        "manufacturing water",
+        "making water from hydrogen and oxygen"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:03:30",
+      "kind": "content",
+      "title": "Aqua Magic water-from-air trailer",
+      "summary": "Aqua Magic is a trailer towed behind a car that pulls water from the atmosphere, producing about 120 gallons of purified water in 24 hours. It runs on diesel fuel and debuted at a relief site after Hurricane Katrina.",
+      "topics": [
+        "Aqua Magic",
+        "atmospheric water generation",
+        "Hurricane Katrina water relief"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Whissen windmill Max Water",
+      "summary": "The Whissen windmill, named Max Water, runs entirely on wind power and uses a refrigerant to cool its blades so water in the air condenses and is collected. Its output is said to be much larger, though the exact figure is not clearly stated.",
+      "topics": [
+        "Whissen windmill",
+        "Max Water",
+        "wind-powered water generation",
+        "water from air"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Operation Cumulus cloud seeding",
+      "summary": "Josh and Chuck note that the impact of such devices on the water cycle is unknown. They recall Operation Cumulus, a 1952 British cloud-seeding experiment that caused North Devon to receive about 250 times normal rain in two weeks, killing 35 people and ending the experiment.",
+      "topics": [
+        "Operation Cumulus",
+        "cloud seeding",
+        "North Devon flood",
+        "water cycle impact"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Sign-off and closing ad",
+      "summary": "Josh points listeners to the HowStuffWorks article on manufacturing water and invites feedback, followed by a closing ad read.",
+      "topics": [
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3511,
+    "output_tokens": 1625
+  }
+}

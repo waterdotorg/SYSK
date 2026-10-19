@@ -1,0 +1,152 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-05-25_Short_Stuff_Do_people_move_in_predictable_directions_13min.txt",
+  "title": "Short Stuff: Do people move in predictable directions?",
+  "date": "2022-05-25",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-do-people-move-in-predictable-directio",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4baec397-9cd1-486c-8210-ae9e012f45da/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4baec397-9cd1-486c-8210-ae9e012f45da/transcript?format=TextWithTimestamps&t=1700551647",
+  "summary": "Short Stuff episode on whether people move in predictable directions. Josh and Chuck discuss the tendency of people in the United States, Great Britain and Japan (as mentioned) to move right when entering spaces, the counterclockwise pattern of sports fields and running bases, and how a stroke-patient and handedness studies relate to directional bias. They cover explanations including side-of-road driving habits, the clockwise convention tied to northern hemisphere sundials, wild animal migration having no geographic direction differences, architects using layout to unsettle people, and grocery stores funneling shoppers counterclockwise past impulse-buy items. The episode closes with a Philadelphia store test that funneled people left using pallets, and a sign-off.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "directional walking",
+    "pedestrian flow",
+    "people move right",
+    "counterclockwise movement",
+    "clockwise direction",
+    "sundial origin of clockwise",
+    "handedness and direction bias",
+    "stroke patients handedness",
+    "sports field counterclockwise running",
+    "baseball base running direction",
+    "grocery store layout",
+    "retail store design",
+    "impulse buying",
+    "architecture and wayfinding",
+    "side of the road driving influence",
+    "animal migration direction",
+    "Philadelphia store pallet experiment",
+    "crowd movement",
+    "left-right bias"
+  ],
+  "entities": [
+    {
+      "name": "Philadelphia",
+      "type": "place"
+    },
+    {
+      "name": "United States",
+      "type": "place"
+    },
+    {
+      "name": "Great Britain",
+      "type": "place"
+    },
+    {
+      "name": "Japan",
+      "type": "place"
+    },
+    {
+      "name": "Japanese baseball",
+      "type": "event"
+    },
+    {
+      "name": "Association for Psychological Science",
+      "type": "organization"
+    },
+    {
+      "name": "Daily Zeitgeist",
+      "type": "work"
+    },
+    {
+      "name": "Cracked",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and introduction to directional walking",
+      "summary": "Josh and Chuck open with banter about the show, Jack O'Brien and the Daily Zeitgeist, then introduce the topic of the direction people tend to move, especially turning right when entering stores or amusement parks in the US, and ask UK and Japan listeners which way they move.",
+      "topics": [
+        "directional walking",
+        "people move right",
+        "Daily Zeitgeist"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Right-moving bias, counterclockwise sports and handedness",
+      "summary": "The hosts describe how people entering a field of action tend to move counterclockwise, matching how sports like running bases and car or horse racing are done. They discuss the difference between entering a circle and taking continuous right turns, and mention studies by the Association for Psychological Science on handedness, including stroke patients who lost use of their dominant hand.",
+      "topics": [
+        "counterclockwise movement",
+        "sports field counterclockwise running",
+        "handedness and direction bias",
+        "stroke patients handedness",
+        "Association for Psychological Science"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Explanations: driving side, animal migration and clockwise origins",
+      "summary": "Chuck explains that the side of the road people drive on may contribute to walking-side habits, and that wild animals show no geographic differences in migration direction. He then notes that clockwise is based on northern hemisphere sundials.",
+      "topics": [
+        "side of the road driving influence",
+        "animal migration direction",
+        "clockwise direction",
+        "sundial origin of clockwise"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Baseball direction and architecture as a tool",
+      "summary": "The hosts joke about Japanese baseball running the opposite direction, then discuss how architects can steer people left in the US to create subtle discomfort or interest.",
+      "topics": [
+        "baseball base running direction",
+        "Japanese baseball",
+        "architecture and wayfinding",
+        "left-right bias"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Grocery store layout and impulse buys",
+      "summary": "Retail stores funnel shoppers to the right so they move counterclockwise, placing produce and essentials first and junk food and frozen items near the exit to encourage impulse buys. The hosts share personal anecdotes about pharmacies and ice cream.",
+      "topics": [
+        "grocery store layout",
+        "retail store design",
+        "impulse buying",
+        "counterclockwise movement"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Philadelphia pallet experiment and outro",
+      "summary": "A store test in Philadelphia tried to funnel people left by placing pallets in their way, and shoppers crawled over them to go right. Chuck mentions Philly Strong and the hosts sign off with the show credits.",
+      "topics": [
+        "Philadelphia store pallet experiment",
+        "crowd movement",
+        "pedestrian flow"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5226,
+    "output_tokens": 1778
+  }
+}

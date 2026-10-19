@@ -1,0 +1,424 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-03-13_How_Antidepressants_Work_51min.txt",
+  "title": "How Antidepressants Work",
+  "date": "2025-03-13",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-antidepressants-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0a034f7d-4619-4f45-9c7a-b29e01425067/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0a034f7d-4619-4f45-9c7a-b29e01425067/transcript?format=TextWithTimestamps&t=1741808770",
+  "summary": "Josh and Chuck (with the iHeart intro voice) tackle antidepressants as a tangential episode, since the show has never done a core episode on depression. They cover the overview of major depressive disorder, the biological (serotonin imbalance) model and its challenges, and newer theories about neuroplasticity. The episode walks through drug classes: SSRIs (fluoxetine/Prozac, paroxetine/Paxil, sertraline/Zoloft, fluvoxamine/Luvox, escitalopram/Lexapro, citalopram/Celexa), tricyclics from the 1950s and 60s, SNRIs (duloxetine/Cymbalta, venlafaxine/Effexor), NaSSAs, and MAOIs (discovered by accident while testing TB drugs, marsilid, tyramine and the cheese reaction). It then covers supplements like St. John's wort and their lack of regulation, psychedelics (ketamine/esketamine approval in 2019, psilocybin studies including a Johns Hopkins study), treatment phases (acute, continuation, maintenance), debate over prescription increases, and reasons antidepressants can worsen mood. The episode closes with a listener mail about hypnagogic imagery.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "antidepressants",
+    "how antidepressants work",
+    "major depressive disorder",
+    "clinical depression",
+    "depression",
+    "biological model serotonin",
+    "SSRIs",
+    "selective serotonin reuptake inhibitors",
+    "tricyclic antidepressants",
+    "SNRIs",
+    "NaSSAs",
+    "MAOIs",
+    "monoamine oxidase inhibitors",
+    "tyramine cheese reaction",
+    "neurotransmitters",
+    "synapse serotonin reuptake",
+    "supplements for depression",
+    "St. John's wort",
+    "nutraceuticals",
+    "ketamine",
+    "esketamine",
+    "psilocybin",
+    "psychedelics for depression",
+    "antidepressant side effects",
+    "treatment phases acute continuation maintenance",
+    "antidepressant prescriptions increase",
+    "neuroplasticity depression",
+    "hypnagogic imagery"
+  ],
+  "entities": [
+    {
+      "name": "Major depressive disorder",
+      "type": "other"
+    },
+    {
+      "name": "Serotonin",
+      "type": "other"
+    },
+    {
+      "name": "Prozac",
+      "type": "other"
+    },
+    {
+      "name": "Zoloft",
+      "type": "other"
+    },
+    {
+      "name": "Paxil",
+      "type": "other"
+    },
+    {
+      "name": "Lexapro",
+      "type": "other"
+    },
+    {
+      "name": "Celexa",
+      "type": "other"
+    },
+    {
+      "name": "Luvox",
+      "type": "other"
+    },
+    {
+      "name": "Cymbalta",
+      "type": "other"
+    },
+    {
+      "name": "Effexor",
+      "type": "other"
+    },
+    {
+      "name": "Marsilid",
+      "type": "other"
+    },
+    {
+      "name": "Ketamine",
+      "type": "other"
+    },
+    {
+      "name": "Esketamine",
+      "type": "other"
+    },
+    {
+      "name": "Psilocybin",
+      "type": "other"
+    },
+    {
+      "name": "St. John's wort",
+      "type": "other"
+    },
+    {
+      "name": "Johns Hopkins study",
+      "type": "event"
+    },
+    {
+      "name": "University of Colorado study on neuroplasticity",
+      "type": "event"
+    },
+    {
+      "name": "Lars von Trier's Melancholia",
+      "type": "work"
+    },
+    {
+      "name": "Gary Greenberg",
+      "type": "person"
+    },
+    {
+      "name": "Hippocrates",
+      "type": "person"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:06",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "The hosts joke about editing out Jerry and introduce the episode as a tangential one, since they have never done a core episode on depression.",
+      "topics": [
+        "episode intro",
+        "depression"
+      ]
+    },
+    {
+      "start": "00:01:06",
+      "end": "00:03:05",
+      "kind": "content",
+      "title": "Depression overview and prevalence",
+      "summary": "Josh and the co-host discuss depression's prevalence, the difference between major depressive disorder and bipolar disorder, World Health Organization projections, and symptoms such as sadness, disrupted sleep, and loss of pleasure.",
+      "topics": [
+        "depression prevalence",
+        "major depressive disorder",
+        "clinical depression vs bipolar",
+        "depression symptoms",
+        "World Health Organization depression"
+      ]
+    },
+    {
+      "start": "00:03:05",
+      "end": "00:06:50",
+      "kind": "content",
+      "title": "History of depression treatment and the film Melancholia",
+      "summary": "The hosts describe historical treatments such as melancholy, black bile theory, and early remedies, stress that depression is highly treatable, and mention Melancholia as an accurate portrayal of depression.",
+      "topics": [
+        "history of depression",
+        "melancholy and black bile",
+        "Hippocrates",
+        "Melancholia film"
+      ]
+    },
+    {
+      "start": "00:06:50",
+      "end": "00:10:35",
+      "kind": "content",
+      "title": "Biological model and how antidepressants act",
+      "summary": "The hosts explain the biological model that attributes depression to serotonin imbalance, note studies showing people with MDD do not have lower serotonin, and describe antidepressants as interfering with neurotransmitter reuptake at the synapse.",
+      "topics": [
+        "biological model of depression",
+        "serotonin imbalance theory",
+        "synaptic transmission",
+        "neurotransmitter reuptake",
+        "synapse"
+      ]
+    },
+    {
+      "start": "00:10:35",
+      "end": "00:11:55",
+      "kind": "content",
+      "title": "Neuroplasticity theory of depression",
+      "summary": "The hosts discuss a University of Colorado study proposing that depression involves stuck brain circuits and that antidepressants may help repair neuroplasticity, supported by psychedelic treatments.",
+      "topics": [
+        "neuroplasticity depression",
+        "University of Colorado study",
+        "stuck brain circuits"
+      ]
+    },
+    {
+      "start": "00:11:55",
+      "end": "00:14:11",
+      "kind": "content",
+      "title": "Serotonin's other functions and side effects",
+      "summary": "Serotonin regulates sleep, digestion, nausea, clotting and bone growth, so altering it can cause side effects. The hosts make a table-setting joke before a break.",
+      "topics": [
+        "serotonin functions",
+        "antidepressant side effects"
+      ]
+    },
+    {
+      "start": "00:14:11",
+      "end": "00:17:37",
+      "kind": "content",
+      "title": "SSRIs: names and mechanism",
+      "summary": "The hosts introduce SSRIs as the most frequently prescribed modern antidepressants, first available in 1988 with fluoxetine. They list generic and brand names and explain that SSRIs block serotonin reuptake so more stays in the synapse.",
+      "topics": [
+        "SSRIs",
+        "fluoxetine",
+        "Prozac",
+        "Zoloft",
+        "Lexapro",
+        "reuptake inhibitors"
+      ]
+    },
+    {
+      "start": "00:17:37",
+      "end": "00:22:02",
+      "kind": "content",
+      "title": "SSRI effectiveness, advocacy, exercise and dosing",
+      "summary": "SSRIs are described as the flagship antidepressant with fewer side effects, and some patients need to try different ones. The hosts stress patient advocacy and exercise, mention Gary Greenberg's social media posts, and describe fluoxetine's long half-life and low starting doses to reduce side effects.",
+      "topics": [
+        "SSRI effectiveness",
+        "patient advocacy",
+        "exercise and depression",
+        "fluoxetine half-life",
+        "dosing and side effects"
+      ]
+    },
+    {
+      "start": "00:22:02",
+      "end": "00:26:01",
+      "kind": "content",
+      "title": "Tricyclic antidepressants",
+      "summary": "Tricyclics from the 1950s and 60s were early antidepressants that block reuptake of multiple neurotransmitters non-selectively, causing more side effects and overdose risk. They are now used for neuropathic pain. An FDA black box warning about suicidality is discussed.",
+      "topics": [
+        "tricyclic antidepressants",
+        "non-selective reuptake",
+        "overdose risk",
+        "FDA black box warning",
+        "neuropathic pain"
+      ]
+    },
+    {
+      "start": "00:26:01",
+      "end": "00:28:15",
+      "kind": "content",
+      "title": "SNRIs and NaSSAs",
+      "summary": "SNRIs block reuptake of serotonin and norepinephrine, starting in the mid-1990s, with duloxetine (Cymbalta) and venlafaxine (Effexor) named, and they perform about as well as SSRIs. NaSSAs, a related class from the mid-1980s, have different side effects such as weight gain and sedation.",
+      "topics": [
+        "SNRIs",
+        "NaSSAs",
+        "norepinephrine reuptake",
+        "duloxetine",
+        "venlafaxine"
+      ]
+    },
+    {
+      "start": "00:28:15",
+      "end": "00:31:01",
+      "kind": "content",
+      "title": "MAOIs and the cheese reaction",
+      "summary": "MAOIs inhibit monoamine oxidase, which breaks down tyramine, so dietary tyramine in foods like aged cheese can cause dangerous blood pressure spikes. MAOIs were discovered by accident while testing TB drugs in the early 1950s; marsilid, from 1958, was the first MAOI antidepressant, but they are rarely prescribed now.",
+      "topics": [
+        "MAOIs",
+        "monoamine oxidase inhibitors",
+        "tyramine",
+        "cheese reaction",
+        "Marsilid",
+        "accidental discovery"
+      ]
+    },
+    {
+      "start": "00:31:01",
+      "end": "00:34:19",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Hosts take a break before moving to nutraceuticals.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:31:07",
+      "end": "00:34:19",
+      "kind": "content",
+      "title": "Nutraceuticals and supplements for depression",
+      "summary": "Supplements are described as unregulated in the US, leading to concerns about dose consistency and purity, and studies of them give mixed results and can have side effects.",
+      "topics": [
+        "nutraceuticals",
+        "supplements for depression",
+        "FDA regulation of supplements",
+        "mixed study results"
+      ]
+    },
+    {
+      "start": "00:34:19",
+      "end": "00:36:16",
+      "kind": "content",
+      "title": "St. John's wort",
+      "summary": "St. John's wort was popular in the 1980s and has long been used for mood, but it reduces the effectiveness of birth control pills and pharmaceutical antidepressants and affects antihistamines.",
+      "topics": [
+        "St. John's wort",
+        "drug interactions",
+        "herbal remedies"
+      ]
+    },
+    {
+      "start": "00:36:16",
+      "end": "00:38:24",
+      "kind": "content",
+      "title": "Ketamine and esketamine",
+      "summary": "Ketamine was developed in the 1960s in Belgium and has been studied as a breakthrough treatment. The FDA approved esketamine in 2019 for treatment-resistant depression, and it is considered a last resort.",
+      "topics": [
+        "ketamine",
+        "esketamine",
+        "FDA approval",
+        "breakthrough therapy",
+        "treatment-resistant depression"
+      ]
+    },
+    {
+      "start": "00:38:24",
+      "end": "00:41:03",
+      "kind": "content",
+      "title": "Psilocybin studies",
+      "summary": "Psilocybin is described as effective for depression, with a Johns Hopkins study from 2022 showing large symptom reductions lasting up to a year after two doses, and a 2024 study suggesting it is at least as effective as SSRIs.",
+      "topics": [
+        "psilocybin",
+        "magic mushrooms",
+        "Johns Hopkins psilocybin study",
+        "psychedelic therapy",
+        "depression rating scale"
+      ]
+    },
+    {
+      "start": "00:41:03",
+      "end": "00:43:44",
+      "kind": "content",
+      "title": "Treatment phases: acute, continuation, maintenance",
+      "summary": "Treatment is described in phases: acute treatment, where antidepressants are tried for weeks to months; continuation after remission, lasting about six months; and maintenance, where relapse is possible and the prior drug may be restarted.",
+      "topics": [
+        "acute phase treatment",
+        "continuation phase",
+        "maintenance phase",
+        "relapse",
+        "remission"
+      ]
+    },
+    {
+      "start": "00:43:44",
+      "end": "00:47:08",
+      "kind": "content",
+      "title": "Are antidepressants overprescribed and use in kids",
+      "summary": "The hosts discuss whether antidepressants are overprescribed, noting that longer prescriptions inflate numbers and that tricyclics are used for pain. They cite a 66 percent rise in monthly prescriptions for ages 12 to 25 from 2016 to 2022, and discuss FDA approval ages, with the youngest found being seven.",
+      "topics": [
+        "antidepressant overprescribing",
+        "prescription trends",
+        "teen antidepressant use",
+        "FDA approval age",
+        "COVID-19 mental health"
+      ]
+    },
+    {
+      "start": "00:47:08",
+      "end": "00:49:17",
+      "kind": "content",
+      "title": "Why antidepressants can make depression worse",
+      "summary": "Possible reasons include misdiagnosis such as bipolar disorder or borderline personality disorder, genetics such as the SLC6A4 serotonin transporter gene, slow drug metabolism, being under 25, akathisia, and polypharmacy.",
+      "topics": [
+        "antidepressant worsening symptoms",
+        "akathisia",
+        "serotonin transporter gene",
+        "polypharmacy",
+        "misdiagnosis"
+      ]
+    },
+    {
+      "start": "00:49:17",
+      "end": "00:50:45",
+      "kind": "outro",
+      "title": "Closing remarks",
+      "summary": "The hosts encourage listeners with depression to seek treatment and say things can get better.",
+      "topics": [
+        "depression treatment encouragement"
+      ]
+    },
+    {
+      "start": "00:50:45",
+      "end": "00:51:05",
+      "kind": "listener_mail",
+      "title": "Listener mail on hypnagogic imagery",
+      "summary": "A listener named Jill from Connecticut writes about the hypnagogic stage before falling asleep, when thoughts become strange or hallucinatory, and asks whether Chuck's experience is verbal or visual.",
+      "topics": [
+        "hypnagogic imagery",
+        "falling asleep",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:51:05",
+      "end": "00:51:05",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The iHeart sign-off closes the episode.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18054,
+    "output_tokens": 4850
+  }
+}

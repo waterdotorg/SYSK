@@ -1,0 +1,280 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-10-04_Vinyl_Records_Black_Magic_at_Work_59min.txt",
+  "title": "Vinyl Records: Black Magic at Work",
+  "date": "2022-10-04",
+  "duration": "59 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/vinyl-records-black-magic-at-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4d3300c5-29f2-4be4-8b25-af1f013cbe90/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d3300c5-29f2-4be4-8b25-af1f013cbe90/transcript?format=TextWithTimestamps&t=1700557248",
+  "summary": "Josh and Chuck announce a return to live shows in early February (Seattle, Portland, and San Francisco during SketchFest) with ticket presale and general sale dates in October. They then explore vinyl records: the recent comeback and sales figures, the history of recorded sound from Édouard-Léon Scott de Martinville's phonautograph through Edison's phonograph, Alexander Graham Bell's graphophone and wax cylinders, Emile Berliner's shellac discs and gramophone, and the 78 RPM standard and why it was chosen. Next they cover PVC vinyl's 1930s origins, Peter Goldmark's LP at 33⅓ RPM, the speed war with 45s, early stereo records, and the Beatles' stereo experiments. The hosts then explain how records are made (lacquer cutting, metal masters and stampers, pressing from PVC pellets, carbon black for dust), how a stylus reads the groove and plays back, and the analog versus digital debate including streaming bitrates. The episode ends with a listener mail segment about farting after colonoscopies and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "vinyl records",
+    "vinyl record history",
+    "vinyl comeback",
+    "phonautograph",
+    "Édouard-Léon Scott de Martinville",
+    "Thomas Edison phonograph",
+    "wax cylinders",
+    "Alexander Graham Bell graphophone",
+    "Emile Berliner gramophone",
+    "shellac records",
+    "78 RPM",
+    "33 1/3 LP",
+    "Peter Goldmark",
+    "45 RPM singles",
+    "speed war records",
+    "stereo records",
+    "how vinyl records are made",
+    "record pressing",
+    "lacquer cutting",
+    "carbon black vinyl",
+    "analog vs digital audio",
+    "bitrate streaming vs CD",
+    "PVC vinyl",
+    "record collecting",
+    "live shows announcement"
+  ],
+  "entities": [
+    {
+      "name": "Édouard-Léon Scott de Martinville",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "type": "person"
+    },
+    {
+      "name": "Emile Berliner",
+      "type": "person"
+    },
+    {
+      "name": "Peter Goldmark",
+      "type": "person"
+    },
+    {
+      "name": "Joe Bussard",
+      "type": "person"
+    },
+    {
+      "name": "Michael Connolly",
+      "type": "person"
+    },
+    {
+      "name": "Columbia Records",
+      "type": "organization"
+    },
+    {
+      "name": "RCA Victor",
+      "type": "organization"
+    },
+    {
+      "name": "CBS",
+      "type": "organization"
+    },
+    {
+      "name": "Third Man Records",
+      "type": "organization"
+    },
+    {
+      "name": "The Beatles",
+      "type": "organization"
+    },
+    {
+      "name": "Sketchfest",
+      "type": "event"
+    },
+    {
+      "name": "Record Store Day",
+      "type": "event"
+    },
+    {
+      "name": "Phonautograph",
+      "type": "other"
+    },
+    {
+      "name": "Graphophone",
+      "type": "other"
+    },
+    {
+      "name": "Gramophone",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Live show announcement and opening banter",
+      "summary": "Josh and Chuck announce returning to live shows in February in Seattle, Portland, and San Francisco (SketchFest), with presale on October 6 and general sale on October 7. They introduce the episode's wax-themed title and say they will discuss vinyl.",
+      "topics": [
+        "live shows announcement",
+        "SketchFest",
+        "tour dates",
+        "ticket presale"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Vinyl sales decline and comeback",
+      "summary": "The hosts review vinyl sales stats: about 600 million records bought per year at the seventies peak, a drop to about 0.1 percent of sales in the nineties, a comeback in the 2000s, and vinyl outselling CDs in 2021. They also discuss DJs and vinyl use.",
+      "topics": [
+        "vinyl sales statistics",
+        "vinyl comeback",
+        "CD vs vinyl sales",
+        "DJs using vinyl",
+        "Record Store Day"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Phonautograph and early sound recording",
+      "summary": "Scott de Martinville's phonautograph used a boar's hair stylus on a soot-covered glass plate to record sound, and recordings were later played back digitally. The hosts discuss the importance of a consistent playback speed.",
+      "topics": [
+        "phonautograph",
+        "early sound recording",
+        "Scott de Martinville",
+        "lampblack",
+        "playback speed"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Edison, Bell, and wax cylinders",
+      "summary": "Edison recorded sound from a diaphragm stylus onto paraffin wax and then metal cylinders. Alexander Graham Bell changed cylinders to wax and built the graphophone. The hosts describe hand-crank players and a story about Joe Bussard's wax cylinder collection.",
+      "topics": [
+        "Thomas Edison phonograph",
+        "wax cylinders",
+        "Alexander Graham Bell graphophone",
+        "Joe Bussard",
+        "hand crank phonograph"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Berliner, gramophone, shellac, and 78 RPM",
+      "summary": "Emile Berliner introduced flat disc records made of shellac, which could be mass produced from molds. The hosts explain the 78 RPM standard, derived from a motor speed of 3600 RPM stepped down by gears, and the fragility and short playing time of shellac discs.",
+      "topics": [
+        "Emile Berliner",
+        "gramophone",
+        "shellac records",
+        "78 RPM",
+        "gears and motor speed",
+        "shellac playing time"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "PVC vinyl, Goldmark LP, and the speed war",
+      "summary": "Vinyl (PVC) was first tried by RCA Victor in 1930 but failed. After World War II, Peter Goldmark at CBS developed the 33⅓ RPM long-play LP with finer grooves. Columbia released the LP and RCA Victor the 45 RPM single, a format war that ended with both coexisting.",
+      "topics": [
+        "PVC vinyl",
+        "RCA Victor",
+        "Peter Goldmark",
+        "33 1/3 LP",
+        "45 RPM single",
+        "speed war",
+        "shellac shortage"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Stereo records and personal record memories",
+      "summary": "Stereo records were developed in the 1950s to carry two channels in one groove, with the outer wall for the right channel and the inner wall for the left. The Beatles were among early stereo experimenters. The hosts share their first records and their experience with tapes and CDs.",
+      "topics": [
+        "stereo records",
+        "groove walls",
+        "The Beatles stereo",
+        "first records",
+        "cassettes and CDs"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "How records are made: cutting, stamping, pressing",
+      "summary": "Records are cut on a lathe with a ruby chisel into a lacquer mother disc, which is electroplated into a metal master stamper used to press around 100,000 copies. PVC pellets with carbon black are pressed with about sixty tons of pressure, and the excess flash is recycled. Black color is chosen because carbon black reduces static and dust.",
+      "topics": [
+        "record manufacturing",
+        "lacquer cutting",
+        "mother disc",
+        "metal stamper",
+        "record pressing",
+        "carbon black",
+        "static and dust on records",
+        "flash recycling"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Playback, analog vs digital, and streaming",
+      "summary": "A stylus reads the groove and a cartridge converts it to an electrical signal. The hosts discuss the analog versus digital debate, using a door-jamb height analogy and noting that CD quality is much higher than streaming bitrates, and that records made from digital files exist.",
+      "topics": [
+        "turntable playback",
+        "stylus and cartridge",
+        "analog vs digital",
+        "bitrate",
+        "CD vs streaming audio quality"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "00:58:30",
+      "kind": "listener_mail",
+      "title": "Listener mail: farting after colonoscopies",
+      "summary": "A listener who works as a gastroenterology technician explains that air versus carbon dioxide used during colonoscopies causes different amounts of post-procedure gas.",
+      "topics": [
+        "listener mail",
+        "colonoscopy",
+        "carbon dioxide vs air"
+      ]
+    },
+    {
+      "start": "00:58:30",
+      "end": "00:59:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners and give the contact email and network credits.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18748,
+    "output_tokens": 3194
+  }
+}

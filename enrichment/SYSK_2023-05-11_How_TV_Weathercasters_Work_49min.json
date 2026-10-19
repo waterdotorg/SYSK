@@ -1,0 +1,355 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-05-11_How_TV_Weathercasters_Work_49min.txt",
+  "title": "How TV Weathercasters Work",
+  "date": "2023-05-11",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-tv-weathercasters-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/68a338e0-1911-497a-885b-affe017fd8ad/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/68a338e0-1911-497a-885b-affe017fd8ad/transcript?format=TextWithTimestamps&t=1714064643",
+  "summary": "Josh and Chuck explore the history and work of TV weathercasters (broadcast meteorologists). They trace the role from early newspaper weather forecasts and the National Weather Service's 1870 founding, through radio and early TV pioneers like Jimmy Fiddler, Wooly Lamb, Clint Youle and Willard Scott, the 1950s \"weather girl\" era sparked by FCC licensing changes, the happy talk news format of the late 1960s, and technology such as GOES-1 satellite imagery, green screens and Doppler radar. They cover how weathercasters interpret NWS and NOAA data, their demanding daily schedules, community and social media roles, storm reporting, the Weather Channel's founding, and the shift toward climate science reporting. The episode ends with listener mail about a Dolly Parton-named dental band.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "TV weathercasters",
+    "broadcast meteorologists",
+    "TV weather people history",
+    "weather girls",
+    "happy talk news",
+    "Jimmy Fiddler",
+    "Wooly Lamb",
+    "Clint Youle",
+    "Willard Scott",
+    "Carol Reid",
+    "Tex Antoine",
+    "GOES-1 satellite",
+    "green screen weather",
+    "Doppler radar",
+    "National Weather Service",
+    "Weather Channel",
+    "John Coleman",
+    "Jim Cantore",
+    "Anchorman",
+    "WABC happy talk",
+    "weathercaster job life",
+    "climate change weather reporting",
+    "Dolly Parton dental band",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Jimmy Fiddler",
+      "type": "person"
+    },
+    {
+      "name": "Wooly Lamb",
+      "type": "other"
+    },
+    {
+      "name": "Clint Youle",
+      "type": "person"
+    },
+    {
+      "name": "Willard Scott",
+      "type": "person"
+    },
+    {
+      "name": "Carol Reid",
+      "type": "person"
+    },
+    {
+      "name": "Tex Antoine",
+      "type": "person"
+    },
+    {
+      "name": "Ken Cook",
+      "type": "person"
+    },
+    {
+      "name": "Dallas Raines",
+      "type": "person"
+    },
+    {
+      "name": "Jim Cantore",
+      "type": "person"
+    },
+    {
+      "name": "John Coleman",
+      "type": "person"
+    },
+    {
+      "name": "Dan Rather",
+      "type": "person"
+    },
+    {
+      "name": "Diane Sawyer",
+      "type": "person"
+    },
+    {
+      "name": "Raquel Welch",
+      "type": "person"
+    },
+    {
+      "name": "Al Primo",
+      "type": "person"
+    },
+    {
+      "name": "National Weather Service",
+      "type": "organization"
+    },
+    {
+      "name": "Weather Channel",
+      "type": "organization"
+    },
+    {
+      "name": "WABC",
+      "type": "organization"
+    },
+    {
+      "name": "WNBC",
+      "type": "organization"
+    },
+    {
+      "name": "WCBS",
+      "type": "organization"
+    },
+    {
+      "name": "WLBC",
+      "type": "organization"
+    },
+    {
+      "name": "GOES-1",
+      "type": "other"
+    },
+    {
+      "name": "Anchorman",
+      "type": "work"
+    },
+    {
+      "name": "Merchants of Doubt",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and TV weather job overview",
+      "summary": "The hosts introduce the episode on TV weathercasters, discuss long tenure for local weather personalities, and note the competitive relationships among weather people.",
+      "topics": [
+        "TV weathercasters",
+        "broadcast meteorologists",
+        "local news job security"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:06:20",
+      "kind": "content",
+      "title": "Skills required of a TV weathercaster",
+      "summary": "Chuck describes the demands of the job: meteorology knowledge, communication, likability, poise, and delivering live without a script on green screen within a time limit. Josh gives a more skeptical take on the stress.",
+      "topics": [
+        "weathercaster skills",
+        "live TV weather broadcasting",
+        "meteorologist requirements"
+      ]
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:09:10",
+      "kind": "content",
+      "title": "Early newspaper and National Weather Service roots",
+      "summary": "The National Weather Service was founded in 1870 with a mission to collect and telegraph weather data. Newspapers began printing local forecasts in the 1880s, and later national weather maps.",
+      "topics": [
+        "National Weather Service history",
+        "newspaper weather forecasts",
+        "weather telegraph data"
+      ]
+    },
+    {
+      "start": "00:09:10",
+      "end": "00:12:20",
+      "kind": "content",
+      "title": "Jimmy Fiddler and Wooly Lamb: first TV weather personalities",
+      "summary": "Jimmy Fiddler, from WLBC in Muncie, Indiana, is described as the first weatherman and the first human TV weather reporter, around 1939 or 1940 in Cincinnati. Wooly Lamb, a cartoon sheep sponsored by Botany ties, is discussed as a weather presenter that followed.",
+      "topics": [
+        "Jimmy Fiddler",
+        "Wooly Lamb",
+        "first TV weatherman",
+        "early television weather"
+      ]
+    },
+    {
+      "start": "00:12:20",
+      "end": "00:15:10",
+      "kind": "content",
+      "title": "Postwar TV growth and early forecaster styles",
+      "summary": "Postwar TV boomed from about six thousand sets to nearly ten million, with around seventy stations by the end of the 1940s. Early forecasters were often dry, stuffy science types or veterans, and some lasted for decades.",
+      "topics": [
+        "postwar television boom",
+        "early TV forecasters",
+        "stuffy weather presenters"
+      ]
+    },
+    {
+      "start": "00:15:10",
+      "end": "00:17:10",
+      "kind": "content",
+      "title": "Lewis Allen and Clint Youle",
+      "summary": "Lewis Allen, chief meteorologist at WTOP in Washington, D.C., was known for his weather doodles. Clint Youle became known as Mister Weather, debuting nationally on NBC's Camel News Caravan in the late 1940s using a plexiglass-covered Rand McNally map.",
+      "topics": [
+        "Lewis Allen weather doodle",
+        "Clint Youle",
+        "Camel News Caravan",
+        "weather maps on TV"
+      ]
+    },
+    {
+      "start": "00:17:10",
+      "end": "00:20:40",
+      "kind": "content",
+      "title": "Wacky weathermen and the 1950s weather girls",
+      "summary": "In the 1950s, stations added wacky weathermen, puppets, and Willard Scott. The FCC opened competition for TV licenses in 1952, and Carol Reid, a 26-year-old without meteorology training, became the first weather girl at WCBS in New York to rival Tex Antoine at WNBC. Other examples include Ginger Stanley, Diane Sawyer and Raquel Welch.",
+      "topics": [
+        "weather girls",
+        "Carol Reid",
+        "Tex Antoine",
+        "Willard Scott",
+        "FCC 1952 licenses",
+        "Uncle Webby"
+      ]
+    },
+    {
+      "start": "00:20:40",
+      "end": "00:24:10",
+      "kind": "content",
+      "title": "Peak and end of the weather girl era",
+      "summary": "The weather girl phenomenon peaked around 1961, when about three-quarters of 466 stations used them. Carol Reid was let go in 1964, marking the end of the era. Meteorological societies then created certifications to gain respect for credentialed weathercasters.",
+      "topics": [
+        "end of weather girl era",
+        "American Meteorological Society certification",
+        "National Weather Association seal",
+        "weathercaster credibility"
+      ]
+    },
+    {
+      "start": "00:24:10",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Happy talk news and the Anchorman era",
+      "summary": "WABC in New York in the late 1960s introduced happy talk news with personable anchors and joking banter. Al Primo credited with the format, which within a decade was used by nearly all stations. Tex Antoine was fired after a comment on a news story went over the line.",
+      "topics": [
+        "happy talk news",
+        "WABC",
+        "Al Primo",
+        "Anchorman parody",
+        "Tex Antoine firing"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:28:10",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-show break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:28:10",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Technology: GOES-1, green screens and Doppler radar",
+      "summary": "The launch of GOES-1 in 1975 allowed half-hourly satellite cloud images on TV. Green screens arrived in the 1980s, and Doppler radar in the early 1990s allowed viewers to see precipitation inside storms.",
+      "topics": [
+        "GOES-1 satellite imagery",
+        "green screen weather",
+        "chroma key",
+        "Doppler radar weather"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:15",
+      "kind": "content",
+      "title": "Where forecasts come from: NWS and NOAA data",
+      "summary": "Weathercasters get their basic data from the National Weather Service and NOAA, then interpret and present it themselves. Local experience adds color commentary.",
+      "topics": [
+        "NOAA data",
+        "weather forecast sources",
+        "weathercaster interpretation"
+      ]
+    },
+    {
+      "start": "00:33:15",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Daily work life, hair and makeup, storm chasing and community role",
+      "summary": "Weathercasters start very early, brief news managers, research local events, and in small markets often produce everything themselves. They build personal brands on social media, appear at community events, and are often expected to work holidays. Storm reporting is a hazard, and Dan Rather is credited with an early hurricane report in 1961 (Hurricane Carla). Jim Cantore is cited as a modern example.",
+      "topics": [
+        "weathercaster daily schedule",
+        "social media personal brand",
+        "storm reporting hazards",
+        "Jim Cantore",
+        "Dan Rather Hurricane Carla",
+        "Weather Channel storm chasing"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:46:10",
+      "kind": "content",
+      "title": "Weather Channel, viewership and climate change coverage",
+      "summary": "John Coleman founded the Weather Channel, which launched in 1982. The hosts discuss whether viewers watch the weather or the person, Pew research on local news viewing by age, and the weather being the top part of local newscasts. Weathercasters are increasingly reporting on climate change, and Coleman once dismissed climate change in a segment. The book Merchants of Doubt is mentioned.",
+      "topics": [
+        "Weather Channel founding",
+        "John Coleman",
+        "local news viewership Pew research",
+        "climate change weather reporting",
+        "Merchants of Doubt"
+      ]
+    },
+    {
+      "start": "00:46:10",
+      "end": "00:47:20",
+      "kind": "content",
+      "title": "Closing discussion",
+      "summary": "The hosts discuss the rise of climate science reporting by weathercasters and wrap up the main topic.",
+      "topics": [
+        "climate science reporting",
+        "episode wrap-up"
+      ]
+    },
+    {
+      "start": "00:47:20",
+      "end": "00:49:12",
+      "kind": "listener_mail",
+      "title": "Listener mail: Dolly Parton dental band",
+      "summary": "John Pizeric writes from Japan that in dental school, a type two metal shaping band for deep fillings was nicknamed the Dolly Parton band because of its bust-like shape.",
+      "topics": [
+        "listener mail",
+        "Dolly Parton",
+        "dental fillings",
+        "Dolly Parton band"
+      ]
+    },
+    {
+      "start": "00:49:12",
+      "end": "00:49:20",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck gives the contact email and Josh closes with the iHeartRadio credit.",
+      "topics": [
+        "show sign-off",
+        "contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18401,
+    "output_tokens": 3982
+  }
+}

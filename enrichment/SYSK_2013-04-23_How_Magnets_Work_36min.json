@@ -1,0 +1,294 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-04-23_How_Magnets_Work_36min.txt",
+  "title": "How Magnets Work",
+  "date": "2013-04-23",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-magnets-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/003f76c3-9a88-4925-8c1d-ae2800a0b091/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/003f76c3-9a88-4925-8c1d-ae2800a0b091/transcript?format=TextWithTimestamps&t=1700543904",
+  "summary": "Josh and Chuck explain how magnets work, starting with natural loadstone (magnetite) from Magnesia, then the types of magnets (permanent/hard, temporary/soft, electromagnets, ceramic, Alnico, neodymium, samarium-cobalt, magnetic polymers). They cover how magnets are made (stroking, hammering, electric current, strong fields), magnetic domains and hysteresis, demagnetization by heat (Curie point), and the atomic-level role of unpaired electron spin in iron, cobalt and nickel. They discuss measuring magnetic fields (gauss, tesla), uses of magnets (speakers, motors, MRI, maglev, roller coasters, magnetosphere and auroras), pulsed electromagnetic field bone healing, magnet therapy claims, magnetized water, and a listener shout-out to Trevor and Tony. Includes a sponsor break for Jack Threads.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "how magnets work",
+    "magnetism",
+    "magnetic domains",
+    "loadstone",
+    "magnetite",
+    "permanent magnets",
+    "temporary magnets",
+    "electromagnets",
+    "ceramic magnets",
+    "Alnico magnets",
+    "neodymium magnets",
+    "samarium cobalt magnets",
+    "magnetic polymers",
+    "making magnets",
+    "hysteresis",
+    "Curie point demagnetization",
+    "unpaired electrons",
+    "electron spin",
+    "ferromagnetic materials",
+    "fundamental forces",
+    "gauss and tesla units",
+    "magnetosphere",
+    "auroras",
+    "MRI",
+    "maglev trains",
+    "magnetic therapy",
+    "pulsed electromagnetic field bone healing",
+    "magnetized water",
+    "hardware disease in cows",
+    "compass history",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Magnesia",
+      "type": "place"
+    },
+    {
+      "name": "loadstone",
+      "type": "other"
+    },
+    {
+      "name": "magnetite",
+      "type": "other"
+    },
+    {
+      "name": "Alnico magnet",
+      "type": "other"
+    },
+    {
+      "name": "neodymium magnet",
+      "type": "other"
+    },
+    {
+      "name": "samarium cobalt magnet",
+      "type": "other"
+    },
+    {
+      "name": "magnetic resonance imaging",
+      "type": "other"
+    },
+    {
+      "name": "maglev train",
+      "type": "other"
+    },
+    {
+      "name": "magnetosphere",
+      "type": "other"
+    },
+    {
+      "name": "Tracy Wilson",
+      "type": "person"
+    },
+    {
+      "name": "Trevor",
+      "type": "person"
+    },
+    {
+      "name": "Tony",
+      "type": "person"
+    },
+    {
+      "name": "Rushed dolls",
+      "type": "organization"
+    },
+    {
+      "name": "Consumer Reports",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and introduction to magnets",
+      "summary": "Josh and Chuck joke about how much they know about magnets, discuss everyday fridge magnets, and mention loadstone from Magnesia and Alnico speakers.",
+      "topics": [
+        "magnets intro",
+        "loadstone",
+        "Magnesia",
+        "Alnico speakers"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Basic properties and types of magnets",
+      "summary": "Basic facts: magnets attract ferrous metals, have north and south poles, opposite poles attract. Magnetism is one of the four fundamental forces. Permanent (hard) versus temporary (soft) magnets, and electromagnets, with a doorbell example. Ceramic, Alnico, neodymium and samarium cobalt magnets and magnetic polymers are compared by strength.",
+      "topics": [
+        "magnetic poles",
+        "permanent magnets",
+        "temporary magnets",
+        "electromagnets",
+        "ceramic magnets",
+        "neodymium magnets",
+        "fundamental forces"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Toy magnets and tangent",
+      "summary": "Chuck and Josh talk about magnetic iron-filing toys and a digression on vintage 1940s-60s dolls, including Rushed hobo dolls.",
+      "topics": [
+        "magnetic toys",
+        "iron filings toy",
+        "vintage dolls"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Early magnetization and compasses",
+      "summary": "Discussion of how people first magnetized iron pins by stroking them with loadstone around the twelfth century, leading to the earliest compasses floated in water.",
+      "topics": [
+        "history of compass",
+        "magnetizing iron",
+        "loadstone",
+        "twelfth century magnetism"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Magnetic domains and why magnets attract and repel",
+      "summary": "Magnetic domains are tiny magnets within ferromagnetic materials. Aligned domains make a strong field; opposite poles attract and like poles repel because field lines flow in opposite directions.",
+      "topics": [
+        "magnetic domains",
+        "ferromagnetic materials",
+        "north and south poles",
+        "attraction and repulsion"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Making magnets and hysteresis",
+      "summary": "Methods of magnetizing material: stroking, hammering while aligned, passing electric current, and natural formation in lava or lightning. Modern production uses strong magnetic fields. Hysteresis is the delay as domains realign; harder-to-align materials stay magnetized longer.",
+      "topics": [
+        "making magnets",
+        "hysteresis",
+        "magnetization methods",
+        "domain alignment"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Demagnetization",
+      "summary": "Magnets can be demagnetized by a reverse field or by heating past the Curie point; a video demonstration used a lighter on a paper clip.",
+      "topics": [
+        "demagnetization",
+        "Curie point",
+        "heating magnets"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Shipping large magnets",
+      "summary": "Tracy Wilson's section on shipping large magnets, which pick up iron from trucks; magnets are often magnetized on site or electromagnets are used.",
+      "topics": [
+        "industrial magnets",
+        "shipping magnets",
+        "magnet logistics"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Atomic-level explanation: electron spin",
+      "summary": "Electrons in atoms pair with opposite spins (Pauli exclusion). Iron, cobalt and nickel have unpaired electrons spinning the same way, creating magnetic moments and domains. Diamagnetic materials repel instead.",
+      "topics": [
+        "electron spin",
+        "unpaired electrons",
+        "Pauli exclusion principle",
+        "orbital magnetic moment",
+        "diamagnetism"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:35:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Sponsor break mid-episode.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Measuring magnetism and uses of magnets",
+      "summary": "Magnetic field strength measured with gauss meters, in gauss and tesla (10,000 gauss per tesla), and oersted. Uses include speakers, cassette tapes, burglar alarms, motors, car speedometers, CRT televisions, maglev trains, roller coaster brakes, MRI, and the magnetosphere producing auroras.",
+      "topics": [
+        "gauss",
+        "tesla",
+        "oersted",
+        "speakers",
+        "maglev",
+        "MRI",
+        "auroras",
+        "magnetosphere"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Pulsed electromagnetic fields, cows and magnet health claims",
+      "summary": "Pulsed electromagnetic fields are used to help heal bone, with a possible use in astronaut garments. Cows with hardware disease are given magnets; swallowed magnets are dangerous for humans. Magnetic bracelets and insoles lack proof of benefit; magnetized drinking water and magnetic water softeners also lack clinical support according to Consumer Reports.",
+      "topics": [
+        "pulsed electromagnetic field therapy",
+        "bone healing",
+        "hardware disease",
+        "magnetic therapy",
+        "magnetized water",
+        "water softener"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:48:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: shout-out for Trevor and Tony",
+      "summary": "A deployed service member, Trevor, asks for a shout-out to his wife Tony, saying the podcast helps them talk. Hosts mention how to contact the show.",
+      "topics": [
+        "listener mail",
+        "shout out",
+        "military families"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks and show contact information, with a sponsor credit to Jack Threads.",
+      "topics": [
+        "outro",
+        "sponsor"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12408,
+    "output_tokens": 3189
+  }
+}

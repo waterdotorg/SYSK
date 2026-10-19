@@ -1,0 +1,261 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-03-10_Is_it_legal_to_sterilize_addicts_38min.txt",
+  "title": "Is it legal to sterilize addicts?",
+  "date": "2011-03-10",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-it-legal-to-sterilize-addicts",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/04308779-3656-42ea-b5a4-ae2800b146ef/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/04308779-3656-42ea-b5a4-ae2800b146ef/transcript?format=TextWithTimestamps&t=1700543945",
+  "summary": "Josh and Chuck examine Project Prevention, Barbara Harris's organization that pays drug addicts (and in Kenya, women with HIV/AIDS) to be sterilized or use long-term birth control. They cover how the program works (payments of $300 or $100 plus $100 for birth control, referral bonuses), its expansion to the UK and plans for Kenya and Australia, legal questions around informed consent and third-party payment, criticisms about race, class and funding from billionaire Richard Mellon Scaife, and the history of eugenics in the US, including the Model Law by Harry Laughlin, Buck v. Bell (Carrie Buck), and Skinner v. Oklahoma. The episode closes with a listener mail segment thanking fans for gifts and noting a SXSW live show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Project Prevention",
+    "sterilizing addicts",
+    "Barbara Harris",
+    "eugenics",
+    "compulsory sterilization",
+    "Buck v. Bell",
+    "Carrie Buck",
+    "Skinner v. Oklahoma",
+    "Harry Laughlin",
+    "Model Law eugenics",
+    "child abuse and neglect",
+    "drug addicted parents",
+    "informed consent",
+    "paying addicts for sterilization",
+    "Kenya HIV AIDS sterilization",
+    "Richard Mellon Scaife",
+    "reproductive rights",
+    "Oliver Wendell Holmes",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Project Prevention",
+      "type": "organization"
+    },
+    {
+      "name": "Barbara Harris",
+      "type": "person"
+    },
+    {
+      "name": "CRACK (Children Require a Caring Community)",
+      "type": "organization"
+    },
+    {
+      "name": "Carrie Buck",
+      "type": "person"
+    },
+    {
+      "name": "Buck v. Bell",
+      "type": "event"
+    },
+    {
+      "name": "Harry Laughlin",
+      "type": "person"
+    },
+    {
+      "name": "Eugenics Record Office",
+      "type": "organization"
+    },
+    {
+      "name": "Oliver Wendell Holmes",
+      "type": "person"
+    },
+    {
+      "name": "Skinner v. Oklahoma",
+      "type": "event"
+    },
+    {
+      "name": "Jack Skinner",
+      "type": "person"
+    },
+    {
+      "name": "Richard Mellon Scaife",
+      "type": "person"
+    },
+    {
+      "name": "Paul Lombardo",
+      "type": "person"
+    },
+    {
+      "name": "Margaret Sanger",
+      "type": "person"
+    },
+    {
+      "name": "Planned Parenthood",
+      "type": "organization"
+    },
+    {
+      "name": "Kenya",
+      "type": "place"
+    },
+    {
+      "name": "United Kingdom",
+      "type": "place"
+    },
+    {
+      "name": "Virginia Colony for Epileptics and Feeble Minded",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and child abuse costs",
+      "summary": "The hosts open with small talk, then discuss the economic cost of child abuse in the US and how neglect, often tied to drug-addicted parents, makes up most cases.",
+      "topics": [
+        "child abuse costs",
+        "child neglect",
+        "drug addicted parents"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Barbara Harris and Project Prevention",
+      "summary": "Introduces Barbara Harris, founder of CRACK, and her Project Prevention program, which promotes sterilizing addicts using an RV, billboards and campaigns including in the UK.",
+      "topics": [
+        "Barbara Harris",
+        "Project Prevention",
+        "CRACK organization",
+        "anti-addiction billboards"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "How the payment program works",
+      "summary": "Explains eligibility (addicts with at least one child who prove addiction), the contract, payments of $300 or $100 plus $100 for long-term birth control, referral bonuses, and reliance on Medicaid or Medicare to pay for procedures. Program stats: over 3,700 addicts, about a third sterilized.",
+      "topics": [
+        "paying addicts for sterilization",
+        "long-term birth control incentive",
+        "Medicaid paying for sterilization",
+        "program statistics"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Expansion to UK and Kenya",
+      "summary": "Describes the expansion to the UK after an anonymous donation and BBC coverage, and plans for Kenya involving IUDs for women with HIV/AIDS, with Australia also mentioned as a next target.",
+      "topics": [
+        "Project Prevention UK",
+        "Kenya HIV AIDS program",
+        "IUD payments",
+        "Australia expansion"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Legality and informed consent",
+      "summary": "Discusses whether the program is legal, focusing on informed consent between patient and provider and the loophole that a third-party payer is not part of that relationship.",
+      "topics": [
+        "informed consent",
+        "legality of sterilization payments",
+        "contract law",
+        "coercion"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Criticism: ethics, race, and funding",
+      "summary": "Covers arguments for and against the program, including capacity to decide, reproductive rights, racial breakdown of clients, and concerns about funding from billionaire Richard Mellon Scaife and class bias.",
+      "topics": [
+        "reproductive rights debate",
+        "racial disparity in program",
+        "billionaire funding",
+        "class bias"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:24:45",
+      "kind": "content",
+      "title": "Client example",
+      "summary": "Describes a participant who was sterilized after multiple children, using her payment for her children, and the program's use of her as a poster child.",
+      "topics": [
+        "client testimony",
+        "methamphetamine",
+        "poster child"
+      ]
+    },
+    {
+      "start": "00:24:45",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "History of eugenics in the US",
+      "summary": "Explains the eugenics movement, Harry Laughlin's Model Law of 1914 listing undesirable groups, and state compulsory sterilization laws, including early adoption in Indiana, Connecticut and California.",
+      "topics": [
+        "eugenics history",
+        "Model Law 1914",
+        "Harry Laughlin",
+        "state sterilization laws"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Buck v. Bell and Skinner v. Oklahoma",
+      "summary": "Recounts the Supreme Court Buck v. Bell case upholding sterilization of Carrie Buck, its fraudulent basis, the resulting sterilizations in Virginia, and Skinner v. Oklahoma, which struck down sterilization of a repeat offender. Lists eugenics supporters and Laughlin's later honor from Nazi Germany.",
+      "topics": [
+        "Buck v. Bell",
+        "Carrie Buck",
+        "Skinner v. Oklahoma",
+        "Oliver Wendell Holmes",
+        "Nazi eugenics link",
+        "US sterilization totals"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Closing discussion on eugenics history",
+      "summary": "The hosts reflect on why the history of eugenics is worth discussing and note it was not taught to them in school.",
+      "topics": [
+        "eugenics education",
+        "history repeating"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:37:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and announcements",
+      "summary": "Announces a live show at SXSW in Austin and thanks listeners for gifts including cookies, shirts, cards and drawings.",
+      "topics": [
+        "listener mail",
+        "SXSW live show",
+        "fan gifts"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:38:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Gives website, social media, and email contact information and closes the episode.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13045,
+    "output_tokens": 2780
+  }
+}

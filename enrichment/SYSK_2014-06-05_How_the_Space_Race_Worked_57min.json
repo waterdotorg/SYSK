@@ -1,0 +1,305 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-06-05_How_the_Space_Race_Worked_57min.txt",
+  "title": "How the Space Race Worked",
+  "date": "2014-06-05",
+  "duration": "57 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-space-race-worked",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1c838bdb-09dc-4d28-a17f-ae280097490b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1c838bdb-09dc-4d28-a17f-ae280097490b/transcript?format=TextWithTimestamps&t=1700543882",
+  "summary": "Josh and Chuck explain the Space Race, the Cold War competition between the United States and the Soviet Union to dominate spaceflight. They trace its roots to German rocket scientists such as Wernher von Braun, who were brought to the US and the USSR after World War II (Sergei Korolev led the Soviet effort). They cover early milestones: Sputnik (October 4, 1957), Explorer 1 (January 31, 1958), Project Mercury, Yuri Gagarin's orbit (April 12, 1961), Kennedy's moon pledge, Gemini, Apollo 1's fire, and the Apollo-Soyuz docking (1975). They also discuss the differences between the two programs, the Apollo 11 landing, later cooperation leading to the International Space Station, the uncertain future of US human spaceflight, China's program, a list of space myths and inventions (Velcro, the space pen, Tang), and a listener letter about breastfeeding.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Space Race",
+    "Cold War space competition",
+    "US-Soviet rivalry",
+    "Sputnik",
+    "Explorer 1",
+    "Yuri Gagarin",
+    "Project Mercury",
+    "Gemini program",
+    "Apollo program",
+    "Apollo 1 fire",
+    "Apollo-Soyuz",
+    "Wernher von Braun",
+    "Sergei Korolev",
+    "Operation Paperclip German rocket scientists",
+    "V-2 rocket",
+    "NASA founding",
+    "Space Act",
+    "International Space Station",
+    "Vostok program",
+    "Voskhod program",
+    "space shuttle retirement",
+    "China space program",
+    "space pen myth",
+    "Velcro NASA myth",
+    "Tang and space food",
+    "freeze drying",
+    "Kennedy moon pledge",
+    "Apollo 11 lunar landing",
+    "SpaceX private spaceflight",
+    "Soviet space dogs"
+  ],
+  "entities": [
+    {
+      "name": "Space Race",
+      "type": "event"
+    },
+    {
+      "name": "Cold War",
+      "type": "event"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "organization"
+    },
+    {
+      "name": "United States",
+      "type": "place"
+    },
+    {
+      "name": "NASA",
+      "type": "organization"
+    },
+    {
+      "name": "Wernher von Braun",
+      "type": "person"
+    },
+    {
+      "name": "Sergei Korolev",
+      "type": "person"
+    },
+    {
+      "name": "Yuri Gagarin",
+      "type": "person"
+    },
+    {
+      "name": "Valentina Tereshkova",
+      "type": "person"
+    },
+    {
+      "name": "Gus Grissom",
+      "type": "person"
+    },
+    {
+      "name": "Alan Shepard",
+      "type": "person"
+    },
+    {
+      "name": "John F. Kennedy",
+      "type": "person"
+    },
+    {
+      "name": "Dwight Eisenhower",
+      "type": "person"
+    },
+    {
+      "name": "Sputnik",
+      "type": "work"
+    },
+    {
+      "name": "Explorer 1",
+      "type": "work"
+    },
+    {
+      "name": "Project Mercury",
+      "type": "event"
+    },
+    {
+      "name": "Gemini program",
+      "type": "event"
+    },
+    {
+      "name": "Apollo program",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 1",
+      "type": "event"
+    },
+    {
+      "name": "Apollo 11",
+      "type": "event"
+    },
+    {
+      "name": "Apollo-Soyuz Test Project",
+      "type": "event"
+    },
+    {
+      "name": "Vostok program",
+      "type": "event"
+    },
+    {
+      "name": "International Space Station",
+      "type": "other"
+    },
+    {
+      "name": "Skylab",
+      "type": "other"
+    },
+    {
+      "name": "Mir",
+      "type": "other"
+    },
+    {
+      "name": "V-2 rocket",
+      "type": "other"
+    },
+    {
+      "name": "Juno rocket",
+      "type": "other"
+    },
+    {
+      "name": "The Right Stuff",
+      "type": "work"
+    },
+    {
+      "name": "SpaceX",
+      "type": "organization"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "Velcro",
+      "type": "other"
+    },
+    {
+      "name": "Tang",
+      "type": "other"
+    },
+    {
+      "name": "Space pen",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and Apollo 11 recollections",
+      "summary": "Hosts joke about the show's opening false start and reminisce about the space program. They mention space museums and Space Camp, plan future episodes on the Moon landing and space stations, and recall The Right Stuff. They also discuss the tense final seconds of the Apollo 11 landing.",
+      "topics": [
+        "Apollo 11",
+        "The Right Stuff",
+        "space museums",
+        "Space Camp"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Defining the Space Race",
+      "summary": "The hosts define the Space Race as a Cold War byproduct of US-Soviet rivalry. They describe how each side pushed the other to advance technologically, and how early programs proceeded in logical steps.",
+      "topics": [
+        "Space Race definition",
+        "Cold War",
+        "US-Soviet rivalry"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "German rocket scientists and the V-2",
+      "summary": "The hosts describe Wernher von Braun and the V-2 rocket. They explain that von Braun and colleagues surrendered to the Americans, who brought them to White Sands, New Mexico. The Soviets similarly recruited Nazi rocket scientists, and Sergei Korolev led their program.",
+      "topics": [
+        "Wernher von Braun",
+        "V-2 rocket",
+        "German rocket scientists",
+        "Sergei Korolev",
+        "White Sands"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "Early satellites and the International Geophysical Year",
+      "summary": "The hosts discuss Eisenhower's national security space programs, including the reconnaissance program Corona, and the International Geophysical Year. Both nations decided to launch satellites, which started the race.",
+      "topics": [
+        "International Geophysical Year",
+        "Eisenhower",
+        "Corona reconnaissance satellites",
+        "spy satellites",
+        "early satellite race"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Sputnik, Explorer 1 and the start of NASA",
+      "summary": "The Soviets launched Sputnik on October 4, 1957, and the US launched Explorer 1 on January 31, 1958, on a Juno rocket designed by von Braun. The hosts say the US could have launched earlier with von Braun's design. Congress then passed the Space Act, creating NASA, and the Soviets set up their own program.",
+      "topics": [
+        "Sputnik",
+        "Explorer 1",
+        "Juno rocket",
+        "NASA founding",
+        "Space Act"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Mercury, Vostok and differences between the programs",
+      "summary": "The hosts compare the American Mercury program, which used Redstone and Atlas rockets and pilots who splashed down in the ocean, with the Soviet Vostok program. The Soviets kept their program secret and used spherical capsules that landed on land. The hosts also discuss the origin of the word cosmonaut.",
+      "topics": [
+        "Project Mercury",
+        "Vostok program",
+        "Mercury Seven",
+        "cosmonauts vs astronauts",
+        "capsule design differences"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Failures, Gagarin and Kennedy's moon pledge",
+      "summary": "The hosts describe early failed launches and the Apollo 1 test fire that killed three astronauts. They then cover Yuri Gagarin's orbit on April 12, 1961, and Valentina Tereshkova's 48 orbits. Kennedy then pledged a Moon landing before the decade was out.",
+      "topics": [
+        "Yuri Gagarin",
+        "Valentina Tereshkova",
+        "Kennedy moon pledge",
+        "Apollo 1 fire",
+        "Alan Shepard Freedom 7"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Gemini, Apollo 1 and later Soviet and American programs",
+      "summary": "The hosts describe the Gemini program, which showed rendezvous and docking and long stays in orbit. They then cover the Apollo 1 fire, the Soviets' shift toward unmanned missions and space stations, and the Apollo-Soyuz docking of 1975.",
+      "topics": [
+        "Gemini program",
+        "Apollo 1",
+        "Soviet space stations",
+        "Apollo-Soyuz Test Project",
+        "space dogs"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:58:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between content sections.",
+      "topics": [
+        "break"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18155,
+    "output_tokens": 3014
+  }
+}

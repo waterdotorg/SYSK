@@ -1,0 +1,288 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-02-23_The_Future_of_Renewable_Energy_Featuring_Bill_Gates_51min.txt",
+  "title": "The Future of Renewable Energy, Featuring Bill Gates",
+  "date": "2016-02-23",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-future-of-renewable-energy-featuring-bill-gate",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/031ac228-2afd-4759-92de-ae28008677b2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/031ac228-2afd-4759-92de-ae28008677b2/transcript?format=TextWithTimestamps&t=1700543841",
+  "summary": "Josh and Chuck preview renewable energy topics before a special guest interview with Bill Gates, recorded in a New York hotel room. They cover rising world energy demand and CO2 emissions, the Paris Climate Talks, artificial photosynthesis (including a Berkeley Lab bacteria-based process and methanol fuel), a national high-voltage DC grid to share wind and solar power, photovoltaic paint, batteries and flow batteries, and storing heat with supercritical fluids. In the Gates interview, he discusses reliability and storage obstacles, the need for many research paths, the history of the gasoline car versus electric and steam cars, nuclear reactor generations, carbon capture, energy use in the US versus other countries and India, what individuals can do, and his own path from Microsoft to the Gates Foundation.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "renewable energy",
+    "Bill Gates interview",
+    "Paris Climate Talks",
+    "artificial photosynthesis",
+    "methanol fuel",
+    "Berkeley Lab bacteria fuel process",
+    "high voltage direct current grid",
+    "national power grid",
+    "photovoltaic paint",
+    "solar paint",
+    "quantum dot solar cells",
+    "batteries for grid storage",
+    "flow battery",
+    "lithium ion battery",
+    "Tesla Powerwall",
+    "supercritical fluid solar thermal storage",
+    "concentrating solar power",
+    "carbon capture and sequestration",
+    "energy density of gasoline",
+    "India electricity access",
+    "energy consumption and CO2 emissions",
+    "Gates Foundation",
+    "nuclear reactor generations",
+    "climate change",
+    "energy efficiency at home"
+  ],
+  "entities": [
+    {
+      "name": "Bill Gates",
+      "type": "person"
+    },
+    {
+      "name": "Paris Climate Talks",
+      "type": "event"
+    },
+    {
+      "name": "Berkeley Lab",
+      "type": "organization"
+    },
+    {
+      "name": "Department of Energy",
+      "type": "organization"
+    },
+    {
+      "name": "NOAA",
+      "type": "organization"
+    },
+    {
+      "name": "Alex McDonald",
+      "type": "person"
+    },
+    {
+      "name": "Elon Musk",
+      "type": "person"
+    },
+    {
+      "name": "Tesla Powerwall",
+      "type": "work"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "Henry Ford",
+      "type": "person"
+    },
+    {
+      "name": "Warren Buffett",
+      "type": "person"
+    },
+    {
+      "name": "Melinda Gates",
+      "type": "person"
+    },
+    {
+      "name": "Gates Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "Microsoft",
+      "type": "organization"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "Sub-Saharan Africa",
+      "type": "place"
+    },
+    {
+      "name": "Physics for Future Presidents",
+      "type": "work"
+    },
+    {
+      "name": "California Institute of Technology Center for Artificial Photosynthesis",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening and introduction of Bill Gates as guest",
+      "summary": "Josh and Chuck explain that the show rarely has guests and that Bill Gates's team asked to be on the show. They preview the renewable energy discussion and say the interview will be edited to seem seamless.",
+      "topics": [
+        "Bill Gates interview",
+        "stuff you should know guest"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Global energy demand and CO2 emissions",
+      "summary": "The hosts describe projected growth in world energy consumption, rising CO2 emissions, and the roughly 1.3 billion people without electricity, including in Sub-Saharan Africa and India. They say renewable energy must be clean, cheap, reliable, and available.",
+      "topics": [
+        "energy consumption and CO2 emissions",
+        "energy poverty",
+        "renewable energy"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Paris Climate Talks and funding for renewables",
+      "summary": "The hosts discuss the Paris Climate Talks in November, the voluntary and legally binding emissions agreement signed by about 200 countries, and industrialized nations' pledged funding for renewable energy in developing economies.",
+      "topics": [
+        "Paris Climate Talks",
+        "climate finance",
+        "emissions reduction agreement"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Artificial photosynthesis and methanol",
+      "summary": "The hosts describe artificial photosynthesis, which uses sunlight to turn CO2 into fuel, as mentioned in a State of the Union address. They discuss a Berkeley Lab process using nanowire arrays and bacteria to make methanol, the use of platinum as a costly catalyst, and China blending methanol into gasoline. They also note funding challenges and a seventy-five million dollar Energy Department grant to Caltech's Center for Artificial Photosynthesis.",
+      "topics": [
+        "artificial photosynthesis",
+        "methanol fuel",
+        "Berkeley Lab bacteria fuel process",
+        "China methanol gasoline blend",
+        "platinum catalyst",
+        "research funding"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "High voltage DC grid to share wind and solar",
+      "summary": "The hosts explain that regional wind and solar can be shared across a national grid using high-voltage direct current lines, which lose less power than alternating current. They describe NOAA researcher Alex McDonald's computer model of the US grid, its cautious assumptions, and projected CO2 cuts, with political will as the main obstacle.",
+      "topics": [
+        "high voltage direct current grid",
+        "national power grid",
+        "wind and solar integration",
+        "NOAA grid model"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Photovoltaic paint and quantum dots",
+      "summary": "The hosts discuss photovoltaic paint containing colloidal quantum dots or nanoparticles that generate electricity from sunlight, with about eight percent efficiency reported. They also mention plastic solar cells as a cheap, mass-producible alternative.",
+      "topics": [
+        "photovoltaic paint",
+        "solar paint",
+        "quantum dot solar cells",
+        "plastic solar cells"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:31:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode break before the battery discussion.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Batteries and flow batteries",
+      "summary": "The hosts explain that grid-scale battery storage is costly and that Bill Gates has argued it could double or triple electricity costs. They mention Elon Musk and the Tesla Powerwall, then describe flow batteries, which store charge in electrolyte fluid held in tanks, and a lithium-ion flow hybrid that stores more energy but discharges much more slowly.",
+      "topics": [
+        "batteries for grid storage",
+        "flow battery",
+        "lithium ion battery",
+        "Tesla Powerwall",
+        "Elon Musk battery"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Storing heat with supercritical fluids",
+      "summary": "The hosts discuss concentrating solar power plants that store heat, often as molten salt, and a supercritical fluid approach that can store thermal heat from the sun and release it to make steam for a turbine.",
+      "topics": [
+        "supercritical fluid solar thermal storage",
+        "concentrating solar power",
+        "thermal energy storage"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Interview begins: obstacles to renewable deployment",
+      "summary": "Bill Gates explains that the market needs reliable energy, not just power when the wind blows or sun shines. He says battery technology has improved little and that a tenfold improvement is needed for the grid, so the field should pursue paths such as liquid fuels from sunlight.",
+      "topics": [
+        "energy reliability",
+        "battery limitations",
+        "Bill Gates interview"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Multiple energy paths, history of cars, nuclear, and carbon capture",
+      "summary": "Gates compares the rise of the gasoline car to electric and steam cars, citing gasoline's energy density, and argues for many research paths. He discusses nuclear generations, carbon capture and sequestration, and greenhouse plant growth with higher CO2. He also addresses the role of government, New York horse manure, and India's electricity access versus its emissions.",
+      "topics": [
+        "energy density of gasoline",
+        "nuclear reactor generations",
+        "carbon capture and sequestration",
+        "India electricity access",
+        "innovation in energy",
+        "government role in energy"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "01:03:00",
+      "kind": "content",
+      "title": "Individual energy use and Gates's personal path",
+      "summary": "Gates says Americans use about twice as much energy per person as other rich countries, and that individual conservation helps but is not enough alone. He suggests efficient building and labeling. Asked about his life path, he describes his Microsoft years, marriage, and the shift to philanthropy with Melinda Gates and the Gates Foundation, shaped by travel to Africa.",
+      "topics": [
+        "energy efficiency at home",
+        "individual energy conservation",
+        "Gates Foundation",
+        "Melinda Gates",
+        "philanthropy"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:04:00",
+      "kind": "outro",
+      "title": "Closing and contact info",
+      "summary": "Josh and Chuck thank Gates and wrap up. They invite listeners to contact the show via Twitter, Facebook, email, and the website.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15439,
+    "output_tokens": 3432
+  }
+}

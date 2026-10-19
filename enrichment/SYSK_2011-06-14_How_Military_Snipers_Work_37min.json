@@ -1,0 +1,252 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-06-14_How_Military_Snipers_Work_37min.txt",
+  "title": "How Military Snipers Work",
+  "date": "2011-06-14",
+  "duration": "37 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-military-snipers-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/16ce5153-2916-4693-8c31-ae2800af6b07/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/16ce5153-2916-4693-8c31-ae2800af6b07/transcript?format=TextWithTimestamps&t=1700543939",
+  "summary": "Josh and Chuck explore how military snipers work, drawing on a HowStuffWorks article and an interview with an anonymous former Army Ranger sniper. Topics include the sniper team roles (sniper and spotter), reconnaissance and targets of opportunity, psychological and morale effects, overwatch and blocking positions, match-grade bolt-action rifles, scopes and ballistic compensation, the vapor trail of supersonic bullets, Gillie suits and their Scottish origins, Marine Corps Scout Sniper School training (Kim's game, stalking drills, observation games), and ballistic factors like gravity, wind, and minute of angle. The episode ends with a listener mail letter about living with MS and a happy outlook.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "military snipers",
+    "sniper team",
+    "spotter",
+    "sniper rifle",
+    "bolt action rifle",
+    "match grade rifle",
+    "targets of opportunity",
+    "reconnaissance",
+    "overwatch position",
+    "blocking position",
+    "Gillie suit",
+    "Scottish gillies",
+    "Marine Corps Scout Sniper School",
+    "Kim's game",
+    "stalking training",
+    "minute of angle",
+    "ballistic drop compensator",
+    "bullet vapor trail",
+    "sniper scope",
+    "sniper psychology morale",
+    "force multiplier",
+    "sniper history",
+    "listener mail",
+    "multiple sclerosis"
+  ],
+  "entities": [
+    {
+      "name": "Marine Corps Scout Sniper School",
+      "type": "organization"
+    },
+    {
+      "name": "Gillie suit",
+      "type": "other"
+    },
+    {
+      "name": "Kim",
+      "type": "work"
+    },
+    {
+      "name": "Rudyard Kipling",
+      "type": "person"
+    },
+    {
+      "name": "Charles Whitman",
+      "type": "person"
+    },
+    {
+      "name": "Seemo Hia",
+      "type": "person"
+    },
+    {
+      "name": "Shooter",
+      "type": "work"
+    },
+    {
+      "name": "Full Metal Jacket",
+      "type": "work"
+    },
+    {
+      "name": "Inglorious Basterds",
+      "type": "work"
+    },
+    {
+      "name": "Saving Private Ryan",
+      "type": "work"
+    },
+    {
+      "name": "Call of Duty",
+      "type": "work"
+    },
+    {
+      "name": "Silent Scope",
+      "type": "work"
+    },
+    {
+      "name": "GoldenEye",
+      "type": "work"
+    },
+    {
+      "name": "Marine Corps",
+      "type": "organization"
+    },
+    {
+      "name": "Delta Force",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Sniper team banter and cigarette superstition",
+      "summary": "The hosts joke about being a sniping team, with Josh as spotter. They discuss the superstition about lighting three cigarettes off one match, said to date from World War One trenches, and mention sniper video games.",
+      "topics": [
+        "sniper superstition",
+        "three cigarettes one match",
+        "Silent Scope",
+        "GoldenEye",
+        "Call of Duty sniper level"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Sniper roles: reconnaissance, targets of opportunity, and psychological impact",
+      "summary": "Snipers do reconnaissance and observation as much as shooting, and take targets of opportunity such as officers, communications men, or material targets like generators. Their unseen kills hurt morale, making them force multipliers.",
+      "topics": [
+        "reconnaissance",
+        "targets of opportunity",
+        "force multiplier",
+        "sniper morale effect",
+        "officer identification"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Overwatch and blocking positions",
+      "summary": "The hosts describe the overwatch position in an elevated spot like a bell tower with a wide view of the battlefield, and the blocking action where snipers help defend a position from a roof. They note the film depiction in Inglorious Basterds and Saving Private Ryan.",
+      "topics": [
+        "overwatch position",
+        "blocking action",
+        "sniper positions in World War Two",
+        "sniper movies"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Sniper myth and team operation",
+      "summary": "The hosts say the lone gunman idea is not true, referencing the movie Shooter. Sniper rifles are crew-served weapons because two people are needed to shoot accurately, with the sniper in charge and the spotter in training.",
+      "topics": [
+        "lone gunman myth",
+        "Shooter film",
+        "crew served weapon",
+        "sniper team roles"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Mission planning, setup, and spotting",
+      "summary": "The team plans drop-off points, often a day's walk from the objective, chooses set-up positions, camouflage, escape routes and fallback positions. Once in place they may wait days prone while the spotter uses a powerful spotter scope to read wind, distance, and weather.",
+      "topics": [
+        "mission planning",
+        "sniper setup position",
+        "escape route",
+        "spotter scope",
+        "wind reading",
+        "prone shooting"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Shooting, vapor trails, and correcting misses",
+      "summary": "The spotter confirms hits and calls corrections after misses. Supersonic bullets from large-caliber rifles create a visible distorted vapor trail. Spotters carry assault rifles for close combat because sniper rifles are poor at close range.",
+      "topics": [
+        "bullet vapor trail",
+        "spotter corrections",
+        "close combat weapons",
+        "7.62 round",
+        "supersonic bullets"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Match grade rifles, bolt action, and scopes",
+      "summary": "Sniper rifles are often match-grade M14s or bolt-action rifles with free-floating barrels, fiberglass stocks, and handmade ammunition. Bolt action is preferred for accuracy, though semi-automatics are sometimes used. Scopes have about ten-power magnification with reticles. Rifles cost between eight and fifteen thousand dollars.",
+      "topics": [
+        "match grade rifle",
+        "bolt action rifle",
+        "free floating barrel",
+        "sniper scope",
+        "reticle",
+        "ten power magnification",
+        "sniper rifle cost"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Ballistics: gravity, wind, minute of angle, and sound",
+      "summary": "Snipers aim over targets because of gravity and adjust with a ballistic drop compensator for drop, wind, and temperature. Minute of angle is about 1.047 inches per hundred yards. Bullets go subsonic around 600 yards so distant targets may not hear the shot.",
+      "topics": [
+        "gravity bullet drop",
+        "ballistic drop compensator",
+        "minute of angle",
+        "wind correction",
+        "subsonic",
+        "sonic boom",
+        "cold air drag"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Gillie suits and Scottish gillies",
+      "summary": "The Gillie suit is camouflage netting and padding worn by snipers. The name comes from Scottish gillies, game wardens who had to catch deer alive for mock hunts for landowners.",
+      "topics": [
+        "Gillie suit",
+        "camouflage",
+        "Scottish gillies",
+        "deer stalking history"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Marine Corps Scout Sniper School training",
+      "summary": "The hosts discuss the Marine Corps Scout Sniper School as highly selective, the Marines' sniper origins from 18th-century leathernecks, and training games including Kim's game (based on Kipling's Kim), stalking drills, and hidden-object observation exercises. Charles Whitman and Lee Harvey Oswald come up as non-military-sniper examples.",
+      "topics": [
+        "Marine Corps sniper school",
+        "Kim's game",
+        "observation training",
+        "stalking drill",
+        "leathernecks",
+        "Charles Whitman",
+        "Lee Harvey Oswald"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12740,
+    "output_tokens": 2814
+  }
+}

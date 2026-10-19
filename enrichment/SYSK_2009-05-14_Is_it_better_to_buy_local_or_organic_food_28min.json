@@ -1,0 +1,223 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-05-14_Is_it_better_to_buy_local_or_organic_food_28min.txt",
+  "title": "Is it better to buy local or organic food?",
+  "date": "2009-05-14",
+  "duration": "28 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-it-better-to-buy-local-or-organic-food",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/825b0ac1-6636-4639-83f2-ae2800bf444f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/825b0ac1-6636-4639-83f2-ae2800bf444f/transcript?format=TextWithTimestamps&t=1700543986",
+  "summary": "Josh and Chuck discuss whether it is better to buy local or organic food. They open with Michelle Obama's White House garden and the Mid America Crop Life Association's letter to her, then cover the downsides of conventionally grown produce (pesticide residues, FDA findings, washing advice), the USDA National Organic Program and its 2004 directives that were reversed, the \"organic\" label on non-agricultural products, and whether organic food is more nutritious (no proof). They discuss food miles and air freight, the Hundred Mile Diet, farmers markets, food co-ops (including Whole Foods' local produce share), community supported agriculture (CSA), and the concept of \"ghost acres.\" The episode ends with listener mail from a soldier in Iraq and requests for episodes on Dr. Seuss and sexual reproduction.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "local food",
+    "organic food",
+    "buy local vs organic",
+    "pesticides",
+    "fertilizers",
+    "USDA National Organic Program",
+    "organic certification",
+    "big organic",
+    "food miles",
+    "ghost acres",
+    "hundred mile diet",
+    "farmers markets",
+    "food co-ops",
+    "community supported agriculture",
+    "CSA",
+    "Whole Foods local produce",
+    "pesticide residue on produce",
+    "washing produce",
+    "organic nutrition",
+    "light beer",
+    "Michelle Obama White House garden",
+    "carbon emissions of food transport",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Michelle Obama",
+      "type": "person"
+    },
+    "Eleanor Roosevelt",
+    {
+      "name": "Mid America Crop Life Association",
+      "type": "organization"
+    },
+    {
+      "name": "USDA National Organic Program",
+      "type": "organization"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Whole Foods",
+      "type": "organization"
+    },
+    {
+      "name": "Hundred Mile Diet",
+      "type": "work"
+    },
+    {
+      "name": "Lisa Smith",
+      "type": "person"
+    },
+    {
+      "name": "J.B. McKinnon",
+      "type": "person"
+    },
+    {
+      "name": "Dr. Seuss",
+      "type": "person"
+    },
+    {
+      "name": "Miles Davis",
+      "type": "person"
+    },
+    {
+      "name": "Camp Liberty",
+      "type": "place"
+    },
+    {
+      "name": "Atlanta",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Michelle Obama's organic garden",
+      "summary": "Hosts banter, then discuss Michelle Obama's White House kitchen garden, its organic approach, and the Mid America Crop Life Association's letter to her defending fertilizers and pesticides. They also mention a petition against the group and the term 'big organic.'",
+      "topics": [
+        "Michelle Obama White House garden",
+        "Mid America Crop Life Association",
+        "big organic"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Problems with conventionally grown food",
+      "summary": "Hosts describe pesticide use on conventional apples and FDA findings that many fruits and vegetables carry detectable pesticide residues. They discuss possible health effects and a suggested washing method using hydrogen peroxide or diluted bleach, with a caution about tap water.",
+      "topics": [
+        "pesticides",
+        "pesticide residue on produce",
+        "washing produce",
+        "FDA pesticide testing"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "USDA organic certification and its loopholes",
+      "summary": "Chuck explains the USDA National Organic Program and certification standards. Josh describes the April 2004 USDA directives that allowed unknown ingredients and non-organic fish meal and antibiotics, which were reversed after public outcry. The hosts also note the organic label on non-agricultural products falls outside USDA jurisdiction, and light beer's color-only meaning.",
+      "topics": [
+        "USDA National Organic Program",
+        "organic certification",
+        "2004 USDA directives",
+        "organic labeling loopholes",
+        "light beer"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Is organic food more nutritious?",
+      "summary": "The hosts report that no hard evidence shows organic food is more nutritious, and that the USDA makes no nutritional claims for organic products; certification only confirms production steps. They note organic farming is often assumed to be more sustainable.",
+      "topics": [
+        "organic nutrition",
+        "organic health claims",
+        "organic sustainability"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Food miles and transport emissions",
+      "summary": "The hosts discuss food miles, with average food traveling about 2,000 miles in the US, and air transport as the worst carbon emitter for food. They note a lack of hard figures on emissions per pound of food, and quote Gus Schumacher-style local eating advocate's strawberry calorie claim (as stated in the episode).",
+      "topics": [
+        "food miles",
+        "carbon emissions of food transport",
+        "air freight food",
+        "local food sustainability"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "The Hundred Mile Diet",
+      "summary": "Hosts describe Lisa Smith and J.B. McKinnon, a Canadian couple who in 2005 vowed to eat only food grown within 100 miles. They note the difficulty of seasonal eating and the expense of sourcing ingredients locally.",
+      "topics": [
+        "hundred mile diet",
+        "local eating",
+        "seasonal eating"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Farmers markets and co-ops",
+      "summary": "The hosts praise farmers markets, including a large Atlanta market where signs show produce origins, and a state-subsidized market near the airport limited to Georgia growers. They discuss the social aspect of markets and then food co-ops, such as an Atlanta co-op with a governance dispute, and the revenue of top US co-ops.",
+      "topics": [
+        "farmers markets",
+        "food co-ops",
+        "Atlanta farmers market",
+        "local economy"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Community supported agriculture and Whole Foods",
+      "summary": "Chuck describes community supported agriculture (CSA), where members prepay a local farm and receive a varying crate of produce. He also mentions Whole Foods selling 16.4 percent local produce in 2006, and the hosts discuss consumers becoming more savvy about food.",
+      "topics": [
+        "community supported agriculture",
+        "CSA",
+        "Whole Foods local produce",
+        "consumer awareness"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Ghost acres",
+      "summary": "Josh explains the concept of ghost acres: the extra land used by fertilizer factories, landfills, and runoff pollution needed to produce a crop, beyond the farm acreage itself. Chuck notes a figure of about ten ghost acres per acre per person.",
+      "topics": [
+        "ghost acres",
+        "land use",
+        "food production footprint"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:28:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Camp Liberty and outro",
+      "summary": "The hosts read mail from Specialist Norman at Camp Liberty in Iraq, who requested episodes on Dr. Seuss and on sexual reproduction and evolution. They discuss T-shirts sent to troops and sign off with the website and email address.",
+      "topics": [
+        "listener mail",
+        "Camp Liberty",
+        "Dr. Seuss",
+        "sexual reproduction evolution"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10648,
+    "output_tokens": 2687
+  }
+}

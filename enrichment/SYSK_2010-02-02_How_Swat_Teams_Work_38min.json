@@ -1,0 +1,245 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-02-02_How_Swat_Teams_Work_38min.txt",
+  "title": "How Swat Teams Work",
+  "date": "2010-02-02",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-swat-teams-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8b1d3b6b-cc15-486d-acd2-ae2800ba0df6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8b1d3b6b-cc15-486d-acd2-ae2800ba0df6/transcript?format=TextWithTimestamps&t=1700543968",
+  "summary": "Josh and Chuck explain SWAT teams: their origin in the Los Angeles Police Department under Daryl Gates after standoffs with the Black Panthers (1969) and the Symbionese Liberation Army (1974), how many exist in the US, typical call-out scenarios, how officers are selected and trained (marksmanship, hostage negotiation, computer simulators), team structure (stealth reconnaissance, snipers, explosives experts), the \"snake\" entry formation and areas of responsibility, weapons and vehicles (armored vehicles, RVs, shotguns, the Masterkey weapon, fifty-caliber rifles restricted), thermal imaging camera controversy, criticism over overuse in a South Carolina high school drug sweep, the 2006 Maryland Cheryl Noel shooting, a Boston optometrist shooting, and the active shooter doctrine after Columbine. The episode ends with listener mail about Gilligan's Island and the Honeybees.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "SWAT teams",
+    "SWAT team history",
+    "Special Weapons and Tactics",
+    "Daryl Gates",
+    "LAPD SWAT",
+    "Black Panthers standoff 1969",
+    "Symbionese Liberation Army standoff 1974",
+    "police tactical units",
+    "paramilitary police",
+    "high risk warrant",
+    "hostage negotiation",
+    "active shooter doctrine",
+    "Columbine police response",
+    "SWAT training",
+    "snake formation entry",
+    "areas of responsibility",
+    "police armored vehicles",
+    "police weapons",
+    "thermal imaging cameras police",
+    "police overuse of SWAT raids",
+    "Cheryl Noel shooting",
+    "Die Hard Nakatomi Building",
+    "riot control",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "SWAT",
+      "type": "organization"
+    },
+    {
+      "name": "Los Angeles Police Department",
+      "type": "organization"
+    },
+    {
+      "name": "Daryl Gates",
+      "type": "person"
+    },
+    {
+      "name": "Black Panthers",
+      "type": "organization"
+    },
+    {
+      "name": "Symbionese Liberation Army",
+      "type": "organization"
+    },
+    {
+      "name": "Columbine High School shooting",
+      "type": "event"
+    },
+    {
+      "name": "Cheryl Noel",
+      "type": "person"
+    },
+    {
+      "name": "Die Hard",
+      "type": "work"
+    },
+    {
+      "name": "Nakatomi Building",
+      "type": "place"
+    },
+    {
+      "name": "Union Pacific Railroad",
+      "type": "organization"
+    },
+    {
+      "name": "Gilligan's Island",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and personal police encounters",
+      "summary": "Hosts joke about a cop visiting Chuck's door in Athens and being shaken down near the Georgia Theater, then introduce SWAT as specially trained, heavily armed police divisions often built from military surplus.",
+      "topics": [
+        "SWAT teams",
+        "hosts banter",
+        "military surplus equipment"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Origins: LAPD and the first SWAT team",
+      "summary": "The name began as Special Weapons Attack Team. Daryl Gates is credited with championing it, though a subordinate likely proposed it; LAPD assembled one of the first US SWAT teams. Standoffs with the Black Panthers in 1969 and the Symbionese Liberation Army in 1974 lasted days, and the LAPD SWAT patch references those addresses.",
+      "topics": [
+        "SWAT history",
+        "Daryl Gates",
+        "Black Panthers standoff 1969",
+        "Symbionese Liberation Army standoff 1974",
+        "LAPD SWAT"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Number of SWAT teams and call-out scenarios",
+      "summary": "About 1,200 US SWAT teams exist, with most cities over 50,000 people having one; smaller towns form regional teams. Uses include high-risk warrants, hostage and barricade situations, transporting high-risk prisoners, terrorist attacks and riots. About forty SWAT raids occur yearly, a number that has grown, partly due to Homeland Security funding.",
+      "topics": [
+        "SWAT team count",
+        "regional SWAT teams",
+        "high risk warrant",
+        "hostage situations",
+        "SWAT raids statistics",
+        "Homeland Security funding"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Vehicles, armored transports and Die Hard",
+      "summary": "Delivery vans are painted black and armored, and RVs serve as mobile command posts with bathrooms. In Die Hard, the LAPD SWAT armored vehicle tried to breach the Nakatomi Building and was fired on with a rocket launcher.",
+      "topics": [
+        "SWAT armored vehicles",
+        "mobile command RV",
+        "Die Hard",
+        "Nakatomi Building"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Becoming a SWAT officer and training",
+      "summary": "Officers must be police officers first and may volunteer or be required to serve for a few years. Full-time teams in places like LA and New York train constantly. Members are expected to be expert marksmen, and training includes simulators and scenario practice with dummies.",
+      "topics": [
+        "SWAT recruitment",
+        "SWAT training",
+        "marksmanship",
+        "police simulators",
+        "call-out"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Team roles: negotiators, stealth reconnaissance, snipers, explosives",
+      "summary": "Most departments keep SWAT and hostage negotiation separate, but LAPD SWAT members are all trained negotiators. Teams include stealth reconnaissance members who drill holes for pinhole cameras, anti-snipers, and explosives experts.",
+      "topics": [
+        "hostage negotiation",
+        "stealth reconnaissance",
+        "snipers",
+        "explosives experts",
+        "pinhole camera"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Standoff planning and entry tactics",
+      "summary": "During a standoff, teams plan while the situation is static, using negotiator and hostage information. On entry they move in a snake formation and each member covers an assigned area of responsibility, using flash bang grenades to disorient suspects. Few SWAT assaults involve any gunshot.",
+      "topics": [
+        "standoff planning",
+        "snake formation",
+        "areas of responsibility",
+        "flash bang grenade",
+        "SWAT entry tactics"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Weapons and equipment",
+      "summary": "Officers carry a handgun on the leg, plus submachine guns and shotguns, often a mismatched arsenal seized from drug dealers. The Masterkey shotgun-M16 combination is discussed. Non-lethal options include grappling hooks and tiger claws. Fifty-caliber sniper rifles are restricted because they could pass through walls and hostages.",
+      "topics": [
+        "SWAT weapons",
+        "Masterkey shotgun",
+        "shotguns",
+        "fifty caliber sniper rifle",
+        "non-lethal weapons",
+        "bolt action sniper rifles"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Surveillance and thermal imaging controversy",
+      "summary": "Teams use high-power binoculars and night vision goggles. Thermal imaging cameras drew privacy debate over flyovers of suspected grow houses. Chuck reports that Union Pacific security guards used thermal cameras to look for hobos in boxcars.",
+      "topics": [
+        "thermal imaging cameras",
+        "night vision goggles",
+        "police surveillance privacy",
+        "marijuana grow house flyovers",
+        "Union Pacific railroad security"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Overuse controversies, Boston and active shooter doctrine",
+      "summary": "Critics cite a South Carolina high school drug sweep where students were forced to kneel at gunpoint, the 2006 Maryland shooting of Cheryl Noel, and the Boston shooting of optometrist Salvatore Culosi Jr. over a football betting case. The active shooter doctrine emerged after Columbine, training regular officers to act rather than wait for SWAT.",
+      "topics": [
+        "SWAT overuse criticism",
+        "Cheryl Noel shooting",
+        "Boston SWAT shooting",
+        "active shooter doctrine",
+        "Columbine",
+        "police wrongful death"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:38:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Gilligan's Island and Honeybees",
+      "summary": "Dan from Fort Collins notes a Red Dawn reference and a Gilligan's Island episode where the Mosquitoes and the Honeybees bands compete; the hosts discuss Ginger versus Mary Ann and the Jerry-timed sign-off.",
+      "topics": [
+        "listener mail",
+        "Gilligan's Island",
+        "Red Dawn reference"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13467,
+    "output_tokens": 3210
+  }
+}

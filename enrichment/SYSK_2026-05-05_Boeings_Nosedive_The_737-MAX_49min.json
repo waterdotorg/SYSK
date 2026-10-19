@@ -1,0 +1,415 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-05-05_Boeings_Nosedive_The_737-MAX_49min.txt",
+  "title": "Boeing's Nosedive: The 737-MAX",
+  "date": "2026-05-05",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/boeings-nosedive-the-737-max",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/b597e93d-752f-4ee8-968b-b440017c24fa/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b597e93d-752f-4ee8-968b-b440017c24fa/transcript?format=TextWithTimestamps&t=1778095212",
+  "summary": "Josh and Chuck promote the upcoming Stuff You Should Know live cruise on Virgin Voyages, then examine Boeing's decline and the 737 MAX disasters. They trace Boeing's cost-cutting culture from the 1997 McDonnell Douglas merger, the move of headquarters to Chicago, and CEO changes, then describe the decision to re-engineer the 737 with larger engines and the MCAS software, which relied on a single sensor and was not disclosed to pilots. They cover the FAA's self-certification delegation, regulatory capture and the revolving door, the Lion Air (2018) and Ethiopian Airlines (2019) crashes, the 20-month global grounding, the Justice Department settlement, the 2024 Alaska Airlines door plug blowout, whistleblower deaths, the NTSB bulletin, the Starliner test flight problems, and the MAX's continued service. The episode ends with listener mail about Seattle cherry blossoms.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Boeing",
+    "737 MAX",
+    "MCAS",
+    "Maneuvering Characteristics Augmentation System",
+    "Lion Air Flight 610",
+    "Ethiopian Airlines Flight 302",
+    "Alaska Airlines door plug blowout",
+    "FAA",
+    "NTSB",
+    "regulatory capture",
+    "revolving door",
+    "organizational designation authorization",
+    "McDonnell Douglas merger",
+    "Boeing corporate culture",
+    "737 MAX grounding",
+    "Boeing settlement",
+    "Boeing whistleblowers",
+    "Starliner",
+    "Airbus A320neo",
+    "aviation safety",
+    "Stuff You Should Know cruise"
+  ],
+  "entities": [
+    {
+      "name": "Boeing",
+      "type": "organization"
+    },
+    {
+      "name": "McDonnell Douglas",
+      "type": "organization"
+    },
+    {
+      "name": "Airbus",
+      "type": "organization"
+    },
+    {
+      "name": "FAA",
+      "type": "organization"
+    },
+    {
+      "name": "NTSB",
+      "type": "organization"
+    },
+    {
+      "name": "Southwest Airlines",
+      "type": "organization"
+    },
+    {
+      "name": "Alaska Airlines",
+      "type": "organization"
+    },
+    {
+      "name": "Lion Air",
+      "type": "organization"
+    },
+    {
+      "name": "Ethiopian Airlines",
+      "type": "organization"
+    },
+    {
+      "name": "Spirit AeroSystems",
+      "type": "organization"
+    },
+    {
+      "name": "Starliner",
+      "type": "work"
+    },
+    {
+      "name": "737 MAX",
+      "type": "other"
+    },
+    {
+      "name": "MCAS",
+      "type": "other"
+    },
+    {
+      "name": "Philip Condit",
+      "type": "person"
+    },
+    {
+      "name": "Harry Stonecipher",
+      "type": "person"
+    },
+    {
+      "name": "Jim McNerney",
+      "type": "person"
+    },
+    {
+      "name": "Dennis Muilenburg",
+      "type": "person"
+    },
+    {
+      "name": "Dave Calhoun",
+      "type": "person"
+    },
+    {
+      "name": "Mark Forkner",
+      "type": "person"
+    },
+    {
+      "name": "Richard Blumenthal",
+      "type": "person"
+    },
+    {
+      "name": "Virgin Voyages",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:04",
+      "kind": "intro",
+      "title": "Opening and cruise promotion",
+      "summary": "The hosts open the show and promote the live Stuff You Should Know podcast cruise on Virgin Voyages, a New York to Bermuda sailing in October.",
+      "topics": [
+        "Stuff You Should Know live cruise",
+        "Virgin Voyages",
+        "live podcast"
+      ]
+    },
+    {
+      "start": "00:02:04",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Introduction to the 737 MAX and Boeing's rivalry with Airbus",
+      "summary": "The hosts introduce the Boeing 737 MAX, which crashed twice with fatal results, and explain it was meant to replace older 737s and compete with the Airbus A320neo. They note Boeing's rivalry with Airbus following the McDonnell Douglas acquisition.",
+      "topics": [
+        "737 MAX",
+        "Boeing",
+        "Airbus A320neo",
+        "Boeing McDonnell Douglas acquisition"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:11",
+      "kind": "content",
+      "title": "Boeing's shift from engineering to cost-cutting",
+      "summary": "Chuck describes how CEO Philip Condit's 1997 McDonnell Douglas acquisition brought a cost-cutting culture into Boeing. Josh covers the 2001 move of headquarters from Seattle to Chicago for a tax credit.",
+      "topics": [
+        "Philip Condit",
+        "McDonnell Douglas merger",
+        "Boeing headquarters move Chicago",
+        "Boeing corporate culture",
+        "tax incentives"
+      ]
+    },
+    {
+      "start": "00:07:11",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Executive changes and cost-focused leadership",
+      "summary": "The hosts discuss how separating executives from engineers weakened safety communication, and how Harry Stonecipher and later Jim McNerney pushed a shareholder-focused, cost-cutting approach. Dennis Muilenburg became CEO after 2015.",
+      "topics": [
+        "Harry Stonecipher",
+        "Jim McNerney",
+        "Dennis Muilenburg",
+        "shareholder value",
+        "Boeing leadership"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:28",
+      "kind": "content",
+      "title": "Rushed development and pressure to stay silent",
+      "summary": "Chuck describes countdown clocks in Boeing offices and engineers being told to keep quiet, as the 737 MAX project was pushed to beat Airbus to market. Josh notes the need for whistleblower protections.",
+      "topics": [
+        "737 MAX development pressure",
+        "engineer whistleblowing",
+        "Airbus competition"
+      ]
+    },
+    {
+      "start": "00:11:28",
+      "end": "00:12:25",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:12:25",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Engine redesign, MCAS software, and single-sensor design",
+      "summary": "The hosts explain that Boeing put larger engines on the 737 airframe, causing a nose-up balance problem. Rather than moving the wings, Boeing added MCAS software to push the nose down. The system relied on one angle-of-attack sensor, and Boeing judged the failure risk almost inconceivable. MCAS was kept secret from pilots, and the FAA was persuaded not to include it in the flight manual or add an indicator light.",
+      "topics": [
+        "MCAS",
+        "angle of attack sensor",
+        "737 MAX stall",
+        "engine redesign",
+        "redundancy",
+        "pilot training costs",
+        "Southwest Airlines deal"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:20:19",
+      "kind": "content",
+      "title": "MCAS secrecy and FAA disclosure decisions",
+      "summary": "Chuck and Josh say Boeing did not tell pilots about MCAS, which could take over controls. Boeing argued it was a minor part of an existing system, and FAA officials later testified they did not understand it and were discouraged from asking questions.",
+      "topics": [
+        "MCAS secrecy",
+        "flight manual omission",
+        "FAA oversight failure",
+        "pilot disclosure"
+      ]
+    },
+    {
+      "start": "00:20:19",
+      "end": "00:23:18",
+      "kind": "content",
+      "title": "FAA structure, NTSB role, and self-certification",
+      "summary": "Josh explains the FAA's conflicting mandates to promote aviation and ensure safety, and the NTSB's advisory role. The FAA delegated certification to Boeing through organizational designation authorization, and the hosts describe regulatory capture.",
+      "topics": [
+        "FAA history",
+        "NTSB",
+        "organizational designation authorization",
+        "self-certification",
+        "regulatory capture"
+      ]
+    },
+    {
+      "start": "00:23:18",
+      "end": "00:25:43",
+      "kind": "content",
+      "title": "Revolving door and regulatory reform proposals",
+      "summary": "The hosts discuss the revolving door between regulators and industry, citing mediation as a similar conflict. They mention proposals such as a three-year cooling-off period.",
+      "topics": [
+        "revolving door",
+        "regulatory reform",
+        "cooling off period",
+        "conflicts of interest"
+      ]
+    },
+    {
+      "start": "00:25:43",
+      "end": "00:26:07",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the crash coverage.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:26:07",
+      "end": "00:28:26",
+      "kind": "content",
+      "title": "Certification in 2017 and the Lion Air crash",
+      "summary": "The FAA certified the 737 MAX 8 and MAX 9 in 2017, and the hosts explain the importance of FAA and EASA certifications worldwide. On October 29, 2018, Lion Air Flight 610 crashed into the Java Sea shortly after takeoff, killing all 189 people aboard. Boeing blamed pilot error.",
+      "topics": [
+        "Lion Air Flight 610",
+        "737 MAX certification",
+        "Java Sea crash",
+        "pilot error blame"
+      ]
+    },
+    {
+      "start": "00:28:26",
+      "end": "00:29:31",
+      "kind": "content",
+      "title": "Ethiopian Airlines crash and failed workaround",
+      "summary": "In March 2019, Ethiopian Airlines flight crashed near Bishoftu, Ethiopia, six minutes after takeoff, killing all 157 aboard. The pilots followed Boeing's override procedure, but a software glitch kept reactivating MCAS. The hosts say this showed the FAA had certified dangerous planes.",
+      "topics": [
+        "Ethiopian Airlines crash",
+        "MCAS override procedure",
+        "software glitch",
+        "FAA certification failure"
+      ]
+    },
+    {
+      "start": "00:29:31",
+      "end": "00:31:15",
+      "kind": "content",
+      "title": "Worldwide 20-month grounding",
+      "summary": "The 737 MAX fleet was grounded worldwide for about 20 months, the largest grounding in aviation history, affecting 450 planes and airlines including Southwest. Investigations into Boeing and the FAA followed.",
+      "topics": [
+        "737 MAX grounding",
+        "aviation history grounding",
+        "airline impact",
+        "investigations"
+      ]
+    },
+    {
+      "start": "00:31:15",
+      "end": "00:34:02",
+      "kind": "content",
+      "title": "Congressional testimony, blame, and penalties",
+      "summary": "Dennis Muilenburg testified to Congress insisting the plane was safe. Senator Richard Blumenthal said Boeing blamed pilots. A 2020 congressional report found Boeing and the FAA jointly responsible. The FAA fined Boeing 17 million dollars in 2021 for unrelated parts issues.",
+      "topics": [
+        "Congressional hearing",
+        "Dennis Muilenburg",
+        "Richard Blumenthal",
+        "FAA fine",
+        "2020 congressional report"
+      ]
+    },
+    {
+      "start": "00:34:02",
+      "end": "00:36:31",
+      "kind": "content",
+      "title": "Criminal case, Justice Department settlement, and Forkner",
+      "summary": "The Justice Department sued Boeing for defrauding the government. Boeing agreed to a 2.5 billion dollar payment and 8.3 billion dollars to airlines, with a 100 million dollar fund for victims' families. Mark Forkner was the only individual charged, and he was found not guilty of defrauding regulators.",
+      "topics": [
+        "Justice Department settlement",
+        "Mark Forkner",
+        "criminal charges",
+        "Boeing fraud case",
+        "victims families compensation"
+      ]
+    },
+    {
+      "start": "00:36:31",
+      "end": "00:40:07",
+      "kind": "content",
+      "title": "Alaska Airlines door plug blowout and factory problems",
+      "summary": "In 2024, a door plug blew out of an Alaska Airlines 737 MAX at 16,000 feet. No one was seated in that spot. Investigators reported missing bolts, and Spirit AeroSystems assemblers were found to have forced parts into place. The FAA found noncompliance and loose bolts in the rudder system, and a faulty air pressure sensor was reported.",
+      "topics": [
+        "Alaska Airlines door plug",
+        "Spirit AeroSystems",
+        "missing bolts",
+        "rudder bolts",
+        "air pressure sensor",
+        "factory quality control"
+      ]
+    },
+    {
+      "start": "00:40:07",
+      "end": "00:42:15",
+      "kind": "content",
+      "title": "FAA self-certification withdrawal and whistleblower deaths",
+      "summary": "After the door plug incident, the FAA withdrew its request to return to Boeing self-certification. Thirty-two people sought whistleblower protection, and two died. One suicide note named Boeing. CEO Dave Calhoun is criticized for not changing the culture enough.",
+      "topics": [
+        "whistleblower deaths",
+        "Dave Calhoun",
+        "FAA self-certification withdrawal",
+        "Boeing whistleblowers"
+      ]
+    },
+    {
+      "start": "00:42:15",
+      "end": "00:45:15",
+      "kind": "content",
+      "title": "NTSB bulletin, Starliner, and Boeing's financial cost",
+      "summary": "The NTSB issued a bulletin in June 2025 about a possible engine problem on the 737 MAX. The hosts discuss the Starliner test flight that left astronauts stranded at the ISS, and estimate the MAX cost Boeing investors 87 billion dollars in share price drops from 2018 to 2024.",
+      "topics": [
+        "NTSB safety bulletin",
+        "Starliner",
+        "Boeing stock price",
+        "737 MAX cost",
+        "Airbus competition"
+      ]
+    },
+    {
+      "start": "00:45:15",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Current status of the 737 MAX and software concerns",
+      "summary": "The 737 MAX has been recertified and cleared for delivery to China in August 2025. The MAX 7 and MAX 9 are having certification trouble. The hosts discuss software reliability and Boeing outsourcing software coding to India, noting none of it went to the MCAS.",
+      "topics": [
+        "737 MAX recertification",
+        "MAX 7 and MAX 9 certification",
+        "software outsourcing India",
+        "airline safety"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:08",
+      "kind": "listener_mail",
+      "title": "Listener mail: Seattle cherry blossoms",
+      "summary": "Listener Alexa writes that Seattle's Quad at UW and other spots are popular for cherry blossom viewing. The hosts agree and mention Seattle as a live show location.",
+      "topics": [
+        "listener mail",
+        "Seattle cherry blossoms",
+        "Seattle"
+      ]
+    },
+    {
+      "start": "00:48:08",
+      "end": "00:48:40",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank the listener and invite email at the show address. The show credits iHeartRadio.",
+      "topics": [
+        "sign-off",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17546,
+    "output_tokens": 5072
+  }
+}

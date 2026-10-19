@@ -1,0 +1,275 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-08-19_Y2K_Much_Ado_About_Something_43min.txt",
+  "title": "Y2K: Much Ado About Something",
+  "date": "2021-08-19",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/y2k-much-ado-about-something",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/140381f8-816a-448d-9a05-ae28000e18de/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/140381f8-816a-448d-9a05-ae28000e18de/transcript?format=TextWithTimestamps&t=1700539656",
+  "summary": "Josh and Chuck explain the Y2K bug (millennium bug): the problem of decades-old software storing years as two digits, why it was a concern for financial markets, utilities, infrastructure and public systems, and the warnings from early figures like Bob Bemer and Peter de Jager. They cover the public hysteria and scams, the enormous remediation spending (roughly $100 billion in the US, including about $8.4 billion by the federal government, per a Senate report), government actions such as the Council on Year2000 Conversion and the Year 2000 Information and Readiness Disclosure Act, international responses (Canada's standby troops, China's airline executive flight order, US-Russia observer exchange), and what actually happened at midnight, including the Sheffield NHS pregnancy testing error. They argue the lack of major disruption was due to the fixes, and that the remediation work helped spark the tech boom and post-9/11 market resilience. The episode closes with a listener mail about child labor bobbin girls in Lowell, Massachusetts.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Y2K bug",
+    "millennium bug",
+    "Y2K",
+    "two-digit year software problem",
+    "Year 2000 problem",
+    "Y2K hysteria",
+    "Y2K scams",
+    "Y2K remediation spending",
+    "Bob Bemer",
+    "Peter de Jager",
+    "Year 2000 Information and Readiness Disclosure Act",
+    "Council on Year 2000 Conversion",
+    "Y2K compliance",
+    "fix on failure",
+    "tech boom Y2K",
+    "Sheffield NHS Y2K error",
+    "Canada Y2K troops Operation Abacus",
+    "COBOL date formats",
+    "Cold War Y2K",
+    "Y2K doomsday predictions"
+  ],
+  "entities": [
+    {
+      "name": "Y2K bug",
+      "type": "event"
+    },
+    {
+      "name": "Bob Bemer",
+      "type": "person"
+    },
+    {
+      "name": "Peter de Jager",
+      "type": "person"
+    },
+    {
+      "name": "Morley Safer",
+      "type": "person"
+    },
+    {
+      "name": "Daniel Moynihan",
+      "type": "person"
+    },
+    {
+      "name": "Bill Clinton",
+      "type": "person"
+    },
+    {
+      "name": "Council on Year 2000 Conversion",
+      "type": "organization"
+    },
+    {
+      "name": "Sixty Minutes",
+      "type": "work"
+    },
+    {
+      "name": "New York Stock Exchange",
+      "type": "organization"
+    },
+    {
+      "name": "General Motors",
+      "type": "organization"
+    },
+    {
+      "name": "Proctor and Gamble",
+      "type": "organization"
+    },
+    {
+      "name": "Sheffield",
+      "type": "place"
+    },
+    {
+      "name": "National Health Service",
+      "type": "organization"
+    },
+    {
+      "name": "Operation Abacus",
+      "type": "event"
+    },
+    {
+      "name": "Senate special committee on Y2K",
+      "type": "organization"
+    },
+    {
+      "name": "Globe and Mail",
+      "type": "organization"
+    },
+    {
+      "name": "Washington Post",
+      "type": "organization"
+    },
+    {
+      "name": "Lowell, Massachusetts",
+      "type": "place"
+    },
+    {
+      "name": "Boott Cotton Mill Museum",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and what Y2K was",
+      "summary": "Josh and Chuck reminisce about New Year's Eve 1999 and introduce the Y2K bug as a two-digit year problem in old computer code, along with the split between people who called it a hoax and those who credit the fix.",
+      "topics": [
+        "Y2K bug",
+        "millennium bug",
+        "two-digit year software problem",
+        "Y2K hoax debate"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Why programmers used two-digit years",
+      "summary": "Explains that early computers had very limited memory, so storing two digits saved space; programmers assumed their code would be replaced. Software was patched over decades, and programmers used differing date formats such as the Julian format, which made a uniform fix hard.",
+      "topics": [
+        "two-digit years memory limits",
+        "legacy software",
+        "Julian date format",
+        "COBOL date formats"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Feared consequences and the scope of the problem",
+      "summary": "Describes the fears that computers would read 1900 instead of 2000, from elevators stopping and planes falling to nuclear warheads and power outages, and notes that the hosts were unaware how widespread the affected chips and systems were.",
+      "topics": [
+        "Y2K failure scenarios",
+        "embedded chips",
+        "infrastructure risk",
+        "Y2K fears"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Early warnings from Bob Bemer and Peter de Jager",
+      "summary": "Covers Bob Bemer, who raised the issue in the 1970s, and Peter de Jager, who publicized the problem through the Doomsday 2000 article and Sixty Minutes, meeting governments and giving talks; the hosts note the Canadian government deadline point.",
+      "topics": [
+        "Bob Bemer",
+        "Peter de Jager",
+        "Doomsday 2000 article",
+        "Sixty Minutes Y2K"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Public panic, preppers, and scams",
+      "summary": "Discusses how the media coverage fueled preppers, survivalists, internet scams, and doomsday preachers, while skeptics called it a hoax. The hosts compare the division to present-day media and note how dependence on computers became visible.",
+      "topics": [
+        "Y2K scams",
+        "preppers survivalists",
+        "Y2K hysteria",
+        "public reaction to Y2K"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "content",
+      "title": "Cultural timing and dependence on computers",
+      "summary": "Discusses why the timing of the calendar change, combined with rising everyday reliance on computers, primed public anxiety, with comparisons to The X-Files and Black Mirror.",
+      "topics": [
+        "computer dependence",
+        "millennial anxiety",
+        "The X-Files",
+        "Y2K cultural impact"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Costs and US Senate spending figures",
+      "summary": "Estimates of Y2K costs, including General Motors and Procter and Gamble spending, and the US Senate special committee figure of about $100 billion spent in the US, with about $8.4 billion from the federal government. The Senate reportedly concluded the money was well spent.",
+      "topics": [
+        "Y2K cost",
+        "US Senate Y2K investigation",
+        "federal Y2K spending"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Government and international responses",
+      "summary": "Covers Clinton's Council on Year 2000 Conversion, the Year 2000 Information and Readiness Disclosure Act, the US-Russia observer exchange, the Dutch Central Bank loan policy, China's requirement for airline executives to fly on January 1, Canada's standby troops and CBC broadcast plan, and Y2K compliance labels.",
+      "topics": [
+        "Council on Year 2000 Conversion",
+        "Y2K Readiness Disclosure Act",
+        "Canada Y2K troops",
+        "China airline executives Y2K",
+        "Y2K compliance labels"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "What actually happened at midnight",
+      "summary": "Recounts minor incidents such as a video store late fee, a Tennessee nuclear plant malfunction, Greek cash registers, three days of spy satellite outages, and the Sheffield NHS pregnancy screening error affecting 154 women. The hosts argue the lack of disaster came from the fixes, using a flood-and-dam analogy.",
+      "topics": [
+        "Y2K incidents",
+        "Sheffield NHS error",
+        "nuclear plant malfunction",
+        "Y2K aftermath",
+        "Y2K hoax claims"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Fix on failure and the lasting legacy",
+      "summary": "Discusses the fix-on-failure strategy as unworkable, compares it to recent pipeline and airline disruptions, and covers the post-9/11 market resilience, the tech boom, the hiring of developers, and the hosts' estimate of return on investment.",
+      "topics": [
+        "fix on failure",
+        "tech boom",
+        "Y2K return on investment",
+        "Y2K developers hiring",
+        "post-9/11 markets"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:00:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts wrap up the episode with a closing remark about Gen X and sign off.",
+      "topics": [
+        "sign-off"
+      ]
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:03:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: bobbin girls in Lowell",
+      "summary": "Listener Amanda Marusars shares memories of a Lowell, Massachusetts mill museum about child 'bobbin girls' and their injuries in the cotton weaving machines.",
+      "topics": [
+        "listener mail",
+        "child labor",
+        "bobbin girls",
+        "Lowell mills"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13725,
+    "output_tokens": 3062
+  }
+}

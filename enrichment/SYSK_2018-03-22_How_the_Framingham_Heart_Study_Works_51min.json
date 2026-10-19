@@ -1,0 +1,220 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-03-22_How_the_Framingham_Heart_Study_Works_51min.txt",
+  "title": "How the Framingham Heart Study Works",
+  "date": "2018-03-22",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-framingham-heart-study-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/68bca465-37a5-4c63-a27c-ae280066cd6f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/68bca465-37a5-4c63-a27c-ae280066cd6f/transcript?format=TextWithTimestamps&t=1700543767",
+  "summary": "Josh and Chuck discuss the Framingham Heart Study, the long-running Boston University-led cohort study launched in Framingham, Massachusetts after Truman signed the National Heart Act. They cover the rise of cardiovascular disease in the 1940s, FDR's fatal hypertension, the study's design and cohorts (original, Offspring, Omni, Gen Three, spousal), its major findings on smoking, cholesterol, blood pressure, and physical activity, the Framingham Risk Score, criticisms about lack of diversity, and funding. The episode also includes tour announcements, banter about podcasts, diet and butter, and a listener mail segment correcting an earlier elephant seal episode.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Framingham Heart Study",
+    "cardiovascular disease",
+    "heart disease history",
+    "Framingham Risk Score",
+    "National Heart Act",
+    "Boston University Framingham study",
+    "longitudinal study",
+    "cohort study",
+    "Offspring cohort",
+    "Omni cohort",
+    "Gen Three cohort",
+    "risk factors",
+    "hypertension",
+    "FDR death high blood pressure",
+    "smoking and heart disease",
+    "cholesterol",
+    "Framingham tuberculosis demonstration",
+    "women and heart disease",
+    "medical research diversity criticism",
+    "Stuff You Should Know",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Framingham Heart Study",
+      "type": "event"
+    },
+    {
+      "name": "Framingham, Massachusetts",
+      "type": "place"
+    },
+    {
+      "name": "Boston University",
+      "type": "organization"
+    },
+    {
+      "name": "National Heart Institute",
+      "type": "organization"
+    },
+    {
+      "name": "National Heart Act",
+      "type": "work"
+    },
+    {
+      "name": "Harry Truman",
+      "type": "person"
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "type": "person"
+    },
+    {
+      "name": "Winston Churchill",
+      "type": "person"
+    },
+    {
+      "name": "Gilson Metters",
+      "type": "person"
+    },
+    {
+      "name": "Richard Nixon",
+      "type": "person"
+    },
+    {
+      "name": "Yalta conference",
+      "type": "event"
+    },
+    {
+      "name": "Framingham Tuberculosis Demonstration",
+      "type": "event"
+    },
+    {
+      "name": "Framingham Risk Score",
+      "type": "other"
+    },
+    {
+      "name": "Reynolds Risk Score",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Tour dates and opening banter",
+      "summary": "Josh and Chuck announce Gothic Theater and other tour dates, then riff on a mispronunciation of Framingham from an earlier episode and the growth of podcasts.",
+      "topics": [
+        "Stuff You Should Know tour",
+        "podcast banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Introduction to Framingham and the study",
+      "summary": "The hosts introduce Framingham, Massachusetts, a small Boston suburb known for the Framingham Heart Study, one of the most influential longitudinal studies in medicine, and mention the earlier tuberculosis study the town joined.",
+      "topics": [
+        "Framingham Heart Study",
+        "Framingham, Massachusetts",
+        "longitudinal study",
+        "tuberculosis demonstration"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Heart disease rise in the 1940s",
+      "summary": "Cardiovascular disease deaths rose in the mid-twentieth century as antibiotics and penicillin controlled infectious diseases, while little was known about preventing heart disease.",
+      "topics": [
+        "cardiovascular disease history",
+        "penicillin and antibiotics",
+        "heart disease deaths mid-twentieth century"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "FDR's hypertension and death",
+      "summary": "Roosevelt had high blood pressure that worsened, and he died in 1945 at age 63 after a stroke from hypertension, with a reading of around 300 over 190 noted; his death became a public catalyst for heart research.",
+      "topics": [
+        "Franklin D. Roosevelt",
+        "hypertension",
+        "blood pressure readings",
+        "Yalta conference"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break in the episode with off-topic conversation.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Origins: National Heart Act and study design",
+      "summary": "Truman signed the National Heart Act, funding the study for twenty years. Gilson Metters described the mission to study coronary artery disease in an unselected population. Framingham was chosen for its middle-class, mid-sized, manageable population and its proven cooperation in the earlier tuberculosis study.",
+      "topics": [
+        "National Heart Act",
+        "Framingham study origins",
+        "Gilson Metters",
+        "study mission",
+        "choosing Framingham",
+        "general practitioners"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Participants, diversity and cohorts",
+      "summary": "Participants aged 30 to 59 were recruited, initially through civic groups and word of mouth, which limited randomness. The population was predominantly white and male-focused at first, though women were included. Additional cohorts were added: Offspring, spouses, Omni, and Gen Three, with the study expanding to include more diverse groups.",
+      "topics": [
+        "study participants",
+        "recruitment",
+        "Offspring cohort",
+        "Omni cohort",
+        "Gen Three cohort",
+        "diversity in medical research",
+        "women in heart studies"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Major findings and the Framingham Risk Score",
+      "summary": "The study confirmed links between smoking, cholesterol, blood pressure, atrial fibrillation, menopause, physical activity, and cardiovascular disease, and coined the term risk factor. The Framingham Risk Score estimates ten-year heart disease risk using age, gender, cholesterol, diabetes, smoking, and systolic blood pressure.",
+      "topics": [
+        "smoking and heart disease",
+        "risk factors",
+        "Framingham Risk Score",
+        "cholesterol",
+        "atrial fibrillation",
+        "physical activity"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Later research, funding and wrap-up",
+      "summary": "The study expanded into dementia, stress, sleep apnea, and brain donation research; other risk calculators were developed for women and minorities. Funding came from private donors and eventually Nixon's support. The hosts recommend further reading.",
+      "topics": [
+        "dementia research",
+        "Reynolds Risk Score",
+        "study funding",
+        "Nixon",
+        "further reading"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16007,
+    "output_tokens": 2413
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-04-02_Greedflation_Is_Real_56min.txt",
+  "title": "Greedflation Is Real",
+  "date": "2024-04-02",
+  "duration": "56 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/greedflation-is-real",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5819b79e-ead2-4a59-a917-b14501080c0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5819b79e-ead2-4a59-a917-b14501080c0e/transcript?format=TextWithTimestamps&t=1713498315",
+  "summary": "Josh and Chuck examine \"greedflation,\" the idea that companies used the COVID-19 pandemic and related supply shocks to raise prices and profit margins beyond what costs justified. They cover the standard explanations (pandemic supply chain disruptions, stimulus checks, avian flu egg shortages, the war in Ukraine), grocery price increases, food company and grocery store profits, the Economic Policy Institute cost breakdown, shrinkflation and skimpflation, the Federal Reserve Bank of Kansas City's \"early price hikes\" paper, counterarguments such as Eric Levitz's critique, and policy options like price controls and windfall profit taxes. The episode closes with a listener mail segment and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "greedflation",
+    "seller's inflation",
+    "food prices",
+    "grocery store prices",
+    "pandemic inflation",
+    "corporate profits",
+    "profit margins",
+    "price gouging",
+    "food industry consolidation",
+    "shrinkflation",
+    "skimpflation",
+    "windfall profit tax",
+    "price controls",
+    "supply chain shortages",
+    "Ukraine war food prices",
+    "avian flu egg prices",
+    "stimulus checks inflation",
+    "sticky prices",
+    "Federal Trade Commission grocery study",
+    "Economic Policy Institute inflation report",
+    "food billionaires",
+    "monetary policy inflation",
+    "regressive impact of food inflation",
+    "Keynesian economics",
+    "inflation"
+  ],
+  "entities": [
+    {
+      "name": "Economic Policy Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Trade Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Reserve Bank of Kansas City",
+      "type": "organization"
+    },
+    {
+      "name": "Oxfam",
+      "type": "organization"
+    },
+    {
+      "name": "Groundwork Collaborative",
+      "type": "organization"
+    },
+    {
+      "name": "Tyson Foods",
+      "type": "organization"
+    },
+    {
+      "name": "General Mills",
+      "type": "organization"
+    },
+    {
+      "name": "ConAgra",
+      "type": "organization"
+    },
+    {
+      "name": "Kroger",
+      "type": "organization"
+    },
+    {
+      "name": "Walmart",
+      "type": "organization"
+    },
+    {
+      "name": "Amazon",
+      "type": "organization"
+    },
+    {
+      "name": "Coca-Cola",
+      "type": "organization"
+    },
+    {
+      "name": "Eric Levitz",
+      "type": "person"
+    },
+    {
+      "name": "Robert Reich",
+      "type": "person"
+    },
+    {
+      "name": "Abraham Lerner",
+      "type": "person"
+    },
+    {
+      "name": "Adam Smith",
+      "type": "person"
+    },
+    {
+      "name": "Milton Friedman",
+      "type": "person"
+    },
+    {
+      "name": "Ukraine war",
+      "type": "event"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:04",
+      "kind": "intro",
+      "title": "Live tour dates and opening",
+      "summary": "Hosts announce 2024 live tour dates and tickets information, then the show's opening credits.",
+      "topics": [
+        "live tour",
+        "show announcements"
+      ]
+    },
+    {
+      "start": "00:01:04",
+      "end": "00:03:36",
+      "kind": "intro",
+      "title": "Framing the greedflation debate",
+      "summary": "Josh and Chuck introduce greedflation as a new term and frame the debate over whether record food company profits go beyond normal capitalism or raise a moral question.",
+      "topics": [
+        "greedflation",
+        "capitalism morality debate",
+        "corporate profits"
+      ]
+    },
+    {
+      "start": "00:03:38",
+      "end": "00:05:28",
+      "kind": "content",
+      "title": "Scale of grocery price increases",
+      "summary": "Food inflation at US grocery stores rose 11.4 percent in 2022 and about 5 percent in 2023, against a normal annual rate of about 2.5 percent, for nearly 17 percent over two years.",
+      "topics": [
+        "grocery store prices",
+        "food inflation statistics",
+        "food price increases"
+      ]
+    },
+    {
+      "start": "00:05:28",
+      "end": "00:10:12",
+      "kind": "content",
+      "title": "Standard explanations: pandemic, supply chains, stimulus",
+      "summary": "The hosts review commonly cited causes: pandemic supply chain disruptions and ingredient and packaging shortages (including a caffeine free Coke shortage tied to aluminum), higher demand from people eating at home, and stimulus checks, noting Europe had similar inflation without stimulus checks.",
+      "topics": [
+        "supply chain shortages",
+        "pandemic inflation",
+        "stimulus checks",
+        "aluminum shortage Coke",
+        "marginal cost markup"
+      ]
+    },
+    {
+      "start": "00:10:12",
+      "end": "00:11:40",
+      "kind": "content",
+      "title": "Avian flu, Ukraine war and global interconnection",
+      "summary": "Avian flu killed hens and reduced egg and poultry supply, and egg prices later fell as flocks recovered. The war in Ukraine disrupted wheat exports and energy prices, raising costs for imported goods.",
+      "topics": [
+        "avian flu egg prices",
+        "Ukraine war wheat exports",
+        "energy prices",
+        "global supply chain"
+      ]
+    },
+    {
+      "start": "00:11:40",
+      "end": "00:14:37",
+      "kind": "content",
+      "title": "Walking through a grocery store",
+      "summary": "Using a comedic grocery store walk-through, the hosts cite USDA figures: food up 25 percent from 2019 to 2023, with bread, flour, butter, nuts and snack foods rising sharply, and Halloween candy prices up sharply.",
+      "topics": [
+        "USDA food price data",
+        "butter prices",
+        "bread prices",
+        "Halloween candy prices",
+        "food price index"
+      ]
+    },
+    {
+      "start": "00:14:37",
+      "end": "00:15:17",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:15:17",
+      "end": "00:16:27",
+      "kind": "content",
+      "title": "Regressive impact on low-income families",
+      "summary": "Food price increases hit low-income households and poor countries hardest because they spend a larger share of their budgets on food, pushing some people into poverty.",
+      "topics": [
+        "regressive inflation",
+        "food insecurity",
+        "poverty and food prices"
+      ]
+    },
+    {
+      "start": "00:16:27",
+      "end": "00:18:26",
+      "kind": "content",
+      "title": "Global Food Price Index and concentrated food corporations",
+      "summary": "The Food Price Index's five categories rose 57 percent from 2020 to 2022 worldwide, with some prices like eggs later falling. The hosts note a handful of large corporations own most food brands.",
+      "topics": [
+        "FAO Food Price Index",
+        "food industry consolidation",
+        "food conglomerates"
+      ]
+    },
+    {
+      "start": "00:18:26",
+      "end": "00:20:25",
+      "kind": "content",
+      "title": "Corporate profits rising faster than costs",
+      "summary": "Tyson Foods reportedly doubled its profits year over year in early 2022, and Gill (Conagra-era reference unclear in transcript) reported record profits. Food corporations recorded their largest profits in about seventy years during peak inflation.",
+      "topics": [
+        "record corporate profits",
+        "Tyson Foods profits",
+        "food company earnings",
+        "profit margins"
+      ]
+    },
+    {
+      "start": "00:20:25",
+      "end": "00:21:10",
+      "kind": "content",
+      "title": "General Mills profits despite falling sales",
+      "summary": "General Mills sales declined in 2021 and 2022 yet its profits rose sharply, which the hosts cite as documented evidence of profiteering.",
+      "topics": [
+        "General Mills",
+        "falling sales rising profits"
+      ]
+    },
+    {
+      "start": "00:21:10",
+      "end": "00:22:02",
+      "kind": "content",
+      "title": "Food billionaires",
+      "summary": "Oxfam counted 62 new food billionaires from 2020 to 2022, who made more money during the two pandemic years than in the previous 23 years combined.",
+      "topics": [
+        "Oxfam report",
+        "food billionaires",
+        "wealth during pandemic"
+      ]
+    },
+    {
+      "start": "00:22:02",
+      "end": "00:25:37",
+      "kind": "content",
+      "title": "Economic Policy Institute cost breakdown",
+      "summary": "The Economic Policy Institute splits price increases into unit labor costs, non-labor costs, and profit margins. Over forty years labor accounted for about 62 percent of inflation, non-labor 27 percent and profit about 11.4 percent. Since 2020, labor fell below 8 percent, non-labor rose to 38 percent, and profit rose to nearly 54 percent.",
+      "topics": [
+        "Economic Policy Institute",
+        "unit labor costs",
+        "profit margin share of inflation",
+        "non-labor costs",
+        "corporate profit inflation"
+      ]
+    },
+    {
+      "start": "00:25:37",
+      "end": "00:27:26",
+      "kind": "content",
+      "title": "Seller's inflation and monetary policy",
+      "summary": "Chuck and Josh discuss the earlier term seller's inflation, coined by economist Abraham Lerner in 1958, and contrast Keynesian and classical views, noting Federal Reserve interest rate hikes do not control corporate pricing decisions.",
+      "topics": [
+        "seller's inflation",
+        "Abraham Lerner",
+        "Keynesian economics",
+        "Federal Reserve interest rates",
+        "classical economics"
+      ]
+    },
+    {
+      "start": "00:27:26",
+      "end": "00:30:22",
+      "kind": "content",
+      "title": "Why competition broke down during the pandemic",
+      "summary": "Normally competitors restrain price increases because shoppers switch brands. During the pandemic, shared supply shocks gave companies cover to raise prices together without explicit collusion, and consolidation reduced competition; three companies reportedly make 70 to 80 percent of cereal in US stores.",
+      "topics": [
+        "market competition",
+        "consolidation",
+        "cover for price increases",
+        "cereal market concentration",
+        "no collusion needed"
+      ]
+    },
+    {
+      "start": "00:30:22",
+      "end": "00:32:11",
+      "kind": "content",
+      "title": "Earnings calls and CEO admissions",
+      "summary": "The Groundwork Collaborative reviewed corporate earnings calls where executives described the pandemic as a chance to reset prices. A ConAgra executive reportedly said consumers would welcome the price increase.",
+      "topics": [
+        "earnings calls",
+        "Groundwork Collaborative",
+        "ConAgra",
+        "market reset",
+        "executive statements"
+      ]
+    },
+    {
+      "start": "00:32:11",
+      "end": "00:34:14",
+      "kind": "content",
+      "title": "Consumers accepting higher prices",
+      "summary": "Hosts argue that consumers continuing to buy at higher prices signals companies that the new price is acceptable, prompting further increases, until demand falls. Lower-income people feel the most pressure.",
+      "topics": [
+        "price signaling",
+        "demand elasticity",
+        "consumer behavior"
+      ]
+    },
+    {
+      "start": "00:34:14",
+      "end": "00:37:11",
+      "kind": "content",
+      "title": "Gas prices and new normal baselines",
+      "summary": "Chuck recalls gas prices jumping around 2000 and remaining high. Josh explains that prices rise and rarely fall back, so pandemic-era increases may have reset the baseline, and suggests higher prices may now be driving inflation.",
+      "topics": [
+        "sticky prices",
+        "downward rigid prices",
+        "gas price history",
+        "new normal prices",
+        "inflation driving prices"
+      ]
+    },
+    {
+      "start": "00:37:11",
+      "end": "00:37:45",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:37:45",
+      "end": "00:39:10",
+      "kind": "content",
+      "title": "Grocery store profits",
+      "summary": "Grocery stores have departments that estimate food producers' costs to check markups, but the FTC studied nine grocery stores and wholesalers, including Kroger, Amazon and Walmart, and found industry profits rising out of step with costs, from a peak markup of 5.6 percent in 2015 to over 7 percent two years later.",
+      "topics": [
+        "grocery store profiteering",
+        "FTC study",
+        "Kroger",
+        "Walmart",
+        "Amazon grocery"
+      ]
+    },
+    {
+      "start": "00:39:10",
+      "end": "00:41:35",
+      "kind": "content",
+      "title": "Shrinkflation and skimpflation",
+      "summary": "Shrinkflation means paying the same price for less product, while skimpflation means ingredients or packaging are downgraded to save money, which is not tracked in official inflation measures.",
+      "topics": [
+        "shrinkflation",
+        "skimpflation",
+        "hidden price increases",
+        "inflation measurement"
+      ]
+    },
+    {
+      "start": "00:41:35",
+      "end": "00:43:59",
+      "kind": "content",
+      "title": "Kansas City Fed on early price hikes",
+      "summary": "Economists at the Federal Reserve Bank of Kansas City found large price hikes began in 2020 and early 2021, before inflation peaked in late 2021 and 2022, suggesting firms anticipated higher costs. Sticky prices and downward rigidity mean prices rarely fall as costs drop.",
+      "topics": [
+        "Federal Reserve Bank of Kansas City",
+        "early price increases",
+        "sticky prices",
+        "downwardly rigid prices",
+        "normal capitalism explanation"
+      ]
+    },
+    {
+      "start": "00:43:59",
+      "end": "00:46:26",
+      "kind": "content",
+      "title": "Counterarguments: Eric Levitz and the 'backwards' view",
+      "summary": "Eric Levitz of New York Magazine argued consolidation predated the pandemic and that inflation caused higher profits, not the reverse. Robert Reich responded that the pandemic gave cover for price increases. Levitz concluded that pandemic conditions and checks caused the problem.",
+      "topics": [
+        "Eric Levitz critique",
+        "Robert Reich",
+        "greedflation counterargument",
+        "New York Magazine"
+      ]
+    },
+    {
+      "start": "00:46:26",
+      "end": "00:49:19",
+      "kind": "content",
+      "title": "Price controls and windfall profit taxes",
+      "summary": "An economist at Societe Generale (name uncertain in transcript) called the corporate greed unprecedented and suggested price controls. Josh says price controls can cause shortages and proposes a higher tax on windfall profits, with Chuck asking about triggers.",
+      "topics": [
+        "price controls",
+        "windfall profits tax",
+        "Societe Generale economist",
+        "government intervention",
+        "price gouging policy"
+      ]
+    },
+    {
+      "start": "00:49:19",
+      "end": "00:52:08",
+      "kind": "content",
+      "title": "Corporate purpose and whether profits should be shared",
+      "summary": "Chuck argues that windfall profits get passed to workers and consumers; Josh disagrees and says corporations focused only on shareholder profit are a problem. Both agree food is an essential good, unlike luxury items.",
+      "topics": [
+        "corporate responsibility",
+        "shareholder profit maximization",
+        "essential goods",
+        "capitalism debate"
+      ]
+    },
+    {
+      "start": "00:52:08",
+      "end": "00:53:05",
+      "kind": "content",
+      "title": "Hosts' view and audience reaction",
+      "summary": "The hosts acknowledge listeners may disagree and invite opinions and other solutions.",
+      "topics": [
+        "listener feedback",
+        "opinions on greedflation"
+      ]
+    },
+    {
+      "start": "00:53:05",
+      "end": "00:55:21",
+      "kind": "listener_mail",
+      "title": "Listener mail from Daniel",
+      "summary": "Listener Daniel Klein writes about listening during long drives, asks for a shout-out to his wife Lynn, and mentions his kids enjoy the show and that he is working through episodes from newest to oldest; he also recommends the Dave Ruse podcast Biblical Time Machine. Josh gives a contact email.",
+      "topics": [
+        "listener mail",
+        "Daniel Klein",
+        "Biblical Time Machine",
+        "listener contact"
+      ]
+    },
+    {
+      "start": "00:55:21",
+      "end": "00:55:21",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and iHeartRadio podcast promotion.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19471,
+    "output_tokens": 5372
+  }
+}

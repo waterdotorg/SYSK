@@ -1,0 +1,250 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-10-14_Noise_Pollution_Arrrgh_52min.txt",
+  "title": "Noise Pollution: Arrrgh!",
+  "date": "2021-10-14",
+  "duration": "52 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/noise-pollution-arrrgh",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4286bbdd-7e0a-4b2e-960d-ae280006b1fb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4286bbdd-7e0a-4b2e-960d-ae280006b1fb/transcript?format=TextWithTimestamps&t=1700539653",
+  "summary": "Josh and Chuck explain noise pollution: decibels and the logarithmic scale, the difference between sound and noise, categories of noise (industrial, transportation, community), and hidden hearing loss. They cover health effects from chronic noise exposure (stress response, endothelium damage, sleep disruption, children's learning), landmark studies (PS 98 subway study, Bridges Apartments, WHO disability-adjusted life years, aircraft noise and nighttime heart attack deaths), and wildlife and marine impacts (Bay of Fundy right whales, Glacier National Park phantom road, seismic air guns, sonar, ship propellers, offshore wind pile driving). They discuss the 1970s federal noise laws, the Reagan-era shift to states, enforcement gaps, and solutions. The episode closes with listener mail from Steve in Roscoe, Illinois, about why people shrink with age.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "noise pollution",
+    "decibels",
+    "decibel logarithmic scale",
+    "sound vs noise",
+    "hidden hearing loss",
+    "noise and health",
+    "fight or flight noise stress",
+    "endothelium blood vessels noise",
+    "sleep disruption noise",
+    "aircraft noise heart attack",
+    "PS 98 subway noise study",
+    "Bridges Apartments noise study",
+    "WHO disability-adjusted life years noise",
+    "industrial noise",
+    "community noise",
+    "transportation noise",
+    "noise and wildlife",
+    "marine noise pollution",
+    "ship propeller noise",
+    "seismic air guns",
+    "offshore wind farm noise",
+    "Noise Control Act",
+    "Reagan administration noise regulation",
+    "OSHA noise exposure limits",
+    "noise ordinances",
+    "white noise brown noise",
+    "listener mail shrinking with age"
+  ],
+  "entities": [
+    {
+      "name": "Bay of Fundy",
+      "type": "place"
+    },
+    {
+      "name": "Glacier National Park",
+      "type": "place"
+    },
+    {
+      "name": "PS 98 Manhattan",
+      "type": "organization"
+    },
+    {
+      "name": "Bridges Apartments Manhattan",
+      "type": "place"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "OSHA",
+      "type": "organization"
+    },
+    {
+      "name": "Office of Noise Abatement and Control",
+      "type": "organization"
+    },
+    {
+      "name": "Maersk",
+      "type": "organization"
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "type": "person"
+    },
+    {
+      "name": "Reagan administration",
+      "type": "event"
+    },
+    {
+      "name": "Dinosaur Jr.",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "Josh and Chuck open with personal banter about memory lapses, a documentary about The Villages, and the episode title. They preview noise pollution and joke about becoming complainers about loud noise.",
+      "topics": [
+        "podcast intro",
+        "The Villages documentary"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Decibels and the logarithmic scale",
+      "summary": "The hosts explain that a decibel is one tenth of a bel, named after Alexander Graham Bell, and that decibels use a logarithmic scale. They give reference levels: threshold of hearing at zero dB, normal conversation around sixty dB, cars and trucks seventy to ninety dB, airplanes around 120 dB, and pain starting around 140 dB. They discuss loud concerts.",
+      "topics": [
+        "decibels",
+        "decibel logarithmic scale",
+        "sound levels",
+        "loud concerts hearing"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Sound versus noise",
+      "summary": "They distinguish sound from noise: noise is unwanted sound, which is subjective. Decibels measure the intensity of air disturbance, which people perceive as volume. Natural sounds generally are not classed as noise, and noise dominance is tied to human-made sources.",
+      "topics": [
+        "sound vs noise",
+        "unwanted sound",
+        "perception of volume"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Types of noise: industrial, transportation, community",
+      "summary": "The hosts describe continuous industrial noise versus intermittent noise such as trains, planes, sirens, and leaf blowers. They describe community noise from people, festivals, and fireworks. They note that intermittent noise is among the most irritating.",
+      "topics": [
+        "industrial noise",
+        "continuous vs intermittent noise",
+        "leaf blowers",
+        "community noise"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:26:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break with banter about neighborhood noise and moving houses; mention of the crumple zones episode.",
+      "topics": [
+        "house moving",
+        "crumple zones episode"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Hidden hearing loss and the fight-or-flight stress response",
+      "summary": "The hosts describe hidden hearing loss, where hair cells are intact but neural connections to the brain are damaged. They explain that hearing is always on, and noise triggers the amygdala, hypothalamus, adrenal glands, adrenaline and cortisol, the fight-or-flight response, unlike natural sounds such as waterfalls.",
+      "topics": [
+        "hidden hearing loss",
+        "fight or flight",
+        "amygdala and hypothalamus",
+        "cortisol and noise"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Noise health effects, sleep, and blood vessels",
+      "summary": "They cover health effects of chronic noise exposure including low birth weight, tinnitus, heart disease, diabetes, and high blood pressure. Interrupted sleep causes fatigue and impaired function, and a European airport study linked aircraft noise to a twenty-eight percent increase in anxiety medication. Even without waking, night noise affects the endothelium lining blood vessels.",
+      "topics": [
+        "noise and sleep",
+        "endothelium",
+        "high blood pressure from noise",
+        "airport noise health",
+        "white noise machines"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Landmark noise studies: New York, WHO, and aircraft heart deaths",
+      "summary": "They discuss 1970s New York studies: PS 98 children near subway tracks lagged eleven months behind and the gap closed after acoustic treatment, and children at the Bridges Apartments had poorer reading and listening comprehension. The WHO estimated about one million, later revised to 1.8 million, healthy life years (DALYs) lost annually in Western Europe. A study tied about three percent of nighttime heart attack deaths to aircraft noise.",
+      "topics": [
+        "PS 98 subway study",
+        "Bridges Apartments",
+        "WHO DALYs noise Europe",
+        "aircraft noise nighttime heart attack"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Noise and wildlife, whales, and marine ecosystems",
+      "summary": "Stress hormone studies of Bay of Fundy right whales found a decline when shipping halted after 9/11. A 2012 Phantom Road experiment in Glacier National Park played traffic noise and drove birds away. Marine animals are affected by shipping, seismic air guns, and sonar, which may contribute to whale strandings.",
+      "topics": [
+        "whale stress hormones",
+        "Bay of Fundy right whales",
+        "Phantom Road bird study",
+        "seismic air guns",
+        "sonar whale strandings",
+        "marine noise pollution"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Noise regulation history, enforcement gaps, and solutions",
+      "summary": "The hosts recount 1970s federal noise laws and the Office of Noise Abatement and Control, which the Reagan administration defunded, shifting responsibility to states. Local ordinances exist but lack enforcement, and federal rules govern rail and air traffic. OSHA limits allow 95 dB for four hours a day. Solutions include rerouting aircraft, barriers, planted vegetation, insulation, quieter ship engines and propellers, bubble curtains for offshore wind pile driving, and muffler rules.",
+      "topics": [
+        "Noise Control Act",
+        "Reagan administration noise policy",
+        "noise ordinances enforcement",
+        "OSHA noise limits",
+        "noise mitigation solutions",
+        "ship propeller noise",
+        "offshore wind farm noise",
+        "muffler regulation"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:12:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: why we shrink with age",
+      "summary": "Steve, a physical therapist from Roscoe, Illinois, explains that intervertebral discs lose hydration and muscles tighten, causing people to shrink with age.",
+      "topics": [
+        "listener mail",
+        "shrinking with age",
+        "intervertebral discs",
+        "posture"
+      ]
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:12:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and information on sending listener mail.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 16818,
+    "output_tokens": 3243
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-06-08_Slime_Mold_0_Mold_100_Amazing_49min.txt",
+  "title": "Slime Mold: 0% Mold, 100% Amazing",
+  "date": "2021-06-08",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/slime-mold-0-mold-100-amazing",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f0ac1b50-c6b8-48eb-b8f2-ae28001759e8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f0ac1b50-c6b8-48eb-b8f2-ae28001759e8/transcript?format=TextWithTimestamps&t=1700543592",
+  "summary": "Josh and Chuck explore slime molds, which are not animals, fungi, or true molds but protists. They cover their ancient origins, feeding by phagotrophy, their role in the food web, giant plasmodial slime molds, cellular slime molds that aggregate and sacrifice themselves to form fruiting stalks, and how they move via oscillating cytoplasm. The episode covers Japanese experiments in which Physarum polycephalum solved mazes and reproduced the Tokyo rail network and Roman roads using oat flakes, Lee Siegel and Evelyn Fox Keller's early work on cAMP signaling, bottom-up decision making and its relevance to AI and nanotechnology, habituation and memory experiments with a salt bridge, and Sage Jensen's slime mold algorithm being used to model the cosmic web of galaxies. The episode ends with a listener mail about the game Night Trap and Double Switch.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "slime mold",
+    "Physarum polycephalum",
+    "Dictyostelium discoideum",
+    "protists",
+    "cellular slime mold",
+    "plasmodial slime mold",
+    "slime mold maze experiment",
+    "Tokyo subway slime mold experiment",
+    "Roman roads slime mold",
+    "slime mold intelligence",
+    "slime mold altruism",
+    "cAMP signaling",
+    "bottom-up decision making",
+    "swarm intelligence",
+    "slime mold habituation memory",
+    "slime mold cosmic web galaxies",
+    "Sage Jensen",
+    "phagotrophy",
+    "decomposers food web",
+    "Coca de Luna Mexico",
+    "nanotechnology swarm algorithms",
+    "Night Trap",
+    "Double Switch"
+  ],
+  "entities": [
+    {
+      "name": "Slime mold",
+      "type": "other"
+    },
+    {
+      "name": "Physarum polycephalum",
+      "type": "other"
+    },
+    {
+      "name": "Dictyostelium discoideum",
+      "type": "other"
+    },
+    {
+      "name": "Toshiyuki Nakagaki",
+      "type": "person"
+    },
+    {
+      "name": "Atsushi Tero",
+      "type": "person"
+    },
+    {
+      "name": "Evelyn Fox Keller",
+      "type": "person"
+    },
+    {
+      "name": "Lee Segel",
+      "type": "person"
+    },
+    {
+      "name": "Sage Jensen",
+      "type": "person"
+    },
+    {
+      "name": "Tokyo",
+      "type": "place"
+    },
+    {
+      "name": "Balkans",
+      "type": "place"
+    },
+    {
+      "name": "Night Trap",
+      "type": "work"
+    },
+    {
+      "name": "Double Switch",
+      "type": "work"
+    },
+    {
+      "name": "Dave Rouse",
+      "type": "person"
+    },
+    {
+      "name": "Miles",
+      "type": "person"
+    },
+    {
+      "name": "Jack",
+      "type": "person"
+    },
+    {
+      "name": "Alfalfa Malina",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and what slime mold is",
+      "summary": "The hosts introduce slime mold, say it is not an animal, fungus, or true mold but a protist, and describe its appearance, slow movement, billion-year history, and phagotrophic feeding on bacteria, mold, and yeast.",
+      "topics": [
+        "slime mold",
+        "protists",
+        "kingdom classification",
+        "phagotrophy",
+        "decomposers food web"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Slime mold as food, size, and plasmodial slime molds",
+      "summary": "They discuss the Mexican dish Coca de Luna, which is reportedly made from slime mold, the food web role of slime molds, and giant plasmodial slime molds that are one large multinucleate cell without cell walls.",
+      "topics": [
+        "Coca de Luna Mexico",
+        "food web",
+        "plasmodial slime mold",
+        "giant single cell"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Cellular slime molds and aggregation",
+      "summary": "Cellular slime molds are single-celled organisms that join together when food is scarce, retain their cell walls, and move as a swarm, which makes them harder for predators to eat.",
+      "topics": [
+        "cellular slime mold",
+        "pseudoplasmodium",
+        "aggregation",
+        "predator defense"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break with a brief host exchange.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Altruism and Dictyostelium stalk formation",
+      "summary": "Some Dictyostelium discoideum cells sacrifice themselves to form a cellulose stalk that lifts spores, allowing passing animals to carry them away. Some cells also detach and die to save the group from infection.",
+      "topics": [
+        "slime mold altruism",
+        "Dictyostelium discoideum",
+        "stalk formation",
+        "spore dispersal"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Movement and oat flake maze experiments",
+      "summary": "Slime molds move toward food by flowing cytoplasm. Toshiyuki Nakagaki's maze experiment with Physarum polycephalum found the shortest route to oat flakes, and Atsushi Tero's Tokyo map experiment matched the Tokyo rail network.",
+      "topics": [
+        "Physarum polycephalum",
+        "slime mold maze experiment",
+        "Tokyo subway slime mold experiment",
+        "slime mold intelligence",
+        "movement"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Roman roads experiment and city planning",
+      "summary": "Oat flake experiments in the Balkans mimicked known and lost ancient Roman roads, and the hosts discuss whether slime molds could aid city planning.",
+      "topics": [
+        "Roman roads slime mold",
+        "city planning",
+        "Balkans"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break with banter about oat flakes.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Bottom-up decision making, cAMP, and AI",
+      "summary": "Early researchers Evelyn Fox Keller and Lee Segel thought a leader cell directed slime mold aggregation, but the process is bottom-up, with cAMP signals passed from cells nearest food. The hosts link this to AI design and nanotechnology.",
+      "topics": [
+        "bottom-up decision making",
+        "cAMP signaling",
+        "swarm intelligence",
+        "artificial intelligence",
+        "nanotechnology swarm algorithms"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Off-topic banter about Movie Crush and Jack",
+      "summary": "The hosts chat about Alfalfa Malina, a Movie Crush appearance by Miles, and an upcoming guest named Jack.",
+      "topics": [
+        "banter"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Oscillating units, habituation, and memory",
+      "summary": "Plasmodial slime molds move via oscillating units. Experiments with a salt bridge show that habituated slime molds can teach naive ones to cross a harmless noxious substance, and that memory lasts about three hours of fusion.",
+      "topics": [
+        "slime mold habituation memory",
+        "oscillating units",
+        "learning experiments"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:48:00",
+      "kind": "content",
+      "title": "Cosmic web simulation and Sage Jensen",
+      "summary": "Sage Jensen turned slime mold algorithms into C++ code, and astrophysicists used a modified version to model 37,000 galaxies and the invisible filaments of the universe.",
+      "topics": [
+        "Sage Jensen",
+        "slime mold cosmic web galaxies",
+        "astrophysics simulation"
+      ]
+    },
+    {
+      "start": "00:48:00",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Night Trap and Double Switch",
+      "summary": "Aaron from Michigan writes about the game Night Trap and suggests Double Switch, and the hosts respond about touring.",
+      "topics": [
+        "Night Trap",
+        "Double Switch",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:49:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing remarks and show credits.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15853,
+    "output_tokens": 2835
+  }
+}

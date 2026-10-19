@@ -1,0 +1,235 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-05-09_Do_Dietary_Supplements_Work_55min.txt",
+  "title": "Do Dietary Supplements Work?",
+  "date": "2019-05-09",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/do-dietary-supplements-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/ee3917d8-5138-447e-abcd-ae28004d5988/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ee3917d8-5138-447e-abcd-ae28004d5988/transcript?format=TextWithTimestamps&t=1700543696",
+  "summary": "Josh and Chuck open with banter about moving house and Josh's missing deodorant, then turn to dietary supplements. They cover what counts as a supplement (vitamins, minerals, botanicals, fish oil, probiotics, fiber), the roughly four-to-forty billion dollar US industry, and the origin of the word \"vitamin.\" They explain the 1994 Dietary Supplement Health and Education Act (DSHEA), pushed by Senator Orrin Hatch, which loosened FDA oversight so supplements are treated as foods unless they cause harm. They discuss adulterated products with hidden pharmaceuticals, the FDA's limited recall power, third-party testers such as ConsumerLab and USP, and cheap cigarettes made from factory sweepings as a side tangent. They list supplements considered likely safe and those to avoid, including bitter orange, colloidal silver, coltsfoot, germander, and yohimbe. They cover vegan vitamin D (lanolin from lambs' wool) and B12 sourcing, the history of vitamin discovery and synthesis, fortified cereal, phytochemicals and bioavailability, the outdated RDA, possible hypervitaminosis, poison control calls about supplements, and the ephedra (FEN-phen-style) ban in 2004. The episode closes with a listener mail segment praising the hosts' approach to feminism and gender issues.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "dietary supplements",
+    "supplement regulation",
+    "FDA regulation",
+    "Dietary Supplement Health and Education Act",
+    "DSHEA 1994",
+    "Orrin Hatch",
+    "adulterated supplements",
+    "supplement recalls",
+    "ConsumerLab",
+    "USP US Pharmacopeia",
+    "vitamins history",
+    "word vitamin origin",
+    "Kazimierz Funk",
+    "vegan vitamin D",
+    "lanolin vitamin D3",
+    "vitamin B12 vegans",
+    "fortified cereal",
+    "phytochemicals",
+    "bioavailability",
+    "Recommended Dietary Allowance RDA",
+    "hypervitaminosis",
+    "poison control supplement calls",
+    "ephedra ban",
+    "bitter orange",
+    "colloidal silver",
+    "omega-3 fish oil",
+    "probiotics",
+    "herbal supplements",
+    "food first nutrition",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Dietary Supplement Health and Education Act",
+      "type": "event"
+    },
+    {
+      "name": "Orrin Hatch",
+      "type": "person"
+    },
+    {
+      "name": "Tom Harkin",
+      "type": "person"
+    },
+    {
+      "name": "Food and Drug Administration",
+      "type": "organization"
+    },
+    {
+      "name": "ConsumerLab",
+      "type": "organization"
+    },
+    {
+      "name": "US Pharmacopeia",
+      "type": "organization"
+    },
+    {
+      "name": "Kazimierz Funk",
+      "type": "person"
+    },
+    {
+      "name": "Carl Zimmer",
+      "type": "person"
+    },
+    {
+      "name": "Katherine Price",
+      "type": "person"
+    },
+    {
+      "name": "Pete Carroll",
+      "type": "person"
+    },
+    {
+      "name": "Ephedra",
+      "type": "other"
+    },
+    {
+      "name": "Herbalife",
+      "type": "organization"
+    },
+    {
+      "name": "Journal of the American Medical Association",
+      "type": "organization"
+    },
+    {
+      "name": "Recommended Dietary Allowance",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and moving house",
+      "summary": "Josh and Chuck chat about Josh moving into a renovated house, hiring movers, and his missing deodorant. They then introduce the topic of dietary supplements.",
+      "topics": [
+        "moving house banter",
+        "hosts casual chat"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "What dietary supplements are and the industry size",
+      "summary": "They define dietary supplements as vitamins, minerals, botanicals and other products taken to supplement diet, and estimate the US industry at four to forty billion dollars. They mention the 'expensive urine' joke and note that many pills may not contain what the label claims.",
+      "topics": [
+        "dietary supplements definition",
+        "supplement industry size",
+        "expensive urine",
+        "botanicals",
+        "micronutrients vs macronutrients"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Origin of the word vitamin and types of supplements",
+      "summary": "They explain that vitamin is short for vitamine, a term coined by Kazimierz Funk. They list common supplements such as vitamin D, B12, calcium, omega-3 fatty acids, probiotics, and fiber, and mention glandular bodybuilding products.",
+      "topics": [
+        "vitamin etymology",
+        "Kazimierz Funk",
+        "omega-3 fatty acids",
+        "probiotics",
+        "glandular supplements",
+        "herbal remedies history"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Dietary Supplement Health and Education Act of 1994",
+      "summary": "They explain that DSHEA loosened FDA control over supplements, which Senator Orrin Hatch pushed with help from Tom Harkin and industry donors. Supplements may not claim to cure disease and must carry a disclaimer, and the FDA can act only after harm is shown.",
+      "topics": [
+        "DSHEA",
+        "Orrin Hatch",
+        "FDA deregulation",
+        "supplement labeling disclaimer",
+        "supplement regulation history"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Adulterated supplements and recalls",
+      "summary": "They discuss a study finding 746 adulterated supplements flagged, with only about 360 recalled, and some still sold after recall. Hidden pharmaceuticals such as sildenafil-type drugs, Prozac and steroids turn up in weight-loss and sexual enhancement products.",
+      "topics": [
+        "adulterated supplements",
+        "hidden pharmaceuticals in supplements",
+        "supplement recalls",
+        "JAMA study",
+        "FDA recall power"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "A short break in the episode.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Third-party testing and buying supplements safely",
+      "summary": "They discuss voluntary FDA manufacturing guidelines and independent testers such as ConsumerLab and US Pharmacopeia, which buy retail samples and put seals on verified products. They talk about talking to a doctor before starting supplements and note the conflicting studies on calcium and vitamin D, plus a side tangent on cheap cigarettes.",
+      "topics": [
+        "ConsumerLab",
+        "US Pharmacopeia seal",
+        "third-party supplement testing",
+        "good manufacturing practices",
+        "talking to your doctor",
+        "conflicting supplement studies",
+        "calcium and kidney stones"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Supplements likely safe, risky supplements, and ephedra",
+      "summary": "They read lists of supplements likely to be safe and effective, such as calcium, cranberry, fish oil, glucosamine, probiotics, and St. John's wort. They then cover supplements to avoid, including bitter orange, colloidal silver, coltsfoot, germander, and yohimbe, and the 2004 FDA ban on ephedra after a fatal case involving a baseball player.",
+      "topics": [
+        "supplement safety list",
+        "bitter orange",
+        "colloidal silver",
+        "coltsfoot",
+        "germander",
+        "yohimbe",
+        "ephedra ban 2004",
+        "St. John's wort",
+        "vegan vitamin D lanolin",
+        "vitamin B12 vegan controversy"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:55:00",
+      "kind": "outro",
+      "title": "Wrap-up and listener mail",
+      "summary": "They conclude that the recommended approach is a whole-foods diet and talking to a doctor. A listener letter from Alice Chibnall praises the hosts' feminism and gender perspective.",
+      "topics": [
+        "whole foods diet recommendation",
+        "listener mail",
+        "feminism"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17966,
+    "output_tokens": 2881
+  }
+}

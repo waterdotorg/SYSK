@@ -1,0 +1,456 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-01-09_Kenton_Grua_Grand_Canyon_Legend_51min.txt",
+  "title": "Kenton Grua: Grand Canyon Legend",
+  "date": "2024-01-09",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/kenton-grua-grand-canyon-legend",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/575e6d2f-e263-4e8a-bc82-b0f1012c62f6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/575e6d2f-e263-4e8a-bc82-b0f1012c62f6/transcript?format=TextWithTimestamps&t=1713668462",
+  "summary": "Hosts Josh and Chuck profile Kenton Grua, a Grand Canyon river guide and dory pilot known for his 1980s speed runs down the Colorado River and his 1970s thru-hike of the entire Grand Canyon. The episode covers his early life in Vernal, Utah, his work with Martin Litton's Grand Canyon Dories, the history of Colorado River expeditions from John Wesley Powell onward, the 1983 flood-year record run in the Emerald Mile with Rudy Petschek and Steve Reynolds (including the overturn at Crystal Rapid and the unpermitted night run), and his death in 2002. The episode ends with a listener mail about remembering port and starboard.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Kenton Grua",
+    "Grand Canyon",
+    "Colorado River",
+    "river rafting history",
+    "dory boats",
+    "Grand Canyon dories",
+    "Martin Litton",
+    "Emerald Mile",
+    "speed record river run",
+    "1983 Colorado River flood",
+    "Glen Canyon Dam",
+    "John Wesley Powell expedition",
+    "Grand Canyon thru-hike",
+    "Crystal Rapid",
+    "Colin Fletcher",
+    "Kevin Fedarko",
+    "Grand Canyon River Guides",
+    "Benjamin Bratt ranger",
+    "Jim and Bob Riggs record",
+    "Ed Hudson motorboat record",
+    "whitewater rafting",
+    "Grand Canyon history",
+    "port and starboard mnemonic"
+  ],
+  "entities": [
+    {
+      "name": "Kenton Grua",
+      "type": "person"
+    },
+    {
+      "name": "Martin Litton",
+      "type": "person"
+    },
+    {
+      "name": "Rudy Petschek",
+      "type": "person"
+    },
+    {
+      "name": "Steve Reynolds",
+      "type": "person"
+    },
+    {
+      "name": "John Wesley Powell",
+      "type": "person"
+    },
+    {
+      "name": "Ed Hudson",
+      "type": "person"
+    },
+    {
+      "name": "Jim and Bob Riggs",
+      "type": "person"
+    },
+    {
+      "name": "Colin Fletcher",
+      "type": "person"
+    },
+    {
+      "name": "Kevin Fedarko",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin Bratt",
+      "type": "person"
+    },
+    {
+      "name": "Michelle Grua",
+      "type": "person"
+    },
+    {
+      "name": "Grand Canyon",
+      "type": "place"
+    },
+    {
+      "name": "Colorado River",
+      "type": "place"
+    },
+    {
+      "name": "Crystal Rapid",
+      "type": "place"
+    },
+    {
+      "name": "Glen Canyon Dam",
+      "type": "place"
+    },
+    {
+      "name": "Vernal, Utah",
+      "type": "place"
+    },
+    {
+      "name": "Emerald Mile",
+      "type": "work"
+    },
+    {
+      "name": "The Emerald Mile (book)",
+      "type": "work"
+    },
+    {
+      "name": "Grand Canyon Dories",
+      "type": "organization"
+    },
+    {
+      "name": "Hatch River Expeditions",
+      "type": "organization"
+    },
+    {
+      "name": "Grand Canyon River Guides",
+      "type": "organization"
+    },
+    {
+      "name": "1983 Colorado River flood",
+      "type": "event"
+    },
+    {
+      "name": "1983 Emerald Mile speed run",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "kind": "ad",
+      "title": "Live show announcement",
+      "summary": "Hosts announce January 2024 live shows in Seattle, Portland, and San Francisco Sketchfest, with ticket info.",
+      "topics": [
+        "live tour",
+        "Stuff You Should Know live shows"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and writer welcome",
+      "summary": "Opening banter, welcome to new writer Anna Green, and a note that the Kenton Grua topic was thought to be a listener suggestion.",
+      "topics": [
+        "show intro",
+        "writer credits"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Grand Canyon visits and the book The Emerald Mile",
+      "summary": "Hosts discuss visiting the Grand Canyon, recommend Kevin Fedarco's book The Emerald Mile and the documentary Into the Canyon, and talk about hiking out of the canyon.",
+      "topics": [
+        "Grand Canyon",
+        "The Emerald Mile book",
+        "Into the Canyon documentary",
+        "Kevin Fedarco",
+        "Grand Canyon hiking"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Kenton Grua's early life and first river trips",
+      "summary": "Grua was born in Salt Lake City in 1950, moved to Vernal, Utah at twelve, and began solo rafting on the Yampa River with an army surplus raft.",
+      "topics": [
+        "Kenton Grua biography",
+        "Vernal Utah",
+        "Yampa River rafting",
+        "early river life"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:20",
+      "kind": "content",
+      "title": "Hatch River job and Martin Litton",
+      "summary": "Grua left plans for mechanical engineering to work for Hatch River Expeditions, quickly became a guide, then worked for Grand Canyon Expeditions where he met mentor Martin Litton, a conservationist.",
+      "topics": [
+        "Hatch River Expeditions",
+        "Martin Litton",
+        "river guide career",
+        "Grand Canyon Expeditions"
+      ]
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:12:35",
+      "kind": "content",
+      "title": "Dory boats and Grand Canyon Dories",
+      "summary": "The history of the wooden dory, its origins as a sea fishing boat, and why Litton used dories on the Colorado; Grua piloted the Chattahoochee for Grand Canyon Dories for about ten years and nearly 100 trips.",
+      "topics": [
+        "dory boats",
+        "Grand Canyon Dories",
+        "wooden boats",
+        "Chattahoochee dory"
+      ]
+    },
+    {
+      "start": "00:12:35",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Commercialization of Grand Canyon trips",
+      "summary": "Hosts discuss how modern Grand Canyon trips are commercialized and easier than early expeditions, and mention the proposed development on the canyon plateau.",
+      "topics": [
+        "Grand Canyon commercialization",
+        "helicopter tours",
+        "Grand Canyon development"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:16:10",
+      "kind": "content",
+      "title": "Grua's personality and habits",
+      "summary": "Grua's nickname was The Factor; he was known for drinking, cannabis use, unconventional clothing, and being opinionated but kind to passengers.",
+      "topics": [
+        "Kenton Grua personality",
+        "The Factor nickname"
+      ]
+    },
+    {
+      "start": "00:16:10",
+      "end": "00:18:20",
+      "kind": "content",
+      "title": "Colin Fletcher and the Grand Canyon hike",
+      "summary": "Grua read Colin Fletcher's book The Man Who Walked Through Time and decided to hike the entire Grand Canyon, not just the national park portion.",
+      "topics": [
+        "Colin Fletcher",
+        "The Man Who Walked Through Time",
+        "Grand Canyon thru-hike"
+      ]
+    },
+    {
+      "start": "00:18:20",
+      "end": "00:20:20",
+      "kind": "content",
+      "title": "First failed hike and successful 1978 thru-hike",
+      "summary": "Grua's first attempt failed after moccasins wore out and a cactus cut his foot. He returned four years later with work boots and supply caches and completed roughly 600 miles in 36 days.",
+      "topics": [
+        "Grand Canyon thru-hike",
+        "Kenton Grua hike",
+        "supply caches",
+        "Grand Canyon length"
+      ]
+    },
+    {
+      "start": "00:20:20",
+      "end": "00:22:05",
+      "kind": "content",
+      "title": "Colorado River expedition history",
+      "summary": "Hosts describe the 1869 John Wesley Powell expedition, the three members who left on foot and died, and the Colorado River's significance.",
+      "topics": [
+        "John Wesley Powell",
+        "1869 Powell expedition",
+        "Colorado River exploration"
+      ]
+    },
+    {
+      "start": "00:22:05",
+      "end": "00:24:40",
+      "kind": "content",
+      "title": "Motorboat and speed record attempts",
+      "summary": "Ed Hudson set a motorboat record in 1949; Jim and Bob Riggs broke it in 1951 by rowing; the longest trip took 103 days in 1973.",
+      "topics": [
+        "speed record river run",
+        "Ed Hudson",
+        "Jim and Bob Riggs",
+        "1973 slow Colorado trip"
+      ]
+    },
+    {
+      "start": "00:24:40",
+      "end": "00:27:10",
+      "kind": "content",
+      "title": "Glen Canyon Dam and the tamed Colorado",
+      "summary": "Grua arrived after Glen Canyon Dam was built; the river had been wild before flood control, and river gradient and canyon steepness are discussed.",
+      "topics": [
+        "Glen Canyon Dam",
+        "Colorado River gradient",
+        "river flooding",
+        "Grand Canyon rapids"
+      ]
+    },
+    {
+      "start": "00:27:10",
+      "end": "00:28:10",
+      "kind": "content",
+      "title": "Grua's 1980 speed record",
+      "summary": "Grua set a speed record in 1980 of 46 hours 56 minutes, beating the Riggs record, but wanted to go faster.",
+      "topics": [
+        "1980 speed record",
+        "Kenton Grua record"
+      ]
+    },
+    {
+      "start": "00:28:10",
+      "end": "00:31:50",
+      "kind": "content",
+      "title": "1983 El Niño flood conditions",
+      "summary": "El Niño snow caused extreme flows in June 1983 of 70,000 to 100,000 cubic feet per second, changing the rapids and overwhelming Glen Canyon Dam operators.",
+      "topics": [
+        "1983 Colorado River flood",
+        "El Nino",
+        "Glen Canyon Dam releases",
+        "Lake Powell"
+      ]
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Planning the Emerald Mile run without a permit",
+      "summary": "Grua, Rudy Petschek and Steve Reynolds planned the run; the Park Service denied a permit, and Martin Litton's call to the superintendent produced no answer, so they launched.",
+      "topics": [
+        "Emerald Mile run",
+        "unpermitted river run",
+        "Park Service permit",
+        "Rudy Petschek",
+        "Steve Reynolds"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:34:58",
+      "kind": "content",
+      "title": "River movie tangents",
+      "summary": "Hosts digress on the movie River Wild and Benjamin Bratt's Alcatraz birth fact.",
+      "topics": [
+        "River Wild movie",
+        "Benjamin Bratt trivia"
+      ]
+    },
+    {
+      "start": "00:34:58",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Launch just before midnight",
+      "summary": "The crew launched just before midnight on June 25, 1983 and paddled in total darkness, feeling the oars for obstacles.",
+      "topics": [
+        "night river run",
+        "June 25 1983",
+        "Emerald Mile launch"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Roaring Twenties rapids and eddy fences",
+      "summary": "The crew faced the Roaring Twenties rapids and eddy fences at night, taking rapids without scouting.",
+      "topics": [
+        "Roaring Twenties rapids",
+        "eddy fence",
+        "river hazards",
+        "night rafting"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:42:25",
+      "kind": "content",
+      "title": "Crystal Rapid and ranger encounter",
+      "summary": "At Crystal Rapid, park ranger Benjamin Bratt was stationed to stop unpermitted boats after a commercial boat capsized and a passenger died earlier that day; the ranger, a former guide, pretended not to see them.",
+      "topics": [
+        "Crystal Rapid",
+        "ranger Benjamin Bratt",
+        "commercial boat capsizing",
+        "unpermitted river run"
+      ]
+    },
+    {
+      "start": "00:42:25",
+      "end": "00:44:34",
+      "kind": "content",
+      "title": "Overturn at Crystal Rapid and continuing",
+      "summary": "The Emerald Mile overturned at a huge wave in Crystal Rapid; Reynolds was injured and the two others rowed on in extreme heat.",
+      "topics": [
+        "Crystal Rapid overturn",
+        "Emerald Mile accident",
+        "Steve Reynolds injury"
+      ]
+    },
+    {
+      "start": "00:44:34",
+      "end": "00:46:06",
+      "kind": "content",
+      "title": "Sleep stop and final push to record",
+      "summary": "The crew slept three hours, then resumed with extra oars and finished in 36 hours 38 minutes, breaking Grua's previous record.",
+      "topics": [
+        "Emerald Mile record",
+        "36 hour river run",
+        "record speed run"
+      ]
+    },
+    {
+      "start": "00:46:06",
+      "end": "00:48:33",
+      "kind": "content",
+      "title": "Aftermath, death, and legacy",
+      "summary": "Grua kept his guide license after a fine and community service; he died in 2002 at 52 while mountain biking, and founded the Grand Canyon River Guides; his dory company was sold to Oars.",
+      "topics": [
+        "Kenton Grua death",
+        "Grand Canyon River Guides",
+        "Oars dory tours",
+        "Grand Canyon legend"
+      ]
+    },
+    {
+      "start": "00:48:33",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Closing remarks on Grua's death and dory tours",
+      "summary": "Hosts joke about his death and dory tours being too long for them.",
+      "topics": [
+        "Kenton Grua legacy"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:50:56",
+      "kind": "listener_mail",
+      "title": "Listener mail: port and starboard mnemonic",
+      "summary": "A listener shares his grandmother's mnemonic 'there's not much port left in the glass' for port versus starboard, and hosts discuss their own memory tricks.",
+      "topics": [
+        "listener mail",
+        "port and starboard",
+        "mnemonic device"
+      ]
+    },
+    {
+      "start": "00:50:56",
+      "end": "00:51:13",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and iHeartRadio production notice.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19163,
+    "output_tokens": 4863
+  }
+}

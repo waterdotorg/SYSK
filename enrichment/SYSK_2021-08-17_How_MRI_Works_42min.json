@@ -1,0 +1,203 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-08-17_How_MRI_Works_42min.txt",
+  "title": "How MRI Works",
+  "date": "2021-08-17",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-mri-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/641e6e20-1197-4855-a594-ae28000e845f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/641e6e20-1197-4855-a594-ae28000e845f/transcript?format=TextWithTimestamps&t=1700543585",
+  "summary": "Josh and Chuck explain how MRI (magnetic resonance imaging) works, from its history and the discovery of nuclear magnetic resonance through the superconducting main magnet, gradient magnets, radio frequency pulses, hydrogen protons, and the Larmor frequency, to image reconstruction by computer. They cover the 1977 Indomitable scanner by Raymond Damadian and the rival researchers Paul Lauterbur and Peter Mansfield, Seiji Ogawa's blood-oxygen contrast work that led to fMRI, and how MRI compares with X-rays and CT. They discuss field strengths in tesla and gauss, helium cooling, the cost of machines, fMRI limits in neuroscience, MRI safety hazards with metal and projectiles, noise, gadolinium contrast dye and pregnancy concerns, and pediatric MRI. The episode ends with a listener email about reverse osmosis and electrolytic disinfection.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "MRI",
+    "magnetic resonance imaging",
+    "how MRI works",
+    "MRI machine",
+    "Raymond Damadian",
+    "Indomitable MRI",
+    "Paul Lauterbur",
+    "Peter Mansfield",
+    "Seiji Ogawa",
+    "BOLD contrast",
+    "fMRI",
+    "functional MRI",
+    "magnetic resonance angiography",
+    "superconducting magnet",
+    "tesla",
+    "gauss",
+    "Larmor frequency",
+    "hydrogen protons",
+    "radio frequency pulse",
+    "gradient magnets",
+    "helium shortage",
+    "MRI safety",
+    "gadolinium contrast dye",
+    "MRI noise",
+    "pediatric MRI",
+    "CT scan vs MRI",
+    "reverse osmosis"
+  ],
+  "entities": [
+    {
+      "name": "Raymond Damadian",
+      "type": "person"
+    },
+    {
+      "name": "Indomitable",
+      "type": "other"
+    },
+    {
+      "name": "Paul Lauterbur",
+      "type": "person"
+    },
+    {
+      "name": "Peter Mansfield",
+      "type": "person"
+    },
+    {
+      "name": "Seiji Ogawa",
+      "type": "person"
+    },
+    {
+      "name": "Joseph Larmor",
+      "type": "person"
+    },
+    {
+      "name": "Smithsonian",
+      "type": "organization"
+    },
+    {
+      "name": "Stanford",
+      "type": "organization"
+    },
+    {
+      "name": "FDA",
+      "type": "organization"
+    },
+    {
+      "name": "Jeopardy",
+      "type": "work"
+    },
+    {
+      "name": "Macy's Thanksgiving Day Parade",
+      "type": "event"
+    },
+    {
+      "name": "gadolinium",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter and MRI history",
+      "summary": "The hosts introduce MRI as the 'Wonder Machine' and recount its history, including Damadian, Lauterbur, Mansfield, and Ogawa's blood-oxygen discovery, and how MRI avoids the limits of X-rays for soft tissue.",
+      "topics": [
+        "MRI history",
+        "Raymond Damadian",
+        "Seiji Ogawa",
+        "nuclear magnetic resonance",
+        "X-rays vs MRI"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:12:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": []
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Magnets and field strength",
+      "summary": "The bore and the superconducting main magnet are described, along with tesla and gauss units, the Earth's field comparison, the cost of high-field machines, and the role of liquid helium cooling.",
+      "topics": [
+        "superconducting magnet",
+        "tesla",
+        "gauss",
+        "helium shortage",
+        "MRI cost",
+        "open MRI"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Hydrogen protons, radio pulses and Larmor frequency",
+      "summary": "The hosts explain how the main magnet aligns hydrogen protons, how radio frequency pulses knock them out of alignment, how they relax and emit energy that differs by tissue, and the Larmor frequency. Gradient magnets select slices, and computers build the 2D or 3D image.",
+      "topics": [
+        "hydrogen protons",
+        "radio frequency pulse",
+        "resonance",
+        "Larmor frequency",
+        "gradient magnets",
+        "image reconstruction",
+        "MRI slices"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break.",
+      "topics": []
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "fMRI and its limits",
+      "summary": "The hosts discuss functional MRI tracking blood flow in the brain, the criticism that it shows only rough regions rather than individual neurons, and the earlier episodes they mocked such studies, including the dead salmon study.",
+      "topics": [
+        "fMRI",
+        "brain imaging",
+        "phrenology",
+        "dead salmon study",
+        "neuroscience limitations"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "MRI safety, noise, and contrast dye",
+      "summary": "The hosts cover MRI safety around metal and projectiles, a few rare fatal incidents, the FDA adverse event count, loud scanner noise, gadolinium contrast and its kidney clearance, pregnancy concerns, and pediatric MRI design.",
+      "topics": [
+        "MRI safety",
+        "metal implants",
+        "MRI noise",
+        "gadolinium contrast",
+        "pregnancy and MRI",
+        "pediatric MRI",
+        "FDA adverse events"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:42:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: reverse osmosis",
+      "summary": "A listener named Rodney suggests an episode on reverse osmosis and electrolytic disinfection to address water-borne disease.",
+      "topics": [
+        "listener mail",
+        "reverse osmosis",
+        "electrolytic disinfection",
+        "water-borne disease"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13324,
+    "output_tokens": 2155
+  }
+}

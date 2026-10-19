@@ -1,0 +1,111 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-05-28_How_Antibacterial_Soap_Works_6min.txt",
+  "title": "How Antibacterial Soap Works",
+  "date": "2008-05-28",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-antibacterial-soap-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2622890f-22ab-416c-9891-ae2800c449b9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2622890f-22ab-416c-9891-ae2800c449b9/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chris Pallette discuss whether antibacterial soap should be outlawed or reconsidered. They argue it is not much more effective than regular soap and may breed stronger, drug-resistant bacteria, citing MRSA (called \"Mercia\" in the transcript) as an example. They describe the \"antibacterial lifestyle\" of overusing antibacterial products, the hygiene hypothesis concern that children need some exposure to dirt and germs to build immunity, and alternatives such as bleach, which kills microbes by lysing their cell walls (the origin of the Lysol name, meaning to lyse cells). They also mention a countertop material in development with microscopic surface points that rupture bacteria mechanically. The episode closes with a promo for the article \"Should Antibacterial Soap Be Outlawed?\" on HowStuffWorks.com. Note: this is a short segment, and the transcript contains speech-recognition errors in names and terms.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "antibacterial soap",
+    "antibacterial resistance",
+    "drug-resistant bacteria",
+    "MRSA",
+    "antibacterial lifestyle",
+    "hygiene hypothesis",
+    "bleach",
+    "Lysol",
+    "antimicrobial countertops",
+    "germs and immunity",
+    "should antibacterial soap be outlawed",
+    "triclosan"
+  ],
+  "entities": [
+    {
+      "name": "Antibacterial soap",
+      "type": "other"
+    },
+    {
+      "name": "MRSA",
+      "type": "other"
+    },
+    {
+      "name": "Lysol",
+      "type": "organization"
+    },
+    {
+      "name": "Should Antibacterial Soap Be Outlawed?",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "intro",
+      "title": "Opening banter and introduction",
+      "summary": "Josh introduces the topic of antibacterial soap and asks whether it should be outlawed; Chris says it should be reconsidered for everyday use.",
+      "topics": [
+        "antibacterial soap",
+        "should antibacterial soap be outlawed"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:02:10",
+      "kind": "content",
+      "title": "Why antibacterial soap may breed resistant bacteria",
+      "summary": "The hosts say antibacterial soap is not much more effective than regular soap and can help bacteria that survive evolve resistance. They cite MRSA, a drug-resistant staph, as a dangerous example.",
+      "topics": [
+        "antibacterial resistance",
+        "drug-resistant bacteria",
+        "MRSA",
+        "antibacterial soap"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:03:40",
+      "kind": "content",
+      "title": "The antibacterial lifestyle and childhood exposure to germs",
+      "summary": "Chris describes the 'antibacterial lifestyle' of products in homes and stores. The hosts argue that over-sanitized environments may prevent children from building immunity and allergy tolerance.",
+      "topics": [
+        "antibacterial lifestyle",
+        "hygiene hypothesis",
+        "germs and immunity"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:05:10",
+      "kind": "content",
+      "title": "Bleach and antimicrobial countertops",
+      "summary": "They discuss bleach as an alternative that kills microbes by breaching their cell walls, and the Lysol name's origin in cell lysis. They also describe a countertop material in development whose microscopic surface points rupture bacteria without chemicals.",
+      "topics": [
+        "bleach",
+        "Lysol",
+        "antimicrobial countertops",
+        "cell lysis"
+      ]
+    },
+    {
+      "start": "00:05:10",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Closing and article promotion",
+      "summary": "Chris says he has given up antibacterial soap, and the hosts promote the HowStuffWorks article on the topic and invite listener feedback.",
+      "topics": [
+        "should antibacterial soap be outlawed"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3290,
+    "output_tokens": 1411
+  }
+}

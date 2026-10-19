@@ -1,0 +1,165 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-09-09_Is_sleep_that_important_13min.txt",
+  "title": "Is sleep that important?",
+  "date": "2008-09-09",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/is-sleep-that-important",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/740c1b92-fdfc-4df4-b7fa-ae2800c2fc51/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/740c1b92-fdfc-4df4-b7fa-ae2800c2fc51/transcript?format=TextWithTimestamps&t=1700544001",
+  "summary": "Josh and Chuck discuss sleep based on Chuck's How Stuff Works article \"Is sleep that important?\". They open sleepy and talk about why scientists still don't fully know why we sleep, the history of REM sleep (Eugene Aserinsky's brain-wave findings), the memory-filing theory of REM sleep, the Israeli shrapnel patient who could not achieve REM sleep yet finished law school, the lab rat sleep deprivation study, recommended 6 to 8 hours of sleep for adults, a University of Chicago study where four hours a night led to prediabetic states, polyphasic sleep and da Vinci's naps, drowsy driving, and sleep needs across ages from infants to older adults. The episode closes with a teaser and a mention of an unpaid endorsement of IKEA's Swedish meatballs.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "sleep",
+    "why we sleep",
+    "sleep research",
+    "REM sleep",
+    "rapid eye movement",
+    "sleep deprivation",
+    "sleep and memory",
+    "circadian rhythm",
+    "polyphasic sleep",
+    "da Vinci sleep",
+    "recommended sleep hours",
+    "drowsy driving",
+    "sleep and health",
+    "infant sleep",
+    "older adults sleep",
+    "University of Chicago sleep research",
+    "Eugene Aserinsky",
+    "lab rat sleep deprivation study",
+    "prediabetes and sleep loss",
+    "daytime sleepiness"
+  ],
+  "entities": [
+    {
+      "name": "Eugene Aserinsky",
+      "type": "person"
+    },
+    {
+      "name": "University of Chicago",
+      "type": "organization"
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "type": "person"
+    },
+    {
+      "name": "REM sleep",
+      "type": "other"
+    },
+    {
+      "name": "IKEA",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Sleepy hosts and episode setup",
+      "summary": "Josh and Chuck open sleepy and sleep-deprived, and introduce the article 'Is sleep that important?' written by Chuck, noting University of Chicago sleep research.",
+      "topics": [
+        "sleep deprivation",
+        "sleep research",
+        "University of Chicago sleep research"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "Why we sleep and early REM discovery",
+      "summary": "They discuss that scientists still lack a definitive answer for why we sleep, and that before the early 1950s sleep was thought to be a shutdown mode. Aserinsky's brain-wave machine work showed brain activity speeding up during REM sleep.",
+      "topics": [
+        "why we sleep",
+        "REM sleep",
+        "Eugene Aserinsky",
+        "rapid eye movement"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Memory filing theory of REM sleep",
+      "summary": "The hosts discuss a theory that REM sleep is when the brain sorts and files the day's information, using a computer desktop analogy. They note it cannot be proven.",
+      "topics": [
+        "sleep and memory",
+        "REM sleep theory",
+        "memory consolidation"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "REM sleep and memory: the Israeli shrapnel case",
+      "summary": "They describe a man with brain trauma from shrapnel who could not achieve REM sleep but still graduated from law school, which undermines the idea that lacking REM sleep impairs memory. Not getting REM sleep still affects the body physiologically.",
+      "topics": [
+        "REM sleep",
+        "sleep and memory",
+        "brain trauma and sleep"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Sleep deprivation health effects and lab rat study",
+      "summary": "They recount the three-week lab rat study in which rats deprived of sleep died within about three weeks, and discuss health risks including hypertension, Parkinson's disease, obesity, diabetes, and heart disease. A University of Chicago study had ten healthy young men on four hours of sleep a night who became prediabetic after six days.",
+      "topics": [
+        "sleep deprivation",
+        "lab rat sleep deprivation study",
+        "sleep and health",
+        "prediabetes and sleep loss",
+        "hypertension and sleep"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Polyphasic sleep and da Vinci",
+      "summary": "They discuss polyphasic sleep, sometimes called da Vinci sleep, in which short naps are spread over 24 hours. Mainstream science does not endorse it.",
+      "topics": [
+        "polyphasic sleep",
+        "da Vinci sleep",
+        "napping"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Recommended hours, drowsy driving, and sleep across ages",
+      "summary": "They cite six to eight hours as the adult recommendation, note that drowsy driving fatalities involve young drivers, and describe how sleep needs change from newborns (16 to 18 hours) to older adults. Chuck says he gets nine or ten hours and hits no afternoon wall.",
+      "topics": [
+        "recommended sleep hours",
+        "drowsy driving",
+        "infant sleep",
+        "older adults sleep",
+        "circadian rhythm",
+        "daytime sleepiness"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:13:00",
+      "kind": "ad",
+      "title": "IKEA meatballs teaser and sign-off",
+      "summary": "A teaser for the next article about Swedish meatballs, with an unpaid endorsement of IKEA's meatballs and the sign-off.",
+      "topics": [
+        "IKEA",
+        "Swedish meatballs"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5859,
+    "output_tokens": 2046
+  }
+}

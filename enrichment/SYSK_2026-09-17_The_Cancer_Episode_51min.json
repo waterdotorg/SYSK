@@ -1,0 +1,385 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-09-17_The_Cancer_Episode_51min.txt",
+  "title": "The Cancer Episode",
+  "date": "2026-09-17",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-cancer-episode",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d41bf835-c1e0-4a40-8cd1-b4c501250942/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d41bf835-c1e0-4a40-8cd1-b4c501250942/transcript?format=TextWithTimestamps&t=1789408584",
+  "summary": "Josh and Chuck (here the co-host labeled \"iHeart Intro\" in the transcript, who is Chuck) give an overview of cancer: it is an umbrella term for more than 200 diseases caused by genetic defects and uncontrolled cell growth. They cover risk factors (genetics versus lifestyle and environment), US, UK, Australia and Canada statistics, leading cancer deaths (lung, colorectal), survival rates, the role of p53 and telomerase, tumor and blood cancers, cancer types (carcinoma, lymphoma, leukemia, myeloma, sarcoma, brain and spinal cord), staging from 0 to 4, remission and cure, the history of cancer treatment (surgery, x-rays, chemotherapy), modern treatments (stem cell transplant, anti-nausea drugs, CAR T-cell therapy, gene therapy, personalized vaccines, precision oncology, AI screening), the mind-body link, language around fighting cancer, insurance coverage for mammogram follow-ups and colonoscopies, and a closing listener mail story about a couple who met via a phone book.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "cancer",
+    "cancer overview",
+    "cancer causes",
+    "cancer risk factors",
+    "cancer statistics",
+    "cancer survival rates",
+    "carcinoma",
+    "lymphoma",
+    "leukemia",
+    "myeloma",
+    "sarcoma",
+    "cancer staging",
+    "metastasis",
+    "remission and cure",
+    "p53 gene",
+    "telomerase",
+    "cancer history",
+    "chemotherapy history",
+    "radiation therapy",
+    "CAR T-cell therapy",
+    "immunotherapy",
+    "gene therapy",
+    "precision oncology",
+    "personalized cancer vaccines",
+    "stem cell transplant",
+    "colorectal cancer",
+    "lung cancer",
+    "pancreatic cancer",
+    "insurance coverage for screenings",
+    "psychoneuroimmunology",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Andreas Vesalius",
+      "type": "person"
+    },
+    {
+      "name": "Matthew Bailey",
+      "type": "person"
+    },
+    {
+      "name": "Emil Gruber",
+      "type": "person"
+    },
+    {
+      "name": "Sidney Farber",
+      "type": "person"
+    },
+    {
+      "name": "Imhotep",
+      "type": "person"
+    },
+    {
+      "name": "Dana-Farber Cancer Institute",
+      "type": "organization"
+    },
+    {
+      "name": "p53",
+      "type": "other"
+    },
+    {
+      "name": "CAR T-cell therapy",
+      "type": "other"
+    },
+    {
+      "name": "CRISPR",
+      "type": "other"
+    },
+    {
+      "name": "mechlorethamine",
+      "type": "other"
+    },
+    {
+      "name": "aminopterin",
+      "type": "other"
+    },
+    {
+      "name": "psychoneuroimmunology",
+      "type": "other"
+    },
+    {
+      "name": "MIT AI lung cancer risk model",
+      "type": "other"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and cancer lifetime risk",
+      "summary": "The hosts open with banter about family cancer history and the chance of getting cancer, noting that about 40 percent of Americans will be diagnosed at some point and that genetics accounts for only 5 to 10 percent of cases.",
+      "topics": [
+        "cancer lifetime risk",
+        "cancer family history",
+        "genetic cancer risk"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "What cancer is",
+      "summary": "Cancer is an umbrella term for more than 200 diseases that share genetic defects and uncontrolled cell growth. The disease comes from the body's own cells, and the immune system normally clears early cancerous cells.",
+      "topics": [
+        "cancer definition",
+        "uncontrolled cell growth",
+        "cancer and immune system"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Cancer causes: lifestyle and environment",
+      "summary": "Lifestyle and environmental factors account for about 90 to 95 percent of cases, including smoking, diet, alcohol, sun exposure, stress, obesity, pollutants and radiation. The name cancer is Latin for crab.",
+      "topics": [
+        "cancer risk factors",
+        "environmental carcinogens",
+        "etymology of cancer",
+        "UV radiation and skin cancer"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Cancer statistics worldwide and by country",
+      "summary": "The hosts cite daily new diagnoses in the US, UK, Australia and Canada, about 17 million Americans living with cancer, and about 600,000 US cancer deaths a year. Lung cancer is the leading cause of cancer death, and colorectal cancer is rising in young adults.",
+      "topics": [
+        "cancer statistics",
+        "lung cancer deaths",
+        "smoking and cancer",
+        "colorectal cancer in young adults",
+        "cancer death rate decline"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Survival rates and hard-to-treat cancers",
+      "summary": "Five-year survival rates are above 70 percent for many cancers, with breast, thyroid, prostate, testicular and skin cancer near the top. Pancreatic cancer is the poster child for late diagnosis, with a five-year survival rate of about 11.5 percent. Josh mentions planning a lung screening.",
+      "topics": [
+        "cancer survival rate",
+        "pancreatic cancer",
+        "early cancer detection",
+        "lung cancer screening"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Global cancer burden and HPV",
+      "summary": "Roughly one in six global deaths are from cancer, with higher rates in lower income countries that lack screening and vaccines. HPV vaccination is a major prevention tool, and viruses that cause cancer are called oncoviruses.",
+      "topics": [
+        "global cancer burden",
+        "HPV vaccine",
+        "oncoviruses",
+        "cancer screening access"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:15:30",
+      "kind": "content",
+      "title": "Healthy cell cycle versus cancer cells",
+      "summary": "Healthy cells divide, mature, take on roles and self-destruct when finished, while cancer cells lose these controls. The p53 protein acts as the switch that tells damaged cells to stop or self-destruct, and cancer typically needs more than one DNA change.",
+      "topics": [
+        "cell division",
+        "apoptosis",
+        "p53 gene",
+        "cancer mutations",
+        "cell cycle"
+      ]
+    },
+    {
+      "start": "00:15:30",
+      "end": "00:18:30",
+      "kind": "content",
+      "title": "Telomerase, tumor growth and blood cancers",
+      "summary": "Telomerase keeps telomeres long so cancer cells can keep dividing. Cancer cells divide before maturing and accumulate mutations, and they recruit nearby cells to build blood vessels and suppress immune response. Blood cancers such as leukemia crowd out healthy cells without forming a tumor.",
+      "topics": [
+        "telomerase",
+        "telomeres",
+        "tumor microenvironment",
+        "tumor angiogenesis",
+        "leukemia"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:19:10",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:19:10",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Types of cancer",
+      "summary": "Cancers are classified by where they start. Carcinomas make up about 85 percent of cases, lymphoma about 5 percent, leukemia (cancer of white blood cells in bone marrow) is the most common childhood cancer, and myeloma, brain and spinal cord cancers, and sarcomas are discussed.",
+      "topics": [
+        "carcinoma",
+        "lymphoma",
+        "leukemia",
+        "myeloma",
+        "sarcoma",
+        "brain cancer",
+        "childhood cancer"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:26:30",
+      "kind": "content",
+      "title": "Cancer staging and remission",
+      "summary": "Cancers are staged from 0 to 4 based on size and spread, with stage zero being precancerous and curable by removal. Stage four is metastatic. Remission can be partial or complete, and cure is generally considered five years of complete remission.",
+      "topics": [
+        "cancer staging",
+        "stage 0 cancer",
+        "metastatic cancer",
+        "remission",
+        "cure definition",
+        "five-year survival"
+      ]
+    },
+    {
+      "start": "00:26:30",
+      "end": "00:31:40",
+      "kind": "content",
+      "title": "History of cancer treatment",
+      "summary": "The hosts trace cancer treatment history from black bile theories and Vesalius through 1793 anatomy and 1850s surgery, which failed to stop recurrence, to X-rays in 1895, early radiation use, mustard gas derivative chemotherapy in the 1940s, and Sidney Farber's leukemia drug in 1947.",
+      "topics": [
+        "history of cancer",
+        "black bile theory",
+        "cancer surgery history",
+        "X-ray cancer treatment",
+        "chemotherapy history",
+        "Sidney Farber"
+      ]
+    },
+    {
+      "start": "00:31:40",
+      "end": "00:32:17",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:32:17",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Cancer ancient origins and standard treatment",
+      "summary": "Cancer is far older than the industrial era; Imhotep is said to have described breast cancer about 4,700 years ago. Standard treatment combines tumor-targeted radiation, surgery, and multi-drug chemotherapy rounds with testing between rounds, plus bone marrow or stem cell transplants for blood cancers.",
+      "topics": [
+        "ancient cancer",
+        "standard cancer treatment",
+        "chemotherapy rounds",
+        "stem cell transplant",
+        "bone marrow donation"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Chemotherapy side effects and surgery",
+      "summary": "Newer anti-nausea drugs (serotonin antagonists) have improved chemotherapy side effects. The hosts discuss surgical recovery from jaw surgery shared by a friend and the role of surgery in treating solid tumors.",
+      "topics": [
+        "chemotherapy nausea",
+        "anti-nausea drugs",
+        "cancer surgery recovery"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Immunotherapy, CAR T-cell therapy and gene therapy",
+      "summary": "Immunotherapy trains the immune system to target cancer. CAR T-cell therapy modifies a patient's T cells, using a virus and CRISPR-style gene editing, to recognize cancer proteins. Gene therapies can switch on p53 or make cancer cells mature or attract immune cells, and personalized cancer vaccines are in development.",
+      "topics": [
+        "immunotherapy",
+        "CAR T-cell therapy",
+        "CRISPR gene editing",
+        "gene therapy",
+        "p53 reactivation",
+        "personalized cancer vaccine"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "Precision oncology, AI detection and WHO projections",
+      "summary": "Precision oncology studies an individual patient's cancer genome to pick treatments. AI helps radiologists spot tumors and predict risk, including an MIT lung cancer risk model. The WHO expects cancer diagnoses to rise 77 percent by 2050 over 2023.",
+      "topics": [
+        "precision oncology",
+        "AI cancer detection",
+        "cancer risk prediction",
+        "WHO cancer projections",
+        "early detection"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Mind-body link and language about fighting cancer",
+      "summary": "The hosts discuss psychoneuroimmunology and the role of the will to live in cancer outcomes, then the debate over fighting and battle language versus neutral terms like journey, with the advice to follow the patient's lead.",
+      "topics": [
+        "psychoneuroimmunology",
+        "will to live",
+        "cancer language",
+        "fighting cancer metaphor"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:48:05",
+      "kind": "content",
+      "title": "Insurance coverage for cancer screening",
+      "summary": "Josh argues that insurers should cover follow-up imaging after abnormal mammograms, and Chuck argues colonoscopies should be covered in the 30s given rising colorectal cancer rates in young adults.",
+      "topics": [
+        "mammogram follow-up",
+        "insurance coverage",
+        "colonoscopy",
+        "colorectal cancer screening age"
+      ]
+    },
+    {
+      "start": "00:48:05",
+      "end": "00:50:55",
+      "kind": "listener_mail",
+      "title": "Listener mail: phone book love story",
+      "summary": "Listener Laura writes that at 15 she used a phone book to find a friend, reached a boy named Amanda's caller by mistake, and they later met and have now been married 33 years. The story was in response to a short stuff episode on calling the wrong person with the same name.",
+      "topics": [
+        "listener mail",
+        "phone book",
+        "wrong number story"
+      ]
+    },
+    {
+      "start": "00:50:55",
+      "end": "00:51:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank the listener and sign off with the iHeartRadio production credit.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19114,
+    "output_tokens": 4650
+  }
+}

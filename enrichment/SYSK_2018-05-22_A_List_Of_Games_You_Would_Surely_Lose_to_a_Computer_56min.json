@@ -1,0 +1,275 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-05-22_A_List_Of_Games_You_Would_Surely_Lose_to_a_Computer_56min.txt",
+  "title": "A List Of Games You Would Surely Lose to a Computer",
+  "date": "2018-05-22",
+  "duration": "56 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/a-list-of-games-you-would-surely-lose-to-a-compute",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2696ed1b-3531-4d65-be8a-ae2800634b09/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2696ed1b-3531-4d65-be8a-ae2800634b09/transcript?format=TextWithTimestamps&t=1700543761",
+  "summary": "Josh and Chuck, joined by Jonathan Strickland of TechStuff, trace man-versus-machine games through history. They open with the 1770s chess-playing automaton the Turk (Wolfgang von Kempelen), a hoax concealing a human chess player, and its influence on Charles Babbage. They cover how chess AI was built on Claude Shannon's evaluation function and minimax, Deep Blue's 1997 win over Garry Kasparov, and the shift to self-teaching machine learning. They discuss AlphaGo and Go's complexity, poker AIs (Carnegie Mellon's Libratus, University of Alberta's DeepStack), DeepMind's Atari play including Ms. Pac-Man, a survey of AI researchers' predictions, and the Angelina game-designing AI. Strickland then explains solved games (tic-tac-toe, Connect Four, checkers solved by Chinook), perfect versus imperfect information, and why robots struggle with physical tasks like tag and opening doors. The episode closes with a listener mail about cultural relativism.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "mechanical Turk",
+    "chess automaton",
+    "Wolfgang von Kempelen",
+    "chess AI",
+    "Deep Blue",
+    "Garry Kasparov",
+    "AlphaGo",
+    "Go game AI",
+    "poker AI",
+    "Libratus",
+    "DeepStack",
+    "Claude Shannon",
+    "minimax algorithm",
+    "evaluation function",
+    "machine learning",
+    "self-teaching AI",
+    "DeepMind Atari",
+    "Ms. Pac-Man",
+    "solved games",
+    "Chinook checkers",
+    "perfect information games",
+    "imperfect information games",
+    "robotics physical tasks",
+    "DARPA Robotics Challenge",
+    "AI creativity",
+    "Charles Babbage",
+    "game-designing AI",
+    "artificial intelligence history"
+  ],
+  "entities": [
+    {
+      "name": "Mechanical Turk",
+      "type": "other"
+    },
+    {
+      "name": "Wolfgang von Kempelen",
+      "type": "person"
+    },
+    {
+      "name": "Charles Babbage",
+      "type": "person"
+    },
+    {
+      "name": "Deep Blue",
+      "type": "other"
+    },
+    {
+      "name": "Garry Kasparov",
+      "type": "person"
+    },
+    {
+      "name": "Claude Shannon",
+      "type": "person"
+    },
+    {
+      "name": "AlphaGo",
+      "type": "other"
+    },
+    {
+      "name": "Lee Sedol",
+      "type": "person"
+    },
+    {
+      "name": "DeepMind",
+      "type": "organization"
+    },
+    {
+      "name": "Libratus",
+      "type": "other"
+    },
+    {
+      "name": "DeepStack",
+      "type": "other"
+    },
+    {
+      "name": "Chinook",
+      "type": "other"
+    },
+    {
+      "name": "Angelina",
+      "type": "other"
+    },
+    {
+      "name": "Philip Thicknesse",
+      "type": "person"
+    },
+    {
+      "name": "Robert Willis",
+      "type": "person"
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "type": "organization"
+    },
+    {
+      "name": "University of Alberta",
+      "type": "organization"
+    },
+    {
+      "name": "DARPA",
+      "type": "organization"
+    },
+    {
+      "name": "Fukushima nuclear disaster",
+      "type": "event"
+    },
+    {
+      "name": "Ms. Pac-Man",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:08:30",
+      "kind": "intro",
+      "title": "Opening banter and the mechanical Turk",
+      "summary": "Josh and Chuck introduce the episode with banter, then tell the story of the mechanical Turk, an 1770s chess-playing automaton built by Wolfgang von Kempelen, and the suspicion that a hidden human operated it.",
+      "topics": [
+        "mechanical Turk",
+        "chess automaton",
+        "Wolfgang von Kempelen",
+        "hidden operator hoax"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Chess AI history: Shannon, evaluation, and minimax",
+      "summary": "The hosts discuss Charles Babbage's inspiration from the Turk, then how early chess AI was programmed using Claude Shannon's evaluation function and minimax, and how Deep Blue beat Garry Kasparov.",
+      "topics": [
+        "Claude Shannon",
+        "evaluation function",
+        "minimax algorithm",
+        "Deep Blue",
+        "Garry Kasparov",
+        "chess AI"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:30",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break and tease of guest Jonathan Strickland.",
+      "topics": [
+        "podcast break"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Self-teaching AI and AlphaGo",
+      "summary": "The hosts explain the shift to machine learning systems that teach themselves, and how DeepMind's AlphaGo tackled the game of Go, including AlphaGo Zero and its 2017 win over Ke Jie.",
+      "topics": [
+        "machine learning",
+        "self-teaching AI",
+        "AlphaGo",
+        "Go game AI",
+        "Ke Jie"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Poker AI and imperfect information",
+      "summary": "The hosts discuss why poker is harder for AI because of hidden information, and describe Carnegie Mellon's Libratus and the University of Alberta's DeepStack beating professional poker players.",
+      "topics": [
+        "poker AI",
+        "Libratus",
+        "DeepStack",
+        "imperfect information games",
+        "intuition in AI"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "DeepMind Atari games and AI creativity",
+      "summary": "The hosts describe DeepMind's Deep Q network learning Atari games, including Ms. Pac-Man, then a survey of AI researchers' predictions and the Angelina game-designing AI.",
+      "topics": [
+        "DeepMind Atari",
+        "Ms. Pac-Man",
+        "AI predictions survey",
+        "Angelina game design AI",
+        "AI creativity"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Robotics: tag, doors, and Jenga",
+      "summary": "Strickland joins. The hosts discuss how simple human tasks like tag and opening doors are hard for robots, citing DARPA's robotics challenge, and mention the risks of algorithmic stock trading.",
+      "topics": [
+        "robotics",
+        "DARPA Robotics Challenge",
+        "Moravec-style physical tasks",
+        "algorithmic stock trading",
+        "AI risks"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Solved games: tic-tac-toe, Connect Four, checkers",
+      "summary": "Strickland explains solved games, where perfect play determines the outcome. Examples include tic-tac-toe as a draw, Connect Four as a first-player win, and checkers solved by Chinook. He also contrasts perfect and imperfect information.",
+      "topics": [
+        "solved games",
+        "tic-tac-toe",
+        "Connect Four",
+        "checkers",
+        "Chinook",
+        "perfect information",
+        "perfect play"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Wrap-up with Strickland",
+      "summary": "The hosts and Strickland discuss AI and the timing of policy decisions, and Strickland notes his TechStuff podcast on AI.",
+      "topics": [
+        "AI policy",
+        "TechStuff podcast"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:56:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: cultural relativism",
+      "summary": "A listener named Jesse Lusco points out that the hosts call themselves cultural relativists yet pass moral judgments. Josh and Chuck acknowledge they have moved past strict relativism. Social media and contact info are given.",
+      "topics": [
+        "listener mail",
+        "cultural relativism",
+        "moral absolutes"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "00:56:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing sign-off with the website reference.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17366,
+    "output_tokens": 2840
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-06-07_Short_Stuff_DNA_Data_Storage_12min.txt",
+  "title": "Short Stuff: DNA Data Storage",
+  "date": "2023-06-07",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-dna-data-storage",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/be04ffdb-cdf1-4b0b-ac3b-b01900fc58e9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/be04ffdb-cdf1-4b0b-ac3b-b01900fc58e9/transcript?format=TextWithTimestamps&t=1714020346",
+  "summary": "Short Stuff episode on DNA data storage. Josh and Chuck explain why archival data is kept on magnetic tape (LTO-9) and why cold-storage buildings are costly, then describe how DNA can hold far more data in a tiny space: a claim attributed to Los Alamos National Lab researchers that DNA could hold roughly the Library of Congress in a poppy-seed-sized amount, and a projection that humanity's data (about 33 zettabytes by 2025) could fit in a ping pong ball. They explain the encoding method, mapping binary pairs to the four nucleotides (adenine, guanine, thymine, cytosine) and synthesizing DNA from the resulting sequence. The main drawback is cost: a Catalyst-style estimate from CEO Hugh and June Park (as the transcript names them) puts DNA synthesis at trillions of dollars per petabyte versus about eight dollars for an LTO-9 tape, and writing is very slow. Josh argues costs will fall as with the Human Genome Project. The episode closes with a tease and sponsor/network credit.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "DNA data storage",
+    "DNA digital storage",
+    "archival storage",
+    "cold storage",
+    "magnetic tape storage",
+    "LTO-9 tape",
+    "data encoding in DNA",
+    "binary to nucleotide encoding",
+    "synthetic DNA",
+    "data storage cost",
+    "Library of Congress data",
+    "zettabytes of global data",
+    "Human Genome Project",
+    "long-term data preservation",
+    "Los Alamos National Lab",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Los Alamos National Lab",
+      "type": "organization"
+    },
+    {
+      "name": "Scientific American",
+      "type": "work"
+    },
+    {
+      "name": "Ars Technica",
+      "type": "work"
+    },
+    {
+      "name": "Catalog",
+      "type": "organization"
+    },
+    {
+      "name": "Hugh and June Park",
+      "type": "person"
+    },
+    {
+      "name": "LTO-9",
+      "type": "other"
+    },
+    {
+      "name": "Human Genome Project",
+      "type": "event"
+    },
+    {
+      "name": "Library of Congress",
+      "type": "place"
+    },
+    {
+      "name": "Gene Wilder",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:01:38",
+      "kind": "intro",
+      "title": "Opening banter and the data problem",
+      "summary": "Hosts introduce the episode and the growing volume of data that must be preserved.",
+      "topics": [
+        "data growth",
+        "data preservation"
+      ]
+    },
+    {
+      "start": "00:01:38",
+      "end": "00:03:15",
+      "kind": "content",
+      "title": "Archival tape and cold storage",
+      "summary": "Magnetic tape is the standard long-term archival medium, durable and cheap per byte, but cold-storage buildings are costly and tape's lifespan is uncertain, which motivates looking for alternatives.",
+      "topics": [
+        "archival storage",
+        "magnetic tape",
+        "cold storage",
+        "low touch data"
+      ]
+    },
+    {
+      "start": "00:03:15",
+      "end": "00:03:38",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break before the DNA discussion.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:03:38",
+      "end": "00:04:39",
+      "kind": "content",
+      "title": "Capacity of DNA",
+      "summary": "Chuck cites Los Alamos National Lab researchers, via Scientific American, on DNA holding roughly the Library of Congress in a poppy-seed-sized amount.",
+      "topics": [
+        "DNA storage capacity",
+        "Library of Congress data",
+        "Los Alamos National Lab"
+      ]
+    },
+    {
+      "start": "00:04:39",
+      "end": "00:05:53",
+      "kind": "content",
+      "title": "Global data in a ping pong ball",
+      "summary": "Josh projects humanity's data by 2025 at about 33 zettabytes and says it could fit in a ping pong ball; the hosts joke about backups and storage conditions.",
+      "topics": [
+        "zettabytes",
+        "global data volume",
+        "DNA backups",
+        "DNA durability"
+      ]
+    },
+    {
+      "start": "00:05:53",
+      "end": "00:08:19",
+      "kind": "content",
+      "title": "How binary data becomes DNA",
+      "summary": "Chuck explains that binary pairs map to the four nucleotides (adenine, guanine, thymine, cytosine), and Josh describes physically synthesizing the sequence as DNA.",
+      "topics": [
+        "binary to nucleotide encoding",
+        "DNA synthesis",
+        "encoding data in DNA"
+      ]
+    },
+    {
+      "start": "00:08:19",
+      "end": "00:08:28",
+      "kind": "content",
+      "title": "Aside on Gene Wilder",
+      "summary": "A brief playful exchange about which content should be preserved first.",
+      "topics": [
+        "banter"
+      ]
+    },
+    {
+      "start": "00:08:28",
+      "end": "00:10:06",
+      "kind": "content",
+      "title": "Cost problem",
+      "summary": "Chuck contrasts an LTO-9 tape at about eight dollars per petabyte with an estimated trillion dollars for DNA; Josh cites Ars Technica interview with Hugh and June Park of Catalog on synthesis cost per nucleotide.",
+      "topics": [
+        "DNA storage cost",
+        "LTO-9 tape",
+        "Catalog",
+        "nucleotide synthesis cost"
+      ]
+    },
+    {
+      "start": "00:10:06",
+      "end": "00:11:14",
+      "kind": "content",
+      "title": "Speed and outlook",
+      "summary": "Hosts note DNA writing is very slow, compare it to tape transfer speeds, and Josh argues costs will fall, pointing to the Human Genome Project's progress.",
+      "topics": [
+        "DNA write speed",
+        "technology cost curve",
+        "Human Genome Project"
+      ]
+    },
+    {
+      "start": "00:11:14",
+      "end": "00:11:41",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts tease the show's conclusion and close with the network credit.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5351,
+    "output_tokens": 2055
+  }
+}

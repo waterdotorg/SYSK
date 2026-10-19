@@ -1,0 +1,239 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-12-02_Your_Gut_Is_Also_A_Brain_47min.txt",
+  "title": "Your Gut Is Also A Brain",
+  "date": "2021-12-02",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/your-gut-is-also-a-brain",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5868c8f7-e77b-44fb-9d58-ae27018a2e46/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5868c8f7-e77b-44fb-9d58-ae27018a2e46/transcript?format=TextWithTimestamps&t=1700539648",
+  "summary": "Josh and Chuck explore the gut-brain-microbiome axis: the enteric nervous system, two-way communication via the vagus nerve and bloodstream, gut bacteria producing neurotransmitters like serotonin, short chain fatty acids, and links to IBS, stress, Parkinson's, autism, and anxiety/depression. They cover mouse and human studies (including vagotomy mice, college students' stool during exams, stressed monkey mothers), psychobiotics, leaky gut, fever during pregnancy and autism, functional/integrative medicine, antibiotics' effects on the gut, and John Cryan's theory linking gut bacteria to sociability. The episode closes with a listener mail about secular dating language (CE instead of AD/BC). Opening includes self-promotion of a book and board game.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "gut-brain axis",
+    "gut microbiome",
+    "microbiome brain connection",
+    "enteric nervous system",
+    "vagus nerve",
+    "short chain fatty acids",
+    "neurotransmitters produced by gut bacteria",
+    "serotonin",
+    "psychobiotics",
+    "probiotics",
+    "leaky gut",
+    "irritable bowel syndrome IBS",
+    "Parkinson's disease gut connection",
+    "autism and gut bacteria",
+    "maternal fever and autism",
+    "stress and gut microbiome",
+    "antibiotics and gut health",
+    "functional medicine",
+    "John Cryan social behavior microbiome",
+    "fight or flight",
+    "neuropods cells",
+    "dietary fiber",
+    "listener mail CE vs BC dating"
+  ],
+  "entities": [
+    {
+      "name": "enteric nervous system",
+      "type": "other"
+    },
+    {
+      "name": "vagus nerve",
+      "type": "other"
+    },
+    {
+      "name": "irritable bowel syndrome",
+      "type": "other"
+    },
+    {
+      "name": "Parkinson's disease",
+      "type": "other"
+    },
+    {
+      "name": "autism spectrum disorder",
+      "type": "other"
+    },
+    {
+      "name": "serotonin",
+      "type": "other"
+    },
+    {
+      "name": "John Cryan",
+      "type": "person"
+    },
+    {
+      "name": "Ted Dinan",
+      "type": "person"
+    },
+    {
+      "name": "psychobiotics",
+      "type": "other"
+    },
+    {
+      "name": "short chain fatty acids",
+      "type": "other"
+    },
+    {
+      "name": "leaky gut",
+      "type": "other"
+    },
+    {
+      "name": "fight or flight",
+      "type": "event"
+    },
+    {
+      "name": "Science journal",
+      "type": "work"
+    },
+    {
+      "name": "Spite and Malice",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and self-promotion",
+      "summary": "Hosts plug their book and board game for Christmas, introduce the episode as an early-stage, cutting-edge research topic, and mention past related episodes and the episode list maintained by Jill Hurley.",
+      "topics": [
+        "self promotion",
+        "book and board game",
+        "episode list"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Enteric nervous system and gut-to-brain signaling",
+      "summary": "The enteric nervous system runs digestion semi-independently of the central nervous system. Research suggests the gut sends signals to the brain, possibly reversing assumed direction, with IBS and anxiety as an example. The vagus nerve links the two systems, and fight-or-flight can shut down digestion.",
+      "topics": [
+        "enteric nervous system",
+        "gut-brain axis",
+        "vagus nerve",
+        "IBS and anxiety",
+        "fight or flight"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Gut bacteria producing neurotransmitters",
+      "summary": "Gut bacteria ferment dietary fiber into short chain fatty acids, which signal via the vagus nerve and neuropod cells, and produce neurotransmitters such as serotonin, dopamine, GABA and norepinephrine that can reach the brain through the bloodstream. Hosts note serotonin largely comes from gut bacteria and discuss the microbiome's large gene count.",
+      "topics": [
+        "short chain fatty acids",
+        "dietary fiber",
+        "neuropods",
+        "serotonin from gut bacteria",
+        "microbiome genes",
+        "symbiosis"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Stress and gut microbiome studies",
+      "summary": "Studies of college students during exam week and of infant monkeys whose mothers were exposed to loud noises during pregnancy show reduced beneficial bacteria. Hosts discuss the two-way loop in which poor diet and microbiome imbalance can affect mood, and the circular relationship between the nervous systems.",
+      "topics": [
+        "stress and gut bacteria",
+        "exam stress study",
+        "lactobacillus and bifidobacteria",
+        "diet and mood",
+        "circular feedback loop"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Gut connections to Parkinson's, autism and mood disorders",
+      "summary": "Mouse studies with severed vagus nerves showed reduced stress hormones. Gut problems are linked to autism and Parkinson's, with a proposed mechanism involving E. coli producing curli that misfolds proteins, starting roughly twenty years before symptoms. Leaky gut may serve as an early marker, and probiotics may ease some symptoms, though the hosts stress the research is correlative.",
+      "topics": [
+        "Parkinson's constipation link",
+        "curli E. coli",
+        "autism gut symptoms",
+        "leaky gut",
+        "probiotics for autism",
+        "vagotomy mice"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Maternal fever, inflammation, and psychobiotics",
+      "summary": "A study linked maternal prolonged fever to higher autism-symptom rates, and infected pregnant mice had offspring with autism-like behaviors and leaky bowels, which the hosts tie to cytokines and inflammation. Psychobiotics, probiotics used for anxiety and depression, are discussed with rat and human studies from 2011 showing reduced anxiety-like behavior and distress.",
+      "topics": [
+        "maternal fever autism",
+        "cytokines and inflammation",
+        "segmented filamentous bacteria",
+        "psychobiotics",
+        "anxiety and depression probiotics",
+        "2011 rat and human study"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Integrative medicine, antibiotics and germ-free mice",
+      "summary": "Hosts discuss functional and integrative medicine, the personal experience of a family member treated with antibiotics affecting gut health, and how antibiotics can harm the gut microbiome. Germ-free mice that lack microbiota show autism-like symptoms that improve with probiotics.",
+      "topics": [
+        "functional medicine",
+        "integrative medicine",
+        "antibiotics gut damage",
+        "germ-free mice",
+        "probiotic treatment"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "John Cryan and the microbiome-sociability theory",
+      "summary": "John Cryan's research with germ-free mice showed social impairment, especially in males. He proposes that humans trading bacteria through close social contact may have selected for microbiomes linked to sociability. The hosts recommend his TED Med talk and a Science journal introduction to the psychobiome.",
+      "topics": [
+        "John Cryan",
+        "psychobiome",
+        "social behavior and microbiome",
+        "germ-free mice social impairment",
+        "TED Med talk"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on CE versus BC",
+      "summary": "A listener couple in their seventies asks the hosts to use secular dating language like CE instead of AD, noting religious vocabulary has crept into the show. The hosts speculate it may come from a folklore episode and Chuck mentions headache powder.",
+      "topics": [
+        "listener mail",
+        "CE vs AD dating",
+        "secular language"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts close the episode and direct listeners to the contact email for listener mail.",
+      "topics": [
+        "sign-off",
+        "listener contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 14935,
+    "output_tokens": 2900
+  }
+}

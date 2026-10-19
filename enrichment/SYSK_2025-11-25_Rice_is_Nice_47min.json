@@ -1,0 +1,390 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-11-25_Rice_is_Nice_47min.txt",
+  "title": "Rice is Nice",
+  "date": "2025-11-25",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/rice-is-nice",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8270440f-68d5-4e98-8789-b39f0117a724/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8270440f-68d5-4e98-8789-b39f0117a724/transcript?format=TextWithTimestamps&t=1764004963",
+  "summary": "Hosts Josh and Chuck (with the transcript's \"iHeart Intro\" label on Chuck's lines) explore rice as a food: that rice is a seed/cereal, white vs. brown rice and enrichment methods, rice types (basmati, jasmine, sushi, sticky, arborio/carnaroli, bomba, Carolina gold, black, wild rice), rice history and cultivation in flooded paddies and upland farming, environmental costs (methane, nitrous oxide, water use) and fish-rice farming, arsenic contamination concerns, top rice producing and consuming countries, and rice dishes and desserts (jollof, biryani, paella, sushi, rice pudding, mochi, horchata). Closes with a listener mail from Ted about finishing the full catalog.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "rice",
+    "rice varieties",
+    "white rice vs brown rice",
+    "rice enrichment",
+    "fortified rice",
+    "jasmine rice",
+    "basmati rice",
+    "sushi rice",
+    "sticky rice",
+    "glutinous rice",
+    "arborio risotto rice",
+    "paella rice",
+    "Carolina gold rice",
+    "black rice",
+    "wild rice",
+    "rice domestication history",
+    "rice cultivation",
+    "flooded paddies",
+    "upland rice farming",
+    "rice and methane emissions",
+    "nitrous oxide rice paddies",
+    "rice fish farming",
+    "arsenic in rice",
+    "rice production by country",
+    "rice consumption by country",
+    "rice dishes",
+    "rice desserts",
+    "horchata",
+    "mochi",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Carolina gold rice",
+      "type": "other"
+    },
+    {
+      "name": "Antson Mills",
+      "type": "organization"
+    },
+    {
+      "name": "Consumer Reports",
+      "type": "organization"
+    },
+    {
+      "name": "Frontiers in Nutrition",
+      "type": "work"
+    },
+    {
+      "name": "Tottori University",
+      "type": "organization"
+    },
+    {
+      "name": "Oryza sativa",
+      "type": "other"
+    },
+    {
+      "name": "Oryza glaberrima",
+      "type": "other"
+    },
+    {
+      "name": "Bangladesh",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "California",
+      "type": "place"
+    },
+    {
+      "name": "Charleston",
+      "type": "place"
+    },
+    {
+      "name": "Yangtze River basin",
+      "type": "place"
+    },
+    {
+      "name": "Ted",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:31",
+      "kind": "intro",
+      "title": "Opening banter and rice's global importance",
+      "summary": "Hosts open with banter about the episode topic and note rice's role as a staple food, calories consumed worldwide, and rice production supporting households in developing countries.",
+      "topics": [
+        "rice",
+        "staple food",
+        "global calories"
+      ]
+    },
+    {
+      "start": "00:01:31",
+      "end": "00:05:45",
+      "kind": "content",
+      "title": "Rice as a seed and enrichment",
+      "summary": "Rice is explained as the seed of the rice plant, classified as a cereal. White rice is described as brown rice with bran and germ removed, and the hosts describe enrichment methods such as powder-coating select grains and mixing them back in, layered coatings, and extruded fake grains.",
+      "topics": [
+        "rice seed",
+        "cereal",
+        "white rice vs brown rice",
+        "rice enrichment",
+        "fortified rice",
+        "extruded rice"
+      ]
+    },
+    {
+      "start": "00:05:45",
+      "end": "00:07:45",
+      "kind": "content",
+      "title": "Rice origins and subspecies",
+      "summary": "Rice descends from Oryza sativa domesticated in China, with Indica and Japonica subspecies differing in grain length and starch (amylopectin vs amylose). African rice, Oryza glaberrima, is discussed as hardier, with the idea of crossbreeding the two.",
+      "topics": [
+        "Oryza sativa",
+        "indica and japonica",
+        "amylopectin and amylose",
+        "African rice",
+        "rice domestication"
+      ]
+    },
+    {
+      "start": "00:07:45",
+      "end": "00:10:20",
+      "kind": "content",
+      "title": "Basmati, jasmine, sushi, and sticky rice",
+      "summary": "The hosts discuss basmati, jasmine (whose scent is natural), sushi rice (a japonica treated with vinegar, salt, and sugar), and sticky or glutinous rice, which is sticky due to high amylopectin and is not gluten-containing.",
+      "topics": [
+        "basmati rice",
+        "jasmine rice",
+        "sushi rice",
+        "sticky rice",
+        "glutinous rice",
+        "amylopectin"
+      ]
+    },
+    {
+      "start": "00:10:20",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Risotto and paella rices",
+      "summary": "Arborio and carnaroli are named as medium-grain japonica rices for risotto, which requires constant stirring. Bomba rice for paella is discussed, noting it should not be substituted with other short-grain rices.",
+      "topics": [
+        "risotto",
+        "arborio rice",
+        "carnaroli rice",
+        "paella",
+        "bomba rice"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:13:05",
+      "kind": "content",
+      "title": "Cooking anecdotes",
+      "summary": "Brief banter about making paella at home, with a joke about a cooking show featuring Gwyneth Paltrow.",
+      "topics": [
+        "paella cooking",
+        "home cooking"
+      ]
+    },
+    {
+      "start": "00:13:05",
+      "end": "00:15:47",
+      "kind": "content",
+      "title": "Carolina gold and other varieties",
+      "summary": "Carolina gold is described as a heirloom long-grain japonica from the Carolina lowlands, reportedly brought to Charleston from Madagascar in the 1600s, lost after the Civil War, and revived in the 1990s by Anson Mills. Enslaved Africans' knowledge of wetland rice cultivation is discussed. Black rice (forbidden rice) and wild rice (not a true rice) are also covered.",
+      "topics": [
+        "Carolina gold rice",
+        "Anson Mills",
+        "Charleston rice history",
+        "black rice",
+        "forbidden rice",
+        "wild rice"
+      ]
+    },
+    {
+      "start": "00:15:47",
+      "end": "00:18:15",
+      "kind": "content",
+      "title": "Rice history and paddy cultivation",
+      "summary": "Rice cultivation is traced to the Yangtze River basin in China, spreading to South Asia and Southeast Asia. Lowland flooded paddies and upland terraced farming are compared, with notes on irrigation and draining for harvest.",
+      "topics": [
+        "rice cultivation history",
+        "Yangtze River basin",
+        "flooded paddies",
+        "upland rice farming",
+        "irrigation"
+      ]
+    },
+    {
+      "start": "00:18:15",
+      "end": "00:20:30",
+      "kind": "content",
+      "title": "Growing and harvesting rice",
+      "summary": "Methods of growing rice are described, including nursery beds, transplanting, seed drilling, and air-dropping seed, with roughly 120 days to grow. Traditional handsickle harvesting produces rough rice, which is hulled to brown rice.",
+      "topics": [
+        "rice farming methods",
+        "rice harvesting",
+        "rough rice",
+        "rice hull",
+        "rice paddies"
+      ]
+    },
+    {
+      "start": "00:20:30",
+      "end": "00:21:45",
+      "kind": "content",
+      "title": "Milling white rice",
+      "summary": "Milling removes the bran to produce white rice; some rice is polished, sometimes with glucose, and may then be enriched.",
+      "topics": [
+        "rice milling",
+        "polished rice",
+        "white rice processing"
+      ]
+    },
+    {
+      "start": "00:21:45",
+      "end": "00:25:20",
+      "kind": "content",
+      "title": "Rice environmental impact and fish-rice farming",
+      "summary": "Rice's water use is discussed relative to other crops, with California rice production noted. Flooded paddies produce methane; draining reduces methane but increases nitrous oxide. Rice-fish farming is described as reducing methane and pests, increasing yields, and reducing fertilizer needs. Growing rice in seawater is mentioned as an research effort.",
+      "topics": [
+        "rice methane emissions",
+        "nitrous oxide",
+        "rice water use",
+        "rice-fish farming",
+        "seawater rice",
+        "greenhouse gases"
+      ]
+    },
+    {
+      "start": "00:25:20",
+      "end": "00:28:53",
+      "kind": "content",
+      "title": "Arsenic in rice",
+      "summary": "Rice absorbs arsenic more than most crops, and arsenic concentrates in bran and germ, so brown rice has more. A 2023 Frontiers in Nutrition article is cited as calling for more study. Consumer Reports testing is referenced; California rice is suggested as lower in arsenic. Rinsing and cooking in excess water are suggested to reduce it, and children and daily consumers are noted as at risk.",
+      "topics": [
+        "arsenic in rice",
+        "rice safety",
+        "brown rice arsenic",
+        "rinsing rice",
+        "rice and health risks",
+        "Consumer Reports rice testing"
+      ]
+    },
+    {
+      "start": "00:28:53",
+      "end": "00:29:04",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Mid-episode break before the production statistics segment.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:29:04",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Rice production by country and US rice",
+      "summary": "Asia is the top rice producing continent, with China first, then India and Bangladesh; all top ten producers are Asian. US rice is produced mainly in California, Louisiana, Texas, Mississippi, Missouri, and Arkansas, with about 80 percent of US rice eaten being domestic.",
+      "topics": [
+        "rice production",
+        "top rice producing countries",
+        "US rice production",
+        "American rice"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:34:17",
+      "kind": "content",
+      "title": "Rice consumption by country and rice in childhood",
+      "summary": "China and India are the top consumers by population; Bangladesh leads per capita at about 592 pounds of dry rice per year, with Nigeria in the top ten. The hosts link high consumption to lower income and developing economies. A childhood school lunch of plain rice is recalled, and a Tottori University study on falling rice consumption as wealth grows is mentioned.",
+      "topics": [
+        "rice consumption",
+        "per capita rice",
+        "Bangladesh rice consumption",
+        "developing economies and diet",
+        "Tottori University study"
+      ]
+    },
+    {
+      "start": "00:34:17",
+      "end": "00:37:35",
+      "kind": "content",
+      "title": "Rice dishes worldwide",
+      "summary": "Jollof rice, biryani, and paella are discussed as rice dishes. The hosts mention preferences for Indian curries like tikka masala and butter chicken, and Japanese chicken katsu.",
+      "topics": [
+        "jollof rice",
+        "biryani",
+        "paella",
+        "rice dishes",
+        "Indian food"
+      ]
+    },
+    {
+      "start": "00:37:35",
+      "end": "00:39:35",
+      "kind": "content",
+      "title": "Sushi origins and paella origins",
+      "summary": "Paella is described as a Spanish dish with clam juice flavoring, and clamato is mentioned. Sushi's origins in vinegar-preserved fish are discussed, including nare sushi.",
+      "topics": [
+        "paella origins",
+        "sushi history",
+        "nare sushi",
+        "fermented sushi"
+      ]
+    },
+    {
+      "start": "00:39:35",
+      "end": "00:42:24",
+      "kind": "content",
+      "title": "Rice desserts and drinks",
+      "summary": "Rice pudding, ube condensed milk, mango sticky rice, Polish rice cake, mochi (including the rabbit-in-the-moon tradition), and horchata made from rice soaked in evaporated milk are discussed.",
+      "topics": [
+        "rice pudding",
+        "mango sticky rice",
+        "mochi",
+        "horchata",
+        "rice desserts",
+        "ube condensed milk"
+      ]
+    },
+    {
+      "start": "00:42:24",
+      "end": "00:44:07",
+      "kind": "content",
+      "title": "Horchata recipe and snack chatter",
+      "summary": "Hosts encourage making horchata at home with about five or six ingredients. Chuck discusses cherry frosted pop tarts.",
+      "topics": [
+        "horchata recipe",
+        "pop tarts",
+        "snack talk"
+      ]
+    },
+    {
+      "start": "00:44:07",
+      "end": "00:46:40",
+      "kind": "listener_mail",
+      "title": "Listener mail from Ted",
+      "summary": "Ted writes that he has finished the full Stuff You Should Know catalog for the fifth time and lists what he likes: the hosts' character arcs over seventeen years, not talking over each other, learning about movies and music, and an in-joke about never finishing a list. Hosts thank Ted and invite listener email.",
+      "topics": [
+        "listener mail",
+        "Ted",
+        "fan feedback"
+      ]
+    },
+    {
+      "start": "00:46:40",
+      "end": "00:46:57",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give the email address for listener mail and the iHeartRadio credit.",
+      "topics": [
+        "sign-off",
+        "listener email"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 19435,
+    "output_tokens": 4387
+  }
+}

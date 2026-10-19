@@ -1,0 +1,267 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2025-11-18_AM_Radio_Solid_Gold_49min.txt",
+  "title": "AM Radio: Solid Gold",
+  "date": "2025-11-18",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/am-radio-solid-gold",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fdce04b3-89a5-45c2-b30c-b3990022e961/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fdce04b3-89a5-45c2-b30c-b3990022e961/transcript?format=TextWithTimestamps&t=1763433297",
+  "summary": "Hosts announce the 2026 tour dates (January Denver, Seattle, and SketchFest San Francisco; April Madison, Chicago, and Akron) and promote a reprint of the Vinyl episode on Born Losers Records for Record Store Day. The main content traces the history of AM radio: early experiments and the 1920 KDKA Pittsburgh launch, networks, public-good broadcasting and the fairness doctrine, radio soap operas, evangelists and popular shows, the golden age ending in 1962, the rise of Top 40 and DJs, transistor radios and car radios, the yacht rock and Mellow Gold era, and the 2024-2025 fight over AM radio in new cars (AM Radio for Every Vehicle Act, emergency alerts). The episode closes with a listener mail email from Kara.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "AM radio",
+    "AM radio history",
+    "KDKA Pittsburgh",
+    "golden age of radio",
+    "Top 40 radio",
+    "DJ personalities",
+    "fairness doctrine",
+    "radio soap operas",
+    "yacht rock",
+    "Mellow Gold",
+    "AM Radio for Every Vehicle Act",
+    "emergency alert system",
+    "clear channel stations",
+    "ionosphere skywave",
+    "car radio",
+    "transistor radio",
+    "electric vehicles AM interference",
+    "FM drift",
+    "radio networks",
+    "tour announcement",
+    "Vinyl episode reprint",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "KDKA Pittsburgh",
+      "type": "organization"
+    },
+    {
+      "name": "AT&T",
+      "type": "organization"
+    },
+    {
+      "name": "Marconi",
+      "type": "person"
+    },
+    {
+      "name": "Warren Harding",
+      "type": "person"
+    },
+    {
+      "name": "FDR",
+      "type": "person"
+    },
+    {
+      "name": "Edgar Bergen and Charlie McCarthy Show",
+      "type": "work"
+    },
+    {
+      "name": "Johnny Dollar",
+      "type": "work"
+    },
+    {
+      "name": "Suspense",
+      "type": "work"
+    },
+    {
+      "name": "Guiding Light",
+      "type": "work"
+    },
+    {
+      "name": "Todd Storz",
+      "type": "person"
+    },
+    {
+      "name": "Big Bopper",
+      "type": "person"
+    },
+    {
+      "name": "Wolfman Jack",
+      "type": "person"
+    },
+    {
+      "name": "Charles Coughlin",
+      "type": "person"
+    },
+    {
+      "name": "FCC",
+      "type": "organization"
+    },
+    {
+      "name": "AM Radio for Every Vehicle Act",
+      "type": "work"
+    },
+    {
+      "name": "Tesla",
+      "type": "organization"
+    },
+    {
+      "name": "Born Losers Records",
+      "type": "organization"
+    },
+    {
+      "name": "Christopher Cross",
+      "type": "person"
+    },
+    {
+      "name": "Rupert Holmes",
+      "type": "person"
+    },
+    {
+      "name": "Larry Munson",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:48",
+      "kind": "intro",
+      "title": "Tour announcement",
+      "summary": "Hosts announce 2026 tour dates: January shows in Denver, Seattle and SketchFest in San Francisco, and April shows in Madison, Chicago and Akron, with presale code details.",
+      "topics": [
+        "tour announcement",
+        "SketchFest",
+        "ticket presale"
+      ]
+    },
+    {
+      "start": "00:01:48",
+      "end": "00:03:40",
+      "kind": "ad",
+      "title": "Vinyl episode reprint promotion",
+      "summary": "Promotion for the reprinted Vinyl episode record on Born Losers Records, available for Record Store Day on November 28 at syskvinyl.com.",
+      "topics": [
+        "Vinyl episode reprint",
+        "Born Losers Records",
+        "Record Store Day"
+      ]
+    },
+    {
+      "start": "00:03:40",
+      "end": "00:14:34",
+      "kind": "content",
+      "title": "Early AM radio and its spread",
+      "summary": "Early AM broadcasting from the 1900s, the 1920 KDKA Pittsburgh launch, AT&T's 1922 network, spread to the BBC, Australia and Canada, household adoption, and the FM versus AM frequency bands.",
+      "topics": [
+        "AM radio history",
+        "KDKA Pittsburgh",
+        "radio networks",
+        "Marconi",
+        "FM versus AM"
+      ]
+    },
+    {
+      "start": "00:15:11",
+      "end": "00:22:40",
+      "kind": "content",
+      "title": "Golden age of radio programming",
+      "summary": "Early radio programming including sports broadcasts, presidential addresses, FDR's fireside chats, soap operas sponsored by cleaning companies, Guiding Light, religious evangelists, Edgar Bergen and Charlie McCarthy, and the 1962 cancellations of Johnny Dollar and Suspense as the end of the golden age.",
+      "topics": [
+        "golden age of radio",
+        "radio soap operas",
+        "fireside chats",
+        "evangelists on radio",
+        "Johnny Dollar",
+        "Suspense"
+      ]
+    },
+    {
+      "start": "00:22:40",
+      "end": "00:25:28",
+      "kind": "content",
+      "title": "Public good and the fairness doctrine",
+      "summary": "Government early role in radio for public information, USDA radio service and home economics programs, and the fairness doctrine requiring equal time on political matters and preventing commercial interests from overriding public service.",
+      "topics": [
+        "fairness doctrine",
+        "public good broadcasting",
+        "government regulation of radio"
+      ]
+    },
+    {
+      "start": "00:25:28",
+      "end": "00:29:19",
+      "kind": "content",
+      "title": "FM growth, talk radio and clear channels",
+      "summary": "The fairness doctrine's end as FM grew, the rise of talk radio in the 1980s, AM nighttime signal limits and sign-offs, skywave propagation via the ionosphere, and clear channel stations that broadcast 24 hours and serve as a national alert system.",
+      "topics": [
+        "talk radio",
+        "ionosphere skywave",
+        "clear channel stations",
+        "AM nighttime broadcasting"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:34:27",
+      "kind": "content",
+      "title": "Top 40, DJs and the rise of music on AM",
+      "summary": "Top 40 format developed on AM by Todd Storz in Nebraska in the early 1950s, the rise of DJ personalities such as Wolfman Jack and the Big Bopper, and the move of older listeners to TV leaving AM to young listeners, plus transistor and car radios.",
+      "topics": [
+        "Top 40 radio",
+        "DJ personalities",
+        "Todd Storz",
+        "transistor radio",
+        "car radio"
+      ]
+    },
+    {
+      "start": "00:34:27",
+      "end": "00:40:18",
+      "kind": "content",
+      "title": "Yacht rock and Mellow Gold",
+      "summary": "AM's 1970s and early 1980s yacht rock and Mellow Gold era, sad-sack songs, hidden meanings in lyrics, the yacht rock documentary and the term's origin, and discussion of songs by Christopher Cross and Rupert Holmes.",
+      "topics": [
+        "yacht rock",
+        "Mellow Gold",
+        "easy listening",
+        "Christopher Cross",
+        "Rupert Holmes"
+      ]
+    },
+    {
+      "start": "00:40:18",
+      "end": "00:45:15",
+      "kind": "content",
+      "title": "AM radio in electric vehicles and the AM Radio for Every Vehicle Act",
+      "summary": "Automakers including Tesla dropping AM radio in EVs due to electrical interference, the government's emergency alert rationale, crystal radios, car makers' positions, and the AM Radio for Every Vehicle Act failing in 2024 and being reintroduced in 2025.",
+      "topics": [
+        "AM radio in EVs",
+        "AM Radio for Every Vehicle Act",
+        "emergency alert system",
+        "automakers AM radio",
+        "crystal radio"
+      ]
+    },
+    {
+      "start": "00:45:15",
+      "end": "00:48:17",
+      "kind": "listener_mail",
+      "title": "Listener mail from Kara",
+      "summary": "Kara writes about listening since 2008 during high school illness, seeing the show live in Boston, and catching up on episodes; hosts thank her and invite listener mail.",
+      "topics": [
+        "listener mail",
+        "listener feedback"
+      ]
+    },
+    {
+      "start": "00:48:17",
+      "end": "00:48:50",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and iHeartRadio production note.",
+      "topics": [
+        "outro"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18703,
+    "output_tokens": 2846
+  }
+}

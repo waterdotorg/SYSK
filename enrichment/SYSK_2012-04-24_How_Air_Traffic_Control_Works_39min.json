@@ -1,0 +1,220 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-04-24_How_Air_Traffic_Control_Works_39min.txt",
+  "title": "How Air Traffic Control Works",
+  "date": "2012-04-24",
+  "duration": "39 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-air-traffic-control-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6aab3547-1918-4b18-a688-ae2800a8cb9b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6aab3547-1918-4b18-a688-ae2800a8cb9b/transcript?format=TextWithTimestamps&t=1700543921",
+  "summary": "Josh and Chuck explain how air traffic control works, following a flight from pre-flight planning through takeoff, en route cruising, descent, approach, and landing. They cover the FAA's airspace structure (Air Traffic Control System Command Center, Air Route Traffic Control Centers, TRACONs, control towers, flight service stations), the controller roles (clearance delivery, ground, local, departure, radar, radar associate, radar handoff), flight progress strips, transponders, corridors, and holding patterns. They also discuss how to become a controller (FAA hiring, Oklahoma City training, pay), the 1981 PATCO strike and Reagan firings, and a 2011 incident at Reagan National where a sleeping controller left the tower unattended. The episode opens with banter on movies, peanut allergies on flights, and a listener mail segment about Michael Moore's tipping habits.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "air traffic control",
+    "air traffic controllers",
+    "FAA",
+    "TRACON",
+    "air route traffic control center",
+    "control tower",
+    "flight progress strip",
+    "transponder",
+    "flight plan",
+    "airspace",
+    "holding pattern",
+    "ground controller",
+    "local controller",
+    "radar controller",
+    "PATCO strike",
+    "Reagan fires air traffic controllers",
+    "Reagan National Airport controller asleep",
+    "becoming an air traffic controller",
+    "flight phases",
+    "Oklahoma City FAA training",
+    "instrument flight rules",
+    "visual flight rules",
+    "flight service station",
+    "air traffic controller stress"
+  ],
+  "entities": [
+    {
+      "name": "Federal Aviation Administration",
+      "type": "organization"
+    },
+    {
+      "name": "Air Traffic Control System Command Center",
+      "type": "organization"
+    },
+    {
+      "name": "Reagan National Airport",
+      "type": "place"
+    },
+    {
+      "name": "Hartsfield-Jackson Atlanta International Airport",
+      "type": "place"
+    },
+    {
+      "name": "PATCO strike",
+      "type": "event"
+    },
+    {
+      "name": "Ronald Reagan",
+      "type": "person"
+    },
+    {
+      "name": "Michael Moore",
+      "type": "person"
+    },
+    {
+      "name": "Tech Stuff",
+      "type": "work"
+    },
+    {
+      "name": "Pushing Tin",
+      "type": "work"
+    },
+    {
+      "name": "Airplane!",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter: movies, David Foster Wallace, and Reagan National",
+      "summary": "Josh and Chuck chat about air traffic control movies, a David Foster Wallace comment, and a sick trip home from Reagan National. They mention a 2011 night when a controller at Reagan National fell asleep and two planes landed with help from TRACON.",
+      "topics": [
+        "air traffic control movies",
+        "Reagan National Airport controller asleep",
+        "TRACON assistance"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:00",
+      "kind": "intro",
+      "title": "Peanut allergies on flights and the premise",
+      "summary": "The hosts discuss airlines banning peanuts for passengers with severe allergies, and set up the episode on how air traffic control works. They also mention a figure of about fifty thousand aircraft in US airspace daily.",
+      "topics": [
+        "peanut allergy airline policy",
+        "air traffic volume"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "US airspace structure and control facilities",
+      "summary": "The hosts explain the FAA's airspace divisions: twenty-one air route centers, the Air Traffic Control System Command Center, air route traffic control centers, TRACONs roughly fifty miles in diameter, and airport control towers. Flight service stations serve private pilots under visual and instrument flight rules.",
+      "topics": [
+        "airspace",
+        "TRACON",
+        "air route traffic control centers",
+        "control tower",
+        "flight service station",
+        "visual flight rules",
+        "instrument flight rules"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Phases of a flight and pre-flight planning",
+      "summary": "The hosts walk through the phases of a flight: pre-flight, takeoff, departure, en route, descent, approach, and landing. They describe the flight plan's contents (airline, aircraft, altitude, speed, route) and the flight data person who prints the flight progress strip.",
+      "topics": [
+        "flight plan",
+        "flight phases",
+        "flight progress strip",
+        "pre-flight",
+        "descent"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Ground, local, departure, and en route controllers",
+      "summary": "The ground controller handles taxiing and uses binoculars, the local controller clears takeoff and landing, and departure controllers at TRACON maintain spacing. The hosts describe transponders as the radar blip identifying each plane, and how control passes from one center to the next with updated strips. Corridors and arrival lines into Hartsfield are described.",
+      "topics": [
+        "ground controller",
+        "local controller",
+        "departure controller",
+        "transponder",
+        "arrival corridors",
+        "handoff between controllers",
+        "Hartsfield airport"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Radar controller team, approach, and holding patterns",
+      "summary": "The hosts describe the radar controller, radar associate, and radar handoff controller working together in en route centers. They explain how controllers bring planes in about 150 miles out, the holding pattern when airports are congested, and the final handoff to the local controller and then the ground controller to the gate.",
+      "topics": [
+        "radar controller",
+        "radar associate controller",
+        "radar handoff controller",
+        "holding pattern",
+        "approach control",
+        "landing sequence"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Becoming a controller, pay, and the 1981 PATCO strike",
+      "summary": "The hosts describe FAA hiring through the federal civil service, a timed exam, and training in Oklahoma City, with pay and shift lengths. They recount the August strike by air traffic controllers over wages and shift hours, Reagan's order to return to work, the firing of about eleven thousand controllers, and the lifetime federal ban that Clinton later rescinded.",
+      "topics": [
+        "becoming an air traffic controller",
+        "FAA hiring",
+        "controller pay",
+        "PATCO strike",
+        "Reagan fires air traffic controllers",
+        "controller shifts"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:38:30",
+      "kind": "content",
+      "title": "Most stressful jobs list",
+      "summary": "The hosts briefly go through a list of the twelve most stressful jobs, noting air traffic control is absent from the top ten. Entries include cab driver, photojournalist, and enlisted soldier at number one.",
+      "topics": [
+        "stressful jobs",
+        "job stress rankings"
+      ]
+    },
+    {
+      "start": "00:38:30",
+      "end": "00:39:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Michael Moore tipping",
+      "summary": "A listener reports that Michael Moore responded on Twitter to a claim that he is a bad tipper, saying he always tips between twenty percent and that he had collected much fiction about himself. The hosts say they cannot settle the question.",
+      "topics": [
+        "Michael Moore tipping",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:39:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts mention the companion Tech Stuff episode, social media and email contact, and the new video podcast Stuff from the Future.",
+      "topics": [
+        "show contact",
+        "companion episode"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13465,
+    "output_tokens": 2653
+  }
+}

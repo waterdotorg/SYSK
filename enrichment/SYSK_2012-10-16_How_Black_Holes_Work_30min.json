@@ -1,0 +1,245 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-10-16_How_Black_Holes_Work_30min.txt",
+  "title": "How Black Holes Work",
+  "date": "2012-10-16",
+  "duration": "30 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-black-holes-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a97f3024-0549-4ffe-a1fa-ae2800a4c8d6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a97f3024-0549-4ffe-a1fa-ae2800a4c8d6/transcript?format=TextWithTimestamps&t=1700543913",
+  "summary": "Josh and Chuck explain black holes: how they form when massive stars collapse (supernova or quiet collapse), the event horizon and singularity, stellar versus supermassive black holes, how gravity bends space and time, Schwarzschild and Kerr (rotating) types, the ergosphere, and how astronomers detect them indirectly through orbital motion, gravitational lensing, X-ray emission from accretion, and jets. They also cover Hawking evaporation, the quantum gravity problem, and a listener email about nuclear explosions in space.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "black holes",
+    "how black holes work",
+    "event horizon",
+    "singularity",
+    "stellar black holes",
+    "supermassive black holes",
+    "supernova",
+    "stellar collapse",
+    "gravity",
+    "spacetime",
+    "Schwarzschild black hole",
+    "Kerr black hole",
+    "ergosphere",
+    "spaghettification",
+    "gravitational lensing",
+    "accretion disk",
+    "black hole jets",
+    "Hawking radiation",
+    "quantum gravity",
+    "Kepler's third law",
+    "Pierre-Simon Laplace",
+    "Einstein general relativity",
+    "listener mail",
+    "nuclear explosions in space"
+  ],
+  "entities": [
+    {
+      "name": "Pierre-Simon Laplace",
+      "type": "person"
+    },
+    {
+      "name": "Karl Schwarzschild",
+      "type": "person"
+    },
+    {
+      "name": "Albert Einstein",
+      "type": "person"
+    },
+    {
+      "name": "Stephen Hawking",
+      "type": "person"
+    },
+    {
+      "name": "Morgan Freeman",
+      "type": "person"
+    },
+    {
+      "name": "Michio Kaku",
+      "type": "person"
+    },
+    {
+      "name": "Sam Neill",
+      "type": "person"
+    },
+    {
+      "name": "Milky Way",
+      "type": "place"
+    },
+    {
+      "name": "Hubble site",
+      "type": "organization"
+    },
+    {
+      "name": "Through the Wormhole",
+      "type": "work"
+    },
+    {
+      "name": "The Man Who Folded Himself",
+      "type": "work"
+    },
+    {
+      "name": "The Hunger Games",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the question of seeing black holes",
+      "summary": "Hosts joke about the show's name and a YouTube series, then introduce the idea that black holes are invisible and that empiricism questions whether they can be known.",
+      "topics": [
+        "empiricism",
+        "black holes detection",
+        "show banter"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "History of prediction and definition of a black hole",
+      "summary": "Pierre-Simon Laplace calculated using Newtonian gravity that a compressed object could have escape velocity above light speed, long before Einstein. A black hole is what remains after a massive star collapses, via supernova or a quieter collapse.",
+      "topics": [
+        "Pierre-Simon Laplace",
+        "black hole history",
+        "escape velocity",
+        "supernova",
+        "stellar collapse"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "How stars balance fuel burning against gravity",
+      "summary": "A star is a fusion reactor where nuclear explosions push outward against gravity pulling inward. When fuel runs out, gravity wins and compresses the core, which becomes a very dense, small object with strong gravity that can sink into spacetime.",
+      "topics": [
+        "star fusion",
+        "gravity versus fusion",
+        "core collapse",
+        "event horizon",
+        "fabric of spacetime"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Event horizon, orbits, and black hole movement",
+      "summary": "The event horizon is the boundary that swallows anything crossing it, though objects outside can orbit safely. Black holes can move through space, and they come in stellar (about 10 to 24 solar masses) and supermassive (millions to billions of solar masses) forms, with a supermassive one likely at the center of galaxies including the Milky Way.",
+      "topics": [
+        "event horizon",
+        "stellar black holes",
+        "supermassive black holes",
+        "orbits around black holes",
+        "Milky Way black hole"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Time dilation near black holes and the Schwarzschild radius",
+      "summary": "Strong gravity bends spacetime and slows time near the event horizon. The Schwarzschild radius marks the event horizon size, named after Karl Schwarzschild; hosts estimate Earth would need to shrink to about marble size to become a black hole.",
+      "topics": [
+        "time dilation",
+        "Schwarzschild radius",
+        "Karl Schwarzschild",
+        "gravity and time",
+        "event horizon size"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Origin of supermassive black holes and rotating types",
+      "summary": "Discussion of how stellar black holes could merge or collide to form supermassive ones, and of Kerr rotating black holes versus Schwarzschild non-rotating ones, including the ergosphere and static limit and claims about singularities in rotating black holes and wormhole speculation.",
+      "topics": [
+        "supermassive black hole formation",
+        "Kerr black hole",
+        "ergosphere",
+        "static limit",
+        "singularity",
+        "spaghettification",
+        "wormhole speculation"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Detecting black holes indirectly",
+      "summary": "Black holes are detected through the motion of nearby objects (Kepler's third law and mass estimates), gravitational lensing confirmed in a solar eclipse test of Einstein's general relativity, brightening of stars from lensing, and X-rays from accretion and jets.",
+      "topics": [
+        "black hole detection",
+        "Kepler's third law",
+        "gravitational lensing",
+        "Einstein general relativity test",
+        "accretion X-rays",
+        "black hole jets"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Black hole lifespan, size, and unsolved questions",
+      "summary": "Hawking showed black holes slowly evaporate, rather than lasting forever. Event horizon sizes range from about six miles to the size of the solar system. Inside a black hole is unknown; quantum gravity is an unsolved problem in physics.",
+      "topics": [
+        "Hawking evaporation",
+        "black hole size",
+        "quantum gravity",
+        "singularity interior",
+        "unsolved physics"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Hubble site resource and book recommendation",
+      "summary": "Hosts recommend Hubble site's black hole resources and discuss the novel The Man Who Folded Himself, along with brief talk of The Hunger Games.",
+      "topics": [
+        "Hubble site",
+        "The Man Who Folded Himself",
+        "book recommendation",
+        "The Hunger Games"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on nukes in space",
+      "summary": "Mark from New Jersey writes that Michio Kaku said nuclear weapons do not work in space because there are no atoms to transfer energy, and the hosts discuss nuclear testing in space.",
+      "topics": [
+        "listener mail",
+        "nuclear weapons in space",
+        "Michio Kaku"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:48:00",
+      "kind": "outro",
+      "title": "Sign-off and contact information",
+      "summary": "Hosts invite listeners to share their own smart stories and give social media and email contacts.",
+      "topics": [
+        "contact information",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10451,
+    "output_tokens": 2653
+  }
+}

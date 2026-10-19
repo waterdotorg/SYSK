@@ -1,0 +1,268 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2014-10-14_Virus_Talk_with_Josh_and_Chuck_32min.txt",
+  "title": "Virus Talk with Josh and Chuck",
+  "date": "2014-10-14",
+  "duration": "32 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/virus-talk-with-josh-and-chuck",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/18a0cdd8-bf20-429a-8b17-ae280093d20f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/18a0cdd8-bf20-429a-8b17-ae280093d20f/transcript?format=TextWithTimestamps&t=1700543874",
+  "summary": "Josh and Chuck, with Josh sick with a sinus infection, explain what viruses are and how they work. They cover whether viruses are alive, their size and structure (virion, capsid, envelope, DNA or RNA), how they hijack host cells, retroviruses and latency, how colds and flu spread and how long people are contagious, fever as an immune defense, HIV and herpes, and prevention tips such as handwashing and not sharing bodily fluids. They note antibiotics do not treat viral infections, and that mucus color does not reveal the type of infection. The episode closes with a listener email about churchyard burials during the plague and the Black Death, which was bacterial.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "viruses",
+    "virus biology",
+    "are viruses alive",
+    "virion",
+    "capsid",
+    "enveloped virus",
+    "naked virus",
+    "retrovirus",
+    "viral infection",
+    "host cell hijacking",
+    "viral replication",
+    "common cold",
+    "flu",
+    "sinus infection",
+    "contagious period",
+    "fever and immune response",
+    "latent virus",
+    "HIV",
+    "herpes",
+    "antibiotics and viruses",
+    "handwashing and soap",
+    "vaccines",
+    "mucus color myth",
+    "Ebola",
+    "listener mail",
+    "Black Death plague"
+  ],
+  "entities": [
+    {
+      "name": "Ebola",
+      "type": "other"
+    },
+    {
+      "name": "HIV",
+      "type": "other"
+    },
+    {
+      "name": "herpes",
+      "type": "other"
+    },
+    {
+      "name": "Black Death",
+      "type": "event"
+    },
+    {
+      "name": "Necropolis",
+      "type": "work"
+    },
+    {
+      "name": "Don't Be Dumb",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Josh's illness",
+      "summary": "Josh and Chuck joke about Josh's stuffy nose and sickness, and mention past episodes on Ebola and HIV. They introduce viruses as operating between living and nonliving.",
+      "topics": [
+        "viruses",
+        "Ebola",
+        "HIV"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Are viruses alive?",
+      "summary": "The hosts discuss the debate over whether viruses are living. They explain that cells are the smallest living units and that viruses cannot sustain or reproduce themselves on their own. They also cover theories of origin, including that viruses may be former cell fragments.",
+      "topics": [
+        "are viruses alive",
+        "virus origin theories",
+        "cells as living organisms"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Virus size, structure and virion",
+      "summary": "Viruses are about a millionth of an inch long and smaller than bacteria. A virion is an individual viral particle made of nucleic acid (DNA or RNA) inside a protein capsid, sometimes with a lipid envelope. Shapes include helical, polyhedral and complex.",
+      "topics": [
+        "virion",
+        "capsid",
+        "enveloped virus",
+        "naked virus",
+        "virus shapes",
+        "DNA or RNA virus"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:30",
+      "kind": "content",
+      "title": "How viruses enter and hijack cells",
+      "summary": "Viruses attach to host cells using matching proteins and either inject genetic material or enter as a whole particle. Inside, they take over the cell's enzymes and machinery to make more viruses, described as a hostile takeover.",
+      "topics": [
+        "host cell hijacking",
+        "viral entry",
+        "viral replication",
+        "enzymes"
+      ]
+    },
+    {
+      "start": "00:17:30",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Retroviruses and how new viruses leave the cell",
+      "summary": "Retroviruses insert their genetic material into the host cell's DNA and can stay quiet. Naked viruses burst out and destroy the cell, while enveloped viruses bud off with the cell membrane. HIV and flu are mentioned as retroviruses, and the hosts note the retrovirus mention of flu is uncertain.",
+      "topics": [
+        "retrovirus",
+        "budding",
+        "cell rupture",
+        "HIV",
+        "flu"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Josh's cold, sinus infection and how colds spread",
+      "summary": "Josh describes his symptoms and the hosts discuss how a virus is inhaled or enters through broken skin, attacks nasal and throat cells, and causes runny nose, sore throat and aches. Cell damage and inflammation are described as the cause of symptoms.",
+      "topics": [
+        "common cold",
+        "sinus infection",
+        "runny nose",
+        "sore throat",
+        "viral symptoms",
+        "body aches"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "When you are contagious",
+      "summary": "People are contagious about a day before symptoms appear. Colds are contagious from a day before symptoms to about four days after, and flu from a day before to five to seven days after. People often think they are no longer contagious too early.",
+      "topics": [
+        "contagious period",
+        "flu",
+        "common cold",
+        "shedding virus"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:33:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "A break in the episode, with no sponsor content described in the transcript.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Fever as immune defense",
+      "summary": "The hosts explain that fever slows body processes, including viral spread, and that some viruses such as Ebola and HIV attack immune cells. Normal body temperature is discussed, and the 98.6 figure is said to be an average that has been questioned.",
+      "topics": [
+        "fever",
+        "immune response",
+        "body temperature 98.6",
+        "Ebola",
+        "HIV T cells"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Latency, herpes and HIV sleeping viruses",
+      "summary": "Some viruses, including HIV and herpes simplex, can lie dormant for years and flare up with triggers such as stress or UV light. Latent viral DNA can be copied as the host cell divides, so many cells can later produce viruses at once.",
+      "topics": [
+        "latent virus",
+        "herpes simplex",
+        "HIV latency",
+        "viral triggers",
+        "stress and virus reactivation"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "How viruses spread and prevention",
+      "summary": "Viruses spread by carrier organisms such as mosquitoes and fleas, through the air, through bodily fluids, and via contaminated surfaces where flu virus can survive for days. The hosts recommend frequent handwashing, explaining soap binds germs so rinsing removes them, and covering coughs and sneezes.",
+      "topics": [
+        "virus transmission",
+        "handwashing and soap",
+        "airborne viruses",
+        "bodily fluids",
+        "prevention"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:55:00",
+      "kind": "content",
+      "title": "Antibiotics, virus age and vaccines",
+      "summary": "Antibiotics do not treat viral infections. Older viruses tend to cause less harm, and humans carry fossilized viral DNA from ancient retroviruses. Vaccines pre-expose the body to a virus, and viruses change enough that vaccines must be updated.",
+      "topics": [
+        "antibiotics and viruses",
+        "virus evolution",
+        "vaccines",
+        "endogenous retroviruses"
+      ]
+    },
+    {
+      "start": "00:55:00",
+      "end": "00:57:00",
+      "kind": "content",
+      "title": "Mucus color myth",
+      "summary": "The hosts address the belief that mucus color reveals whether an infection is viral or bacterial, and say that is not true.",
+      "topics": [
+        "mucus color myth",
+        "bacterial vs viral infection"
+      ]
+    },
+    {
+      "start": "00:57:00",
+      "end": "01:04:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Headstones",
+      "summary": "Listener George Gilbert writes that churchyard burials began because churches sold burial spots inside and near walls, and that burials moved outside during the plague. The hosts note the plague was bacterial, not viral.",
+      "topics": [
+        "listener mail",
+        "churchyard burial",
+        "plague",
+        "Black Death",
+        "Necropolis"
+      ]
+    },
+    {
+      "start": "01:04:00",
+      "end": "01:05:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts explain how to send listener mail and point listeners to the show's website.",
+      "topics": [
+        "show information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11028,
+    "output_tokens": 2978
+  }
+}

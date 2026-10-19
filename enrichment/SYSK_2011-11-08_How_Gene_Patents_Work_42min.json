@@ -1,0 +1,264 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2011-11-08_How_Gene_Patents_Work_42min.txt",
+  "title": "How Gene Patents Work",
+  "date": "2011-11-08",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-gene-patents-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/771c403f-a3ab-4dcd-84f7-ae2800ac248e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/771c403f-a3ab-4dcd-84f7-ae2800ac248e/transcript?format=TextWithTimestamps&t=1700543931",
+  "summary": "Josh and Chuck explain gene patents: the history of patent rulings on natural products and living things (Telegraph electromagnetism, adrenaline, bacteria cases, the Plant Patent Act of 1930, Diamond v. Chakrabarty), the 1980s human growth hormone and insulin patents, the late-1990s genome-mapping rush and the 2001 USPTO guidelines, patent criteria (useful, non-obvious, novel, enablement), the four categories of gene patents (diagnostics, functional, process, composition of matter), the Myriad Genetics BRCA1/BRCA2 controversy, ethical and economic arguments for and against, and Monsanto's terminator seed technology. The episode opens with banter about the hosts' travel and a Facebook contest, and closes with a listener mail segment about Turkey and a sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "gene patents",
+    "gene patenting",
+    "patent law",
+    "human growth hormone",
+    "cadaver pituitary extraction",
+    "insulin patent",
+    "Diamond v. Chakrabarty",
+    "Plant Patent Act",
+    "Myriad Genetics",
+    "BRCA1 BRCA2 patent",
+    "breast cancer gene test",
+    "Monsanto terminator technology",
+    "genetic use restriction technology",
+    "human genome project patents",
+    "patentable subject matter",
+    "composition of matter",
+    "Budapest Treaty culture depositories",
+    "patent trolls",
+    "biotech ethics",
+    "first to invent principle",
+    "USPTO 2001 gene patent guidelines",
+    "Alexander Graham Bell Elisha Gray",
+    "Luther Burbank"
+  ],
+  "entities": [
+    {
+      "name": "Myriad Genetics",
+      "type": "organization"
+    },
+    {
+      "name": "Monsanto",
+      "type": "organization"
+    },
+    {
+      "name": "Novo Nordisk",
+      "type": "organization"
+    },
+    {
+      "name": "Diamond v. Chakrabarty",
+      "type": "event"
+    },
+    {
+      "name": "Ananda Chakrabarty",
+      "type": "person"
+    },
+    {
+      "name": "Luther Burbank",
+      "type": "person"
+    },
+    {
+      "name": "Robert Morse",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Graham Bell",
+      "type": "person"
+    },
+    {
+      "name": "Elisha Gray",
+      "type": "person"
+    },
+    {
+      "name": "Warren Burger",
+      "type": "person"
+    },
+    {
+      "name": "Plant Patent Act",
+      "type": "work"
+    },
+    {
+      "name": "Budapest Treaty",
+      "type": "work"
+    },
+    {
+      "name": "The Corporation",
+      "type": "work"
+    },
+    {
+      "name": "American Medical Association",
+      "type": "organization"
+    },
+    {
+      "name": "United States Patent and Trademark Office",
+      "type": "organization"
+    },
+    {
+      "name": "Pandora radio",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter",
+      "summary": "Josh and Chuck chat about their weekend travel plans, a friends' wedding in New York, and a Facebook contest that helped the friends win a wedding prize.",
+      "topics": [
+        "podcast banter",
+        "Facebook contest"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Growth hormone history and cadaver extraction",
+      "summary": "The hosts introduce growth hormone deficiency, explaining that growth hormone was once extracted from cadaver pituitary glands at high cost, until Novo Nordisk's recombinant product, nano one, was patented in 1982 after being created in 1973.",
+      "topics": [
+        "human growth hormone",
+        "growth hormone deficiency",
+        "cadaver pituitary extraction",
+        "Novo Nordisk"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Early US patent rulings on natural things",
+      "summary": "A history of court rulings: Robert Morse's telegraph patent was initially denied because it involved electromagnetism, a principle of nature; a 1912 ruling allowed patenting a distilled adrenaline; a post-World War Two Supreme Court ruling denied a patent on a bacteria mixture not found in nature.",
+      "topics": [
+        "patentable subject matter",
+        "natural products patent",
+        "Robert Morse telegraph patent",
+        "adrenaline patent",
+        "product of nature doctrine"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Plant Patent Act and Luther Burbank",
+      "summary": "The Plant Patent Act of 1930 allowed patents on plants, credited to botanist Luther Burbank, who created more than 800 strains and varieties; bacteria remained excluded under traditional rulings. A 1970 Plant Protection Act also allowed plant patents.",
+      "topics": [
+        "Plant Patent Act",
+        "Luther Burbank",
+        "plant patents",
+        "Plant Protection Act 1970"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Diamond v. Chakrabarty and composition of matter",
+      "summary": "Ananda Chakrabarty, who worked for GE, developed a bacterium that breaks down crude oil. After appeals, the Supreme Court in 1980 ruled under the phrase composition of matter that the living bacterium could be patented, a decision that changed patent law.",
+      "topics": [
+        "Diamond v. Chakrabarty",
+        "Ananda Chakrabarty",
+        "composition of matter",
+        "oil-eating bacteria",
+        "Supreme Court 1980"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "First gene patents and the genome rush",
+      "summary": "The first gene patent was issued to the University of California within two years, followed by insulin in the same year. In the late 1990s, as the human genome was nearly mapped, a flood of patent applications arrived; in 2001 the USPTO issued guidelines requiring applicants to know what a gene does or to have a process using it.",
+      "topics": [
+        "first gene patent",
+        "human genome project",
+        "USPTO 2001 guidelines",
+        "patent rush",
+        "insulin patent"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Patent criteria and the first-to-invent rule",
+      "summary": "The hosts explain patent criteria: useful, non-obvious, novel, and enablement. They describe the twenty-year exclusivity granted in exchange for disclosure, the first-to-invent principle, and the Budapest Treaty culture depositories where biological samples must be filed. They also mention Elisha Gray and Alexander Graham Bell as a telephone priority dispute.",
+      "topics": [
+        "patent requirements",
+        "enablement",
+        "non-obvious",
+        "first to invent",
+        "twenty year exclusivity",
+        "Budapest Treaty",
+        "culture depositories",
+        "Alexander Graham Bell Elisha Gray"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Four categories of gene patents",
+      "summary": "Gene patents break down into four categories: diagnostics (testing for mutations and markers), functional (roles genes play, leading to genetically tailored drugs), process (methods of extracting or manipulating genes), and composition of matter (products like insulin and human growth hormone). Diagnostics and composition of matter are the most controversial.",
+      "topics": [
+        "diagnostic gene patents",
+        "functional gene patents",
+        "process patents",
+        "composition of matter",
+        "genetically tailored drugs",
+        "pharmacogenomics"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Myriad Genetics BRCA patents and ethical debate",
+      "summary": "Myriad Genetics patented BRCA1 and BRCA2 breast and ovarian cancer screening, then sent letters to cancer labs demanding payment. Canada and Europe largely ignored the patents, while US courts went back and forth, with the Federal Circuit reversing a 2010 district court decision in 2011. The hosts then discuss the ethical and economic arguments: incentives for research versus monopoly pricing and access, with the AMA opposing the patents.",
+      "topics": [
+        "Myriad Genetics",
+        "BRCA1 BRCA2",
+        "breast cancer gene test",
+        "gene patent lawsuit",
+        "Federal Circuit",
+        "AMA opposition",
+        "patent ethics",
+        "monopoly pricing"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:41:30",
+      "kind": "content",
+      "title": "Monsanto terminator seed technology",
+      "summary": "Monsanto's genetic use restriction technology, known as terminator technology, makes seeds sterile so farmers must buy new seed each year. The hosts note Monsanto vowed not to release it commercially but its contracts restrict seed reuse, and it acquired Delta and Pine Land Company.",
+      "topics": [
+        "Monsanto",
+        "terminator technology",
+        "genetic use restriction technology",
+        "seed patents",
+        "Delta and Pine Land"
+      ]
+    },
+    {
+      "start": "00:41:30",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts recommend further reading and the documentary The Corporation, and give contact information.",
+      "topics": [
+        "The Corporation documentary",
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13741,
+    "output_tokens": 3205
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-02-06_Short_Stuff_Ellen_Richards_12min.txt",
+  "title": "Short Stuff: Ellen Richards",
+  "date": "2019-02-06",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-ellen-richards",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e87289c1-223f-49b2-9ba5-ae2800521c7b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e87289c1-223f-49b2-9ba5-ae2800521c7b/transcript?format=TextWithTimestamps&t=1700543706",
+  "summary": "Short Stuff episode on Ellen Henrietta Swallow Richards, the American chemist who was among the first female chemists in the US and the first woman admitted to MIT's science program. The hosts frame her story within the Matilda effect, the long-standing pattern of women's scientific work being overlooked or credited to men, a term coined by historian Margaret Rossiter after abolitionist Matilda Joslyn Gage. Richards founded the field of \"oekology\" (ecology) in the 1870s, which MIT then told her to stop discussing, so she turned to domestic science (home economics), bringing sanitary and science-based household practices into the home. The hosts describe her advocacy for college education for women, a free chemistry lab she taught for women at MIT, and her relative obscurity today.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Ellen Richards",
+    "Ellen Swallow Richards",
+    "Matilda effect",
+    "women in science",
+    "undersung women in history",
+    "Margaret Rossiter",
+    "Matilda Joslyn Gage",
+    "MIT",
+    "Massachusetts Institute of Technology",
+    "women in chemistry",
+    "oekology",
+    "ecology history",
+    "domestic science",
+    "home economics",
+    "homeck",
+    "sanitary chemistry",
+    "water quality",
+    "Vassar College",
+    "women's college education",
+    "proto feminism",
+    "Flint Michigan water crisis"
+  ],
+  "entities": [
+    {
+      "name": "Ellen Henrietta Swallow Richards",
+      "type": "person"
+    },
+    {
+      "name": "Matilda Joslyn Gage",
+      "type": "person"
+    },
+    {
+      "name": "Margaret Rossiter",
+      "type": "person"
+    },
+    {
+      "name": "Mary Curie",
+      "type": "person"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "type": "organization"
+    },
+    {
+      "name": "Vassar College",
+      "type": "organization"
+    },
+    {
+      "name": "Matilda effect",
+      "type": "event"
+    },
+    {
+      "name": "domestic science",
+      "type": "other"
+    },
+    {
+      "name": "oekology",
+      "type": "other"
+    },
+    {
+      "name": "Flint, Michigan",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and the Matilda effect",
+      "summary": "The hosts introduce the episode about undersung women in science and explain the Matilda effect, the pattern of women's work being overlooked or credited to men, citing studies on journal review and abstract quality.",
+      "topics": [
+        "Matilda effect",
+        "women in science",
+        "undersung women in history",
+        "gender bias in peer review"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Ellen Richards's education and early career",
+      "summary": "Richards was the first woman accepted into MIT's science program, earned a chemistry degree from Vassar in 1870 and an MIT Bachelor of Science in 1873, and began studying pollution and sanitary chemistry.",
+      "topics": [
+        "Ellen Richards",
+        "MIT admission of women",
+        "Vassar College",
+        "sanitary chemistry",
+        "pollution research"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Oekology and MIT's ban",
+      "summary": "Richards founded the field of oekology (ecology), studying how water, air and food affect health. MIT restricted her from discussing it for a year, and the field lasted only about five years in her work.",
+      "topics": [
+        "oekology",
+        "history of ecology",
+        "Ellen Richards",
+        "MIT"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Domestic science and home economics",
+      "summary": "Frustrated, Richards turned to domestic science, applying science-based sanitation, household organization and healthy family practices to the work women already did at home.",
+      "topics": [
+        "domestic science",
+        "home economics",
+        "homeck",
+        "household sanitation"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Advocacy for women and legacy",
+      "summary": "The hosts describe Richards as a proto-feminist who advocated college education for women, ran a free chemistry lab for women at MIT, and remains largely forgotten despite her pioneering water-quality work.",
+      "topics": [
+        "proto feminism",
+        "women's college education",
+        "women's chemistry lab",
+        "Ellen Richards legacy",
+        "water quality"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:10",
+      "kind": "outro",
+      "title": "Closing and sign-off",
+      "summary": "The hosts praise Richards as a top-notch scientist, point listeners to a HowStuffWorks article, and invite emails.",
+      "topics": [
+        "sign-off",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4664,
+    "output_tokens": 1666
+  }
+}

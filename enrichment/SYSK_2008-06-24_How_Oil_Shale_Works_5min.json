@@ -1,0 +1,149 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-24_How_Oil_Shale_Works_5min.txt",
+  "title": "How Oil Shale Works",
+  "date": "2008-06-24",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-oil-shale-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/eb26c31e-7d02-466c-93fa-ae2800c3e567/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eb26c31e-7d02-466c-93fa-ae2800c3e567/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh Clark and Chuck Bryant discuss oil shale as an unconventional oil source. They begin with peak oil and the case for alternative energy, then explain that oil shale is oil trapped in rock that never fully became liquid petroleum. The main problem is extraction: mining the rock leaves huge volumes of waste rock (the hosts cite roughly seven tons of rock per gallon, while noting they are not certain of the exact figure). They describe Shell's in-situ retorting approach, which heats the shale underground with rods so the rock stays in place. They also cover the Green River formation under the western United States, interest in oil shale after the 1973 OPEC embargo, and how interest waned and later revived with higher oil prices. The episode closes with a plug for the How Stuff Works article and listener feedback address. Ad reads appear at the start and end.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "oil shale",
+    "unconventional oil",
+    "peak oil",
+    "in situ retorting",
+    "Shell Oil",
+    "retorting",
+    "Green River formation",
+    "oil embargo 1973",
+    "OPEC",
+    "alternative energy",
+    "non-renewable resources",
+    "oil prices",
+    "shale oil extraction",
+    "spent shale waste rock",
+    "energy independence"
+  ],
+  "entities": [
+    {
+      "name": "Oil shale",
+      "type": "other"
+    },
+    {
+      "name": "Peak oil",
+      "type": "event"
+    },
+    {
+      "name": "Shell Oil Company",
+      "type": "organization"
+    },
+    {
+      "name": "Green River formation",
+      "type": "place"
+    },
+    {
+      "name": "OPEC",
+      "type": "organization"
+    },
+    {
+      "name": "1973 oil embargo",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:00:40",
+      "kind": "ad",
+      "title": "Opening ad read and intro",
+      "summary": "Opening sponsor reads for a camera and an automotive company, followed by the hosts' introduction.",
+      "topics": [
+        "podcast intro"
+      ]
+    },
+    {
+      "start": "00:00:40",
+      "end": "00:01:50",
+      "kind": "content",
+      "title": "Peak oil and the need for alternative energy",
+      "summary": "Josh explains peak oil as the point when oil discovery stops and decline begins, since oil is non-renewable. The hosts discuss the economic dependence on oil and the search for alternatives such as biofuels, wind, solar, and hydrogen.",
+      "topics": [
+        "peak oil",
+        "non-renewable resources",
+        "alternative energy",
+        "oil dependence"
+      ]
+    },
+    {
+      "start": "00:01:50",
+      "end": "00:02:30",
+      "kind": "content",
+      "title": "Conventional versus unconventional oil",
+      "summary": "The hosts distinguish conventional pumped petroleum from unconventional forms, naming oil shale as one of them.",
+      "topics": [
+        "conventional oil",
+        "unconventional oil",
+        "oil shale"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:03:20",
+      "kind": "content",
+      "title": "What oil shale is and the waste rock problem",
+      "summary": "Oil shale is described as oil trapped in rock that never became liquid petroleum. Extracting it requires bringing up large amounts of rock, which is left over as waste, and the hosts say there is no good use for it.",
+      "topics": [
+        "oil shale",
+        "spent shale",
+        "waste rock",
+        "shale oil extraction"
+      ]
+    },
+    {
+      "start": "00:03:20",
+      "end": "00:04:10",
+      "kind": "content",
+      "title": "Shell's in situ retorting method",
+      "summary": "Shell's method heats the shale underground using rods so the rock is not mined, avoiding the costly rock-removal step. Retorting is defined as extracting oil through heat. Shell has projects under way.",
+      "topics": [
+        "in situ retorting",
+        "Shell Oil",
+        "retorting",
+        "oil shale extraction"
+      ]
+    },
+    {
+      "start": "00:04:10",
+      "end": "00:04:45",
+      "kind": "content",
+      "title": "Green River formation and US oil shale interest",
+      "summary": "The Green River formation holds a large oil shale deposit under the western US, near the Four Corners states. Interest rose after the 1973 OPEC oil embargo, waned when prices fell, and is returning as prices rise.",
+      "topics": [
+        "Green River formation",
+        "oil shale reserves",
+        "1973 oil embargo",
+        "OPEC",
+        "oil prices"
+      ]
+    },
+    {
+      "start": "00:04:45",
+      "end": "00:05:00",
+      "kind": "outro",
+      "title": "Sign-off and ad read",
+      "summary": "The hosts point listeners to the How Stuff Works article on oil shale, invite feedback by email, and close with a sponsor read.",
+      "topics": [
+        "podcast outro",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3329,
+    "output_tokens": 1631
+  }
+}

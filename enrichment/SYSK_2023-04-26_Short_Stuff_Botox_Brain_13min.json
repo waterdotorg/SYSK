@@ -1,0 +1,219 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-04-26_Short_Stuff_Botox_Brain_13min.txt",
+  "title": "Short Stuff: Botox Brain",
+  "date": "2023-04-26",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-botox-brain",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a4f67cfb-613c-4064-9936-afef01254c29/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a4f67cfb-613c-4064-9936-afef01254c29/transcript?format=TextWithTimestamps&t=1714092550",
+  "summary": "Short Stuff episode (Josh filling in for Dave Crowder-style sign-off banter) on Botox and the brain. Covers what Botox is (botulinum toxin, made by Clostridium botulinum, the most potent known neurotoxin), its medical history from the 1970s with Dr. Alan B. Scott treating strabismus, its cosmetic use from the 2000s to smooth glabellar wrinkles, and the loss of facial expression it causes. It then explains the facial feedback hypothesis and reports research finding that Botox injections in the glabellar region (between the brows) reduce amygdala activity, alleviating depression symptoms, and possibly borderline personality disorder, confirmed with fMRI scans. A comparison with acupuncture is noted, and the hosts mention Botox for migraines and hopes for coverage for depression, BPD, and anxiety.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "Botox",
+    "botulinum toxin",
+    "Botox brain",
+    "Botox depression treatment",
+    "facial feedback hypothesis",
+    "amygdala",
+    "glabellar region",
+    "glabella wrinkles",
+    "cosmetic Botox",
+    "Clostridium botulinum",
+    "botulism",
+    "borderline personality disorder",
+    "fMRI study",
+    "strabismus",
+    "Alan B. Scott",
+    "migraine treatment",
+    "acupuncture comparison",
+    "facial expression and emotion",
+    "neurotoxin",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Botox",
+      "type": "other"
+    },
+    {
+      "name": "botulinum toxin",
+      "type": "other"
+    },
+    {
+      "name": "Clostridium botulinum",
+      "type": "other"
+    },
+    {
+      "name": "botulism",
+      "type": "event"
+    },
+    {
+      "name": "Alan B. Scott",
+      "type": "person"
+    },
+    {
+      "name": "facial feedback hypothesis",
+      "type": "other"
+    },
+    {
+      "name": "amygdala",
+      "type": "other"
+    },
+    {
+      "name": "strabismus",
+      "type": "other"
+    },
+    {
+      "name": "borderline personality disorder",
+      "type": "other"
+    },
+    {
+      "name": "depression",
+      "type": "other"
+    },
+    {
+      "name": "Insidious",
+      "type": "work"
+    },
+    {
+      "name": "Disport",
+      "type": "other"
+    },
+    {
+      "name": "FDA",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:00:43",
+      "kind": "intro",
+      "title": "Opening banter and introduction",
+      "summary": "Josh introduces the Short Stuff episode, with light jokes about the title, Pinky and the Brain, and Botox in the Brain.",
+      "topics": [
+        "Short Stuff",
+        "episode intro"
+      ]
+    },
+    {
+      "start": "00:00:43",
+      "end": "00:02:20",
+      "kind": "content",
+      "title": "What Botox is and botulism",
+      "summary": "Josh explains that Botox is a brand of botulinum toxin, produced by Clostridium botulinum, which he calls the most potent known neurotoxin. He describes how it blocks acetylcholine release at nerve endings, causing paralysis.",
+      "topics": [
+        "Botox",
+        "botulinum toxin",
+        "botulism",
+        "Clostridium botulinum",
+        "neurotoxin"
+      ]
+    },
+    {
+      "start": "00:02:20",
+      "end": "00:03:25",
+      "kind": "content",
+      "title": "Medical history of Botox",
+      "summary": "Chuck says Botox was used medically starting in the 1970s when Dr. Alan B. Scott proposed treating strabismus, and the FDA agreed. Cosmetic use took off in the 2000s, smoothing forehead wrinkles for about three months.",
+      "topics": [
+        "Botox history",
+        "Alan B. Scott",
+        "strabismus",
+        "cosmetic Botox",
+        "FDA approval"
+      ]
+    },
+    {
+      "start": "00:03:25",
+      "end": "00:05:21",
+      "kind": "content",
+      "title": "Botox and loss of facial expression",
+      "summary": "Josh and Chuck discuss how Botox paralyzes the muscles that form wrinkles, leaving the face unable to show emotion for three to four months, and how this can look creepy.",
+      "topics": [
+        "facial expression",
+        "emotion and face",
+        "Botox side effects",
+        "glabella wrinkles"
+      ]
+    },
+    {
+      "start": "00:05:21",
+      "end": "00:06:41",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "The hosts take a break before the main reveal.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:06:41",
+      "end": "00:08:50",
+      "kind": "content",
+      "title": "Facial feedback hypothesis",
+      "summary": "Chuck explains the facial feedback hypothesis: mimicking others' expressions can shape our moods, and expressions can influence emotions in both directions. Josh notes that people had assumed feelings drive expressions, not the reverse.",
+      "topics": [
+        "facial feedback hypothesis",
+        "mimicry",
+        "emotions and facial expressions"
+      ]
+    },
+    {
+      "start": "00:08:50",
+      "end": "00:11:34",
+      "kind": "content",
+      "title": "Botox as a depression and BPD treatment",
+      "summary": "Patients reported reduced depression after Botox injections in the glabellar region. Researchers linked this to the amygdala, using fMRI scans to show altered amygdala activity in depressed patients and in people with borderline personality disorder. Josh says the indirect action on the amygdala makes it safer than drugs acting directly on it.",
+      "topics": [
+        "Botox depression",
+        "amygdala",
+        "borderline personality disorder",
+        "fMRI study",
+        "glabellar region",
+        "indirect treatment"
+      ]
+    },
+    {
+      "start": "00:11:34",
+      "end": "00:12:31",
+      "kind": "content",
+      "title": "Acupuncture comparison and other uses",
+      "summary": "The hosts note that an acupuncture comparison group improved clinically but did not show the neurological effect seen with Botox. They mention Botox's use for anxiety and migraines, with insurance covering migraine treatment.",
+      "topics": [
+        "acupuncture comparison",
+        "Botox migraine treatment",
+        "anxiety treatment",
+        "insurance coverage"
+      ]
+    },
+    {
+      "start": "00:12:31",
+      "end": "00:12:49",
+      "kind": "content",
+      "title": "Listener tip credit",
+      "summary": "Josh credits his wife for tipping him off to the topic and the hosts sign off the segment.",
+      "topics": [
+        "listener tip"
+      ]
+    },
+    {
+      "start": "00:12:49",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off and credits",
+      "summary": "Chuck closes with the production credit and directs listeners to the iHeartRadio app and podcast platforms.",
+      "topics": [
+        "outro",
+        "iHeartRadio"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5647,
+    "output_tokens": 2278
+  }
+}

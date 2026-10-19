@@ -1,0 +1,293 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2017-10-21_SYSK_Selects_The_Cheesiest_SYSK_Episode_Ever_45min.txt",
+  "title": "SYSK Selects: The Cheesiest SYSK Episode Ever",
+  "date": "2017-10-21",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/sysk-selects-the-cheesiest-sysk-episode-ever",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1a7c564e-593e-4588-af4f-ae28006f4c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1a7c564e-593e-4588-af4f-ae28006f4c00/transcript?format=TextWithTimestamps&t=1700543790",
+  "summary": "SYSK Selects rerun of an August episode about cheese, presented by Chuck as \"the cheesiest SYSK episode ever.\" The hosts open with a 2009-era Telegraph survey ranking cheese creation among top inventions, then cover cheese history (legend of the accidental discovery by a shepherd using a stomach-lined milk bag, Roquefort origins, Egyptian pharaoh tomb cheese), per-capita consumption statistics for the US, Greece, and France, and pasteurization and raw-milk aging rules. They classify cheese (fresh, soft ripened, washed rind, natural rind, blue veined, uncooked/cooked pressed, processed), explain how cheese is made (curdling with lactic acid bacteria, rennet, cutting the curd, draining, salting, ripening, needling blue cheeses), discuss casu marzu, orange cheddar dye history, cheese and wine pairing, cheese storage and cutting tips, and Wisconsin's Swiss cheese history. The episode ends with listener mail about the smell of Spam production in Austin, Minnesota, and an invitation to send cheese or cheese stories.",
+  "episode_kind": "rerun",
+  "rerun_of": "The Cheesiest SYSK Episode Ever",
+  "topics": [
+    "cheese",
+    "cheese history",
+    "cheesemaking",
+    "cheese classification",
+    "rennet",
+    "lactic acid bacteria cultures",
+    "pasteurization",
+    "raw milk cheese",
+    "washed rind cheese",
+    "blue cheese",
+    "casu marzu",
+    "orange cheddar dye",
+    "cheese and wine pairing",
+    "cheese storage",
+    "processed cheese",
+    "Roquefort",
+    "Wisconsin Swiss cheese",
+    "cheese consumption statistics",
+    "Spam",
+    "listener mail",
+    "SYSK Selects"
+  ],
+  "entities": [
+    {
+      "name": "Roquefort",
+      "type": "place"
+    },
+    {
+      "name": "Austin, Minnesota",
+      "type": "place"
+    },
+    {
+      "name": "Wisconsin",
+      "type": "place"
+    },
+    {
+      "name": "Sardinia",
+      "type": "place"
+    },
+    {
+      "name": "Casu marzu",
+      "type": "other"
+    },
+    {
+      "name": "Rennet",
+      "type": "other"
+    },
+    {
+      "name": "Pasteurization",
+      "type": "other"
+    },
+    {
+      "name": "Stilton",
+      "type": "other"
+    },
+    {
+      "name": "Limburger",
+      "type": "other"
+    },
+    {
+      "name": "Monterey Jack",
+      "type": "other"
+    },
+    {
+      "name": "Spam",
+      "type": "work"
+    },
+    {
+      "name": "Hormel Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Kraft",
+      "type": "organization"
+    },
+    {
+      "name": "The Telegraph",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Selects intro and cheese invention survey",
+      "summary": "Chuck introduces the Saturday Selects episode about cheese. The hosts open the show and banter, then discuss a British survey ranking cheese creation among top inventions.",
+      "topics": [
+        "SYSK Selects",
+        "cheese invention survey",
+        "Telegraph survey"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "History of cheese and accidental invention legends",
+      "summary": "The hosts discuss cheese's ancient origins, including the Egyptian pharaoh tomb cheese, the legend of a shepherd discovering cheese in a milk-filled stomach bag, a tale about a moldy lunch in a cave, and the Roquefort origin and PDO protection.",
+      "topics": [
+        "cheese history",
+        "cheese origin legend",
+        "Roquefort",
+        "protected designation of origin",
+        "Egyptian pharaoh cheese"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Cheese consumption statistics",
+      "summary": "The hosts cite American per-capita cheese consumption figures, production totals, and comparisons with Greece and France, which are among the top cheese consumers.",
+      "topics": [
+        "cheese consumption statistics",
+        "per capita cheese",
+        "Greece cheese",
+        "France cheese"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Raw milk, pasteurization, and feta aging rules",
+      "summary": "The hosts explain pasteurization and its purpose, and how US aging rules affect raw-milk cheeses such as feta. They note that pasteurized milk offers more consistent cheesemaking.",
+      "topics": [
+        "pasteurization",
+        "raw milk cheese",
+        "feta",
+        "US cheese aging laws"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Milk composition and cheese as portable milk",
+      "summary": "The hosts describe cheese as a portable form of milk and discuss the Kraft two-cups-of-milk advertising claim and hobbyist cheesemaking.",
+      "topics": [
+        "milk composition",
+        "cheese as preserved milk",
+        "Kraft advertising",
+        "home cheesemaking"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "Cheese classification system",
+      "summary": "The hosts walk through a classification of cheese types drawn from a cheese expert's article: fresh, soft ripened, washed rind, natural rind, blue veined, and pressed cooked or uncooked cheeses, with examples such as feta, mascarpone, ricotta, brie, Limburger, Stilton, cheddar, and parmesan.",
+      "topics": [
+        "cheese classification",
+        "fresh cheese",
+        "soft ripened cheese",
+        "bloomy rind",
+        "washed rind",
+        "natural rind",
+        "blue cheese",
+        "pressed cheese",
+        "cheddar",
+        "Limburger",
+        "Stilton"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Processed cheese and imitation products",
+      "summary": "The hosts explain that processed cheese is not technically cheese and list additives in products such as Easy Cheese and Cheez Whiz, and also mention the variety of milks used.",
+      "topics": [
+        "processed cheese",
+        "Easy Cheese",
+        "Cheez Whiz",
+        "cheese milk types"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:29:30",
+      "kind": "content",
+      "title": "How cheese is made: curdling, rennet, cutting, and draining",
+      "summary": "The hosts explain the main stages of cheesemaking: heating the milk, adding bacteria or acid to convert lactose to lactic acid, adding rennet to form curds from casein, cutting the curd with a harp, and draining the whey.",
+      "topics": [
+        "cheesemaking process",
+        "rennet",
+        "curd and whey",
+        "lactic acid",
+        "vegetarian rennet",
+        "cutting curds"
+      ]
+    },
+    {
+      "start": "00:29:30",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Ripening, salting, needling, and aging",
+      "summary": "The hosts describe how curds are cooked and pressed, how bacteria drive ripening and flavor, why salt is used, and how blue cheeses are needled to admit oxygen for mold growth. They note that aging happens in controlled caves.",
+      "topics": [
+        "cheese ripening",
+        "salting cheese",
+        "needling blue cheese",
+        "cheese caves",
+        "cheese aging"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Casu marzu and maggot cheese",
+      "summary": "The hosts describe casu marzu, an illegal Sardinian sheep's milk cheese in which cheese skipper fly larvae are allowed to infest the cheese, and how it is eaten with the maggots dead or alive.",
+      "topics": [
+        "casu marzu",
+        "Sardinia cheese",
+        "maggot cheese",
+        "cheese skipper fly"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "Cheesy etymology and cutting cheese",
+      "summary": "The hosts discuss the origin of the word cheesy and then give tips on cutting round, wedge, and truckle cheeses.",
+      "topics": [
+        "cheesy etymology",
+        "cutting cheese",
+        "truckle cheese"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Cheese and wine pairing and cheese shopping",
+      "summary": "The hosts offer guidelines for pairing cheese with wine and beer, and advise visiting a cheese monger for samples.",
+      "topics": [
+        "cheese and wine pairing",
+        "cheese and beer pairing",
+        "cheese monger"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:43:30",
+      "kind": "content",
+      "title": "Cheese storage and Wisconsin cheese history",
+      "summary": "The hosts give cheese storage advice from cheese.com and mention the origin of Monterey Jack, the Swiss roots of Wisconsin cheese production, and rising cheese imports in Asia.",
+      "topics": [
+        "cheese storage",
+        "Monterey Jack",
+        "Wisconsin cheese history",
+        "Swiss immigrants",
+        "Asia cheese imports"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:45:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on Spam and cheese",
+      "summary": "A listener who worked at the Hormel Institute describes the smell of Spam production in Austin, Minnesota, and the hosts react. The hosts also invite listeners to send cheese samples or stories.",
+      "topics": [
+        "listener mail",
+        "Spam production smell",
+        "Hormel Institute",
+        "Austin Minnesota",
+        "listener invitation"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15461,
+    "output_tokens": 3320
+  }
+}

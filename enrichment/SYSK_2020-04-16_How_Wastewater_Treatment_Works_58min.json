@@ -1,0 +1,221 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-04-16_How_Wastewater_Treatment_Works_58min.txt",
+  "title": "How Wastewater Treatment Works",
+  "date": "2020-04-16",
+  "duration": "58 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-wastewater-treatment-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9e9e3d15-58d0-4555-a583-ae280038567c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9e9e3d15-58d0-4555-a583-ae280038567c/transcript?format=TextWithTimestamps&t=1700543630",
+  "summary": "Josh and Chuck explain how wastewater treatment works, from the history of outhouses and early sewage disposal through modern primary, secondary (activated sludge) and tertiary treatment. They cover what wastewater includes (blackwater, graywater, stormwater, industrial effluent), grit removal, flow equalization, fatbergs, sludge, aeration, disinfection options like ozone, chlorine and UV, reverse osmosis, and potable water reuse projects such as Singapore's NEWater. The episode closes with a listener mail letter from a teacher during the COVID-19 lockdown.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "wastewater treatment",
+    "sewage treatment",
+    "water reclamation plant",
+    "primary treatment",
+    "secondary treatment",
+    "tertiary treatment",
+    "activated sludge",
+    "sedimentation",
+    "grit chamber",
+    "flow equalization",
+    "blackwater",
+    "graywater",
+    "stormwater runoff",
+    "effluent and influent",
+    "fatberg",
+    "ozone disinfection",
+    "UV disinfection",
+    "reverse osmosis",
+    "potable reuse",
+    "toilet to tap",
+    "NEWater",
+    "history of sewage",
+    "outhouse",
+    "sludge",
+    "biochemical oxygen demand",
+    "microplastics in wastewater",
+    "cellulose recovery from sewage"
+  ],
+  "entities": [
+    {
+      "name": "Singapore",
+      "type": "place"
+    },
+    {
+      "name": "NEWater",
+      "type": "other"
+    },
+    {
+      "name": "Los Angeles",
+      "type": "place"
+    },
+    {
+      "name": "Woonsocket",
+      "type": "place"
+    },
+    {
+      "name": "London",
+      "type": "place"
+    },
+    {
+      "name": "New York City",
+      "type": "place"
+    },
+    {
+      "name": "Mount Vernon",
+      "type": "place"
+    },
+    {
+      "name": "Joseph Bazalgette",
+      "type": "person"
+    },
+    {
+      "name": "Great Stink",
+      "type": "event"
+    },
+    {
+      "name": "Malcolm Turnbull",
+      "type": "person"
+    },
+    {
+      "name": "Shark Tank",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:08:30",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "Josh and Chuck trade small talk about weird habits and haircuts, then introduce the wastewater topic, noting that the U.S. has about fifteen thousand treatment plants using different methods and that aging infrastructure needs billions in upgrades.",
+      "topics": [
+        "wastewater treatment",
+        "aging infrastructure"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "History of sewage disposal",
+      "summary": "They trace early waste handling from outhouses and latrines, including the crescent-moon outhouse convention, to ancient drainage in Syria, the medieval decline, and the Enlightenment-era push to treat sewage as cities grew. Sewage was dumped downstream of drinking water supplies.",
+      "topics": [
+        "history of sewage",
+        "outhouse",
+        "latrine",
+        "Great Stink",
+        "sewage downstream pollution"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Land treatment and early chemical treatment",
+      "summary": "Early methods included spreading sewage over fields so sediment settled and plants and soil filtered it, which failed as populations grew. Woonsocket, Massachusetts, used chemicals in 1889 to clump solids. They explain that treatment is still based on sedimentation followed by biological or chemical filtering.",
+      "topics": [
+        "land treatment",
+        "sewage farms",
+        "chemical sewage treatment",
+        "sedimentation"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Definition of wastewater and its types",
+      "summary": "Wastewater is defined as any water affected by human use, including stormwater runoff, blackwater from toilets, graywater from sinks and showers, and industrial effluent. The terms influent and effluent are clarified, and the hosts note the shift to calling plants water resource reclamation plants.",
+      "topics": [
+        "blackwater",
+        "graywater",
+        "stormwater runoff",
+        "influent",
+        "effluent",
+        "industrial wastewater pretreatment"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Screens, grit chamber and flow equalization",
+      "summary": "A walkthrough begins at the plant: screens catch large debris, a grit chamber uses a vortex to separate grit, and holding basins provide flow equalization so the plant gets a steady flow over twenty-four hours.",
+      "topics": [
+        "screens",
+        "grit chamber",
+        "hydrocyclone",
+        "flow equalization"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Primary treatment, grease and sludge",
+      "summary": "Fats, oils and grease are skimmed off, and fatbergs are described, including the London example. In primary clarifiers, slowed water lets suspended solids settle, aided by flocculating or coagulating agents. The settled material is now called raw primary biosolids, formerly sludge. Odor control and plant siting are also mentioned.",
+      "topics": [
+        "primary treatment",
+        "fatberg",
+        "fat oil and grease",
+        "sludge",
+        "biosolids",
+        "settling velocity",
+        "odor control"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:51:00",
+      "kind": "content",
+      "title": "Secondary treatment and activated sludge",
+      "summary": "Primary-treated water still carries microscopic material that depletes oxygen and kills fish. Secondary treatment, the activated sludge process developed starting in 1912, uses aerated tanks where beneficial bacteria and microorganisms consume waste and multiply, with settled sludge recycled.",
+      "topics": [
+        "secondary treatment",
+        "activated sludge",
+        "biochemical oxygen demand",
+        "aeration",
+        "aerobic bacteria"
+      ]
+    },
+    {
+      "start": "00:51:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "Tertiary treatment, disinfection and potable reuse",
+      "summary": "Tertiary treatment removes remaining contaminants such as microplastics and antibiotics. Options include bacteria that eat plastic, ozone, chlorination, UV radiation and reverse osmosis. Singapore's NEWater and Los Angeles-style indirect potable reuse are described, along with resource recovery such as biosolids for fertilizer and cellulose fiber.",
+      "topics": [
+        "tertiary treatment",
+        "ozone disinfection",
+        "chlorination",
+        "UV disinfection",
+        "reverse osmosis",
+        "potable reuse",
+        "toilet to tap",
+        "NEWater",
+        "microplastics",
+        "resource recovery"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:00:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from a teacher during lockdown",
+      "summary": "A listener named J Alexander, a math teacher, thanks the hosts for the podcast during the COVID-19 lockdown and talks about missing seniors and students.",
+      "topics": [
+        "listener mail",
+        "COVID-19 lockdown"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 18725,
+    "output_tokens": 2472
+  }
+}

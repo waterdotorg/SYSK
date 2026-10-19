@@ -1,0 +1,296 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-12-03_How_HIVAIDS_Works_Part_II_40min.txt",
+  "title": "How HIV/AIDS Works, Part II",
+  "date": "2015-12-03",
+  "duration": "40 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-hiv-aids-works-part-ii",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c346f2ed-ce97-4ec4-a23d-ae2800892876/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c346f2ed-ce97-4ec4-a23d-ae2800892876/transcript?format=TextWithTimestamps&t=1700543847",
+  "summary": "Part two of a two-part HIV/AIDS series. Josh and Chuck cover HIV treatment, starting with Magic Johnson's early access to highly active antiretroviral therapy (HAART, the \"AIDS cocktail\") and how each drug class disrupts a stage of viral replication. They discuss chronic HIV reservoirs, shock-and-kill and pro-stratton strategies to flush out dormant virus, San Francisco's Getting to Zero and RAPID treat-and-test program at Ward 86, the Berlin patient Timothy Ray Brown and CCR5 bone marrow transplant, elite controllers and the Immunity Project, the French girl who stayed off treatment, the \"Patient Zero\" Gaëtan Dugas story from the book And the Band Played On and Randy Shilts' book Patient Zero (the book is \"And the Band Played On\" by Randy Shilts; Dugas book cited as \"Plague Queen\"-style title; the transcript says \"Plane Queer\"), celebrities who died of AIDS, and the NAMES Project AIDS Memorial Quilt. The episode ends with listener mail about a rotary chair (Worldly chair) used in audiology.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "HIV",
+    "AIDS",
+    "HIV treatment",
+    "AIDS cocktail",
+    "highly active antiretroviral therapy",
+    "HAART",
+    "antiretroviral drugs",
+    "Magic Johnson HIV",
+    "HIV reservoirs",
+    "shock and kill",
+    "Getting to Zero San Francisco",
+    "RAPID program",
+    "Ward 86 San Francisco General",
+    "Timothy Ray Brown",
+    "Berlin patient",
+    "CCR5 bone marrow transplant",
+    "elite controllers",
+    "Immunity Project",
+    "HIV vaccine research",
+    "HIV cure",
+    "Patient Zero",
+    "Gaetan Dugas",
+    "And the Band Played On",
+    "AIDS quilt",
+    "NAMES Project",
+    "Harvey Milk",
+    "Cleve Jones",
+    "celebrities who died of AIDS",
+    "rotary chair",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Magic Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Timothy Ray Brown",
+      "type": "person"
+    },
+    {
+      "name": "Gaëtan Dugas",
+      "type": "person"
+    },
+    {
+      "name": "Randy Shilts",
+      "type": "person"
+    },
+    {
+      "name": "Cleve Jones",
+      "type": "person"
+    },
+    {
+      "name": "Harvey Milk",
+      "type": "person"
+    },
+    {
+      "name": "Pedro Zamora",
+      "type": "person"
+    },
+    {
+      "name": "Rock Hudson",
+      "type": "person"
+    },
+    {
+      "name": "Freddie Mercury",
+      "type": "person"
+    },
+    {
+      "name": "Ryan White",
+      "type": "person"
+    },
+    {
+      "name": "Getting to Zero",
+      "type": "event"
+    },
+    {
+      "name": "Ward 86 San Francisco General",
+      "type": "place"
+    },
+    {
+      "name": "San Francisco",
+      "type": "place"
+    },
+    {
+      "name": "Berlin",
+      "type": "place"
+    },
+    {
+      "name": "And the Band Played On",
+      "type": "work"
+    },
+    {
+      "name": "The Immunity Project",
+      "type": "organization"
+    },
+    {
+      "name": "NAMES Project AIDS Memorial Quilt",
+      "type": "work"
+    },
+    {
+      "name": "Common Threads: Stories from the Quilt",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and series recap",
+      "summary": "Josh and Chuck introduce part two of the HIV/AIDS series and recap that the previous episode covered transmission risk and how HIV works.",
+      "topics": [
+        "HIV",
+        "AIDS",
+        "series recap"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "Magic Johnson and early access to HAART",
+      "summary": "Magic Johnson announced his HIV diagnosis and NBA retirement; he had early access to highly active antiretroviral therapy and has lived decades since, though he never developed AIDS.",
+      "topics": [
+        "Magic Johnson HIV",
+        "HAART",
+        "AIDS cocktail",
+        "HIV treatment history",
+        "HIV activism"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "How the AIDS cocktail drug classes work",
+      "summary": "The hosts explain the classes of antiretroviral drugs: reverse transcriptase inhibitors, protease inhibitors, entry/fusion inhibitors, and integrase inhibitors, and how the standard cocktail combines them.",
+      "topics": [
+        "antiretroviral drug classes",
+        "reverse transcriptase inhibitors",
+        "protease inhibitors",
+        "integrase inhibitors",
+        "entry inhibitors",
+        "AIDS cocktail"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Chronic HIV, reservoirs, and cost of treatment",
+      "summary": "HIV forms latent reservoirs, making it chronic so patients stay on treatment indefinitely; treatment costs roughly ten to twelve thousand dollars a year, with priority for those with low CD4 counts or pregnancy.",
+      "topics": [
+        "HIV reservoirs",
+        "chronic HIV",
+        "CD4 count",
+        "treatment cost",
+        "lifelong antiretroviral therapy"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Shock and kill and eradication strategies",
+      "summary": "Researchers are exploring ways to flush out dormant HIV reservoirs by activating them while patients are on treatment, so infected cells die; the hosts call it a gun-slinger approach.",
+      "topics": [
+        "shock and kill",
+        "latent HIV reservoirs",
+        "HIV cure research",
+        "pro-stratton",
+        "HIV eradication"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Getting to Zero, RAPID program, and early treatment",
+      "summary": "San Francisco's Getting to Zero effort aims for no new infections, deaths, or stigma; the RAPID program at Ward 86 pays for cab rides so newly diagnosed patients start treatment immediately, since early treatment can limit reservoirs and transmission.",
+      "topics": [
+        "Getting to Zero San Francisco",
+        "RAPID program",
+        "early HIV treatment",
+        "treat and test",
+        "Ward 86",
+        "HIV transmission prevention"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Timothy Ray Brown, CCR5, and HIV cure funding",
+      "summary": "The Berlin patient Timothy Ray Brown appeared cured after a bone marrow transplant from a donor with the CCR5 mutation; this boosted cure research funding, which had been about three percent of HIV funding.",
+      "topics": [
+        "Timothy Ray Brown",
+        "Berlin patient",
+        "CCR5 mutation",
+        "bone marrow transplant HIV cure",
+        "HIV cure funding"
+      ]
+    },
+    {
+      "start": "00:34:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Elite controllers and the Immunity Project",
+      "summary": "Elite controllers carry HIV without getting sick; the Immunity Project studies their blood. A French teen stayed undetectable for years after stopping treatment, suggesting early treatment and weaning might help.",
+      "topics": [
+        "elite controllers",
+        "long term non-progressors",
+        "Immunity Project",
+        "HIV vaccine research",
+        "French teen HIV remission"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Patient Zero myth and Gaëtan Dugas",
+      "summary": "The hosts discuss the book about flight attendant Gaëtan Dugas, who was unfairly labeled Patient Zero for spreading AIDS in America; the publisher later admitted leaking the story to the press drew attention to the book.",
+      "topics": [
+        "Patient Zero",
+        "Gaëtan Dugas",
+        "And the Band Played On",
+        "Randy Shilts",
+        "AIDS history",
+        "media sensationalism"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:50:00",
+      "kind": "content",
+      "title": "Celebrities who died of AIDS",
+      "summary": "Celebrities who died of AIDS, including Rock Hudson, Arthur Ashe, Freddie Mercury, Liberace, Gia Carangi, Perry Ellis, Pedro Zamora, Anthony Perkins, Brad Davis, Keith Haring, and Tom Fogerty, helped put a face on the epidemic. The hosts also chat about film casting tangents.",
+      "topics": [
+        "celebrities with AIDS",
+        "Rock Hudson",
+        "Freddie Mercury",
+        "Pedro Zamora",
+        "famous AIDS deaths",
+        "AIDS awareness"
+      ]
+    },
+    {
+      "start": "00:50:00",
+      "end": "00:58:00",
+      "kind": "content",
+      "title": "The AIDS Memorial Quilt and the NAMES Project",
+      "summary": "Cleve Jones started the AIDS Memorial Quilt after a candlelight vigil for Harvey Milk and George Moscone; the NAMES Project was formed in 1987, the quilt has toured widely, raised over three million dollars, and won an Oscar for the documentary Common Threads.",
+      "topics": [
+        "AIDS Memorial Quilt",
+        "NAMES Project",
+        "Cleve Jones",
+        "Harvey Milk",
+        "Common Threads documentary",
+        "AIDS memorials"
+      ]
+    },
+    {
+      "start": "00:58:00",
+      "end": "01:00:00",
+      "kind": "outro",
+      "title": "Listener mail and sign-off",
+      "summary": "Listener mail about the rotary chair used in audiology, a call to get tested, and show contact information.",
+      "topics": [
+        "listener mail",
+        "rotary chair",
+        "HIV testing",
+        "show contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13278,
+    "output_tokens": 3431
+  }
+}

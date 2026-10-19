@@ -1,0 +1,186 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-10-21_How_the_Bailout_Works_23min.txt",
+  "title": "How the Bailout Works",
+  "date": "2008-10-21",
+  "duration": "23 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-bailout-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/336375ec-1fb2-404e-918f-ae2800c2703c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/336375ec-1fb2-404e-918f-ae2800c2703c/transcript?format=TextWithTimestamps&t=1700544000",
+  "summary": "Josh and Chuck discuss the October 2008 federal financial bailout (the roughly $700 billion Troubled Asset-style \"Paulson Plan\" bill, referred to as the bailout). They cover President Bush's national address, the House's initial defeat of the bill, the Senate adding a mental health provision and FDIC insurance increase before passage, and the House later passing it. They explain the bill's structure: staged funding, the new Office of Financial Stability led by Neil Kashkari, mortgage-related asset purchases, voluntary mortgage restructuring, warrants in companies selling assets to the government, and limits on golden parachutes for top executives. They note loopholes such as stock options not being addressed. The episode ends with a sponsor read and a brief aside on Bluetooth surveillance and \"blue jacking.\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "financial bailout",
+    "2008 bailout bill",
+    "Emergency Economic Stabilization Act",
+    "TARP",
+    "Troubled Asset Relief Program",
+    "George W. Bush address",
+    "Office of Financial Stability",
+    "Neil Kashkari",
+    "mortgage-backed securities",
+    "foreclosure",
+    "mortgage restructuring",
+    "FDIC insurance increase",
+    "golden parachute",
+    "government warrants",
+    "House vote",
+    "Senate amendment",
+    "Warren Buffett",
+    "economic recession 2008",
+    "Bluetooth surveillance",
+    "blue jacking"
+  ],
+  "entities": [
+    {
+      "name": "Bush",
+      "type": "person"
+    },
+    {
+      "name": "Neil Kashkari",
+      "type": "person"
+    },
+    {
+      "name": "Henry Paulson",
+      "type": "person"
+    },
+    {
+      "name": "Warren Buffett",
+      "type": "person"
+    },
+    {
+      "name": "Goldman Sachs",
+      "type": "organization"
+    },
+    {
+      "name": "Office of Financial Stability",
+      "type": "organization"
+    },
+    {
+      "name": "Congress",
+      "type": "organization"
+    },
+    {
+      "name": "Wachovia",
+      "type": "organization"
+    },
+    {
+      "name": "Washington Mutual",
+      "type": "organization"
+    },
+    {
+      "name": "Countrywide",
+      "type": "organization"
+    },
+    {
+      "name": "seven hundred billion dollar bailout",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "ad",
+      "title": "Opening and sponsor read",
+      "summary": "Opening banter, then a sponsor read for Audible and a camera ad.",
+      "topics": [
+        "sponsor read"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "intro",
+      "title": "Bush's address on the economy",
+      "summary": "The hosts describe President Bush's televised address warning that the economy is in danger, and his reason for speaking: to build public support for the bailout plan.",
+      "topics": [
+        "George W. Bush address",
+        "economic recession 2008",
+        "bailout public opinion"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "House defeat and Senate revision",
+      "summary": "The House defeated the bailout bill. The Senate then took up the House bill, added a mental health provision, pork, tax provisions, and an FDIC insurance increase, and passed it. The House passed the amended bill two days later.",
+      "topics": [
+        "House vote",
+        "Senate amendment",
+        "FDIC insurance increase",
+        "mental health parity",
+        "pork barrel spending"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Why the House changed its vote",
+      "summary": "The hosts discuss whether the Senate sweeteners or Bush's address changed votes. Chuck says congressional offices reported shifting constituent calls, and the bill's size grew to about $810 billion.",
+      "topics": [
+        "House vote change",
+        "bailout cost",
+        "congressional calls"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Bill structure, funding stages and the Office of Financial Stability",
+      "summary": "The bill releases funds in stages, with an initial $350 billion and later tranches needing congressional approval. It creates the Office of Financial Stability under the Treasury Secretary, led by Neil Kashkari, a 35-year-old former Goldman Sachs vice president. The office buys mortgage-related investments.",
+      "topics": [
+        "Office of Financial Stability",
+        "Neil Kashkari",
+        "bailout funding stages",
+        "mortgage-backed securities",
+        "Treasury Secretary"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Mortgage restructuring and foreclosures",
+      "summary": "The bill encourages voluntary restructuring of mortgages, including reducing principal. The hosts discuss foreclosures, homeowners, and whether the plan is theoretical.",
+      "topics": [
+        "mortgage restructuring",
+        "foreclosure",
+        "homeowner relief"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Government warrants, golden parachutes and loopholes",
+      "summary": "When the government buys assets worth $3 million or more, it takes warrants in the seller's company. The bill limits golden parachutes for top five executives, but the hosts note the salary deduction limit is weak and stock options are not addressed.",
+      "topics": [
+        "government warrants",
+        "golden parachute",
+        "executive compensation",
+        "stock options loophole"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:23:00",
+      "kind": "outro",
+      "title": "Sign-off and Bluetooth aside",
+      "summary": "A closing plug for a related article and a brief sponsor-style aside on Bluetooth headset surveillance and blue jacking.",
+      "topics": [
+        "Bluetooth surveillance",
+        "blue jacking"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 8757,
+    "output_tokens": 2016
+  }
+}

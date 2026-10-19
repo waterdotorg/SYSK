@@ -1,0 +1,265 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2016-02-11_Whats_the_Deal_With_Poop_47min.txt",
+  "title": "What's the Deal With Poop?",
+  "date": "2016-02-11",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-poop",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/33144c20-469d-4055-96a0-ae280086ff0e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/33144c20-469d-4055-96a0-ae280086ff0e/transcript?format=TextWithTimestamps&t=1700543841",
+  "summary": "Josh and Chuck explore poop: what it is made of, the Bristol stool scale (types 1 to 7), what healthy and unhealthy stool look like by color, shape, floating, mucus and odor, how often people poop, causes and fixes for constipation (fiber, exercise, hydration, squatting, bidets), the role of fiber in the gut microbiome, lactose intolerance, a Danish 700-year-old latrine, and a story of an Inuit man who survived being left to starve in the Arctic. The episode closes with listener mail about the 'Chuck and Josh effect' and sign-off.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "poop",
+    "stool",
+    "feces",
+    "Bristol stool scale",
+    "healthy stool",
+    "unhealthy stool",
+    "stool color",
+    "floating stool",
+    "mucus in stool",
+    "stool odor",
+    "constipation",
+    "impacted colon",
+    "hemorrhoids",
+    "fiber",
+    "soluble fiber",
+    "insoluble fiber",
+    "gut microbiome",
+    "lactose intolerance",
+    "bidet",
+    "squatting toilet",
+    "fecal vomiting",
+    "bilirubin",
+    "black stool",
+    "defecation",
+    "Inuit survival story",
+    "Danish latrine"
+  ],
+  "entities": [
+    {
+      "name": "Bristol stool scale",
+      "type": "other"
+    },
+    {
+      "name": "Dr Stephen Lewis",
+      "type": "person"
+    },
+    {
+      "name": "Dr Ken Heaton",
+      "type": "person"
+    },
+    {
+      "name": "University of Bristol",
+      "type": "organization"
+    },
+    {
+      "name": "Mercola",
+      "type": "person"
+    },
+    {
+      "name": "Wade Davis",
+      "type": "person"
+    },
+    {
+      "name": "Odense",
+      "type": "place"
+    },
+    {
+      "name": "Denmark",
+      "type": "place"
+    },
+    {
+      "name": "Stanford",
+      "type": "organization"
+    },
+    {
+      "name": "Arctic Bay",
+      "type": "place"
+    },
+    {
+      "name": "Diarrhea Planet",
+      "type": "organization"
+    },
+    {
+      "name": "Mental Floss",
+      "type": "organization"
+    },
+    {
+      "name": "Vice",
+      "type": "organization"
+    },
+    {
+      "name": "Mayo Clinic",
+      "type": "organization"
+    },
+    {
+      "name": "Gilbert syndrome",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and poop warning",
+      "summary": "Hosts joke about the title 'stool' and warn listeners the episode is about poop. They introduce why paying attention to your poop matters, mention fecal vomiting from severe impaction, and note a Danish latrine from about 700 years ago.",
+      "topics": [
+        "poop",
+        "stool",
+        "fecal vomiting",
+        "Danish latrine"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Poop composition and the Bristol stool scale",
+      "summary": "Discussion of the average lifetime poop output and what poop is made of (mostly water, plus fiber, fats, bacteria). The hosts then walk through the Bristol stool scale types one through seven, with types three to five as the healthy range.",
+      "topics": [
+        "Bristol stool scale",
+        "poop composition",
+        "stool types",
+        "gut bacteria"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Fiber, lactose intolerance and loose stool causes",
+      "summary": "The hosts explain soluble and insoluble fiber and their effect on stool. They describe causes of loose stool including lactose intolerance, artificial sweeteners, and gluten or celiac disease, with a tangent on milk and skim milk additives.",
+      "topics": [
+        "fiber",
+        "soluble fiber",
+        "insoluble fiber",
+        "lactose intolerance",
+        "artificial sweeteners",
+        "celiac disease"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Healthy stool: color, shape, and floating",
+      "summary": "Healthy stool is medium to light brown, soft and smooth, and sinks with a gentle splash. Light brown color comes from bilirubin. Floating stool may indicate fat malabsorption.",
+      "topics": [
+        "healthy stool",
+        "stool color",
+        "bilirubin",
+        "floating stool",
+        "malabsorption"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Unhealthy stool: black, red, white, yellow, and mucus",
+      "summary": "Black or tarry stool can come from red wine, black licorice, or internal bleeding; red may be from beets or bleeding. Pale or white stool can signal low bile or be from barium. Yellow stool can relate to Gilbert syndrome, giardia or gallbladder problems. Mucus is normal in small amounts but a large amount is concerning.",
+      "topics": [
+        "black stool",
+        "red stool",
+        "white stool",
+        "yellow stool",
+        "Gilbert syndrome",
+        "mucus in stool",
+        "bile"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Stool odor and changes in habits",
+      "summary": "Stool smells because bacteria produce gas when digesting food. Unusually foul odor could signal malabsorption conditions. The key is noticing big changes from your own normal. Normal frequency ranges widely, from three times a week to three times a day.",
+      "topics": [
+        "stool odor",
+        "bacteria gas",
+        "bowel frequency",
+        "malabsorption",
+        "cystic fibrosis"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Constipation, impaction and hemorrhoids",
+      "summary": "Causes of constipation include travel, diet changes, hormones, sleep, illness, and age over 65. Problems include straining, incomplete elimination, impaction, and hemorrhoids. Treatment for impaction can include mineral oil or manual breaking up of stool or surgery.",
+      "topics": [
+        "constipation",
+        "impacted colon",
+        "hemorrhoids",
+        "straining",
+        "age and constipation"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:38:00",
+      "kind": "content",
+      "title": "Fixing constipation: fiber, exercise, water, toilet posture",
+      "summary": "Advice includes avoiding laxatives as a last resort, eating whole fruits and vegetables for fiber, limiting processed food and sugar, exercising to strengthen the core, staying hydrated, and avoiding opioid painkillers. The hosts discuss squatting versus sitting on a toilet and products like footstools and bidets.",
+      "topics": [
+        "laxatives",
+        "fiber sources",
+        "exercise and digestion",
+        "hydration",
+        "squatting toilet",
+        "footstool",
+        "bidet",
+        "opioid painkillers"
+      ]
+    },
+    {
+      "start": "00:38:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Gut microbiome, fiber and diet",
+      "summary": "A Stanford study with microbe-free mice showed that low-fiber diets reduced microbial diversity and that recovery was only partial. The hosts argue modern diets are low in fiber and high in processed white foods.",
+      "topics": [
+        "gut microbiome",
+        "fiber and microbiome",
+        "Stanford mouse study",
+        "processed foods",
+        "poop transplant"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Poop as a weapon and an Inuit survival story",
+      "summary": "The hosts mention historical use of feces as a weapon and Soviet poop artillery. They then recount Wade Davis's TED talk story of an Inuit man in the 1950s, left with two dogs in Arctic Bay, who froze his feces into a knife to kill a dog for food and reached Pond Inlet.",
+      "topics": [
+        "poop as weapon",
+        "Inuit survival story",
+        "Arctic Bay",
+        "frozen poop knife"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:47:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "A listener notes that topics covered on the show often appear in other articles the next day, calling it the Chuck and Josh effect. The hosts joke about a band name and sign off with web and social links.",
+      "topics": [
+        "listener mail",
+        "Chuck and Josh effect",
+        "show sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15638,
+    "output_tokens": 2859
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-01-26_How_Floods_Work_33min.txt",
+  "title": "How Floods Work",
+  "date": "2012-01-26",
+  "duration": "33 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-floods-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/db5554a9-6380-429b-ab51-ae2800aa7e70/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/db5554a9-6380-429b-ab51-ae2800aa7e70/transcript?format=TextWithTimestamps&t=1700543928",
+  "summary": "Josh Clark and Chuck Bryant explain how floods work, starting with a brief primer on the hydrological cycle (water cycling through evaporation, clouds, rain, rivers, and oceans, with volcanoes and the atmosphere balancing water). They cover how storms overwhelm waterways, the role of land type (forests, farmland, earthworms, clay, concrete and asphalt), seasonal monsoon flooding and the Nile, dam and levee failures (Johnstown flood of 1889, Vajont Dam, Morganza spillway, Katrina), coastal erosion and walls, why flood water is dangerous (water seeks level, cars swept away, drownings), flash floods including the 1976 Big Thompson Canyon flood in Colorado, the 1966 Florence Arno River flood and its art damage, and disease risks from floodwater. The episode opens with banter about childhood basement flooding and the 1994 Flint River flood in Albany, Georgia, and closes with a listener mail request from Adam for the Alamos Wild Lands Alliance Bird-a-thon fundraiser.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "floods",
+    "how floods work",
+    "flash floods",
+    "hydrological cycle",
+    "water cycle",
+    "dam failure",
+    "levee failure",
+    "Johnstown flood",
+    "Big Thompson Canyon flood",
+    "Big Thompson Canyon Colorado 1976",
+    "Florence Arno River flood",
+    "Nile River flooding",
+    "monsoon flooding",
+    "Morganza spillway",
+    "coastal erosion",
+    "flood safety",
+    "floodwater disease",
+    "Albany Georgia flood 1994",
+    "Vajont Dam",
+    "Hurricane Katrina levee breach",
+    "Alamos Wild Lands Alliance",
+    "Bird-a-thon",
+    "earthworms and soil infiltration",
+    "water seeks level"
+  ],
+  "entities": [
+    {
+      "name": "Johnstown flood",
+      "type": "event"
+    },
+    {
+      "name": "Big Thompson Canyon flood",
+      "type": "event"
+    },
+    {
+      "name": "Florence Arno River flood",
+      "type": "event"
+    },
+    {
+      "name": "Albany Georgia flood 1994",
+      "type": "event"
+    },
+    {
+      "name": "Morganza spillway",
+      "type": "place"
+    },
+    {
+      "name": "Vajont Dam",
+      "type": "place"
+    },
+    {
+      "name": "Nile River",
+      "type": "place"
+    },
+    {
+      "name": "Aswan Dam",
+      "type": "place"
+    },
+    {
+      "name": "Big Thompson Canyon",
+      "type": "place"
+    },
+    {
+      "name": "Florence",
+      "type": "place"
+    },
+    {
+      "name": "Hurricane Katrina",
+      "type": "event"
+    },
+    {
+      "name": "Red Cross",
+      "type": "organization"
+    },
+    {
+      "name": "Army Corps of Engineers",
+      "type": "organization"
+    },
+    {
+      "name": "Alamos Wild Lands Alliance",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and childhood basement floods",
+      "summary": "Josh and Chuck open with banter about flooding, Josh's childhood basement flooding in Toledo, and the 1994 Flint River flood in Albany, Georgia, where caskets floated out of a cemetery.",
+      "topics": [
+        "basement flooding",
+        "Albany Georgia flood 1994",
+        "flood caskets cemetery"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Hydrological cycle primer",
+      "summary": "The hosts explain that Earth's water volume is roughly constant, with losses to the atmosphere balanced by volcanic release, and walk through evaporation, wind, cloud formation, rain, and return to the oceans.",
+      "topics": [
+        "hydrological cycle",
+        "water cycle",
+        "evaporation and rain",
+        "volcanic water release"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:13:30",
+      "kind": "content",
+      "title": "Storms overwhelming waterways",
+      "summary": "Freak storms dump more rain than rivers are shaped to hold, so water spills over banks. Rivers form over long periods and are not sized for worst-case events.",
+      "topics": [
+        "storm runoff",
+        "river capacity",
+        "how rivers flood"
+      ]
+    },
+    {
+      "start": "00:13:30",
+      "end": "00:18:00",
+      "kind": "content",
+      "title": "Seasonal flooding, monsoons and the Nile",
+      "summary": "Common causes include large storms and snowmelt; seasonal monsoon winds bring annual flooding, and the ancient Nile's annual floods fertilized farmland, a pattern changed by dams like the Aswan Dam.",
+      "topics": [
+        "monsoon flooding",
+        "Nile River flooding",
+        "Aswan Dam",
+        "seasonal precipitation"
+      ]
+    },
+    {
+      "start": "00:18:00",
+      "end": "00:23:00",
+      "kind": "content",
+      "title": "Dam failures and the Johnstown flood",
+      "summary": "Dam breaks are a major flood cause. The hosts describe a Washington State dam demolition and the 1889 Johnstown flood, caused by the South Fork dam failure, with about 2,209 deaths, and mention the 1963 Vajont Dam wave.",
+      "topics": [
+        "dam failure",
+        "Johnstown flood",
+        "South Fork dam",
+        "Vajont Dam",
+        "Red Cross disaster relief"
+      ]
+    },
+    {
+      "start": "00:23:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Land type, earthworms and levees",
+      "summary": "Soil and surface type determine runoff: forests and soft soil absorb water while clay, rock, concrete and asphalt do not. Tilled farmland is more prone to flooding than woodland because earthworm tunnels are lost. Levees, the Katrina breach, and the Morganza spillway opening are discussed.",
+      "topics": [
+        "soil absorption",
+        "earthworms and flooding",
+        "levees",
+        "Hurricane Katrina levee breach",
+        "Morganza spillway",
+        "concrete flood channels"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Coastlines, erosion and water seeking its level",
+      "summary": "Coastal walls prevent erosion but disrupt natural beach processes. Floodwater rushes because water seeks its level, so a couple of feet can sweep cars away and six inches can knock a person down; most flood deaths involve vehicles.",
+      "topics": [
+        "coastal erosion",
+        "beach walls",
+        "flood water force",
+        "driving through floodwater",
+        "flood deaths"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Flash floods: Big Thompson Canyon 1976",
+      "summary": "Flash floods are the most dangerous. The July 31, 1976 Big Thompson Canyon flood in Colorado followed about twelve inches of rain in four hours, killing around 139 to 145 people during the state centennial celebration.",
+      "topics": [
+        "flash floods",
+        "Big Thompson Canyon flood",
+        "Colorado 1976 flood",
+        "flood death toll"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:42:00",
+      "kind": "content",
+      "title": "Flood aftermath, Florence art damage and disease",
+      "summary": "Floods leave silt, mud, and sewage. The Arno River flood in Florence damaged Renaissance art and books stored in basements, and floodwater carries disease risks, so water should be boiled.",
+      "topics": [
+        "Florence Arno River flood",
+        "flood damage to art",
+        "floodwater disease",
+        "boiling water after flood",
+        "Naegleria amoeba"
+      ]
+    },
+    {
+      "start": "00:42:00",
+      "end": "00:47:00",
+      "kind": "content",
+      "title": "Closing discussion and wrap-up",
+      "summary": "The hosts wrap up flood content and discuss a Nettie pot infection story, then move to listener mail.",
+      "topics": [
+        "neti pot infection",
+        "closing remarks"
+      ]
+    },
+    {
+      "start": "00:47:00",
+      "end": "00:53:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Alamos Wild Lands Bird-a-thon",
+      "summary": "Listener Adam, research director of the Alamos Wild Lands Alliance, asks listeners to sponsor the Bird-a-thon fundraiser around Super Bird Saturday, the day before the Super Bowl, to support conservation in northwest Mexico.",
+      "topics": [
+        "listener mail",
+        "Alamos Wild Lands Alliance",
+        "Bird-a-thon",
+        "bird conservation fundraiser",
+        "Super Bird Saturday"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:54:00",
+      "kind": "outro",
+      "title": "Outro and contact info",
+      "summary": "The hosts give contact details for listener feedback and mention the How Stuff Works app.",
+      "topics": [
+        "show contact",
+        "listener feedback"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11143,
+    "output_tokens": 3044
+  }
+}

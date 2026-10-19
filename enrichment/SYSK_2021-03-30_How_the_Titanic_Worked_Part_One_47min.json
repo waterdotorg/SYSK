@@ -1,0 +1,290 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-03-30_How_the_Titanic_Worked_Part_One_47min.txt",
+  "title": "How the Titanic Worked: Part One",
+  "date": "2021-03-30",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-titanic-worked-part-one",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d9a6d49d-cf20-40da-a457-ae28001de6f0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d9a6d49d-cf20-40da-a457-ae28001de6f0/transcript?format=TextWithTimestamps&t=1700543598",
+  "summary": "Part one of a two-part Stuff You Should Know episode on the RMS Titanic. The hosts open by discussing the 1997 James Cameron movie and its accuracy and flaws, then cover the White Star Line's origins in a dinner-table decision to build bigger luxury liners to compete with Cunard, the design by Thomas Andrews and Alexander Montgomery Carlisle, the ship's size, rivets, engines, propellers, watertight compartments, coal consumption and a coal fire, the Harland and Wolff/Belfast construction and Great Gantry, and the ship's luxurious decks and class-divided accommodations from first to third class. They discuss the maiden voyage passengers and crew, notable people who missed the sailing (including Davy Blair's binocular key), ticket prices, the lifeboat shortage under the Board of Trade rules, untested lifeboat drills, and the near-collision with the SS New York at Southampton. The episode ends before the Titanic reaches open sea, with the ship leaving Queenstown on April 11.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Titanic",
+    "RMS Titanic",
+    "Titanic maiden voyage",
+    "White Star Line",
+    "Cunard rivalry",
+    "Titanic design and construction",
+    "Thomas Andrews",
+    "Alexander Montgomery Carlisle",
+    "Titanic rivets",
+    "Titanic engines and propellers",
+    "watertight compartments",
+    "Titanic coal fire",
+    "Titanic decks",
+    "third class steerage",
+    "Titanic ticket prices",
+    "Titanic lifeboats",
+    "Board of Trade lifeboat regulations",
+    "SS New York near collision",
+    "Davy Blair binoculars",
+    "Titanic passengers who did not sail",
+    "James Cameron Titanic movie",
+    "Titanic Grand Staircase",
+    "Olympic and Britannic sister ships",
+    "Titanic Belfast Southampton Cherbourg Queenstown",
+    "Great Gantry Harland and Wolff"
+  ],
+  "entities": [
+    {
+      "name": "Titanic",
+      "type": "work"
+    },
+    {
+      "name": "Olympic",
+      "type": "other"
+    },
+    {
+      "name": "Britannic",
+      "type": "other"
+    },
+    {
+      "name": "White Star Line",
+      "type": "organization"
+    },
+    {
+      "name": "Cunard",
+      "type": "organization"
+    },
+    {
+      "name": "Thomas Andrews",
+      "type": "person"
+    },
+    {
+      "name": "Alexander Montgomery Carlisle",
+      "type": "person"
+    },
+    {
+      "name": "J. Bruce Ismay",
+      "type": "person"
+    },
+    {
+      "name": "Lord William Pirrie",
+      "type": "person"
+    },
+    {
+      "name": "Davy Blair",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Hart",
+      "type": "person"
+    },
+    {
+      "name": "Molly Brown",
+      "type": "person"
+    },
+    {
+      "name": "James Cameron",
+      "type": "person"
+    },
+    {
+      "name": "Titanic movie",
+      "type": "work"
+    },
+    {
+      "name": "SS New York",
+      "type": "other"
+    },
+    {
+      "name": "Great Gantry",
+      "type": "other"
+    },
+    {
+      "name": "Southampton",
+      "type": "place"
+    },
+    {
+      "name": "Cherbourg",
+      "type": "place"
+    },
+    {
+      "name": "Queenstown, Ireland",
+      "type": "place"
+    },
+    {
+      "name": "Belfast",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:08:30",
+      "kind": "intro",
+      "title": "Opening banter and the 1997 Titanic movie",
+      "summary": "The hosts open the episode, note listener requests for a Titanic episode, and discuss James Cameron's movie: its accuracy, its romance and dialogue flaws, and the fact that the film cost about half as much as the ship in inflation-adjusted terms.",
+      "topics": [
+        "Titanic movie",
+        "James Cameron",
+        "Titanic listener requests",
+        "movie accuracy"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:14:00",
+      "kind": "content",
+      "title": "Why the podcast delayed the Titanic topic and personal interest",
+      "summary": "Josh and Chuck explain they put off the Titanic for a long time because of the movie, and describe their interest in the wreck's underwater discovery and the research they did.",
+      "topics": [
+        "Titanic wreck discovery",
+        "Titanic fascination",
+        "Titanic background"
+      ]
+    },
+    {
+      "start": "00:14:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "The dinner that led to the Titanic and its sister ships",
+      "summary": "The hosts describe a dinner among White Star Line leaders J. Bruce Ismay and Lord William Pirrie, and their wives, where they decided to compete with Cunard's speed by building bigger, more luxurious ships rather than faster ones. The Titanic, Olympic and Britannic (originally named Gigantic) came out of this.",
+      "topics": [
+        "White Star Line",
+        "Cunard rivalry",
+        "Olympic and Britannic",
+        "Gigantic renamed Britannic",
+        "cruise industry origins"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Design, size and engineering of the Titanic",
+      "summary": "The designers, Alexander Montgomery Carlisle and then Thomas Andrews, planned the ship; the hosts describe its length, width and tonnage, the four funnels, the wrought iron rivets with excess slag, and the two huge reciprocating engines.",
+      "topics": [
+        "Titanic dimensions",
+        "Titanic rivets",
+        "Titanic engines",
+        "Thomas Andrews design",
+        "Titanic funnels"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Propellers, watertight compartments and the coal fire",
+      "summary": "The hosts discuss the Titanic's three- and four-blade propellers, its sixteen watertight compartments with automatic doors that fed the unsinkable reputation, the coal consumption, and a coal fire that may have started before departure.",
+      "topics": [
+        "Titanic propellers",
+        "watertight bulkheads",
+        "unsinkable myth",
+        "Titanic coal fire",
+        "boiler rooms"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:37:30",
+      "kind": "content",
+      "title": "Construction at Harland and Wolff and the Great Gantry",
+      "summary": "The hosts describe the Belfast dock and the Great Gantry used to build the ship, the roughly eleven thousand workers, the launch on May 31, 1911, and the completion and maiden voyage dates in 1912.",
+      "topics": [
+        "Great Gantry",
+        "Belfast shipbuilding",
+        "Titanic launch",
+        "Titanic construction workers"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:45:00",
+      "kind": "content",
+      "title": "Deck layout and class-based accommodations",
+      "summary": "The hosts walk through the ship's decks from the boat deck to the orlop deck, including the first-class promenade, Palm Court, the restaurants, the third-class poop deck, the Turkish bath, and the post office and workshops. They discuss the design's luxury across classes, including third-class cabins and washbasins, and the lack of bathtubs.",
+      "topics": [
+        "Titanic decks",
+        "first class accommodations",
+        "third class steerage",
+        "Palm Court",
+        "Turkish bath",
+        "Titanic post office",
+        "Titanic refrigeration",
+        "class divisions"
+      ]
+    },
+    {
+      "start": "00:45:00",
+      "end": "00:49:00",
+      "kind": "ad",
+      "title": "Mid-episode break",
+      "summary": "A short break in the episode.",
+      "topics": [
+        "advertisement"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Voyage route, passengers and people who missed the sailing",
+      "summary": "The ship's route from Belfast to Southampton, Cherbourg and Queenstown is covered. The hosts describe the passenger count, the people who sold or switched tickets or missed the boat including the Thomas Hart story, the wealthy industrialists who gave up their berths, and Davy Blair's missed post and crow's nest binocular key.",
+      "topics": [
+        "Titanic route",
+        "Titanic passengers",
+        "people who missed the Titanic",
+        "Davy Blair",
+        "Titanic binoculars",
+        "Millionaires Club",
+        "Thomas Hart"
+      ]
+    },
+    {
+      "start": "00:56:00",
+      "end": "01:03:00",
+      "kind": "content",
+      "title": "Ticket prices and the size controversy",
+      "summary": "The hosts compare first-class fares (up to about $4,500 in 1912 money, roughly $66,000 to $120,000 today) to the average American wage and discuss third-class fares. They turn to the Board of Trade lifeboat requirements, the Merchant Shipping Act tonnage rule, and the undertested ship and untested lifeboat drills.",
+      "topics": [
+        "Titanic ticket prices",
+        "Board of Trade",
+        "Merchant Shipping Act",
+        "Titanic lifeboats",
+        "lifeboat drills",
+        "Titanic crew hiring"
+      ]
+    },
+    {
+      "start": "01:03:00",
+      "end": "01:08:00",
+      "kind": "content",
+      "title": "Near collision with SS New York and departure",
+      "summary": "The hosts describe the Titanic's departure from Southampton, when suction from its propellers pulled the SS New York toward it, and the near miss averted by tug boats and the captain. The episode ends with the ship set to leave Queenstown on April 11 and a cliffhanger.",
+      "topics": [
+        "SS New York near collision",
+        "Titanic departure Southampton",
+        "tugboats",
+        "Queenstown departure"
+      ]
+    },
+    {
+      "start": "01:08:00",
+      "end": "01:08:30",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts tease part two and sign off.",
+      "topics": [
+        "podcast sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15027,
+    "output_tokens": 3341
+  }
+}

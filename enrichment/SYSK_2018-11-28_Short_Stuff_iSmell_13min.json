@@ -1,0 +1,153 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2018-11-28_Short_Stuff_iSmell_13min.txt",
+  "title": "Short Stuff: iSmell",
+  "date": "2018-11-28",
+  "duration": "13 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-ismell",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4fc65892-9554-418d-b7c7-ae280057fe92/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4fc65892-9554-418d-b7c7-ae280057fe92/transcript?format=TextWithTimestamps&t=1700543715",
+  "summary": "Short Stuff episode on the iSmell, a 2000-era USB desktop peripheral that released scents matching websites being viewed. The hosts cover the feed consolidation announcement, the origins of the company DigitSense (founders Joel Bellensen and Dexter Smith, roughly twenty million dollars in venture capital), the idea of digitizing scent using a palette of 128 primary odorants, how the device heated odorants and blew air across them, its debut at the 2001 CES, its commercial failure, and its inclusion on PC World's 2006 list of worst tech products.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "iSmell",
+    "DigitSense",
+    "digital scent technology",
+    "scent over internet",
+    "digital smell",
+    "olfactory receptors",
+    "odorants",
+    "dot com bubble",
+    "CES 2001",
+    "tech product failures",
+    "PC World worst tech products",
+    "venture capital flops",
+    "Joel Bellensen",
+    "Dexter Smith",
+    "Short Stuff",
+    "feed consolidation announcement"
+  ],
+  "entities": [
+    {
+      "name": "iSmell",
+      "type": "other"
+    },
+    {
+      "name": "DigitSense",
+      "type": "organization"
+    },
+    {
+      "name": "Joel Bellensen",
+      "type": "person"
+    },
+    {
+      "name": "Dexter Smith",
+      "type": "person"
+    },
+    {
+      "name": "Apple",
+      "type": "organization"
+    },
+    {
+      "name": "Consumer Electronics Show",
+      "type": "event"
+    },
+    {
+      "name": "PC World",
+      "type": "organization"
+    },
+    {
+      "name": "Wired",
+      "type": "organization"
+    },
+    {
+      "name": "Eminem",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and feed announcement",
+      "summary": "The hosts joke about being short, announce that Short Stuff episodes will move from the standalone feed into the main Stuff You Should Know feed, and introduce the iSmell topic as a live-event tidbit.",
+      "topics": [
+        "Short Stuff feed change",
+        "podcast feed consolidation"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "What the iSmell was",
+      "summary": "The iSmell was a desktop USB peripheral that released scents matching the websites a user browsed. The hosts note its Apple-like naming and say the device was either ahead of its time or poorly conceived from the start.",
+      "topics": [
+        "iSmell",
+        "scent over internet",
+        "digital smell device",
+        "Apple naming"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:07:00",
+      "kind": "content",
+      "title": "DigitSense founders and the dot com era",
+      "summary": "The hosts describe the dot com boom and the founders Joel Bellensen and Dexter Smith, who formed DigitSense with about twenty million dollars in venture capital after earlier genetics database software work. The story goes that they got the idea in Miami Beach from perfume smells in the air.",
+      "topics": [
+        "DigitSense",
+        "dot com bubble",
+        "venture capital",
+        "Joel Bellensen",
+        "Dexter Smith",
+        "Miami Beach origin story"
+      ]
+    },
+    {
+      "start": "00:07:00",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Digitizing scent and the odorant palette",
+      "summary": "The founders built a digital database of scent codes, linking odorant molecules to olfactory receptors. They reduced the problem to a palette of 128 primary odorants that could be combined into many smells.",
+      "topics": [
+        "digitized scent",
+        "odorants",
+        "olfactory receptors",
+        "128 primary odorants",
+        "scent database"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "How the iSmell worked and why it failed",
+      "summary": "The device heated odorant cartridges and blew air across them to waft scents, and websites could send scent instructions via pixels. Despite working technically and being cheap to run, it was never consumer tested. It debuted at CES 2001, nobody wanted it, no units sold, and it was named to PC World's 2006 list of worst tech products.",
+      "topics": [
+        "iSmell failure",
+        "CES 2001",
+        "PC World worst tech products list",
+        "product flop",
+        "consumer testing"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:13:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts close the episode and invite listeners to contact the show through its website, social links, and email.",
+      "topics": [
+        "show contact information"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5010,
+    "output_tokens": 1591
+  }
+}

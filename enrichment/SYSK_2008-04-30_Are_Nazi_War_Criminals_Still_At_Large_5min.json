@@ -1,0 +1,130 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-04-30_Are_Nazi_War_Criminals_Still_At_Large_5min.txt",
+  "title": "Are Nazi War Criminals Still At Large?",
+  "date": "2008-04-30",
+  "duration": "5 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/are-nazi-war-criminals-still-at-large",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/15ede3ba-3148-4226-917f-ae2800c49407/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/15ede3ba-3148-4226-917f-ae2800c49407/transcript?format=TextWithTimestamps&t=1700544007",
+  "summary": "Josh Clark and Chuck (transcribed as Chris) discuss Nazi war criminals still at large, prompted by a HowStuffWorks article on the Simon Wiesenthal Center's Operation Last Chance. They cover Mossad's pursuit of Nazis (capturing Adolf Eichmann in Argentina and Klaus Barbie), Mossad's reported employment of a Nazi doctor linked to mobile gas vans, and how the US (Project Paperclip, Wernher von Braun) and CIA and the British also employed former Nazis for their skills. The transcript is garbled by speech-recognition errors, so some names and details are uncertain.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Nazi war criminals",
+    "Simon Wiesenthal Center",
+    "Operation Last Chance",
+    "Mossad",
+    "Adolf Eichmann",
+    "Klaus Barbie",
+    "Project Paperclip",
+    "Wernher von Braun",
+    "CIA recruitment of Nazis",
+    "mobile gas vans",
+    "Nazi scientists",
+    "Nazi hunting",
+    "war crimes prosecution",
+    "Geneva Convention violations",
+    "Operation Paperclip",
+    "Nazi fugitives"
+  ],
+  "entities": [
+    {
+      "name": "Simon Wiesenthal Center",
+      "type": "organization"
+    },
+    {
+      "name": "Mossad",
+      "type": "organization"
+    },
+    {
+      "name": "CIA",
+      "type": "organization"
+    },
+    {
+      "name": "Adolf Eichmann",
+      "type": "person"
+    },
+    {
+      "name": "Klaus Barbie",
+      "type": "person"
+    },
+    {
+      "name": "Wernher von Braun",
+      "type": "person"
+    },
+    {
+      "name": "Project Paperclip",
+      "type": "event"
+    },
+    {
+      "name": "Operation Last Chance",
+      "type": "event"
+    },
+    {
+      "name": "Argentina",
+      "type": "place"
+    },
+    {
+      "name": "West Germany",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening and Operation Last Chance",
+      "summary": "Hosts introduce the topic of whether Nazi war criminals are still at large, referencing a Simon Wiesenthal Center effort called Operation Last Chance.",
+      "topics": [
+        "Simon Wiesenthal Center",
+        "Operation Last Chance",
+        "Nazi war criminals"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:03:00",
+      "kind": "content",
+      "title": "Mossad and Nazi hunting",
+      "summary": "Mossad is described as having pursued Nazis for decades, capturing Adolf Eichmann (kidnapped in Argentina) and finding Klaus Barbie. The hosts say Mossad also reportedly employed a Nazi doctor who devised mobile gas vans disguised as Red Cross ambulances.",
+      "topics": [
+        "Mossad",
+        "Adolf Eichmann",
+        "Klaus Barbie",
+        "mobile gas vans",
+        "Nazi hunting"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Governments employing former Nazis",
+      "summary": "The hosts discuss how governments, including the US, Britain and the CIA, took on former Nazis for useful skills. Project Paperclip is described as a secret US project to recruit Nazi scientists, including Wernher von Braun, and Eichmann is said to have been used by the CIA as a West German agent.",
+      "topics": [
+        "Project Paperclip",
+        "Wernher von Braun",
+        "CIA recruitment of Nazis",
+        "Nazi scientists",
+        "Eichmann as CIA agent"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts wrap up the episode and point listeners to HowStuffWorks.com for more.",
+      "topics": [
+        "HowStuffWorks"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 2982,
+    "output_tokens": 1400
+  }
+}

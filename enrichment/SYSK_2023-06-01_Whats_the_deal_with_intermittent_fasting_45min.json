@@ -1,0 +1,271 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2023-06-01_Whats_the_deal_with_intermittent_fasting_45min.txt",
+  "title": "What's the deal with intermittent fasting?",
+  "date": "2023-06-01",
+  "duration": "45 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/whats-the-deal-with-intermittent-fasting",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/10ad6840-b1b0-4027-95fb-b01301008ee9/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/10ad6840-b1b0-4027-95fb-b01301008ee9/transcript?format=TextWithTimestamps&t=1714030792",
+  "summary": "Josh and Chuck discuss intermittent fasting: what it is, common subtypes (time-restricted eating such as 16:8, 5:2, OMAD, the fasting mimicking diet or warrior diet, and circadian rhythm fasting), the role of glycogen, fat burning and ketones/ketosis, safety concerns for people with diabetes and disordered eating, and what studies (including a 2020 NIH review, mouse studies, and a 2020 comparison with Mediterranean and Paleo diets) say about weight loss and health benefits. They also cover caveats about mouse studies and study comparability, and close with a listener email from Otakar in the Czech Republic.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "intermittent fasting",
+    "time-restricted eating",
+    "16:8 fasting",
+    "5:2 diet",
+    "OMAD one meal a day",
+    "warrior diet",
+    "fasting mimicking diet",
+    "circadian rhythm fasting",
+    "ketosis",
+    "ketones",
+    "glycogen",
+    "starvation mode",
+    "metabolic switch",
+    "calorie restriction",
+    "weight loss",
+    "diabetes and fasting",
+    "disordered eating",
+    "brown fat and white fat",
+    "leptin",
+    "adiponectin",
+    "Mediterranean diet",
+    "Paleo diet",
+    "longevity and fasting",
+    "NIH intermittent fasting review",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Intermittent fasting",
+      "type": "other"
+    },
+    {
+      "name": "Mediterranean diet",
+      "type": "other"
+    },
+    {
+      "name": "Paleo diet",
+      "type": "other"
+    },
+    {
+      "name": "Atkins diet",
+      "type": "other"
+    },
+    {
+      "name": "National Institutes of Health",
+      "type": "organization"
+    },
+    {
+      "name": "Ford Fry",
+      "type": "person"
+    },
+    {
+      "name": "Beetle Cat",
+      "type": "organization"
+    },
+    {
+      "name": "Kirkwood Spring Fling Wing Fling",
+      "type": "event"
+    },
+    {
+      "name": "Ambien",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening and trigger warning",
+      "summary": "The hosts introduce the episode, give a trigger warning about disordered eating, and Josh describes how intermittent fasting affected him and why it may benefit health beyond weight loss.",
+      "topics": [
+        "trigger warning",
+        "disordered eating",
+        "intermittent fasting introduction"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:06:15",
+      "kind": "content",
+      "title": "What intermittent fasting is",
+      "summary": "Intermittent fasting is defined as focusing on the time window for eating rather than only calories, with the note that healthy diet still matters. Time-restricted eating such as 16:8 is introduced, along with jokes about sleep counting as fasting.",
+      "topics": [
+        "intermittent fasting definition",
+        "time-restricted eating",
+        "16:8 fasting",
+        "time-restricted feeding"
+      ]
+    },
+    {
+      "start": "00:06:15",
+      "end": "00:09:25",
+      "kind": "content",
+      "title": "Types of intermittent fasting",
+      "summary": "The hosts describe 14:10, OMAD (one meal a day), 5:2 (two low-calorie days per week, not consecutive), and the fasting mimicking diet or warrior diet, which includes one substantial meal and light nibbling, aimed at athletes. They note starvation mode and weakness or brain fog after long fasts.",
+      "topics": [
+        "5:2 diet",
+        "OMAD",
+        "fasting mimicking diet",
+        "warrior diet",
+        "starvation mode",
+        "fasting rules"
+      ]
+    },
+    {
+      "start": "00:09:25",
+      "end": "00:11:10",
+      "kind": "content",
+      "title": "What counts as fasting and personal experiences",
+      "summary": "Fasting allows water, coffee, and tea without sugar or creamer, and small calorie additions are sometimes allowed. The hosts share personal experiences with eating habits and urge people not to judge others based on weight.",
+      "topics": [
+        "what breaks a fast",
+        "fasting drinks",
+        "weight stigma"
+      ]
+    },
+    {
+      "start": "00:11:10",
+      "end": "00:14:35",
+      "kind": "content",
+      "title": "Glycogen, fat burning, ketones and safety",
+      "summary": "Energy comes from food, stored as glycogen, then fat. After glycogen runs out the body burns fat and releases ketones, the metabolic switch into ketosis. Ketone buildup can be dangerous, especially for people with diabetes, so consulting a doctor is advised.",
+      "topics": [
+        "glycogen",
+        "ketosis",
+        "ketones",
+        "metabolic switch",
+        "diabetes and fasting safety",
+        "ketoacidosis"
+      ]
+    },
+    {
+      "start": "00:14:35",
+      "end": "00:16:11",
+      "kind": "content",
+      "title": "Talking with a doctor",
+      "summary": "Chuck describes his relationship with his general practitioner, and the hosts discuss the value of a doctor who knows the patient and the drawbacks of avoiding doctors.",
+      "topics": [
+        "doctor relationship",
+        "healthcare provider advice"
+      ]
+    },
+    {
+      "start": "00:16:11",
+      "end": "00:25:40",
+      "kind": "content",
+      "title": "Studies on intermittent fasting and weight loss",
+      "summary": "The hosts review the history of IF studies, rising interest in the 2010s and growing skepticism. Meta-analyses suggest benefits beyond weight loss. Ed's point is that IF mainly works through calorie restriction. Easier than calorie counting for some people. Large meals of about a thousand calories are cut to make weight loss. The hosts discuss food habits, fried chicken, and their personal approach. They add a note on body positivity and not shaming others, then Chuck mentions health goals.",
+      "topics": [
+        "intermittent fasting studies",
+        "calorie restriction",
+        "weight loss results",
+        "body positivity",
+        "meta-analysis",
+        "food habits"
+      ]
+    },
+    {
+      "start": "00:25:40",
+      "end": "00:29:34",
+      "kind": "content",
+      "title": "NIH review and mechanisms like metabolic stress and muscle",
+      "summary": "A 2020 NIH review found intermittent fasting may improve conditions including obesity, diabetes, cardiovascular disease, cancers, and neurological disorders, based on animal and human studies. Josh describes ketones triggering anti-inflammatory defenses and one study suggesting help building muscle. The hosts note that animal studies and differing IF definitions complicate results, including white-to-brown fat conversion seen in mice.",
+      "topics": [
+        "NIH 2020 review",
+        "metabolic stress",
+        "muscle building and fasting",
+        "study limitations",
+        "animal studies",
+        "brown fat"
+      ]
+    },
+    {
+      "start": "00:29:34",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Health benefits: heart, blood sugar, brain and intestines",
+      "summary": "Benefits in mice include improved metabolism and intestinal stem cell function, and reduced inflammation. In humans, lower resting heart rate, lower LDL cholesterol, reduced fasting glucose and insulin, and improved cognitive performance were reported. Mouse studies show reduced oxidative brain damage and mitochondrial and neurogenesis effects.",
+      "topics": [
+        "cholesterol",
+        "blood glucose and insulin",
+        "cognitive performance",
+        "mitochondria and brain",
+        "neurogenesis",
+        "intestinal stem cells",
+        "Alzheimer's risk"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Adiponectin and leptin",
+      "summary": "Adiponectin is described as a hormone that regulates glucose, lipid metabolism, and insulin sensitivity. Leptin is a hunger hormone, and too much or too little causes hunger and weight gain. Intermittent fasting seems to keep leptin in a balanced range.",
+      "topics": [
+        "adiponectin",
+        "leptin",
+        "hunger hormones",
+        "leptin resistance"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:39:04",
+      "kind": "content",
+      "title": "Comparing IF with Mediterranean and Paleo diets",
+      "summary": "A 2020 study compared Paleo, Mediterranean, and intermittent fasting, with IF producing the most weight loss. People stuck to IF and Mediterranean about twenty percent more than Paleo. The hosts discuss the Mediterranean diet's staying power and its foods like olive oil, fish, wine, and nuts. A digression follows about Atlanta restaurants run by Ford Fry, including Beetle Cat.",
+      "topics": [
+        "Mediterranean diet",
+        "Paleo diet",
+        "diet adherence",
+        "2020 diet comparison study",
+        "Atlanta restaurants"
+      ]
+    },
+    {
+      "start": "00:39:04",
+      "end": "00:41:49",
+      "kind": "content",
+      "title": "Circadian rhythm fasting and lifespan",
+      "summary": "Circadian rhythm fasting focuses on eating earlier in the day, such as 8 am to 6 pm or 5 pm cutoff. A mouse study found circadian-timed feeding extended lifespan by up to 35 percent, versus about 10 percent for general time-restricted feeding. The hosts estimate what this might mean for humans.",
+      "topics": [
+        "circadian rhythm fasting",
+        "circadian timed feeding",
+        "lifespan extension in mice",
+        "eating timing"
+      ]
+    },
+    {
+      "start": "00:41:49",
+      "end": "00:44:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Otakar",
+      "summary": "Otakar from the Czech Republic writes that he discovered the show through a commute and enjoys the conversational style. The hosts respond and discuss Prague. Contact email is given.",
+      "topics": [
+        "listener mail",
+        "Czech Republic",
+        "podcast feedback"
+      ]
+    },
+    {
+      "start": "00:44:30",
+      "end": "00:44:40",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and iHeartRadio production note.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17730,
+    "output_tokens": 3420
+  }
+}

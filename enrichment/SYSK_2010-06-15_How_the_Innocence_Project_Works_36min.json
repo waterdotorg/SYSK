@@ -1,0 +1,221 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2010-06-15_How_the_Innocence_Project_Works_36min.txt",
+  "title": "How the Innocence Project Works",
+  "date": "2010-06-15",
+  "duration": "36 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-the-innocence-project-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/f188e6dd-519b-45a5-aa49-ae2800b6877b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f188e6dd-519b-45a5-aa49-ae2800b6877b/transcript?format=TextWithTimestamps&t=1700543960",
+  "summary": "Josh and Chuck explain the Innocence Project, the New York-based (Benjamin N. Cardozo School of Law, Yeshiva University) group founded by Barry Scheck and Peter Neufeld that uses DNA evidence to exonerate wrongly convicted prisoners, with help from law students and, at Northwestern, journalism students. They cover the main causes of wrongful conviction (eyewitness misidentification and the other-race effect, improper forensic science, false confessions, jailhouse snitches), the Florida Bill Dillon case in Brevard County, the statistics on DNA exonerations and death row, evidence-preservation laws and the Justice for All Act, and close with a listener email from Becca.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Innocence Project",
+    "wrongful conviction",
+    "DNA exoneration",
+    "Barry Scheck",
+    "Peter Neufeld",
+    "Benjamin N. Cardozo School of Law",
+    "eyewitness misidentification",
+    "other-race effect",
+    "false confessions",
+    "jailhouse snitches",
+    "forensic science errors",
+    "Bill Dillon case",
+    "Brevard County Florida",
+    "Justice for All Act",
+    "evidence preservation laws",
+    "death row exonerations",
+    "Northwestern University Medill journalism subpoena",
+    "On the Case with Paula Zahn",
+    "police misconduct",
+    "LAPD Rampart scandal",
+    "canine scent identification",
+    "Ricky Johnson exoneration",
+    "false confession Victoria Banks"
+  ],
+  "entities": [
+    {
+      "name": "Innocence Project",
+      "type": "organization"
+    },
+    {
+      "name": "Barry Scheck",
+      "type": "person"
+    },
+    {
+      "name": "Peter Neufeld",
+      "type": "person"
+    },
+    {
+      "name": "Benjamin N. Cardozo School of Law",
+      "type": "organization"
+    },
+    {
+      "name": "Yeshiva University",
+      "type": "organization"
+    },
+    {
+      "name": "Northwestern University Medill School of Journalism",
+      "type": "organization"
+    },
+    {
+      "name": "Bill Dillon",
+      "type": "person"
+    },
+    {
+      "name": "James Dvorak",
+      "type": "person"
+    },
+    {
+      "name": "John Preston",
+      "type": "person"
+    },
+    {
+      "name": "Brevard County, Florida",
+      "type": "place"
+    },
+    {
+      "name": "Canova Beach, Florida",
+      "type": "place"
+    },
+    {
+      "name": "Victoria Banks",
+      "type": "person"
+    },
+    {
+      "name": "Ricky Johnson",
+      "type": "person"
+    },
+    {
+      "name": "Justice for All Act",
+      "type": "work"
+    },
+    {
+      "name": "Paula Zahn",
+      "type": "person"
+    },
+    {
+      "name": "On the Case with Paula Zahn",
+      "type": "work"
+    },
+    {
+      "name": "David Dow",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:06:30",
+      "kind": "intro",
+      "title": "Opening banter and origin of the episode",
+      "summary": "Hosts banter about Jerry, then describe how an interview with Paula Zahn about true crime led them to the Innocence Project and the Northwestern University journalism subpoena controversy.",
+      "topics": [
+        "Paula Zahn",
+        "Northwestern University Medill journalism subpoena",
+        "true crime"
+      ]
+    },
+    {
+      "kind": "ad",
+      "start": "00:00:00",
+      "end": "00:00:00",
+      "title": "Sponsor reads",
+      "summary": "Sponsor reads for Go To Meeting and a Camry ad at the start of the episode.",
+      "topics": [
+        "sponsorship"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "What the Innocence Project does",
+      "summary": "The Innocence Project, founded by Barry Scheck and Peter Neufeld and part of Benjamin Cardozo School of Law at Yeshiva University, uses DNA evidence to free wrongly imprisoned people, with law and sometimes journalism students investigating cases. Out of 254 DNA exonerations, the actual perpetrator was identified in 111.",
+      "topics": [
+        "Innocence Project",
+        "DNA exoneration",
+        "Barry Scheck",
+        "Peter Neufeld",
+        "Benjamin N. Cardozo School of Law"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Why legal flaws matter and police misconduct",
+      "summary": "Hosts explain why law students are needed for post-conviction innocence appeals and discuss police misconduct, including the LAPD CRASH unit scandal that overturned between 100 and 150 convictions.",
+      "topics": [
+        "post-conviction appeals",
+        "police misconduct",
+        "LAPD Rampart scandal",
+        "legal system flaws"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Causes of wrongful conviction: eyewitnesses and forensics",
+      "summary": "Eyewitness misidentification figures in 70 percent of post-conviction DNA exonerations, linked to the other-race effect. Improper or unvetted forensic science, such as bite marks and hair microscopy, played a role in 50 percent of cases.",
+      "topics": [
+        "eyewitness misidentification",
+        "other-race effect",
+        "forensic science errors",
+        "bite mark evidence",
+        "hair microscopy"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "False confessions and jailhouse snitches",
+      "summary": "False confessions occurred in many cases, often from defendants aged 18 or younger or developmentally disabled, as in the Victoria Banks case. Pressure to plead to escape jail while awaiting trial is discussed. Snitches were a factor in 19 percent of cases.",
+      "topics": [
+        "false confessions",
+        "plea bargains",
+        "jailhouse snitches",
+        "Victoria Banks",
+        "bail"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Bill Dillon case in Brevard County",
+      "summary": "Bill Dillon was convicted of the 1981 beating death of James Dvorak on Canova Beach. Testimony came from a prison snitch, a witness who was blind in one eye, a girlfriend who had a relationship with the lead investigator, and a scent dog handler John Preston whose dog identified Dillon. Dillon served 26 years before a preserved T-shirt was DNA tested and exonerated him.",
+      "topics": [
+        "Bill Dillon",
+        "Canova Beach murder",
+        "Brevard County",
+        "canine scent identification",
+        "John Preston",
+        "T-shirt DNA evidence"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Death row exonerations, lost evidence, and evidence-preservation laws",
+      "summary": "Statistics on exonerations (17 death row cases, two cases closed due to lost evidence), a 2004 study on death row exonerations, the Innocence Movement, and the Innocence Project's review of inmate letters. Only about half of states require preserving evidence after conviction; the federal Justice for All Act offers financial incentives. Scheck's goal of proving a wrongful execution is noted.",
+      "topics": [
+        "death row exonerations",
+        "evidence preservation",
+        "Justice for All Act",
+        "innocence movement",
+        "Barry Scheck"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 11807,
+    "output_tokens": 2511
+  }
+}

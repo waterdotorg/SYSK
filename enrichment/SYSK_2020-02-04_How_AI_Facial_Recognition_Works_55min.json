@@ -1,0 +1,282 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-02-04_How_AI_Facial_Recognition_Works_55min.txt",
+  "title": "How AI Facial Recognition Works",
+  "date": "2020-02-04",
+  "duration": "55 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-ai-facial-recognition-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e2704163-338f-4df8-b626-ae28003dd912/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e2704163-338f-4df8-b626-ae28003dd912/transcript?format=TextWithTimestamps&t=1700543663",
+  "summary": "Josh and Chuck explain how AI facial recognition works: neural nets since around 2007 improved machine learning, facial geometry measurement and normalization, similarity scores rather than definitive matches, and beneficial uses (tagging, Thorn anti-trafficking, dating apps, finding people who cannot identify themselves). They then cover harms: government and police surveillance, China's CCTV targeting of ethnic minorities, bans in San Francisco, Oakland, Berkeley and Somerville, Maine, the NYPD using a Woody Harrelson lookalike, racial accuracy disparities, Fourth Amendment questions, Amazon Rekognition, and Clearview AI scraping social media. The episode ends with listener mail thanking fans for gifts.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "facial recognition",
+    "AI facial recognition",
+    "how facial recognition works",
+    "neural networks",
+    "machine learning",
+    "biometric authentication",
+    "facial geometry",
+    "similarity score",
+    "law enforcement surveillance",
+    "Clearview AI",
+    "Amazon Rekognition",
+    "racial bias in facial recognition",
+    "Fourth Amendment",
+    "privacy",
+    "mass surveillance",
+    "China CCTV surveillance",
+    "facial recognition bans",
+    "Woodrow Hartzog",
+    "Thorn nonprofit",
+    "Facebook photo tagging",
+    "doppelgangers",
+    "NYPD Woody Harrelson lookalike",
+    "FBI facial recognition database",
+    "dating apps"
+  ],
+  "entities": [
+    {
+      "name": "Woodrow Hartzog",
+      "type": "person"
+    },
+    {
+      "name": "Brad Smith",
+      "type": "person"
+    },
+    {
+      "name": "Clearview AI",
+      "type": "organization"
+    },
+    {
+      "name": "Amazon Rekognition",
+      "type": "organization"
+    },
+    {
+      "name": "Facebook",
+      "type": "organization"
+    },
+    {
+      "name": "Thorn",
+      "type": "organization"
+    },
+    {
+      "name": "FBI",
+      "type": "organization"
+    },
+    {
+      "name": "NYPD",
+      "type": "organization"
+    },
+    {
+      "name": "New York Times",
+      "type": "organization"
+    },
+    {
+      "name": "MIT Media Lab",
+      "type": "organization"
+    },
+    {
+      "name": "Carpenter v. United States",
+      "type": "event"
+    },
+    {
+      "name": "Woody Harrelson",
+      "type": "person"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "San Francisco",
+      "type": "place"
+    },
+    {
+      "name": "Oakland",
+      "type": "place"
+    },
+    {
+      "name": "Berkeley",
+      "type": "place"
+    },
+    {
+      "name": "Somerville, Maine",
+      "type": "place"
+    },
+    {
+      "name": "London",
+      "type": "place"
+    },
+    {
+      "name": "Benjamin Kyle",
+      "type": "person"
+    },
+    {
+      "name": "Taylor Swift",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:04:30",
+      "kind": "intro",
+      "title": "Opening banter and tour announcement",
+      "summary": "Josh announces spring tour dates in Vancouver and Portland, then the hosts chat about old movies (Short Circuit, War Games) and early computer games before turning to facial recognition.",
+      "topics": [
+        "tour dates",
+        "War Games",
+        "Short Circuit",
+        "retro video games"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "History and why facial recognition improved",
+      "summary": "The hosts note facial recognition dates to the 1950s and a 2002 Super Bowl test went poorly. Neural nets around 2007 let machines learn faces from example images. Facebook's photo volume and cheaper tools expanded use.",
+      "topics": [
+        "facial recognition history",
+        "neural networks",
+        "machine learning",
+        "Facebook photo tagging",
+        "Super Bowl 2002 facial recognition test"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Amazon Rekognition and wide availability",
+      "summary": "Amazon offers a cheap facial recognition service called Rekognition that law enforcement and other platforms can subscribe to, making the technology ubiquitous. Josh offers a soapbox warning about privacy, citing Woodrow Hartzog's view that surveillance could become irreversible.",
+      "topics": [
+        "Amazon Rekognition",
+        "privacy",
+        "Woodrow Hartzog",
+        "surveillance state",
+        "ubiquity of facial recognition"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "How the process works: facial geometry and normalization",
+      "summary": "The system measures facial geometry, such as distances between features, then normalizes the face to a front-facing view, compares it to databases of mostly face-on photos, and uses nodal points. The hosts discuss 2D versus 3D (Apple's Face ID) and sunglasses blocking phone unlocking.",
+      "topics": [
+        "facial geometry",
+        "nodal points",
+        "face normalization",
+        "2D vs 3D facial recognition",
+        "Apple Face ID",
+        "how facial recognition works"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:25:00",
+      "kind": "content",
+      "title": "Similarity scores, not certainty",
+      "summary": "The software outputs a probabilistic similarity score rather than a definitive match. The user sets the confidence threshold, and Amazon's default recommended threshold is discussed as creepy.",
+      "topics": [
+        "similarity score",
+        "confidence threshold",
+        "probabilistic matching",
+        "Amazon Rekognition threshold"
+      ]
+    },
+    {
+      "start": "00:25:00",
+      "end": "00:30:00",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Short break between segments.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:30:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Beneficial uses of facial recognition",
+      "summary": "Beneficial uses include tagging photos, Thorn's work scanning missing children's photos against exploitation material and rescuing about a hundred kids, dating apps, Taylor Swift's security team scanning audiences for known harassers, and police identifying people who cannot identify themselves, such as the amnesia case of Benjamin Kyle.",
+      "topics": [
+        "beneficial uses",
+        "Thorn anti-trafficking",
+        "dating apps",
+        "Taylor Swift security",
+        "identifying amnesia patients",
+        "Benjamin Kyle"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Surveillance abuses, bans, and wrongful arrest risks",
+      "summary": "Harmful uses include China's CCTV systems targeting ethnic minorities and religious groups. San Francisco, Oakland, Berkeley and Somerville, Maine have banned law enforcement use. The NYPD used a Woody Harrelson lookalike to match a beer thief at a CVS. The Georgetown study Garbage In, Garbage Out is cited. The FBI gets about fifty thousand search requests a month. Using driver's license databases puts everyone in a perpetual lineup.",
+      "topics": [
+        "China surveillance",
+        "facial recognition bans",
+        "NYPD Woody Harrelson",
+        "doppelganger matching",
+        "Georgetown Garbage In Garbage Out",
+        "FBI search requests",
+        "driver's license lineup",
+        "wrongful arrest",
+        "police fairness"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:52:00",
+      "kind": "content",
+      "title": "Racial bias, Amazon's dispute, and legal questions",
+      "summary": "An MIT Media Lab 2018 study found higher misidentification rates for darker-skinned women and men, which the hosts attribute to unrepresentative training data. Amazon disputed this by distinguishing facial analysis from facial recognition. The hosts discuss Fourth Amendment questions, checkpoint precedent, and Carpenter v. United States.",
+      "topics": [
+        "racial bias",
+        "MIT Media Lab study",
+        "facial analysis vs facial recognition",
+        "training data bias",
+        "Fourth Amendment",
+        "Carpenter v. United States",
+        "legal regulation"
+      ]
+    },
+    {
+      "start": "00:52:00",
+      "end": "00:54:00",
+      "kind": "content",
+      "title": "Clearview AI and the broader surveillance concern",
+      "summary": "The New York Times exposed Clearview AI, which scrapes social media to build a database of about three billion photos sold to law enforcement. The hosts discuss ring doorbells, smart devices, and the danger of a surveillance society.",
+      "topics": [
+        "Clearview AI",
+        "New York Times expose",
+        "social media scraping",
+        "Ring doorbell surveillance",
+        "surveillance society"
+      ]
+    },
+    {
+      "start": "00:54:00",
+      "end": "00:55:00",
+      "kind": "listener_mail",
+      "title": "Listener mail and sign-off",
+      "summary": "The hosts thank listeners for gifts and letters, including socks, t-shirts, portraits, books, and food, and invite emails to the show address.",
+      "topics": [
+        "listener mail",
+        "fan gifts",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17714,
+    "output_tokens": 3082
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2019-07-25_How_Eyewitness_Testimony_Works_56min.txt",
+  "title": "How Eyewitness Testimony Works(?)",
+  "date": "2019-07-25",
+  "duration": "56 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-eyewitness-testimony-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/8033f188-6773-4dfa-870f-ae280049066d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8033f188-6773-4dfa-870f-ae280049066d/transcript?format=TextWithTimestamps&t=1700543688",
+  "summary": "Josh and Chuck discuss eyewitness testimony and why it is unreliable in criminal cases. They cover the 1959 Redmount brief on memory reliability, early psychologist Hugo Munsterberg and his book On the Witness Stand, later work by Robert Buckhout and Elizabeth Loftus, and the role of DNA exonerations and the Innocence Project. The hosts explain how perception and memory fill in gaps, the hollow-mask illusion, attentional blink, the psychological refractory period and weapon focus, and the cross-race effect. They describe how repeated recall, leading questions and misinformation effect build confidence, the Ronald Cotton and Bobby Poole case, the 1977 Supreme Court factors for eyewitness identification, and the Troy Davis execution. The episode closes with a listener mail about a dog named Scully and a family's road trip.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "eyewitness testimony",
+    "eyewitness identification",
+    "wrongful conviction",
+    "memory reliability",
+    "false memory",
+    "misinformation effect",
+    "leading questions",
+    "Hugo Munsterberg",
+    "Elizabeth Loftus",
+    "Robert Buckhout",
+    "Innocence Project",
+    "DNA exoneration",
+    "cross-race effect",
+    "own-race bias",
+    "weapon focus",
+    "attentional blink",
+    "psychological refractory period",
+    "perception and gestalt theory",
+    "hollow mask illusion",
+    "Ronald Cotton",
+    "Bobby Poole",
+    "Jennifer Thompson",
+    "Troy Davis execution",
+    "Neil Manson Supreme Court 1977 factors",
+    "police lineups",
+    "courtroom expert testimony",
+    "confidence and accuracy"
+  ],
+  "entities": [
+    {
+      "name": "Hugo Munsterberg",
+      "type": "person"
+    },
+    {
+      "name": "Elizabeth Loftus",
+      "type": "person"
+    },
+    {
+      "name": "Robert Buckhout",
+      "type": "person"
+    },
+    {
+      "name": "Ronald Cotton",
+      "type": "person"
+    },
+    {
+      "name": "Bobby Poole",
+      "type": "person"
+    },
+    {
+      "name": "Jennifer Thompson",
+      "type": "person"
+    },
+    {
+      "name": "Troy Davis",
+      "type": "person"
+    },
+    {
+      "name": "Mark McPhail",
+      "type": "person"
+    },
+    {
+      "name": "Robert Redmount",
+      "type": "person"
+    },
+    {
+      "name": "Jeffrey Loftus",
+      "type": "person"
+    },
+    {
+      "name": "Raymond Burr",
+      "type": "person"
+    },
+    {
+      "name": "Innocence Project",
+      "type": "organization"
+    },
+    {
+      "name": "Picking Cotton",
+      "type": "work"
+    },
+    {
+      "name": "On the Witness Stand",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Tour dates and opening banter",
+      "summary": "Josh and Chuck plug upcoming live tour dates, then introduce the episode with a joke about a hit-and-run story and a friend's lineup experience.",
+      "topics": [
+        "live tour dates",
+        "hit and run",
+        "eyewitness testimony introduction"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Eyewitness testimony as the courtroom gold standard",
+      "summary": "The hosts say eyewitness testimony is treated as the gold standard in courts and that juries find confident witnesses convincing, even when witnesses are wrong and sincere. They note DNA evidence has exposed many wrongful convictions and cite a 1959 brief by attorney Robert Redmount that presumed ordinary memory is reliable.",
+      "topics": [
+        "eyewitness testimony",
+        "gold standard evidence",
+        "wrongful conviction",
+        "DNA evidence",
+        "1959 Redmount brief"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Early psychology and Munsterberg's memory warnings",
+      "summary": "The hosts describe how early twentieth-century psychology examined memory reliability. Hugo Munsterberg wrote On the Witness Stand, showing through experiments at Harvard that memory is not a recording. His work was overlooked partly because of his pro-German statements during World War One.",
+      "topics": [
+        "Hugo Munsterberg",
+        "On the Witness Stand",
+        "applied psychology",
+        "memory experiments",
+        "World War One"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Smartphones, distraction and 1970s memory research",
+      "summary": "The hosts discuss how distraction, including smartphones, hurts witnesses. They describe psychology's return to memory research in the mid-1970s, with Robert Buckhout and Elizabeth Loftus, whose work drew wide attention. DNA exonerations then pushed the issue into public view.",
+      "topics": [
+        "smartphone distraction",
+        "Robert Buckhout",
+        "Elizabeth Loftus",
+        "memory research history",
+        "DNA exonerations"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:21:00",
+      "kind": "content",
+      "title": "The Innocence Project and exoneration statistics",
+      "summary": "The hosts describe the Innocence Project's work overturning convictions based on faulty evidence. They cite about 365 exonerations and say many death-row convictions were based on eyewitness testimony, including cases with multiple witnesses.",
+      "topics": [
+        "Innocence Project",
+        "exonerations",
+        "death row",
+        "multiple eyewitnesses"
+      ]
+    },
+    {
+      "start": "00:21:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "How perception fills in gaps",
+      "summary": "The hosts explain that people perceive reality piecemeal and fill in blanks, citing theories of perception and gestalt theory. They use the hollow-mask illusion as an example and note that the brain prioritizes threats in dangerous situations.",
+      "topics": [
+        "perception",
+        "gestalt theory",
+        "hollow mask illusion",
+        "perceptual hypotheses",
+        "memory construction"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Vision, eyesight and courtroom challenges",
+      "summary": "The hosts discuss how defense attorneys challenge witnesses on eyesight, lighting, distance and glasses. They mention Jeffrey Loftus's vision-over-distance formula and the Perry Mason courtroom jokes.",
+      "topics": [
+        "eyesight in court",
+        "vision over distance",
+        "Jeffrey Loftus",
+        "defense cross-examination",
+        "Perry Mason"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Attention limits, attentional blink, and weapon focus",
+      "summary": "The hosts explain attentional blink and the psychological refractory period, which can cause witnesses to miss details during stressful events. They describe weapon focus, where attention goes to a gun rather than the face, and a personal story of a mugging victim who did not notice the gun.",
+      "topics": [
+        "attentional blink",
+        "psychological refractory period",
+        "weapon focus",
+        "limited attention",
+        "stress and memory"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Cross-race effect and the Ronald Cotton case",
+      "summary": "The hosts explain the own-race bias or cross-race effect, which affects people regardless of prejudice scores. They describe the Ronald Cotton case, in which Jennifer Thompson misidentified him and Bobby Poole was the real perpetrator. DNA later exonerated Cotton, and Thompson and Cotton co-wrote the book Picking Cotton.",
+      "topics": [
+        "cross-race effect",
+        "own-race bias",
+        "Ronald Cotton",
+        "Bobby Poole",
+        "Jennifer Thompson",
+        "Picking Cotton"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:53:00",
+      "kind": "content",
+      "title": "Repeated recall, leading questions and confidence",
+      "summary": "The hosts explain how repeated retelling, leading questions and the misinformation effect change memory and build confidence over time. They note juries are swayed by confident witnesses, and that courts have often excluded expert testimony on memory as common sense. They describe the 1977 Supreme Court ruling with its five factors and the debate over whether confidence reflects accuracy.",
+      "topics": [
+        "misinformation effect",
+        "leading questions",
+        "repeated recall",
+        "confidence and accuracy",
+        "expert testimony",
+        "1977 Supreme Court ruling",
+        "suggestive identification"
+      ]
+    },
+    {
+      "start": "00:53:00",
+      "end": "00:56:00",
+      "kind": "content",
+      "title": "Troy Davis and wrongful execution",
+      "summary": "The hosts discuss the 2011 execution of Troy Davis in Georgia for the killing of police officer Mark McPhail. They say nine eyewitnesses, seven of whom recanted, were the main evidence, and that a petition with about 660,000 signatures did not stop the execution.",
+      "topics": [
+        "Troy Davis",
+        "Mark McPhail",
+        "execution of innocent people",
+        "recanted testimony",
+        "death penalty"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17084,
+    "output_tokens": 3312
+  }
+}

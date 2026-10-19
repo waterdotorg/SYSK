@@ -1,0 +1,140 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-07-28_Short_Stuff_Space_Hurricanes_12min.txt",
+  "title": "Short Stuff: Space Hurricanes",
+  "date": "2021-07-28",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-space-hurricanes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c311b7de-ca2b-4396-b53a-ae280010a50f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c311b7de-ca2b-4396-b53a-ae280010a50f/transcript?format=TextWithTimestamps&t=1700543586",
+  "summary": "Short Stuff episode on space hurricanes. Josh and Chuck explain the space plasma hurricane documented over the magnetic North Pole on August 20, 2014, reported in a Nature Communications paper in February 2021. They compare it to Earth hurricanes: it was about 600 miles wide, spun around a calm center at roughly 300 km/h (the transcript says \"about d and sixty kilometers per hour,\" likely 360 km/h or similar), sits in the ionosphere rather than the 5 to 9 miles of Earth's atmosphere, and is made of plasma rather than water vapor and wind. They discuss the solar cycle and quiet space weather at the time, possible explanations such as magnetic field lines reconnecting, the satellite and GPS disruption risk, and the name choice over \"space vortex.\" The episode closes with a teaser that a follow-up will come once more is understood.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "space hurricanes",
+    "space plasma hurricane",
+    "North Pole aurora",
+    "plasma",
+    "fourth state of matter",
+    "ionosphere",
+    "Nature Communications",
+    "August 2014 event",
+    "geomagnetic activity",
+    "solar cycle",
+    "space weather",
+    "satellite disruption",
+    "Earth hurricanes",
+    "polar vortex",
+    "magnetic field reconnection",
+    "Aurora borealis"
+  ],
+  "entities": [
+    {
+      "name": "Space hurricane",
+      "type": "event"
+    },
+    {
+      "name": "North Pole",
+      "type": "place"
+    },
+    {
+      "name": "Nature Communications",
+      "type": "work"
+    },
+    {
+      "name": "Ionosphere",
+      "type": "place"
+    },
+    {
+      "name": "Plasma",
+      "type": "other"
+    },
+    {
+      "name": "Aurora borealis",
+      "type": "other"
+    },
+    {
+      "name": "Polar vortex",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Introduction to space hurricanes",
+      "summary": "Josh introduces the August 20, 2014 space plasma hurricane over the magnetic North Pole, documented for the first time and written up in Nature Communications in February. He notes it was unseen at the time and compares its shape to Earth hurricanes.",
+      "topics": [
+        "space hurricanes",
+        "North Pole",
+        "Nature Communications",
+        "aurora borealis"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "How space hurricanes differ from Earth hurricanes",
+      "summary": "Chuck and Josh explain that a space hurricane is made of plasma (ions, electrons, magnetism) rather than wind and water vapor, sits in the ionosphere rather than the lower few miles of the atmosphere, and was about 600 miles wide with a calm center. They mention a meteorologist who suggested the name space vortex.",
+      "topics": [
+        "plasma",
+        "ionosphere",
+        "space hurricane vs Earth hurricane",
+        "polar vortex",
+        "fourth state of matter"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:00",
+      "kind": "content",
+      "title": "Space weather conditions and possible causes",
+      "summary": "The hosts describe the calm space weather at the time, despite the Sun being near its eleven-year cycle maximum, and say the event does not appear tied to the solar cycle. A possible explanation is magnetic field lines breaking and reconnecting, releasing energy. Scientists think these may be more common than realized.",
+      "topics": [
+        "solar cycle",
+        "space weather",
+        "magnetic field reconnection",
+        "geomagnetic activity"
+      ]
+    },
+    {
+      "start": "00:09:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Impact on satellites and Earth",
+      "summary": "Josh and Chuck say the event is unlikely to affect people on Earth, though it could disrupt satellites and GPS and could be a concern for space exploration.",
+      "topics": [
+        "satellite disruption",
+        "GPS interference",
+        "space weather"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:30",
+      "kind": "ad",
+      "title": "Off-topic banter and sponsor read",
+      "summary": "Hosts banter about a seventies-style disco bar opening in Atlanta and goldfish, then give the show's iHeartRadio production credit and app promotion.",
+      "topics": [
+        "podcast promotion"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Josh wraps up, saying a follow-up on space hurricanes is planned once more is understood.",
+      "topics": [
+        "space hurricanes"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4892,
+    "output_tokens": 1631
+  }
+}

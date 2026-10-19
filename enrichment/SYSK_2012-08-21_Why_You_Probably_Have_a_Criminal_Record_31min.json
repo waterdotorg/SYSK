@@ -1,0 +1,228 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2012-08-21_Why_You_Probably_Have_a_Criminal_Record_31min.txt",
+  "title": "Why You Probably Have a Criminal Record",
+  "date": "2012-08-21",
+  "duration": "31 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/why-you-probably-have-a-criminal-record",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/237e869a-fa7a-49de-9c3d-ae2800a60fcf/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/237e869a-fa7a-49de-9c3d-ae2800a60fcf/transcript?format=TextWithTimestamps&t=1700543914",
+  "summary": "Josh and Chuck explain how criminal records work in the United States: how they are created starting at arrest, kept at local, state and federal levels (voluntary reporting to repositories), and used for law enforcement, sentencing, and background checks. They cover expungement versus sealing (with New York and Arizona examples and juvenile records), the Drew Shedden National Sex Offender Public Registry, the FBI's record access under FOIA, the National Driver Register for traffic offenses, employment discrimination based on records, fidelity bonds, and gun purchase and travel/visa restrictions. The episode opens with the 1980 Mariel boatlift story about Cuban arrivals with criminal records, and closes with a Facebook/listener question segment on fruit, theme parks, movies, Beatles, and TV shows.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "criminal records",
+    "criminal record",
+    "arrest record",
+    "expungement",
+    "sealing records",
+    "juvenile records",
+    "background checks",
+    "employment discrimination criminal record",
+    "sex offender registry",
+    "Drew Shedden National Sex Offender Public Registry",
+    "National Driver Register",
+    "FBI criminal record FOIA",
+    "fidelity bond",
+    "gun purchase background check",
+    "Mariel boatlift",
+    "Cuban criminal records",
+    "felony statistics",
+    "sentencing and criminal history",
+    "Interstate Identification Index",
+    "record sealing New York Arizona"
+  ],
+  "entities": [
+    {
+      "name": "Mariel boatlift",
+      "type": "event"
+    },
+    {
+      "name": "Scarface",
+      "type": "work"
+    },
+    {
+      "name": "Fulton County Federal Penitentiary",
+      "type": "place"
+    },
+    {
+      "name": "Drew Shedden",
+      "type": "person"
+    },
+    {
+      "name": "National Sex Offender Public Registry",
+      "type": "other"
+    },
+    {
+      "name": "National Driver Register",
+      "type": "other"
+    },
+    {
+      "name": "Interstate Identification Index",
+      "type": "other"
+    },
+    {
+      "name": "FBI",
+      "type": "organization"
+    },
+    {
+      "name": "Smoking Gun",
+      "type": "organization"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "type": "person"
+    },
+    {
+      "name": "Arizona",
+      "type": "place"
+    },
+    {
+      "name": "New York",
+      "type": "place"
+    },
+    {
+      "name": "North Dakota",
+      "type": "place"
+    },
+    {
+      "name": "Cuba",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Mariel boatlift story",
+      "summary": "Hosts banter about the podcast, then discuss the 1980 Mariel boatlift, the Cuban arrivals held at Fulton County Federal Penitentiary, and the 23,000 who confessed to criminal records in Cuba, of whom about two percent were criminals under US law.",
+      "topics": [
+        "Mariel boatlift",
+        "Cuban criminal records",
+        "Scarface"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "What a criminal record is and how it starts",
+      "summary": "The hosts define criminal records as files, note that a record begins with arrest even without conviction, and list main uses: catching suspects, sentencing, and background checks.",
+      "topics": [
+        "criminal records",
+        "arrest record",
+        "sentencing and criminal history"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Background checks and employer use",
+      "summary": "Background checks are standard for military, FBI, and elder or child care jobs, but companies increasingly use them broadly. Discussion of the original purpose and how employers can discriminate based on records.",
+      "topics": [
+        "background checks",
+        "employment discrimination criminal record"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Record keeping history and statistics",
+      "summary": "Records were once handwritten and kept at local police stations. Records are now on databases. Stats: about 6.5 percent of the US population has a felony record and about one in fifteen has been to prison; roughly sixty million adults have a criminal record.",
+      "topics": [
+        "felony statistics",
+        "criminal record databases"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "What is in a record and who keeps it",
+      "summary": "Law enforcement access includes name, date of birth, aliases, description, residence, convictions, warrants, fingerprints and mug shots. Records are kept at local and state levels, with reporting to repositories and national databases that are often voluntary.",
+      "topics": [
+        "criminal record databases",
+        "state criminal repositories",
+        "mug shots and fingerprints"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Expungement and sealing",
+      "summary": "Petitioning a court to expunge or seal a record, with sealing described as more accurate because the record remains but only law enforcement and government can see it. Examples given for New York, where arrests without conviction still need a petition, and Arizona, which has no expungement process for adults.",
+      "topics": [
+        "expungement",
+        "sealing records",
+        "record sealing New York Arizona"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Juvenile records",
+      "summary": "Juveniles are generally tried in juvenile court and records are typically cleared at adulthood, with exceptions for serious crimes tried as adults. Arizona has a process for destroying juvenile records. Sex offender registration still applies to juveniles.",
+      "topics": [
+        "juvenile records",
+        "juvenile court"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Sex offender registries and Drew Shedden",
+      "summary": "Discussion of the 2000s North Dakota case of Drew Shedden, the lack of a registry at the time, and the resulting National Sex Offender Public Registry named after her. The hosts describe residency restrictions and recidivism.",
+      "topics": [
+        "sex offender registry",
+        "Drew Shedden National Sex Offender Public Registry",
+        "residency restrictions"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Access to records, traffic offenses, and job discrimination",
+      "summary": "Individuals can request their FBI record through FOIA. Traffic offenses are in the National Driver Register, separate from criminal records. Employers can get records with permission; courts have ruled some conviction-based discrimination is racial discrimination; fidelity bonds may be required for hiring.",
+      "topics": [
+        "FBI criminal record FOIA",
+        "National Driver Register",
+        "fidelity bond",
+        "employment discrimination criminal record"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:29:00",
+      "kind": "content",
+      "title": "Gun purchases, travel, and visas",
+      "summary": "Background checks for firearm purchases; felony indictments with more than a year of prison bar purchases. Criminal records can lead to denial of entry to other countries and to the US, and visas for work may be hard to get.",
+      "topics": [
+        "gun purchase background check",
+        "travel and visas with criminal record"
+      ]
+    },
+    {
+      "start": "00:29:00",
+      "end": "00:31:00",
+      "kind": "listener_mail",
+      "title": "Facebook questions and wrap-up",
+      "summary": "The hosts answer listener questions on fruit for a pool dive, favorite theme parks, Beatles, movies, and TV shows, then give contact information and sign off.",
+      "topics": [
+        "listener questions",
+        "Facebook questions"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 10619,
+    "output_tokens": 2601
+  }
+}

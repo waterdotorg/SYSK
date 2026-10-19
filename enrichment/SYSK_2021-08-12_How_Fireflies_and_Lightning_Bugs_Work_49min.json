@@ -1,0 +1,256 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2021-08-12_How_Fireflies_and_Lightning_Bugs_Work_49min.txt",
+  "title": "How Fireflies and Lightning Bugs Work",
+  "date": "2021-08-12",
+  "duration": "49 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-fireflies-and-lightning-bugs-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a7933ec1-430d-4330-b6ce-ae28000ec8d4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a7933ec1-430d-4330-b6ce-ae28000ec8d4/transcript?format=TextWithTimestamps&t=1700543585",
+  "summary": "Josh and Chuck explore fireflies (lightning bugs): how they differ from glow worms and daytime dark fireflies, their beetle classification (family Lampyridae), wing and head anatomy, habitat and seasonal timing, the chemistry of bioluminescence (luciferin, luciferase, ATP, oxygen, cold light), mating flash signals and synchronous flashing, predatory female Photuris fireflies that mimic Photinus females, life cycle with a long larval stage, predators and defensive bitter toxins (Boise State bat study), the decline of firefly populations due to habitat loss, pesticides, and light pollution, the 1960s-1990s commercial harvesting for luciferase, and ways listeners can help (leaving leaves and wild areas, mowing less, turning off lights, citizen science censuses). The episode ends with listener mail from Kelsey about sarcasm.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "fireflies",
+    "lightning bugs",
+    "bioluminescence",
+    "luciferin",
+    "luciferase",
+    "firefly mating rituals",
+    "synchronous fireflies",
+    "Photuris femme fatale fireflies",
+    "firefly life cycle",
+    "firefly larvae",
+    "firefly predators",
+    "firefly defensive toxins",
+    "firefly population decline",
+    "light pollution and fireflies",
+    "pesticides and fireflies",
+    "habitat loss fireflies",
+    "firefly luciferase harvesting",
+    "Vanishing Firefly Project",
+    "Firefly Watch citizen science",
+    "how to help fireflies",
+    "glow worms",
+    "cold light",
+    "beetles Lampyridae",
+    "blue ghost firefly",
+    "Boise State bat firefly study"
+  ],
+  "entities": [
+    {
+      "name": "Lampyridae",
+      "type": "other"
+    },
+    {
+      "name": "Photinus",
+      "type": "other"
+    },
+    {
+      "name": "Photuris",
+      "type": "other"
+    },
+    {
+      "name": "Sigma Chemical Company",
+      "type": "organization"
+    },
+    {
+      "name": "Vanishing Firefly Project",
+      "type": "organization"
+    },
+    {
+      "name": "Firefly Watch",
+      "type": "organization"
+    },
+    {
+      "name": "Museum of Science in Boston",
+      "type": "organization"
+    },
+    {
+      "name": "Boise State University",
+      "type": "organization"
+    },
+    {
+      "name": "Asheville",
+      "type": "place"
+    },
+    {
+      "name": "Nathan Fillion",
+      "type": "person"
+    },
+    {
+      "name": "Ben Pfeiffer",
+      "type": "person"
+    },
+    {
+      "name": "Kelsey",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and firefly vs. lightning bug names",
+      "summary": "Hosts banter about whether to say firefly or lightning bug, depending on region, and introduce the glow worm, daytime dark firefly, and flashing firefly categories.",
+      "topics": [
+        "firefly vs lightning bug",
+        "glow worm",
+        "daytime dark fireflies"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Classification, anatomy, and size",
+      "summary": "Fireflies are beetles in the family Lampyridae, with more than 170 North American species and over 2,000 worldwide. Their elytra open to release wings, the pronotum covers the head, and they range from about a fifth of an inch to an inch.",
+      "topics": [
+        "firefly classification",
+        "Lampyridae",
+        "firefly anatomy",
+        "elytra",
+        "pronotum",
+        "firefly size",
+        "lantern organ"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Habitat and best viewing seasons",
+      "summary": "Fireflies live on most continents except Antarctica, mainly in tropical and temperate regions, and need moist areas. Adults fly on humid summer evenings, and good firefly seasons follow warm wet springs or mild winters.",
+      "topics": [
+        "firefly habitat",
+        "where fireflies live",
+        "firefly season",
+        "moist habitats"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "Chemistry of firefly light",
+      "summary": "Light is produced in lantern cells when luciferin, the enzyme luciferase, ATP, and oxygen react, producing oxyluciferin, AMP, and light with almost no heat (cold light). Oxygen enters through the abdominal trachea. Scientists are unsure whether fireflies can switch oxygen flow on and off.",
+      "topics": [
+        "luciferin",
+        "luciferase",
+        "ATP chemistry",
+        "cold light",
+        "bioluminescence chemistry",
+        "firefly oxygen supply"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:19:30",
+      "kind": "content",
+      "title": "Lab uses of luciferase and light color",
+      "summary": "Luciferase is used in research to check cellular ATP and to link genes using CRISPR, and historically to detect bacterial spoilage in milk. The light is yellowish-green, and the blue ghost firefly near Asheville looks blue from a distance.",
+      "topics": [
+        "luciferase in research",
+        "spoiled milk detection",
+        "firefly light color",
+        "blue ghost firefly",
+        "optogenetics"
+      ]
+    },
+    {
+      "start": "00:19:30",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "Mating flashes, synchronous fireflies, and predatory Photuris",
+      "summary": "Males flash to attract females, who flash back; each species has its own pattern. Couples stay together one to three hours, and males pass a nuptial gift. Southeast Asian fireflies can flash in unison. Photuris females mimic Photinus females to eat males, and Photinus males may send warning signals to reduce competition.",
+      "topics": [
+        "firefly mating",
+        "firefly flash patterns",
+        "synchronous fireflies",
+        "Photuris femme fatale",
+        "Photinus",
+        "nuptial gift",
+        "firefly courtship"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:32:00",
+      "kind": "content",
+      "title": "Firefly life cycle and larval predators",
+      "summary": "Eggs hatch in three to four weeks, and larvae live on the ground for about two years as predators of worms, snails, slugs, insects, and spiders. Adults live only a few weeks. Frogs, snakes, birds, fish, and spiders also prey on fireflies.",
+      "topics": [
+        "firefly life cycle",
+        "firefly larvae",
+        "firefly eggs",
+        "firefly predators",
+        "spiders eating fireflies"
+      ]
+    },
+    {
+      "start": "00:32:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Defensive toxins and bats avoiding fireflies",
+      "summary": "Fireflies secrete bitter, toxic defensive chemicals that deter predators such as lizards. A Boise State study found bats learned to avoid fireflies, suggesting bioluminescence first evolved as a warning signal before becoming a courtship signal.",
+      "topics": [
+        "firefly defensive chemicals",
+        "bioluminescence as warning",
+        "bats and fireflies",
+        "Boise State study",
+        "aposematism"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:43:00",
+      "kind": "content",
+      "title": "Firefly decline and causes",
+      "summary": "Firefly numbers are falling based largely on anecdotal reports. Experts cite habitat loss, toxic chemicals, and light pollution. Fireflies do not migrate well, so lost habitat is hard to restore. Commercial harvesting for luciferase in Japan and the US (Sigma Chemical Company, about three million a year) also took a toll before synthetic luciferase replaced it.",
+      "topics": [
+        "firefly decline",
+        "firefly population loss",
+        "habitat loss",
+        "light pollution",
+        "skyglow",
+        "firefly harvesting",
+        "synthetic luciferase",
+        "Sigma Chemical Company"
+      ]
+    },
+    {
+      "start": "00:43:00",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "How to help fireflies in your yard",
+      "summary": "Advice includes avoiding pesticides and mosquito spraying, mowing less, leaving leaves and garden debris for larvae, letting parts of the yard grow wild, turning off outdoor lights, and joining citizen science censuses such as the Vanishing Firefly Project and Firefly Watch.",
+      "topics": [
+        "helping fireflies",
+        "backyard firefly habitat",
+        "reducing pesticide use",
+        "leaving leaves for firefly larvae",
+        "Vanishing Firefly Project",
+        "Firefly Watch",
+        "citizen science"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:49:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: sarcasm",
+      "summary": "Kelsey from Chico, California writes about recognizing sarcasm. Her special education colleagues use hand signs, and she reads Chuck's giggle as a sarcasm cue.",
+      "topics": [
+        "listener mail",
+        "sarcasm",
+        "neurodivergence"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15846,
+    "output_tokens": 3077
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-04-18_Hitchhiking_Two_thumbs_out_51min.txt",
+  "title": "Hitchhiking: Two thumbs out!",
+  "date": "2024-04-18",
+  "duration": "51 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/hitchhiking-two-thumbs-out",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6e66c94e-e1cb-428c-8dc6-b1560042a3cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6e66c94e-e1cb-428c-8dc6-b1560042a3cb/transcript?format=TextWithTimestamps&t=1713431290",
+  "summary": "Josh and Chuck (with a third speaker) explore the history of hitchhiking in the United States and beyond. They open with tour dates and a book recommendation (Jack Reid's Roadside America), then cover competing etymologies for the word \"hitchhiking\" (the Old West two-people-one-horse story, the 1978 American Motorist claim, Janet Graham's 1966 Sports Illustrated explanation, and the Oxford English Dictionary's 1923 citation and \"thumb pointers\"). They trace its arc: 1920s college-student origins, 1930s Depression-era necessity and respectability, wartime servicemen and defense workers, J. Edgar Hoover's 1950s campaign and high-profile murders, the 1960s hippie revival, 1970s youth hitchhiking and decline, and the effects of car ownership, interstates, and Reagan/Thatcher-era attitudes. Later they discuss gender and demographics, notable hitchhikers (John Waters, HitchBOT), hitchhiking in movies, Europe, Cuba's government-car pickup system, Poland's experiment, and modern ride-share and carpool slugging. The episode closes with a listener email correcting a Peanuts setting claim.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "hitchhiking",
+    "history of hitchhiking",
+    "origin of the word hitchhiking",
+    "hitchhiking in the United States",
+    "J. Edgar Hoover hitchhiking campaign",
+    "hitchhiking murders",
+    "Billy Cook murders",
+    "hitchhiking in the 1960s hippie movement",
+    "hitchhiking decline",
+    "car ownership and hitchhiking",
+    "hitchhiking and gender",
+    "hitchhiking in Cuba",
+    "hitchhiking in Poland",
+    "HitchBOT",
+    "John Waters Carsick",
+    "hitchhiking in movies",
+    "It Happened One Night hitchhiking scene",
+    "slugging carpool DC",
+    "ride share apps",
+    "hitchhiking in Europe",
+    "thumb pointers",
+    "Janet Graham Sports Illustrated 1966",
+    "Roadside America book",
+    "hitchhiking during World War Two",
+    "hitching a ride",
+    "stranger danger moral panic"
+  ],
+  "entities": [
+    {
+      "name": "Hitchhiking",
+      "type": "other"
+    },
+    {
+      "name": "J. Edgar Hoover",
+      "type": "person"
+    },
+    {
+      "name": "Billy Cook",
+      "type": "person"
+    },
+    {
+      "name": "John Waters",
+      "type": "person"
+    },
+    {
+      "name": "HitchBOT",
+      "type": "other"
+    },
+    {
+      "name": "Janet Graham",
+      "type": "person"
+    },
+    {
+      "name": "Jack Reid",
+      "type": "person"
+    },
+    {
+      "name": "Joe Moran",
+      "type": "person"
+    },
+    {
+      "name": "Sports Illustrated",
+      "type": "organization"
+    },
+    {
+      "name": "Roadside America",
+      "type": "work"
+    },
+    {
+      "name": "Carsick",
+      "type": "work"
+    },
+    {
+      "name": "On the Road",
+      "type": "work"
+    },
+    {
+      "name": "Cowgirls Get the Blues",
+      "type": "work"
+    },
+    {
+      "name": "Sissy Hankshaw",
+      "type": "other"
+    },
+    {
+      "name": "Hitcher",
+      "type": "work"
+    },
+    {
+      "name": "The Hitchhiker",
+      "type": "work"
+    },
+    {
+      "name": "I Saw the Devil",
+      "type": "work"
+    },
+    {
+      "name": "It Happened One Night",
+      "type": "work"
+    },
+    {
+      "name": "Dumb and Dumber",
+      "type": "work"
+    },
+    {
+      "name": "Pee-wee's Big Adventure",
+      "type": "work"
+    },
+    {
+      "name": "Cuba",
+      "type": "place"
+    },
+    {
+      "name": "Poland",
+      "type": "place"
+    },
+    {
+      "name": "Netherlands",
+      "type": "place"
+    },
+    {
+      "name": "Glastonbury",
+      "type": "place"
+    },
+    {
+      "name": "Washington, DC",
+      "type": "place"
+    },
+    {
+      "name": "Oxford English Dictionary",
+      "type": "organization"
+    },
+    {
+      "name": "American Motorist",
+      "type": "organization"
+    },
+    {
+      "name": "Reader's Digest",
+      "type": "organization"
+    },
+    {
+      "name": "The Guardian",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:00",
+      "kind": "intro",
+      "title": "Tour dates and opening banter",
+      "summary": "The hosts announce upcoming live show dates in Boston/Medford, Washington DC, New York City, Chicago, Minneapolis, Indianapolis, Durham, and Atlanta, and point listeners to the tour page.",
+      "topics": [
+        "SYSK live tour",
+        "tour dates"
+      ]
+    },
+    {
+      "start": "00:01:00",
+      "end": "00:02:40",
+      "kind": "intro",
+      "title": "Theme and book recommendation",
+      "summary": "The hosts introduce the hitchhiking theme and recommend Jack Reid's book Roadside America: The Rise and Fall of Hitchhiking in a Changing Nation.",
+      "topics": [
+        "Roadside America book",
+        "Jack Reid",
+        "hitchhiking"
+      ]
+    },
+    {
+      "start": "00:02:40",
+      "end": "00:05:00",
+      "kind": "content",
+      "title": "What hitchhiking is and the Old West horse story",
+      "summary": "Chuck describes the basic practice of hitchhiking. Josh presents a proposed origin in which two people shared one horse by alternating riding and walking and tying the horse to a tree; the hosts doubt it.",
+      "topics": [
+        "hitchhiking definition",
+        "origin of the word hitchhiking",
+        "two people one horse legend"
+      ]
+    },
+    {
+      "start": "00:05:00",
+      "end": "00:06:20",
+      "kind": "content",
+      "title": "Competing etymologies of the word hitchhiking",
+      "summary": "Josh gives the 1966 Sports Illustrated explanation by Janet Graham, based on the verb hitch meaning to move by jerks. Chuck cites the Oxford English Dictionary, which dates the term to at least 1923, and notes the 1927 term 'thumb pointers'.",
+      "topics": [
+        "etymology of hitchhiking",
+        "Janet Graham Sports Illustrated 1966",
+        "Oxford English Dictionary",
+        "thumb pointers"
+      ]
+    },
+    {
+      "start": "00:06:20",
+      "end": "00:08:50",
+      "kind": "content",
+      "title": "1920s origins of hitchhiking",
+      "summary": "Hitchhiking began in the 1920s with mostly affluent young people such as college students. Early warnings were about liability for drivers, and some argued it was a slippery slope toward crime. Trucking companies banned picking up hitchhikers by mid-century.",
+      "topics": [
+        "1920s hitchhiking",
+        "college students hitchhiking",
+        "early car culture",
+        "trucking company hitchhiker ban",
+        "liability for drivers"
+      ]
+    },
+    {
+      "start": "00:08:50",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Depression-era hitchhiking and respectability",
+      "summary": "In the 1930s, hitchhiking became a means of transport for down-on-their-luck workers and gained some respectability. Hitchhikers dressed neatly to distinguish themselves from hobos. A 1938 poll found 43 percent of Americans viewed hitchhiking favorably. The hosts note the UK figure fell to 9 percent in the 2010s.",
+      "topics": [
+        "Great Depression hitchhiking",
+        "hobos and tramps",
+        "1938 Institute of Public Opinion poll",
+        "hitchhiking public opinion",
+        "UK hitchhiking attitudes"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:13:15",
+      "kind": "content",
+      "title": "Wartime hitchhiking and servicemen",
+      "summary": "During World War Two, picking up servicemen was seen as patriotic. Women factory workers were also expected to get rides, and early drivers benefited from hitchhikers staying awake. California towns built hitchhiker shelters in the early 1940s.",
+      "topics": [
+        "World War Two hitchhiking",
+        "servicemen hitchhiking",
+        "Rosie the Riveter",
+        "hitchhiker shelters",
+        "wartime patriotism"
+      ]
+    },
+    {
+      "start": "00:13:15",
+      "end": "00:14:35",
+      "kind": "content",
+      "title": "Hitchhiking spreads to Europe",
+      "summary": "Hitchhiking spread to Europe, particularly in the 1930s, but became widespread through American servicemen during and after World War Two.",
+      "topics": [
+        "hitchhiking in Europe",
+        "American servicemen Europe"
+      ]
+    },
+    {
+      "start": "00:14:35",
+      "end": "00:15:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:17:00",
+      "kind": "content",
+      "title": "J. Edgar Hoover and the 1950s anti-hitchhiking campaign",
+      "summary": "In the 1950s, J. Edgar Hoover led a national push casting hitchhiking as dangerous. FBI posters such as 'Death in Disguise' appeared, and a 1957 FBI bulletin letter by Hoover called for stamping it out. Public courtesy had earlier obligated drivers to stop.",
+      "topics": [
+        "J. Edgar Hoover",
+        "FBI hitchhiking campaign",
+        "Death in Disguise poster",
+        "1957 FBI bulletin",
+        "anti-hitchhiking campaign 1950s"
+      ]
+    },
+    {
+      "start": "00:17:00",
+      "end": "00:20:20",
+      "kind": "content",
+      "title": "Billy Cook murders and moral panic",
+      "summary": "High-profile 1950s hitchhiker murders, notably Billy Cook's killing of a family of five, fed a moral panic that the hosts compare to stranger danger. Josh and Chuck discuss the 1972 film The Hitcher... (the film The Hitchhiker) and Chuck shares a personal view of his own hitchhiking. Hosts say the statistical risk was small.",
+      "topics": [
+        "Billy Cook",
+        "1950s hitchhiker murders",
+        "moral panic",
+        "The Hitchhiker film",
+        "stranger danger",
+        "hitchhiking fear"
+      ]
+    },
+    {
+      "start": "00:20:20",
+      "end": "00:22:30",
+      "kind": "content",
+      "title": "Serial killers and hitchhiking danger",
+      "summary": "Chuck recalls getting a ride after getting lost while camping, and says picking up a stranger is riskier than hitchhiking. The hosts mention Ted Bundy and the Australian backpacker murders as cases where killers preyed on hitchhikers.",
+      "topics": [
+        "serial killers and hitchhikers",
+        "Ted Bundy",
+        "Australian backpacker murders",
+        "hitchhiking safety"
+      ]
+    },
+    {
+      "start": "00:22:30",
+      "end": "00:24:30",
+      "kind": "content",
+      "title": "1960s hippie hitchhiking",
+      "summary": "Hitchhiking surged again in the 1960s with the hippie movement, which fit its ethos of trust and counterculture. Hitchhiking allowed cheap travel to Europe, Asia, and Africa, aided by youth hostels.",
+      "topics": [
+        "1960s hitchhiking",
+        "hippie movement",
+        "counterculture travel",
+        "youth hostels",
+        "budget travel"
+      ]
+    },
+    {
+      "start": "00:24:30",
+      "end": "00:26:10",
+      "kind": "content",
+      "title": "1970s teen hitchhiking and polls",
+      "summary": "A 1973 high school poll of 272 students found over 25 percent hitchhiked regularly or occasionally. Teens hitchhiked to school, stores, and comic shops because they lacked cars or rides.",
+      "topics": [
+        "1970s teenage hitchhiking",
+        "1973 high school poll",
+        "kids hitchhiking"
+      ]
+    },
+    {
+      "start": "00:26:10",
+      "end": "00:28:30",
+      "kind": "content",
+      "title": "Decline of hitchhiking and rise of the extra family car",
+      "summary": "Hitchhiking declined starting in the early to mid 1970s. Car ownership rose, from about half of Americans in 1941 to about 80 percent by the early 1960s, and extra family cars gave teens access to vehicles.",
+      "topics": [
+        "decline of hitchhiking",
+        "car ownership history",
+        "extra family car",
+        "teenagers driving"
+      ]
+    },
+    {
+      "start": "00:28:30",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Interstates, laws, and gender differences",
+      "summary": "Interstate highways made hitchhiking harder, and many places passed anti-hitchhiking laws, though enforcement was uneven. Hitchhiking was harder for people of color, and women faced different discouragement. Janet Graham's article discussed how women should dress to get rides safely.",
+      "topics": [
+        "interstate highways hitchhiking",
+        "anti-hitchhiking laws",
+        "gas station hitchhiking Europe",
+        "race and hitchhiking",
+        "gender and hitchhiking",
+        "women hitchhiking"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Changing attitudes toward hitchhikers and Reagan-Thatcher era",
+      "summary": "As fewer people needed to hitchhike, those who still did were viewed less sympathetically, creating a feedback loop of bad reputation. The hosts link the shift to Reagan and Thatcher era conservatism and transactional society, citing historian Joe Moran's writing on gift relationships in The Guardian.",
+      "topics": [
+        "hitchhiking stigma",
+        "Reagan Thatcher era",
+        "transactional society",
+        "gift relationship",
+        "Joe Moran Guardian"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:35:00",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Mid-episode ad break.",
+      "topics": [
+        "ad break"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Gender and the 1960s-70s dangers narrative",
+      "summary": "Josh discusses how women hitchhikers were blamed for attacks. A 1973 Reader's Digest article claimed women hitchhikers' odds were no better than Russian roulette, a claim the hosts call made up. A 1977 San Diego experiment with 356 rides found revealing costumes drew more rides.",
+      "topics": [
+        "women hitchhikers blamed",
+        "Reader's Digest 1973",
+        "San Diego hitchhiking experiment 1977",
+        "hitchhiking and clothing"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:39:10",
+      "kind": "content",
+      "title": "Notable hitchhikers: John Waters and HitchBOT",
+      "summary": "John Waters hitchhiked across the country at age 68 and wrote the book Carsick, whose first half is fiction. HitchBOT, a child-sized robot, hitchhiked across Germany, the Netherlands, and Canada, then was destroyed in Philadelphia in 2015 after making it through Boston and New York.",
+      "topics": [
+        "John Waters Carsick",
+        "HitchBOT",
+        "famous hitchhikers",
+        "HitchBOT Philadelphia vandalism"
+      ]
+    },
+    {
+      "start": "00:39:10",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Dave Matthews aside and hitchhiking in books and movies",
+      "summary": "The hosts briefly mention Dave Matthews hitchhiking to a concert and defer the bridge incident to a Short Stuff episode. They then list books and films featuring hitchhiking, including Kerouac's On the Road, Tom Robbins' Cowgirls Get the Blues, and Gus Van Sant's Sissy.",
+      "topics": [
+        "Dave Matthews",
+        "hitchhiking in literature",
+        "On the Road",
+        "Cowgirls Get the Blues",
+        "Gus Van Sant film"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:43:20",
+      "kind": "content",
+      "title": "Hitchhiking in movies",
+      "summary": "Josh describes hitchhiking in films as a cautionary tale (The Hitchhiker, 1953, Billy Cook film), a mcguffin, or a side gag. Examples include Pee-wee's Big Adventure, Dumb and Dumber, It Happened One Night, and the Korean film I Saw the Devil.",
+      "topics": [
+        "hitchhiking movies",
+        "I Saw the Devil",
+        "It Happened One Night",
+        "Dumb and Dumber",
+        "Pee-wee's Big Adventure",
+        "hitchhiking cinema"
+      ]
+    },
+    {
+      "start": "00:43:20",
+      "end": "00:46:00",
+      "kind": "content",
+      "title": "Hitchhiking around the world: Europe, Cuba, Poland",
+      "summary": "Hitchhiking remains common in parts of Europe, such as the Netherlands and Glastonbury festival traffic. In Cuba, after the Soviet oil supply dried up, government vehicles were required to pick up hitchhikers and were paid, with the practice called 'pedir botella'. Poland in the Cold War tried a voucher-and-lottery system for drivers who picked up hitchhikers, which was unpopular.",
+      "topics": [
+        "hitchhiking in Cuba",
+        "Cuba yellow points",
+        "Poland hitchhiking voucher",
+        "Netherlands hitchhiking",
+        "Glastonbury hitchhiking",
+        "hitchwiki"
+      ]
+    },
+    {
+      "start": "00:46:00",
+      "end": "00:48:20",
+      "kind": "content",
+      "title": "Modern hitchhiking, ride-sharing, and slugging",
+      "summary": "Hitchhikers now share tips through online communities and hitchhiking apps. The hosts compare hitchhiking to ride-share apps. They describe DC slugging, where commuters pick up strangers to use the carpool lane.",
+      "topics": [
+        "ride share apps",
+        "hitchhiking apps",
+        "slugging DC carpool",
+        "modern hitchhiking",
+        "hitchwiki"
+      ]
+    },
+    {
+      "start": "00:48:20",
+      "end": "00:49:00",
+      "kind": "content",
+      "title": "Reading recommendations and transition",
+      "summary": "The hosts recommend Janet Graham's 1966 Sports Illustrated article Rule of Thumb for the Open Road and Mike J.'s review of books, That Old Thumb, then move to listener mail.",
+      "topics": [
+        "reading list hitchhiking",
+        "Rule of Thumb for the Open Road"
+      ]
+    },
+    {
+      "start": "00:49:00",
+      "end": "00:51:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Peanuts setting correction",
+      "summary": "Listener Brook writes that a 1957 Peanuts strip was set in Hennepin County, Minnesota, correcting an earlier episode. Brook notes Minnesota's Peanuts statues and the former Camp Snoopy park, and says they listen while trail skating.",
+      "topics": [
+        "listener mail",
+        "Peanuts comic strip",
+        "Hennepin County Minnesota",
+        "Camp Snoopy"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 20108,
+    "output_tokens": 6360
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2013-01-31_How_Gold_Works_46min.txt",
+  "title": "How Gold Works",
+  "date": "2013-01-31",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-gold-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6d45a9b6-617e-48cc-b929-ae2800a2bd9d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6d45a9b6-617e-48cc-b929-ae2800a2bd9d/transcript?format=TextWithTimestamps&t=1700543907",
+  "summary": "Josh and Chuck explore gold: its history as a prized metal from ancient Egypt, Nubia, Bulgaria and the Maya/Aztec/Inca worlds through the Greek and Roman minting of coins, Croesus of Lydia, Marco Polo and Columbus-era gold lust (El Dorado, Brazil's Minas Gerais), the gold rushes in North Carolina, California, Australia and South Africa, how gold is prospected, mined (load and placer deposits, open pit and underground), extracted via crushing, cyanide leaching, electrowinning and smelting, refined into ingots, alloyed into carats (white, red gold), used in jewelry, electronics, NASA and dentistry, the gold standard and Fort Knox, and the environmental damage of mining and illegal mercury gold mining in Guiana. The episode ends with a listener mail from Professor Tom about life lessons from the show.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "gold",
+    "gold history",
+    "gold mining",
+    "gold extraction",
+    "gold refining",
+    "cyanide leaching",
+    "electrowinning",
+    "placer deposit",
+    "load deposit",
+    "prospecting",
+    "gold rush",
+    "California gold rush",
+    "North Carolina gold rush",
+    "Australian gold rush",
+    "South Africa gold",
+    "El Dorado",
+    "Marco Polo",
+    "Christopher Columbus gold",
+    "Croesus Lydia coins",
+    "gold standard",
+    "Fort Knox",
+    "carat",
+    "white gold",
+    "red gold",
+    "gold in electronics",
+    "illegal gold mining mercury",
+    "gold environmental impact",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Gold",
+      "type": "other"
+    },
+    {
+      "name": "Fort Knox",
+      "type": "place"
+    },
+    {
+      "name": "El Dorado",
+      "type": "other"
+    },
+    {
+      "name": "Marco Polo",
+      "type": "person"
+    },
+    {
+      "name": "Christopher Columbus",
+      "type": "person"
+    },
+    {
+      "name": "Croesus",
+      "type": "person"
+    },
+    {
+      "name": "King Ferdinand",
+      "type": "person"
+    },
+    {
+      "name": "Minas Gerais",
+      "type": "place"
+    },
+    {
+      "name": "California gold rush",
+      "type": "event"
+    },
+    {
+      "name": "North Carolina",
+      "type": "place"
+    },
+    {
+      "name": "Australia",
+      "type": "place"
+    },
+    {
+      "name": "South Africa",
+      "type": "place"
+    },
+    {
+      "name": "Nevada",
+      "type": "place"
+    },
+    {
+      "name": "Space Shuttle Columbia",
+      "type": "other"
+    },
+    {
+      "name": "Earthworks",
+      "type": "organization"
+    },
+    {
+      "name": "Guiana",
+      "type": "place"
+    },
+    {
+      "name": "Harper's",
+      "type": "work"
+    },
+    {
+      "name": "Maya",
+      "type": "other"
+    },
+    {
+      "name": "Aztec",
+      "type": "other"
+    },
+    {
+      "name": "Inca",
+      "type": "other"
+    },
+    {
+      "name": "Egypt",
+      "type": "place"
+    },
+    {
+      "name": "Nubia",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and Mayan and Aztec gold lore",
+      "summary": "Hosts open with banter about the show's name and a January history tidbit about the Maya conquest of Tikal. They discuss Aztec names for gold and the Egyptians' view of gold as divine, and Nubia as an early gold-mining area.",
+      "topics": [
+        "Aztec gold",
+        "Egyptian gold",
+        "Nubia gold",
+        "gold history"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Gold statistics",
+      "summary": "Gold stats: about 161,000 tons ever mined, compared with aluminum output, and about 15 percent of gold ever found is unaccounted for. Gold's malleability is noted: one ounce can be drawn into a 50-mile wire or hammered to a thin sheet.",
+      "topics": [
+        "gold statistics",
+        "gold malleability",
+        "gold recycling"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "Early gold use and the first coins",
+      "summary": "Gold working dates to around 4000 BC in Bulgaria, Egypt used gold as near-currency, and Croesus of Lydia is credited as the first to mint gold coins. Greeks and Romans followed, and South American cultures such as the Inca worked gold into masks, chalices and gold leaf.",
+      "topics": [
+        "ancient gold coins",
+        "Croesus Lydia",
+        "Roman aurei",
+        "Inca gold"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Explorers, Marco Polo and El Dorado",
+      "summary": "European gold lust is traced through Marco Polo, who reportedly inspired Columbus. King Ferdinand's instruction to get gold 'at all hazards' is cited, and the myth of El Dorado drove conquistadors. Brazil's Minas Gerais became the largest gold producer by 1720 using slave labor.",
+      "topics": [
+        "Marco Polo",
+        "Columbus",
+        "El Dorado",
+        "Minas Gerais Brazil",
+        "conquistadors"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:20:00",
+      "kind": "content",
+      "title": "Gold rushes in North Carolina, California and Australia",
+      "summary": "North Carolina was the first American gold rush and supplied the US Mint until the 1830s. The California gold rush is discussed, along with Australia's gold rush after discoveries in New South Wales in the 1850s.",
+      "topics": [
+        "North Carolina gold rush",
+        "California gold rush",
+        "Australian gold rush",
+        "New South Wales gold"
+      ]
+    },
+    {
+      "start": "00:20:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "South Africa and modern gold production",
+      "summary": "South Africa is named as the leading gold producer today, followed by the United States, with Nevada the top US producer.",
+      "topics": [
+        "South Africa gold production",
+        "Nevada gold",
+        "world gold producers"
+      ]
+    },
+    {
+      "start": "00:22:00",
+      "end": "00:27:00",
+      "kind": "content",
+      "title": "Prospecting and mining methods",
+      "summary": "Prospecting is explained, from old luck-based searches to modern equipment and drilling samples. Load deposits are mined by open pit or underground shafts with explosives, while placer deposits are panned from streams and beaches.",
+      "topics": [
+        "prospecting",
+        "load deposit",
+        "placer deposit",
+        "open pit mining",
+        "underground gold mining"
+      ]
+    },
+    {
+      "start": "00:27:00",
+      "end": "00:33:00",
+      "kind": "content",
+      "title": "Gold extraction and refining process",
+      "summary": "Ore is crushed and ground with steel balls, then leached with cyanide in a slurry, with gold adsorbing to carbon. It is stripped with a caustic solution, recovered by electrowinning, smelted into dore bars, and refined with soda ash and borax to about 99.9 percent purity as ingots.",
+      "topics": [
+        "cyanide leaching",
+        "electrowinning",
+        "smelting",
+        "dore bars",
+        "gold refining",
+        "gold ingots"
+      ]
+    },
+    {
+      "start": "00:33:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Heist movies, Fort Knox and gold price",
+      "summary": "Hosts discuss gold ingot weight (27 pounds) in Die Hard 3 and Fort Knox storage, with a rough worth of about 25.6 billion dollars at the older price. They talk about why gold is hoarded and the price rise after the economic downturn.",
+      "topics": [
+        "Fort Knox",
+        "gold bars weight",
+        "Die Hard 3",
+        "gold price",
+        "gold hoarding"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:40:00",
+      "kind": "content",
+      "title": "Gold alloys, carats and uses",
+      "summary": "Gold is alloyed into white gold and red gold. Carat ratings differ by country: 14 carat in the US, 22 in India, 18 in Europe. About two thirds of gold goes to jewelry. Gold's conductivity and corrosion resistance make it used in electronics, NASA's Space Shuttle Columbia, and gold film, and in dental crowns, compared with the silver fish fork.",
+      "topics": [
+        "carats",
+        "white gold",
+        "red gold",
+        "gold alloys",
+        "gold in electronics",
+        "gold in dentistry",
+        "NASA gold"
+      ]
+    },
+    {
+      "start": "00:40:00",
+      "end": "00:44:00",
+      "kind": "content",
+      "title": "Gold standard, asteroids and environmental damage",
+      "summary": "The gold standard (1900 to 1971) is mentioned, with the US abandoning it for fiat currency. Asteroid gold is raised. Mining environmental harm is discussed, including roughly 250 tons of ore per ounce, cyanide runoff, and illegal gold mining with mercury in Guiana, citing a Harper's article by Damon Tabor.",
+      "topics": [
+        "gold standard",
+        "fiat currency",
+        "asteroid mining gold",
+        "gold environmental impact",
+        "cyanide runoff",
+        "mercury poisoning Guiana",
+        "illegal gold mining"
+      ]
+    },
+    {
+      "start": "00:44:00",
+      "end": "00:46:00",
+      "kind": "listener_mail",
+      "title": "Listener mail from Professor Tom",
+      "summary": "A community college communications professor shares life lessons he sees in the show. The hosts close with a note about the Chuck-and-Josh mail and show contact info.",
+      "topics": [
+        "listener mail",
+        "Professor Tom"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15914,
+    "output_tokens": 3257
+  }
+}

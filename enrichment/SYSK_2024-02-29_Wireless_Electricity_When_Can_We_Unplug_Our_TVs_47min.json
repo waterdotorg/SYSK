@@ -1,0 +1,406 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-02-29_Wireless_Electricity_When_Can_We_Unplug_Our_TVs_47min.txt",
+  "title": "Wireless Electricity: When Can We Unplug Our TVs?",
+  "date": "2024-02-29",
+  "duration": "47 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/wireless-electricity-when-can-we-unplug-our-tvs",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/642a96b0-1dc1-4e14-aafb-b124014238cb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/642a96b0-1dc1-4e14-aafb-b124014238cb/transcript?format=TextWithTimestamps&t=1713570725",
+  "summary": "Josh and Chuck explore wireless electricity, or wireless power transfer. They trace history from Nikola Tesla's experiments and Heinrich Hertz's 1880s radio work, through William Brown of Raytheon's 1964 helicopter demonstration and the 1975 NASA JPL microwave power record, and the 2024 Korean Space Agency record. They explain near-field charging (electric toothbrushes, induction, Qi standard, MagSafe) and far-field approaches (microwaves, lasers, RFID tags, resonant induction). They discuss inefficiency (around 20 percent end-to-end), safety concerns, wireless EV charging lanes, Ossia's Cota system and Forever batteries, Energous/Motorola-Guru charger ideas, DARPA's PERSISTENT OWER concept, New Zealand's EMROD towers, and Caltech's 2023 space solar power demonstration. The episode ends with a listener mail segment from Mark Konts about Sources of Strength.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "wireless electricity",
+    "wireless power transfer",
+    "Tesla wireless power",
+    "Heinrich Hertz radio waves",
+    "William Brown Raytheon helicopter 1964",
+    "NASA JPL 1975 microwave power transmission",
+    "Qi wireless charging standard",
+    "near-field vs far-field wireless power",
+    "resonant induction charging",
+    "MagSafe charger",
+    "RFID tags without batteries",
+    "wireless EV charging roads",
+    "Ossia Cota system",
+    "Forever batteries",
+    "Motorola Guru wireless charger",
+    "DARPA PERSISTENT OWER",
+    "EMROD New Zealand power towers",
+    "Caltech space solar power 2023",
+    "wireless power efficiency and safety",
+    "Internet of Things wireless power",
+    "listener mail",
+    "Sources of Strength"
+  ],
+  "entities": [
+    {
+      "name": "Nikola Tesla",
+      "type": "person"
+    },
+    {
+      "name": "Heinrich Hertz",
+      "type": "person"
+    },
+    {
+      "name": "William Brown",
+      "type": "person"
+    },
+    {
+      "name": "Raytheon",
+      "type": "organization"
+    },
+    {
+      "name": "NASA Jet Propulsion Lab",
+      "type": "organization"
+    },
+    {
+      "name": "Korean Space Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Nokia",
+      "type": "organization"
+    },
+    {
+      "name": "Wireless Power Consortium",
+      "type": "organization"
+    },
+    {
+      "name": "Ossia",
+      "type": "organization"
+    },
+    {
+      "name": "Motorola",
+      "type": "organization"
+    },
+    {
+      "name": "Guru",
+      "type": "organization"
+    },
+    {
+      "name": "DARPA",
+      "type": "organization"
+    },
+    {
+      "name": "EMROD",
+      "type": "organization"
+    },
+    {
+      "name": "Caltech",
+      "type": "organization"
+    },
+    {
+      "name": "Qi",
+      "type": "other"
+    },
+    {
+      "name": "MagSafe",
+      "type": "other"
+    },
+    {
+      "name": "RFID",
+      "type": "other"
+    },
+    {
+      "name": "Sources of Strength",
+      "type": "organization"
+    },
+    {
+      "name": "Mark Konts",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:00:43",
+      "kind": "ad",
+      "title": "Tour dates announcement",
+      "summary": "Chuck and Josh announce upcoming live tour dates in several US cities and direct listeners to the website or link for tickets.",
+      "topics": [
+        "live tour",
+        "tickets"
+      ]
+    },
+    {
+      "start": "00:00:43",
+      "end": "00:03:00",
+      "kind": "intro",
+      "title": "Opening banter and episode setup",
+      "summary": "The hosts introduce the Tech Stuff Edition framing and joke about how wires and plugs are a nuisance, setting up a discussion of wireless electricity.",
+      "topics": [
+        "wireless electricity",
+        "tech stuff edition"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "History: Tesla, Hertz, and early wireless power",
+      "summary": "Chuck and Josh describe Heinrich Hertz's 1880s radio energy transmission and Tesla's wireless experiments, including the unverified legend of lighting bulbs about 25 miles from his Colorado station.",
+      "topics": [
+        "Tesla wireless power",
+        "Heinrich Hertz radio waves",
+        "Tesla Colorado experiments",
+        "history of wireless power"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:40",
+      "kind": "content",
+      "title": "Records: Raytheon helicopter and JPL 1975 transmission",
+      "summary": "William Brown of Raytheon kept a helicopter aloft for ten hours in 1964 using microwave power. NASA JPL's 1975 long-distance transmission record, about 1.5 to 4 kilometers, was broken in 2024 by the Korean Space Agency by a small margin.",
+      "topics": [
+        "William Brown Raytheon 1964",
+        "NASA JPL 1975 microwave transmission",
+        "Korean Space Agency wireless power record",
+        "long-distance power transmission records"
+      ]
+    },
+    {
+      "start": "00:09:40",
+      "end": "00:13:00",
+      "kind": "content",
+      "title": "Near-field charging: toothbrushes, induction, and Qi",
+      "summary": "The hosts explain near-field wireless charging, including electric toothbrushes using inductive coupling, resonant induction, and Nokia's early wireless charger followed by the Qi standard from the Wireless Power Consortium.",
+      "topics": [
+        "near-field wireless charging",
+        "inductive charging",
+        "electric toothbrush charging",
+        "Qi standard",
+        "Wireless Power Consortium"
+      ]
+    },
+    {
+      "start": "00:13:00",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "MagSafe and magnetic alignment",
+      "summary": "Josh and Chuck discuss Apple's MagSafe chargers, which use magnets to align coils for more efficient charging of around 15 to 20 watts, and Chuck mentions a car charger he uses.",
+      "topics": [
+        "MagSafe charger",
+        "magnetic alignment charging",
+        "wireless phone charging efficiency",
+        "car wireless charger"
+      ]
+    },
+    {
+      "start": "00:16:00",
+      "end": "00:17:25",
+      "kind": "content",
+      "title": "Qi2 and cross-brand compatibility",
+      "summary": "Josh explains that the Qi2 protocol lets Android and iPhone share the same charger, reducing packaging and manufacturing costs.",
+      "topics": [
+        "Qi2",
+        "cross-brand wireless charger compatibility"
+      ]
+    },
+    {
+      "start": "00:17:25",
+      "end": "00:20:02",
+      "kind": "content",
+      "title": "Wireless charging for electric cars and roads",
+      "summary": "The hosts discuss garage pad charging for EVs and the idea of embedding wireless charging coils in an expressway lane so cars charge while driving.",
+      "topics": [
+        "wireless EV charging",
+        "dynamic road charging",
+        "electric car charging lanes"
+      ]
+    },
+    {
+      "start": "00:20:02",
+      "end": "00:20:41",
+      "kind": "ad",
+      "title": "Break",
+      "summary": "Chuck announces a break before returning to the show.",
+      "topics": [
+        "break"
+      ]
+    },
+    {
+      "start": "00:20:41",
+      "end": "00:22:12",
+      "kind": "content",
+      "title": "Roadside etiquette tangent",
+      "summary": "Josh and Chuck joke about driving long distances and then discuss not leaving urine bottles or dental floss on the roadside.",
+      "topics": [
+        "road trip etiquette",
+        "littering"
+      ]
+    },
+    {
+      "start": "00:22:12",
+      "end": "00:24:09",
+      "kind": "content",
+      "title": "Far-field wireless transfer methods",
+      "summary": "The hosts explain far-field transfer using microwaves, lasers, and millimeter waves, requiring a conversion from electricity to electromagnetic energy and back, and note consumer products exist but are costly and slow.",
+      "topics": [
+        "far-field wireless power",
+        "microwave power beaming",
+        "laser power transmission"
+      ]
+    },
+    {
+      "start": "00:24:09",
+      "end": "00:26:46",
+      "kind": "content",
+      "title": "RFID tags and Internet of Things",
+      "summary": "Chuck and Josh describe RFID tags that get power from radio waves and reply with an ID, used in warehouse inventory, and suggest wireless power could help Internet of Things sensors.",
+      "topics": [
+        "RFID tags",
+        "passive RFID",
+        "Internet of Things wireless power",
+        "warehouse inventory tracking"
+      ]
+    },
+    {
+      "start": "00:26:46",
+      "end": "00:29:14",
+      "kind": "content",
+      "title": "Replacing batteries and the Ossia Cota system",
+      "summary": "The hosts discuss replacing disposable batteries and pacemaker surgeries, then describe Ossia's Cota system, a room transmitter, and Forever batteries that contain receivers.",
+      "topics": [
+        "battery replacement",
+        "Ossia Cota",
+        "Forever batteries",
+        "room-based wireless power"
+      ]
+    },
+    {
+      "start": "00:29:14",
+      "end": "00:31:12",
+      "kind": "content",
+      "title": "Motorola and Guru wireless charger",
+      "summary": "Guru and Motorola debuted an over-the-air charger that can charge multiple phones up to ten feet away, but it has not reached market. Josh mentions Arlo wireless power security cameras.",
+      "topics": [
+        "Guru Motorola over-the-air charger",
+        "wireless power security cameras"
+      ]
+    },
+    {
+      "start": "00:31:12",
+      "end": "00:33:21",
+      "kind": "content",
+      "title": "Security cameras and public spaces",
+      "summary": "Chuck comments on the limited crime-fighting value of home security cameras, and the hosts suggest wireless charging could be used in public transit and airports.",
+      "topics": [
+        "security cameras",
+        "public space wireless charging"
+      ]
+    },
+    {
+      "start": "00:33:21",
+      "end": "00:35:01",
+      "kind": "content",
+      "title": "Efficiency problems and cost tradeoffs",
+      "summary": "Josh says wireless power transfer through beams is roughly 20 percent efficient, contrasts this with the JPL's 49 percent over a mile, and argues the wasted energy is cheap compared to disposable batteries.",
+      "topics": [
+        "wireless power efficiency",
+        "energy loss",
+        "cost of batteries versus wasted electricity"
+      ]
+    },
+    {
+      "start": "00:35:01",
+      "end": "00:38:26",
+      "kind": "content",
+      "title": "Safety of room-based and beam charging",
+      "summary": "The hosts describe the Ossia system bouncing signals around a room and only delivering power when needed. They discuss safety concerns such as heating conductive objects, microwave and laser hazards, and automatic shutoff when obstructed.",
+      "topics": [
+        "wireless power safety",
+        "microwave exposure",
+        "laser safety",
+        "room charging safety"
+      ]
+    },
+    {
+      "start": "00:38:26",
+      "end": "00:41:23",
+      "kind": "content",
+      "title": "DARPA PERSISTENT OWER military applications",
+      "summary": "Chuck describes DARPA's proposed PERSISTENT OWER concept of beaming power from aircraft to disaster or conflict zones. Josh notes military applications and that inefficiency is still more efficient than hauling fuel.",
+      "topics": [
+        "DARPA",
+        "military wireless power",
+        "disaster relief power",
+        "PERSISTENT OWER"
+      ]
+    },
+    {
+      "start": "00:41:23",
+      "end": "00:42:09",
+      "kind": "content",
+      "title": "Military to consumer tech trickle-down",
+      "summary": "Josh notes military R&D often trickles down into consumer products, and that wireless power could follow the same path.",
+      "topics": [
+        "military technology trickle-down"
+      ]
+    },
+    {
+      "start": "00:42:09",
+      "end": "00:43:24",
+      "kind": "content",
+      "title": "EMROD New Zealand power towers",
+      "summary": "Josh describes EMROD's line-of-sight towers in New Zealand that beam energy between towers, comparing this to Lord of the Rings beacon fires and Wi-Fi, and suggesting wind energy could be moved to urban areas.",
+      "topics": [
+        "EMROD",
+        "New Zealand wireless power towers",
+        "wind energy transmission"
+      ]
+    },
+    {
+      "start": "00:43:24",
+      "end": "00:44:47",
+      "kind": "content",
+      "title": "Space solar power and Caltech",
+      "summary": "Chuck describes space-based solar satellites beaming microwaves to Earth, and says Caltech's Space Power Project sent a detectable amount of energy from a satellite to Earth in 2023. Josh calls space solar a step toward a Dyson sphere.",
+      "topics": [
+        "space solar power",
+        "Caltech Space Solar Power Project",
+        "Dyson sphere"
+      ]
+    },
+    {
+      "start": "00:44:47",
+      "end": "00:46:38",
+      "kind": "listener_mail",
+      "title": "Listener mail from Mark Konts on Sources of Strength",
+      "summary": "Mark Konts, an art therapist in Springfield, Ohio, describes the Sources of Strength wellness and suicide prevention program in schools and points listeners to its websites.",
+      "topics": [
+        "listener mail",
+        "Sources of Strength",
+        "school mental health",
+        "suicide prevention"
+      ]
+    },
+    {
+      "start": "00:46:38",
+      "end": "00:46:56",
+      "kind": "content",
+      "title": "Listener mail call to action",
+      "summary": "Josh invites listeners to send stories about their own community work to the show's email address.",
+      "topics": [
+        "listener mail submissions"
+      ]
+    },
+    {
+      "start": "00:46:56",
+      "end": "00:47:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Chuck closes with the show's production credit and promotional information.",
+      "topics": [
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17240,
+    "output_tokens": 4580
+  }
+}

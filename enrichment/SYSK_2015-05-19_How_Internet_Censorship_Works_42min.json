@@ -1,0 +1,319 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-05-19_How_Internet_Censorship_Works_42min.txt",
+  "title": "How Internet Censorship Works",
+  "date": "2015-05-19",
+  "duration": "42 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-internet-censorship-works",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/14f021b3-d5a0-416e-9153-ae28008e5811/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/14f021b3-d5a0-416e-9153-ae28008e5811/transcript?format=TextWithTimestamps&t=1700543859",
+  "summary": "Josh and Chuck explore internet censorship in its many forms: parental web filters (blacklists, keyword blocking, Net Nanny, CYBERsitter) versus firewalls; employer censorship such as blocking Facebook at work; government censorship, including the Open Net Initiative's categories, China's suppression of the \"Under the Dome\" pollution documentary and salt rumors after Fukushima, India's suppression of a documentary on a public transport rape case, Iran's proposed \"Halal Internet,\" and the fracturing of the Internet into separate national internets as described by Eric Schmidt and Jared Cohen. They cover Reporters Without Borders' list of offending countries, Cuba's slow internet, net neutrality and common carrier status, opposition from the ACLU to COPA and SOPA, and internet kill switches including DHS Standard Operating Procedure 303 and the 2011 BART cell phone shutdown in San Francisco. The episode closes with listener mail about a honeymoon flight.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "internet censorship",
+    "web filtering",
+    "parental controls",
+    "blacklist",
+    "keyword filtering",
+    "firewall vs web filter",
+    "Net Nanny",
+    "CYBERsitter",
+    "workplace internet censorship",
+    "Facebook blocked at work",
+    "government censorship",
+    "Open Net Initiative",
+    "Great Firewall of China",
+    "Under the Dome documentary",
+    "India documentary censorship",
+    "Halal Internet",
+    "splinter internet national internets",
+    "Eric Schmidt Jared Cohen",
+    "Reporters Without Borders press freedom list",
+    "Cuba internet access",
+    "net neutrality",
+    "common carrier",
+    "ACLU",
+    "COPA",
+    "SOPA",
+    "internet kill switch",
+    "Standard Operating Procedure 303",
+    "BART cell phone shutdown",
+    "Oscar Grant protest",
+    "Egypt internet shutdown 2011",
+    "Children's Online Protection Act",
+    "Stop Online Piracy Act"
+  ],
+  "entities": [
+    {
+      "name": "Great Firewall of China",
+      "type": "other"
+    },
+    {
+      "name": "Under the Dome",
+      "type": "work"
+    },
+    {
+      "name": "Open Net Initiative",
+      "type": "organization"
+    },
+    {
+      "name": "Reporters Without Borders",
+      "type": "organization"
+    },
+    {
+      "name": "Eric Schmidt",
+      "type": "person"
+    },
+    {
+      "name": "Jared Cohen",
+      "type": "person"
+    },
+    {
+      "name": "Net Nanny",
+      "type": "work"
+    },
+    {
+      "name": "CYBERsitter",
+      "type": "work"
+    },
+    {
+      "name": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "name": "Stop Online Piracy Act",
+      "type": "work"
+    },
+    {
+      "name": "Children's Online Protection Act",
+      "type": "work"
+    },
+    {
+      "name": "Standard Operating Procedure 303",
+      "type": "event"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "type": "organization"
+    },
+    {
+      "name": "BART",
+      "type": "organization"
+    },
+    {
+      "name": "Oscar Grant",
+      "type": "person"
+    },
+    {
+      "name": "Cuba",
+      "type": "place"
+    },
+    {
+      "name": "Iran",
+      "type": "place"
+    },
+    {
+      "name": "China",
+      "type": "place"
+    },
+    {
+      "name": "India",
+      "type": "place"
+    },
+    {
+      "name": "Federal Communications Commission",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and corrections",
+      "summary": "Hosts joke about being banned in China and about past episodes, then Josh corrects an earlier claim about poisonous spiders and bites to dogs. They introduce internet censorship as the topic, crediting a TechStuff article.",
+      "topics": [
+        "podcast banter",
+        "internet censorship introduction"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Parental web filters and software",
+      "summary": "Discussion of why parents may filter the web for children, with software like Net Nanny and CYBERsitter. Web filters use blacklists of domain names or keyword scanning, with a joke about a clubhouse computer blocking a male puberty article.",
+      "topics": [
+        "parental controls",
+        "web filtering",
+        "blacklist",
+        "keyword filtering",
+        "Net Nanny",
+        "CYBERsitter"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Firewalls versus web filters",
+      "summary": "The hosts distinguish a firewall, which protects a computer or network from incoming threats, from a web filter, which restricts outgoing access to websites. Critics note keyword filters lack context, as with a chicken breast recipe.",
+      "topics": [
+        "firewall",
+        "web filter difference",
+        "keyword filter limits"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:14:30",
+      "kind": "content",
+      "title": "Workplace censorship and Facebook",
+      "summary": "Employers block sites at work, and Facebook is described as the most blocked site, partly due to time wasting and hostile work environment concerns. Hosts also apologize for trolls invading the show's Facebook page.",
+      "topics": [
+        "workplace internet censorship",
+        "Facebook blocked at work",
+        "hostile work environment",
+        "social media moderation"
+      ]
+    },
+    {
+      "start": "00:14:30",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Government censorship and the Open Net Initiative",
+      "summary": "Government censorship is introduced as the most contentious level, with the Open Net Initiative's political, social and other categories. Examples include China's removal of the Under the Dome documentary and India's clumsy removal of a documentary about a transit rape case.",
+      "topics": [
+        "government censorship",
+        "Open Net Initiative",
+        "Under the Dome",
+        "India documentary censorship",
+        "China online censorship"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "China, salt rumors, and Iran's Halal Internet",
+      "summary": "China is described as a prolific censor that targets calls for collective action. China quashed a 2011 salt rumor after Fukushima. Social censorship is discussed, including Iran's proposed Halal Internet.",
+      "topics": [
+        "China censorship",
+        "Fukushima salt rumor",
+        "Halal Internet",
+        "Iran internet",
+        "social censorship"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Splinter internet and Eric Schmidt's vision",
+      "summary": "Discussion of the Foreign Affairs style article by Eric Schmidt and Jared Cohen envisioning separate national internets, internationalized domain names, virtual passports, and the possibility of bypassing the domain naming system.",
+      "topics": [
+        "splinter internet",
+        "Eric Schmidt Jared Cohen",
+        "internationalized domain names",
+        "national internets",
+        "domain name system"
+      ]
+    },
+    {
+      "start": "00:28:00",
+      "end": "00:32:30",
+      "kind": "content",
+      "title": "Reporters Without Borders list and Cuba",
+      "summary": "Reporters Without Borders lists offending countries including Belarus, China, Cuba, Iran, Myanmar, Saudi Arabia, North Korea, Syria, Tunisia, Turkmenistan, Vietnam and Uzbekistan. Cuba's slow internet and the historically government-run internet cafes are covered.",
+      "topics": [
+        "Reporters Without Borders",
+        "press freedom",
+        "Cuba internet",
+        "Burma reforms",
+        "slow internet as censorship"
+      ]
+    },
+    {
+      "start": "00:32:30",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Net neutrality and common carrier status",
+      "summary": "The hosts explain net neutrality, the FCC's reclassification of ISPs as common carriers, and why throttling speeds could effectively censor slow-loading sites and squeeze out startups.",
+      "topics": [
+        "net neutrality",
+        "common carrier",
+        "FCC",
+        "throttling",
+        "ISP regulation"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "00:39:00",
+      "kind": "content",
+      "title": "ACLU, COPA and SOPA opposition",
+      "summary": "The ACLU fought the Children's Online Protection Act in court, and the Stop Online Piracy Act is described as threatening sites that link to pirated material. Critics saw both as tools for government censorship.",
+      "topics": [
+        "ACLU",
+        "COPA",
+        "SOPA",
+        "copyright piracy",
+        "anti-censorship advocacy"
+      ]
+    },
+    {
+      "start": "00:39:00",
+      "end": "00:39:30",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Brief sponsor mention that includes a joke about the World Book Encyclopedia.",
+      "topics": [
+        "sponsor"
+      ]
+    },
+    {
+      "start": "00:39:30",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Internet kill switches and SOP 303",
+      "summary": "The hosts discuss the so-called internet kill switch, DHS Standard Operating Procedure 303, its origins in the 2005 London bombings, the 2011 BART cell phone shutdown in San Francisco, and Egypt's shutdown during 2011 protests. A pending EPIC lawsuit seeks transparency.",
+      "topics": [
+        "internet kill switch",
+        "SOP 303",
+        "BART shutdown",
+        "Egypt internet shutdown",
+        "DHS emergency powers",
+        "EPIC lawsuit"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:41:40",
+      "kind": "listener_mail",
+      "title": "Listener mail: honeymoon flight",
+      "summary": "A listener from Seattle describes a noisy Russian triplets flight to Maui and a drunk passenger on the return flight, and thanks the hosts for helping them stay calm.",
+      "topics": [
+        "listener mail",
+        "honeymoon",
+        "airplane travel"
+      ]
+    },
+    {
+      "start": "00:41:40",
+      "end": "00:42:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Hosts give social media and email contact info and sign off.",
+      "topics": [
+        "show outro",
+        "contact info"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13726,
+    "output_tokens": 3437
+  }
+}

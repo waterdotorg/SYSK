@@ -1,0 +1,301 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2024-10-03_The_Strange_Story_of_Lysol_44min.txt",
+  "title": "The Strange Story of Lysol",
+  "date": "2024-10-03",
+  "duration": "44 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/the-strange-story-of-lysol",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e59b03df-54c1-429b-8369-b1fd00fd6bcb/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e59b03df-54c1-429b-8369-b1fd00fd6bcb/transcript?format=TextWithTimestamps&t=1727882800",
+  "summary": "Hosts Josh and Chuck trace the history of Lysol, the disinfectant brand. They explain how disinfectants work at the cellular level (quaternary ammonium compounds, or quats, and alcohol combined), noting contact time matters. Lysol was invented in 1889 by German chemist Gustav Rappenstrunk (spelled as the hosts say it, \"Gustav Roppenstrouk\" was a mishearing; the hosts settle on the spelling used in their discussion), originally a cresol-based product sold to medical professionals, then criticized by the AMA in 1912. Lysol was remarketed for home use and as a douche and contraceptive, a practice that was widely used through the 1930s-1960s despite being dangerous and ineffective, and ended when the birth control pill arrived. Later history covers formula changes, the FTC, COVID-19 pandemic sales boom, CDC endorsement, the hygiene hypothesis and old friends hypothesis linking over-disinfecting to autoimmune disease, debate over chronic low-level exposure and ingredient disclosure legislation, far-UV germicidal light, and a listener mail segment from a physician fan.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Lysol",
+    "history of Lysol",
+    "disinfectants",
+    "how disinfectants work",
+    "quats",
+    "quaternary ammonium compounds",
+    "benzalkonium chloride",
+    "cresol",
+    "Lysol as contraceptive",
+    "douching",
+    "feminine hygiene marketing",
+    "1930s birth control ads",
+    "hygiene hypothesis",
+    "old friends hypothesis",
+    "autoimmune disease",
+    "over-disinfecting",
+    "COVID-19 disinfectant sales",
+    "far-UV germicidal light",
+    "disinfectant ingredient disclosure bill",
+    "AMA Council on Pharmacy and Chemistry",
+    "Comstock Act",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Lysol",
+      "type": "organization"
+    },
+    {
+      "name": "Lysol douche contraceptive advertising",
+      "type": "event"
+    },
+    {
+      "name": "Gustav Rappenstrunk",
+      "type": "person"
+    },
+    {
+      "name": "Graham Rook",
+      "type": "person"
+    },
+    {
+      "name": "Kristen Hall",
+      "type": "person"
+    },
+    {
+      "name": "Larry Bucshon",
+      "type": "person"
+    },
+    {
+      "name": "Comstock Act",
+      "type": "work"
+    },
+    {
+      "name": "American Medical Association",
+      "type": "organization"
+    },
+    {
+      "name": "Federal Trade Commission",
+      "type": "organization"
+    },
+    {
+      "name": "CDC",
+      "type": "organization"
+    },
+    {
+      "name": "Clorox",
+      "type": "organization"
+    },
+    {
+      "name": "California disinfectant ingredient disclosure law",
+      "type": "work"
+    },
+    {
+      "name": "Sylvia Plath",
+      "type": "person"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:01:10",
+      "kind": "intro",
+      "title": "Opening and listener suggestion",
+      "summary": "Hosts introduce the episode, a listener suggestion from Holland about the history of Lysol, and thank writer Kyle Hookstra.",
+      "topics": [
+        "Lysol",
+        "listener suggestion"
+      ]
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:03:00",
+      "kind": "content",
+      "title": "Lysol's market and purpose of disinfecting",
+      "summary": "Lysol is described as a leading disinfectant brand, with sales spiking during the COVID-19 pandemic. The hosts explain why people disinfect surfaces and that the episode is not a takedown.",
+      "topics": [
+        "Lysol sales",
+        "COVID-19 disinfectant sales",
+        "germ theory"
+      ]
+    },
+    {
+      "start": "00:03:00",
+      "end": "00:08:20",
+      "kind": "content",
+      "title": "How disinfectants work",
+      "summary": "Disinfectants disrupt microbes' outer layers. Lysol's quats (quaternary ammonium compounds, including benzalkonium chloride) combined with alcohol denature proteins and cells. Concentration and contact time matter, and wipes often need minutes to work.",
+      "topics": [
+        "how disinfectants work",
+        "quats",
+        "benzalkonium chloride",
+        "alcohol disinfectant",
+        "contact time",
+        "minimum inhibitory concentration"
+      ]
+    },
+    {
+      "start": "00:08:20",
+      "end": "00:11:00",
+      "kind": "content",
+      "title": "Origins of Lysol and early medical use",
+      "summary": "Lysol was invented in 1889 by German chemist Gustav Rappenstrunk, originally a cresol-and-soap product for medical professionals, used for cleaning wounds. The name's etymology is uncertain. Cresol was less poisonous than carbolic acid but still caustic.",
+      "topics": [
+        "Lysol invention 1889",
+        "cresol",
+        "carbolic acid",
+        "medical antiseptics history",
+        "etymology of Lysol"
+      ]
+    },
+    {
+      "start": "00:11:00",
+      "end": "00:13:20",
+      "kind": "content",
+      "title": "1912 AMA criticism and repositioning for home use",
+      "summary": "The AMA Council on Pharmacy and Chemistry in 1912 raised concerns about burns from Lysol. Lynn and Fink, the makers, shifted marketing to home use and to women's reproductive health.",
+      "topics": [
+        "AMA Council on Pharmacy and Chemistry",
+        "Lysol marketing shift",
+        "Lynn and Fink"
+      ]
+    },
+    {
+      "start": "00:13:20",
+      "end": "00:16:40",
+      "kind": "content",
+      "title": "Lysol as a contraceptive douche",
+      "summary": "Lysol was marketed as a feminine hygiene douche and effectively became the most common US contraceptive from the 1930s through the 1960s, though illegal contraceptive marketing forced coded language. The hosts note douching kills beneficial vaginal bacteria, creating the problems it claimed to solve.",
+      "topics": [
+        "Lysol douche",
+        "contraception history",
+        "Comstock Act",
+        "feminine hygiene marketing",
+        "douching"
+      ]
+    },
+    {
+      "start": "00:16:40",
+      "end": "00:19:50",
+      "kind": "content",
+      "title": "Lysol contraceptive ads and dangers",
+      "summary": "Historian Kristen Hall's review of ads showed exploitative messages about marriage and sex. A 1933 study found about half of 507 women using Lysol as a douche became pregnant. Doctors Sarah Greenberg and Rachel Lynn Palmer criticized it, and the product caused injuries, poisonings, and was used in illegal abortions.",
+      "topics": [
+        "Lysol ads",
+        "1933 Lysol contraceptive study",
+        "Lysol poisoning",
+        "illegal abortion cresol"
+      ]
+    },
+    {
+      "start": "00:19:50",
+      "end": "00:21:10",
+      "kind": "content",
+      "title": "Decline of Lysol as contraceptive",
+      "summary": "Use of Lysol as a contraceptive ended in the 1960s, around when the birth control pill became legal and widespread, rather than because of safety warnings.",
+      "topics": [
+        "birth control pill",
+        "end of Lysol contraception"
+      ]
+    },
+    {
+      "start": "00:21:10",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Formula changes and FTC pressure",
+      "summary": "After the 1960s, Lysol spray and other products expanded. Makers changed formulas, such as replacing cresol with ortho hydroxy phenol in 1952, to reduce toxicity amid FTC rules on truthful claims.",
+      "topics": [
+        "FTC advertising rules",
+        "Lysol formula changes",
+        "ortho hydroxy phenol",
+        "disinfectant toxicity"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "kind": "content",
+      "title": "COVID-19 boom and CDC recommendation",
+      "summary": "Disinfectant sales surged during COVID-19, with Lysol's sales up about 12 percent and reports of poisonings. Lysol's quat formula was tested by the CDC and recommended for killing the virus, boosting sales.",
+      "topics": [
+        "COVID-19 disinfectant poisonings",
+        "CDC Lysol recommendation",
+        "pandemic sales boom"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:31:00",
+      "kind": "content",
+      "title": "Hygiene hypothesis and old friends hypothesis",
+      "summary": "The hosts discuss over-disinfecting possibly harming immune development. Autoimmune and allergy rates are higher in the West, and Graham Rook's old friends hypothesis argues for exposure to diverse microbes. A Finnish, Estonian, and Russian stool-sample study is cited. Chuck shares anecdotal family experience.",
+      "topics": [
+        "hygiene hypothesis",
+        "old friends hypothesis",
+        "Graham Rook",
+        "autoimmune disease",
+        "type 1 diabetes",
+        "food allergies",
+        "gut microbiome"
+      ]
+    },
+    {
+      "start": "00:31:00",
+      "end": "00:35:00",
+      "kind": "content",
+      "title": "Chronic exposure concerns and ingredient disclosure bill",
+      "summary": "Disinfectants are toxic depending on concentration, with concentrates more dangerous than ready-to-use spray. Chronic low-level exposure is understudied. Indiana Representative Larry Bucshon's federal bill would preempt California's ingredient-disclosure law; Lysol's maker supports it while Clorox opposes it.",
+      "topics": [
+        "chronic low-level exposure",
+        "disinfectant ingredient disclosure",
+        "Larry Bucshon bill",
+        "California disinfectant law",
+        "Clorox"
+      ]
+    },
+    {
+      "start": "00:35:00",
+      "end": "00:38:10",
+      "kind": "content",
+      "title": "Far-UV germicidal light and alcohol-water disinfection",
+      "summary": "Far-UV germicidal light can kill airborne germs without penetrating skin or eyes, but can create ozone. Alcohol with water is more effective against viruses than alcohol alone.",
+      "topics": [
+        "far-UV germicidal light",
+        "GUV",
+        "UV ozone",
+        "alcohol and water disinfection"
+      ]
+    },
+    {
+      "start": "00:38:10",
+      "end": "00:40:20",
+      "kind": "content",
+      "title": "Personal germ habits",
+      "summary": "Hosts discuss their personal hygiene habits, including hand sanitizer versus soap and paper towels in restrooms and gas stations, and reflect on germophobia after COVID-19.",
+      "topics": [
+        "hand sanitizer vs soap",
+        "germophobia",
+        "hygiene habits"
+      ]
+    },
+    {
+      "start": "00:40:20",
+      "end": "00:43:30",
+      "kind": "listener_mail",
+      "title": "Listener mail from Adam",
+      "summary": "A physician listener named Adam thanks the hosts, describing how the show accompanied him through school, residency, and driving to hospitals. The hosts respond warmly and sign off with the show's credits.",
+      "topics": [
+        "listener mail",
+        "fan mail"
+      ]
+    },
+    {
+      "start": "00:43:30",
+      "end": "00:44:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits noting Stuff You Should Know is a production of iHeartRadio.",
+      "topics": [
+        "credits"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 15145,
+    "output_tokens": 3786
+  }
+}

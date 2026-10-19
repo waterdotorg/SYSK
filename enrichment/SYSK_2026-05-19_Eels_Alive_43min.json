@@ -1,0 +1,330 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2026-05-19_Eels_Alive_43min.txt",
+  "title": "Eels Alive!",
+  "date": "2026-05-19",
+  "duration": "43 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/eels-alive",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59283f59-b74c-4a81-909e-b44f0008baae/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/59283f59-b74c-4a81-909e-b44f0008baae/transcript?format=TextWithTimestamps&t=1779151003",
+  "summary": "Josh and Chuck (with iHeart Intro speaker) explore eels: what defines an eel (order Anguilliformes, about 800 species), how eels swim, moray eels and their jaws and teeth, garden eels, gulper eels, the eel as food in Japan and medieval Europe and the Americas, eels used as currency, and the long-standing mystery of eel reproduction solved through work by Carlo Mondini, Freud, Eugène Bataillon, Giovanni Battista Grassi, Johannes Schmidt, and the Sargasso Sea spawning discovery by Rosalind Wright's team. They close with eel conservation (IUCN Red List status, population declines, dams, aquaculture relying on wild glass eels, Maine elvers fishery) and a listener mail about homemade baking soda and coconut oil deodorant.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "eels",
+    "moray eels",
+    "garden eels",
+    "gulper eel",
+    "ribbon eel",
+    "European conger",
+    "electric eel",
+    "eel reproduction mystery",
+    "Sargasso Sea",
+    "eel spawning",
+    "eel metamorphosis",
+    "glass eels",
+    "elvers",
+    "leptocephalus larvae",
+    "eel as food",
+    "unagi",
+    "eel currency",
+    "eel conservation",
+    "eel population decline",
+    "Maine elver fishery",
+    "eel aquaculture",
+    "magnetite navigation",
+    "baking soda deodorant",
+    "listener mail"
+  ],
+  "entities": [
+    {
+      "name": "Sargasso Sea",
+      "type": "place"
+    },
+    {
+      "name": "Maine",
+      "type": "place"
+    },
+    {
+      "name": "Sigmund Freud",
+      "type": "person"
+    },
+    {
+      "name": "Carlo Mondini",
+      "type": "person"
+    },
+    {
+      "name": "Johannes Schmidt",
+      "type": "person"
+    },
+    {
+      "name": "Rosalind Wright",
+      "type": "person"
+    },
+    {
+      "name": "Eugène Bataillon",
+      "type": "person"
+    },
+    {
+      "name": "Giovanni Battista Grassi",
+      "type": "person"
+    },
+    {
+      "name": "Carlsberg Foundation",
+      "type": "organization"
+    },
+    {
+      "name": "International Union for Conservation of Nature",
+      "type": "organization"
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "type": "work"
+    },
+    {
+      "name": "David Byrne",
+      "type": "person"
+    },
+    {
+      "name": "Monty Python",
+      "type": "work"
+    },
+    {
+      "name": "Hong Kong",
+      "type": "place"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening banter and David Byrne inspiration",
+      "summary": "Hosts chat about recent books and films, and credit David Byrne's book and videos as the inspiration for the episode on eels.",
+      "topics": [
+        "David Byrne",
+        "episode origin"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:00",
+      "kind": "content",
+      "title": "What defines an eel",
+      "summary": "Eels are members of the order Anguilliformes, with about 20 families, 111 genera and over 800 species, ranging from about four inches to twelve feet. Electric eels are not true eels but knifefish.",
+      "topics": [
+        "eel classification",
+        "Anguilliformes",
+        "electric eel"
+      ]
+    },
+    {
+      "start": "00:04:00",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Eel anatomy, swimming and slime",
+      "summary": "Eels lack pelvic fins and swim in a wave-like motion, can swim backward by reversing the wave, and have slime coating that aids swimming and regulates water in the body. Eels also undergo metamorphosis.",
+      "topics": [
+        "eel swimming",
+        "eel slime",
+        "eel metamorphosis",
+        "eel anatomy"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:10",
+      "kind": "content",
+      "title": "Magnetic navigation and eel migration",
+      "summary": "Eels migrate long distances to spawning areas and are thought to use magnetite in their bodies to navigate, though this is not proven.",
+      "topics": [
+        "eel migration",
+        "magnetite navigation"
+      ]
+    },
+    {
+      "start": "00:08:10",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Moray eels and garden eels",
+      "summary": "Moray eels, about 200 species making up roughly a quarter of eels, hide in coral holes and have a second set of pharyngeal jaws. They show teeth because they lack opercula and pump water through their mouths. Their bites are painful due to mucus-related and toxin effects. Garden eels live in colonies in sand and feed on plankton.",
+      "topics": [
+        "moray eel",
+        "pharyngeal jaws",
+        "moray eel bite",
+        "garden eel",
+        "opercula"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:14:10",
+      "kind": "content",
+      "title": "Conger eel and largest eels",
+      "summary": "The European conger is deep-water and is the heaviest eel; the largest recorded weighed 242 pounds.",
+      "topics": [
+        "European conger",
+        "heaviest eel",
+        "deep-sea eels"
+      ]
+    },
+    {
+      "start": "00:14:10",
+      "end": "00:16:10",
+      "kind": "ad",
+      "title": "Josh Clark Calculates website plug",
+      "summary": "Brandon Reid's website Josh Clark Calculates lets users compare measurements using everyday objects.",
+      "topics": [
+        "Josh Clark Calculates",
+        "Brandon Reid"
+      ]
+    },
+    {
+      "start": "00:16:10",
+      "end": "00:18:10",
+      "kind": "content",
+      "title": "Gulper eels and deep-sea species",
+      "summary": "Gulper eels, also called pelican eels, live five to ten thousand feet deep and have a huge jaw that can unhinge and work as a scoop.",
+      "topics": [
+        "gulper eel",
+        "pelican eel",
+        "deep sea fish"
+      ]
+    },
+    {
+      "start": "00:18:10",
+      "end": "00:23:10",
+      "kind": "content",
+      "title": "Eels as food in Japan and North America",
+      "summary": "Freshwater eels are nutritious and were a major food source; unagi is popular in Japan and was one of the Edo period's big four foods. Indigenous peoples in northeastern North America also ate eels, preserved by smoking and salting.",
+      "topics": [
+        "unagi",
+        "eel nutrition",
+        "Edo period food",
+        "indigenous eel fishing",
+        "smoked eel"
+      ]
+    },
+    {
+      "start": "00:23:10",
+      "end": "00:26:40",
+      "kind": "content",
+      "title": "Eels in medieval Europe and currency",
+      "summary": "Europeans trapped eels in willow traps; dried eels were used as currency and to pay rent in England, and were popular during fasting seasons. Mention of a To Kill a Mockingbird scene.",
+      "topics": [
+        "medieval eel trade",
+        "eel currency",
+        "fasting food",
+        "willow eel traps"
+      ]
+    },
+    {
+      "start": "00:26:40",
+      "end": "00:29:50",
+      "kind": "content",
+      "title": "Early eel reproduction theories and Mondini and Freud",
+      "summary": "Ancient people had theories about eel reproduction since no one saw eggs. In 1777 Carlo Mondini located eel ovaries; Sigmund Freud later searched for and identified eel testes in 1876.",
+      "topics": [
+        "eel reproduction history",
+        "Carlo Mondini",
+        "Sigmund Freud",
+        "eel gonads"
+      ]
+    },
+    {
+      "start": "00:29:50",
+      "end": "00:31:50",
+      "kind": "content",
+      "title": "Life cycle stages and leptocephalus larvae",
+      "summary": "Eel life stages include glass eel, elver, yellow eel and silver eel. Leptocephalus willow-leaf larvae were misidentified as a separate fish until a French researcher raised one through metamorphosis.",
+      "topics": [
+        "glass eel",
+        "elver",
+        "leptocephalus",
+        "eel life cycle"
+      ]
+    },
+    {
+      "start": "00:31:50",
+      "end": "00:34:10",
+      "kind": "content",
+      "title": "Giovanni Battista Grassi and Schmidt's Sargasso search",
+      "summary": "An Italian zoologist observed metamorphosis in the wild. Johannes Schmidt, funded by the Carlsberg Foundation, traced larvae across the Atlantic and in 1912 proposed the Sargasso Sea as the breeding ground.",
+      "topics": [
+        "Johannes Schmidt",
+        "Carlsberg Foundation",
+        "Sargasso Sea",
+        "eel spawning theory"
+      ]
+    },
+    {
+      "start": "00:34:10",
+      "end": "00:37:00",
+      "kind": "content",
+      "title": "Sargasso Sea and eel spawning confirmed",
+      "summary": "The Sargasso Sea is a calm, warm, saline gyre in the Atlantic. A European team led by Rosalind Wright confirmed in 2018 that eels spawn there. Japanese eels spawn near the Mariana Ridge; African longfin eels in the Indian Ocean. Eels migrate from European rivers across the Atlantic, similar to salmon, with the term catadromous.",
+      "topics": [
+        "Sargasso Sea",
+        "Rosalind Wright",
+        "catadromous",
+        "eel spawning grounds",
+        "Mariana Ridge"
+      ]
+    },
+    {
+      "start": "00:37:00",
+      "end": "00:40:10",
+      "kind": "content",
+      "title": "Eel conservation and the fishery",
+      "summary": "The IUCN lists European eels as critically endangered and American, Japanese and New Zealand longfin eels as endangered. Eel populations fell over 90 percent since the 1970s due to dams, turbines, overfishing, wetland loss and pollution. Eels are farmed by capturing wild glass eels. Maine is the only state with a glass eel fishery, with about 425 licensed elvermen shipping to Hong Kong.",
+      "topics": [
+        "eel conservation",
+        "IUCN red list",
+        "eel population decline",
+        "eel aquaculture",
+        "Maine elver fishery",
+        "Hong Kong eel trade"
+      ]
+    },
+    {
+      "start": "00:40:10",
+      "end": "00:41:00",
+      "kind": "content",
+      "title": "Wrap-up and eel vocabulary",
+      "summary": "Hosts joke about the term antepenultimate and say they will stop eating American and European eels.",
+      "topics": [
+        "antepenultimate",
+        "eel consumption"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:42:50",
+      "kind": "listener_mail",
+      "title": "Listener mail on baking soda deodorant",
+      "summary": "Listener Alex follows up on a baking soda and coconut oil deodorant recipe, suggesting cornstarch as a neutral diluent to reduce skin irritation and noting coconut oil stains clothing.",
+      "topics": [
+        "homemade deodorant",
+        "baking soda",
+        "coconut oil",
+        "cornstarch",
+        "listener mail"
+      ]
+    },
+    {
+      "start": "00:42:50",
+      "end": "00:43:20",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "Closing credits and promotion of iHeartRadio podcasts.",
+      "topics": [
+        "iHeartRadio"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 17961,
+    "output_tokens": 3724
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2008-06-26_How_Death-Proof_Cars_Work_6min.txt",
+  "title": "How Death-Proof Cars Work",
+  "date": "2008-06-26",
+  "duration": "6 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-death-proof-cars-work",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/5cf1a9eb-940c-452d-a61e-ae2800c3d592/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5cf1a9eb-940c-452d-a61e-ae2800c3d592/transcript?format=TextWithTimestamps&t=1700544006",
+  "summary": "Josh Clark and Candice Gibson discuss the 2007 film Death Proof and its stuntman Mike's death-proofed Nova, then turn to real-world safety research. A European Commission-backed group, PReVENT, aims to halve auto accidents in Europe by 2020, and Volvo has pledged to build an injury-proof car that relies on digital safety systems rather than the driver. They explain driver panic and reaction delays in collisions, then survey existing features such as blind spot detection, collision prevention, self-tightening seatbelts, and brake assist, and describe future cars that would brake or steer automatically. The episode closes with a plug for the related HowStuffWorks article \"Can a car Really be Death Proof?\"",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "death proof cars",
+    "Death Proof movie",
+    "stuntman Mike",
+    "injury-proof cars",
+    "PReVENT",
+    "European Commission auto safety",
+    "Volvo safety research",
+    "collision avoidance",
+    "automatic braking",
+    "automatic steering collision avoidance",
+    "blind spot detection",
+    "self-tightening seatbelts",
+    "driver panic in collisions",
+    "reaction time in crashes",
+    "vehicle safety technology",
+    "car crash prevention",
+    "brake assist"
+  ],
+  "entities": [
+    {
+      "name": "Death Proof",
+      "type": "work"
+    },
+    {
+      "name": "stuntman Mike",
+      "type": "person"
+    },
+    {
+      "name": "PReVENT",
+      "type": "organization"
+    },
+    {
+      "name": "European Commission",
+      "type": "organization"
+    },
+    {
+      "name": "Volvo",
+      "type": "organization"
+    },
+    {
+      "name": "Ghostbusters",
+      "type": "work"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:01:30",
+      "kind": "intro",
+      "title": "Opening banter and Death Proof movie",
+      "summary": "Josh and Candice open the show, shout out a listener, and introduce the episode topic of death-proof cars. Josh describes stuntman Mike's death-proofed 1970 Chevy Nova from the movie Death Proof.",
+      "topics": [
+        "Death Proof movie",
+        "stuntman Mike",
+        "death proof cars"
+      ]
+    },
+    {
+      "start": "00:01:30",
+      "end": "00:02:45",
+      "kind": "content",
+      "title": "PReVENT and Volvo's injury-proof car goal",
+      "summary": "Candice describes the European Commission-backed PReVENT research group, which aims to reduce auto accidents in Europe by 50 percent by a target year. Volvo has pledged to build an injury-proof car that relies on digital systems rather than the driver.",
+      "topics": [
+        "PReVENT",
+        "European Commission auto safety",
+        "Volvo safety research",
+        "injury-proof cars"
+      ]
+    },
+    {
+      "start": "00:02:45",
+      "end": "00:03:45",
+      "kind": "content",
+      "title": "Driver panic and reaction time",
+      "summary": "The hosts explain the fight-or-flight response that freezes drivers in emergencies. They note that in many rear-end collisions drivers never apply the brakes, and that drivers take about 1.1 seconds before doing anything in an impending collision.",
+      "topics": [
+        "driver panic in collisions",
+        "fight or flight",
+        "reaction time in crashes"
+      ]
+    },
+    {
+      "start": "00:03:45",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Existing and future car safety features",
+      "summary": "Josh lists current luxury-car safety features including blind spot detection, collision prevention systems, self-tightening seatbelts, and brake pressure assist. He explains that the injury-proof car would combine these to brake and steer automatically, using sensors to be aware of its surroundings.",
+      "topics": [
+        "blind spot detection",
+        "collision prevention systems",
+        "self-tightening seatbelts",
+        "automatic braking",
+        "automatic steering collision avoidance"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:06:00",
+      "kind": "outro",
+      "title": "Article plug and sign-off",
+      "summary": "Josh points listeners to the HowStuffWorks article 'Can a car Really be Death Proof?' and invites feedback at the podcast email address before the sign-off.",
+      "topics": [
+        "HowStuffWorks article",
+        "death proof cars"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 3372,
+    "output_tokens": 1486
+  }
+}

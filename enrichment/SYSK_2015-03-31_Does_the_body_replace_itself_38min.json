@@ -1,0 +1,213 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2015-03-31_Does_the_body_replace_itself_38min.txt",
+  "title": "Does the body replace itself?",
+  "date": "2015-03-31",
+  "duration": "38 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/does-the-body-replace-itself",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/6d2ec4f0-166b-486a-8c34-ae28008fc8d0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6d2ec4f0-166b-486a-8c34-ae28008fc8d0/transcript?format=TextWithTimestamps&t=1700543861",
+  "summary": "Josh and Chuck (with guest producer Noel) explore whether the human body replaces itself. They open with the Ship of Theseus-style thought experiment and lifespan trends (average lifespan rising about three months per year). They explain the old rumor that the body fully regenerates every year, the pulse-labeling origins of that idea, and Jonas Frisén's carbon-14 dating work showing most cells are about 7 to 10 years old. A primer on cells follows (membranes, mitochondria, ATP, amino acids and proteins, and the exchange of molecules with the environment), with turnover rates by tissue: skin, gut lining, red blood cells, bone, liver, and the corneal and cerebral cortex cells, which are set early or regenerate little. They cover why we age and die (senescence, the Hayflick limit, inflammation, DNA copying errors) and the heart's partial cell renewal. They close with a philosophical digression on life's purpose and read three listener emails about grammar.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "cell regeneration",
+    "does the body replace itself",
+    "body renewal",
+    "cell turnover",
+    "carbon-14 dating",
+    "bomb pulse carbon 14",
+    "Jonas Frisén",
+    "cell senescence",
+    "Hayflick limit",
+    "why we age",
+    "why we die",
+    "aging theory",
+    "human lifespan",
+    "average life expectancy",
+    "cerebral cortex neurogenesis",
+    "heart muscle regeneration",
+    "liver regeneration",
+    "stem cells",
+    "cell structure",
+    "mitochondria",
+    "amino acids",
+    "ship of Theseus",
+    "listener mail",
+    "grammar"
+  ],
+  "entities": [
+    {
+      "name": "Jonas Frisén",
+      "type": "person"
+    },
+    "Elizabeth Gould",
+    "Nina Stromeyer",
+    "Leonard Hayflick",
+    {
+      "name": "Elizabeth Gould",
+      "type": "person"
+    },
+    {
+      "name": "Nina Stromeyer",
+      "type": "person"
+    },
+    {
+      "name": "Hayflick limit",
+      "type": "other"
+    },
+    {
+      "name": "carbon-14",
+      "type": "other"
+    },
+    {
+      "name": "pulse labeling",
+      "type": "other"
+    },
+    {
+      "name": "Karolinska Institute",
+      "type": "organization"
+    },
+    {
+      "name": "Ship of Theseus",
+      "type": "other"
+    },
+    {
+      "name": "Princeton University",
+      "type": "organization"
+    },
+    {
+      "name": "Rapamycin",
+      "type": "other"
+    },
+    {
+      "name": "Alzheimer's disease",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:01",
+      "end": "00:05:30",
+      "kind": "intro",
+      "title": "Opening banter and the ship thought experiment",
+      "summary": "Hosts chat about a Hawks game and then introduce the Ship of Theseus-style idea that a ship or house replaced piece by piece may no longer be the same, linking it to how cells in the body are replaced over a lifetime.",
+      "topics": [
+        "ship of Theseus",
+        "body renewal",
+        "personal identity"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:05:30",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Lifespan trends and the body-regenerates-yearly rumor",
+      "summary": "Average lifespan has risen about three months per year, from roughly 47 to 50 in 1901 to about 78.8 in 2012 in the US. They describe the long-standing rumor that the body regenerates itself every year and its basis in pulse labeling with radioactive isotopes.",
+      "topics": [
+        "human lifespan",
+        "average life expectancy",
+        "pulse labeling",
+        "body regenerates every year myth"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:10:30",
+      "end": "00:16:00",
+      "kind": "content",
+      "title": "Carbon-14 dating shows cell ages",
+      "summary": "Jonas Frisén used the carbon-14 spike from 1954 to 1963 nuclear testing, recorded in tree rings, as a calendar to date cells. The findings show most body cells are about seven to ten years old, since carbon-14 in DNA divides as cells divide.",
+      "topics": [
+        "carbon-14 dating",
+        "bomb pulse carbon 14",
+        "Jonas Frisén",
+        "cell age"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:16:00",
+      "end": "00:22:00",
+      "kind": "content",
+      "title": "Primer on cells and nutrition",
+      "summary": "Cells have membranes, nuclei, and mitochondria that produce ATP. Food is broken down into components like amino acids, which build proteins and are reused. Hosts note that what we take in becomes part of us and what we exhale becomes part of the environment.",
+      "topics": [
+        "cell structure",
+        "mitochondria",
+        "ATP",
+        "amino acids",
+        "proteins",
+        "metabolism"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:22:00",
+      "end": "00:28:00",
+      "kind": "content",
+      "title": "Turnover rates by tissue",
+      "summary": "Skin renews every two to four weeks, the gut lining about every five days, red blood cells about 120 days, bones roughly over ten years, and the liver can regrow after losing most of its mass. Corneal cells form in the embryo and stay with a person for life, and cerebral cortex cells were long thought not to regenerate, with some regeneration found in the olfactory bulb and hippocampus. Elizabeth Gould's work is mentioned.",
+      "topics": [
+        "cell turnover",
+        "skin regeneration",
+        "liver regeneration",
+        "bone renewal",
+        "cerebral cortex neurogenesis",
+        "corneal cells",
+        "Elizabeth Gould",
+        "hippocampus",
+        "Alzheimer's disease"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:28:00",
+      "end": "00:34:00",
+      "kind": "content",
+      "title": "Why we age and die",
+      "summary": "Aging cells reach senescence and stop dividing, sending false repair signals that cause inflammation. The Hayflick limit, around fifty divisions for fibroblasts, is discussed, along with the photocopy-of-a-photocopy analogy for DNA copying errors. A drug called rapamycin is mentioned as a possible way to stop the false signals. Heart muscle renewal is about one percent per year at age 25, falling below half a percent by 75, so about half the heart's muscle cells are exchanged in a lifetime.",
+      "topics": [
+        "why we age",
+        "cell senescence",
+        "Hayflick limit",
+        "inflammation and aging",
+        "rapamycin",
+        "heart muscle regeneration",
+        "DNA damage and aging"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:34:00",
+      "end": "00:36:00",
+      "kind": "content",
+      "title": "Philosophical digression on life's purpose",
+      "summary": "Josh and Chuck reflect on whether life is just a means of recycling carbon if living things are only exchanging molecules with the environment, and conclude that the purpose question is open and that making the most of the time we have matters.",
+      "topics": [
+        "purpose of life",
+        "carbon cycle",
+        "philosophy"
+      ]
+    },
+    {
+      "name": "",
+      "start": "00:36:00",
+      "end": "00:38:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on grammar",
+      "summary": "Three listeners write in about grammar: noun-verb agreement with 'there are', the use of 'further' versus 'farther', and pronunciation of place names such as Salisbury and Marlborough Downs. The hosts respond and sign off.",
+      "topics": [
+        "listener mail",
+        "grammar",
+        "pronunciation"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 12384,
+    "output_tokens": 2549
+  }
+}

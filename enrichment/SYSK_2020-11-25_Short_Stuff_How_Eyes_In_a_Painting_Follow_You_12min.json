@@ -1,0 +1,139 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-11-25_Short_Stuff_How_Eyes_In_a_Painting_Follow_You_12min.txt",
+  "title": "Short Stuff: How Eyes In a Painting Follow You",
+  "date": "2020-11-25",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-how-eyes-in-a-painting-follow-you",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9f084072-4405-45f3-80a2-ae28002963c8/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9f084072-4405-45f3-80a2-ae28002963c8/transcript?format=TextWithTimestamps&t=1700543607",
+  "summary": "Short Stuff episode explaining why the eyes in a painting seem to follow a viewer around the room. The hosts tie it to the earlier Mona Lisa discussion and cover linear perspective, which Filippo Brunelleschi stumbled onto in Italy; depth cues from light and shadow; why painting eyes that gaze straight out is hard (the roughly nine-degree sweet spot); why real people and sculptures don't produce the effect when you move around them; and a 2004 study using a digitally rendered mannequin torso image to show the effect is real perception, not a trick of the viewer.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "eyes in a painting follow you",
+    "Mona Lisa eyes",
+    "optical illusion",
+    "linear perspective",
+    "Brunelleschi",
+    "Renaissance art",
+    "depth perception in painting",
+    "light and shadow in art",
+    "painting portraits",
+    "gaze direction",
+    "2004 mannequin perspective study",
+    "art illusions",
+    "Short Stuff"
+  ],
+  "entities": [
+    {
+      "name": "Mona Lisa",
+      "type": "work"
+    },
+    {
+      "name": "Filippo Brunelleschi",
+      "type": "person"
+    },
+    {
+      "name": "Baptistery of San Giovanni",
+      "type": "place"
+    },
+    {
+      "name": "linear perspective",
+      "type": "other"
+    },
+    {
+      "name": "2004 mannequin study",
+      "type": "event"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Opening and setup",
+      "summary": "The hosts introduce the topic as a follow-up to an earlier Mona Lisa episode and say the eyes-following effect is easy to understand but hard to explain.",
+      "topics": [
+        "Mona Lisa eyes",
+        "eyes in a painting follow you"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Linear perspective and Brunelleschi",
+      "summary": "Linear perspective is described as lines in a painting converging to a single point, credited to the Italian architect Filippo Brunelleschi, who worked on the Baptistery in Florence. Earlier flat art, such as Egyptian painting, relied on size alone to show distance.",
+      "topics": [
+        "linear perspective",
+        "Brunelleschi",
+        "Renaissance art",
+        "depth perception in painting"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:05:30",
+      "kind": "content",
+      "title": "Light, shadow, and illusion of depth",
+      "summary": "Light and shadow are described as additional ways to suggest a third dimension on a flat surface, which is an optical illusion.",
+      "topics": [
+        "light and shadow in art",
+        "illusion of depth",
+        "optical illusion"
+      ]
+    },
+    {
+      "start": "00:05:30",
+      "end": "00:07:30",
+      "kind": "content",
+      "title": "Difficulty of painting eyes that meet the viewer",
+      "summary": "The hosts explain that painting eyes that look at the viewer is very hard, and that a head turned about nine degrees from the canvas makes it easier, while tilted heads make it harder because of how much white and iris show.",
+      "topics": [
+        "painting portraits",
+        "gaze direction",
+        "painting eyes"
+      ]
+    },
+    {
+      "start": "00:07:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Why real people and statues don't do this",
+      "summary": "Moving around a live person or a sculpture changes your perspective and gives your brain new visual cues, so their eyes do not appear to follow you. A painting's depth cues are fixed, so its gaze stays the same from any angle.",
+      "topics": [
+        "eyes in a painting follow you",
+        "statues and gaze",
+        "depth cues"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:11:20",
+      "kind": "content",
+      "title": "2004 mannequin study and gaze illusion",
+      "summary": "A 2004 study by researchers used a digitally rendered image of a mannequin torso to show that the eyes-following effect is how the viewer perceives the image, not an error on the viewer's part. The hosts also say a painted gaze that is off to the side creates a sense of looking into the distance.",
+      "topics": [
+        "2004 mannequin perspective study",
+        "gaze illusion",
+        "perception research"
+      ]
+    },
+    {
+      "start": "00:11:20",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts recap that painted eyes look the same from any angle, so they seem to follow the viewer, and close the episode.",
+      "topics": [
+        "Short Stuff"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 4883,
+    "output_tokens": 1595
+  }
+}

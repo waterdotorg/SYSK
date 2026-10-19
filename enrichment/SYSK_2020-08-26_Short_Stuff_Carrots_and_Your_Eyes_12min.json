@@ -1,0 +1,143 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-08-26_Short_Stuff_Carrots_and_Your_Eyes_12min.txt",
+  "title": "Short Stuff: Carrots and Your Eyes",
+  "date": "2020-08-26",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-carrots-and-your-eyes",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/fd8f012c-0fe2-4751-b15c-ae28002f6f4e/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fd8f012c-0fe2-4751-b15c-ae28002f6f4e/transcript?format=TextWithTimestamps&t=1700543615",
+  "summary": "Short Stuff episode on whether carrots really improve eyesight. Josh and Chuck debunk the \"carrots help you see in the dark\" idea, recounting the WWII British RAF \"Cat's Eyes\" propaganda story about pilot John Cunningham, which covered up radar technology. They then explain that carrots help eye health because beta carotene converts to vitamin A, which prevents vitamin A deficiency eye problems such as xerophthalmia and may help stave off macular degeneration. Lutein and zeaxanthin in carrots and dark leafy greens are also mentioned. Brief tangents cover baby carrots, bleaching, and sweetbreads, and the hosts plug their book Stuff You Should Know Colon.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "carrots and eyesight",
+    "carrots good for your eyes",
+    "night vision myth",
+    "Cat's Eyes WWII propaganda",
+    "John Cunningham RAF pilot",
+    "radar cover story",
+    "beta carotene",
+    "vitamin A deficiency",
+    "xerophthalmia",
+    "macular degeneration",
+    "lutein",
+    "zeaxanthin",
+    "dark leafy greens",
+    "baby carrots",
+    "food waste",
+    "sweetbreads",
+    "beta carotene foods",
+    "eye health diet"
+  ],
+  "entities": [
+    {
+      "name": "John Cunningham",
+      "type": "person"
+    },
+    {
+      "name": "Cat's Eyes",
+      "type": "other"
+    },
+    {
+      "name": "Royal Air Force",
+      "type": "organization"
+    },
+    {
+      "name": "Stuff You Should Know Colon",
+      "type": "work"
+    },
+    {
+      "name": "beta carotene",
+      "type": "other"
+    },
+    {
+      "name": "macular degeneration",
+      "type": "other"
+    },
+    {
+      "name": "xerophthalmia",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:03:30",
+      "kind": "intro",
+      "title": "Opening banter and carrot habits",
+      "summary": "Hosts joke about carrots, the kids' rhyme about carrots and eyes, and their habits of eating raw carrots and washing vegetables. They preview that carrots help eyes but are not a cure.",
+      "topics": [
+        "carrots and eyesight",
+        "eating raw carrots"
+      ]
+    },
+    {
+      "start": "00:03:30",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Cat's Eyes WWII propaganda",
+      "summary": "Josh recalls claiming as a kid that carrots let him see at night. Chuck and Josh describe the British RAF story about fighter pilot John Cunningham, nicknamed Cat's Eyes, credited to a carrot diet. The hosts say it was false propaganda meant to hide radar technology.",
+      "topics": [
+        "night vision myth",
+        "Cat's Eyes WWII propaganda",
+        "John Cunningham RAF pilot",
+        "radar cover story"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "Baby carrots and bleaching",
+      "summary": "The hosts discuss baby carrots, which they say are bleached and wasteful because they are made from carrots that were cut down to size. They mention food waste and a planned future Short Stuff on baby carrots.",
+      "topics": [
+        "baby carrots",
+        "food waste",
+        "bleaching produce"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:30",
+      "kind": "content",
+      "title": "Beta carotene and vitamin A eye health",
+      "summary": "Beta carotene is described as the orange pigment, a precursor to vitamin A, found in carrots, sweet potatoes, cantaloupe, mango, pumpkin, and apricot. Vitamin A deficiency can cause xerophthalmia, dry eyes, corneal ulcers, and is a leading cause of blindness in the developing world. Beta carotene may help protect against macular degeneration.",
+      "topics": [
+        "beta carotene",
+        "vitamin A deficiency",
+        "xerophthalmia",
+        "macular degeneration",
+        "beta carotene foods"
+      ]
+    },
+    {
+      "start": "00:10:30",
+      "end": "00:11:30",
+      "kind": "content",
+      "title": "Lutein and food sources",
+      "summary": "Lutein and zeaxanthin are mentioned as antioxidants in carrots that help the macula. Dark leafy greens such as kale and Swiss chard are suggested as sources. Other beta carotene foods like cheese, egg yolks, and liver are mentioned briefly.",
+      "topics": [
+        "lutein",
+        "zeaxanthin",
+        "dark leafy greens",
+        "macula"
+      ]
+    },
+    {
+      "start": "00:11:30",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Sign-off and book plug",
+      "summary": "The hosts recommend eating raw carrots and plug their book Stuff You Should Know Colon, then close the show.",
+      "topics": [
+        "Stuff You Should Know Colon"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5150,
+    "output_tokens": 1716
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2009-06-09_How_did_Nikola_Tesla_change_the_way_we_use_energy_26min.txt",
+  "title": "How did Nikola Tesla change the way we use energy?",
+  "date": "2009-06-09",
+  "duration": "26 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-did-nikola-tesla-change-the-way-we-use-energy",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0d0181a5-bc48-4131-b5e6-ae2800be96b0/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0d0181a5-bc48-4131-b5e6-ae2800be96b0/transcript?format=TextWithTimestamps&t=1700543985",
+  "summary": "Hosts Josh Clark and Chuck Bryant explain the rivalry between Thomas Edison's direct current (DC) and Nikola Tesla's alternating current (AC), and how AC won out. They cover how transformers let AC travel long distances with less loss, Tesla's patents and his backing by Peck, Brown and George Westinghouse, Edison's public campaign against AC (including animal electrocutions and the execution of William Kemmler in 1890), Westinghouse winning the 1893 Chicago World's Fair lighting bid, the Niagara Falls hydro plant, and Tesla's unrealized wireless-transmission vision backed by JP Morgan. The episode closes with a listener mail dream story from Ruth in England.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "Nikola Tesla",
+    "Thomas Edison",
+    "alternating current",
+    "direct current",
+    "AC vs DC war",
+    "current wars",
+    "transformers",
+    "George Westinghouse",
+    "Westinghouse Electric",
+    "Chicago World's Fair lighting 1893",
+    "William Kemmler electrocution",
+    "electric chair",
+    "Niagara Falls hydroelectric plant",
+    "wireless transmission",
+    "JP Morgan",
+    "Marconi",
+    "electricity history",
+    "listener mail",
+    "Brooklyn Dodgers name",
+    "Topsy the elephant electrocution",
+    "Peck and Brown",
+    "three phase power"
+  ],
+  "entities": [
+    {
+      "name": "Nikola Tesla",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Edison",
+      "type": "person"
+    },
+    {
+      "name": "George Westinghouse",
+      "type": "person"
+    },
+    {
+      "name": "William Kemmler",
+      "type": "person"
+    },
+    {
+      "name": "JP Morgan",
+      "type": "person"
+    },
+    {
+      "name": "Guglielmo Marconi",
+      "type": "person"
+    },
+    {
+      "name": "Grover Cleveland",
+      "type": "person"
+    },
+    {
+      "name": "Peck and Brown",
+      "type": "person"
+    },
+    {
+      "name": "Topsy the elephant",
+      "type": "other"
+    },
+    {
+      "name": "Chicago World's Fair (Columbian Exposition)",
+      "type": "event"
+    },
+    {
+      "name": "Niagara Falls hydroelectric plant",
+      "type": "place"
+    },
+    {
+      "name": "Westinghouse Electric",
+      "type": "organization"
+    },
+    {
+      "name": "General Electric",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:30",
+      "kind": "intro",
+      "title": "Opening banter and Dodgers trivia",
+      "summary": "The hosts open with banter and a trivia question about how the Brooklyn Dodgers got their name, tying it to trolley wires and Edison's electric lighting.",
+      "topics": [
+        "Brooklyn Dodgers name",
+        "trolley wires",
+        "opening banter"
+      ]
+    },
+    {
+      "start": "00:02:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Edison and direct current",
+      "summary": "Edison's electric lighting and his commitment to direct current are described, including DC's losses over long distances and its steady, one-way flow.",
+      "topics": [
+        "Thomas Edison",
+        "direct current",
+        "DC transmission losses",
+        "incandescent light bulb"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:30",
+      "kind": "content",
+      "title": "Alternating current and the two inventors",
+      "summary": "Alternating current is explained as a sine-wave current that reverses about sixty times per second. Edison is described as a stubborn showman and businessman, while Tesla is described as an inventor who was a poor businessman.",
+      "topics": [
+        "alternating current",
+        "sixty cycles",
+        "Nikola Tesla",
+        "Edison vs Tesla"
+      ]
+    },
+    {
+      "start": "00:08:30",
+      "end": "00:12:00",
+      "kind": "content",
+      "title": "Tesla's patents and the transformer",
+      "summary": "Tesla filed patents for an AC system after arriving in the US. The hosts explain how transformers step voltage up for long-distance transmission and back down for homes, which reduces the copper needed.",
+      "topics": [
+        "transformers",
+        "stepping up voltage",
+        "high-voltage transmission",
+        "Tesla patents",
+        "copper wire costs"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:15:00",
+      "kind": "content",
+      "title": "Westinghouse backs Tesla",
+      "summary": "Financial backers Peck and Brown brought Tesla to George Westinghouse, who agreed to pay cash, stock and royalties for his AC work. Tesla later worked for Edison, then left and dug ditches before getting backing again.",
+      "topics": [
+        "George Westinghouse",
+        "Peck and Brown",
+        "Tesla royalties",
+        "Tesla working for Edison",
+        "three phase power"
+      ]
+    },
+    {
+      "start": "00:15:00",
+      "end": "00:19:00",
+      "kind": "content",
+      "title": "Edison's campaign against AC and the Kemmler execution",
+      "summary": "Edison publicly tried to show AC was dangerous by electrocuting animals, including an elephant named Topsy. The hosts then describe the 1890 execution of William Kemmler in the electric chair, which used an AC generator and was botched.",
+      "topics": [
+        "AC dangers campaign",
+        "Topsy the elephant",
+        "William Kemmler",
+        "electric chair",
+        "electrocution history",
+        "current wars"
+      ]
+    },
+    {
+      "start": "00:19:00",
+      "end": "00:21:30",
+      "kind": "content",
+      "title": "Chicago World's Fair bid and Niagara Falls",
+      "summary": "Westinghouse won the bid to light the Chicago World's Fair by undercutting General Electric, which had bid about a million dollars largely for copper wire. Westinghouse later built a hydroelectric plant at Niagara Falls.",
+      "topics": [
+        "Chicago World's Fair 1893",
+        "Westinghouse bid",
+        "General Electric bid",
+        "Niagara Falls power plant",
+        "AC wins"
+      ]
+    },
+    {
+      "start": "00:21:30",
+      "end": "00:24:00",
+      "kind": "content",
+      "title": "Where DC is still used and Tesla's wireless vision",
+      "summary": "The hosts note that DC is still used in car batteries and locomotives. They then discuss Tesla's vision of wireless communication, which JP Morgan funded in part, and how Marconi received credit for radio despite Tesla's work.",
+      "topics": [
+        "DC still in use",
+        "Tesla wireless",
+        "JP Morgan funding",
+        "Marconi radio",
+        "Tesla legacy"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:26:00",
+      "kind": "listener_mail",
+      "title": "Listener mail: Ruth's dream",
+      "summary": "A listener named Ruth from England describes a dream about an island resort turning into a prison state, which matched a novel she later found described in a newspaper column. The hosts also mention her travel mix-up with Atlantic City.",
+      "topics": [
+        "listener mail",
+        "dream story",
+        "Atlanta",
+        "Atlantic City"
+      ]
+    },
+    {
+      "start": "00:26:00",
+      "end": "00:26:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank the listener and close the episode with a sponsor line and contact information.",
+      "topics": [
+        "sign-off",
+        "contact"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 9744,
+    "output_tokens": 2470
+  }
+}

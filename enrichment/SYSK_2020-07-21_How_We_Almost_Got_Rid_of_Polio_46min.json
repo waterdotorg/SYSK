@@ -1,0 +1,282 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2020-07-21_How_We_Almost_Got_Rid_of_Polio_46min.txt",
+  "title": "How We Almost Got Rid of Polio",
+  "date": "2020-07-21",
+  "duration": "46 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/how-we-almost-got-rid-of-polio",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/87f4fa73-6b21-4442-bce5-ae280031dc56/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/87f4fa73-6b21-4442-bce5-ae280031dc56/transcript?format=TextWithTimestamps&t=1700543620",
+  "summary": "Josh and Chuck explore the history of polio, from its ancient origins and early-20th-century epidemics to the development of the Salk inactivated vaccine (IPV) and the Sabin oral vaccine (OPV), the Dutch cost-saving cell culture work, and the current push toward eradication, including setbacks such as the CIA fake vaccination campaign. The episode also includes a book pre-order plug, a note on a recent Selects rerun about viruses, and a listener mail correction about the Byzantine Empire.",
+  "episode_kind": "full_episode",
+  "rerun_of": null,
+  "topics": [
+    "polio",
+    "poliomyelitis",
+    "poliovirus",
+    "polio eradication",
+    "polio vaccine",
+    "Salk vaccine",
+    "inactivated polio vaccine",
+    "IPV",
+    "Sabin vaccine",
+    "oral polio vaccine",
+    "OPV",
+    "iron lung",
+    "March of Dimes",
+    "polio epidemic history",
+    "vaccine associated paralytic polio",
+    "Cutter incident",
+    "CIA fake vaccination campaign",
+    "Netherlands monkey kidney cell vaccine production",
+    "vaccine history",
+    "COVID-19 comparison",
+    "Stuff You Should Know book preorder",
+    "listener mail Byzantine Empire"
+  ],
+  "entities": [
+    {
+      "name": "Polio",
+      "type": "other"
+    },
+    {
+      "name": "Poliovirus",
+      "type": "other"
+    },
+    {
+      "name": "Jonas Salk",
+      "type": "person"
+    },
+    {
+      "name": "Albert Sabin",
+      "type": "person"
+    },
+    {
+      "name": "John Franklin Enders",
+      "type": "person"
+    },
+    {
+      "name": "Thomas Huckle Weller",
+      "type": "person"
+    },
+    {
+      "name": "Frederick Chapman Robbins",
+      "type": "person"
+    },
+    {
+      "name": "Paul van Hemmert",
+      "type": "person"
+    },
+    {
+      "name": "Anton van Wezel",
+      "type": "person"
+    },
+    {
+      "name": "March of Dimes",
+      "type": "organization"
+    },
+    {
+      "name": "Central Intelligence Agency",
+      "type": "organization"
+    },
+    {
+      "name": "Pakistan",
+      "type": "place"
+    },
+    {
+      "name": "Afghanistan",
+      "type": "place"
+    },
+    {
+      "name": "Nigeria",
+      "type": "place"
+    },
+    {
+      "name": "Netherlands",
+      "type": "place"
+    },
+    {
+      "name": "Soviet Union",
+      "type": "place"
+    },
+    {
+      "name": "Byzantine Empire",
+      "type": "other"
+    },
+    {
+      "name": "Iron lung",
+      "type": "other"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:00",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Book preorder plug and episode opening",
+      "summary": "The hosts promote the upcoming Stuff You Should Know book and its preorder gift, then introduce the episode on polio as a disease nearing eradication, with endemic cases remaining in only a few countries.",
+      "topics": [
+        "Stuff You Should Know book preorder",
+        "polio eradication",
+        "polio endemic countries"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:06:30",
+      "kind": "content",
+      "title": "Polio virus, transmission and paralytic disease",
+      "summary": "The hosts distinguish poliovirus (the infection) from polio (the disease), explain fecal and saliva transmission, note that most infections are asymptomatic, and describe how a small share of cases reach the central nervous system and cause paralysis, with no cure and treatment limited to supportive care such as the iron lung.",
+      "topics": [
+        "poliovirus transmission",
+        "poliomyelitis symptoms",
+        "paralytic polio",
+        "iron lung",
+        "no cure for polio"
+      ]
+    },
+    {
+      "start": "00:06:30",
+      "end": "00:09:30",
+      "kind": "content",
+      "title": "Pop culture aside and Selects reference",
+      "summary": "Chuck and Josh joke about iron lungs in film, including The Big Lebowski and The Outsiders, and Josh mentions a recent Selects episode on viruses, Virus Talk, from March 2020.",
+      "topics": [
+        "iron lung in pop culture",
+        "Virus Talk episode reference",
+        "Selects classic episodes"
+      ]
+    },
+    {
+      "start": "00:09:30",
+      "end": "00:12:30",
+      "kind": "content",
+      "title": "Ancient history and early 20th-century epidemics",
+      "summary": "The hosts discuss the difficulty of tracing polio's origins, possible ancient evidence in Egyptian mummies, and how improved sanitation in the early twentieth century left populations unexposed, producing large outbreaks that frightened parents, especially in the US.",
+      "topics": [
+        "ancient polio",
+        "polio epidemic history",
+        "urbanization and sanitation",
+        "virgin population outbreaks"
+      ]
+    },
+    {
+      "start": "00:12:30",
+      "end": "00:16:30",
+      "kind": "content",
+      "title": "March of Dimes and Jonas Salk's vaccine",
+      "summary": "The hosts describe the outbreaks' impact on American public life, the March of Dimes founded by Franklin Roosevelt that funded research, and Jonas Salk's inactivated vaccine, which he chose not to patent. Earlier researchers and the deadly Brody and Colmer vaccine trial are also mentioned.",
+      "topics": [
+        "March of Dimes",
+        "Jonas Salk",
+        "inactivated polio vaccine",
+        "polio vaccine history",
+        "Franklin Roosevelt"
+      ]
+    },
+    {
+      "start": "00:16:30",
+      "end": "00:18:30",
+      "kind": "ad",
+      "title": "Ad break",
+      "summary": "Mid-episode break before the next segment.",
+      "topics": [
+        "sponsor break"
+      ]
+    },
+    {
+      "start": "00:18:30",
+      "end": "00:23:30",
+      "kind": "content",
+      "title": "Salk field trial and the Polio Pioneers",
+      "summary": "The hosts cover the 1954 vaccine rollout to a million children called Polio Pioneers, the double-blind test, and the group of about two hundred thousand given a live, non-inactivated vaccine, in which forty thousand developed polio and ten died. The U.S. government temporarily suspended vaccination programs, though parents largely kept vaccinating.",
+      "topics": [
+        "Polio Pioneers",
+        "1954 polio vaccine field trial",
+        "double blind trial",
+        "vaccine safety history"
+      ]
+    },
+    {
+      "start": "00:23:30",
+      "end": "00:27:30",
+      "kind": "content",
+      "title": "Sabin oral vaccine and the Cutter incident",
+      "summary": "Albert Sabin's live oral polio vaccine (OPV) on sugar cubes is described, with its low cost, testing in the Soviet Union, and wide use in the US from the early 1960s. The Cutter incident, where about two thousand children received active polio, undermined Salk's vaccine and helped OPV become the standard. The three poliovirus types are covered.",
+      "topics": [
+        "Albert Sabin",
+        "oral polio vaccine",
+        "sugar cube vaccine",
+        "Cutter incident",
+        "three poliovirus types"
+      ]
+    },
+    {
+      "start": "00:27:30",
+      "end": "00:31:30",
+      "kind": "content",
+      "title": "Risks of live vaccine and Dutch cost reduction",
+      "summary": "The hosts explain vaccine-associated paralytic polio, the risk that the live strain mutates in the gut, and the advantage of OPV in spreading immunity in poor-sanitation areas. They then describe the Netherlands researchers who grew polio on monkey kidney cells on plastic beads, cutting the need for thousands of rhesus monkeys and making IPV cheaper.",
+      "topics": [
+        "vaccine associated paralytic polio",
+        "OPV mutation risk",
+        "Netherlands monkey kidney cell culture",
+        "IPV cost reduction",
+        "rhesus monkeys in vaccine production"
+      ]
+    },
+    {
+      "start": "00:31:30",
+      "end": "00:36:30",
+      "kind": "content",
+      "title": "Eradication progress and the CIA fake vaccination campaign",
+      "summary": "The hosts explain the combined IPV and OPV strategy, the 2015 declaration that type two poliovirus was eradicated, the type three status, the difference between eradication and elimination, and case counts falling from 350,000 to 22 in 2017. They then describe how a CIA fake hepatitis C vaccination campaign used in the bin Laden search damaged trust and set back polio eradication in Nigeria, Afghanistan and Pakistan.",
+      "topics": [
+        "polio eradication vs elimination",
+        "type two poliovirus eradicated",
+        "CIA fake vaccination campaign",
+        "bin Laden hunt",
+        "polio in Nigeria Afghanistan Pakistan"
+      ]
+    },
+    {
+      "start": "00:36:30",
+      "end": "00:37:30",
+      "kind": "outro",
+      "title": "Wrap-up",
+      "summary": "The hosts close the polio discussion, noting that eradication may take another twenty years.",
+      "topics": [
+        "polio eradication timeline"
+      ]
+    },
+    {
+      "start": "00:37:30",
+      "end": "00:41:00",
+      "kind": "listener_mail",
+      "title": "Listener mail on the Byzantine Empire",
+      "summary": "Listener Conrad corrects an earlier claim in the flamethrower episode about the Byzantines being Turks, explaining they were Greek-speaking heirs of the Roman Empire who were overthrown by the Ottoman Turks in 1453.",
+      "topics": [
+        "Byzantine Empire",
+        "Greek fire",
+        "listener correction",
+        "Constantinople"
+      ]
+    },
+    {
+      "start": "00:41:00",
+      "end": "00:46:00",
+      "kind": "outro",
+      "title": "Sign-off",
+      "summary": "The hosts thank listeners for mail and remind them how to send listener mail, then sign off.",
+      "topics": [
+        "listener mail address",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 13899,
+    "output_tokens": 3272
+  }
+}

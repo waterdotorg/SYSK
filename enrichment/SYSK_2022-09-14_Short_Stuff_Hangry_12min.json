@@ -1,0 +1,150 @@
+{
+  "profile_version": 2,
+  "model": "claude-haiku-5-5",
+  "filename": "SYSK_2022-09-14_Short_Stuff_Hangry_12min.txt",
+  "title": "Short Stuff: Hangry?",
+  "date": "2022-09-14",
+  "duration": "12 minutes",
+  "episode_url": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-hangry",
+  "audio_url": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/0f427d92-ae2e-4767-8c8f-af0a00dfb3b6/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "transcript_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0f427d92-ae2e-4767-8c8f-af0a00dfb3b6/transcript?format=TextWithTimestamps&t=1700557187",
+  "summary": "Short Stuff episode on \"hanger,\" the link between hunger and anger. Josh and Chuck explain the proposed physiology: low blood glucose shuts down energy-hungry systems like self-control, and hypothalamus disruption can suppress serotonin while raising cortisol. They walk through several studies: a PNAS study of 107 couples measuring glucose and using voodoo dolls and fake volume controls; an Ohio State study linking brain glucose to self-control and aggression; a diabetes-related study; a 2018 American Psychological Association study in the journal Emotion on priming with negative images; and a European app-based study on emotion tracking and blood sugar. They close with the point that self-awareness can defuse hunger-driven irritability. The episode also includes a correction about caffeine being stated in grams instead of milligrams in the energy drinks episode.",
+  "episode_kind": "short_stuff",
+  "rerun_of": null,
+  "topics": [
+    "hanger",
+    "hunger and anger",
+    "blood sugar and mood",
+    "low blood glucose",
+    "serotonin",
+    "cortisol",
+    "hypothalamus",
+    "self-control and glucose",
+    "aggression and hunger",
+    "voodoo doll study",
+    "priming study Emotion journal",
+    "emotion tracking app study",
+    "self-awareness and anger",
+    "energy drinks caffeine correction"
+  ],
+  "entities": [
+    {
+      "name": "Nickelback",
+      "type": "organization"
+    },
+    {
+      "name": "HowStuffWorks",
+      "type": "organization"
+    },
+    {
+      "name": "PNAS",
+      "type": "organization"
+    },
+    {
+      "name": "Emotion",
+      "type": "work"
+    },
+    {
+      "name": "American Psychological Association",
+      "type": "organization"
+    },
+    {
+      "name": "Ohio State University",
+      "type": "organization"
+    }
+  ],
+  "segments": [
+    {
+      "start": "00:00:04",
+      "end": "00:02:10",
+      "kind": "intro",
+      "title": "Introduction to hanger",
+      "summary": "The hosts introduce hanger as a real phenomenon tied to the body's fuel. They outline the proposed mechanisms: low blood glucose shuts down systems including self-control, and hypothalamus disruption can lower serotonin and raise cortisol. They also correct an earlier caffeine figure from the energy drinks episode.",
+      "topics": [
+        "hanger",
+        "blood sugar and mood",
+        "serotonin",
+        "cortisol",
+        "hypothalamus",
+        "energy drinks caffeine correction"
+      ]
+    },
+    {
+      "start": "00:02:10",
+      "end": "00:02:20",
+      "kind": "ad",
+      "title": "Sponsor break",
+      "summary": "Brief ad break transition.",
+      "topics": [
+        "advertising"
+      ]
+    },
+    {
+      "start": "00:02:20",
+      "end": "00:04:30",
+      "kind": "content",
+      "title": "Voodoo doll and volume studies",
+      "summary": "A PNAS study of 107 couples measured blood glucose twice daily and had participants stick pins in voodoo dolls of partners; hungrier participants used more pins and turned up music volume in a fake-control setup. The hosts note the correlational limits and joke about Nickelback.",
+      "topics": [
+        "voodoo doll study",
+        "PNAS",
+        "hunger and aggression",
+        "couples and blood glucose"
+      ]
+    },
+    {
+      "start": "00:04:30",
+      "end": "00:06:00",
+      "kind": "content",
+      "title": "Glucose, self-control and diabetes studies",
+      "summary": "An Ohio State study linked brain glucose to self-control, finding people who drank a high-glucose beverage were less aggressive. Another study tied diabetes and glucose metabolism to aggressiveness and reduced self-control. The hosts question whether sugary drinks are advisable and whether people with type two diabetes are more prone to hanger.",
+      "topics": [
+        "self-control and glucose",
+        "Ohio State study",
+        "diabetes and aggression",
+        "glucose metabolism"
+      ]
+    },
+    {
+      "start": "00:06:00",
+      "end": "00:08:00",
+      "kind": "content",
+      "title": "2018 priming study in Emotion",
+      "summary": "An American Psychological Association study in the journal Emotion showed about 400 online participants negative, positive, or neutral images, then an ambiguous image, and asked for ratings and hunger levels. Hungry people rated the ambiguous image more negatively, but mainly after seeing a negative image first.",
+      "topics": [
+        "priming study",
+        "Emotion journal",
+        "American Psychological Association",
+        "hunger and negative interpretation"
+      ]
+    },
+    {
+      "start": "00:08:00",
+      "end": "00:10:00",
+      "kind": "content",
+      "title": "European emotion-tracking app study",
+      "summary": "A European study had people log emotions five times a day for three weeks in an app alongside eating habits, concluding that a large share of irritability coincided with low blood sugar. The hosts relate it to their own experiences, with Chuck noting Emily is more affected by hunger than he is.",
+      "topics": [
+        "emotion tracking app",
+        "irritability and blood sugar",
+        "personal anecdotes hanger"
+      ]
+    },
+    {
+      "start": "00:10:00",
+      "end": "00:12:00",
+      "kind": "outro",
+      "title": "Self-awareness and sign-off",
+      "summary": "The hosts conclude that hunger lowers self-control, but self-awareness can defuse hunger-driven anger, as shown in studies where people who recognized their hunger were less likely to lash out. They close the episode with the standard sign-off.",
+      "topics": [
+        "self-awareness and anger",
+        "defusing anger",
+        "sign-off"
+      ]
+    }
+  ],
+  "usage": {
+    "input_tokens": 5159,
+    "output_tokens": 1865
+  }
+}
