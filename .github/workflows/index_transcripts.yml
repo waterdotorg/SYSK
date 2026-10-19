@@ -9,10 +9,7 @@ name: Index transcripts (offline)
 # Requires repo secret: PINECONE_API_KEY
 
 on:
-  schedule:
-    # Weekly, Mondays at 08:00 UTC. SYSK publishes through the week; this keeps
-    # the index fresh without touching the whole backlog each run.
-    - cron: "0 8 * * 1"
+  # Schedule moved to weekly_update.yml (which also runs this indexer). Manual runs only.
   workflow_dispatch:
     inputs:
       limit:

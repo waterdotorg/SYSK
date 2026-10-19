@@ -295,7 +295,11 @@ def keyword_heavy_episodes(question, min_chunks=2, limit=25):
     return ranked[:limit]
 
 
-def run(question, max_episodes=80, use_dense=True, log=print):
+def run(question, max_episodes=80, use_dense=True, log=print, hs=None):
+    """Run the full pipeline. Pass an existing search_v2.HybridSearch as hs to reuse its
+    loaded model and connections (the web app does this)."""
+    global USAGE
+    USAGE = Usage()  # per-run cost tracking
     t0 = time.time()
     cat = er.catalog()
     log(f"1/5 Scanning {len(cat)} episode profiles...")
@@ -307,7 +311,7 @@ def run(question, max_episodes=80, use_dense=True, log=print):
     log("2/5 Hybrid-search safety net...")
     try:
         import search_v2
-        hs = search_v2.HybridSearch(use_dense=use_dense)
+        hs = hs or search_v2.HybridSearch(use_dense=use_dense)
         hits = [r["filename"] for r in hs.search(question, n_episodes=20)]
     except Exception as e:
         log(f"    (skipped: {e})")
